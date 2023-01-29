@@ -1,0 +1,242 @@
+Quinze glaçons d'hidrogen
+El pòdcast de llengua i tecnologia de Softcatalà, amb Aleix Vidal
+Vinga, vinga, aneu passant, aneu passant, que la taverna s'omple.
+Sembla que no, però ja som a l'episodi 9.
+Nou episodis i algun especial que han anat omplint aquesta temporada, aquesta primera temporada del Quinze glaçons d'hidrogen.
+És el pòdcast de llengua i tecnologia de Softcatalà.
+El vam començar un any estrany, l'acabem un any que encara continua sent estrany, l'acabem, aquesta temporada.
+Podríem dir que és l'últim episodi, però ens reservarem aquest adjectiu d'últim, perquè a l'estiu a Softcatalà passen coses, passen coses, i en parlarem a la barra.
+Avui a la barra hi ha molta gent, per cert, però abans d'arribar a la barra farem l'aperitiu d'actualitat com sempre amb l'Artur, que hem recuperat aquest episodi 9.
+Entrarem al rebost digital amb en Xavi Ivars, que ens presenta algun programa relacionat amb el correu.
+Pararem la taula amb una de les millors veus de Softcatalà.
+I la tapa de refranys que ve assenyalada pel santoral que ens porta aquest final de juny.
+Encarant aquest estiu, que esperem que sigui gaudible per tothom, només ens queda recordar-vos on ens podeu sentir, a les principals plataformes de pòdcasts, Spotify, Google Pòdcasts, iTunes, etc. i també al nostre web softcatala.org.
+I res més, comencem amb aquest episodi 9 que, per cert, hem anomenat Fluor Fluctuant.
+Som-hi!
+L'aperitiu d'actualitat
+Doncs si recuperem l'Artur, aquesta vegada el tenim amb nosaltres per repassar una mica l'actualitat.
+Hola Artur, com estàs?
+Hola Aleix, com estem?
+Doncs a veure, què ens portes avui de pica a pica, una mica? Què tenim?
+Doncs avui porto només titulars, perquè la veritat és que repassant l'actualitat del mes de juny ha sigut un poc, per al meu entendre, un poc escàs.
+Es nota que s'acosten les vacances i el ritme frena de notícies, això passa.
+El juliol a l'agost passa més, però al juny ja ho hem començat a notar, si més no pel que fa a tecnologia i llengua.
+A veure, va, explica'ns, explica'ns.
+Però alguna coseta n'hi ha, sí, alguna cosa n'hi ha.
+Jo, per exemple, vaig llegir l'altre dia que la Linux Foundation ha creat una espècie d'organització amb tecnològiques grans per a lluitar per fer estàndards de la tecnologia de la veu.
+Perquè ara mateix és una tecnologia emergent, com ja sabeu, al nostre programa ens encanta parlar d'això.
+És una tecnologia que encara no té definit un estàndard que totes les empreses puguin seguir, cadascú fa lo seu i cadascú té les seves històries.
+I el que estan intentant és posar-ho tot en comú perquè la tecnologia que es desenvolupi a partir de quan pugui ser, de ser un futur proper, sigui més unitària.
+Les empreses puguin accedir a estàndards del món tecnològic de la veu i no ser que tot un folló d'històries.
+Això per la majoria de mortals, això dels estàndards, és allò que cada empresa no creï els seus sistemes i els seus formats i que després no ens entenguin i que sigui un caos, sinó que hi hagi una mica un estàndard.
+A més a més, entenc, si darrere hi ha la fundació Linux és que seran estàndards oberts i que, per tant, es podran construir tecnologies de veu a sobre d'uns estàndards que tothom podrà compartir.
+Exacte.
+Per exemple, posant un exemple que a lo millor estic dient una barbaritat, però per exemple si el Common Voice crea un model de llengua en un format determinat, aquest format el puguin obrir totes les empreses que vulguin o que el puguin reaprofitar sense tindre històries de patents o formats diferents, que sigui tot utilitzable per a tothom.
+Sí, sí. Interessant, ha quedat molt clar. Doncs a veure a veure en què es va concretant això. Molt bé.
+I a veure què més tenim per aquí al guió?
+Doncs ara no podem dir notícies d'actualitat tecnològica sense comentar la gran notícia del mes, que és que han publicat o presentat el Windows 11, més presentat que publicat, perquè han fet la gran presentació del nou sistema operatiu de Windows i només puc comentar-ho per damunt.
+Com encara no es pot provar, només pels beta-testers i tal. Esperem que el que sigui amb nosaltres, el nostre cas d'ús, si està en català o no.
+Això ens interessa.
+Clar, si el Windows 11 imagine que continuarà tenint el paquet de llengua en català. De fet, pel que han vist, uns companys ens han comentat que fins ara teníem un paquet de llengua per aplicar al català.
+Sí, perdona, però jo pel que sé fins ara els Windows des del Windows 7, jo com a mínim recordo el Windows 7, potser el Vista també, s'havien d'aplicar com un petit pegat, un paquet instal·lat sobre un sistema Windows en un altre idioma.
+A més a més al principi no sempre podia ser qualsevol idioma. Havia de ser l'espanyol, el francès, crec.
+Exacte, sí, tenia que ser com una espècie de paquet derivat de la llengua principal base del sistema, que poguera catalanitzar un poc el sistema.
+I això ha anat canviant perquè crec que ara pots aplicar el paquet de llengua catalana, o almenys amb Windows 10 es podia aplicar sobre qualsevol altre idioma principal.
+Hi ha uns idiomes de segona.
+Sí, de fet...
+Canvia de cara al Windows 11 o no?
+Sí, sembla que n'hi ha unes poques llengües, el català, el gallec, l'euskera i unes altres poques més, que han passat a ser una categoria de language pack un poquet com superior, diguem.
+Com que ja no depenen o ja no són tan secundàries en el sistema d'aplicació de les traduccions del sistema.
+Que esperarem a veure el Windows 11, de testejar-ho nosaltres i de veure si es pot fer o no es pot fer o si és fàcil o no.
+Però bé, això del paquet de llengua és la base del Catalanitzador de Softcatalà, que quan l'executes ell va als servidors de Microsoft i baixa el paquet de llengua i l'instal·la.
+Sí, que moltes vegades ens diuen que el Catalanitzador no m'ha traduït no sé què del Windows.
+No és culpa del catalanitzador ni de Softcatalà ni del Jordi Mas, que és el que desenvolupa el Catalanitzador, sinó que la qüestió és que els llocs on va a buscar la traducció, allò està fet, en aquest cas de Windows, per Microsoft, el paquet de llengua.
+Per tant, les coses que hi ha traduïdes és qüestió de Microsoft, no és de Softcatalà en aquest cas.
+Exacte, ens llevem les mans.
+Exacte, a veure què ens porta Windows 11\. Diguéssim que internament, hem parlat una mica, no hi ha gaires esperances que canviï res.
+La idea seria que qualsevol producte informàtic sortís amb el català de sèrie sense haver de deprendre de paquets ni de pegats ni d'altres llengües, però sabem que això, per qüestions comercials i altres tipus de qüestions, moltes vegades no és així.
+En un producte tan gros com és un sistema operatiu, doncs a vegades passa això, que s'ha d'afegir aquest pegat.
+Tot sigui dit, Ubuntu, Debian i mil variants de Linux porten el català com una llengua com la que més grossa, instal·lable des del principi, però vaja, en el cas de sistemes operatius privatius no passa tant.
+Llàstima.
+Que s'entengui com una invitació a utilitzar sistemes operatius lliures, des d'aquí no podem fer una altra cosa que fomentar-ho, però evidentment també comentem que el Windows 11 sembla que seguirà incloent el català.
+I esperem que no canvie.
+Esperem.
+I per últim volies comentar alguna coseta més, una qüestió més interna, més pròpia de Softcatalà.
+Sí, jo volia donar a conèixer el treball que està fent Jordi Mas, que sempre és molt interessant saber en què està ficat,
+perquè sempre està fent eines sobre el català, tecnològiques.
+No para, no para.
+Sí, sí, el seu cavet està sempre maquinant i ara està treballant, suposo que ja podem dir-ho perquè ell ho ha anunciat per Twitter també, un servei que esperem que vagi bé i que puguem ficar oficialment al nostre web, que és de resum de textos.
+Resum de textos, en el sentit en el que tu fiques un text llarg dels paràgrafs que siguin o les frases que siguin, li dius quantes frases té que tindre el resum...
+No em diguis.
+I és un model neuronal que intenta entendre el significat del text...
+No pot ser.
+...i traure un resum, extraient les frases que no són importants i quedant-se només en les frases que tenen el cos del significat del missatge.
+Perdona, això és molt fort.
+Ja no estem parlant ni de traduir ni de corregir, estem parlant que una màquina...
+Ja sé que això de les xarxes neuronals i la intel·ligència artificial és molt potent perquè n'hem parlat bastant i realment...
+Però m'estàs dient que una màquina pot llegir un text, entendre el concepte principal i esporgar les frases que són sobreres, diguéssim?
+Clar, la idea és això, que entrenem un model neuronal amb molts textos i resums corresponents de manera que aprengui el tema i la part principal del text i la idea principal i eliminar totes les frases que no siguin rellevants.
+Déu-n'hi-do.
+De totes maneres és un sistema que està en fase de proves, podeu accedir, deixarem les notes del programa, el fil de Twitter que va fer el Jordi Mas i l'enllaç si voleu trastejar en el sistema de resum de textos, però hem d'avisar que és un sistema encara en proves i en desenvolupament que potser no serà perfecte.
+Tu l'has provat ja?
+Sí, jo l'he provat.
+I què?
+Jo al principi pensava que feia un resum sense reaprofitar res, però no, el que fa és extraure el que no és important.
+I la veritat és que ho fa prou bé, em va sorprendre molt la manera que té de mostrar només les frases que tenen sentit des del text, que no és que lleve aleatòriament el que vulgui ell, es queda amb les idees bases.
+Escolta, auguro que l'edat mitjana de visites a la web de Softcatalà, si engeguem aquest servei, pot baixar la mitja d'edat, perquè em sembla que aquí hi ha molt estudiant d'institut i potser una mica més que els hi aniria com anell al dit.
+Estic segur que els professors, si això es popularitza entre els estudiants, els professors trauran un mètode de detectar els resums del Softcatalà.
+Jo crec que, si més no aquí al Principat, jo crec que la Xarxa Telemàtica Educativa de Catalunya ens banejarà directament el domini.
+Des dels ordinadors d'Educació, per mi que posaràs Softcatala.org i et dirà Error 404.
+És molt probable.
+Esclar, escolta, fes-me un resum del llibre que heu llegit aquest trimestre, i pam, el tens en text electrònic, el poses a Softcatalà i et surt un resum.
+Bueno, a veure, a veure com evoluciona aquesta tecnologia.
+Encara està molt tendra i veurem si la cosa tira endavant, que segur que sí.
+Exacte, i a veure si en podem parlar amb el Jordi Mas un dia que ens expliqui una miqueta tot com funciona i cap on tirarà.
+Molt bé, doncs escolta, bé, per ser juny i anar perdent notícies, anar tenint menys notícies, déu-n'hi-do, les que hem comentat són força interessants.
+Moltes gràcies, Artur. Ens veiem aquest estiu, a veure si coincidim per antena o per on sigui.
+Vinga, gràcies, fins després.
+Adéu.
+I després d'aquest tastet d'actualitat, acostem-nos cap al rebost, perquè en Xavi em sembla que ens té preparada una sorpresa interessant, sobretot pels que estem tan mal acostumats al correu web, als clients web de correu. Passeu, passeu cap al rebost.
+El rebost digital
+Avui vos parlem del Thunderbird.
+El Thunderbird és un client de correu lliure de codi obert i gratuït, disponible tant per a Windows, Linux i Mac.
+És un dels projectes que desenvolupa i ofereix l'associació Mozilla, així com el Firefox o el Common Voice. I també és un dels programes als quals hi tenim una estima especial, ja que, com el Firefox, va néixer a partir del codi del primer programa que vam traduir fa més de 20 anys, el navegador.
+El Thunderbird té una gran quantitat d'opcions de personalització. Incorpora les característiques més útils que pot necessitar un client de correu electrònic avui dia. Filtres de missatges, gestió del correu brossa amb autoaprenentatge i moltes altres.
+Tot això juntament amb les opcions a les quals podem estar més habituats, com ara la cerca de missatges o una llibreta d'adreces personals. A més, compta amb diverses opcions de privadesa que us permeten protegir l'accés als vostres correus, així com protegir-vos de la pesca electrònica, phishing, o d'enllaços i imatges maliciosos. A més a més, el Thunderbird, igual que el navegador Firefox, disposa d'un gestor de complements integrat que us possibilitarà ampliar les seves funcions, afegint eines útils, personalitzacions, etc.
+També es pot accedir als complements a través del seu lloc web, però al gestor integrat us apareixeran directament les compatibles amb el vostre Thunderbird.
+Si voleu participar del projecte de traducció, vos deixem com fer-ho a les notes del programa.
+I no ens movem de Benissa, perquè avui al Parem Taula tenim a la Belén. Reconeixereu la seva veu de ben segur.
+Parem Taula
+Doncs sí, a la que diu Parem Taula. La Belén
+Hola, soc Belén Ivars o Berlem, i soc membre de Softcatalà des de desembre de 2019.
+Jo arribo perquè el meu germà ja és membre, Xavi Ivars, i bé, jo en aquell moment estava en l'atur, estava reconvertint-me a l'entorn digital i duia diverses xarxes, i bé, en aquest aspecte faltava com un poc eixe perfil en Softcatalà, així que el meu germà em va convidar a col·laborar i la resta va estar d'acord.
+Així que des que estic ací m'encarregue d'això de les xarxes, de fer arribar les notes de premsa, de tractar de sistematitzar un poquet la comunicació de Softcatalà, i ahí estem posant GIFs.
+I bé, i si he de triar un plat d'arròs, i bé, a mi l'arròs podria menjar-ne tots els dies, no tindria problema, però si n'he de triar un, crec que em quede amb l'arròs caldós, l'arròs melós, en el meu cas, l'arròs caldós amb conill i cigrons.
+Doncs déu-n'hi-do aquest arròs, abans, però jo faria passar una mica de refranys d'en Josep, eh, que sí?
+Doncs vinga, som-hi!
+Una tapa de refranys, amb Josep Closa
+Idò, amb aquest temps beníssim, on els dies són llargs, afrontant ses revetlles de Sant Joan i Sant Pere, entremig cal no descurar ses obligacions.
+Com trobareu a la Paremiologia Catalana Comparada Digital d'en Víctor Pàmies: blat, sardines i fesols us reclamen.
+Per Sant Joan, les garbes al camp. Per Sant Pere, les garbes a l'era.
+De Sant Joan a Sant Pere, cala la xarxa sardinera. De Sant Joan a Sant Pere, la setmana fesolera.
+Perquè hi ha coses que no poden esperar, que després de ploure, prou que plou, però pel que plou, plou poc.
+Si plou per Sant Pere, trenta dies al darrere.
+Però, malgrat que el jorn sigui laboriós, la nit efímera requereix foc per a llevar-se.
+Els focs de Sant Pere se salten per darrere i els de Sant Joan se salten per davant.
+Foc de Sant Pere, foc de Sant Joan, guardeu-nos de ronya per tot aquest any.
+Finalment, cal recordar que pagant Sant Pere canta, menys si ets català.
+Que de fa ben bé 300 anys som cornuts i paguem el beure. Apa, siau!
+A la barra
+Ens tornem a trobar a la barra, com a cada episodi, per parlar una mica d'aquestes coses que no coneixem tant de Softcatalà.
+Avui hem convidat en Xavi Ivars. Hola, Xavi.
+Hola, Aleix.
+També tenim en Jordi Mallach. Hola, Jordi, com estàs?
+Hola, què tal?
+L'Artur Vicedo. Hola, Artur.
+Hola, com estem?
+I en Josep Closa.
+Josep, com anem per aquí?
+Déu vos guard, oïdors, oïdores i no binaris. Es diu així, oi, Aleix?
+No ho sé ben bé.
+El Josep reconeixereu per la veu i pel nom, que és el nostre col·laborador de la tapa de refranys, que avui s'ha afegit aquí a la barra, per parlar una mica de com treballem Softcatalà, però sobretot quan ens trobem.
+Perquè, sobretot ara, amb l'època de Covid, diguéssim, fem molta feina online, connectats, diguéssim, sense ser presencial, però abans que hi hagués tota aquesta pandèmia ens trobàvem regularment per fer feina de forma física.
+Això, els antics ho teniu més per la mà, sobretot els que feu la feina més diària.
+Aquestes trobades mensuals, Xavi, en diem trobades de pencaires. Com anava això?
+A veure, com va? Perquè ara ho fem en línia, però abans ens trobàvem.
+Que ens trobàvem de forma mensual, o no, aquí a Barcelona, o cap allà, perquè jo estic a Barcelona, o cap a més al sud.
+Com ho feieu, això? Qui es trobava?
+Sí, hi havia trobades mensuals que no passaven tots els mesos, però ben sovint.
+Sobretot a Barcelona, perquè és on més gent que participa en Softcatalà podia ajuntar-se un dia normal.
+I les trobades, com que ja sabreu ara, per aquestes altures, Softcatalà no disposa de massa recursos, les trobades sempre eren en una cafeteria, o en un bar, o en algun ateneu, o en algun club d'escacs, o en alguna cosa així.
+I bàsicament era res, uns quants membres de Softcatalà que s'ajuntaven una vesprada per a prendre un cafè i parlar una miqueta de quines coses estaven en procés, o a quines coses calia dedicar esforços, o qui necessitava ajuda en alguna cosa.
+I bàsicament era això, una manera més directa i més personal de continuar les relacions i les converses que ja estàvem tenint per correu electrònic, sobretot.
+Clar, perquè hi ha coses que en línia es poden treballar, es poden parlar, sobretot ara, amb la missatgeria instantània, abans no, suposo que això va arribar més tard, però al principi amb les llistes de correu sempre va bé posar, no solament posar-se cares, sinó poder treballar colze a colze amb ordinador, papers o el que faci falta.
+Això, de fet, va anar, el que dius que són això, les trobades de pencaires mensuals, que no sempre eren mensuals, es va seguir fent, però va arribar un moment que, no sé com, algú va proposar, escolta, per Nadal les empreses es troben i fan sopars de Nadal, doncs escolta, perquè no fem que una d'aquestes trobades coincideixi per Nadal, i fer una miqueta més de trobar-se més gent, de fet, perquè aquestes trobades de pencaires crec que sempre han estat, doncs, amb més en petit comitè.
+Però per Nadal, ja fa anys, no? Quan va ser la primera vegada que ens vam trobar, que vam fer una trobada per Nadal?
+Que jo sàpiga va ser el 2010.
+El 2010. No sé, Jordi, si tu saps si a tu et sona.
+No, la veritat és que jo no recorde. Sé que fa molts anys, però no recorde ni com va sorgir, ni com va ser.
+Doncs el que sí que nosaltres ens en recordem, diguéssim, que el 2010 jo ho puc comprovar perquè tenim una wiki a Softcatalà on anem documentant aquestes trobades, les ordres del dia, de què parlem, qui assisteix, tot, i per tant ho pot consultar qualsevol.
+Veureu que la primera trobada de Nadal que tenim documentada era el 2010.
+I què hi fem, a aquestes trobades de Nadal?
+Perquè clar, ens trobem un matí, una tarda, per dinar, per sopar...
+Expliqueu una miqueta, va. No sé, el Josep, que últimament és el que s'encarrega d'organitzar-ho i tal.
+Per mi la trobada de Nadal jo crec que té tres fronts.
+Un primer front que és una trobada de pencaires més, el que acostuma a ser el matí del dissabte en què quedem, en la qual anem per feina.
+Després aprofitem que ens veiem aquell dia per fer l'assemblea general de l'associació Softcatalà, això ho fem a la tarda.
+En aquesta assemblea debatem els temes més formals, passem comptes, mirem com s'ha desenvolupat l'any, planifiquem les línies principals d'atac per a l'any següent, fem el canvi de junta, si s'escau, i finalment acabem doncs amb la millor part, que és un sopar amb família, amb família ampliada, perquè som els membres de Softcatalà i portem parelles, els nostres familiars, i així acabem fent xerinola tots plegats.
+Diguem que és una mica d'oxigen en el treball diari de voluntariat que els membres de Softcatalà fem per l'associació.
+Fem una mica aquest punt de trobada d'oci i la compartim amb les famílies una mica per tornar-los les hores que els hi prenem.
+Sí, i també per alguns membres que estem més lluny de Barcelona, moltes vegades és l'única oportunitat que tenim al llarg de l'any de veure els companys de Softcatalà.
+Per alguns és molt important, aquesta trobada.
+Per tots, per tots és molt important jo crec, però si ja s'entén.
+La majoria de la feina la fem sempre a distància per escrit i per correu electrònic i tal, i els que estem fora de Barcelona no ho veiem, no posem cara a ningú, ni veu pràcticament, a més per les reunions a distància, però sinó, no veuríem la cara, no ens coneixeríem.
+Són una excusa estupenda per a fer comunitat i per a fer pinya en l'associació.
+Exacte, i a més a més fa uns anys que algú se li va acudir, jo crec que va ser una idea que es va reiterar durant un parell de trobades, com a mínim, anuals de Nadal, i com que es feien a Barcelona per qüestions de comunicació i tal, que potser és més fàcil, però algú va proposar, escolta, i si ens trobéssim una mica més al sud i aprofitéssim l'estiu per fer una segona trobada anual, no?
+Com va anar això, com va anar, i en què ha esdevingut al final això?
+Crec que és una d'aquestes coses que comença com una broma, no?
+Sí, sí, sí. Estem allí superbé en el sopar de Nadal, algú diu, això ho hem de repetir en estiu, i ho dius tres vegades i al final, doncs...
+Però més al sud, al País Valencià, sí, sí, sí, al final...
+Passem l'Ebre, no?
+Una cosa que comença com una broma, i de mica en mica hi vas pensant, i li vas veient el sentit i li vas donant forma, i comences a cercar el lloc, cercar dates i anar-ho organitzant, i veus que en pot sortir una cosa molt interessant.
+Exacte, i acaba sortint una trobada que no és com la de Nadal, perquè no és només un sopar, sinó que és un petit cap de setmana, dues nits, no? Amb família, amb la família Softcatalà ampliada, com dèiem, i que això requereix una organització important, que el Josep hem de dir que és un professional de l'organització d'esdeveniments, no?
+El Jordi di tant és que és una cosa que comença mig broma, i recorde el primer any que va ser el 2019, el primer estiu que ens vam trobar, que per allà al mes de febrer, el Josep envia un correu dient «Reserveu un cap de setmana per al mes de juliol», i li dius «Què? Però que estàvem parlant en sèrio?».
+El Josep quan sent alguna idea al vol, ell l'agafa i la posa negre sobre blanc.
+Jo vaig posar fil a l'agulla i vaig dir «a veure, què en pot sortir?».
+Primer, busquem un lloc que, més o menys, estigui equidistant de tots els membres de Softcatalà, que estem molt escampadets. Per tant, doncs, un bon lloc semblava el Maestrat.
+Després busquem una casa rural o un allotjament on puguem estar tots plegats, tots junts, que puguem fer feina, que tinguem també temps de lleure, que tinguem bona connexió Wi-Fi, que compleixi uns requisits.
+Sí, sí, déu-n'hi-do. I de mica en mica va anar prenent forma això.
+I quan ja ho teníem lligat, vam acabar de mirar, descartar alguns llocs possibles, algun perquè era massa al sud o no tenia bones comunicacions per internet per poder treballar o altres motius, i al final vam trobar el nostre lloc ideal, que realment és una estada que allà on anem és com un guant per a nosaltres, perquè està molt adaptat a la nostra manera de treballar i a la grandària de Softcatalà pels membres que hi anem.
+Sí, sí, podem dir que nosaltres tenim el nostre propi sant.
+Hi ha qui parla de Sant Google, per a nosaltres el nostre sant és Sant Mateu, oi?
+Cal dir que està tan ben organitzat que fins i tot bastants dies abans perfilem els menús i tot.
+Algú vol explicar una miqueta això?
+No, doncs això el mateix que va passar amb el correu que va enviar de «reserveu un cap de setmana», quan falta un mes i mig per a la trobada, el Josep Maria envia un correu i diu «comenceu a preparar, penseu que voleu menjar».
+I clar, sincerament, quan falta un mes jo què sé què voldré menjar.
+Diumenge 25 de juliol, jo què sé!
+Comencen a volar confits d'ànec, xurrascos, sèpies...
+Ja m'ho diuen casa que em surt sempre la veta organitzadora i de vegades massa i tot.
+Però està molt bé, perquè després la veritat és que facilita molt les coses, perquè després arribem al lloc i està tot preparat.
+I acaba sent això una trobada de retorn de la feina que fem durant tot l'any, com dèiem.
+A més a més, a Sant Mateu per les famílies també és un agraïment que els hi fem una mica.
+I el primer any, de fet, amb tota la preparació esta, vam tindre una cosa curiosa.
+Una de les diferències que tenim els valencians i els catalans, és que per a nosaltres els esmorzars són coses diferents.
+És veritat! El xou dels dos esmorzars.
+El Josep Maria és d'Igualada, per ubicar.
+Clar, i va reservar un esmorzar per a una vintena de persones, o vint-i-cinc, o no ho recorde els que érem.
+Per cert, a tots els que ens esteu escoltant, si voleu tindre una... busqueu a Google «esmorzar» i feu clic al botonet d'imatges i després escriviu «esmorzar valencià» i mireu les imatges, i voreu la diferència.
+Ni continental ni merdes, eh? Valencià.
+No, no, no, esmorzar valencià.
+I clar, doncs el bar va preparar un bon esmorzar i ve a prendre la comanda i comença a preguntar què voleu i un diu, un cafè amb llet i un altre, jo un te.
+I el del bar diu, però que no veníeu a esmorzar?
+Clar, l'home estava esperant a començar a traure cerveses i a començar a traure el que es mereix.
+Entrepans per quilòmetres i cacaos i de tot.
+Clar, clar.
+I resulta que el que volíem fer nosaltres era un desdejuni, no? Com en dieu?
+Correcte, correcte.
+Sí, sí, la grandesa de les precisions lingüístiques que a vegades ens donen moments molt còmics, divertits.
+No sé si voleu comentar alguna altra cosa, aquesta trobada d'estiu, no? Que també...
+De fet, hem de dir que l'última trobada de Nadal no es va poder celebrar, evidentment, per tota la pandèmia i les circumstàncies de seguretat sanitària i tal.
+I bé, i aquest any esperem, estem esperant amb candeletes de poder, sembla que tot indica que sí, de poder fer la trobada d'estiu a Sant Mateu.
+I bé, qui sap si farem un episodi especial des d'allà del pòdcast?
+Sí, sí, estaria molt bé.
+Estaria molt bé.
+Doncs esperem a veure si ens en sortim.
+Doncs escolteu, jo crec que ha quedat força clar aquestes trobades presencials i especials que fem des de... amb els companys de Softcatalà.
+I moltes gràcies per comentar-ho aquí a la barra, com cada episodi.
+Xavi, Jordi, Artur, Josep, moltes gràcies per venir.
+Acabeu de consumir el que tingueu aquí a la barra.
+Moltes gràcies a tu, Aleix.
+I ens veiem a Sant Mateu, si tot va bé.
+Esperem-ho, esperem-ho, que la situació vagi millorant.
+Exacte.
+Ja només ens queden tres setmanetes.
+Sí, exacte. Acabem aquest juny amb aquest episodi número 9 del Quinze glaçons d'hidrogen.
+Gràcies, nois, fins aviat.
+Vinga, fins aviat.
+Adéu.
+Res més, esperem que passeu un bon estiu i que sigui refrescant, i ens traiem la mascareta tot just per demanar-li al nostre jove xef que porti whisky amb quinze glaçons d'hidrogen, coi.
+O, si vol, qualsevol altra beguda refrescant que pot ser perfectament una ratafia, un suc de taronja, un granissat de llimona, el que més us vingui de gust.
+Nosaltres estarem aquí esperant-vos amb els nostres Quinze glaçons d'hidrogen per posar-li al got.
+Adéu, a reveure.
+Quinze glaçons d'hidrogen. El pòdcast de llengua i tecnologia de Softcatalà.
