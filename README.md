@@ -2,7 +2,7 @@
 
 Softcatalà Podcasts speech recognition corpus for Catalan language. This is a collection of 6h 54m of speech.
 
-These are the [Softcatalà Podcasts](https://www.softcatala.org/podcasts/) transcribed and reviewed by human translations.
+These are the [Softcatalà Podcasts](https://www.softcatala.org/podcasts/) transcribed, and then reviewed by humans.
 
 Characteristics of the corpus:
 * Several voices (3 to 6) with different Catalan accents per episode
