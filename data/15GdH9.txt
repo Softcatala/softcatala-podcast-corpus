@@ -1,5 +1,4 @@
-Quinze glaçons d'hidrogen
-El pòdcast de llengua i tecnologia de Softcatalà, amb Aleix Vidal
+“Quinze glaçons d'hidrogen”, el pòdcast de llengua i tecnologia de Softcatalà, amb Aleix Vidal.
 Vinga, vinga, aneu passant, aneu passant, que la taverna s'omple.
 Sembla que no, però ja som a l'episodi 9.
 Nou episodis i algun especial que han anat omplint aquesta temporada, aquesta primera temporada del Quinze glaçons d'hidrogen.
@@ -13,10 +12,10 @@ I la tapa de refranys que ve assenyalada pel santoral que ens porta aquest final
 Encarant aquest estiu, que esperem que sigui gaudible per tothom, només ens queda recordar-vos on ens podeu sentir, a les principals plataformes de pòdcasts, Spotify, Google Pòdcasts, iTunes, etc. i també al nostre web softcatala.org.
 I res més, comencem amb aquest episodi 9 que, per cert, hem anomenat Fluor Fluctuant.
 Som-hi!
-L'aperitiu d'actualitat
-Doncs si recuperem l'Artur, aquesta vegada el tenim amb nosaltres per repassar una mica l'actualitat.
-Hola Artur, com estàs?
-Hola Aleix, com estem?
+“L'aperitiu d'actualitat”
+Doncs sí, recuperem l'Artur. Aquesta vegada el tenim amb nosaltres per repassar una mica l'actualitat.
+Hola, Artur, com estàs?
+Hola, Aleix, com estem?
 Doncs a veure, què ens portes avui de pica a pica, una mica? Què tenim?
 Doncs avui porto només titulars, perquè la veritat és que repassant l'actualitat del mes de juny ha sigut un poc, per al meu entendre, un poc escàs.
 Es nota que s'acosten les vacances i el ritme frena de notícies, això passa.
@@ -97,7 +96,7 @@ Moltes gràcies, Artur. Ens veiem aquest estiu, a veure si coincidim per antena 
 Vinga, gràcies, fins després.
 Adéu.
 I després d'aquest tastet d'actualitat, acostem-nos cap al rebost, perquè en Xavi em sembla que ens té preparada una sorpresa interessant, sobretot pels que estem tan mal acostumats al correu web, als clients web de correu. Passeu, passeu cap al rebost.
-El rebost digital
+“El rebost digital”
 Avui vos parlem del Thunderbird.
 El Thunderbird és un client de correu lliure de codi obert i gratuït, disponible tant per a Windows, Linux i Mac.
 És un dels projectes que desenvolupa i ofereix l'associació Mozilla, així com el Firefox o el Common Voice. I també és un dels programes als quals hi tenim una estima especial, ja que, com el Firefox, va néixer a partir del codi del primer programa que vam traduir fa més de 20 anys, el navegador.
@@ -105,16 +104,16 @@ El Thunderbird té una gran quantitat d'opcions de personalització. Incorpora l
 Tot això juntament amb les opcions a les quals podem estar més habituats, com ara la cerca de missatges o una llibreta d'adreces personals. A més, compta amb diverses opcions de privadesa que us permeten protegir l'accés als vostres correus, així com protegir-vos de la pesca electrònica, phishing, o d'enllaços i imatges maliciosos. A més a més, el Thunderbird, igual que el navegador Firefox, disposa d'un gestor de complements integrat que us possibilitarà ampliar les seves funcions, afegint eines útils, personalitzacions, etc.
 També es pot accedir als complements a través del seu lloc web, però al gestor integrat us apareixeran directament les compatibles amb el vostre Thunderbird.
 Si voleu participar del projecte de traducció, vos deixem com fer-ho a les notes del programa.
-I no ens movem de Benissa, perquè avui al Parem Taula tenim a la Belén. Reconeixereu la seva veu de ben segur.
-Parem Taula
-Doncs sí, a la que diu Parem Taula. La Belén
+I no ens movem de Benissa, perquè avui al “parem taula” tenim a la Belén. Reconeixereu la seva veu de ben segur.
+“Parem taula”
+Doncs sí, a la que diu “parem taula”. La Belén.
 Hola, soc Belén Ivars o Berlem, i soc membre de Softcatalà des de desembre de 2019.
 Jo arribo perquè el meu germà ja és membre, Xavi Ivars, i bé, jo en aquell moment estava en l'atur, estava reconvertint-me a l'entorn digital i duia diverses xarxes, i bé, en aquest aspecte faltava com un poc eixe perfil en Softcatalà, així que el meu germà em va convidar a col·laborar i la resta va estar d'acord.
 Així que des que estic ací m'encarregue d'això de les xarxes, de fer arribar les notes de premsa, de tractar de sistematitzar un poquet la comunicació de Softcatalà, i ahí estem posant GIFs.
 I bé, i si he de triar un plat d'arròs, i bé, a mi l'arròs podria menjar-ne tots els dies, no tindria problema, però si n'he de triar un, crec que em quede amb l'arròs caldós, l'arròs melós, en el meu cas, l'arròs caldós amb conill i cigrons.
 Doncs déu-n'hi-do aquest arròs, abans, però jo faria passar una mica de refranys d'en Josep, eh, que sí?
 Doncs vinga, som-hi!
-Una tapa de refranys, amb Josep Closa
+“Una tapa de refranys”, amb Josep Closa.
 Idò, amb aquest temps beníssim, on els dies són llargs, afrontant ses revetlles de Sant Joan i Sant Pere, entremig cal no descurar ses obligacions.
 Com trobareu a la Paremiologia Catalana Comparada Digital d'en Víctor Pàmies: blat, sardines i fesols us reclamen.
 Per Sant Joan, les garbes al camp. Per Sant Pere, les garbes a l'era.
@@ -126,7 +125,7 @@ Els focs de Sant Pere se salten per darrere i els de Sant Joan se salten per dav
 Foc de Sant Pere, foc de Sant Joan, guardeu-nos de ronya per tot aquest any.
 Finalment, cal recordar que pagant Sant Pere canta, menys si ets català.
 Que de fa ben bé 300 anys som cornuts i paguem el beure. Apa, siau!
-A la barra
+“A la barra”
 Ens tornem a trobar a la barra, com a cada episodi, per parlar una mica d'aquestes coses que no coneixem tant de Softcatalà.
 Avui hem convidat en Xavi Ivars. Hola, Xavi.
 Hola, Aleix.
@@ -239,4 +238,4 @@ Res més, esperem que passeu un bon estiu i que sigui refrescant, i ens traiem l
 O, si vol, qualsevol altra beguda refrescant que pot ser perfectament una ratafia, un suc de taronja, un granissat de llimona, el que més us vingui de gust.
 Nosaltres estarem aquí esperant-vos amb els nostres Quinze glaçons d'hidrogen per posar-li al got.
 Adéu, a reveure.
-Quinze glaçons d'hidrogen. El pòdcast de llengua i tecnologia de Softcatalà.
+“Quinze glaçons d'hidrogen”, el pòdcast de llengua i tecnologia de Softcatalà.
