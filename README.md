@@ -8,7 +8,7 @@ Characteristics of the corpus:
 * Several voices (3 to 6) with different Catalan accents per episode
 * Content it is about new technologies and Catalan languages
 
-Human reviewers: Aleix Vidal
+Human reviewers: Aleix Vidal, Xavier Dengra, Carles Canellas, Joan Claverol, Assumpta Anglada, Laura Humet.
 
 # License
 
