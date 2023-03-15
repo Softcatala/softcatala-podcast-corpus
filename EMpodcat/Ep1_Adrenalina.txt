@@ -1,0 +1,846 @@
+EMpodcat, el pòdcast d'urgències i emergències mèdiques en català.
+Salut, benvingudes i benvinguts al pòdcast d'urgències i emergències mèdiques en català.
+L'educat és presentar-se primer, o sigui, Xavier, si et vols presentar i explicar qui ets.
+Hola, sí, hola, bon dia, sóc en Xavier Basurto, del blog d'Urgem.cat,
+que sóc metge d'urgències de l'Hospital de Figueres i també de la USVA 606 de Figueres.
+Molt bé, i aquest qui us parla és l'Albert Homs, infermer no especialista en urgències i emergències,
+aquesta especialitat que encara no existeix ni per metges ni per infermeres.
+Ara mateix treballo a l'Hospital Transfronterer de Cerdanya
+i també a l'ambulància de suport vital, l'Alfa 602 que tenim que tenim concertada amb el SEM.
+Per aquest primer episodi tenim un parell de temes que passarem a introduir ara mateix.
+El primer tema és una publicació que heu fet al blog Urgem.cat que parla de l'anafilaxi.
+Jo la veritat és que alguna cosa sabia, evidentment, però, hòstia, l'he llegit i també em sembla que m'he quedat com tu, Xavi.
+Si ens vols explicar una miqueta què és el que dèieu en aquest...
+què teniu per explicar d'això de l'anafilaxi, perquè hi ha coses interessants,
+coses que segurament la gent no sap i que bàsicament l'adrenalina la fem servir massa poc.
+Exacte. Doncs resulta que fa unes quantes setmanes que s'ha començat a vacunar pel tema del coronavirus.
+Van sortir publicats ja al mes de desembre una sèrie d'articles parlant sobre la quantitat,
+la freqüència amb què apareixien reaccions al·lèrgiques i algunes anafilaxis a resultes d'aquestes vacunacions.
+Aleshores, ens va cridar molt l'atenció doncs que la majoria, el 90% d'aquestes anafilaxis,
+totes estaven documentades com amb tractament amb adrenalina.
+I aleshores ens va cridar l'atenció perquè normalment l'ús de l'adrenalina, almenys en el meu entorn,
+tampoc és tan freqüent.
+Aleshores, ens vam proposar, des del bloc d'urgem, repassar una miqueta el tema
+de l'anafilaxi per veure si realment ho estàvem fent bé o no ho estàvem fent bé, si estàvem infratractant-la o no.
+Aleshores, aquest apunt del bloc el que pretén és això.
+Per explicar-ho així en breu, recordar que l'anafilaxi és la forma més severa d'una reacció al·lèrgica
+i té diversos problemes, aquest problema de salut.
+El primer és que apareix de forma sobtada, de forma imprevista,
+i a més a més té una evolució superimprevisible.
+És a dir, un es pot pensar que només se li inflaran els llavis o les parpelles i ja està,
+però realment no és així. Quan comença no saps mai com acabarà.
+Aleshores, també hi ha un tercer problema i és que a vegades la clínica no és tan evident
+com ens podem imaginar, no sempre s'ha de manifestar amb un angioedema.
+Pot ser que sigui senzillament un problema gastrointestinal o un problema respiratori, pot passar desapercebut.
+Quart problema que tenim amb l'anafilaxi és que no tenim uns criteris únics per fer una sospita diagnòstica.
+Hi ha moltes societats científiques i moltes organitzacions que han provat de fer diferents
+combinacions de signes i símptomes
+per poder fer el diagnòstic, però no hi ha res establert, validat i que tothom faci servir el mateix.
+Això ens dificulta que a l'hora de posar el tractament d'elecció, que és l'adrenalina,
+sempre tinguem dubtes de si posar-la o no posar-la perquè tampoc tenim uns criteris diagnòstics claríssims.
+Una cosa, perdó que t'interrompi, però és que estava mirant i m'has dit unes quantes coses i ja està per explotar-me el cap.
+Hi ha moltes coses que són anafilaxi, però totes van amb una reacció cutània, no? O no?
+No, no totes. Evidentment, la forma més habitual d'una reacció anafilàctica
+és la manifestació típica que coneixem, un angioedema, un edema de parpelles, de les mucoses orals, d'un edema d'úvula.
+I a partir d'aquí ja comences a pensar que aquesta persona té una reacció al·lèrgica.
+Si no passa d'aquí, és una reacció al·lèrgica, un angioedema, i li pots posar el tractament que vulguis,
+un antihistamínic, un corticoide, un rato d'observació, veure que això va millorant i se'n pot anar cap a casa tranquil·lament.
+Però això pot anar a més i pot ser una anafilaxi.
+Normalment, o sigui, en conceptes generals, per dir que estem davant d'una anafilaxi,
+hi ha d'haver-hi dos òrgans o dos sistemes afectats.
+És a dir, el sistema cardiovascular, respiratori, gastrointestinal, què més?
+Com a mínim, un d'aquests ha d'estar afectat.
+D'aquests aparells o sistemes afectats, com a mínim, un d'aquests, dels dos que han d'estar afectats,
+un ha de ser el cardiovascular o el respiratori, per ser una anafilaxi.
+Però no necessàriament el dermatològic hi ha de ser-hi.
+O sigui, tu pots tindre un pacient amb un estridor, amb unes sibilàncies, amb un broncoespasme i hipotens.
+O sigui, i no té res de cutani ni de mucós.
+Té una afectació cardiovascular i una afectació respiratòria.
+Aleshores, si la sospita, clar, has de sospitar-ho per la clínica, perquè t'hagi dit que s'hagi menjat uns cacauets,
+una fruita, li hagi picat un insecte o li hagis tu, fa cinc minuts, posat un antibiòtic endovenós.
+Aleshores, en aquest cas, ràpidament, la sospita diagnòstica ja hi és.
+Per tant, en conceptes generals, per pensar que una persona té una anafilaxi, ha de tindre dos sistemes afectats.
+I d'aquests dos, un, com a mínim, un ha de ser el cardiovascular o el respiratori.
+Cardiovascular vol dir hipotensió o un xoc no compensat, que tingui taquicàrdia,
+un temps de reompliment capil·lar superior a dos o tres segons, un pols central dèbil o una disminució del nivell de consciència.
+I a nivell respiratori, molta tos, una alteració de la veu, una dificultat per respirar, un estridor, sibilàncies,
+què més, un destret respiratori. Per tant, com a mínim, el cardiovascular o el respiratori han de ser presents.
+I no pot ser un sol sistema afectat. Si només és el dermatològic, pos no ho és.
+Si només és el cardiovascular, no serà una anafilaxi.
+Aleshores, com que és una miqueta així confós, si té dos sistemes afectats i un és el cardiovascular o el respiratori,
+hi ha una sospita clínica, serà fàcil de veure que és una anafilaxi.
+Si no és aquest cas, perquè no té, per exemple, res de mucocutani, serà més difícil.
+Per això hi ha els criteris diagnòstics.
+Els que fan servir tots els estudis que es van publicant sobre anafilaxi són els criteris de Brighton, que en diuen,
+en els quals hi ha una sèrie de criteris majors i uns criteris menors.
+I després, ells els combinen amb uns nivells diagnòstics i parlen del nivell 1, el nivell 2 i el nivell 3.
+Això no implica que 1, 2 i 3 no està parlant de nivell de gravetat,
+sinó de confiança en que estàs diagnosticant una anafilaxi.
+El nivell 1 és el més específic, és a dir, són uns criteris molt estrictes
+pel qual, si el pacient compleix aquests criteris, pots posar la mà al foc que allò és una anafilaxi.
+I és lo típic, és a dir, el nivell 1 vol dir que té un criteri dermatològic major,
+per tant una urticària, un angioedema i almenys un criteri respiratori major o un criteri cardiovascular major.
+Per tant, tens un pacient amb un angioedema i potents i li acabes de posar un amoxiclavulàmic i endovenós.
+Per tant, pots posar la mà al foc que allò és una anafilaxi.
+Aquest és el fàcil. Aquest és el fàcil. Aquest és el que tots entenem per anafilaxi.
+Exacte.
+Però n'hi ha més, no?
+Exacte. Si no compleix aquest criteri, tu tens una sospita clínica,
+aleshores, mires la combinació que forma el nivell 2 o el nivell 3.
+Això és impossible que ho recordis mentalment.
+Per tant, és bo tindre, per exemple, en el blog, hi ha el pdf o hi ha una imatge,
+us la guardeu en el vostre telèfon i s'ha de consultar.
+En cas de dubte, has de mirar els criteris majors, els menors i veure com es combinen
+per si compleix el nivell 2 o compleix el nivell 3.
+El nivell 2 i el nivell 3 són nivells una miqueta més sensibles,
+és a dir, no són tan estrictes.
+És com si estiguessin parlant, per entendre-ho més fàcilment,
+si estiguessin parlant d'una diabetes,
+el nivell 3, el nivell 1, tu tens una persona que té una glicèmia repetida de 500,
+doncs no s'ha de ser molt intel·ligent per pensar que aquella persona té diabetes.
+Aleshores, si baixem el nivell d'exigència i parlem de glicèmies de 200,
+pot ser o no pot ser diabètic, no està tan clar.
+Aleshores, amb el nivell 2 pot ser que no hi hagi afectació cutània,
+però has de veure si compleix un criteri vascular major i un de respiratori major,
+amb això ja en tens prou per dir que estem davant d'una sospita d'una anafilaxi.
+I fins a arribar al nivell 3, en el qual pot ser que només tingui un criteri menor cardiovascular o respiratori,
+és a dir, per exemple, que tingui només sibilàncies i que tingui una miqueta de dolor abdominal,
+que és l'afectació gastrointestinal.
+O sigui, una persona amb unes sibilàncies i unes miques de dolor abdominal o de diarrea,
+o de nàusees o de vòmits, això ja et pot fer, si hi ha una sospita clínica,
+sospites que té una anafilaxi.
+Ara estava mirant això que has comentat del teu blog, estava mirant els criteris aquests,
+i hòstia, senzills no són, eh?
+Jo, perquè potser sóc una miqueta ruc i no hi entenc gaire,
+però m'ho estava mirant i dic, hòstia, això de recordar-me'n, no me'n recordaré.
+I m'he posat a mirar, a veure si trobava alguna calculadora online,
+i em sap greu dir que no hi ha cap calculadora online.
+Això ben bé, ho has de tenir apuntat a algun lloc,
+perquè no pots tirar de l'MD-Calc o d'altres que hi han "por ahi" i que dius,
+ai, no me'n recordo d'això, ho has de mirar, aquí sí que ho has de tenir un paperot, perquè si no, malament.
+Sí, sí, no és que hi hagi una calculadora així online,
+sí que hi ha algun lloc, hem trobat, per exemple, en lloc d'un format així més de text,
+tots aquests criteris majors i menors estan explicats com una taula,
+i aleshores tu identifiques els dos òrgans o sistemes afectats,
+i això et porta a un lloc de la taula,
+i en aquell lloc de la taula et dirà si estàs en un alta sospita de anafilaxi o baixa.
+Sigui com sigui, has d'acabar consultant un quadre
+on hi hagi una mica d'explicació de quins són els criteris majors, quins són els menors,
+i després te mires el nivell 1, el nivell 2, el nivell 3, si compleix alguna combinació d'aquestes.
+El que veig que hi ha un altre, veig que a part d'això dels criteris aquests de Brighton que dius,
+hi ha una altra escala diagnòstica?
+Sí.
+Veig que teniu aquí sota una altra forma de diagnosticar.
+Sí, hi ha moltes societats que han fet criteris diagnòstics de l'anafilaxi,
+cosa que demostra que no és una cosa fàcil i mundialment acceptada del que és una anafilaxi o com diagnosticar-la.
+Nosaltres vam seleccionar també els criteris de la World Allergy Organization, que són dos.
+El primer et diu si té símptomes típics de pell o mucosa, un angioedema, una urticària,
+i almenys ha de tindre algun signe significatiu d'algun altre sistema, del cardiovascular, respiratori, gastrointestinal.
+Per tant, ells te diuen o tens símptomes de pell i mucoses,
+més, per exemple, respiratori, un estridor, un broncoespasme, o una hipotensió,
+o una síncope, per exemple, o una hipotonia, o clínica gastrointestinal.
+Per tant, ja combina la pell, mucoses, amb alguna cosa cardiovascular, respiratòria o gastrointestinal.
+És molt similar a l'anterior.
+Aquí afegeixen una segona possibilitat diagnòstica,
+que és amb la qual només un òrgan pot ser que estigui afectat.
+És a dir, pots tindre una persona amb una hipotensió, o amb un broncoespasme,
+o amb una clínica, per exemple, laríngia, d'un estridor, un canvi de la veu, o una odinofàgia,
+i només tindre una cosa d'aquestes, però ha de ser una persona que t'expliqui
+que s'acaba de menjar uns cacauets, s'acaba de menjar un préssec,
+i et diu que és al·lèrgic a aquests aliments, o li ha picat una abella i sap que és al·lèrgic.
+Aleshores, en aquests casos, en la qual saps del cert que la persona ha estat en contacte amb un al·lergen
+i que ell fa reaccions al·lèrgiques i te'l trobes hipotens, tens la sospita suficient
+per dir que allò és una anafilaxi. I només hi ha un sistema o un òrgan afectat.
+És a dir, el pacient només està hipotens, o només té un broncoespasme.
+Però hi ha l'antecedent, la sospita clara que diu, és que m'he menjat un préssec,
+que no sabia que allà hi havia préssec, i sóc al·lèrgic al préssec.
+Doncs no en parlem més.
+Jo penso que el resum d'això és que el tractament de l'anafilaxi és l'adrenalina.
+I l'adrenalina sempre ens fa una miqueta de por, lògicament, o respecte,
+perquè normalment cal utilitzar-la en situacions més enllà de desesperats.
+Aleshores, sempre ens fa una miqueta de por perquè provoca hipertensió, provoca taquicàrdia,
+i penses vejam si encara li faré més mal que bé en aquesta pobra persona.
+Però el que està clar és que amb una sospita d'una anafilaxi,
+si tens una sospita raonable, no cal que sigui una sospita de nivell 1,
+que diguis, poso la mà al foc, que allò és una anafilaxi.
+Davant de la sospita d'una anafilaxi, de la qual no sabem la seva evolució,
+perquè és imprevisible, pot ser una reacció anafilàctica que comença amb un angioedema
+i dius, va, això és una mica d'edema de les parpelles i d'aquí una hora estaràs bé.
+No, és imprevisible.
+Aleshores, davant d'aquesta sospita, està molt clar que està indicat posar adrenalina.
+No hi ha cap contraindicació absoluta de l'adrenalina davant d'una sospita d'una anafilaxi,
+encara que sigui una persona d'edat avançada, que sigui un cardiòpata o que sigui el que vulguis.
+Davant d'una sospita d'una anafilaxi no li faràs mai mal per posar-li adrenalina,
+sempre i quan la posem per la via que toca i a la dosi que correspon.
+I quines són aquesta via i aquesta dosi?
+Ja m'ha quedat clar, adrenalina, anafilaxi i adrenalina. Molt bé.
+Exacte.
+Queda clar pel que has explicat que d'anafilaxi se'ns n'han passat la tira,
+perquè clar, jo per anafilaxi era hipotens més reacció cutània,
+o mal de panxa més reacció cutània, més el que sigui reacció cutània. Clar, aquí
+en el moment que traiem la reacció cutània, ja de cop i volta comences a veure el que li canvia la veu i només li canvia la veu,
+Coses així que segur que se'ns han passat a tots. A mi segur que se m'han passat.
+Llavors, adrenalina, subcutània, ai subcutània, perdó, adrenalina intramuscular.
+On? Hi ha algun lloc preferent per posar aquesta adrenalina o qualsevol múscul serveix?
+Bé, qualsevol lloc on punxem intramusculars habitualment.
+Sí, la recomanació principal és d'entrada, intramuscular.
+La zona on és més fàcil i tenim més accent o on està més recomanat és a nivell del cuixa en el vast extern.
+Dubto jo que, tampoc us ho puc dir a ciència certa, si la punxes amb un deltoides
+jo interpreto que l'efecte i l'eficàcia i tot això serà la mateixa, perquè és intramuscular
+i no sé si hi ha molta diferència entre punxar un vast extern o punxar un deltoides.
+No crec que hi hagi molta diferència, però l'important és que sigui via intramuscular
+i el més aviat possible. És a dir, quan tu sospites l'anafilaxi,
+no t'estiguis pensant en històries rares, la recomanació és per via intramuscular,
+tan aviat com sigui possible.
+Aquí enllaço amb el tema que l'adrenalina és el tractament d'elecció,
+és l'únic tractament que, si les coses van maldades,
+és l'únic tractament que se sap que pot frenar l'evolució fatal d'una anafilaxi greu.
+És l'únic que pot salvar una vida. Per això diem tan aviat com sigui possible
+perquè no perdis el temps preparant, carregant, no sé què, cortisones i antihistamínics
+i no sé quines altres històries. Tot això està molt bé, però només és un tractament simptomàtic.
+Li abaixaràs una miqueta la urticària, la picor, l'angioedema,
+però si l'anafilaxi va en sèrio, tots aquests medicaments no li faran res.
+Per tant, no perdis temps a començar a posar-li cortis i antihistamínics,
+sinó que vés directament a l'adrenalina intramuscular.
+I quanta n'hem de posar d'adrenalina intramuscular?
+La dosi estàndard en nens i en adults és 0,01 mg per quilo,
+amb una dosi màxima de 0,5 mg per dosis.
+Això vol dir que amb un adult normalment seran 0,5 mg, és a dir, mitja ampolla d'adrenalina.
+La que tenim normal, la que fem servir amb els paros, pues mitja ampolla.
+Si és una persona molt primeta, menys de 50 kg, amb un adult pots fer servir els 0,3 mg,
+però normalment 0,5, i amb nens, 0,01 mg per quilo.
+I ja està, és molt fàcil, intramuscular i punto.
+De fet, imagina't que si això és segura, la via aquesta intramuscular i aquestes dosis,
+que normalment quan una persona ja sap que té una reacció, que fa anafilaxis qualsevol cosa,
+alguna cosa, ja tenen a casa seva i allà on te vagin ja tenen l'adrenalina autoinjectable.
+Vull dir que hem de pensar que això és un tema segur i que s'ha de posar tan aviat com sigui possible.
+Per tant, l'adrenalina, oxigen, intentar posar-li un parell de vies perifèriques i monitoratge.
+I a partir d'aquí, esperar, 5-15 minuts.
+Ja li has posat el tractament d'elecció, has d'esperar 5 minuts, 5, 10, 15 minuts, a veure com respon.
+Jo penso que en aquest seria el moment que si vols començar a preparar la cortisona, l'antihistaminic i no sé què més,
+ara tens 5 minuts per començar a preparar això.
+Que ja tens el pacient amb l'adrenalina, l'oxigen posat, ja tens una via, dues vies, li has posat un monitor,
+si tens temps comença a carregar, preparar cortisona i l'antihistaminic.
+Que això va bé, que veus que els 5 minuts ha fet bona resposta clínica, ja no està tan hipotens,
+ja no té tan broncoespasme i veus que ja fa una altra cara,
+doncs tranquils, si estàs a urgències, com a mínim l'has de tindre en observació 6-8 hores i veure que això va bé.
+Que no va bé i veus que el pacient continua empitjorant,
+doncs s'ha de repetir la mateixa dosi d'adrenalina intramuscular.
+I aquí ja li comences a afegir una seroteràpia intensa, és a dir, has de començar a posar líquids, el que vulguis,
+però un o dos litres tan ràpid com sigui possible, i amb nens 30 ml per quilo a la primera hora.
+Si ja estàs fent la segona dosi d'adrenalina i li estàs passant suerus,
+vol dir que la cosa va a maldades i comença ja a preparar la tercera dosi d'adrenalina,
+que la tercera, si la primera i la segona intramuscular no n'hi ha hagut prou, la tercera ja ha de començar a ser endovenosa.
+La endovenosa sí que és la que pot donar problemes d'efectes adversos en el pacient,
+de taquicàrdia, de hipertensió, i si és un pacient amb una cardiopatia,
+doncs el pots infartar, no?
+Per tant, és important que aquesta adrenalina que la posis endovenosa sigui el més diluïda possible.
+Per tant, si després de la segona dosi d'adrenalina intramuscular t'esperes 5 minuts
+i el pacient continua empitjorant, no respon a la segona dosi,
+aleshores comencem amb l'adrenalina endovenosa.
+Com a mínim s'ha de diluir una ampolla d'adrenalina d'un mil·ligram diluïda amb 100 de fisiològic,
+bé, amb fisiològic o el que vulguis, amb 100 mililitros, com a mínim.
+Que ho pots diluir-ho més, amb 250, amb 500, amb un litro,
+doncs fantàstic perquè en cas accidental dels nervis de l'anafilaxi,
+que el pacient no pot respirar, que té un estridor, que té sibilàncies, que està xocat,
+és molt fàcil equivocar-te i enxufar-li un mil·ligram allò en  bolus.
+Aleshores sí que després la cosa pot anar malament.
+Per tant, com més dilueixis, si hi ha algun error producte dels nervis,
+si l'has diluït amb 100 de fisiològic i li has passat 10 cc de cop, no passarà res.
+Això, mirant aquestes dilucions de l'adrenalina, em ve al cap un parell de...
+Això ja ho fem servir amb altres coses.
+Per exemple, una dilució de 10 micrograms mil·lilitre
+és l'adrenalina que normalment fa servir amb la reanimació neonatal.
+Tu agafes una ampolla de mil·ligram, la fiques dins una bossa de 100
+i vas tibant els teus 0,0 mil·ligrams de adrenalina, els vas tibant d'aquí.
+I fins i tot hi ha una cosa que penso que un dia n'haurem de parlar,
+que n'hi diuen els push-dose pressors, els vasopressors de bol,
+que el que fas és agafes una ampolla d'adrena que són 1.000 micrograms,
+un mil·ligram, la dilueixes a 10, que per tant et queda 100 micrograms mil·lilitre,
+en llences 9, ho tornes a diluir, et queda una dilució de 10 micrograms mil·lilitre.
+I amb això tu vas fent xupitos, vas fent petites embolades per anar aguantant la pressió.
+I encara una altra cosa que em ve al cap, que això encara n'hi diuen el dirty epi drip,
+que això podríem traduir com el goteig groller d'adrenalina,
+que tu fiques l'ampolla en un litro i obres l'aixeta,
+bueno, obres la rosca i vinga que vagi baixant.
+I clar, per molt de pressa que baixi, trigues una estona,
+és a dir, amb la qual cosa, clar tot això són formes ràpides de fer-ho.
+Jo no sé amb quina em quedaria aquí.
+Jo m'agrada la de la xeringa, perquè ja tinc un cert hàbit d'agafar, diluir fins a 10,
+deixar-ne només un, tornar a diluir fins a 10,
+però és una miqueta més rotllo que la de ficar-ho en un litro i obrir l'aixeta.
+Sí, evidentment, la cosa és que com més ho dilueixis, més segura serà.
+I sí, per exemple, si estàs a punt d'intubar un malalt i està hipotens,
+pots fer això de les dosis dels xupitos, per exemple, d'adrenalina diluïda,
+pots anar abans de...
+Per no perdre el temps de muntar la noradrenalina en perfusió i tal,
+pots fer els xupitos o les dosis aquestes d'adrenalina diluïda
+per intentar que quan l'intubis no estiguis intubant una persona
+amb unes sistòliques de sis.
+I després, quan ja el tens intubat i tal,
+després ja muntaràs la noradrenalina en perfusió contínua i més controlat.
+Però, en aquest cas, seria similar amb l'anafilaxi,
+que li poses un bolus o una perfusió contínua d'adrenalina,
+podria ser molt similar en aquestes formes que tenim de posar els vasopresors,
+però en forma així ràpida i puntual,
+com a pas previ a muntar la bomba de perfusió contínua.
+Bé, bomba que suposo que tothom deu tenir les seves dilucions de bombes i demès,
+almenys a casa meva passa.
+Quina dosi s'ha de fer?
+Quina dosi efectiva li hem de posar a la pacient de la bomba aquesta?
+Després cadascú haurà de calcular com ho fa a casa seva,
+quants mil·lilitres hora corresponen.
+Sí, jo us ho dic, si continuo amb l'algoritme que podeu veure en el PDF
+que tenim penjat en el blog,
+veureu que si necessitem ja la tercera dosi d'adrenalina,
+que la tercera seria la endovenosa,
+hi ha dues versions.
+La forma més segura és a través d'una bomba d'infusió contínua.
+Això seria el més segur i el més indicat.
+Però en cas que el pacient el vegis molt inestable o estigui en periaturada,
+pots fer servir una embolada lenta d'un bol d'adrenalina diluïda.
+En aquest cas la dosi, per exemple, pot ser de 50 micrograms d'adrenalina.
+Dissolta, si agafes aquest un mil·ligram, dissolt en 100 de físio,
+per posar-li 50 micrograms, són 5 mil·lilitres d'aquesta dilució.
+5 mil·lilitres a passar lentament, és un bol lent,
+és una embolada lenta, entre un i tres minuts,
+li passes aquests 5 mil·lilitres.
+I tens aquests un minut, dos o tres minuts, que li estàs passant el bolus lent,
+per acabar de muntar la bomba de perfusió contínua.
+La bomba d'infusió contínua la començarem a 0,1 microgram quilo minut,
+que depèn de com tinguis la dilució feta, si amb 100, amb 250, amb 500 o amb un litro,
+doncs clar, serà un volum, finalment la màquina, la bomba, l'hauràs de posar a uns mil·lilitres o uns altres.
+Si l'has fet servir amb una dilució de 100 CCs de físio o del que vulguis,
+aquest 0,1 microgram quilo minut es pot transportar, transformar en 0,6 mil·lilitres quilo hora.
+Això vol dir que, per exemple, amb una persona de 70 quilos,
+la bomba l'hauràs de posar a 40 mil·lilitres hora.
+Per tant, l'ampolla d'adrenalina d'un mil·ligram dissolta amb 100 de físio,
+jo la posaré a la perfusió contínua a 40 mil·lilitres hora
+amb una persona d'un pes estàndard de 70 quilos, per exemple.
+I això l'aniré augmentant, l'aniré augmentant cada dos o tres minuts en funció de la clínica.
+Com l'aniré augmentant?
+Doncs a la meitat de la dosi inicial.
+Per tant, si l'he començat a 40 mil·lilitres hora la bomba, l'aniré augmentant a la meitat dels 40, per tant a 20.
+Per tant, començo a 40, als dos o tres minuts la poso a 60,
+els dos o tres minuts la poso a 80, i així fins a 100, o fins on vegi que el malalt comença a millorar.
+Com a màxim, 6 mil·lilitres quilo hora.
+Això ja és, o sigui, serien a 400 mil·lilitres la bomba a 400 mil·lilitres hora.
+D'acord? Penso que no hi arribaràs en aquestes dosis.
+Com hagis preparat una bomba de xeringa et fots un fart de canviar, eh?
+Sí, sí. Pot ser molt estressant això, sí.
+Aleshores, l'objectiu d'això és que amb això, amb l'adrenalina endovenosa,
+després el pacient vagi millorant, i aleshores a la que ja porti 20-30 minuts
+que vegis tu que ja no està hipotens, que no està broncoespàstic,
+que millora el nivell de consciència, doncs comencis a poc a poc anar retirant
+o anar baixant una altra vegada la perfusió d'adrenalina,
+i que al voltant d'unes dues hores li puguis acabar retirant la bomba d'adrenalina.
+I lògicament el pacient aquest haurà d'ingressar en una zona de monitoratge
+durant com a mínim 24 hores.
+Què passa si això no n'hi ha prou i no va malament?
+Després tenim els tractaments de segona línia, que és aquí on hi pot haver els corticoides
+i els antihistamínics, que són de segona línia, però segurament
+mentre que li has posat la primera dosi d'adrenalina a la segona,
+has començat la bomba d'infusió endovenosa i tal,
+ja li hauràs posat l'antihistamínic i els corticoides.
+Pots fer servir, per exemple, en cas d'un edema laringi important,
+que estigui per exemple en un estridor, l'adrenalina nebulitzada.
+Pots fer servir, lògicament si té un broncoespasme, faràs servir el salbutamol.
+Pots afegir-li, si veus que vas pujant les dosis d'adrenalina i no n'hi ha prou,
+pots posar-li una altra vasopressor, per exemple una dopamina.
+Pots fer servir el blau de metilè, que no ens hem mirat exactament
+quin és el mecanisme pel qual el blau de metilè pot anar bé amb l'anafilaxi,
+però en els documents que hem vist els recomanen al blau de metilè 100 mg endovenosos.
+Però per posar-li primer s'hauria de trobar, eh?
+Sí, sí.
+Primer hauríem de sapiguer si en tenim o no en tenim.
+Important, tenir en compte, alguns pacients que ens poden enganyar una miqueta
+són els pacients que prenen blocadors beta-adrenèrgics,
+que prenen fàrmacs amb beta-blocadors.
+Aleshores, aquests fàrmacs, aquests pacients, per exemple, no responen igual a l'adrenalina
+o no es taquicarditzaran davant d'una reacció anafilàctica com una altra persona.
+Aleshores, aquests pacients sí que està com a tractament de segona línia
+després de l'adrenalina, d'acord?
+Si no milloren amb l'adrenalina has de pensar en el glucagó, posar-los glucagó,
+un mil·ligram lentament a passar en 5 minuts,
+i després pots continuar amb una perfusió contínua del glucagó.
+Amb els nens el mateix, sí, però per alguna raó tens algun nen
+que pren algun blocador beta-adrenèrgic, també està indicat el glucagó.
+I l'isoproterenol, si està bradicàrdic, li poses això
+i amb perfusió contínua, 2-10 micrograms minut.
+I recordar també pacients que ens poden dificultar, sobretot el diagnòstic,
+és amb els pacients que tenen alguna situació especial, per exemple,
+un malalt inconscient que no vegis que ell no es queixi d'urticària, de picor
+o d'altres simptomatologies que ens poden fer pensar en l'anafilaxi.
+Per tant, hem de pensar en un malalt inconscient,
+mirar que no tingui la pell vermella, mirar-li les mucoses,
+escoltar si té sibilàncies o no, si està hipotens,
+i parlar amb la família, amb els companys o qui hi hagi per allà,
+que t'expliquin si és possible que hagi menjat, que li hagi picat alguna abella,
+o sospitar que pot ser una anafilaxi.
+Amb pacients que hi ha per alguna raó,
+imagina't tu que ja tens un malalt sedat perquè li estàs fent un procediment
+o el tens intubat i li poses un antibiòtic,
+pot ser més dificultós en un malalt intubat sospitar una anafilaxi.
+Per tant, quan vegis un malalt que li passa alguna cosa estranya,
+que no acabes de veure ben bé què li passa, pensa que allò pot ser una anafilaxi.
+O malalts, per exemple, amb trastorns psicològics, psiquiàtrics,
+malalts neurològics, que no t'explicaran ben bé què els hi passa,
+aquests també ens poden fer equivocar i que se'ns passi per davant una anafilaxi.
+I veure el malalt hipotens, i què té el malalt, i què té el malalt que està hipotens,
+serà xoc d'una sèpsia o què serà?
+I resulta que això ho hauríem solucionat si al minut zero
+li haguéssim posat una adrenalina intramuscular.
+Què més? Jo penso que hem dit bastant tot el que volíem recordar sobre aquest tema.
+La veritat és que és un repàs molt extens i jo crec que no ens hem descuidat res.
+A mi potser el tema del que quan ho llegia i ara que t'escoltava explicar-ho,
+a mi em queda bastant la idea que la idea preconcebuda aquesta
+que l'anafilaxi és hipotens amb reacció cutània,
+et quedes molt curt amb totes les altres possibilitats.
+Si és un missatge que ha de quedar, penso que aquest és el que ha de quedar.
+I l'altre que potser penso que hauria de quedar també és el que no ens ha de fer por posar l'adrenalina.
+Que la comencem intramuscular, que no passa res, que la gent se la punxa a la cuixa quan els pica un abella.
+I aquí que la podem pagar, que això també és interessant de saber,
+als Estats Units el preu de l'adrenalina, d'aquestes, dels EpiPens, dels bolis d'adrenalina,
+s'ha posat a nivells...
+Si?
+Sí, sí, si es veuen aquestes coses...
+Sí, sí, jo ho llegia, que igual que la insulina que van a Mèxic a comprar-la
+o travessen la frontera a Canadà per comprar-ho,
+es veu que els preus dels EpiPens s'ha posat a...
+Bé, gairebé anar-lo a comprar al mercat negre.
+Terrible, terrible.
+Doncs mira que ja no deu tenir ni patent l'adrenalina, no?
+No, l'adrenalina segur que no, però l'EpiPen no ho sé, el boli igual...
+Ja, ja, el mecanisme... sí, sí, el mecanisme...
+Lo car deu ser el mecanisme de l'autoinjectable i tota la història aquesta, clar.
+Bé, doncs si et sembla deixem aquí aquest tema.
+Molt bé.
+El tema de l'anafilaxi que vau publicar al vostre blog.
+Molt bé.
+I jo, si us sembla, us explico un que vaig posar en el meu.
+Molt bé.
+Perquè a mi no m'ha passat, eh?
+Això que explicaré no m'ha passat a mi, li va passar a un company.
+És important, sempre això tenir-ho clar.
+Sí.
+Bé, no sé si us ha passat alguna vegada que esteu intubant algú
+que heu acabat d'intubar algú d'aquests que us va baixant la gota freda per l'esquena
+i que quan acabes
+estàs que dius no sé com collons ha passat aquest tubo
+i que sí, saps que aquella persona
+depèn d'aquell tubo per sobreviure.
+Intubacions d'aquestes n'heu viscut alguna
+Jo sí.
+Alguna d'aquestes que... uf!
+respires, no? I dius uah, va, ja està, ja està.
+I clar, amb tot el... tot el lio de la batalla i demès,
+doncs, bueno, fas el que pots, ho lligues com pots,
+i te l'emportes i el deixes on correspongui, no?
+I clar, les infermeres, si algo som, són molt polides.
+És clar, que t'arribi algú amb una fixació merdosa d'un tubo endotraqueal,
+ja sigui perquè  està... bueno, és igual.
+S'ha embrutat, o ha quedat fet una bírria, doncs això no pot ser.
+Tu no pots deixar-li a una companya una fixació birriosa.
+Fa molt lleig.
+I més que menys, sempre intenten fer les coses polidetes, no?
+I bueno, tu ara imagina't que vas a canviar aquesta fixació,
+acostes les teves tisores, talles la bena,
+i te n'adones que has tallat la bena i el ppneumotaponament.
+De cop i volta, aquell tubo ja no aïlla res.
+I això a qui li passarà?
+No li passarà la intubació de quiròfan aquella
+que la intubes amb la mà lligada darrere l'esquena,
+amb un Cormack 0.
+Li passarà a quin? Al Cormack 3,
+al que t'ha desaturat a 70,
+al que necessitaves la PEEP perquè té un distress terrible
+i necessitaves la PEEP i l'has perduda.
+O el malalt amb una anafil·laxi que tenia una edema d'úvula
+i un edema de parts toves impressionant.
+Exacte. I llavors què fas amb això?
+Perquè clar, ara ja està, ara ja t'has cagat.
+Ara què?
+Aquí, la solució definitiva és canviar el tub.
+No? Jo penso que aquí canviar el tub és lo seu.
+Però clar, t'ha costat un horror de posar-lo.
+I segurament tu no seràs el que acabarà tractant aquest malalt.
+El traslladaràs a una UCI
+o hi haurà un altre professional que se'n farà càrrec.
+Tens un pastel, llavors tu pots optar per fer...
+Bueno, pots fer-te el cowboy, no?
+Doncs agafes laringo, treus tub, poses un altre,
+això és un cowboy total.
+Pots optar per passar una guia frova
+i fer-la servir per intercanviador de tubos.
+Però clar, tot això, hòstia, això acollona bastant, eh?
+Llavors, bueno, hi ha solucions per això.
+I buscant, buscant, n'he trobat la tira.
+Totes bastant semblants, no?
+I és el que explico a l'entrada del blog.
+Bàsicament, què fas?
+Si has tallat el ppneumotaponament,
+el que et queda és un tubet petit de plàstic.
+Bé, doncs aquest petit tubet de plàstic
+té una mida que un catèter del 22, els blaus,
+entra perfectament dins el...
+encaixa de conya dins d'aquest tubet.
+Llavors tu agafes un catèter del 22,
+sense agulla, evidentment,
+l'introdueixes aquí, no és senzill,
+perquè la mida és...
+Saps? La mida és clavada.
+L'introdueixes, llavors ja tens un con luer.
+A partir d'aquí amb el con luer aquest,
+pots posar-ne 3 vies o un tap,
+i ja pots injectar el teu...
+pots posar el teu aire necessari
+i ja tornes a sellar el tub.
+Amb el qual, de moment, has sortit del pas.
+I... una pregunta per...
+O sigui, tu poses el catèter per dins
+del tub del ppneumotaponament
+i allò queda fixat?
+No hi has de posar-hi res per fora
+perquè faci com de...
+per estrenyer-ho?
+No, en principi no, queda superbé.
+Home, evidentment, si volguessis posar-hi
+un esparadrap, un steri, sempre l'hi pots posar.
+I ja està.
+De fet,
+quan buscava referències,
+perquè clar, això aquest invent algú s'ho ha fet algú abans que tu,
+perquè...
+El MacGyver existeix, el MacGyver està a tot arreu,
+ho ha fet tothom.
+Nota pels boomers, perdó, pels que no són boomers,
+el MacGyver era una sèrie que feien a la tele
+fa molts anys, d'un tio que
+amb dos xiclets i una cinta americana
+muntava una bomba. Ja està.
+Ja hem fet la nota dels viejales, ja està feta aquí.
+Doncs mentre buscava resulta que hi ha una empresa
+que ha fabricat això mateix.
+És a dir, un ppneumotaponament
+amb una
+canuleta metàl·lica que la pots
+introduir dins el
+dins el tub
+del pneumotaponament que has tallat.
+És a dir, hi ha com un producte
+comercial per vendre.
+I encara vaig llegir un altre
+i aquest és interessant pel que diu després,
+que el que van fer va ser
+fer servir
+aquesta introducció del catèter
+per dilatar el tub,
+la manguereta del ppneumotaponament tallat,
+per després introduir-hi a dins
+la manguereta
+de l'altre tros de pneumotaponament
+que tu havies tallat, que havies perdut,
+el tornes a introduir a dins.
+Allò, de mica en mica el tornes a introduir
+a dins i es veu que queda ben segellat.
+Evidentment, posaràs un esparadrap perquè
+quedi maco i tal. És a dir, amb la qual cosa
+la pèrdua de segellat
+que has tingut, quan has tallat el tub,
+la tornes a recuperar.
+Solució MacGyver. Has salvat de cop i volta
+el to de l'esfinter anal
+ha millorat lleugerament
+després de l'apretón que has tingut.
+Dic que aquest és interessant perquè quan llegia...
+quan llegia aquest article,
+que  tot això ho tinc
+referenciat allà al bloc i demès,
+algú amb molt bon criteri deia
+que lo seu no és
+aprendre a reparar cagades, lo seu és
+no cagar-la.
+No ens inventem coses quan el que hem de fer és no cagar-la.
+I aquí és on
+si veus algú que s'acosta amb unes tisores
+a un tub endotraqueal, hauries
+d'aixecar la mà i preparar-te per fotre-li un calbot si s'acosta massa.
+Aquest és el
+tema tonto que tenia jo per
+aquest episodi.
+Amb aquí penso que
+acabem ja els temes i podríem passar
+a la següent secció d'aquest pòdcast.
+Albert en aquest tema,
+clar, sempre, que és una cosa
+provisional.
+Si estàs
+amb l'USVA,
+passa això a un domicili o el que sigui,
+com a cosa bona
+és pensar que aquest
+sistema provisional
+serà per una hora, dues hores,
+fins que arribis al teu centre de referència
+o en un lloc
+on se li pugui fer un canvi de
+tubo de forma reglada.
+Amb seguretat, vull dir.
+Home, això és el que hauria de ser, però tots
+tenim a casa aquella
+reparació provisional.
+Això és el que
+aquests senyors que deien que el
+MacGiver està molt bé, però, cuidado, es referien a això.
+És a dir, aprens a reparar coses
+i llavors vius amb una reparació que aguanta
+i vas tirant amb així quan és
+subòptim. Evidentment, per mi
+això és una solució provisional, és una
+solució per sortir del pas. És aquella que
+passes de tenir una situació
+d'alt risc a tenir una situació
+de control. 
+Sí, sí, sí, sí, molt bé, molt bé.
+I saber que l'has de canviar. 
+Molt bé, molt bé. Doncs ho tindrem en compte.
+Espero que no s'hagi de fer servir mai.
+Molt bé.
+Doncs vinga, passem a la següent
+secció del pòdcast, la secció de
+recomanacions. Aquí...
+Xavier, què ens recomanes tu per aquesta...
+per aquest episodi?
+Aviam, jo només us volia recordar
+una...
+una font bibliogràfica,
+és a dir, una font on
+podem anar a consultar
+informació o coneixement
+que estigui una mica a nivell
+consultar... Quan dic ja
+consultar, em refereixo a
+a nivell de... que estàs davant de l'ordinador
+i on te vaig a buscar jo alguna
+resposta sobre un dubte que tinc
+quan vaig a buscar-ho a internet.
+Doncs aleshores, entre moltes altres opcions
+hi ha una...
+una eina que es diu
+PreEvid,
+amb dos es, PreEvid,
+que és un recurs que organitza
+el sistema de salut
+de Múrcia,
+és un sistema públic, no?, del sistema de salut
+de Múrcia, amb el qual
+copiat de... això està
+copiat de sistemes,
+eines similars, per exemple, que existeixen
+a Anglaterra,
+que són, se'n diuen unes eines,
+uns sistemes de preguntes i respostes,
+és a dir, els mateixos
+professionals del sistema
+de salut públic de... on sigui,
+en aquest cas de Múrcia,
+quan tens un dubte una miqueta
+seriós, important, que no pots
+resoldre per tu mateix perquè no saps on te buscar la informació,
+aleshores, ells tenen
+un lloc on enviar el seu dubte
+al seu dubte, i en aquest
+lloc hi ha una sèrie de gent que són
+especialistes en cerca bibliogràfica,
+lectura crítica, i...
+amb el qual intentaran
+amb totes les seves fonts d'informació
+que hi tenen accés, que tu,
+potser des de casa, no hi tens els recursos
+i no pots pagar tot el que representaria,
+ells sí,
+aleshores tu els envies la teva pregunta
+i al cap d'unes setmanes
+o uns dies t'envien la resposta
+i et diuen, mira, hem fet una cerca
+al teu dubte, hem fet una cerca bibliogràfica
+a tal font
+d'informació, a tal altra, a tal revista,
+hem llegit el que posa cada lloc
+i hem fet un resum, i això és la resposta
+al teu dubte.
+Nosaltres, si no som del
+sistema murcià de salut, no podem fer
+les preguntes, però sí que podem
+disposar de
+totes les respostes que ells fan.
+Tot això ho emmagatzemen en una base
+de dades que és el PreEvid.
+Aleshores, si vosaltres aneu a
+murciasalud.es
+hi ha un apartat que és el PreEvid
+i hi ha tot un banc de preguntes,
+és a dir, hi ha un banc de respostes,
+amb 3.000, ara actualment hi ha
+3.725
+preguntes i respostes fetes.
+Tens un buscador
+que cliques en una lupa
+i allà tens el buscador i tu li poses
+el que vulguis. Si mires si hi ha alguna cosa
+sobre l'anafilaxi, doncs li poses
+anafilaxi i et dirà tot el que
+hi hagi sobre el tema.
+També hi ha una miqueta
+de biaix
+per temes d'atenció primària,
+però bé, si hi ha coses de
+trauma, d'urgències,
+d'emergències i de tot.
+Ho pots buscar a través del buscador
+o per categories. Si cliques
+a categories, veuràs que hi ha
+el tema del Covid, que si el tema
+cardiovascular, que si de cirurgia,
+que si de digestiu, etc.
+I tens la garantia que
+qui te respon a això, doncs,
+tu respon sapiguent
+el que ha fet, que sap
+fer una bona cerca bibliogràfica, que sap
+fer una bona lectura crítica
+i et sap fer un bon resum. Per tant, és difícil,
+no impossible, però que tu
+des de casa siguis capaç
+de fer el mateix. Per tant, si tens
+un dubte clínic, és bastant
+recomanable començar per alguna font
+d'aquestes, per exemple, que se'n diuen de
+preguntes i respostes, abans de començar a
+fer tu una cerca, per exemple, que fàcilment
+pots fer a pubmed. És molt
+fàcil fer-la, però és molt
+fàcil que també t'equivoquis
+i llegeixis coses que realment
+no serveixen i que
+t'autoenganyes a tu mateix.
+I això és el que us volia
+recomanar perquè
+ho coneixéssiu i li comencéssiu a donar
+algun cop d'ull per veure
+que si us és
+d'utilitat o no, que jo crec que sí.
+Interessant. Deixarem
+els enllaços, tots els enllaços
+del que anem parlant quedaran en les notes d'aquest episodi.
+Molt bé.
+Bé, jo us vull
+recomanar un blog, el blog
+del doctor Smith, sona així
+com raro. Aquest blog
+és el bloc, és seguiment obligatori. 
+Si t'agrada
+l'electrocardiografia, has de seguir aquest blog.
+Ja està. Ja està. Si no
+el segueixes, no t'agrada l'electrocardiografia.
+Ja està. S'ha acabat. Aquesta gent,
+primer el doctor Smith, ara s'hi han afegit
+un parell d'editors més, van publicant de forma
+bastant sovint, diversos cops a la setmana,
+casos superinteressants que fan
+servir per introduir-te de forma
+didàctica, conceptes i demès.
+S'ha de seguir.
+Jo el segueixo de fa bastants anys,
+cada vegada que surt alguna cosa m'ho llegeixo
+he après una barbaritat
+i aquí d'aquest blog en traurem
+algun tema algun altre dia, em sembla.
+Com ho segueixes, això? T'hi connectes
+tu cada setmana perquè cada setmana
+posa un exemple
+d'un cas clínic amb un electro?
+O ja és... o com ho fa
+això ell? O com ho segueixes tu, això?
+Bueno, ell... jo ho segueixo
+té un perfil a xarxes
+socials, com tenim tots, i el vaig... ell el que va publicant
+surt a la xarxa social
+i llavors ho llegeixo. Però bueno, si tens un lector
+de RSS,
+doncs ja ho segueixes i pots anar fent.
+I si no, simplement, no
+per fer-ho servir com a eina, així com l'eina
+que has comentat tu, és una eina de
+recerca. Es pot
+fer servir, però hi ha...
+si tu el que busques és una cosa en concret, segurament
+hi ha algun altre recurs que parlarem
+un altre dia més interessant que aquest. Però és que és igual,
+s'ha de seguir, s'ha de llegir, no té més.
+T'has de dedicar una hora
+cada setmana a mirar el que ha posat aquest
+tio en el seu blog i llegir-ho.
+Però a veure, jo et pregunto, ell publica
+de forma així,
+com podem fer tu o jo
+de forma així, una miqueta aleatòria
+i quan tens un temps i un moment lliure?
+O de forma sistemàtica, cada setmana
+et posa un cas clínic i tu saps que
+cada dimarts te connectes i
+hi haurà un cas nou?
+Quina sistemàtica fa servir ell?
+Jo no et sé dir
+si hi ha una cadència coneguda. Sé que
+es publica cada setmana,
+els tres editors del lloc
+publicen cada setmana, més
+d'una entrada, però no et sé dir si tenen
+algun criteri.
+Jo vaig seguint el Twitter
+i llavors d'allà vaig, cada vegada
+que surt, obert i a llegir.
+Normalment, a més a més, és interessant
+perquè és un dels pocs blogs que deuen quedar pel món
+perquè els blogs, això sí que és de vells...
+noi, són boomers, tio, no hi ha més.
+És un dels pocs blogs on la gent
+comenta coses i els comentaris també a vegades
+són interessants.
+Ja és raro trobar alguna cosa a internet
+en què els comentaris no siguin
+odi, però mira, aquest és el cas.
+I com a professional
+d'urgències i emergències
+els casos que comenten són
+són rellevants per a nosaltres o
+o creus que són molt avançats?
+Vull dir que són allò...
+temes molt... casos molt especials
+i molt concrets que no veuràs en te vida.
+No, no, no, són molt rellevants.
+Aquest tio li encanta...
+Hem de parlar
+d'un tema superinteressant aquí.
+Ell ha escrit coses de cardiopatia
+isquèmica, o sigui, bàsicament és
+tot el que sigui IAM,
+infart,
+que és una cosa que els d'urgències toquem una mica,
+s'ha de seguir.
+Ja està, és que no...
+no val la pena estendres, l'heu de mirar
+l'heu de seguir. Ja està.
+Molt bé.
+I fins aquí aquest primer episodi
+del pòdcast d'urgències i emergències
+en català. Si us ha agradat o l'heu trobat
+interessant deixeu-nos els vostres m'agrades
+a les plataformes on hem publicat,
+a les aplicacions on sentiu pòdcast.
+I podeu aprofitar per subscriure-us si ho desitgeu.
+Doncs encantats
+també nosaltres d'haver estat amb vosaltres
+aquesta bona estona que hem estat
+i ens veiem ben aviat!
