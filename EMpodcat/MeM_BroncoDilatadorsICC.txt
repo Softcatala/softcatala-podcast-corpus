@@ -1,0 +1,32 @@
+﻿# Exported by Aegisub 3.2.2
+Menys és Més, la secció de bones pràctiques de l'EMpodcat.
+Del Menys és Més avui volia parlar d'una altra recomanació que fa l'Essencial,
+que ens explica la no-indicació de forma sistemàtica del tractament broncodilatador
+en casos d'insuficiència cardíaca congestiva,
+que els pacients es presenten amb dispnea, amb tos i amb sibilàncies.
+I una tendència que tenim, com que tenen sibilàncies, els posem tractament broncodilatador,
+sigui beta 2 adrenèrgics o el ipratropi.
+Doncs el mecanisme que provoca aquesta broncoconstricció és diferent,
+sigui per una causa respiratòria que sigui per una insuficiència cardíaca,
+que és el que en diem una asma cardíaca.
+El mecanisme fisiopatològic és diferent.
+El de l'epoc i el de l'asma és una inflamació i una contracció de la musculatura,
+de la via respiratòria, i per tant els broncodilatadors funcionen.
+En canvi, en l'asma cardíaca, això es provoca per un augment de la hipertensió venosa pulmonar,
+que fa una congestió pulmonar, i hi ha una constricció reflexa de la via respiratòria,
+i fa sibilàncies també.
+I això, per més broncodilatadors que li posis, no milloren.
+Inclús hi ha alguns estudis que diuen que el que provoca és algun tipus de cardiomiopatia,
+augmenta el risc d'hospitalització per arrítmies cardíaques i no sembla beneficiós.
+Sí que hauríem d'intentar diferenciar si la simptomatologia que té de dispnea i tos i sibilàncies
+és més per asma cardíaca o és per la seva malaltia de base, d'epoc i asma.
+Perquè sí que ho veiem, això.
+Veiem que entre un 15 o un 20% de tots els pacients que venen a urgències
+per una insuficiència cardíaca congestiva i que presenten sibilàncies,
+els hi posem broncodilatadors, i moltes vegades de forma simultàniament,
+salbutamol i ipratropi. Per tant, intentar diferenciar una miqueta
+si és la seva malaltia de base o és per la malaltia aguda de la insuficiència cardíaca congestiva.
+Per tant, la recomanació final de l'Essencial, que és del desembre del 21,
+és no fer servir de forma sistemàtica tractament broncodilatador
+en els casos d'insuficiència cardíaca congestiva que venen a urgències
+i que presenten sibilàncies, dispnea i tos.
