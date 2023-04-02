@@ -1,0 +1,1783 @@
+EMpodcat, el podcast d'urgències i emergències mèdiques en català.
+Benvinguts a un nou episodi d'EMpodcat,
+que com sabeu és un espai on conversem sobre urgències i emergències sanitàries
+i això ho fem amb un equip multidisciplinari, multicèntric.
+Per un costat tenim l'Albert Homs. Albert, hola, bon dia, què tal?
+Hola, bon dia. Des de la Baixa Cerdanya avui un dia amb solet ben guapo.
+On et podem trobar tu també a part de la Cerdanya? A les xarxes socials on estàs tu?
+Tinc un blog que es diu emermedpirineus.cat i també estic a Twitter per aquesta mateixa adreça
+i a Mastodont.cat també per aquí. I també aquí l'EMpodcat, oi?
+Molt bé. I jo sóc en Xavi Basurto, que sóc metge d'urgències de l'Hospital de Figueres.
+També estem en urgències, estem a la USVA 606 i a través de les xarxes,
+a través del blog que tenim d'Urgem.cat i a Twitter som @urgemcat.
+I avui tenim un nou episodi que crec que és el número 22, si no m'equivoco, oi?
+Que no, Albert? És el 22 aquest. I com sempre tenim diferents seccions en l'episodi
+i tenim un tema central que l'Albert ens explicarà.
+Avui volies parlar de l'i-gel. Ens volies fer una introducció
+Què ens volies explicar sobre això, Albert?
+No, introducció no. Al final ha resultat gairebé ser un compendi.
+Home!
+A veure si ho podré resumir.
+Anava a dir, tindrem prou amb un sol episodi o...?
+Sí, sí, sí. Va, sí.
+Doncs, com sempre, sempre que tinc un tema ve publicat al meu lloc web.
+De fet, està publicat d'aquest matí, el dia que gravem, però ve d'algun lloc.
+En aquest cas ve de, si us en recordeu, de la recomanació que vaig fer l'episodi passat
+del doctor australià en Cliff Reid, doctor del Sydney HEMS,
+que va publicar un fil de Twitter en què parlava justament d'aquest estri.
+I és un estri que el tenia amb molt bona consideració,
+i aquest fil d'ell deia, compte, que també té les seves complicacions,
+no és una panacea.
+I vaig començar a mirar, dic, hòstia, això és més interessant del que em pensava,
+i n'ha acabat sortint aquesta entrada i ara n'acabarà sortint aquest àudio.
+Si comencem pel principi, l'i-gel és un dispositiu de gestió de la via aèria,
+de maneig de la via aèria dels pacients.
+Entra en una categoria dels dispositius supraglòtics.
+Supraglòtic vol dir que està per sobre les cordes vocals.
+Vol dir que no passarem un tub endotraqueal per sota les cordes,
+que quan inflem el pneumotaponament aïllem la part baixa de la via aèria
+de tota la part superior i per tant es disminueix el risc d'aspiració,
+i alhora s'aïlla, és a dir, el gas que entra per dins del tub no fuga per enlloc.
+Això és la idea dels dispositius infraglòtics.
+Amb els supraglòtics el que fem, amb aquest dispositiu fem entrar el gas de l'exterior
+directament cap a la glotis, cap a les cordes vocals, però no les arribem a travessar.
+Llavors no fem un aïllament complet.
+Per això la idea de supraglòtic et permet ventilar,
+però no et garanteix una estanquitat de la via aèria.
+Per tant, pots tenir fugues i pots tenir aspiracions.
+Poques, però en pots tenir.
+No hi ha una garantia que no pugui passar.
+Dels dispositius supraglòtics el més conegut, el més antic,
+és la mascareta laríngia, que no deixava de ser un tub,
+com un tub d'un tub endotraqueal, és a dir, un conducte,
+d'un centímetre i mig o d'un centímetre de diàmetre.
+I a diferència del tub endotraqueal, que el que ja és,
+abans d'arribar al final del tub hi ha aquest globus que s'infla
+dins la tràquea per aïllar, el que teníem era al final
+d'aquest tub, en la mascareta laríngia, teníem una mena de
+pneumàtic en forma d'ou que s'inflava allà
+i el que feia era una mena de segell.
+Això és el que la mascareta laríngia de primera generació era això.
+Diferents marques, diferents models, el que tu vulguis.
+Llavors, en posterioritat van sortir els dispositius de segona generació,
+com és el cas de l'i-gel, que a més a més de tenir aquest sistema
+de segell, aquest sistema d'aïllament, tenien alguna forma
+d'aspirar el contingut gàstric. En el cas de l'i-gel tenim un conducte
+pel que pots fer baixar una sonda gàstrica i aspirar el contingut,
+de manera que disminueixes el risc que hi hagi regurgitació
+i, per tant, el risc d'aspiració.
+Això és molt diferent del... Jo el que menys, el que estic acostumat
+a fer servir alguna vegada és la Fast Trach. No té res a veure amb l'i-gel?
+Té a veure en el sentit que és supraglòtic.
+Supraglòtic, sí.
+És primera generació amb l'afegit que és intubable,
+que pots passar un tub per dins. Però és primera generació
+perquè tu poses la Fast Trach, infles el pneumotaponament de la Fast Trach
+i aïlles, perdó, aïlles, segelles. No arribes a aïllar perquè si vomita
+anirà cap endavant i arribarà al pulmó. En el cas de la Fast Trach,
+és una mascareta intubable, és una mascareta laríngia intubable.
+En el cas de l'i-gel tenim que és una mascareta laríngia,
+que no és intubable, ja en parlarem d'això, i que pots fer el drenatge
+de contingut gàstric per el tub del costat. Després n'hi ha altres,
+hi ha la Supreme, hi ha molts altres dispositius que també permeten
+fer el mateix. La gran diferència de l'i-gel amb aquests altres dispositius
+és que així com els altres dispositius tenen aquest pneumotaponament,
+és a dir, és un globus que s'infla amb aire, l'i-gel no el té.
+L'i-gel, el segell aquest el fa amb el tipus de material del que està fet
+a l'extrem proximal de la sonda, és el que entra dins del pacient.
+Intento descriure una miqueta com és aquest aparell, com és aquest dispositiu.
+Evidentment a l'entrada trobareu les imatges corresponents i demès,
+però intento escriure-ho una miqueta. Si anem de fora cap a dins,
+tenim el nostre connector per enxufar-hi la bossa ambú,
+o el respirador, el que correspongui.
+Perdó, Albert, el respirador manual.
+El respirador... Oh, i tant! Ostres, urgentmot del dia.
+Primer urgentmot abans dels urgentsmots. Molt bé, m'agrada, m'agrada.
+El respirador manual. Fantàstic.
+D'això, si anem de distal a proximal, és a dir, de fora cap a dins,
+tenim aquest connector, un parell de centímetres per sota aquest connector,
+aquest dispositiu, en comptes de la mascareta laríngia tradicional,
+que és aquest tub que arriba fins a baix a la, què n'hi podríem dir,
+la mascareta, el que entra dins la glotis, aquest canvia la forma,
+passa de ser un tub, diguéssim, circumferencial,
+és a dir, un cilindre circumferencial, i passa a ser un cilindre així,
+elipsoide, és a dir, en comptes de ser una circumferència,
+és una mena d'ou, de forma d'ou, que s'estira cap avall.
+Per què és així? Doncs perquè al costat d'aquest conducte nostre
+on connectem la bossa de ventilació, ja hi ha el conducte,
+però on passarà aquest tub gàstric que us comentava.
+La part més distal d'aquest tub, perquè conté els dos conductes,
+és rígida, no es pot deformar, i a més a més és forta,
+de manera que impedeix que el pacient, un cop dins la cavitat bucal,
+ho pugui mossegar, com per exemple passa amb els tubs endotraqueals,
+si tens un pacient que no està prou sedat o prou relaxat,
+pots trobar-te que et mossegui el tub i l'obstrueixi.
+Aquí ja pot mossegar el que vulgui, que no l'obstruirà.
+És totalment rígid, aquesta part.
+Completament rígid.
+Si anem baixant una miqueta més avall, té una forma similar,
+però ja no és rígida, ja és més deformable,
+que és la que ens quedaria per la part de darrere de la llengua.
+Això és un tub que és més o menys recte, doncs clar, un cop posat,
+quedarà la part que va a la glotis a 90 graus respecte al, més o menys,
+respecte on connectaràs la bossa de ventilació, no?
+Sí, sí.
+Que és aquesta segona part del tub.
+I a la part final, el que diguéssim ens fa de segell
+per separar la glotis, per separar la larínge de l'esòfag,
+aquesta part final, doncs, és el que us comentava,
+que no té un globus neumàtic que es pugui inflar.
+És d'un material així com viscós,
+una certa textura gelatinosa.
+La idea que hi ha és que aquest material,
+la forma que té, ja de seguida encaixa molt bé dins de l'estructura anatòmica
+i amb la temperatura aquest material acaba adaptant-se a la forma
+i acaba segellant, és a dir, acaba ocupant tot l'espai
+i acaba fent un segell.
+Aquesta forma és més o menys una mena d'hexàgon,
+que la meitat més baixa de l'hexàgon és una miqueta més allargada que l'altra.
+Això és mirar la imatge.
+En aquesta forma hexagonal és on el conducte de ventilació
+ens projectarà l'aire cap a dins les cordes vocals
+i cap a baix a la tràquea.
+I a la part ja més llunyana d'aquest tub
+hi surt aquest conducte gàstric per al qual passaríem la sonda
+per aspirar contingut gàstric.
+Entenc, per exemple, el nom d'i-gel,
+el gel ve d'aquesta textura de la part final d'aquesta mascareta o no?
+Deu ser per això, no? Interpreto o no?
+M'imagino que sí.
+Deu ser una textura així com de viscosa, gelatinosa, no?
+Si el toques és com enganxós i a més a més el pots apretar,
+és a dir, es pot deformar una miqueta, no és rígid, estrictament rígid.
+Per cert, no ho he comentat al principi,
+els senyors d'Intersurgical, que és el fabricant d'aquestes mascaretes,
+no ens esponsoritzen.
+De fet, no deuen saber ni que existim
+i per tant no tenim cap conflicte d'interessos amb això.
+Home, jo crec que gairebé t'ho puc garantitzar, que no ens coneixen.
+Segur, segur que no.
+El fabricant ven aquest dispositiu en dos formats.
+Un format, diguem-ne anestèsia,
+que bàsicament el que et ven és la mascareta, només la mascareta,
+amb un suport perquè no es deformi.
+Aquest format el ven per pràcticament totes les talles d'humans,
+des de dos quilos fins als que facin falta, en diverses talles.
+I després el ven també en un altre format que es diu Resus Pack,
+que està pensat per als serveis d'emergència.
+Aquest només en ven en tres talles d'adult
+i aquest pack ve la mascareta dins el seu envàs de plàstic,
+ve també un sobre de lubricant, que ja parlarem del lubricant,
+ve la sonda gàstrica
+i ve una corretja de roba per fixar aquesta mascareta en el seu lloc.
+La mascareta Resus Pack, a diferència de la mascareta d'anestèsia,
+té uns ganxos a la part distal, a la part que queda per fora de la boca,
+té uns ganxos en els quals hi fixes aquesta corretja de roba
+i llavors això queda fixat.
+El dispositiu aquest té dues cares.
+La cara, que podríem dir interna,
+que per cara interna entendríem la que mira cap a laringe,
+i la cara externa, que per entendre seria la que mira el paladar del pacient.
+A la cara interna, aquesta mascareta Resus Pack,
+on tenim el connector, li surt un tubet,
+que ja explicarem de què va també això,
+a la cara externa hi té el número de la talla en una ratlla.
+Ja tenim més o menys clar aquestes mascaretes.
+Hem dit tres talles d'adult pel Resus Pack
+i moltes talles més per tot el de l'anestèsia.
+Les tres talles d'adult, això vol dir que ja tenim talles.
+No és un dispositiu que serveixi per a tothom el mateix.
+I entenc que per nens en format de Resus Pack no existeix.
+No, no existeix.
+En el Resus Pack, o les talles d'anestèsia per a adults,
+són les mateixes mascaretes, de fet.
+Tenim tres talles
+i la talla, el fabricant les distribueix per pes.
+La talla 3, que té un suport de color groc,
+o una anella de color groc,
+aquests ganxos que us deia per posar les corretges,
+per posar la cinta,
+aquesta l'indica per a gent entre 30 i 60 quilos,
+el que n'hi diu adults petits.
+30 quilos és un adult molt petit.
+La talla 4, que és la que té l'anella de color verd,
+o el suport, en el cas d'anestèsia de color verd,
+per evitar que es deformi,
+aquest s'hauria d'utilitzar per a gent entre 50 i 90 quilos.
+Si veieu, es cavalca una miqueta entre
+entre la talla 3 i la 4, hi ha un cert cavalcament de pes.
+I la talla 5 és a partir de 90 quilos.
+Aquesta és pel codi de color és taronja.
+Això ja són adults molt grans.
+Amb la talla 4 gairebé faries la majoria de gent, no?
+Entre 50 i 90 quilos.
+Amb la talla 4, segons això, ja podríem fer.
+Què passa?
+Doncs que una cosa és el que diu el fabricant
+i l'altra és el que diu la realitat.
+I hi ha una certa evidència,
+hi ha algun estudi que ho ha fet,
+que el que ha acabat concloent és que
+talla 4 per dones, talla 5 per homes.
+I el resultat és una miqueta millor,
+segurament entraríem ja en els valors estadístics de les coses,
+fer servir la distribució que diu el fabricant
+o fer servir aquesta.
+4 dones, 5 homes.
+Quedem-nos amb la idea que hi ha una distribució per pes
+i compte,
+quan parlem de pes, no estem parlant de pes real del pacient.
+Aquí hauríem d'estar parlant d'una mena de pes ideal.
+90 quilos per un paio que fa dos metres
+és un pes més que raonable.
+Però si en fa metre i mig,
+els dos pesen 90 quilos,
+però la seva via aèria no té la mateixa mida.
+És una cosa que això del tema dels pesos sempre s'ha de tenir present.
+Com que sóc un home senzill,
+a mi m'agraden les coses fàcils,
+dones 4, homes 5.
+És un home petit,
+posaré 4, però fàcil.
+Aquí ja tenim clar, la talla ja està.
+Fàcil, fàcil, aquest està molt senzill.
+No hem de mirar pesos i tal.
+Sabem la talla, ja tenim la nostra talla.
+Al carro d'aturades del meu hospital,
+doncs tenim un 4 i un 5.
+Un cop ja sabem la talla,
+com l'hem de fer funcionar?
+De fet, potser abans de dir com l'hem de fer funcionar,
+hauríem de tenir clar per què la farem servir.
+Perquè jo molt ràpidament he passat dels dispositius supraglòtics,
+per què serveixen aquests dispositius?
+Doncs mira, potser el més senzill,
+el que els nostres oients potser entendran millor és,
+allà on faries servir un guedel,
+pots fer servir això.
+Et serveix per ventilar sense que es col·lapsi la via aèria,
+que seria la mateixa idea que pel guedel,
+i et serviria per mantenir una via aèria permeable
+en malalt inconscient.
+En malalt inconscient de bé pots tenir una via aèria permeable
+si el poses en posició lateral de seguretat.
+Per tant, aquí hauries de valorar fins a quin punt
+t'interessa fer servir aquest dispositiu o no.
+Si has de ventilar, és evident que necessites alguna cosa
+que et garanteixi que la llengua no caurà enrere
+i no obstruirà la via aèria.
+Avantatge d'això, respecte al guedel,
+que amb el guedel, a pesar de tenir la cànula,
+tu has de manipular el cap del pacient
+per garantir que ventiles adequadament.
+Aquí, un cop tens això posat,
+quan ventiles anirà cap on toca.
+No hauràs d'estar manipulant el cap del pacient
+per ventilar adequadament.
+I una vegada has posat això, ja pots ventilar
+i anirà on toqui.
+Amb el guedel, et poses a ventilar
+i ves a saber on anirà per allò.
+Potser la llengua sí que no caurà enrere,
+però és molt fàcil que et comencis a insuflar aire a l'estómac
+i llavors tens una altra mena de problemes.
+Ja sabem què és la mascareta,
+sabem quines talles tenim, sabem on l'hem de fer servir,
+com es posa aquesta mascareta, com es fa servir.
+Detall important.
+Aquesta s'ha de lubricar,
+de fet, tot s'ha de lubricar perquè entri als puestos,
+però aquesta s'ha de lubricar molt bé.
+El fabricant  t'insisteix que l'has de lubricar
+per totes les cares.
+És a dir, la part de la mascareta,
+la part d'aquesta que hem dit que va a la glotis,
+s'ha de lubricar tots els costats.
+El costat posterior, l'anterior, els laterals, el frontal.
+I com que ho lubriques molt
+per tot arreu, home, t'has d'assegurar que no et passis,
+que no hi hagi massa lubricant fora de lloc.
+Per tant, et diu, lubrica'l bé,
+però que no hi hagi gotes de lubricant
+que sobren, que pengen "por ahi".
+Un cop ho tens lubricat, pots fer servir,
+en el cas de la mascareta d'anestèsia,
+el suport aquest que us deia per evitar que es deformi,
+ja té un botonet en el qual poses el lubricant allà
+i vas passejant la mascareta
+i t'assegures que pràcticament no et sobra
+lubricant enlloc. En el cas del Resus-Pack aquest,
+tu agafes l'envàs de plàstic
+de la mascareta, fots el lubricant
+a dins l'envàs de plàstic i vas remenant per allà,
+vas sucant la mascareta. L'envàs et serveix
+per fer fàcil aquesta maniobra de lubricar.
+Pots deixar la mascareta
+lubricada allà dins l'envàs
+a l'espera que la puguis posar.
+Aquí no hem de
+comprovar cap pneumotaponament, perquè no n'hi ha.
+En aquesta fase de la preparació de la mascareta,
+no hi ha pneumotaponament a comprovar.
+Ja tens la mascareta lubricada, ja la tens a punt.
+Et toca llavors preparar
+el pacient. Què vol dir això
+de preparar el pacient? Bé, el que anem a fer
+és gestionar la via aèria d'aquest pacient, és anem a
+resoldre un problema de via aèria que té aquest pacient,
+però ens hem d'assegurar que el tenim
+en condicions de poder-ho resoldre, això.
+L'hem de preoxigenar tan bé com puguem.
+Un dia parlarem de la preoxigenació, si voleu,
+perquè també és un tema que dona
+per molt, i l'hem de posicionar, al pacient
+adequadament per poder-li
+posar la mascareta. Perdó,
+dispositiu supraglòtic, perquè ben bé mascareta
+no és això. Aquesta posició
+del pacient, això també donaria un dia,
+estic veient que haurem de parlar un dia
+de moltes coses de via aèria,
+perquè hi ha masses coses aquí també.
+Aquesta posició del pacient
+té una posició ideal, que és
+la posició de flexo-extensió, o sigui
+una posició en què flexionem i extensionem alhora.
+És una cosa així,
+que dius, home, estem dient una cosa
+i la contrària simultàniament.
+A la meva entrada al blog veureu que hi ha un dibuixet
+del doctor Chrimes,
+em sembla que es diu, que és un
+anestesista que també ja en parlarem algun dia, aquest senyor
+també. Bàsicament el que vol dir és
+que si us sona de la reanimació
+neonatal, que us parlen
+de la posició aquesta d'ensumar,
+doncs vindria a ser una cosa així.
+És a dir, això en anglès també
+aniria en aquesta posició de "ear to
+sternal notch", que bàsicament el que fas és
+quedar en una línia paral·lela
+on estigui repenjat el malalt,
+entre el manubri esternal i la oïda.
+Aquesta posició el que et permet
+és moltes coses, entre les quals
+queden molt ben alineats
+totes les estructures de la via aèria, que en una forma
+bastant recta, no es comprimeixen
+entre elles. Tenim el pacient
+en condicions, tenim la mascareta en condicions, doncs ja
+podem anar-la a posar, aquesta mascareta.
+Per tant, Albert, una pregunta.
+Aquesta posició és recomanable, però tampoc
+deu ser imprescindible, no?
+De fet, no és imprescindible
+un dels usos que tenen aquestes mascaretes,
+aquests dispositius supraglòtics, és
+poder-los posar en condicions
+variades.
+Està descrit posar-ho en
+gent asseguda, per exemple dins d'un cotxe,
+està descrit amb gent que s'extuben
+quan els operen en prono,
+aquestes operacions estranyes que es fan en prono,
+hi ha hagut algun cas de gent que s'ha extubat
+estant en prono, que això és un drama, perquè
+a mitja operació, tens un tio en prono, com collons
+ho fas? Doncs, goita, li casques una mascareta d'aquestes
+des de sota, en malalts posicionats
+de costat. S'ha provat de totes les maneres.
+Clar, quina
+és la millor? Aquesta.
+Per tant, hauríem d'intentar portar
+la que ens proporcionarà
+més possibilitats d'èxit, però
+certament es pot provar amb
+qualsevol. El cas típic
+pels que fem extrahospitalària, el cas típic
+seria aquest, el que tens un tio dins del cotxe
+que l'has de ventilar, depèn
+de quines circumstàncies estigui atrapat aquest senyor,
+ventilar de segons com és
+infumable. Si no el pots
+ficar per darrere, preguntar, és un drama.
+Pots intentar posar una mascareta d'aquestes
+i amb això pots anar aguantant fins
+que estiguis en condicions de procedir al que toca.
+Sí. Clar, jo pensava,
+t'ho preguntava pel tema del malalt
+traumàtic, que clar, si has de començar
+a fer moltes maniobres amb les cervicals
+i tal, doncs potser és més
+complicat.
+També, també.
+ Si no és una posició necessària,
+bueno, doncs suposo que
+igual que fas la intubació orotraqueal, no?
+Si no és traumàtic pots manipular una miqueta
+i si és traumàtic, doncs clar, lògicament
+s'ha d'anar molt més amb compte.
+Correcte. Sí, sí, tens tota la raó.
+ Per tant, jo t'hauria,
+o sigui, el fet que sigui un malalt traumàtic
+i pugui sospitar que té una lesió cervical,
+no seria contraindicació
+de fer servir aquesta, d'aquest i-gel, no?
+No és cap contraindicació. Sí que et diria
+que en aquest cas aquesta posició ideal,
+doncs segurament no la podràs
+aplicar perquè, com que manipularies
+la columna cervical, doncs no tocaria.
+Llavors hauries d'anar a una posició subòptima.
+De totes maneres, ara quan parlem
+de com fer-ho, ja veuràs que hi ha
+una manera de resoldre, entre cometes,
+aquesta situació que estàs comentant del malalt
+traumàtic. Primer pas per posar
+aquest dispositiu, obrir la boca.
+Podem fer servir la tècnica aquesta del creuament de dits
+que si ara estiguéssim en
+vídeo, veuríeu que vaig fent amb els dits això
+que amb el polze cap amunt mentre el creuo amb l'índex
+cap avall, que és la forma que tenim típica
+d'obrir les boques de la gent. Problema,
+que si obres així també estàs prenent espai
+per on després hauràs de posar la mascareta.
+L'altre és simplement posar el dit
+damunt del mentó i tires avall
+i obres la boca.
+Si ho fem amb dos operadors, que seria
+ideal fer-ho amb dos operadors, el que fas
+és, el que no té la mascareta a la mà,
+el que fas és posar els polzes
+damunt del mentó mentre amb
+la resta de dits
+aguantes el cap en posició neutra
+i desplaces avall, amb els polzes tires avall
+la mandíbula i obres la boca.
+El que comentàvem del
+malalt traumàtic,
+doncs fem això, és a dir, l'ajudant
+es posa agafant amb els polzes
+damunt del mentó, els altres
+dits aguantant el cap en posició neutra
+i amb això obres la boca mentre
+no bellugues el cap.
+Doncs un cop ja tenim aquesta boca oberta, ara ja ens toca
+posar la mascareta. Com amb totes les mascaretes laríngies
+hem de tendir a buscar el paladar del pacient amb la mascareta
+i evidentment el forat per on
+sortirà l'aire cap a la laringe, el que ha de fer és estar mirant
+cap a la llengua. Si fotem el forat
+mirant cap al paladar
+i el deixem mirant cap al paladar, doncs clar, quan entrarem
+la mascareta al revés això serà un merder. No és
+possible. És a dir, hem de tenir
+al final de tota la maniobra, la mascareta
+ha de quedar amb el forat de
+ventilar, és a dir, el forat per on sortirà l'aire
+que nosaltres entrarem des de fora amb la
+amb la bossa de ventilació
+ha d'estar mirant cap a la
+glotis, cap a la laringe.
+ De fet, el tub
+té una forma així una mica
+convexa, no?
+ Sí, sí, és a dir, realment hi ha
+una certa, per poc sentit comú
+que hi posis ja veus que ha d'anar d'aquella manera
+i no d'una altra.
+Exacte. És com si
+volguessis posar el tub de guedel al revés, saps?
+Bé, però és que de fet el tub de guedel
+et diuen que l'has de posar
+mirant cap amunt i girar-lo després, oi?
+Sí, però encara no et pot quedar pas
+al revés de com ho hauries de posar.
+ No, però estic segur que trobaríem algú capaç de fer-ho, eh?
+Sí, sí.
+Perquè sempre hi ha algú capaç de tot.
+Doncs això tenim ja la...
+estem entrant aquesta mascareta, anem a buscar
+entrar-la pel paladar, anar rascant per darrere el paladar
+vas entrant-la, aniràs
+veient que vas seguint, arribarà un moment
+què ja no podràs passar. Hi ha
+una resistència que no podràs passar. Llavors ja
+ha quedat ben posada. Compte amb això, el fabricant
+insisteix que quan passes per
+les amígdales hi ha una certa
+resistència, que sí que
+ets capaç de superar, que ho hauràs d'apretar una miqueta
+i després ja superaràs, sí?
+Us en recordeu que us he dit que la cara
+posterior de la mascareta hi ha
+el número de la talla i una ratlla? Doncs aquesta
+ratlla negra, que és perpendicular al conducte
+de la mascareta, aquesta ratlla negra és la que ens ha de quedar
+més o menys a l'alçada de les dents
+incisives dins la boca.
+Si tu veus que tens quatre
+dits fora, no has arribat.
+D'acord?
+Això que us he dit ara són les instruccions que dona
+el fabricant per poder entrar
+la mascareta. I com
+passa amb tot, doncs hi ha
+hagut gent que s'ho ha estat mirant, remirant i tornant
+a mirar i sembla que si en comptes de fer això
+que diu el fabricant, entrem
+la mascareta girada 90 graus
+en sentit antihorari
+això vol dir mirant en aquest cas el forat
+en comptes d'estar mirant cap a la
+llengua estaria mirant cap a l'orella
+esquerra, doncs
+sembla que va millor. Tu entres aquí
+fins que ja realment te la vas entrant en aquesta
+forma així perpendicular
+a la llengua i quan
+ja arribes darrere la retrofaringe
+doncs això, ell mateix ja et gira i et
+posa pla. Si aneu
+a la meva entrada al blog hi ha un vídeo que hi ha un
+senyor savi que explica
+això i ho demostra i demès.
+Una cosa que diu el fabricant, l'altra és el que diu aquest estudi
+realment facis el que facis, la taxa d'èxit és
+molt gran. Sí que ens recomana el senyor
+aquest savi del vídeo, una vegada
+anem entrant i aquesta mascareta ja gairebé
+està a lloc, ens pot ajudar molt l'elevació
+mandibular. És a dir, si estàs...
+parlàvem abans que un tio sol
+apretant amb el dit el mentó obria la boca
+doncs llavors pots aprofitar quan ja tens la mascareta
+molt endins, aprofitar i pinçar
+amb l'índex, pinçar i tirar
+amunt la mandíbula
+si tens els dos operadors que
+parlàvem al principi, potser millor amb dos
+doncs els dits aquests que tens al
+costat de la cara agafen les barres de la mandíbula
+i tiren cap amunt, perquè si tires
+la mandíbula cap amunt acabes de fer una miqueta
+més d'espai a darrere la retrofaringe
+i llavors acabes d'entrar bé la mascareta
+que quedi molt ben posadet la punta de la mascareta
+a l'esòfag i tot quedi ben col·locadet
+així també com que tirem amunt hi ha menys
+risc que la mascareta
+ens arrossegui la epi-gelotis i la plegui
+la mascareta està dissenyada perquè això no passi
+però com sempre a la vida, si ens
+ho proposem la podem liar molt
+Fins aquí ha quedat clar com s'havia de fer això?
+Ha quedat clar. La mascareta
+ben lubricada.
+Sempre.
+intentar anar per
+pel paladar i fins que arribi
+fins a la línia transversal
+que hi ha marcat en la mascareta
+que diu que ja estàs a l'alçada
+de l'arcada dentària, no?
+Correcte
+Correcte, sí, sí. Si hem fet això
+ja tenim la mascareta ben posada
+que estigui ben posada no vol dir que serveixi
+ara toca fer el següent, que és comprovar
+si realment podem ventilar
+Com es comprova? Doncs de les maneres que us han
+explicat a tot arreu, a tots els cursos de suport vital
+Ventiles i a veure si el tòrax
+puja o baixa. Pots auscultar
+a veure si entra o no entra aire
+L'ideal, cony, la capnografia
+Si tens capnògraf, mires el capnògraf
+hi ha corbes de capnografia
+cada vegada que exhala? estàs movent
+aire de dins els pulmons cap a fora
+Si això no passa tenim
+un problema i és un problema d'aquests
+que s'ha de donar resposta ràpid perquè justament
+si posem això per poder-lo ventilar
+i si no l'estem ventilant li estem fent una putada
+Per tant, retirem tot i tornem a començar
+És poc probable que passi
+però pot passar.
+Que ventilem bé, goita, doncs passem les
+corretges aquestes que... passem la cinta aquesta de roba
+fixem la mascareta i a partir d'aquí ja
+el que toqui fer. Si estem en una reanimació
+doncs el 30:2 el que toqui
+Si s'ha de ventilar amb ventilació positiva
+d'un respirador, doncs el que toqui
+Si ens hem trobat que fracassàvem, que ja us dic
+és poc habitual, de fet en diferents estudis
+es parla que l'estimació d'èxit del primer intent
+és entre el 85 i el 95%
+Vol dir que la immensa majoria
+d'i-gels que posarem, a la primera funcionaran
+I aquests mateixos estudis
+diuen que pràcticament s'arriba al 100%
+al tercer intent
+El fabricant diu que no ho facis, no ho provis
+més de 3 vegades, això també és tenir-ho present
+Clar, si sí 3 vegades
+Evidentment totes aquestes coses
+quan es diu de tornar-ho a provar
+no es torna a provar igual que ho has fet la primera vegada
+Si la primera vegada has fracassat
+no repeteixis el que t'ha portat al fracàs
+Canvia alguna cosa
+O la talla, o lubrica més
+o canvia la
+la posició d'alguna cosa
+Canvia l'operador, no sé, el que toqui
+S'ha de fer algun canvi
+Tu has dit abans
+que això podria ser com un substitut
+de ventilar amb el tub de guedel
+El que passa és que ho veig
+més entretingut
+de posar aquest, no?
+L'i-gel o no?
+El tub de guedel en 3 segons
+el tens posat i després
+amb el respirador manual
+vas ventilant
+ja sé que no protegeixes la via aèria
+ni res, però ventiles
+En canvi això, mentre lubriques
+no sé què, no sé quantos
+és més lent
+Algun d'aquests estudis
+parla que es triga 5 segons a posar-ho
+Clar, jo aquest 5 segons
+a posar-ho
+m'imagino que és des del moment
+en què agafes la mascareta
+preparada i la poses
+El tub de guedel el portes a la butxaca
+de l'armilla
+o dins un cinturó que ja portes
+a la cintura i pum pum
+el poses, quan creus que el necessites
+en 5 segons ja el tens posat
+En canvi l'i-gel...
+No et dic que no, però
+compte amb aquestes previsions de temps
+què fem amb aquestes...
+Quan fem el nostre pensament mental
+del que costa fer-ho... el que realment costa
+Clar, tu pot
+ser que posis un guedel
+però és clar, si això no et resol
+el problema de ventilar, has perdut un temps preciós aquí
+Des que tu decideixes que
+posaràs el guedel fins que el poses
+potser encara hi ha un senyor fent unes compressions
+toràciques si és una aturada cardíaca
+i estàs uns segons esperant
+Jo, per exemple, el tub de guedel
+moltes vegades ja me'l trobo que
+està posat perquè ja ha arribat
+una Tango
+prèviament i ja està ventilant
+i ja tenen el tub de guedel
+i després tu t'hi poses a instrumentalitzar
+una miqueta més la via aèria
+però ja em trobo moltes vegades el tub de guedel
+o jo quan arribo no necessito obrir cap
+bossa de via aèria perquè
+jo ja porto un tub de guedel a la butxaca
+per dir-ho d'alguna manera
+En canvi, si m'haig d'esperar
+que obri la bossa de la via aèria
+i buscar l'i-gel i no sé què
+abans no el tingui
+posat a la boca el pacient
+que ha passat un minut tranquil·lament
+Serveis d'emergències
+que han optat per aquesta
+solució
+per les reanimacions cardiopulmonars
+Mira, just avui el grup de Telegram
+que tenim, que tenim un grup de Telegram
+no ho hem dit al principi, ja ho direm al final
+quan he publicat això ja surt gent explicant coses
+i es veu que el grup La Pau
+la cooperativa aquesta d'ambulàncies de Badalona
+que entre d'altres
+llocs porta ara el
+Servei d'Emergències Sanitàries, Transport Sanitari
+d'Euskadi
+estan fent un estudi pilot d'això
+que al NHS
+al Regne Unit ja fa molt temps
+que les reanimacions
+les fan amb i-gel, els paramèdics
+els paramèdics no, els EMTs
+els tècnics
+que ells no porten la bossa de via aèria
+però quan van al paro
+doncs el seu sac on porten
+la bossa de ventilació
+ja hi porten l'i-gel
+Sí, però jo ho entenc com
+a substitut de la intubació orotraqueal
+clàssica
+Jo pel que he llegit aquí
+estem parlant de la reanimació cardiopulmonar
+què funciona la reanimació cardiopulmonar?
+Compressions i tal
+per tant comences per les compressions
+i per la desfibril·lació i en el moment en què això
+ho tens cobert, doncs quan ja has posat
+els pegats i ja ho estàs cobrint
+amb una sola persona, llavors l'altre va i munta la mascareta
+Clar, depèn una miqueta com
+com t'organitzis tu
+la teva atenció, en aquest cas concret
+de l'alturada cardiorespiratòria
+que és una cosa que és, diguéssim, una coreografia
+més o menys que pots entrenar i orquestrar
+adequadament, doncs això serà més o menys
+lent. Si això ho tens, el fons de la bossa
+allà a tomar pel sac
+a més a més la bossa darrere del cotxe
+que no treus mai perquè és la de...
+no et funcionarà igual de bé
+És que jo ara ho entenc més com a
+com a un
+com un recurs en cas de que
+la intubació orotraqueal clàssica
+no, no... sigui dificultosa
+i no tingui èxit, doncs després
+o li poses una Fast Trach
+o li poses el l'i-gel o algun recurs...
+algun recurs, doncs
+que sigui més fàcil i més segur
+Clar, és una indicació
+de la mascareta laríngia, dels dispositius supraglòtics
+quan no pots intubar
+no pots fer una intubació endotraqueal
+llavors intentes ventilar amb un dispositiu supraglòtic
+és una altra de les indicacions dels dispositius
+supraglòtics, és el rescat
+de l'altre. Aquí, jo
+en el meu pensament, aquesta mascareta
+és ideal per la reanimació del suport vital bàsic
+és a dir, ara mateix jo agafaria, si fos per mi
+a totes les bosses que porten
+els ambús, les bàsiques, trauria els
+guèdels i fotria això. Clar, evidentment
+no traurem els guèdels perquè
+després de tota la vida fer servir guèdels
+a mi em treus també el guèdel i jo també
+em sento una miqueta despullat
+però ho tindria a la vora i evidentment
+hauria d'estar entrenat a fer-ho servir
+lubricar i tal és una miqueta lent
+evidentment no seran els 5 segons
+5 segons imagino que és obrir boca i fotre-ho a dins
+jo quan ho he estat remenant amb un ninot
+realment és molt ràpid, però tens la mascareta a punt
+l'has de preparar primer.
+Estàvem parlant
+que no la podíem ficar a la primera
+quan justament a la primera funciona i si no a la segona
+també, ja gairebé segur que
+l'hauràs pogut posar i podràs ventilar adequadament
+que és la complicació
+que potser per mi és la més important o la més perillosa
+és aquesta, que la posis i no puguis ventilar
+tens un merder important i has de
+ser ràpid a detectar-ho que no funciona
+i provar-ho de nou o canviar el que toqui
+l'altra complicació que sí que és més habitual
+complicació de tots els dispositius
+supraglòtics és
+les fugues. Clar, això no és
+un segell tan ben segellat
+com el del tub endotraqueal.
+És probable que hi hagi fugues.
+En aquest dispositiu, que a més a més no teniu
+pneumotaponament, podríem pensar
+que n'hi pot haver-hi més que en altres
+dispositius.
+Pel que expliquen els que l'han fet servir
+alguna vegada és que necessita un cert
+segons per acabar-se d'ubicar
+entre que tu l'acabes de bellugar
+i que la temperatura i demès
+acabi agafant la forma, o sigui, fuga més
+al principi que una miqueta més enllà.
+Hi ha un estudi "por ahi" que han mesurat realment
+quan fuga
+i representa que a partir de 26 centímetres
+d'aigua de mitjana, amb una desviació
+estàndard de 8, és a dir, de 18 fins a
+el que toqui, bueno, tampoc és 18, és igual
+més o menys aquest número, 20 bastants
+centímetres d'aigua, que això ja és una
+pressió ja amb una certa entitat
+és probable que fugui sempre.
+Per sota d'aquí no acostuma a fugar.
+Si ens fuga molt...
+si fuga només una miqueta, goita, tira, ja està
+si realment veus
+que fuga molt, intentes
+manipular la mascareta trobant la
+posició ideal, la posició en què
+fuga menys, i si tot i així segueix
+fugant és que probablement has posat una mascareta més petita
+del que tocava, llavors és quan
+l'hauries de canviar per una de més gran
+i finalment, posats
+a buscar complicacions d'aquesta
+i-gel, és el tema del...
+de la regurgitació
+o de... el mateix que tenen tots
+els dispositius supraglòtics, és a dir, si el malalt vomita
+se'n pot anar al pulmó.
+Avantatges d'aquests de segona
+generació, com que tenen un forat
+el gas de l'estómac ja pot sortir pel forat
+i si es regurgita, doncs el líquid
+també pot sortir pel forat, de fet
+hi ha algun cas d'aquests que
+detecten que el malalt vomita
+quan veuen que surt la porqueria pel forat.
+Però la gràcia del forat no és
+que et surti per aquí, la gràcia del forat és que tu puguis entrar
+el tub per treure-ho.
+El que us comentava abans quan us descrivia
+la mascareta aquesta i-gel
+i aquest conducte, és un conducte molt petit, passa
+una sonda del 12, s'ha de lubricar
+molt bé perquè si no, no passa.
+El que et diuen de fer és agafar d'aquell sobre
+de lubricant que teníem
+en el resus pack que havíem fet servir per sucar
+la mascareta, doncs poses una miqueta
+bueno, una miqueta, el que puguis
+el que càpiga, el poses a dins del forat
+també n'hi podries posar la sonda i llavors entres la sonda
+aspires tot el que puguis.
+Cal fer-ho sempre?
+Home, no cal fer-ho sempre, amb una
+aturada cardiorespiratòria us recomanaria que ho féssiu
+sempre, perquè si buides tot el contingut
+de l'estómac, el que tenia el pacient més, el que se li
+pugui haver donat mentre se'l ventilava amb el boca a boca
+o amb el que sigui,
+tota la pressió que puguis treure dins l'abdomen
+és pressió que també trauràs dins del tòrax, per tant
+hi haurà una millor
+hemodinàmica del pacient mentre fas la reanimació
+i a sobre, com que el buides
+doncs hi ha menys risc que
+regurgiti, per tant de broncoaspirar.
+Salvetat de sempre,
+en una aturada cardiorespiratòria
+el que s'ha demostrat que funciona són les compressions
+toràciques de qualitat i la desfibril·lació precoç
+Si aspirar suposa dificultar
+això, no ho facis
+lo important és lo important
+compressions toràciques de qualitat
+i desfibril·lació precoç, això ho tens cobert
+vés a buidar, si no
+ho tens cobert, no ho facis
+Per què el que buides és... pretens buidar
+aire o contingut gàstric?, o sigui l'aire
+o líquids o sòlids?
+perquè per aquella sonda no crec que puguis aspirar
+molta cosa, no?
+Sòlids poc, aire molt, espero
+i líquid el que hi hagi.
+El que és més molest habitualment
+és el gas, és l'aire
+però, bueno, si també t'emportes líquid
+mira, una cosa menys que hi ha
+per preocupar-se. Sòlid, evidentment
+si hi ha menjat espaguetis
+és complicat
+doncs l'espagueti no te l'emportaràs
+bueno, no sé, potser si són d'aquests petits...
+i la sonda aquesta representa que és
+suficientment llarga per arribar a l'estómac, sí, no?
+Sí, sí que ho és, sí, sí
+Us en recordeu al principi quan us descrivia
+el dispositiu? Us he dit que en el
+connector, a l'extrem distal del connector
+hi sortia un tubet
+Ara que estàvem parlant de la reanimació cardiopulmonar
+amb aquest dispositiu, justament aquest tubet
+serveix per una de les coses que en el seu moment
+va estar de moda, i que ara ja no se'n parla gaire
+i no sé si tornarà, que és la oxigenació
+apneica.
+En el seu moment es va fer la hipòtesi de què
+si nosaltres podíem proporcionar
+oxigen a la via aèria
+doncs el malalt s'anava oxigenant
+independentment que es ventilés o no.
+Els senyors que van dissenyar la i-gel aquesta
+van dir, ep, aquí tenim negoci
+i el que han fet és posar aquest conducte
+en el qual tu connectes una tubuladura d'oxigen
+connectada a l'ampolla, obres
+l'ampolla i per aquí va entrant oxigen
+independentment que ventilis o no. Evidentment
+la connexió de la bossa de ventilació
+ha d'estar oberta. Si estem fotent gas a pressió
+i no surt per l'altra banda, la liaríem també
+És una altra eina que hi ha
+En el seu moment això tenia molta requesta
+Ara jo diria que ha caigut en desús
+si és que mai havia arribat a estar amb ús
+això de l'oxigenació apneica
+però tenim aquesta possibilitat si fem servir
+la mascareta aquesta resus pack
+I ja, bueno, ara de la mascareta ja
+pràcticament ho hem dit tot
+Quina mascareta triar, com preparar
+la mascareta i el pacient, com es posa
+com fer servir el conducte
+gàstric per descomprimir estómac
+Ara ja ben bé només ens queda
+treure-la. Treure-la quan?
+Bàsicament, si el pacient es mor la treus
+Treure una cosa d'un que s'ha mort, la treus i ja està
+no té més drama. Si no l'hem treta
+perquè no s'ha mort, s'hauria de retirar
+abans de quatre hores.
+A diferència de les mascaretes laringes amb pneumotaponament
+que sempre podies,  el cas de la Fast trach
+que havies parlat abans, no?
+És a dir, la Fast Trach, un cop has intubat per dins la Fast Trach
+desinfles la Fast Trach i ja la trauràs
+quan estiguis en condicions
+Aquí no hi ha res a desinflar, això s'ha de treure
+a quatre hores des del moment de la inserció
+això és el que diu el fabricant
+Quan la traurem?
+Resulta que ho hem fet tan bé, el que sigui,
+que el pacient es recupera
+i comença a voler
+escopir el dispositiu aquest doncs el traurem.
+Evidentment, el traurem
+si no el queixala
+Si l'està queixalant, no tibarem amunt
+el traurem quan estiguem en condicions de treure'l.
+Com es treu? Simplement
+aspires primer per treure tota la porqueria que hi hagi
+dins la bucofaringe i demès i llavors vas retirant
+suaument cap a fora fins que toqui
+i un cop l'has tret, fas el que toqui
+l'oxigen, el que correspongui.
+A quiròfan és el que passarà
+Li han posat la mascareta aquesta i demès
+és el que passarà, però nosaltres que anem pel món
+o ens venen condicions lamentables
+aquest pacient no el reanimarem
+tan bé com perquè no necessiti alguna cosa més.
+El més habitual serà que haurem de recanviar això
+per un tub endotraqueal.
+Aquesta mascareta, a diferència de la Fast Trach que has comentat tu abans
+aquesta no és intubable,
+el fabricant no recomana
+que es faci servir per passar-hi un tub
+excepte si tens un broncoscopi
+De fet, m'atreviria a dir
+que per tots els dispositius supraglòtics
+hi ha algú que ha fet servir
+el dispositiu supraglòtic com a conducte
+per entrar al broncoscopi i després
+posar-hi un tub endotraqueal.
+Aquesta també. A pesar que
+el fabricant diu que no s'ha de fer servir
+per posar un tub endotraqueal si no és amb un broncoscopi
+hi ha la tira de gent
+que ho ha fet servir per
+posar tubos endotraqueals de totes les maneres
+que us pugueu imaginar. En pacients de veritat
+en maniquins, posant un tub
+endotraqueal a cegues, fent servir
+la i-gel per passar
+una guia d'intubació, una frova.
+Una d'aquestes guies llargues. Hi ha un cas
+que van fer servir amb l'ecògraf
+veient a veure si el tub entrava o no
+ecografia de la via aèria, això també és un altre tema
+a parlar algun dia. A pesar que
+no s'hauria de fer, s'ha fet
+servir. I resulta que hi ha algú que diu
+que funciona no pas massa pitjor que la Fast Trach
+que la Fast Trach sí que es pot fer servir
+o sigui que aquestes coses
+de l'evidència científica. És a dir
+fabricant diu que no, la gent que
+ho ha estudiat ho han fet de tot
+i sembla que és pitjor que la Fast Trach
+tot i que la Fast Trach tampoc és que tingui uns números
+gaire espectaculars
+amb això. I jo em sembla
+que no tinc res més per explicar de l'i-gel.
+A la meva entrada al blog hi ha
+les imatges, hi ha el vídeo, hi ha el pòster
+del fabricant que si tu tens
+això, aquest pòster l'hauries de tenir
+més o menys visible per
+revisar-lo quan convingui.
+I la meva esperança és que
+això que ara és un producte ben estrany
+que ben poques vegades l'hem vist fer servir,
+les bàsiques sobretot,
+els tècnics, la comencin a fer servir
+amb una certa habilitat a veure si...
+jo penso que hi notaríem diferència.
+Jo penso que això que explicaves
+Albert de canviar-la per
+un tub endotraqueal, jo penso que
+si l'has fet servir
+i et ventila bé el malalt
+i en mitja hora, una hora arribaràs al centre hospitalari
+jo ja m'esperaria...
+amb condicions més controlades
+i més suport de personal
+i tal, allà si
+després s'ha d'anar a la UCI
+o s'ha d'anar a quiròfan o el que sigui
+després en condicions més ideals
+es fa el recanvi, però si tu el tens ben ventilat
+i per mitja hora
+o una hora jo no me la jugaria
+començar a remenar i començar
+Jo tampoc, jo tampoc me la jugaria
+a fer servir
+tècniques estranyes
+que el propi fabricant et diu que no facis servir
+jo no me la jugaria.
+Sí que el que faria seria avisar
+i dir, escolta'm, senyors
+de l'hospital patata
+que vinc amb un tio que porta
+i que la voldreu recanviar
+si voleu anar avisant
+a qui li correspongui per passar
+el broncoscopi, si el tens
+aquí la cosa es complica
+quan entrem en aquestes dimensions desconegudes
+del que et recomanen
+de fer i et trobes amb el que pots fer
+molts d'aquests ho justifiquen dient
+que són de països que potser
+no tenen el mateix nivell sanitari
+que nosaltres, justifiquen dient que el broncoscopi
+no estava disponible
+el que tu vulguis
+sempre hi ha una excusa que justifica aquest cas
+concret que després es publica
+perquè si no com justifiques
+que no has fet cas del que et diu el fabricant
+que has de fer, no? Va ser un desastre
+aquest mateix de la intubació
+aquest de la fast trach en prono
+com ho expliquen? Que es va extubar
+i un cop extubat què foto? Doncs vaig provar
+de posar-li perquè lo altre era un drama
+i hagués pogut ser
+una catàstrofe i ho vaig salvar així
+i llavors publiques.
+ Jo personalment et puc dic que no l'he fet servir mai
+juraria que
+disponible no la tenim
+ni a l'USVA ni a urgències.
+ Jo t'haig de dir que
+ninots a tots
+i en totes les condicions possibles
+en humans cap vegada
+que és una de les coses divertides que passa amb això
+que teòricament entrenem tant i ens hi fixem tant
+és que després quan ho has d'aplicar a la realitat
+o no ho tens o tires per
+una altra banda que és la que has fet servir sempre
+o no hi penses.
+Per això també part d'aquesta entrada ve del fet
+de dir, no, goita. Jo ho tinc, sé com es fa
+servir. Ara quan tingui un pacient que ho necessiti...
+Ho tens disponible?
+el carro d'aturades de l'hospital
+Ah sí?
+L'ambulància evidentment no perquè
+no és material de dotació, de moment
+I això ho teniu en el carretó
+d'aturades d'urgències
+o a planta? O sigui els que teniu
+en els carretons d'aturades de planta
+i tot això també feu servir
+això o no? O on ho teniu això?
+No, no, no. Només els d'urgències
+em consta que
+a quiròfan tenim molts dispositius
+i-gels també
+no sé fins a quin punt els nostres anestesistes
+prefereixen aquest o la mascareta
+laríngia tradicional. Això mira, els hi preguntaré
+a veure què els agrada més
+Molt bé, molt interessant. Provarem
+aviam si d'aquí un temps podem fer
+una segona versió amb les nostres experiències ja.
+Home, jo sabent que
+aquests del grup La Pau ho estan provant
+al País Basc
+ a veure si algú... ja miraré de contactar amb ells
+a veure que... que ens ho expliquin, a veure com els ha anat
+aquest invent.
+Val, doncs va Albert, continuem...
+canviem de secció?
+Doncs del menys és més, avui volia parlar
+d'una altra recomanació
+que fa l'Essencial, del Departament de
+Salut, que ens explica
+la no indicació
+de forma sistemàtica
+del tractament broncodilatador
+en casos d'insuficiència
+cardíaca congestiva
+en els quals els pacients es presenten
+amb dispnea, amb tos i amb sibilàncies
+És a dir, molts pacients
+que venen amb insuficiència cardíaca
+congestiva a urgències, un dels
+símptomes i de signes que podem
+veure és que el pacient té
+sibilàncies, té tos,
+té dispnea, i una tendència
+que tenim és que
+de forma sistemàtica, com que tenen
+sibilàncies, els hi posem tractament
+broncodilatador, sigui
+els beta-dos adrenèrgics
+o l'ipratropi
+perquè faci una broncodilatació i no tingui
+aquestes sibilàncies. Doncs el mecanisme
+que provoca aquesta
+broncoconstricció és
+diferent, que sigui per una causa respiratòria,
+sigui una asma, sigui un EPOC,
+que sigui per una insuficiència cardíaca
+que és el que en diem una asma
+cardíaca. El mecanisme fisiopatològic
+és diferent. El de l'EPOC
+i el de l'asma és una inflamació
+i una contracció de la musculatura
+de la via respiratòria
+i per tant els broncodilatadors,
+el salbutamol i l'ipratropi,
+funcionen. En canvi,
+les sibilàncies que veiem
+en l'asma cardíaca,
+això es provoca per un augment de la
+hipertensió venosa pulmonar,
+que fa una congestió pulmonar, i hi ha una
+constricció reflexa de la via respiratòria
+i fa sibilàncies també. Sibilàncies,
+tos, dispnea, i això per més
+broncodilatadors que li posis, no milloren.
+Inclús hi ha alguns estudis
+que diuen que provoques algun tipus
+de cardiomiopatia,
+augmentes el risc d'hospitalització
+per arrítmies cardíaques, i no
+sembla beneficiós, tot i que
+molts pacients que venen tenen
+de base EPOC i
+asma, i consulta per una
+insuficiència cardíaca aguda, però
+sí que haurien d'intentar diferenciar
+si la simptomatologia que té de dispnea,
+tos i sibilàncies és
+més per un problema d'una asma cardíaca
+o és per la seva malaltia de base
+d'EPOC i asma.
+En cas que pensis
+que sigui més per la causa de l'asma cardíaca,
+no associar-hi
+els broncodilatadors. I per tant
+la recomanació final
+de l'Essencial, perquè sí que ho veiem això,
+veiem que entre un
+15-20%
+de tots els pacients que venen a urgències
+per una insuficiència cardíaca congestiva i que
+presenten sibilàncies, els hi posem
+broncodilatadors, i moltes vegades de forma
+simultània, salbutamol i
+ipratropi. Per tant,
+perquè no sigui aquest 20-i-pico percent
+dels pacients que els hi posem aquest tractament,
+doncs intentar diferenciar-ho una
+miqueta si les sibilàncies són per
+la seva malaltia de base, EPOC
+o asma, o és per la malaltia aguda
+de la insuficiència cardíaca
+congestiva. Per tant, la
+recomanació final de l'Essencial, que és del
+desembre del 21,
+és no fer servir de forma sistemàtica
+tractament broncodilatador
+en els casos de
+insuficiència cardíaca congestiva,
+que venen urgències i que presenten, doncs,
+sibilàncies, dispnea i tos.
+Molt bé. O sigui que
+el ventolín cuidadín.
+El ventolín cuidadín en
+insuficiència cardíaca. Exacte.
+Una altra entrada
+de l'EMpodcat d'avui és parlar dels urgemmots.
+No sé si, Albert,
+tenies alguna... algun urgemmot
+per comentar-nos?
+Sí, tot i que no sé fins a quin punt
+és urgemmot o ortografia.
+Bueno, tot serveix.
+Fa ja mesos vaig tenir un
+pobre home, un senyor gran, que se li'n
+va anar bastant la pilota.
+Ja sabem que això no passa mai als hospitals,
+que la gent gran a la nit, tots estan centradíssims.
+I a urgències encara menys, no?
+Exactament. La qüestió és que vaig anar a
+escriure jo les meves notes
+i vaig posar que el senyor tenia pensaments
+delusoris.
+Clar, i jo vaig posar,
+pensant que delusori ve de... il·lusió,
+amb ela geminada. Doncs no.
+Deu ser de les poques coses que
+en català no van amb ela geminada.
+Delusió i delusori, la definició
+és un engany que tens a la ment,
+van sense ela geminada, és una ela simple.
+Delusió.
+Delusió.
+Allò de amb il·lusió, doncs no, aquí no és
+amb il·lusió, és sense
+il·lusió, delusió, a seques. Ela simple.
+Fantàstic. Molt bé, molt bé.
+Doncs jo tenia...
+havia fet un recull
+d'estris, eines,
+instruments i aparells
+que podem, o fem servir
+de fet, habitualment a urgències
+i que de vegades
+fem servir un terme que no és correcte
+o de vegades en tenim algun altre que pot... que ja és correcte
+però en tenim algun que és més recomanat
+almenys pel TermCAT.
+I en tinc bastants.
+Jo ho dividiria en diversos episodis
+i si vols avui en fem...
+en nomeno 10 i el dia
+següent en fem 10 més.
+10? Mare de Déu. Sí que tens trastos.
+Sí, sí, tenim...
+O sigui, urgències en fem servir molts de trastos, eh?
+Algun d'aquests ja... crec que
+hi ha algun altre episodi, ja
+l'hem comentat, però bé, jo penso
+que són coses que de vegades si les sents repetir
+diverses vegades és quan
+les pots començar a integrar una miqueta.
+Aviam, parlo del...
+de l'abaixallengües
+que és una forma més correcta
+de parlar del depressor lingual.
+Ja pots parlar de depressor lingual, però
+si el TermCAT
+et defineix com a forma preferida
+l'abaixallengües, val? Per mirar unes amígdales,
+per mirar si té alguna cos
+estrany o el que sigui a
+la hipofaringe, doncs l'abaixallengües
+aquell bastonet de fusta
+que no els agrada gens als nens, doncs allò.
+Després, quan arribes a l'hospital
+te'n vas a guardar les teves coses
+i ho guardes dins el teu
+armariet, que no és la taquilla
+perquè la taquilla és on te vas a comprar
+els bitllets pel tren, pel cinema, pel teatre
+i tal, això és una taquilla. Però on te guardes
+tu les teves coses personals,
+sigui al gimnàs, sigui on sigui,
+això és l'armariet. Després,
+hi havia un altre que em sembla que el vas
+proposar tu, que era el baiard.
+Home, i tant, i tant.
+En lloc de la camilla
+i aquestes coses, doncs el baiard
+que és similar
+a la llitera,
+però és com més per ús
+extrahospitalari i una mica més
+bàsic, que són dos vares
+amb una lona entremig o
+algun sistema entremig
+de les dues vares, per agafar un malalt de
+forma provisional i
+a pes de braços,
+portar-lo fins a una zona més estable,
+una ambulància o sobre la llitera
+més estable. Això és el baiard.
+És bastant rústic, bastant rústic.
+Sí.
+Després, parlar de la bomba d'oxigen,
+que moltes vegades diem la botella,
+la bala, el tanc, la bombona...
+Doncs no, és la bomba d'oxigen.
+Mira, justament jo avui n'he parlat d'això
+i malament veig.
+Doncs hem de parlar de la bomba.
+El braçal pneumàtic, per mirar
+la tensió i aquestes coses,
+doncs en el malalt, en el braç, li poses el braçal pneumàtic.
+No és un braçalet ni un manguito
+ni aquestes coses, aquesta crec que ja l'havíem dit.
+Si
+La cambra d'inhalació,
+la cambra hiperbàrica, que moltes vegades diem
+una càmera o no sé,
+en diem d'altres formes, la forma correcta
+seria la cambra. Una cambra d'inhalació,
+una cambra hiperbàrica, no? Els malalts
+amb intoxicació per fum
+o accidents disbàrics,
+doncs la cambra hiperbàrica.
+Després, la gent gran, moltes vegades
+els veuràs que fan servir caminadors.
+De vegades en podem dir
+carrutxes, però possiblement
+les carrutxes n'haurien de parlar més
+quan aquell estri que fan servir els nens
+per començar a aprendre a caminar,
+que els assentes a dins d'un aparell
+que els aguanta una miqueta pels braços i ells fan servir
+les cames i tal, però això seria més les carrutxes
+i per la gent gran parlar dels caminadors.
+Això de les carrutxes està prohibit a Canadà, eh?
+Està prohibit? Ah, pels nens i això, sí?
+Sí, sí, això és un estri
+d'aquests diabòlics que...
+Ah, sí? No els hi agrada? No ho tenen...
+No, no, no. Hòstia, a Canadà
+que tenen una cultura de seguretat infantil
+terrorífica, ho van prohibir
+perquè els nens es fotien daltabaix de les escales abans
+que arribessin a parar-los.
+O sigui, ho tenen
+com un Essencial, no? Deuen tenir una
+recomanació de l'Essencial canadenc que diu
+no facis servir carrutxes amb els nens.
+Exacte.
+Només recordar
+que és un terme que es fa servir en plural,
+és a dir, una persona no fa servir un caminador,
+sinó que són caminadors.
+Després,
+parlar del carretó, el carretó
+de cures o el carretó d'aturada,
+no és un carro o un no sé què,
+és un carretó.
+Segona que dic malament avui.
+On te guardem això, on te guardem
+l'i-gel i tot això, és el carretó
+de cures o el carretó d'aturada.
+Després, un dels
+epis que de vegades ens posem,
+que ens posem al cap, és un casquet.
+No és un gorro. Si tu busques gorro
+en el DIEC o en el...
+en algun diccionari català,
+no, però és un casquet.
+I, per últim,
+en malalts traumàtics
+pots fer servir un collar ortopèdic
+val, en lloc d'un collarí
+o un collaret
+o un collarí, no sé què, és un collar.
+Un collar ortopèdic.
+I ja està. El pròxim dia
+en farem uns quants més
+d'algunes eines, instruments
+i alguns aparells que tot sovint
+fem servir a urgències.
+Molt bé, molt bé. Sempre surten
+paraules interessants, eh? És divertit, això.
+A mi m'agraden molt aquestes.
+Sí, curioses. Són curioses.
+I de fet, ens agrada tant aquesta secció
+que el grup de telegram aquest que us comentava
+de tant en tant en vaig posant alguna
+així en plan juguesca, a veure la gent quines bestieses
+diu i quines no diu
+i demès, perquè és la gràcia de mirar d'enganyar, també.
+Pel l'episodi passat, si us en recordeu,
+us en vaig
+proposar una. Bàsicament,
+això que fem amb aquestes juguesques, llancem una definició
+i després la gent ha de triar
+alguna de les opcions que se li proposa.
+La de la setmana passada
+era l'aparició en l'aurícula
+cardíaca de centres formadors
+d'impulsos que proporcionen uns
+300 estímuls per minut.
+El nodo aurículo-ventricular
+no pot conduir els impulsos amb la mateixa
+rapidesa i la meitat
+o la quarta part resten blocats en aquesta zona.
+El diagnòstic és fet per electrocardiografia.
+I donava quatre opcions.
+El flúter auricular,
+el batec auricular, l'aleteig
+auricular o el fibriloflúter auricular.
+No sé la gent què va pensar
+però la resposta correcta és
+aleteig auricular.
+Que a sobre és molt maca aquesta paraula.
+Va, però segurament
+la majoria de la gent que ens segueix
+ho devia contestar bé, no?
+Home, doncs en l'enquesta que vam fer en el seu moment
+aquí al grup de Telegram, perquè clar,
+això podeu jugar. Si voleu saber la resposta
+immediatament s'ha d'anar al grup de Telegram a jugar.
+Doncs mira, un 60%
+ho van dir bé.
+Està bé, està bé.
+Escolta'm, estàs fent una bona feina, eh?
+La gent segueix.
+Veus que bé?
+Va, i si et sembla,
+ llencem la juguesca per aquesta
+setmana.
+Va.
+Vinga, la juguesca d'aquest episodi.
+El mot que busquem es refereix a
+la resposta immunitària per mitjà d'anticossos
+que provoca l'alliberament massiu
+de substàncies mediadores de la
+reacció al·lèrgica, causant vasodilatació
+i contracció de la musculatura llisa
+afectant un o més òrgans
+o sistemes. Si sou
+oients habituals de l'EMpodcat
+no us podeu equivocar amb això, eh?
+Esteu avisats. Us dono
+quatre opcions. La primera
+és l'anafilaxi. La segona
+és l'anafilàxia.
+La tercera és la anafil·laxi
+amb ela geminada,
+aquest punt volat tan nostrat.
+I l'última és l'anafil·làxia
+també amb
+el punt volat de l'ela geminada.
+Com sempre, si voleu saber la resposta
+al grup de Telegram
+o us espereu a l'episodi que ve.
+Molt bé, molt bé. Bé, doncs que vagin al Telegram, no?
+I així ens ho sabran abans.
+Vinga, va, passem a les recomanacions.
+Mira, jo us vull recomanar un lloc web.
+És un lloc web on de tant en tant
+els que em seguiu al blog
+haureu vist que de tant en tant publico
+coses que són traduccions
+d'altres llocs. I aquest és un dels
+llocs web que gràcies a la seva llicència,
+se'ls hi donen les gràcies també,
+em permet traduir-ho
+aquest lloc web es diu
+Life in the Fast Lane.
+La vida en el carril ràpid.
+L'adreça és
+l-i-t-f-l
+lifeinthefastlane.com
+És un lloc web
+jo el trobo que molt gran, la veritat.
+Hi ha molt contingut.
+Jo el segueixo molt pel tema
+de l'electrocardiografia. Tenen un compendi
+de cures de malalt crític, també.
+Tenen alguns pòdcasts, de més a més.
+Tenen diferents seccions que publiquen sovint.
+A mi m'agrada.
+Té contingut força interessant
+i si no sabeu amb què perdre el temps
+a les properes hores, doncs hi podeu dedicar una estona
+a veure quines coses
+expliquen que no coneixíeu.
+Creus que és més
+d'UCI o més d'urgències
+o d'extrahospitalària o de
+tot una miqueta?
+Jo crec que hi ha una miqueta
+de tot. Em costaria dir que si
+és més, tira més cap a una banda o cap a l'altra.
+A mi m'agrada molt per l'electrocardiografia
+però bueno, ja sabeu que jo tinc aquest
+trastorn obsessiu-compulsiu.
+Molt bé.
+Doncs jo tenia...
+Seguint l'episodi anterior
+de l'EMpodcat, vaig
+si no recordo malament, parlar
+de l'Uptodate.
+Tenien un recurs que són
+uns gràfics, unes infografies
+que t'ajudaven a, per exemple,
+fer el diagnòstic diferencial
+a través d'una infografia
+d'infeccions víriques i bacterianes
+de les vies respiratòries i
+per exemple, del vertigen central i perifèric.
+I eren unes ajudes
+visuals en forma d'infografies
+per fer aquestes
+diferenciacions. Doncs hi havien dos
+recursos més de l'Uptodate que m'agradaria
+comentar i que
+tothom sàpiga que existeixen
+per si ho veieu
+que us pot ser d'interès.
+Lògicament, sembla que també
+avui sembla que estiguem fent publicitat de
+d'eines i de coses
+de l'i-gel i de
+l'Uptodate, però amb aquest
+Uptodate també, igual que l'i-gel,
+no tenim cap mena de
+conflicte d'interès amb
+aquestes marques. Però senzillament
+és un recurs a l'Uptodate que si
+no ho sabeu, hi teniu accés.
+Si treballeu en un hospital
+sigui públic o sigui a través del
+SISCAT o a través d'atenció primària
+hi tenim accés
+i hi podeu accedir
+a l'Uptodate
+de forma molt fàcil. Si de cas, algun dia
+posarem alguna forma, per qui
+no sap com s'accedeix.
+Però bé, en l'Uptodate
+hi tenim dos recursos que
+normalment no mirem però que
+són d'utilitat i és un que es diu
+What's new in Emergency
+Medicine, que t'expliquen
+les novetats,
+articles interessants
+dels últims sis mesos
+que ells,
+com que ells, cada tema
+té una sèrie de gent que es dedica
+a rastrejar
+les bases de dades d'articles
+aviam què surt de nou i
+van actualitzant els
+temes, doncs tenen
+un apartat de novetats
+perquè no hagis d'entrar a cada un dels temes
+i veure què hi ha de nou, ja tenen un apartat
+que diu novetats en urgències
+i hi ha
+diferents subapartats
+de temes de trauma, temes de
+pediatria, temes de reanimació i
+allà pots veure quines novetats
+hi han hagut
+en els últims sis mesos sobre cada
+un d'aquells temes
+amb el qual és una forma molt
+fàcil, doncs, si has d'actualitzar-te
+en un tema, has de fer una sessió
+o has de fer alguna cosa
+doncs anar aquí i veure
+què hi ha de nou sobre les
+urgències que et sembli interessant
+i és una forma fàcil de mantenir-te
+actualitzat. I després
+hi ha un altre apartat
+que volia comentar que
+parlen més de les
+novetats però que ja són
+actualitzacions que poden
+realment canviar la pràctica
+clínica assistencial
+és a dir, no és que siguin novetats
+allò de dir, bueno, si hi ha
+aquest nou assaig clínic, hi ha una guia
+de pràctica clínica, no, no, ja són
+novetats que ells ja consideren
+que això serà la forma
+correcta de fer les coses
+de forma ja una miqueta
+establerta i definitiva
+entre cometes perquè no hi ha res definitiu
+però que són canvis que sembla
+que hauríem de començar a aplicar a tothom
+perquè això serà així.
+Se'n diuen així,: Practice Changing Updates
+i aquest no és només
+d'urgències, evidentment,
+sinó que ja hi ha entra de neumo,
+de pediatria, d'urgències
+evidentment també, de malalties infeccioses,
+de psiquiatria, de nefro,
+de cirurgia cardiovascular,
+d'oncologia
+i en aquests
+a diferència del que us he dit abans
+de les actualitzacions en urgències
+que és cada sis mesos, aquests fan
+una revisió anual
+de temes que sembla
+que hauríem de començar ja a posar en pràctica
+perquè ja hi ha
+prou evidència com per dir això no
+sembla que hagi de canviar d'aquí a un any
+i hagin de canviar les
+recomanacions, sinó que són coses que ja són
+bastant com definitives
+entre cometes. També està bé
+de tant en tant donar-li
+un cop d'ull i veure què hi ha sobre el món de les urgències
+en aquest cas
+i per no desactualitzar-te
+i estar
+fent pràctiques
+que sembla que ja les hauríem d'haver canviat per les noves.
+Són dues formes, dues eines
+que jo penso que són
+i a més Uptodate
+tens força garantia
+que el que t'expliquin aquí està molt
+filtrat i les recomanacions que
+et donen tenen una base científica
+bastant important
+i és això que us volia recomanar
+a l'episodi d'avui de l'EMpodcat.
+Sí que haurem de fer això
+de com entrar a l'Uptodate
+els que suposadament hi tenim accés
+perquè si no poca gent
+pot pagar les quotes que demanen.
+Això està clar.
+Doncs si vols... en el pròxim
+episodi de l'EMpodcat podem fer una
+recomanació d'això
+de com accedir a l'Uptodate
+que és molt fàcil
+i ho expliquem al pròxim dia i ja està.
+Sí, sí. Escolta'm, ara que
+dèiem això de les quotes de l'Uptodate
+m'agradaria fer una desrecomanació.
+D'una recomanació que havíem fet o què?
+Sí, sí, sí. Si algú
+se'n recorda fa no sé quins episodis
+vaig parlar d'una aplicació que hi havia per mòbil que es deia
+PM Cardio
+que en principi pretenia ser
+una aplicació que et donava indicacions
+de cura de malalt
+en base a l'electro que tenia.
+Jo el feia servir bàsicament per digitalitzar
+els electros. Tu feies una foto
+de l'electro i llavors ell t'ho passava
+és bestial, és a dir, tu tens un electro
+d'aquests merdosos
+el passes per aquí i et queda molt maco.
+Sí, sí, jo l'he fet servir.
+La qüestió és que aquests senyors
+han passat de la fase beta i han aconseguit
+ja l'aprovació de l'FDA
+de la Federal Drug Administration
+americana per poder
+vendre el seu producte i per tant que
+la gent pugui fer-lo servir per
+guiar-se en el tractament dels malalts
+en base al seu electro. La qüestió és que ells tenien...
+han creat una aplicació
+nova per fer-la servir
+que val una burrada
+i ara han estat un temps funcionant les dues
+la qüestió és que ara ja la que fèiem servir tots,
+l'educativa, deixarà de funcionar
+en els propers setmanes o mesos
+probablement setmanes o dies
+i per tant aquesta recomanació que hi havia
+de nens feu servir això per digitalitzar
+els electros que són tan molons
+doncs ja no es pot fer servir.
+Doncs hauríem de buscar alguna altra perquè jo l'havia fet
+servir alguna vegada i m'agradava perquè
+tenies un electro i te'l baixava en format
+pdf que era molt fàcil després de compartir
+i de fer-ne coses i estava molt bé.
+Sí, sí, hauríem de trobar-ho, això ho hem de trobar.
+Ho buscarem.
+Molt bé, Albert, doncs ja està bé que de vegades
+fem de-recomanacions, coses
+que es van...
+que queden obsoletes o que desapareixen
+doncs poder-les informar també.
+Què més? Ens queda alguna cosa per més en aquest episodi?
+Jo crec que no, no? Hem parlat de molt, eh?
+Bé, ara et tocaria dir allò
+que estem a totes les plataformes
+d'Internet. Allò que hauríem de dir al principi
+si ens en recordem ho diem al final
+que estem a totes les
+plataformes de pòdcast que hi ha
+por ahi i si no hi sou ens ho dieu que ens hi posarem
+que tenim Instagram
+que tenim Twitter
+que tenim el canal de Telegram
+molt interessant el canal de Telegram
+que hi ha hagut molta gent que ha intentat entrar
+però quan... el canal de Telegram per evitar
+que se'ns hi entri gent
+enviant-nos porqueries
+l'estafa del príncep nigerià
+vendre'ns criptomonedes o...
+jo què sé. Quan
+voleu entrar us demana que complimenteu
+una petita prova que bàsicament és una
+és una... un càlcul aritmètic
+d'una suma, no ha de ser difícil
+però hi ha hagut vària gent que ha provat d'entrar
+ha apretat el botó i s'ha oblidat de després
+fer el... la comprovació
+amb aquest càlcul aritmètic i llavors no han pogut entrar
+Si voleu entrar no hi ha cap problema
+però ei, només cal que feu...
+que respongueu això i ja està
+Molt bé, molt bé. I tenim
+amb el grup de Telegram aquest ja som uns quants
+no? No sé si quants...
+Sí, la cinquantena
+Fantàstic. Molt bé, molt bé
+Val, doncs ho deixem per aquí Albert, fins al proper episodi.
+Fins al proper episodi
+Vinga, adeu siau!
