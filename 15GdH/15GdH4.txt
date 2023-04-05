@@ -1,0 +1,208 @@
+“Quinze glaçons d'hidrogen”, el pòdcast de llengua i tecnologia de Softcatalà, amb Aleix Vidal.
+Benvinguts de nou un altre cop al nostre pòdcast, el pòdcast de Softcatalà.
+Recordeu que això és una taverna i que sempre hi sou benvinguts.
+La taverna del “Quinze glaçons d'hidrogen” obre per parlar de llengua i tecnologia.
+Aquest és el quart episodi. Recordeu que vam fer un especial de Nadal aquest passat desembre.
+Si el voleu recuperar el podeu sentir com tots els nostres pòdcasts a la web de Softcatalà, evidentment, i també a les plataformes habituals com l’Spotify, l'iTunes, el Google Podcasts, el Pocket Casts, etc.
+No us oblideu de subscriure-us, sobretot, que així no us perdreu cap dels nostres capítols.
+Avui tenim una mica d'actualitat que repassarem amb l'Artur.
+També tindrem una pinzellada en el rebost, entrarem al rebost a treure la pols a algun dels programes o aplicacions que tenim indexats a la nostra web.
+Pararem la taula amb un dels històrics de Softcatalà, en Jordi Mas.
+En Josep ens durà una tapa de refranys. Aquesta vegada crec que no l'ha tret de la Paremiologia Comparada Digital.
+I acabarem com sempre a la barra per xerrar una miqueta, aquesta vegada amb la Belén, que ens acosta una mica a les xarxes socials de Softcatalà.
+Doncs res més, anem directes a l'aperitiu d'actualitat.
+“L’aperitiu d'actualitat”
+Com us dèiem, a partir d'ara l'actualitat ens la portarà l'Artur, Artur Vicedo, a qui donem la benvinguda.
+Hola Artur, com estàs?
+Hola Aleix, moltes gràcies. Què tal?
+Molt bé, molt content de rebre't aquí a la taverna.
+A veure, què ens porta l'actualitat en tecnologia i en llengua aquests dies?
+Aquests dies introduirem uns aperitius aixina molt lleugerets, abans de parar taula, sobre l'actualitat més recent.
+I comencem pel 20è aniversari de la Viquipèdia, que es va inaugurar, es va crear el dia 15 de gener del 2001 i enguany fa 20 anys.
+La va crear Jimmy Wales i Larry Sanger, que són els dos creadors del projecte Viquipèdia i no només és el 20è aniversari de la Viquipèdia general, de l'anglesa, sinó també de la catalana, de la Viquipèdia, que va ser la segona llengua en fundar una Viquipèdia, un derivat, diguem-ne i el març del 2001 va nàixer, llavors enguany també és el 20è aniversari de la Viquipèdia catalana.
+Molt bé, molt bé, o sigui, estem de doble aniversari el 2021, no, pel que fa a la Viquipèdia?
+Sí, senyor.
+Fantàstic.
+També em sembla que fa uns dies vam celebrar un dia internacional, no, també ho podríem dir una mica?
+Si més no català, això segur
+Sí senyor, el dia 24 de gener està establit el dia del punt volat, no?
+Un punt volat, eixe caràcter que representa la grafia de la ela geminada, no? El punt intermig entre les dos eles i que no és un punt habitual d'estos que s'escriuen a la part de baix de la frase.
+No, no.
+Ni és una bala d’estos, un punt gros d'eixos, ni és un guionet.
+Fem-lo bé, fem-lo bé, si us plau, que si no el Joan Montané vindrà i ens tocarà el crostó
+És un punt intermig que podeu trobar al teclat de l'ordinador damunt de la tecla del 3, del teclat numèric número 3, la part de dalt, ahí té un puntet que eixe és lo punt volat.
+Majúscules 3, eh?
+Exactament. I en els mòbils, depèn de quin mòbil tingueu, quin sistema operatiu, normalment, i depèn del teclat que si hagueu instal·lat un teclat de tercers, però habitualment si mantens premuda la tecla L, la ela apareix o suggerix una finestreta amb altres opcions, altres símbols i ahí està la L geminada, la L amb el puntet.
+A vegades és la L amb el puntet, a vegades són les dues eles amb el punt entremig, no?
+També em sembla que amb la tecla del punt, a vegades en alguns altres teclats, depèn Android, iPhone, tot això és estrany, no? Però amb la tecla del punt també podem buscar altres punts i un és el punt volat, no?
+Però us encoratgem a buscar-lo i a trobar-lo, eh? La tasca és trobar-lo per poder mostrar-nos bé al món amb el punt volat.
+Com diu la campanya aquesta del 24 del dia del punt volat, eh? Els catalans tenim un punt volat, no? Que em fa molta gràcia, a mi m'encanta.
+Exacte, a més a nivell informàtic és un problema si no es representa bé, perquè després els correctors i els intèrprets, els assistents de veu, si no fiques el caràcter correcte a nivell informàtic, no ho entenen.
+Separa la paraula, clar
+Clar, llavors és molt important escriure bé el punt volat de l’ela geminada, si volem que la tecnologia ens entenga quan parlem català, quan escrivim i quan parlem
+Molt bé, molt bé
+Escolta, i arribats a aquest punt, potser que també fem un repàs al 2020 pel que fa a Softcatalà, no? Nosaltres, una miqueta, perquè, bueno, aquest 2020 donades les circumstàncies també ens ha donat unes dades sobre els nostres serveis i la web bastant, bastant esfereïdores no, però ostres…
+Sorprenents, han sigut sorprenents.
+A veure, explica'ns, explica'ns.
+El primer mes de cada any fem un resum de com han anat els nostres serveis a la pàgina web nostra i els publiquem en una notícia que podeu trobar al nostre web o a les xarxes, també hem posat l’enllaç. I enguany, l'increment de nombre de visites als nostres serveis ha sigut prou considerable, en realitat. Hem tingut els dos serveis que més força tenen a Softcatalà, són el traductor i el corrector, sobretot el corrector, i ha tingut enguany, en comparació amb el 2019, n'hi ha hagut un 41% d'augment del nombre de visites.
+Déu n'hi do, déu n'hi do, eh això.
+És pràcticament un 50% i no és normal, no? No és normal que un any n'hi hagi eixe increment, que nosaltres associem al confinament i a l'excepcionalitat del 2020.
+Segurament, clar, molt teletreball, no? Molts correus electrònics a corregir.
+I tant
+El traductor, per exemple, ha tingut un increment més suau, no, del 25%, que també és prou considerable.
+El traductor, això, eh?
+Sí, el traductor.
+I després hem observat que un altre servei que tenim, que és més modest, anem a dir, que és el Diccionari de Sinònims, també s'ha produït un increment prou interessant el 2020 comparat amb el 2019, amb un 44% d'increment de visites.
+Home, doncs déu n'hi do, eh, perquè Diccionari de Sinònims no el teníem, eh, en el top 3 aquest nostre que tenim intern, no?
+Ens haurem de plantejar coses.
+Molt bé.
+Sempre, sempre ens anem plantejant coses, eh?
+Escolta, doncs deixem per quan anem a la barra, al final del programa, una mica la resta de serveis i novetats que hem tingut a Softcatalà, no?
+I ara em sembla que donaria pas al Xavi, que ens prepara, com sempre, al “rebost digital”, algun programa, alguna aplicació que cal treure-li la pols per refrescar-la, repescar-la, diguéssim, eh?
+Aquesta vegada em sembla que va bastant pels lectors i la gent que els hi agraden els llibres.
+“El rebost digital”
+Per a tots els que ens agrada llegir, els llibres en paper acaben resultant un problema.
+Qui de vosaltres no té llibres pertot arreu, en estanteries, per totes les habitacions de la vostra casa?
+Piles de llibres a la tauleta de nit, damunt de taules o parets senceres plenes d'estants, amb llibres que ja han perdut qualsevol ordre.
+Per això, molts de nosaltres ja fa anys que ens hem passat, encara que siga parcialment, als llibres electrònics.
+Bé a través de dispositius de marques conegudes o lectors de pocs euros, estos dispositius ens permeten tindre moltíssims llibres al nostre abast, ocupant molt poc espai físic.
+Existeixen diversos formats de llibres electrònics:
+Epub és l'estàndard i pràcticament tots els dispositius entenen eixe format.
+Mobi és l'altre format més conegut, és propietari d'Amazon i l'utilitza el Kindle, el lector de llibres electrònics del gegant americà.
+¿I com fem per a gestionar la nostra biblioteca digital, passar llibres des del nostre ordinador als nostres lectors de llibres o convertir-los d'un format a un altre?
+Vos presentem el Calibre, una aplicació multiplataforma i de codi obert
+Creada per Kovid Goyal, un desenvolupador indi fa més de 12 anys, el Calibre permet la gestió de la vostra biblioteca digital, des d'on podreu ordenar, catalogar o cercar llibres per un grapat de criteris diferents.
+Amb el Calibre podeu etiquetar els llibres amb la informació que necessiteu, afegir resums i imatges de portada, i després filtrar els llibres per autor, llengua, temàtica o fins i tot per si ja els heu llegit o no.
+També podreu passar els llibres als vostres dispositius, siga quin siga el format que el dispositiu entenga, gràcies al conversor de formats que Calibre duu incorporat.
+I fins i tot podreu comprar llibres a les vostres botigues preferides des de dins de la mateixa aplicació.
+El millor de tot, que el Calibre també està en català, però cal ajuda per a mantenir la traducció actualitzada.
+Si vos interessa ajudar, vos deixem com fer-ho a les notes del programa.
+Doncs ja ho sabeu, a les notes del programa trobareu els enllaços de com col·laborar i a la web de Softcatalà trobareu el Calibre, exacte.
+I ara ens n'anem a conèixer una mica més el Jordi Mas, un dels membres històrics de Softcatalà, que ens el trobem parant taula.
+“Parem taula”
+Ell és el responsable de molts dels projectes que heu vist a la web i que ens trobem de Softcatalà, si més no molts dels que comencen com el traductor neuronal, que és un dels seus fillets preferits ara mateix.
+Amb vosaltres el Jordi Mas.
+Hola, el meu nom és Jordi Mas i soc un dels membres fundadors de Softcatalà, això vol dir que porto aquí des dels inicis.
+Durant aquests anys he ajudat en tot allò que ha estat necessari, des d’ajudar a posar en marxa la primera web, traduccions, tasques d’enginyeria de programari, representar l'associació en reunions i davant de premsa, etc.
+En els últims 5 anys m'he especialitzat bastant amb l'aprenentatge automàtic i en particular amb una branca que es diu el processament del llenguatge natural i he col·laborat en coses com per exemple la creació del traductor neuronal, que hem anunciat fa poc, català-anglès.
+L'arròs, com m'agrada? L’arròs m’agrada com el fa ma mare i ma mare sempre diu allò de que el sap fer per 4 persones, que si en venen 5 ja no li surten els comptes.
+I el que més m'agrada, òbviament és la paella valenciana, ja que part de la meva família ve d’allà.
+“Quinze glaçons d’hidrogen”
+“Una tapa de refranys” amb Josep Closa.
+Bon dia a tothom, bé, bon dia si és de dia, si ja és fosc, bon vespre.
+En això de les frases fetes, els refranys i els embarbussaments, cada terra fa sa guerra o sa gerra, depèn de com.
+Avui estava pensant en un refrany que no trobareu a la Paremiologia Catalana Comparada Digital d'en Víctor Pàmies.
+És: “i tu què et penses, que ets de cal Godó?” que es diu a algú quan se li pugen els fums al cap, és a dir quan estira més el braç que la màniga i vol gastar més diners dels que són disponibles. Això es diu aquí a Igualada perquè els Godó eren una família molt adinerada de finals del segle XIX. Justament són els que es van traslladar a Barcelona i van fundar la Vanguardia i bé, han continuat fent de les seves guanyant diners a cabassos.
+També una altra dita equivalent seria: “què et creus, que en tenim una rega l’hort?”
+Doncs ha arribat el moment de trobar-nos...
+“A la barra”
+Exacte, a la barra.
+I qui ens convida a anar a la barra és la Belén, ja ho sabeu, la nostra veu en off, us ho vam explicar a l'episodi especial de Nadal que és una de les membres de Softcatalà, que ens posa la veu en el pòdcast, però també és qui ens porta les xarxes socials, ella és la nostra que en diuen “community manager”, no sé quin és el terme en català, Belén.
+Hola Belén, com estàs? 
+Hola!
+Com en diríem d’això? Com en diríem "community manager" en català o Artur que encara està per aquí? Com s'ha de dir això?
+Tu en tens idea Belén?
+La de les xarxes.
+Gestor de xarxes.
+La de les xarxes, m'encanta.
+O la dels GIFs.
+La dels GIFs, sí que li agraden molt eh? Escolta no n'hem parlat encara gaire de les xarxes socials al “Quinze glaçons d'hidrogen” i potser seria un moment de repassar una miqueta a veure què ens trobem, no?
+Perquè hi ha certes interaccions amb els nostres seguidors a Twitter sobretot, que és potser on tenim més activitat, que potser val la pena repassar o destacar.
+A Twitter la veritat que tenim moltíssima activitat i moltíssimes interaccions i és un compte molt divertit perquè rebem missatges de tots els llocs i de gent molt diversa no? I és divertit.
+I en destacaries alguna cosa, algun tipus de perfil aquell que diu, no sé, n'he vist alguns d’aquests que són devots del corrector, aquests potser són els que abunden més no?
+Sí, rebem molta estima, això és una veritat, sempre que traiem algun projecte nou, moltíssims agraïments per la tasca, per les eines que tenim, pels diferents recursos o difusió d’eixos recursos i d’eixes eines. La gent sí que compartix moltíssim els nostres tuits i els fils que fem i ens dona a conèixer molts als seus companys i companyes de feina i està guai.
+També tenim un grup de gent que sol suggerir molt sobre propostes de millora, propostes de correccions, en tenim alguns d’eixos també.
+Interessant això també, sí sí.
+Després tenim un grupet que jo dic que assenyalen el meu valencià com a catanyol perquè a voltes m’han acusat de catanyol i no és catanyol, és que així al País Valencià pues ho diguem d'una altra manera, i moltes voltes és desconegut per a la gent del nord, no?
+Sí senyora, sí senyora.
+I també em fa molta gràcia.
+Aquí els que pequen de correcció i es passen de frenada, no?
+Exacte, exacte. Això ací al País Valencià diem “Arrencà de cavall, parà de burra”.
+Sempre s'aprenen coses aquí amb vosaltres.
+I després tenim el grup d'amor incondicional que moltes vegades no compartim perquè a lo millor pues estan en castellà o tenen faltes d'ortografia.
+No els retuitegem per correcció lingüística i política no?
+Exacte.
+Però que també potser són molt divertits.
+Sí que responem, interactuem, jo què sé, per exemple el clàssic "Softcatalà te amo" és que… Eixos n’hi han molts.
+Això és molt bo, ara en diràs més, però això d'identificar Softcatalà amb “el”, el softcatalà i és el corrector bàsicament, no, però com si no fóssim res més, no? Però si, l'estima va bastant directa aquí al Softcatalà, al corrector.
+Què més diuen?
+Moltes voltes, per exemple, mos agraïxen que s'han tret la carrera o s'han tret o han aprovat un treball, o que mos dedicarien el seu final de carrera, el tindrien que dedicar a Softcatalà.
+Tenim unes quantes invitacions a festes de graduació no, segurament?
+Sí, sí, som ben coneguts entre els estudiants, això és cert.
+Per exemple, lo típic de “un beso para quien creó el Softcatalà, que es lo mejor que existe”, i un gif aplaudint-mos.
+Això mos arriba al cor, això és...
+Home, i tant, s'agraeix.
+Bueno, clar que si els voleu veure, ja és això que diu la Belén, en principi contestem a tothom que no se'ns escapi, per tant, si aneu al nostre perfil i busqueu respostes suposo que també podreu arribar en aquests tuits més curiosos.
+Escolta, en podríem anar comentant en els pròxims episodis, perquè n'hi ha alguns que realment tenen molta gràcia.
+En tenim bastants a la recàmera, però és que estic segur que cada setmana en surten.
+Segueixen eixint-ne, sí clar.
+Molt bé, molt bé.
+Doncs escolteu, aquí a la barra podem comentar moltes coses.
+Esperem que a cada episodi en comentem de diferents, amb diferents membres de Softcatalà i amb convidats, amb qui faci falta.
+Volíem, potser, repassar una miqueta també, Artur, el que comentàvem al principi, amb aquestes novetats més destacades del 2020.
+Més que res, per si algú està escoltant el pòdcast i no sap que hem estrenat alguns serveis.
+Sí, i tant, i tant, però a tota eixa gent que no sap lo que és el Softcatalà més enllà del corrector.
+En 2020, tots els anys estem sempre en històries, desenvolupant serveis o en idees de quins serveis podíem desenvolupar i l'any passat la veritat és que va ser prou profitós.
+Vam traure un bon grapat de serveis nous, per exemple, el servei que es tradueix l'hora al català, vull dir l'hora escrita. Tu escrius, tries una hora en un rellotge que tenim al servei i es diu com es diu pues en el sistema tradicional català, en el sistema digital, anem a dir estàndard, i és un servei que ve molt bé per a tota eixa gent, com tots els valencians, que no tenim ni idea de com es diu l'hora de campanar aquesta que teniu en Catalunya.
+I que mos enredem en el quart amunt, quart avall.
+Perquè només ho diem aquí, però és que ara potser cada vegada es diu menys, però està bastant establert, o sigui, al País Valencià ni es fa servir, però aquí...
+Mon iaio, per exemple, deia les hores paregudes, però en quarts, normal, eren les 9.45 deia pues “nou i tres quarts”.
+Ostres!
+És molt paregut, però no...
+El teu iaio d'on és?
+De Ibi, de l'Alcoià
+Doncs escolta, potser resulta que la unitat de la llengua va més enllà del que ens pensem i tot.
+Estic flipant, moltes curiositats, sobretot en la Franja i els valencians tenim una similitud lingüística flipant.
+Escolta, hi ha algun altre servei també, alguna iniciativa que hem presentat aquest 2020?
+Sí, tant, a mi una de les que més m'agrada és el conjugador de verbs.
+Ja sé que n'hi ha altres serveis en la web que oferixen una conjugació de verbs, però hem tret un servei en el que tu pots escriure qualsevol terminació, qualsevol forma conjugada de qualsevol verb i es torna tota la taula de conjugació.
+Ah, o sigui, no cal que posis l'infinitiu, no? Entenc?
+Exacte, no és precís que poses l'infinitiu perquè moltes voltes no se sap, no?
+Trobes una forma rara…
+Haguera sobreviscut…
+Clar, pues això com es diu?
+El típic “cantí”, no sé si és...
+Clar, a més a més les primeres persones, cada territori les fa diferent, és una de les coses més identificatives del parlar d'on ets, del territori
+Llavors este conjugador es dona totes les formes, el subjuntiu, l'indicatiu, totes
+A més a més l'occidental, l'oriental, tot, no, em sembla?
+Si hi ha varietats també les marca, oi?
+Sí, i tant, intentem abarcar tot el domini lingüístic, no? Potser se'ns ha escapat alguna, que si algun usuari vol contribuir a millorar-ho, sempre pot col·laborar.
+Això sempre.
+Ens avisa per les xarxes i...
+I la Belén ens ho passa.
+Sempre!
+Escolta, és que és això. De fet tots els serveis i totes les coses que tenim o que posem en marxa estan obertes sempre a canvis i a col·laboracions i a millores, evidentment, no?
+De fet tot el codi és obert i el podeu trobar als nostres repositoris del GitHub i si voleu contribuir sempre podeu fer un “pull request”, una aportació, no, a millorar el codi.
+Això, pels usuaris més avançats o programadors o així, els hi anirà de perles, els que no sapiguen tampoc tant com funciona tot això, evidentment, missatges de correu, formulari o xarxes i estem encantats de rebre…
+Clar, el fòrum de Softcatalà o on siga.
+Exacte, el fòrum.
+I escolta'm, destaquem alguna coseta més, a part del pòdcast, eh, que és una de les novetats del 2020 de Softcatalà, el Quinze glaçons.
+Podríem dir que és un servei de Softcatalà perquè, jo què sé, informa sobre l'actualitat, la llengua, la tecnologia i intentem sempre donar eixa contribució a la societat en este sentit.
+Intentem, intentem.
+Però m'agradaria... Digues, perdona.
+Digues, digues, que t’agradaria destacar-ne algun, no?
+M'agradaria destacar el traductor neuronal, per descomptat, com havem comentat ja abans, s'ha introduït en el parell anglès-català un altre tipus de traductor que no és el que estàvem fent servir fins ara, que era basat en regles i en altra tecnologia.
+Ara hem implementat, en eixe parell anglès-català català-anglès, un traductor neuronal, que és una de les últimes tecnologies que estan tratant-se en aquest camp i que oferix resultats molt similars als que podria oferir un altre traductor com el de Google, per exemple, que són prou bons, bueno, també depèn de quin àmbit estiguis traduint, un text jurídic potser no el traduïx bé, però un àmbit normal o un àmbit tecnològic segurament l'encertarà superbé.
+Un text jurídic ni en la teva llengua el pots entendre, per tant el pobre traductor farà el que pugui.
+Els traductors jurats, els traductors professionals que es dediquen a això, són els que tindrien que traduir eixe tipus de textos.
+Però la veritat que el dia que vam treure el traductor neuronal va ser una revolució, recordeu d’eixe dia que el Twitter bullia, vam augmentar centenars de seguidors arrel d'aquella notícia.
+Va ser increïble, eh?
+Bueno, és que, de fet, ja és això, perquè en realitat era una revolució bastant important a nivell tecnològic que podia passar desapercebuda si no s'explicava bé també, i crec que va fer un esforç per explicar la novetat que suposava. Jordi Mas ho va explicar bastant bé en alguns mitjans.
+De fet, la gràcia és que, a més a més, ara crec que fa poques setmanes o pocs dies ja és el traductor per defecte en el parell anglès-català, eh que sí?
+Si tu vas al nostre traductor, i per defecte està el parell castellà-català, no, perquè és el que més s'utilitza, però si tu canvies la llengua a anglès, ja directament utilitza la tecnologia del traductor neuronal, per oferir una traducció més acurada, anem a dir, més encertada
+I si no us agrada, a sota, amb la resta d'opcions que hi ha d'algunes opcions del traductor, podeu seguir escollint també, si voleu canviar, a Apertium, que és el motor de traducció que s'havia fet servir fins ara i que fa servir la resta d’idiomes.
+El traductor clàssic, anem a dir.
+Exacte, escolta, doncs molt interessant totes aquestes novetats, esperem que passeu per la web de Softcatalà a provar-les i a veure quin servei us poden fer a la vostra vida diària, tecnològica.
+Que això només són uns exemples de tots els serveis que hem tret, que n'hi ha més, nous, i que no podem comentar-los tots, però passeu-vos i proveu-los que ahí estan per qui...
+Si de cas, en propers episodis podem aprofundir més en alguns, i convidar algun dels seus desenvolupadors, que nosaltres aquí posem la veu, no donem la cara, però posem la veu, però en realitat a Softcatalà hi ha molta gent que treballa i que no li agrada parlar, no li agrada sortir gaire enlloc, però està allà deixant unes hores de codi…
+Currant com uns pencaires.
+Donant-ho tot.
+Eh que sí…
+Doncs res, ens acomiadem, moltes gràcies Belén i Artur per ser aquí avui a la taverna amb tots nosaltres, us esperem també en els propers episodis, us sembla bé?
+Moltes gràcies a tu, Aleix.
+Gracietes.
+Merci, a tots dos.
+I fins aquí el quart episodi del “Quinze glaçons d’hidrogen”.
+Som els de Softcatalà i parlem de llengua i tecnologia.
+Us esperem al proper episodi, però mentrestant… “Jove xef! Porti whisky amb quinze glaçons d'hidrogen, coi!”
+“Quinze glaçons d'hidrogen”, el pòdcast de llengua i tecnologia de Softcatalà.

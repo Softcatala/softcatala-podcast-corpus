@@ -1,0 +1,164 @@
+“Quinze glaçons d'hidrogen”, el pòdcast de llengua i tecnologia de Softcatalà, amb Aleix Vidal.
+Arrenquem el tercer episodi a la nostra estimada taverna. 
+Ens fa molt feliços tornar-vos a veure altre cop al “Quinze glaçons d'hidrogen”.
+Ah, que és la primera vegada que ens visiteu? Fantàstic! Com més serem, més riurem.
+Cal que sapigueu que podeu recuperar els episodis anteriors a la vostra plataforma de pòdcasts preferida: a Pocket Casts, a Spotify, a la gran G, a la pometa... Ens trobareu a totes. Així com al nostre web, clar.
+Per cert, veureu que cada episodi té un nom propi, com una mena de nom en clau. Avui encetem el "liti lideral".
+No, no són encanteris ni coses rares. Té la seva història, com el mateix nom de la taverna.
+Si us quedeu fins a tancar la paradeta avui, la descobrireu.
+Però abans repassarem una mica l'actualitat tecnològica, que passa pels cotxes i per la veu.
+També obrirem el rebost per mostrar-vos una gran eina de retoc fotogràfic i de dibuix.
+Pararem taula amb una companya de Softcatalà a qui podreu conèixer una mica més, i en Josep ens servirà una nova tapa de refranys, tot i la mandra.
+I a l'hora de triar whisky o ratafia, ficarem el nas en una de les taules de la taverna amb més secrets: la taula número 13.
+Vinga, som-hi! Voleu unes patatetes rosses per picar?
+“Quinze glaçons d'hidrogen”
+“L'aperitiu d'actualitat”
+Comencem amb una efemèride important, i és que el passat 21 de novembre, el GNU Image Manipulation Program va fer 25 anys.
+Parlem del GIMP! Ara sí que sabeu de què us parlem, no?
+Sí, home, sí… l'alternativa gratuïta al Photoshop!
+Apa, que quedo bé dient-ho així, jo també.
+No, de debò, heu de saber que el desenvolupament del GIMP ha donat llum als fonaments d'entorns d'escriptoris sencers, com GNOME o XFCE.
+En tot cas, el GIMP té un espai destacat en el nostre rebost digital, i en l'episodi d'avui en Xavi Ivars ens en farà cinc cèntims.
+Recentment, també ens ha arribat una altra notícia important pel català.
+En aquest cas s'allunya una mica de l'ordinador, perquè fa referència al món de l'automòbil.
+Sembla que el fabricant de vehicles elèctrics Tesla incorpora de sèrie el català en el sistema d'informació i entreteniment que duen els seus cotxes.
+Ens ho explicava el periodista Albert Cuesta al seu blog.
+La notícia té prou importància, més enllà de la poca quota de mercat que tenen els cotxes Tesla al nostre país, perquè situa el català en un sector on no era present i pot obligar altres fabricants, sobretot els europeus, a moure fitxa.
+I tornant a prop de casa i a la feina que es fa des del nostre territori, ens trobem amb les jornades de tecnologies lingüístiques lliures en català, que tenen lloc mentre enregistrem aquest pòdcast.
+L’esdeveniment, organitzat per la cooperativa Col·lectivaT, va arrencar el 24 de novembre amb una sessió sobre el mercat dels dispositius que poden parlar català i les alternatives lliures.
+Es preveuen sessions per parlar de la síntesi de veu i del reconeixement de la parla, així com del futur dels assistents de veu en el nostre idioma.
+Totes les sessions són en línia i es tancaran el dia 10 de desembre amb un taller sobre Mycroft, l'assistent de veu lliure.
+Hem volgut parlar de tot això de les tecnologies de la parla amb en Baybars Kulebi, enginyer de dades de Col·lectivaT.
+Hola Baybars.
+Hola.
+Fa uns dies parlant sobre les jornades ens comentaves que Kaldi, una tecnologia de desenvolupament de reconeixement de la parla, ha integrat recentment el català a la llista de les llengües acceptades.
+Però què és Kaldi?
+Kaldi és el sistema més avançat de reconeixement de la parla que és disponible com un programari lliure, també té els models en obert.
+I ara mateix, català està afegit d'aquesta llista de llengües.
+I què significa que el català estigui disponible a Kaldi?
+Significa que qualsevol persona desenvolupadora pot integrar català als seus productes o les seves aplicacions web o mòbil.
+Entenc que és important tenir els models de català a Kaldi, però per què a Kaldi?
+Kaldi és el sistema més avançat en codi lliure, com us havia dit. Una de les raons és perquè té una comunitat molt gran, sobretot dels investigadors i, a més, algunes petites empreses que estan treballant amb Kaldi perquè la necessiten per les seves aplicacions.
+I quina diferència hi ha entre Kaldi i altres tecnologies similars com DeepSpeech de Mozilla?
+La diferència entre Kaldi i DeepSpeech o sistemes com DeepSpeech és el Deep Speech és un sistema que es diu end-to-end, és a dir, utilitza només xarxes neuronals, però Kaldi, en canvi, utilitza xarxes neuronals, però també dins d'un marc més gran d'altres eines i processament d'àudio que ho fa una mica més complicat i també té alguns avantatges. 
+Sí, sí, ja veig. Això de les xarxes neuronals ho tenim molt present últimament. I sí, sembla que tots són avantatges. Quines té, en aquest cas?
+Aquestes avantatges és que Kaldi és més ràpid que els sistemes com DeepSpeech perquè és més lleuger. I, a més, Kaldi té la possibilitat de fer descodificació o, és a dir, transcripció en streaming.
+En canvi, els sistemes com DeepSpeech necessiten talls, és a dir, DeepSpeech o sistemes end-to-end necessiten talls de 10 segons, 20 segons dels enregistraments.
+En canvi, Kaldi pot transcriure els enregistraments grans, molt grans o directament en línia.
+Caram, això realment sona interessant.
+A més, com que Kaldi és un toolkit, és molt personalitzable per crear altres funcionalitats, com avaluació de pronunciació o alineació d'un text amb un enregistrament gran, paraula per paraula, detectant el temps de cada paraula, per exemple.
+Déu n’hi do quin potencial. Això deu ser complicat d'implementar, però.
+Kaldi té una certa complexitat i per solucionar i per facilitar l'ús de Kaldi es va construir una altra llibreria que es diu VOSK per l'empresa Alpha Cephei i precisament els models de català ve dels esforços d'aquesta empresa, d'Alfa CFI.
+I podeu trobar els models de català, models d'acústics i model acústic i model de llengua a la pàgina de web de VOSK, que simplement utilitza la tecnologia Kaldi, però amb certes facilitats de crides a aquestes funcionalitats.
+A les notes de l'episodi trobareu els enllaços a aquestes pàgines web que ens comenta en Baybars, eh.
+Llavors entenem que des de Col·lectivat voleu promoure l'ús i el desenvolupament d'aquestes eines, no?
+Volem, des de Col·lectivat, facilitar l'ús de Kaldi perquè veiem que l'única barrera d'utilitzar Kaldi és el coneixement.
+Per això dins de les jornades que estem organitzant per promoure tecnologies lliures, lingüístiques pel català, també tindrem una sessió explicant l'ús de Kaldi i VOSK, i aquesta sessió serà el 3 de desembre i serà online a les 6. Si esteu escoltant després d'aquesta data, no us preocupeu perquè pujarem tots els recursos, i la sessió també, a la nostra web i podeu trobar aquesta informació allà.
+Si voleu apuntar-vos o si voleu trobar tots els recursos generats d'aquesta sessió, podeu anar a collectivat.cat/jornades.
+Doncs fantàstic, moltes gràcies pel teu temps, Baybars, i us desitgem molta sort amb aquest projecte.
+Moltes gràcies per escoltar i al final volem donar agraïments al Departament de Cultura de la Generalitat per donar suport a aquestes jornades i també, certament, a Softcatalà, per preparar aquests pòdcasts.
+Doncs ja veieu que el tema dona per molt i, vista la importància de les tecnologies de la parla, em sembla que ben aviat hi dedicarem una secció periòdica al “Quinze glaçons d'hidrogen”.
+“Quinze glaçons d'hidrogen”
+Doncs apropem-nos al rebost, que avui, com us dèiem, toca una ració de GIMP.
+Obre, Xavi, obre!
+“El rebost digital”
+El GIMP és un programa lliure, extremadament potent i versàtil, adequat per a tasques de retoc fotogràfic o creació i disseny d'imatges.
+El GIMP es pot utilitzar com un simple programa de dibuix, com a programa de retoc fotogràfic professional, com un sistema de processament massiu en línia, com a dissenyador massiu d'imatges de producció, com a convertidor de formats gràfics…
+Es tracta d'un programa multiplataforma, és a dir, es troba disponible per Linux, Windows i Mac.
+A més, acaba de fer 25 anys. Així que, un motiu més per presentar-vos-el.
+A veure, Xavi, quines són les principals característiques que destacaries del GIMP?
+Si voleu manipular imatges amb alta qualitat, el GIMP vos proporciona totes les eines necessàries. Des de retoc fotogràfic fins a composicions creatives passant per la restauració d'imatges, el GIMP és la vostra opció.
+També disposa de les característiques necessàries per a crear elements de disseny gràfic, com icones o components per a interfícies d'usuari.
+A més, existeixen una gran varietat de connectors, que afegeixen funcionalitats extres a la base del programa.
+Per exemple, molts dels filtres que incorpora el GIMP quan l'instal·leu, en realitat són connectors.
+Això facilita poder experimentar ràpidament a l'hora de millorar les funcionalitats, i si en sabeu, vos permet crear els vostres propis connectors.
+N'hi ha alguns d’extraordinaris, com uns que converteixen les imatges perquè semblen quadres impressionistes, quadres de Van Gogh o fins i tot perquè pareguin un còmic.
+També n'hi ha un que fins i tot permet fàcilment eliminar elements en les fotografies.
+Quan heu fet eixa foto preciosa, amb un paisatge, muntanyes al fons, un llac al davant, i eixe turista que estava fent la foto just davant de vosaltres? Doncs sí, el connector vos permet eliminar aquesta persona que no volíeu que sortís a la foto.
+Sí, clar, però això ho saps fer tu, que ets un crac. Els que no ens en sortim tant, hi ha algun manual, algun tutorial per aprendre a fer servir aquestes coses?
+I tant, per a programes tan potents com és el cas del GIMP, tindre un bon manual és importantíssim.
+Per això, fa un parell d'anys i després de molt d’esforç, vam aconseguir traduir completament l'ajuda del GIMP.
+Va ser una feina de mesos, on companys van invertir molt de temps traduint i revisant.
+L'enllaçarem a les notes del programa.
+Llavors vols dir que ja no fa falta ajuda per la traducció?
+Sempre fan falta mans, tot i que actualment tenim més o menys controlada tant l'aplicació com l'ajuda.
+Si sou usuaris del GIMP i voleu donar un cop de mà a la traducció, no dubteu en posar-se en contacte amb nosaltres.
+“Parem taula”
+Vinga, som-hi, que això ja fa oloreta, s'acosta l'hora de l'arròs i anem a parar taula!
+Avui ens ajuda una companya de Softcatalà que és traductora traductora, professional.
+A més té un punt mediàtic, ella mateixa ens ho explica, us deixo amb l’Assumpta Anglada.
+Hola, em dic Assumpta Anglada i soc traductora.
+Ja des de petita, doncs que m'agradava molt llegir i escriure.
+Després, ja de més gran, vaig estudiar filologia anglesa.
+I mentre estudiava vaig començar ja a traduir, a fer traduccions audiovisuals.
+I això va ser poc després que s'inaugurés TV3.
+M'havia dedicat gairebé exclusivament a aquest tipus de traduccions fins fa uns cinc o sis anys, quan, bé, per diverses circumstàncies, doncs vaig decidir que volia diversificar una mica la feina.
+Aleshores vaig pensar que el camp de la informàtica i les noves tecnologies podia ser una opció interessant.
+I va ser quan vaig començar a traduir programari per Softcatalà.
+Per mi va ser una mica com una escola, perquè tenen la seva guia d'estil, podia consultar dubtes i tot això.
+I després doncs em va anar sortint feina en aquest camp, però vaig seguir col·laborant amb Softcatalà.
+I ara en soc membre des de l'any 2019.
+Bé, i ara que tenim la taula parada, digues Assumpta, a tu com t'agrada l'arròs?
+Doncs a mi m'agrada l'arròs Parellada, que es veu que també se'n diu "arròs a la mandra",
+ "arròs a la gandula", "arròs sense entrebancs", "arròs sense feina" o "arròs de cec".
+Amb tants noms per l'arròs ja es veu que n'haurem d'acabar fent un recull, com amb els refranys.
+Avui en Josep ens en torna a servir una petita ració.
+“Una tapa de refranys” amb Josep Closa.
+Déu-vos guard, oïdors!
+Avui no aconsegueixo treure'm la son de les orelles.
+Supòs que és pel fred, que es filtra pels finestrons.
+I que sigui dissabte matí quan enregistro això, també hi ajuda.
+Com podeu trobar a la Paremiologia Catalana Comparada Digital “Mandra, son, por i fred, com més n'hi ha, més admet”.
+Ma mare ho tindria resolt aviat, amb un dels seus apremiants “Un, dos, tres, qui té mandra no fa res” al qual jo de vegades goso respondre "Feina, fuig, mandra no em deixis".
+Perquè això que els catalans som molt treballadors, estic convençut que s'ho han inventat els cobradors d'impostos.
+I si no voleu quedar com a mals ciutadans, digueu que avui teniu un deix de galvana placèbola, per indicar que la peresa us venç.
+Apa, siau!
+“Quinze glaçons d'hidrogen”
+I arriba al “Quinze glaçons d'hidrogen” aquell moment delirant de la mà de Jordi Serratosa.
+“Whisky o ratafia?”
+Guaiteu, allà al racó. Sí, aquella taula, la número 13, la que queda just entre el retrat de Pompeu Fabra i la porta del lavabo.
+És un bon lloc per parar-hi l'orella, és la taula preferida dels grans savis que freqüenten el “Quinze glaçons”.
+Avui hi trobem na Maria Embòlia i en Josep Eutanasi.
+Recordo aquell temps quan els programes tractaven de vós i no de tu.
+Ai, que sí que eren bons temps.
+Ah, Maria Puríssima, però m'estàs dient que ara els programes et tracten de tu?
+Però, però quina poca vergonya!
+Però quina falta de respecte. Però això que és, mare de Déu!
+Però això no és pas tot, Maria Embòlia, no és pas tot.
+Fixa't, te'n recordes que fa temps que tu a l'ordinador li podies dir
+“Ep, obre el document, desa-ho aquí, tanca això, surt d'aquí” i ara és tot, tot en infinitiu “obrir document, tancar document, sortir de l'office”.
+M'entens? M’entens? Com ara hem de parlar amb l'ordinador?
+Però a veure, explica-m'ho bé això, Eutanasi.
+M'estàs dient que ara hem de dir “obrir document i tancar document”, amb lo fàcil que és dir-li obre el document i tanca el document?
+Però que hem de parlar-li com els indis, ara?
+O com el Tarzan? Jo Xita o tu Xita? Aquí ningú xita, eh?
+A veure, què s'han pensat aquesta gent!
+“A la barra”
+Arribats al tercer episodi, potser toca aclarir el tema del nom del programa, no trobeu?
+Avui a la barra ens trobem amb en Xavi, que s'ha quedat per aquí escoltant tota l'estona, i l'Artur, que sempre que pot es posa darrere la barra a donar un cop de mà.
+Molts de vosaltres segur que ja heu investigat i la majoria segur que ja ho coneixíeu.
+La taverna de Softcatalà va adoptar el nom d'un famós pangrama.
+Artur, m'ajudes a explicar la fricada aquesta?
+Clar que sí, Aleix, ben fàcil.
+Els que vos dediqueu a instal·lar i provar sovint tipus de lletra, tipografies o fonts en anglès esteu acostumats a veure una frase d'exemple que alguns sistemes operatius o gestors de lletres tipogràfiques usen de mostra.
+Com és lògic, és convenient que la frase de mostra incloga el màxim de caràcters diferents possibles per fer-se una idea ràpida de l'aspecte de la lletra triada.
+Aquest és el cas d'ús del pangrama més habitual avui en dia, però antigament ja eren útils amb l'arribada de les primeres impremtes.
+En català, un dels pangrames més populars és “Jove xef, porti whisky amb quinze glaçons d’hidrogen, coi!” Si ho veieu escrit, comprovareu que conté tots els caràcters de l’abecedari català. Amb el permís del punt volat, tot siga dit.
+Després d'una intensa pluja d'idees i de descartar diversos noms que no podem reproduir en antena, aquest fragment del pangrama del jove xef ens va enamorar i donava molt de joc. Tant que a partir del nom en vam construir una taverna. Començant la casa per la teulada, totalment!
+Però això no és tot, els episodis havien de tenir nom, també?
+Es veu que sí, o això és el que tenia clar en Xavi.
+Mentre enllestia tot el sistema de publicació d'episodis al web de Softcatalà ens va llançar una pregunta.
+Com presentem cada un dels programes?
+Va ser en eixe moment quan se'm va ocórrer utilitzar el mateix que fa Ubuntu, que els noms de les versions són un animal i un adjectiu.
+I vaig pensar, per què no fem el mateix amb el pòdcast?
+A més, el propi nom del programa ja ens donava la idea per al primer episodi, “Hidrogen”.
+L'hidrogen és el primer element de la taula periòdica.
+Només necessitàvem un adjectiu que també començara per “h”, “hidrogen… hipercomplex”.
+I a partir d'allí, anar utilitzant tots els elements de la taula periòdica acompanyat d'un adjectiu que començara per la mateixa lletra.
+Vaig fer una xicoteta proposta de com podria seguir els dos o tres primers capítols, però en eixe moment, Josep Maria, un altre dels companys de Softcatalà, va fer la proposta dels deu primers i a tots ens va encantar.
+Quan vam començar el pòdcast, realment no sabíem si funcionaria, ni si seríem capaços de donar-li continuïtat.
+Però ara que ja hem fet tres episodis, estic segur que ens acabarem tots els elements de la taula periòdica.
+Treball en equip, ganes, il·lusió... aquest és el motor de Softcatalà i així treballem, des de l'absolut voluntariat pel futur i el present de la nostra llengua.
+Doncs això és tot per avui i si voleu col·laborar o ens voleu seguir, ja sabeu on trobar-nos.
+Mentrestant… “Jove xef! Porti whisky amb quinze glaçons d'hidrogen, coi!”
+“Quinze glaçons d'hidrogen”, el pòdcast de llengua i tecnologia de Softcatalà.
