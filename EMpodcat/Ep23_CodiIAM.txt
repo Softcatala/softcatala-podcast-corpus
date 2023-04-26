@@ -1,0 +1,1172 @@
+El pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMpodcat,
+el pòdcast d'urgències i emergències mèdiques en català.
+Aquest pòdcast el produïm en Xavi Basurto, des de l'Empordà.
+Hola, bon dia, Xavi.
+Hola, bon dia.
+Sí, des d'aquí... des de Figueres, al costat de l'Hospital de Figueres.
+Aquí fem l'EMpodcat gironí.
+Ben tocat per la tramuntana, quan en fa.
+En Xavi té un blog que és urgem.cat,
+i @urgemcat a diferents xarxes socials.
+I l'Albert Homs, des de Cerdanya,
+que et trobarem què? a emermedpirineus,
+@emermedpirineus, que és l'àlies de la conta de Twitter, no?
+Del compte de Twitter, d'emermedpirineus.cat, o .eu, el blog.
+I @emermedpirineus@mastodon.cat,
+que no em canso de promoure aquesta xarxa social descentralitzada,
+que si no hi sou us esteu perdent coses interessants.
+I per avui, en aquest episodi 23, tenim un tema de rabiosa actualitat.
+Rabiosa perquè fa poc que sembla que s'ha publicat una actualització del
+Codi IAM, del SEM de Catalunya.
+Dic sembla perquè està circulant un tríptic,
+que en el moment que estem gravant això no acabo de tenir jo clar
+si això és oficial del tot o no, però tots ho estem assumint com a tal
+i està circulant un tríptic, com n'han circulat diversos abans,
+que eren esborranys i aquest sembla que no, aquest sembla que és el de veritat.
+I en Xavi s'ha preparat per una xerrada que va haver de fer,
+i ara també per parlar-ne en aquest episodi,
+s'ha preparat l'explicació al voltant d'aquesta actualització
+del Codi IAM de Catalunya, que tenint en compte
+que la versió anterior era del 2014, crec que ja tocava actualitzar.
+Vinga Xavi, quan vulguis.
+La veritat és que suposem que serà una versió bastant definitiva,
+perquè almenys a nosaltres el tríptic ens ha arribat per vies oficials,
+però sobta que després entres a l'àgora o entres a la pàgina web del SEM
+i la veritat és que no l'he sabut trobar publicat de forma oficial.
+La qüestió és que a nosaltres, almenys a nivell professional, assistencial,
+a mi m'han assegurat que ja era el tríptic,
+per tant les recomanacions que havíem de fer a partir de ja
+en el Codi IAM a Catalunya.
+Hi ha algunes novetats, algunes coses diferents,
+que aprofitant que vam fer una sessió a l'hospital per recordar-les,
+doncs ho fem aquí a l'EMpodcat i així se'n pot fer una miqueta més de difusió.
+Si d'aquí quatre dies surt un altre tríptic,
+doncs, no sé, en farem una petita ressenya.
+Com ho vols fer això, Xavi?
+Ho fem per ordre algorítmic, temporal, cronològic o ho fem per novetats?
+Què prefereixes?
+Jo us explicaria com l'ordre normal cronològic que tenim un Codi IAM
+i explicant bàsicament, no ho explicaré tot, però explicaré més aviat les novetats
+o les diferències que hi ha amb el previ.
+Si vols, faig una petita introducció perquè amb el tema aquest del Codi IAM,
+això, com sabeu, ve d'una instrucció del 2009 del CatSalut.
+Una instrucció vol dir que a partir del CatSalut, la Generalitat,
+se'n van adonar que abans del 2009 a Catalunya
+estàvem per sota de la mitjana espanyola d'angioplàsties
+o de tractaments de rescat de reperfusió en casos d'infart agut de miocardi
+amb elevació de l'ST.
+Estàvem per sota de la mitjana espanyola.
+I, clar, van dir que això no podia ser.
+I aleshores es van organitzar i van fer tot un pla perquè els infarts d'agut de miocardi
+amb elevació de l'ST realment tinguessin més accés a tècniques de reperfusió,
+sigui per fibrinòlisi o sigui a través d'angioplàstia.
+I van fer una instrucció, que és unes recomanacions,
+però d'obligada compliment a tots els proveïdors assistencials del CatSalut.
+Per tant, tothom que té un contracte amb el CatSalut,
+a partir del 2009 havien de seguir la instrucció aquesta del Codi IAM.
+La instrucció és del 2009, el 2010 es va posar en pràctica
+i el 2017 es va fer una actualització,
+arrel que el 2017 les guies europees de cardiologia van actualitzar la guia de pràctica clínica
+en l'infart d'agut de miocardi amb elevació de l'ST.
+Per sorpresa meva, les guies o el protocol que fèiem servir fins a dia d'ahir del SEM
+fèiem servir un tríptic del 2014 abans d'aquesta actualització del 2017.
+Ja portem gairebé nou anys i les recomanacions almenys així oficials no havien canviat
+tot i que el 2017, ja fa 5-6 anys, s'havien publicat les guies i la instrucció s'havia modificat.
+Sort que arriba ara un canvi, però crec que arriba bastant tard.
+De fet, la guia europea de cardiologia és del 2012, després va ser l'actualització del 2017
+i si seguim aquests 5 o 6 anys, suposo que el 2023-2024
+deu estar a punt de sortir les següents recomanacions d'elevació de l'ST, de l'infart.
+No sé si ja gairebé, amb aquest nou tríptic ja gairebé, o potser anem una miqueta tard.
+En el 2017 ja parlàvem de totes aquestes novetats que tenim en el codi IAM ara del SEM, que ara les veurem.
+Només recordar que en el 2017, a la instrucció del CatSalut, ja parlava que els criteris d'activació
+eren uns criteris clínics i uns criteris electrocardiogràfics.
+És a dir, ja parlaven que el pacient havia de tindre un dolor toràcic o altres símptomes compatibles, sense dolor.
+Parlàvem del pacient amb mort sobtada recuperada, amb dispnea, amb mal estat general, pacients diabètics,
+o sospita clínica per part de l'equip assistencial.
+Havia de ser una clínica de més de 30 minuts de duració i menys de 12
+i una absència de malalties terminals o de comorbiditat greu.
+Això és el que diu la instrucció del CatSalut, això és el que s'ha de fer.
+Hi havia uns criteris electrocardiogràfics ja el 2017, que són els típics que sempre fem servir, els aixecaments de l'ST,
+però a més a més ja parlava dels bloqueig de branca esquerra amb uns criteris compatibles amb síndrome coronari agut,
+que no eren el bloqueig de branca esquerra de novo, de nova aparició,
+sinó que ja el 2017 ja parlaven dels criteris d'Sgarbossa modificats.
+Parla del síndrome de Wellens i parla també de la sospita d'afectació del tronc comú,
+que és quan hi ha el descens de l'ST a moltes derivacions i elevació de l'ST a VR.
+Tot això ja en parla la instrucció, però el tríptic del SEM del 2014 no en parla, no en parla fins ara el 2023.
+Aleshores, bé, feta aquesta petita introducció, coses noves del nou tríptic.
+Aquí parlen, ara sí, que el pacient ha de tindre un dolor toràcic suggestiu de síndrome coronari agut, excepte
+que amb dones, amb diabètics i gent gran, valorem
+si és un infart o no, o si és una clínica de síndrome coronari agut, sense dolor.
+Ja ho posen explícitament, que tinguis en compte aquests grups de població.
+Què més? Si compleix els criteris electrocardiogràfics, que després revisarem,
+actives el codi IAM.
+Que no els compleix, hi ha una novetat.
+Xavi, em voldria fer un incís. Quan parles dels criteris electrocardiogràfics,
+implica que hem de tenir fet un electro i mirar un electro.
+I aquí insisteixen molt en quelcom que ens hi hauríem de posar seriosament,
+que és aconseguir fer això en menys de 10 minuts.
+Perquè 10 minuts, especialment, imagineu-vos 10 minuts des que entren per la porta.
+Tenim temps de triatge escandalosos a la majoria dels nostres centres.
+Imagina't que hem d'aconseguir fer un electro. Aquests 10 minuts pot ser difícil d'aconseguir.
+Sí, i més. Has de tenir en compte que hi ha grups, diversos grups de població,
+que no tenen per què vindre amb un dolor toràcic.
+vull dir que has d'estar molt alerta i fer molts electros, que molts siguin normals,
+perquè de tant en tant n'hi hagi algú que no sigui normal.
+I que algú que se'l sàpiga mirar i que no només es fixi en les elevacions de l'ST.
+Perquè si abans ja ens havíem de fixar-hi amb electros compatibles amb oclusions miocàrdiques o coronàries
+que no eren elevacions de l'ST, ara ja és que ho tenim obligatori fixar-nos-hi.
+La sort és que aquí, com que això és el codi IAM del SEM, implica que qui fa l'electro seria el SEM.
+No, però pensa que, pel que he vist, el SEM gestiona com una tercera part de tots els codis IAMs que es fan a Catalunya.
+Hi ha molts codis IAMs que són gent que acudeixen a un hospital per als seus mitjans,
+un hospital que té capacitat de fer hemodinàmica i tal, i hi ha molts codis IAMs que el SEM no veu.
+Aleshores, el protocol, el tríptic aquest, te diu que si no compleix els criteris electrocardiogràfics
+potser que tingui criteris de síndrome coronari agut sense elevació de l'ST però que siguin de molt alt risc.
+I aquests molt alt risc, si els té, també l'has de portar directament a un hospital amb capacitat d'angioplàstia en menys de 24 hores.
+I aquests quins malalts són? Són els que no tenen elevació de l'ST però tenen una clínica d'IAM
+i estan inestables hemodinàmicament, estan xocats o tenen un dolor toràcic que és recurrent,
+que li poses mòrfic i nitros i no millora i tenen arrítmies potencialment mortals,
+digues-li, taquicàrdies ventriculars, complicacions mecàniques de l'IAM,
+tenen insuficiència cardíaca, estan amb edema agut de pulmó o tenen elevacions transitòries de l'ST.
+Doncs en tots aquests casos no compleix els criteris de codi IAM però l'has de portar a un hospital amb capacitat d'angioplàstia.
+Això és un punt que trobo molt interessant i de fet si n'hagués de destacar un,
+a pesar del meu amor pels criteris electrocardiogràfics que no són elevació de l'ST per detectar els infarts a punts de miocardi,
+jo destacaria aquest, directe a un hospital on fan angioplàsties.
+Em genera el dubte, em queda el dubte de què faran els intervencionistes
+quan els arribin tots aquests síndromes coronaris aguts sense evidència electrocardiogràfica d'infart,
+què faran amb ells? Això pot ser interessant de veure.
+Què farà qui?
+Què faran els intervencionistes? és a dir...
+Res. Res immediatament.
+Ho dic perquè si recordeu de quan l'any passat, no sé si va ser el quart o cinquè episodi,
+vam gravar sobre allò del manifest d'IMAO, de l'infart agut de miocardi oclusiu,
+ja hi ha les guies de síndrome coronari agut sense elevació de l'ST,
+el fet que s'ha de fer un cateterisme urgent a tot síndrome coronari agut sense elevació de l'ST en més de dues hores sense resolució de símptomes,
+i això ja està estudiadíssim, que això no està passant, a pesar que surt a les guies.
+Aquí estem dient que és la part per mi important, el portarem a un lloc on l'hi puguin fer.
+Això està collonut, és fantàstic, és el primer pas.
+Em queda el dubte de què passarà.
+Quan d'aquí uns anys avaluem com ha anat aquesta nova versió del codi IAM,
+quants d'aquests síndromes coronaris aguts sense elevació de l'ST, aquest nom que no m'agrada gens,
+han passat per angioplàstica i quants no?
+Això pot ser una feina interessant a fer d'aquí uns quants anys a estudiar.
+Clar, això... Aquests pacients entraran sense l'etiqueta de codi IAM.
+D'entrada dubto que el vegi l'hemodinamista, el veurà el metge d'urgències,
+o si l'ha vist el cardiòleg, baixarà el cardiòleg.
+Però interpreto jo que si el portes, i és una persona que el portes perquè té uns símptomes
+que semblen que són coronaris, i a més a més fa salves de taquicàrdia ventricular de 10 segons,
+home, no sé si el donaran d'alta sense fer-li un cateterisme, no?
+O està amb edema agut de pulmó, o està xocat.
+Home, sense fer-li segur que no. La qüestió és si li faran en un temps adequat...
+Bé, menys de 24 hores.
+Clar, que és un temps adequat per algunes coses i absolutament lamentable si està tapat.
+Sí, sí, sí. Sí, sí, no, no, clar.
+Ja ho veurem. Això pot ser una cosa interessant estudiar d'aquí un temps,
+a veure com ha anat evolucionant això.
+Mira, a veure si ho publiquen alguna cosa i ens n'enterem.
+Va, continuem. Un cop tenim clar que és un codi IAM, després hi ha diferents estratègies de reperfusió.
+Si estàs a menys de 90 minuts d'arribada a la porta de l'hospital on te li poden fer una angioplàstia,
+doncs cap allà que vas a fer l'angioplàstia.
+Si estàs a més de 90 minuts, després et diuen que facis una fibrinòlisi prehospitalària.
+Hi ha un marge de temps entre els 90 i els 120 minuts que diu el SEM, individualitza.
+I aquests 90 minuts compten a partir de quan?
+90 minuts és electro, des que li fas l'electro fins que arribes a l'hospital.
+De l'electro fins que arribes a l'hospital. Entenem arribar de l'hospital, passar la porta de l'hospital,
+no necessàrIAMent arribar a la taula d'hemodinàmica.
+Sí, és arribar a l'hospital on es pot fer angioplàstia.
+Són 90 minuts que veus el pacient a dins del domicili o al CAP,
+ho veus molt clar, el monitores, poses el tractament,
+puges a l'ambulància i te'n vas corrents cap a l'hospital i arribes a l'hospital.
+En principi, a no ser que estiguis...
+Nosaltres a algun lloc de l'Empordà poder arribaríem just, però...
+a no ser que es compliqui molt la sortida,
+que es pot complicar si el malalt està xungo i costa de sortir del domicili i tot això,
+pots tardar una hora i mitja.
+En canvi, en el meu territori, nosaltres estarem en aquest...
+En el meu cas concret, estarem entre els 90 i 120 minuts.
+Altres territoris del Pirineu estaran a més d'aquests 120 minuts.
+A nosaltres, en el meu cas particular, ens han resolt un dels grans dubtes que tenia,
+que és què fèiem, perquè aquests 90 minuts estem entre aquests 90 i 120 nosaltres.
+Ara ens l'han resolt, els baixarem a tots segur,
+perquè ja no hi ha cap cardiòleg que se'n recordi de què és això de la fibrinòlisi.
+Els que ens sembla que han donat pel sac són els que estan més lluny,
+que com que estaven a més de 90 segur, i fins ara hi ha fibrinòlisi,
+ara, clar, ara ja són 120.
+Veurem, a veure com els hi va, ja ens ho explicaran.
+Aleshores, què més? Els criteris que deies, Albert,
+els criteris d'activació del codi, hi ha criteris electrocardiogràfics.
+Hi han els clínics...
+Ah, sí, sí, vinga, vinga, que això m'agrada.
+Hi han els clínics, que ja els hem dit abans, que són els que defineix el CatSalut,
+i el SEM ara s'ha posat una miqueta més en sèrio
+a complir els criteris electrocardiogràfics.
+El de sempre és l'elevació de l'ST de com a mínim un mil·límetre
+a dues derivacions que siguin contínues, excepte a V2 i V3.
+En aquestes, això és novetat, aquí t'especifica que no n'hi ha prou amb un mil·límetre,
+sinó que en les dones ha de ser de més de un i mig,
+i amb els homes depèn de l'edat.
+Si ets un home de més de 40 anys, l'ST ha de ser de més de dos mil·límetres,
+i si ets jove de menys de 40, s'ha d'elevar una miqueta més i és dos i mig.
+Això us recomanaria... Fem autobombo. D'això n'hem parlat l'episodi número 16.
+En concret, aquest és l'episodi número 16. El 4, el 16..., escolta'm, sembla que això dels infarts ens agrada en aquesta casa.
+Haurem de posar uns enllaços i que vagin passant d'una conversa a l'altra.
+Al final aquest durarà hores, això.
+Què més? Parla dels criteris quan sospites que hi hagi un tronc comú,
+una descendent anterior, una malaltia de tres vasos,
+que és quan veus un descens de l'ST de almenys un mil·límetre a vuit derivacions.
+I normalment amb això veus una elevació de l'ST a VR,
+o, el SEM no ho diu, però si mires les guies poses que hi ha una elevació de ST a VR,
+i/o a V1, a la precordial, a la V1.
+Després, te recomanen que també quan vegis una descens de l'ST de mig mil·límetre entre V1, V2, V3,
+doncs pensar que és un infart posterior.
+I aleshores, per confirmar-ho, es recomana que facis unes derivacions posteriors,
+que són de V7, V8 i V9.
+Això de les derivacions posteriors és sempre un rotllo quan has de marcar els electros després.
+Recomanació a tothom que hi fa electros,
+quan feu un electro que no sigui estàndard, marqueu tant com pugueu que no és estàndard,
+perquè si no després és un drama saber si allò que veus és el número real o és una altra cosa.
+Ja no us dic res quan el registre és electrònic, llavors ja és pràcticament impossible.
+Ho has de marcar-ho sobre amb un retolador, no?
+Sí, però després això queda gravat amb algun registre electrònic
+i com collons el que està mirant el registre electrònic sap que allò és V7, V8, V9.
+No és senzill.
+Això, recomanació, marqueu-ho bé, assegureu-vos que s'entén que és V7, V8, V9,
+perquè si no serà un sidral.
+Això és el posterior. Després, en casos que vegis que electrocardiogràficament
+sembli un infart inferior, amb elevació de l'ST a D.II, D.III i VF,
+en aquests casos, sobretot si hi ha inestabilitat hemodinàmica, pensar
+en fer unes precordials dretes, canviar el sentit.
+En lloc dels electrodes cap a l'aixella esquerra, fer-los cap a la dreta i fer un VR4, 5 i 6.
+Els companys del SAMU, quan fan això, m'agrada perquè ho fan ja...
+sistemàticament agafen V1, V2, V3, passa a ser V3R, V4R, V5R,
+i V4, V5, V6, passa a ser V7, V8, V9.
+És a dir, les precordials d'aquell electro no tenen res a veure amb les d'un electro normal.
+És a dir, posats a liar-la, la lien una sola vegada.
+Ah, vols dir que fan les posteriors i les dretes en el mateix electro?
+Sí, perquè així ja només la lien una vegada, no la lien més.
+O sigui, fan un electro normal estàndard i el segon fan unes posteriors i unes dretes en el mateix electro.
+Sí, hauria de comprovar si ho fan sempre igual a tot arreu, però és una pràctica que he vist i penso que...
+Bé, no sé fins a quin punt és útil o no, però en aquest cas t'assegures que els dos electros no tenen res a veure l'un amb l'altre.
+Que tingui afectació posterior i dreta simultànIAMent tindria collons també.
+Sí, sí. Bé, però així ens queda més clar quan veiem l'electro dius, hòstia, no entenc res.
+Després ja veuràs que tens sis...
+No entenc res, però hi ha STs que pugen. Llavors dius, ep, aquí passa alguna cosa.
+Què més? Parlen del bloqueig de branca esquerra.
+Ara ja no parlen que sigui un bloqueig de branca esquerra de novo, sinó que un bloqueig de branca esquerra amb criteris d'Sgarbossa modificats.
+O bloqueig de branca esquerra que sigui d'un ritme de marcapassos.
+Amb aquest no queda gens clar perquè els criteris d'Sgarbossa en el tríptic els dona una puntuació.
+Depèn de quin criteri és, doncs si són, no sé, me'n recordo, si són dos punts, tres punts i cinc punts o alguna cosa així. Depèn de quin criteri.
+Però els criteris modificats ja no funcionen així. Els criteris modificats és si tens algun d'aquests tres criteris
+i la clínica ho sembla, doncs codi IAM activat.
+Sí, han fet com una barreja, no?
+Jo la veritat m'ho he estat mirant i no acabo d'entendre per què ho han fet així, és com més liat.
+És com dius tu, una barreja entre els criteris originals i els modificats. No ho entenc, no ho sé.
+Ho haurem de preguntar, ho haurem de buscar. Escolta, què ha passat aquí? Expliqueu-nos-ho que potser ens estem perdent alguna cosa.
+Així ens ho entenguem. Jo el que veig més clar és tindre els modificats, que si compleix un d'aquests tres criteris,
+doncs ja està. Això el portes a l'hospital amb angioplàstia i ja està.
+I això serveix, corregeix-me si m'equivoco, serveix tant per bloqueig de branca esquerra com per ritme de marcapassos
+que es presenta en bloqueig de branca esquerra habitualment.
+Exacte.
+És a dir, que allò que s'havia dit que si vas amb un marca passos no poden saber si tens un infart,
+això ja és d'una altra època, no? És d'una altre segle.
+Sí, perquè si suposo que no te tens els elèctrodes que t'estimulen el miocardi, no sé què,
+doncs ja actua com si fos un bloqueig de branca esquerra i l'electro s'assemblae molt. Per tant, els criteris serveixen els mateixos.
+Què més? Després parlen del bloqueig de branca dreta que sí que diuen que ha de ser de nova aparició.
+Un bloqueig de branca dreta normal i corrent de nova aparició.
+No em queda molt clar, mirant les guies europees i altres documents, si realment és molt important
+que sigui un bloqueig de branca de nova aparició o si ho has de tindre molt clar.
+El que sí que està clar és que si tens una persona que té clínica de síndrome coronari agut
+i té un bloqueig de branca dreta, aquesta gent té més mortalitat, té més arrítmies,
+més insuficiència cardíaca i, finalment, més mortalitat.
+I, a més a més, costa de veure un patró electrocardiogràfic, costa més de veure.
+Per tant, entre això i que té més mortalitat, doncs tracta'l com si fos un codi IAM.
+I després també parlen, en aquest cas, del patró de de Winter,
+que és el patró aquest que hi ha un descens de punt J en les precordials,
+amb un ST que s'eleva, una T positiva, i normalment pot haver-hi una elevació d'ST a VR.
+Si voleu veure exemples d'això, al meu blog d'aquest també n'he parlat.
+Me'n queden alguns per explicar de criteris electrocardiogràfics de no elevació de l'ST de codi IAM,
+però aquest no, aquest n'hi és, aquest el tinc.
+Després farem un enllaç i cap allà. No parlen de res més.
+No parlen, per exemple, del síndrome de Wellens, que ja en la instrucció del CatSalut del 2017 ja et diu síndrome de Wellens.
+Aquí no en parlen, però com a mínim hem ampliat molt el ventall de criteris electrocardiogràfics
+que són candidats a anar-se'n a fer una angiografia i veure si allò està tapat o no està tapat.
+Jo penso que hem avançat bastant, una miqueta tard, en alguna cosa una miqueta dubtosa i estranya,
+però hem d'estar contents, penso.
+Jo estic molt content, eh? Dins la meva croada de l'IAMO, dels infarts aguts de miocardi oclusius, estic molt content.
+Hem afegit molts, molts.
+A mi m'hauria agradat que hi haguessin posat el de les zones T hiperagudes,
+però com que la definició d'una T hiperaguda per ella mateixa és molt qualitativa, poc quantitativa i extremadament subjectiva,
+entenc que no hi sigui.
+Perquè el que jo veig com a una T hiperaguda, un altre ho veurà com ves a saber què.
+Si no aconseguim que aquest criteri de l'ona T hiperaguda es concreti més, també entenc que no hi sigui.
+Estic molt content amb això. Jo quan vaig veure aquest tros vaig pensar, oh!
+De fet, algun oient que tenim al grup de Telegram, no ho hem dit al principi, com sempre no ens en recordem mai, tenim un grup de Telegram,
+un oient diu que en una xerrada que va escoltar que es presentaven a Tarragona, al Joan XXIII, feien una presentació d'això,
+va veure això i va pensar justament en nosaltres.
+Amb la teva creuada de...
+Sí, sí, m'ho va enviar i dic mira, hòstia, gràcies tu.
+Molt bé.
+Interessant, interessant.
+Que guai. Molt bé, molt bé.
+Ja tenim els criteris electrocardiogràfics, ja sabem que té un codi IAM. Ara què?
+Ja hem decidit si pensaves que era d'angioplàstia o era de fibrinòlisi,
+en funció de si tardaràs més d'una hora i mitja o menys d'una hora i mitja d'arribar a l'hospital que et resolgui el problema.
+I mentre vas cap allà, vas a fer el codi IAM, cateterisme i aquestes coses, has de posar un tractament.
+Novetats, aquí ja t'expliquen al SEM que només oxigen si satura menys de 90%. Això abans no ens ho deien, però ara ja qualsevol...
+Abans era 95%, crec recordar.
+Crec que sí. Sí, ara ja qualsevol... j protocol de qualsevol tema, ja te diuen el mateix.
+Si no ho necessites realment, doncs no li poses oxigen.
+Després del Covid hi ha qualsevol saturació de menys de...
+És que és igual, venen saturant una solemne misèria i ens és igual.
+Jo recordo abans, menys de 80% ens cagàvem i ara veus menys de 80% i dius, bueno, anar fent.
+Sí, sí, sí, exacte.
+No sé què farem, la cosa és si veus una persona que s'atura a 91% però el veus respirant a 35% per minut.
+Perquè una cosa és la saturació i l'altra és quan vegis el pacient si té distrés respiratori o si està saturant, si està respirant a 35% per minut.
+No sé si tindria una hora pacient a dins de la llitera, a l'ambulància, a 35 respiracions per minut, sense posar-li oxigen, perquè satura 92%.
+No ho sé, però no sé si per una hora que li posi l'oxigen jo realment li estaré augmentant la mortalitat o no.
+La cosa és que ens marquen que anem amb compte, que no posem... no per tindre un infart hi ha tothom amb oxigen, no.
+La mona ha caigut, la mona, morfina, oxigen, nitroglicerina, aspirina, un axioma de l'any de la Maria Castanya pel tractament de l'infart.
+La O de la mona ja ha caigut. La M no ho sé. A veure, a veure què ens expliques de la M.
+Si parlen de l'analgèsia te posa que si fentanil o clorur mòrfic.
+Fentanilo, ells ho diuen, no sé per què ho posen en castellà, no sé per què posen fentanillo. Tampoc diuen ni un ni l'altre, posa-li el que vulguis.
+I ja està, vigilis amb els que poden retrasar l'absorció intestinal dels antiagregants. Per tant, posa la mínima dosi necessària i ja està.
+I tu quin posaries, Xavi? Quin prefereixes tu? El fentanil o la morfina?
+Jo fins ara estic més acostumat o normalment faig servir el mòrfic, però sí, ara últimament també a dosis de 50 micrograms de fentanil també ho faig servir ara.
+No tinc un criteri realment molt sistemàtic de fer-ho.
+M'agradaria, hòstia, és que perquè he llegit últimament em sembla que el mòrfic no sembla que vagi massa bé en aquest assumpte.
+És clar, una cosa que hem fet tota la vida i que et diuen que no... Buf, no sé, a veure si alguns ho podries aclarir. A veure què diu la ciència.
+No sé si la ciència ja ho té molt clar, eh? No ho sé, no... Bueno, si quan... Jo quan ho vegi més clar ho faré, però no ho sé.
+Antianginosos, la nitroglicerina, no?
+Te recomanen que vigilis el pacient que estigui... si està hipotens, si està bradicàrdic, o tens sospites perquè li has fet unes precordials dretes,
+sospites que tens un infart de la ventricle dret, o que ha pres algun inhibidor aquest de la fosfodiesterasa per la disfunció erèctil en les últimes 24 hores.
+Doncs en aquests casos, millor no posar-li nitroglicerina endovenosa, i si ho fas, doncs molt, molt, molt amb molt de compte.
+De fet, si te mires la guia del 2017 de l'Europea, diu... a l'apartat 7.5 de los nitratos, diu que en el infart con elevación del ST no es beneficioso por lo que no está recomendado.
+Això els nitrats endovenosos. Que sí en casos d'hipertensió, insuficiència cardíaca, i sempre que no hi hagi hipotensió, que no hi hagi infart de ventricle dret, o això, les fosfodiesterases en les últimes 48 hores,
+perquè sí que hi ha algun inhibidor d'aquests que pot durar més d'un dia. Per tant, les dosis mínimes, i sobretot només quan realment el pacient està hipertens, molt hipertens, o té insuficiència cardíaca.
+Si no, tracta-li el dolor amb opiacis.
+Aquí m'agrada en aquest punt que han posat això que no administrar nitroglicerina, tampoc que administrar-la com a diagnòstic diferencial del dolor toràcic.
+Això també ho trobo interessant, perquè és una de les pràctiques que hem fet durant molt de temps. Si amb la nitro millora, no es tracta.
+És veritat, sí, sí, això no me'n recordava. Sí, sí, aquí ho posen explícitament. Sí, i moltes vegades ja saps que això no és així, però algunes vegades, sí, crec que finalment ho pots arribar a fer servir com a criteri diagnòstic,
+però el teu conscient ha de saber que no l'has de fer servir com el fet que treguis el dolor o no treguis el dolor perquè li hagis posat nitro, doncs això és indicatiu que és o no és un síndrome coronari.
+Això ja ho sabíem, però almenys aquí ja t'ho posen explícitament i està bé.
+Hem parlat de la M, hem parlat de la O, la N, ens queda la A.
+L'antiagregació, aquí crec que no canvia res específicament, és aspirina, 150-300 mil·ligrams, te diu mastegada, no sé.
+Això és important, perquè és una d'aquestes coses que no hi penso mai i es veu que és molt important això. El temps en que fa efecte canvia bastant si la mastegues o si no.
+Si és una aspirina que té una coberta protectora, l'absorció serà molt més tardana, per tant, no ho sé, mastega-la.
+I la dosi no està gens clara encara, perquè parles de 150-300, però aquí no està gens clar si és 150-300, 225, el que tinguis, mitja aspirina de 500.
+Si mires les guies, et deixen un marge bastant... d'aquest marge, de 150-300.
+I després un segon antiagregant, que si vols ara acabo de fer això i en parlem.
+L'anticoagulació, si vas a fer una angioplàstia o creus que li faran una angioplàstia, mentre vas cap allà, com uns... aquí no ho diu,
+però com uns 30 minuts abans que creguis tu que arribaràs a la taula de... d'hemodinàmica, li poses un bol de heparina sòdica d'uns 70 unitats per quilo.
+No ho diu, però crec que la dosi màxima són 5.000 unitats.
+Bé, després que gravéssim aquest episodi, el SEM ha tret una fitxa de seguretat que ens aclareix això.
+Resulta que sí que han eliminat el límit màxim de quantitat de heparina. Ja no són 5.000 unitats, sinó aquests 70 per quilo, per el pes que sigui.
+Per tant, ja no seran un màxim de 5.000, sinó els que toquin. Continuem amb el pòdcast.
+I que més, ja està, controlar la glicèmia i controlar si té vòmits i no ens diu res més.
+Si vols el tema de la doble antiagregació...
+Ui, i tant, i tant, perquè aquí hi ha han corregut rius de tinta amb això.
+De fet, jo... nosaltres no tinc experiència de males experiències de posar-li un antiagregant o posar-li un altre i que després arribis a taula de hemodinàmica i et diguin de per què has posat el Clopidogrel i no has posat el Ticagrelor.
+De fet, quan van començar aquests nous antiagregants, vam fer una revisió del tema i no hi havia especialment diferències entre una estratègia i una altra.
+No sé si en aquests anys això ha canviat molt o no, o ara ens hem convençut tots que són millors uns que els altres. No ho tinc gaire clar.
+Però bé, la qüestió és que el SEM en el tríptic queda bastant clar, que si vas a fer angioplàstia i creus que necessites un segon antiagregant, doncs depèn.
+Si tens dubtes diagnòstics de l'electro, que no saps si serà un codi IAM, si no, no ho tens clar,
+o realment el pacient té una hemorràgia activa per algun altre motiu, està sangrant per algun altre lloc, o no pots fer via oral, no posis un segon antiagregant i s'ha acabat el problema.
+Que no hi ha aquest problema.
+Segona cosa a tindre en compte és veure si realment pots preguntar-li al malalt tots els seus antecedents, o els pots mirar a la història clínica,
+i veure si és un pacient d'alt risc hemorràgic.
+En cas de ser-ho, o en cas que no tinguis possibilitat de veure tota la seva informació, posa el Clopidogrel de sempre, 600 unitats.
+En aquest punt, el pacient d'alt risc hemorràgic, te'ls defineix i et diu,
+un pacient que ja està prenent anticoagulació oral, del tipus que sigui, o ha tingut prèviament una hemorràgia intracranial,
+o els últims sis mesos ha tingut alguna hemorràgia greu, que hagi requerit hospitalització o transfusió,
+que tingui una neoplàstia activa, una cirurgia menor o un traumatisme greu l'últim mes,
+o que sigui una insuficiència hepàtica important, o que tingui una malaltia terminal o una fragilitat important.
+En tots aquests casos, es considera que és un pacient amb alt risc hemorràgic,
+per tant sí que li pots posar un segon antiagregant, però ha de ser el Clopidogrel.
+En cas que no tingui cap d'aquests problemes, fixar-te si o preguntar si ha tingut antecedents d'ictus isquèmic,
+o AIT previs, o si té més de 75 anys, o és un pacient tirant a prim de menys de 60 quilos.
+En cas que tingui alguna cosa d'aquestes, per tant té més risc hemorràgic, posa-li el Ticagrelor.
+180 mg via oral.
+I en cas que no compleixi cap criteri d'aquests, que pugui sangrar, que augmenti el risc de sangrat,
+cap de cap d'aquests de tots els que hem nombrat, doncs Prasugrel, a 60 mg via oral.
+Aquí ha canviat, abans era Clopi per tot, excepte, i ara és Prasu, excepte.
+Aquí, una cosa que estava pensant ara mentre ho has comentat, els menys de 60 quilos,
+aquí ens trobarem, això pot ser interessant també per estudiar després,
+ens trobarem que moltíssimes dones no els donarem Prasu, els hi donarem Tica,
+perquè els 60 quilos, dones de més de 60 quilos, home, evidentment hi ha de tot arreu,
+però dones de menys de 60 quilos n'hi ha bastantes més que d'homes de menys de 60 quilos.
+Sí, vols dir que...
+Aquí podrà ser interessant veure com van les coses.
+Si hi ha diferències clíniques significatives entre homes i dones pel fet del pes?
+Bé, és una de les explicacions que es donen amb aquestes diferències sistemàtiques
+que hi ha de resultats i demés entre homes i dones.
+Els resultats en salut de les dones sempre són pitjors.
+Aquest masclisme incrustat a la societat, doncs mira, també podria sortir aquí.
+No ho sé, és una altra cosa que se m'acudeix.
+Se m'acuden masses coses, hauria de pensar menys i dedicar-me a altres assumptes.
+Sí, perquè si ho has de resoldre tu,
+si a sobre haguessis de fer tu la recerca per saber si això és un factor determinant o no,
+no ho sé, si tindries...
+Bé, una de les coses bones d'això de l'ordre aquest que comentaves del CatSalut
+és que gràcies a això cada any hi ha una línia d'ajuts per la investigació sobre el codi IAM,
+que hi ha calers per pagar estadístic a qui tregui la millor proposta.
+Mira, algun dels acadèmics que ens escolten, si és que n'hi ha algun, es pot plantejar, goita.
+És un estudi a fer interessant d'aquí uns anys, ja el pots començar a preparar.
+Què més? No sé si hi ha alguna cosa més, eh?
+La fibrinòlisi, la fibrinòlisi. Els que estem lluny, això ens interessa.
+És veritat, jo ja m'havia oblidat que existia aquesta opció terapèutica.
+Digue'm tu si ha canviat alguna cosa, però...
+No ho sé, oxigenoteràpia només si satura menys del 90%,
+després l'has d'antiagregar amb aspirina 150 o 300, més clopidogrel.
+Exacte, aquí ni prasus ni ticas.
+Exacte, aspirina i clopi.
+Clar, pensa que aquí després l'has de fibrinolitzar, anticogular...
+Per tant, és un pacient que té d'alt risc que nosaltres mateixos
+li provoquem algun efecte advers important.
+Per tant, fent servir el clopi, que és el que té menys risc de sagnats.
+I depèn de l'edat, no?
+Si tens menys de 75, li pots posar 300 mg de clopi,
+i si té més de 75, doncs bastant menys, uns 75 mg, via oral.
+Després, l'anticogulació, amb enoxaparina, doncs depèn.
+Si té menys de 75 anys sense insuficiència renal,
+doncs el bolus 30 mg endovenós,
+després seguit per un mg/quilo subcutani,
+i si té més de 75 anys o insuficiència renal,
+que és l'únic punt que parlen de la insuficiència renal,
+abans ni amb el tica, ni el clopi, ni el prasu,
+parlen de la insuficiència renal, només en aquest moment de la fibrinòlisi.
+En aquests casos, sense fer bolus d'enoxaparina,
+i a una dosi menys... en lloc d'un mg per quilo,
+doncs a 0,75 mg/quilo subcutani.
+Per tant, l'hem doble antiagregat, l'hem anticogulat,
+i ara la fibrinòlisi, el TNK, tenecteplasa, per quilo de pes,
+i si no tenim, perquè de vegades en estoc,
+el TNK pot estar una miqueta estret,
+doncs aquí no ho diu, però pots fer servir l'alteplasa.
+Com antigament, amb la bomba i tot el rotllasso aquest.
+Aquí, la cosa que sí que veig ara, i que em costa recordar si ho teníem abans,
+diria que no, és que la dosi va amb paquets de 10 quilos,
+és a dir, en funció del pes, 60 quilos són 6 mil·lilitres de la...
+Ah, sí.
+...que són 30 mil·ligrams de tenecteplasa,
+són 6 mil·lilitres de la xeringa i demès,
+llavors, si és 60-70 quilos són 7 mil·lilitres,
+i a partir de 90 quilos són tota la xeringa de 10 mil·lilitres.
+No ve precarregat, has de fer tu la mescla,
+però després acaba sortint una xeringa de 10.
+Aquí la novetat per mi és, si són majors de 65 anys,
+se'ls hi posa la meitat de la dosi.
+Això ara mateix, de memòria, jo diria que és novetat.
+És novetat? Això no era així?
+La memòria és molt dolenta, i ara que he vist això ja no me'n recordaré de l'altre,
+però no em sona que féssim la meitat.
+I la llista de contraindicacions, de memòria,
+jo diria que és si fa o no fa la mateixa que ja hi havia,
+perquè això no ha canviat pas gaire.
+Les contraindicacions absolutes és,
+si tens molts risc de sangrar no ho fas,
+i si tens un risc relatiu, doncs...
+Sí, depèn de com estiguis el malalt de base,
+on estiguis,
+les relatives són relatives.
+I què més? Jo penso que ja està.
+A mi, realment,
+haig de reconèixer que m'agrada...
+O sigui, s'ha actualitzat, era important,
+s'ha fet,
+no em sembla que sigui una actualització fora de lloc del que hauria de ser.
+Jo penso que hauríem d'aprofitar
+que els temps estan canviant,
+i això ho han fet un grup de professionals del SEM,
+el SEM va demanar a professionals
+tan propis com de bases concertades
+que s'oferissin voluntaris
+per treballar en això, i s'ha fet.
+És a dir, és una cosa que ve bastant de baix.
+Penso que podríem,
+si ens escolta algú del SEM i s'anima,
+es podria aprofitar. Aquí hi ha hagut filtracions,
+entre cometes això de filtracions, és a dir...
+aquest tríptic que tenim ara,
+el dubte de si és oficial o no
+és perquè n'hi ha hagut previs abans
+que eren esborranys,
+i ningú sabia que eren esborranys,
+ens arriben moltes informacions
+que ens arriben per vies extraoficials, grups de missatgeria,
+bàsicament, que no saps d'on surten,
+aquí t'arriba aquest
+que potser hi ha una falta d'ortografia per allà,
+hi ha un no sé què per aquí,
+potser ens hauríem de començar a plantejar
+començar a fer coses ja molt més obertes.
+És a dir,
+es publica el tríptic, és molt important,
+realment és molt important aquest tríptic,
+és molt important que tots els professionals
+del Principat de Catalunya
+tant del SEM com de
+qualsevol servei d'urgències
+ens l'empullem i el sapiguem,
+però hi ha molta informació d'aquí que no ens arribarà.
+Per què s'ha decidit això i no altra?
+Quina evidència científica hi ha darrere de tot això?
+Ens hauríem de començar a plantejar
+que tota aquesta feina que s'ha fet
+sigui compartida, no sé com,
+podríem parlar de si fer un repositori obert de dades,
+si fer alguna mena
+d'eina d'aquestes que li diuen de
+crowd sourcing,
+que és que la gent cooperi i tal.
+Perquè, home, que s'hagi
+començat a fer amb professionals
+voluntàriament una colla de professionals està molt bé,
+ho dic perquè
+és el que comentàvem al principi.
+Aquest tríptic és el bo o no és el bo,
+doncs no ho sé, però nosaltres ja n'estem parlant, perquè això és ja.
+Ahà, vale, doncs no sé, Albert, vols
+continuar amb...
+deixem la càrdio per més endavant o què?
+Vinga, va, deixem la càrdio per més endavant
+i anem a fer ciència de veritat, vinga.
+Doncs la següent secció que tenim per al nostre
+pòdcast, és una secció relativament
+recent, és el menys és més, una secció
+de no fer coses que no són bones pel pacient,
+que fins ara el Xavi ens n'ha fet
+unes quantes, però avui prenc el relleu
+jo, i del menys és més
+us vull parlar d'una recomanació
+de l'Essencial, d'una cosa molt
+infermeril que parla del catèter venós
+perifèric. Resulta
+que, mira, si comptem a Catalunya
+al principat, el 2021, diu que un
+66,3% dels pacients ingressats
+portaven un catèter venós perifèric.
+Gairebé em semblen pocs, es veu que el 2020 n'eren un 70
+i escaig, que també em semblen pocs. Vaja,
+nosaltres punxem catèters per
+avorrir cada guàrdia
+del servei d'urgències, només fots que punxar
+catèters amunt i avall. Bé, aquesta recomanació
+ens diu que no
+és recomanable mantenir aquestes vies perifèriques
+quan fa 24-48 hores que
+no s'utilitzen, o fins i tot treure-les abans si
+aquest catèter ja no és necessari.
+Un dia parlarem de si és necessari posar tants catèters, però
+de moment, la recomanació de l'Essencial és:
+Si has posat un catèter
+perifèric i fa 24 hores que no l'estàs
+fent servir, treu-lo. Si tens un catèter
+perifèric, plantejat si el necessites o no el necessites.
+No el necessites? treu-lo. No el mantinguis.
+Què s'ha vist? Els catèters tenen
+les seves complicacions. Complicacions, bueno,
+la flebitis és la més habitual, però després també tenim
+les bacterièmies i la sepsis.
+Una de les formes d'evitar això, retirar
+els catèters quan no els necessitis.
+És cert que catèters perifèrics tenen menys riscos que els catèters
+venosos centrals, però és clar, en posem molts més.
+Per tant, acaba equiparant-se.
+El resultat d'una cosa amb l'altra és clar, els catèters
+venosos centrals tenen més complicacions,
+però s'hi estan menys dies, en total,
+no?, en dies catèter.
+La suma de dies catèter és menor
+en els centrals que en els perifèrics, perquè els perifèrics
+en posem per avorrir. I per tant, al final,
+la quantitat de complicacions s'acaben
+equiparant. Recomanació de l'Essencial,
+catèter més de 24 hores que no el fas servir,
+treu-lo. Un catèter que no necessites, treu-lo.
+M'estàs dient que al teu hospital, al teu servei d'urgències
+teniu pacients més de 24 hores?
+Hi ha algun servei d'urgències del país
+que no tingui pacients més de 24 hores?
+Digue-m'ho, per favor!
+En queda algun? Home, però
+Home, però
+la recomanació és 4 hores màxim
+al servei d'urgències. Després hi ha...
+Llavors ens hem inventat les unitats
+d'observació que serveixen per dir que
+no els tens a urgències, però estan a urgències igual.
+Molt bé, molt bé. Recordem que
+l'Essencial és en aquests
+projectes, com n'hi ha molts
+a tot Europa i tot el món,
+que tenen l'objectiu
+de fer recomanacions
+d'evitar
+pràctiques que no aporten res de bo
+i fins i tot aporten alguna cosa
+perjudicial per als pacients.
+De l'Essencial ja n'hem... Crec que algunes altres
+recomanacions d'aquestes que expliquem...
+Jo penso que les dues o tres que hem fet
+eren de l'Essencial també.
+Sí, sí, n'haurem de buscar alguna d'una altra banda, perquè estem
+tirant molt de casa. 
+Bueno, mira, si tenim algú aquí al costat de casa, que són
+l'Agència de Qualitat i Avaluació
+Sanitària, l'AQUAS, que són
+els que gestionen conjuntament amb les societats
+científiques i professionals i tot això,
+gestionen aquest essencial,
+doncs mira, hi ha recomanacions que ens serveixen
+per urgències, doncs està bé
+explicar-les. Però sí,
+n'hi han de tot
+el món i ja en tenim
+alguna preparada
+pel pròxim episodi, que no són catalanes.
+Doncs va, ara ens tocaria
+la següent secció, la que més m'agrada,
+la secció lletraferida
+de l'EMpodcat, que són els urgents mots,
+que si no recordo malament,
+Xavi, teníem a mitges
+una llista d'objectes,
+instruments, estris,
+eines que gastem a urgències
+i que diem malament.
+Sí, em sembla que a l'últim episodi
+vam acabar... no sé si ho vam
+parlar d'aquest
+pacient traumàtic que vas
+a buscar amb el
+SEM que ha tingut un accident
+i una de les coses que fas és immobilitzar
+la columna cervical i posar-li un collar
+ortopèdic, aquest collar de
+Filadèlfia. N'hauríem de dir
+collar, no collarí,
+collaret i aquestes coses són altres coses
+i el que serveix per immobilitzar
+el coll és un collar. Després
+per pujar-lo a la llitera
+de l'ambulància faràs servir
+una llitera de cullera.
+Hem sentit a parlar que si
+tisora, que si de pales
+o altres coses,
+és una llitera de cullera, aquella que se separa
+amb dues estructures
+així llargues, això és
+la llitera de cullera. 
+Això, deixa'm, abuelo cebolleta,
+això no s'havia vist al país fins que va arribar
+el "plan nacional de ambulàncias de la Cruz Roja"
+cap allà als anys, principis
+dels 90, que eren unes ambulàncies
+Fiat Ducato Blanques
+amb matrícula de Ciutat Real perquè portessin CR a la matrícula
+Ah sí? Ostres.
+Abans d'això no existia això.
+Quan va arribar, això va ser
+una de les modernitats terrorífiques
+de l'època. 
+Tothom volia fer-ho servir.
+Companys, els que us en recordeu d'això,
+tenim una edat.
+Exacte.
+Què més? Ah sí, després arribes
+a l'hospital i has de
+passar el pacient
+d'una llitera a l'altra i fas servir
+si estiguessis, no sé, a
+Anglaterra, a Londres o a algun lloc d'aquests
+faries servir, demanaries pel trànsfer,
+però aquí no fas servir el trànsfer sinó que fas servir
+una taula de transferència o alguna cosa
+que llisqui per fer passar el pacient
+d'una llitera a l'altra. I després
+infermeria normalment ja
+està preparada amb aquells estris
+que subministrem alguns medicaments.
+Per exemple, tenim el
+fisiològic o glucosat, que això són
+no són suerus sinó que són sèrums
+i per tant el que fem és una
+seroteràpia en lloc de sueroterapia
+o serumteràpia o no sé què
+doncs no, són seroteràpia.
+És una seroteràpia. Pengem un sèrum.
+D'acord? I d'on
+ho pengem això? Doncs això ho pengem
+d'un suport, que sempre
+en diem un pal de suero, doncs no,
+és un suport de degotador.
+Uuuuh, degotador, hòstia!
+O sigui, el pal de suero no és un pal
+de suero, és un suport
+de degotador, perquè el degotador és tot el
+és l'equip, és l'equip.
+Porta'm un equip de suero. Doncs és el degotador.
+Que hi ha un tub que va amb
+amb un... no? La part de sota
+s'enxufa en el sèrum
+Després hi ha una... 
+Càmera de goteig...
+Exacte, una zona transparent que veus
+com va baixant la gota a gota,
+després pot haver una vàlvula mecànica
+o manual, no?, que és la bomba
+d'infusió, bueno, doncs tot això
+és el degotador.
+Suport de degotador.
+I va penjat d'un pal
+no d'un pal de suero, sinó
+d'un suport de degotador.
+Aquesta... aquesta... uf!
+Què? 
+Uf! Uf! Aquesta no crec que coli, eh?
+No colarà? 
+Va, provarem, vinga, va. Com que sofraja ho tenim superat ja,
+ara provarem el suport de degotador, a veure
+amb quina cara em miren.
+Després un dia farem un recull
+de paraules, que no mèdiques,
+però paraules
+normals de la vida
+quotidiana, que la primera vegada
+que les vam sentir fa 5 anys, 10 anys,
+20 anys, ens van semblar
+d'un altre planeta, i ara les pots
+fer servir tranquil·lament.
+Per tant, és qüestió que algú
+les digui i que les repeteixi.
+I al final, no sé,
+es faran servir. Què més?
+I després, si per veure que tot això
+ho hagis fet bé, què fem servir?
+Per veure que torni a estar en aquest
+carretó d'infermeria
+o el carretó d'aturades,
+tot això, tingui tot el material preparat
+una altra vegada, no fem
+un check list, sinó
+que fem una llista de comprovació.
+I vas marcant
+les coses que estiguin al seu lloc.
+Una llista de comprovació en lloc d'un check list.
+I ja està, perquè check list,
+igual que tampoc hem de fer servir el transfer perquè
+no estem a Anglaterra, check list
+no. Una llista
+de comprovació. No costa
+tant dir una llista de comprovació, check list.
+ No, aquest, veus, aquest
+demà mateix. Aquest demà mateix
+i no crec que em mirin estrany. De fet,
+potser fins i tot es quedaria més seriós i tot. Exacte.
+Exacte.
+Perquè igual quan els pacients
+et senten que... Perquè això
+check list a vegades,
+les llistes de comprovació a vegades, quan has de fer
+una comprovació d'aquestes que mires un paper,
+la gent es pensa que no en tens... Ui, aquest
+tio no és de fiar.
+Llista de comprovació, sisplau.
+I llavors treus la llista i comproves. I queda com
+gairebé pot quedar com "a pufessional" i tot.
+Doncs ja està, no sé...
+El pròxim episodi més.
+En tenim més.
+Sí, sí, perquè, escolta, aquí
+trastos els que vulguis.
+Doncs mira, jo tinc... Seguint amb això
+de les paraules estranyes,
+com que lo de sofraja ja ho tinc superat...
+La sofraja, és molt maco la sofraja.
+Ja no em miren estrany.
+Va, ara complicarem la cosa. Sabem
+que la sofraja és la part, és la cara anterior
+de les articulacions del colze
+i de la cara posterior de l'articulació
+del genoll. És a dir, diguéssim, és la part
+on flexa l'articulació.
+Doncs tinc un mot preciós que es diu clofa
+Clofa?
+ Clofa, que és la sofraja del genoll. El diccionari
+de l'Institut d'Estudis Catalans. Diu, part posterior de la juntura
+de la cama amb la cuixa
+I això és la clofa?
+Aquesta paraula la vaig trobar al Paraulògic
+i vaig pensar, per favor, me la vaig apuntar, dic això...
+No la sabia, eh? Molt bé.
+És boníssima. No sé fins a quin punt
+compta com a urgemmot, però
+aquesta preciositat de paraula ha de sortir. Clofa
+Sí, sí, sí. Clofa.
+No ens entendrà, vamos, ni Pompeu Fabra
+ens entén, eh, ja, però...
+Bueno, sofraja tampoc, però bueno, entre la clofa
+i la sofraja...
+Molt bé, molt bé, l'apuntarem, l'apuntarem, sí. 
+Escolta'm, sempre faig servir aquesta secció
+per explicar les meves batalletes
+de friquis informàtiques
+i de tecnologia i demès.
+Havia parlat ja del software,
+aquell de transcripció, o no encara?
+Havies dit alguna cosa, sí, però no sé
+fins a quin punt està això ara. 
+Doncs, estic transcrivint
+tots els pòdcasts enrere
+i si aneu a algun
+dels episodis ja hi ha la transcripció feta.
+La qüestió és que amb la gent de SoftCatalà,
+amb qui he entrat en contacte,
+ells estan entrenant un model també
+de llenguatge, que és una de les coses
+que necessiten aquestes eines de
+transcripció, i ells estan entrenant
+aquest model, l'han entrenat amb un pòdcast
+que tenien al seu moment, que també tenen
+una sèrie de voluntaris transcrivint,
+i nosaltres hem ofert el nostre
+també com una eina més, és a dir,
+tenen un àudio amb un...
+amb una transcripció feta
+i amb aquesta transcripció doncs l'entrenaran.
+No ho sé, d'aquí que tingui
+transcrits tots els episodis, potser serà
+de tres anys, perquè és lent
+del cagar, però qui sap, potser
+contribuïm a que les màquines,
+des de l'EMpodcat, contribuirem una petita
+part a que les màquines entenguin el català.
+En aquest cas, que l'escriguin,
+que el transcriguin, que també està bé.
+O sigui, aviam si ho he entès bé,
+tot això que anem parlant, aquestes hores que anem
+parlant, tu ja les tens
+escrites en un PDF?
+De fet, no és un PDF, les tinc transcrites
+en un text, sí, sí, amb caràcters llatins, si, si.
+I això es pot transformar
+en un arxiu així de
+lectura fàcil, en un PDF, o no? 
+Sí, es pot fer, es pot
+transcriure, sí, sí. El fitxer és
+un fitxer de text pla
+que se li poden fer coses, si vols
+t'envio un...
+com si fos un
+guió de teatre, amb cadascú
+el seu text, això ho puc fer.
+I després ho passem pel chatGPT que ens faci un resum
+i ho pengem, el resum del chatGPT
+d'aquest episodi. També ho podríem fer, mira,
+això per la següent cosa friki.
+És que jo anava per aquí, perquè
+entre això del chatGPT i el xat
+PDF, en el qual tu puges el teu
+PDF, que pot ser
+de dues pàgines o pot ser
+la Bíblia multiplicada per 10.
+I tu li fas preguntes
+en aquest chatPDF
+i li dius... han parlat de
+jo què sé, de la
+troponina no sé què en aquest pòdcast
+i te diu, doncs mira, en l'episodi
+24 vam parlar sobre
+tal i no sé què, no sé quantos, no sé quantos
+també, i això ho veuràs a la pàgina 26.
+I a l'episodi
+29, també a la
+pàgina 524
+veuràs que parlen també de la troponina
+en casos de no sé què, no sé quantos, no sé quantos. Per tant,
+si algú té interès en
+veure si vam parlar en algun episodi d'algun tema
+concret, si això està en un
+buscador fàcil, en un PDF que pots pujar
+en un chatPDF,
+és fàcil de consultar.
+Doncs mira, tenim una altra utilitat
+per això. El que passa és que potser després la gent no ens escoltarà
+perquè escoltar el nostre penyazo per després
+poder llegir el mateix en tres minuts potser
+no li surt a compte. No ho sé, eh? No ho sé.
+Bueno, però és una eina de consulta, després
+dius, ostres, clar, no és el mateix
+escoltar tot el que expliquem
+que anar a consultar si concretament
+han parlat de no sé què. Doncs bueno, no ho sé. És una opció.
+ Mira, la part important
+que és la primera, que és passar d'àudio
+a text, això ho estem fent.
+De fet, l'eina automàtica de transcripció que ja existeix,
+que vaig parlar l'altra vegada,
+transcriu una forma bastant raonable, però que després s'ha de
+corregir bastantes coses, eh? Especialment
+del nostre gremi. De fet, una de les pors
+que tenen els de softcatalà és que, clar,
+si hi ha un pes molt gran del nostre
+pòdcast, que és que parlem de coses
+mèdiques, pot haver-hi un cert biaix
+que després paraules de poc ús
+surtin molt sobrerepresentades
+en la transcripció de coses
+que no tenen res a veure. Per això necessiten
+molts àudios amb molta transcripció
+correcta, eh? Clar, si fots un àudio i
+la transcripció no té res a veure amb l'àudio, no serveix.
+Ha d'estar relativament ben fet.
+Per això hi ha bastanta feina. És bastant...
+És bastant lent de transcriure, la veritat.
+Vinga, anem a la següent secció
+i última, que són les recomanacions.
+Va, Xavi, què ens
+recomanes tu per aquest episodi?
+Jo només us volia recomanar, ara que estem
+començant amb el tema aquest de la
+intel·ligència artificial, que a mi m'ha semblat
+bastant interessant i que, potser d'aquí
+poc, relativament poc, ja
+ho farem servir bastant més
+de cada dia, una aplicació
+que és el Perplexity.
+Perplexity.ai
+Te registres, és molt fàcil i és una eina
+de cerca
+d'informació. Te dóna diferents
+opcions i una opció és de buscar informació
+acadèmica. I ell busca informació
+acadèmica a pubmed i
+a semantic scholar
+que també és un buscador de
+referències bibliogràfiques.
+Tots aquests sistemes
+d'intel·ligència artificial la cerca no
+la fas amb termes, amb paraules clau
+o en llenguatge estructurat
+o el que sigui, sinó que ho fas amb llenguatge natural.
+Tu li fas la teva pregunta
+amb el llenguatge natural i ell
+t'explicarà tot el que trobi
+en aquestes bases de dades,
+d'articles, t'explica sobre aquella
+patologia, sobre aquell dubte que tens,
+t'ho explica amb llenguatge
+que tu puguis entendre
+molt fàcilment.
+I a més a més, te va posant
+les referències bibliogràfiques
+de les quals ha tret la informació.
+Això serveix per a la gent que
+s'està iniciant en algun tema o
+s'ha de començar a preparar un tema que no és el que
+ell domina ja naturalment des de fa anys,
+sinó que t'has de començar a posar en un tema nou.
+És un sistema
+per no anar començant a llegir articles
+una miqueta gairebé random.
+Agafes això i li dius al
+perplexity, parla'm de l'ECMO
+amb pacients
+en aturada cardiorespiratòria.
+I et posarà un text i aquest text
+s'anarà ampliant i en aquest text
+hi ha referències bibliogràfiques que les pots consultar
+i a més a més li pots anar fent
+preguntes tu a partir d'aquella informació
+que ell et treu un paràgraf de
+10 línies o 20 línies
+i després li pots dir
+això que m'estàs dient
+d'aquest concepte desenvolupa-ho
+una miqueta i ho desenvolupa.
+I a partir d'aquí tu vas fent un diàleg
+amb el perplexity i
+tots els dubtes que et vagin sortint sobre aquell tema
+te'l va explicant i
+t'anirà oferint la informació
+de pubmed o que ha trobat en el
+semantic scholar i tu pots anar
+agafant aquestes referències, te les vas guardant
+o te les vas llegint.
+I és una forma d'entrar, no diria
+de ser una font
+fiable perquè a partir de demà
+li comencis a posar
+ticagrelor en un malalt i no prasugrel
+però si hi ha un tema que no domines
+gaire i vols començar a fer una lectura
+així amena
+d'un tema, doncs és una bona...
+crec que és una bona eina.
+Ara mentre estàvem parlant
+l'estava provant i no deixa de ser
+com el chatGPT, els que ja hi hem jugat
+però mira, he provat un en anglès
+preguntant la meva pregunta trampa
+que és quins són els valors de la pressió del
+pneumotaponament? Doncs aquest l'ha encertat
+i aquí, hòstia, el cabronàs
+realment aquests paios
+conversen molt bé. Quins són els valors
+de la troponina T? I et fot tota una tralla de
+des valors de la troponina, però no et diu el número
+i li pregunto quins són els valors normals
+i et diu els de la troponina T depenen del laboratori
+però els de la troponina I no sé quin
+o sigui que... aquest
+no s'inventa tant com l'altre, l'altre, el chatGPT
+tenia delusions eh, ho deien.
+ Sí, el chatGPT fa igual
+que les persones, si no saps
+alguna cosa, el teu cervell s'ho inventa
+perquè si no no podríem tirar endavant
+no podríem decidir res, doncs el mateix fan
+els robots. Aquest, almenys, et posa
+les referències bibliogràfiques del que t'està
+explicant. Podria hi hauria una altra referència
+que fos millor? Sí, però menys
+possiblement s'ho inventa menys
+perquè pots anar i dir, ah, això
+ve d'un article publicat a
+pubmed, de la revista no sé què publicat
+per la persona tal
+s'ho inventa menys. I després les preguntes
+i les respostes
+que tu li vagis fent, les pots fer
+amb l'idioma que tu vulguis.
+Cert, cert. L'he fet en català i en català contesta
+Exacte, i si li fas
+el que vulguis, amb l'idioma que tu vulguis, que et
+sigui més còmode, l'hi pots fer
+Molt bé, molt bé. Sona molt
+bé. Això no sé fins a quin punt això serà
+positiu o no, però és
+la realitat que ens toca viure ara
+I tu què Albert, tenies alguna o...?
+Mira, jo tenia
+n'havia previst una, però com que el tema
+que parlàvem avui
+és un tema interessant, el tema de l'IAM
+doncs tinc una juguesca
+Fem-la, fem-la.
+El lloc web es diu
+getthegas
+getthegas amb T-H-E
+getdegas.co.uk
+I aquí tenen
+vàries juguesques i en tenen una
+que fent servir el blog
+aquell del doctor Smith que ja ha recomanat
+diverses vegades, tens quatre juguesques
+de diferents nivells per determinar si
+el pacient té o no té
+un infart o el
+que correspongui. Si us interessa mínimament
+dediqueu-hi estona, perquè és superinteressant
+S'aprèn, s'aprèn bastant
+I són assequibles els electros que t'ensenyen
+això o són molt puntillosos
+Hi ha quatre nivells
+Ah, hi ha  nivells, val, perdó
+Hi ha quatre nivells, hi ha el nivell beginner, novice
+intermediate i advanced
+L'advanced no l'he fet encara però em temo que l'advanced
+tombaré segur, eh? Perquè aquí t'apreten
+El beginner es pot fer
+Sí, sí, molts electros d'aquests
+de Smith o
+Amal Matú i tots aquests Ostres, ffff... 
+N'hi ha alguns de molt dur
+Veuen coses que jo ni...
+no sé, no sabria ni imaginar-me
+que hi són allà en l'electro
+El beginner es deixa bastant, eh?
+Al beginner hi ha bastanta elevació de l'ST, o sigui
+aquest ha de ser senzillet
+Molt bé, doncs jo penso que tenim bastant
+Mira, espera, espera, ara que dèiem això de...
+Què més tens?
+No, és igual, això per un altre dia, no
+Doncs res més, no sé
+Tu sabies quin aspecte té
+hem parlat dels criteris d'Sgarbossa
+Com t'imagines l'Sgarbossa?
+Una senyora
+propera de jubilar-se, i això és important dir-ho
+És a dir, no tots els que publiquen
+coses són homes, hi ha dones que fan coses
+molt interessants i s'ha de reconèixer
+La doctora Elena Sgarbossa, que si no recordo malament és argentina
+Sí, crec que és de Sud-amèrica
+però no, sí, sembla que sí que és argentina
+A mi em va sorprendre perquè
+inconscientment penses que és
+que és un senyor així
+d'una certa edat i
+quan vaig veure la foto vaig pensar, ostres...
+I quan va publicar no era de mitjana edat
+Quan va publicar ja era bastant més joveneta
+Sí, sí, bueno, si no recordo malament
+fa molts anys de l'Sgarbossa
+Sí, ja fa uns quants dies
+Molt bé
+Si no hi ha res més, tanquem la paredeta
+Convidem, com sempre
+la gent
+si volen seguir entre episodi i episodi
+algunes paranoies
+de les juguesques
+aquestes d'electros o dels
+urgentmots o d'informació
+que podem anar tenint així a compartir...
+al grup de Telegram
+al grup de telegram doncs allà estem
+I si teniu algun dubte  i ho voleu fer extensiu
+intentarem entre tots resoldre'l
+Molt bé, doncs va, un cop recordat el grup de Telegram
+que és el que hauríem de dir al principi i no ens en recordem mai. Anem bé, també...
+Bueno, al principi i al final, és igual
+Vinga va, ens veiem a la propera que si Déu vol
+serà mitjans de maig
+Molt bé, vinga, a la propera, adéu
+Bé, si us heu fixat no només ens hem descuidat
+de parlar del grup de Telegram
+tampoc hem donat la resposta a la juguesca
+de l'urgemmot de l'episodi anterior.
+Recordo la pregunta
+era resposta immunitària per mitjà
+d'anticossos que provoca l'alliberament
+massiu de substàncies mediadores
+de la reacció al·lèrgica, causant vasodilatació
+i contracció de la musculatura llisa
+afectant un o més òrgans o sistemes
+Hi havia quatre respostes
+anafilaxi, anafilàxia, anafil·laxi
+i anafil·làxia
+Si heu escoltat
+el primer episodi del nostre pòdcast
+sabreu que es diu anafilaxi
+amb l'ela normal, no pas l'ela geminada
+I per la juguesca d'aquest episodi
+la definició és la següent
+petit sac terminal dels conductes alveolars
+del pulmó. Us dono quatre opcions
+que us les transcriuré
+perquè si les pronuncio ja sabreu per on van els tiros
+El primer és alveol pulmonar
+sense cap accent
+L'altra segona opció és
+alveol pulmonar també però amb accent a l'a
+La tercera opció és alveol pulmonar
+amb accent obert a la e
+I la quarta i última és alveol pulmonar
+amb accent tancat a l'o
+Com diríeu que va aquest accent?
+I vinga, ara sí, acabem l'episodi
+Que vagi molt bé, a la propera!
