@@ -1,0 +1,726 @@
+EMpodcat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a l'EMpodcat, un nou episodi. El novè, si no em descompto.
+Avui no serem només el Xavi i jo mateix, sinó que tindrem convidat, també. Bé, convidada.
+Com sempre, les presentacions. Jo sóc l'Albert, Albert Homs.
+Sóc infermer d'urgències i emergències. Actualment exerceixo a la plana ceretana, al Pirineu català.
+I a l'Alt Empordà, si no m'equivoco, hi tenim el Xavi Basurto. Bon dia, Xavi.
+Hola, bon dia. Sí, des de l'Alt Empordà.
+Sí, sóc metge del Servei d'Urgències de l'Hospital de Figueres i també a la base SEM,
+que tenim subcontractada amb el SEM, a la 601, 606, perdó.
+I també ens podem veure en el blog d'Urgem.cat i a Twitter, que és @Urgem.cat.
+I avui tenim una convidada especial, que de tant en tant ja fem alguns d'aquests episodis del pòdcast
+amb algun convidat especial que ens ve a explicar algun tema que domina més que nosaltres.
+I en aquest cas avui tenim l'Aurora Fontova. Hola, Aurora, què tal?
+Hola, bon dia.
+Doncs us presento l'Aurora Fontova, és una infermera del Servei d'Urgències de l'Hospital de Figueres,
+que té un interès especial amb el tema que tractarem avui,
+que són els accidents, incidents de múltiples víctimes.
+Home, aquest és un tema que a mi m'interessa especialment.
+Fa un parell de setmanes vaig tenir un sidral considerable
+i vaig caure al nivell del meu entrenament, que deia que era una solemne bírria.
+Hagués anat molt bé gravar aquest episodi fa 15 dies o fa un mes.
+De fet, és el primer episodi que gravem el 2022,
+però clar, es publicarà com el segon perquè n'hem publicat un abans i tal.
+En fi, que un altre any, tu, Xavi, això sembla que no pugui ser.
+Sembla que havia de durar misèria i en portem uns quants.
+Exacte.
+Va, som-hi.
+Doncs avui, sí, no? Aurora, no sé què ens explicaràs sobre el tema d'incidents de múltiples víctimes.
+No sé si hi ha novetats interessants o actualitzacions sobre el protocol del SEM o del CatSalut
+o de qui sigui sobre com hem d'organitzar totes aquestes situacions desagradables
+i que jo penso que potser m'equivoco, però almenys en el nostre entorn
+estar preparats per això és com bastant teòric i bastant impossible.
+No sé què et sembla a tu.
+Si arribarà algun dia que estiguem preparats per una situació així?
+Bé, bon dia. Doncs jo penso que no crec que arribem a estar-hi mai del tot.
+En general, tot el que diu l'evidència és que quasi tota l'evidència
+que tenim és amb simulacres i poca amb situacions reals
+perquè quan et trobes en una situació real desborda a tots els que estem treballant en aquell moment
+i això simplement es tracta d'una petita guia que ens pugui ajudar en aquest moment de caos,
+intentar convertir el caos en una cosa més controlada.
+Que parlaves d'evidència... Ah, perdona, sí, sí.
+No, no, jo t'ho volia dir. Sempre que estic en aquest tema, llegeixo els protocols, miro els esquemes i tal,
+ho entenc i ho memoritzo durant un període de temps que va des de minuts a hores
+i penso que aquí s'acaba la història.
+Suposo que en una situació real, tindre-ho molt clar i que et surti tot automatitzat i de forma sistemàtica i tal,
+ho veig difícil, sobretot en el nostre entorn que tampoc tenim una pràctica així de fer pràctiques i simulacres
+tres vegades l'any i de forma ben fetes.
+Penso que no tenim aquesta cultura, almenys al nostre entorn, de fer-ho així i crec que seria l'única manera d'aconseguir-ho, no ho sé.
+Mira, deixem ficar una falca aquí trans... multinacional d'aquestes meves que toquen el meu país.
+Aquí on visc jo ja tenim dos túnels de gran llargada.
+Suposo que per normativa estan obligats a fer simulacres de tant en tant.
+Doncs un dels dos túnels en fa pràcticament cada any, depèn de si està més obert o menys,
+i l'altre fa com deu anys que no se'n fa cap.
+No diré de quin costat és cadascun.
+Quin és el factor que fa que sigui així d'una manera o d'una altra?
+No ho sé, perquè no hi ha massa distància d'un túnel a l'altre.
+Distància física, clar. Distància administrativa és un altre tema.
+Sí.
+I normalment aquestes coses depenen de les administracions, no?
+L'obligatorietat de fer simulacres i nosaltres, per exemple, tenim el túnel del Pertús,
+que també ens obliga a fer un simulacre anual.
+Ara amb la pandèmia poder ha baixat, però en general cada any en fem un.
+Un any pertoca al cantó francès i un altre any al cantó català.
+I és una oportunitat per posar en pràctica això que estudies.
+Cada any s'intenta fer un simulacre una mica diferent a l'anterior.
+Un any hi ha més víctimes, un altre any és més d'organització, un altre més de despatx,
+i s'intenta que... cada any es fa en realitat.
+I això és el que ens serveix.
+No tinc, per exemple, a nivell de bombers, poder dir que fan una miqueta més de...
+Per exemple, en aquest cas dels túnels, no sé si els bombers,
+jo penso que hi entren més sovint i fan més exercicis que nosaltres els sanitaris.
+Me'n dóna la sensació.
+No ho sé, però clar, el túnel té unes particularitats que és que només es pot fer de nit,
+que és quan no passen mercaderies.
+Llavors, per això el simulacre s'obliga a fer un cop a l'any i es fa només en horari nocturn,
+quan no passen trens, amb les vies tallades.
+És una mica complicat.
+Però penso que es podrien fer altres escenaris perquè en realitat
+el que més ens pot provocar un incident de múltiples víctimes en el nostre territori
+normalment és un accident de trànsit.
+I això sí que es pot practicar amb més facilitat que no pas anar a un túnel d'un tren
+que has de tenir la circulació tallada.
+Això que deies, Xavi, no sé on ho vaig llegir-ho.
+La immensa majoria d'oficis o d'activitats d'alt rendiment, llegeixis esport,
+la immensa majoria del temps es passa entrenant i molt poques vegades actuant.
+En el cas nostre, en el cas de la sanitat, és completament al revés.
+Ens dediquem tot el temps a actuar i si de cas, algun dia potser ja parlarem d'entrenar.
+Sí, sí, sí.
+Bueno, centrant una miqueta perquè ja no hem ni començat i ja estem divagant, anem bé també.
+Quan parlem d'això d'incidents de múltiples víctimes, ben bé a què ens referim?
+Perquè hi ha alguns serveis d'urgències que directament cada dia és un incident de múltiples víctimes,
+només l'activitat ordinària.
+Sí, és així.
+En realitat un incident de múltiples víctimes és allò que fa una desproporció
+entre les víctimes i els recursos disponibles.
+I això ho diferenciem del que seria una catàstrofe, que no havíem parlat fins ara,
+que és allò que encara que un incident de múltiples víctimes,
+en un temps determinat podem arribar a solventar-lo o a convertir-lo en una situació més similar a la normalitat.
+En canvi, quan hi ha una catàstrofe sol haver-hi una desproporció.
+Per tant, en un incident de múltiples víctimes ens podríem posar la idea que seria, per exemple,
+el que dius, un servei d'urgències desbordat en un hivern com el d'aquest any,
+o una catàstrofe seria quan ve l'explosió aquella de Tonga, que s'ha desaparegut una illa
+i allò si algú ho vol arreglar ha de venir algú de fora perquè tot solets poder no se'n surten.
+Un tsunami o un terratrèmol que afecta a moltíssima gent i no es pot atendre amb els mitjans habituals.
+O sigui, el que veiem habitualment aquí són situacions de múltiples víctimes.
+Exacte.
+El més habitual.
+Per això tots els plans que hi havia fins ara, tot arreu es deien plans de catàstrofes,
+ja els hem anat canviant a incident de múltiples víctimes per veure que en realitat
+en un futur molt proper es pot tenir la situació continguda,
+i podem atendre amb els recursos que tenim, els que disposem.
+Amb això que has comentat que múltiples víctimes és allò,
+és la desproporció entre el nombre de víctimes i la capacitat de resposta,
+això té molt a veure amb quin lloc del món estiguis,
+i del món global però també del món local.
+No és el mateix un accident de tres, segons on,
+un accident de tres a la Diagonal de Barcelona,
+no és el mateix que un accident de tres a dalt, allà a baix, als ports, a Tortosa,
+a dalt del Montcaro, que suposo que abans haurà arribat recursos t'hi pots florir.
+La veritat és que el SEM, per això la definició que n'ha fet, és molt realista.
+O sigui, ha dit que siguin sis víctimes greus o deu de qualsevol altra categoria.
+I això jo crec que és un número molt realista.
+Sis ferits greus a l'Alt Empordà, doncs sí, és un incident de múltiples víctimes.
+És una dificultat molt gran.
+Això a mig de Barcelona, amb totes les unitats properes disponibles,
+doncs de seguida deixa de ser un incident de múltiples víctimes.
+Tot i que s'ha de treballar amb una metodologia diferent.
+Tu no pots enfrontar-te a dotze víctimes de la mateixa manera que t'enfrontes a una.
+I per això són els objectius d'aquests procediments operatius que li diu el SEM
+o plans d'actuació en incidents de múltiples víctimes.
+Perquè pensis, quan arribes, que has de treballar diferent.
+Sis víctimes greus, deu de qualsevol altra categoria, això és el que diu el SEM de Catalunya.
+Suposo que a altres llocs dels països catalans potser els números varien lleugerament.
+Seria interessant de saber-ho.
+I, escolta'm, això que dius que s'ha de treballar amb un procediment diferent
+i tenir clar que no és el mateix un que dotze, en què es diferencia?
+Què és el que hem de valorar primer? Què és el que hem de fer?
+Anant al més bàsic, més bàsic, més bàsic, seria...
+Estem acostumats als sistemes d'emergències a tendre amb el PAS, que li diem
+Protegir, Avisar i Socorrer.
+Doncs, quan fas un incident de múltiples víctimes, li afegim una O.
+Es diu PAOS.
+Protegir, Avisar, Organitzar i després Socorrer.
+Hem d'afegir aquesta O enmig per tal que, primer de tot, decidim com gestionem allò
+abans de posar-nos a atendre.
+Perquè si ens posem a atendre el primer, perdrem la perspectiva de tot l'incident.
+Diguéssim, el tema de començar a organitzar-ho, sempre s'ha dit que és la primera unitat,
+no sé com ho diuen, la primera unitat assistencial, o bombers, o policia, o qui arribi,
+o ha de ser sanitari que comença a organitzar-ho, això?
+Bé, en realitat qualsevol unitat que arriba comença a organitzar, però organitza la seva part.
+Els bombers comencen a organitzar el rescat, la policia comença a organitzar la seguretat
+i nosaltres el que hem d'organitzar és l'assistència.
+Llavors, la primera unitat que arriba tant pot ser una unitat medicalitzada
+com una unitat de suport vital bàsic.
+Llavors, el primer més important és saber què ha passat, on estem,
+quin nombre aproximat de víctimes tenim, per fer-nos una idea del que necessitem,
+si hi ha riscos potencials en l'accident, per veure quins recursos necessitarem
+i si ens fan falta altres coses d'emergències que no hi siguin ja en el lloc de l'accident.
+Això és el primer, fer-nos la idea.
+Què ha passat? Què necessitem?
+I llavors, un cop aquí, el que hem de fer és dividir la zona de l'accident
+en tres zones concèntriques grans que ens permetin dir on posarem tots els recursos que tenim.
+En primer lloc, el que s'ha de fer és veure on està la zona zero de l'accident,
+o sigui, la zona on hi ha major destrucció i aquí només hi entraran en principi els cossos d'emergència,
+els cossos de rescat que serien els bombers.
+Això és la zona calenta, no?
+estem molt acostumats a anar a l'accident i entrar nosaltres dintre el cotxe.
+Doncs en aquest cas, en principi no hi hauríem d'entrar.
+Si és un accident de trànsit, els cotxes estan estables, tot això i acabem entrant.
+Però en general hauríem primer de dividir.
+Aquesta és la zona de l'accident i es diu zona de salvament,
+on només haurien d'entrar els equips d'intervenció, els bombers en general.
+A fora hi farem una altra zona, que seria l'àrea d'auxili, que és on estarem nosaltres.
+I allà muntarem tot el que seria l'organització de l'assistència sanitària.
+I llavors a fora d'aquesta hi tindríem el que es diu l'àrea de base,
+que és on es posarien tots aquells serveis que donen suport a l'emergència
+però que no són imprescindibles per atendre els ferits.
+Això seria el primer temps.
+Això ho decideix la unitat d'assistencial que arriba, juntament amb bombers i si cal Mossos, no?
+O és una cosa que ha de fer només el SEM?
+Això s'hauria de decidir entre tots perquè decidir la zona no depèn només d'on te'n vas més bé a posar els ferits,
+sinó també on els bombers et diguin que és segur, que no vindrà fum si hi ha un incendi,
+que no et caurà ferralla si hi ha vagons de tren, el que sigui.
+I per tant crec que això s'ha de decidir en conjunt entre tots.
+I la policia que no tallis el trànsit o que el tallis de la manera menys complicada.
+Suposo que si són coses que en llocs on es pot preveure que pugui haver-hi en algun moment de la vida
+una situació d'aquest tipus, això ja es té pensat.
+Per exemple, si fem simulacres en els túnels dels trens o en els aeroports o en els no sé què,
+això ja està pensat on t'ha d'anar la roda d'ambulàncies i tot això ja està pensat més o menys on t'hauria d'anar.
+Això seria la previsió d'una situació com aquest tipus, no?
+Exacte. En principi això, amb el tren del Pertús, per exemple, que seria el que ens podríem fer una miqueta a la idea,
+tenim ja que hi ha uns ventiladors que tiren el fum d'un cantó a un altre,
+o sigui que ens hem de posar sempre assistint en un cantó del túnel.
+Hi ha una zona on es pot fer una assistència, hi ha una zona on es poden fer una roda d'ambulàncies i poden girar per sortir.
+En aquests llocs on ja és previsible que pugui passar, com per exemple els aeroports i així,
+tenen els seus plans establerts i fan simulacres sovint.
+Què més? Tenim les tres zones ja acotades i què comencem a fer després?
+Doncs resulta que hem arribat ja a aquest temps, previsiblement hauríem d'haver arribat com a mínim una ambulància de suport vital bàsic i una de suport vital avançat,
+que això seria el més correcte.
+L'ambulància de suport vital avançat el que fa és dirigir el que seria l'emergència per la part sanitària.
+Llavors, el pilar fonamental de totes les emergències o incidents de múltiples víctimes és el triatge.
+El triatge és el que fa que puguem discernir entre una persona que pot esperar a ser atesa del que no.
+És un pilar fonamental, s'ha de fer de forma sistematitzada, seguint protocols a totes les víctimes i de forma esglaonada, ordenada i ràpida.
+Aquí els especialistes sou infermeria, que sou els que feu normalment el triatge com a mínim a nivell hospitalari.
+Només us han de canviar el lloc, el cubícul de fer el triatge el feu en el punt assistencial, no en el PMA.
+Ja ho teniu fet això vosaltres. A mi si em posen a fer triatge, la veritat és que faré un caos total.
+En realitat estem força avesats als hospitals a fer-ho i no deixa de ser el mateix, però en una situació molt més complicada i amb recursos limitats.
+Llavors és per això que hi ha diferents mètodes de triatge, n'hi ha més de 100, però el SEM i la majoria, i en molts llocs,
+s'han triat dos triatges com els estandarditzats o els que s'han d'utilitzar.
+En primer lloc, tindríem el que seria el triatge bàsic, que això és el que antigament ens pensàvem que només havíem de fer això
+quan anàvem a un incident de múltiples víctimes, fer triatge, fer triatge, fer triatge i anar posant colors i aviam quin és el més greu
+fins que els puguem posar en un lloc per donar-los assistència.
+El triatge bàsic, el que fem servir a Catalunya es diu START pels adults i JUMP START pels nens.
+I simplement amb cinc preguntes molt fàcils el que fa és dir-nos si aquella persona és prioritària o pot esperar a ser atès.
+Aquests pacients els cataloguem en colors, hi ha un codi internacional de colors que tindríem que és el vermell, el pacient més greu,
+el groc, el que pot esperar una mica, el verd que és demorable i el negre que és mort i en aquell moment no s'ha de fer res.
+Escolta'm, Aurora, una pregunta tonta. Aquest triatge bàsic es fa en la zona calenta?
+Aquest triatge s'hauria de fer en la zona calenta
+Per tant no el fem els sanitaris
+qualsevol persona amb coneixements sanitaris.
+És a dir, els bombers estan format per fer-se i els nostres tècnics en suport vital.
+És un triatge molt senzill i això en principi només es tracta que una persona que tingui coneixements sanitaris el pugui fer.
+I mentre fas aquest triatge inclou fer servir les maniobres salvadores.
+Exacte. Les maniobres salvadores són...
+Això també ho fan els bombers o qui sigui.
+Sí, perquè en principi ja quasi les necessites per poder continuar amb el triatge.
+La primera és obrir la via aèria o quan hi ha una hemorràgia fer un taponament d'hemorràgies
+perquè ha de ser una hemorràgia important però tapar l'hemorràgia perquè no acabi de dessagnar-se mentre estiguis fent els altres.
+I també li diuen la posició antixoc.
+Si veiem una persona que no respira però no té un pol radial, li podríem posar les cames una miqueta aixecades
+per intentar, si més no, que ens aguanti fins que arribi algú que li pugui fer una altra cosa.
+Això són les tres maniobres salvadores.
+Algunes vegades se n'ha posat una altra, la posició lateral de seguretat, però vaja, les tres són aquestes.
+Obertura de via aèria, control d'hemorràgia o taponament d'hemorràgia i posició d'antixoc.
+I una pregunta, obrir la via aèria vol dir després instrumentar-la ni que sigui amb un tub de Guedel o no?
+Això seria l'ideal, que poguéssim portar un tub de Guedel i deixar-li posat.
+Però es pot tenir preparat l'ambulància de tenir un kit, una bosseta amb uns quants tubs de Guedel
+per si vas amb un incident de múltiples víctimes, baixar-te-li i posar un tub de Guedel.
+Si no, posar-lo en posició lateral de seguretat, que això ja ens deixarà la via aèria oberta.
+I després això inclou que qui sigui li posi les etiquetes que portem del SEM enganxades en algun lloc visible, no?
+Sí, en aquest cas els bombers també tenen uns braçalets de colors
+que el que fan és una manera molt ràpida de col·locar un braçalet de color
+per poder identificar els pacients en funció del triatge.
+Les que portem nosaltres a l'ambulància també en portem dos, nosaltres que som una unitat de suport vital avançada,
+que és unes per fer el triatge bàsic i les altres per fer el triatge avançat.
+Què més? I després aquestes víctimes suposo que te les van portant en una roda fins on estem els sanitaris la majoria, no?
+Exacte. Aquests pacients estan en el que dèiem, en la zona aquella zero, la zona de l'accident,
+i els bombers o podrien entrar els nostres, si necessiten ajuda,
+poden entrar els tècnics en emergències sanitàries, ajudar-los a fer el triatge,
+i els hi posarien la categoria de colors i els el portarien fins a un niu de ferits, que li diríem,
+per poder començar a entrar a la nostra àrea sanitària per poder-los començar a atendre.
+Doncs va, continuem, Aurora. Què més ens trobarem després?
+Llavors tindríem que els bombers o els nostres companys tècnics ens han fet un triatge bàsic
+i ens el porten a dintre aquella zona que dèiem que era la nostra, la d'atenció,
+i allà ens hem d'organitzar l'àrea sanitària.
+L'àrea sanitària consta de diferents llocs, que seria en primer lloc una porta d'entrada,
+per saber el nombre de persones que entren i així després hi ha una porta de sortida
+per saber el nombre de persones que surten. Sembla una tonteria, però una de les coses més complicades,
+sobretot ho veiem molt quan fem simulacres, és comptar el nombre de ferits que entren a l'àrea sanitària
+i el nombre de ferits que surten i acaben anant al centre sanitari o al domicili.
+Llavors és molt important comptar els ferits i per tant això és la porta de l'àrea sanitària.
+I després, posteriorment, hi ha un punt de triatge.
+Des fa aproximadament 10 anys la càtedra de Medicina de Catàstrofes de Oviedo va fer un triatge,
+un tipus de triatge per implementar-lo en els incidents de múltiples víctimes
+basat en l'atenció avançada al trauma, en l'ATLS.
+Això és important perquè fins ara, fins aquell moment, el que fèiem era només un triatge bàsic
+i llavors quan tu tenies 10 víctimes vermelles era difícil discernir a quina d'elles l'havies d'atendre primer
+quan els recursos són limitats i per això es va crear el triatge avançat.
+El triatge avançat que nosaltres fem servir a Catalunya i a molts llocs d'Espanya es fa servir aquest que van fer a Oviedo,
+que es diu META, consta de quatre fases i llavors engloba tot el que seria l'atenció
+a l'àrea sanitària de l'incident de múltiples víctimes.
+Aquestes quatre fases...
+I això sí que ha canviat últimament o no?
+Sí, ara hem fet una revisió, que també us penjaré l'article que vam publicar a la revista Emergències recentment,
+en quan han fet unes petites modificacions que aclareixen els termes més importants que hi havia a la versió anterior.
+És una nova versió que aclara molts punts després de deu anys de posada en funcionament
+i fa que tot, en la meva opinió, sigui molt més clar.
+Sempre queden coses complicades, no deixes fer un incident de múltiples víctimes, però queda molt més clar.
+El primer que ens diu és que hem de fer un triatge assistencial.
+Quin és aquest triatge?
+És un triatge basat en la B, C, D, E, en l'assistència a totes les persones que hem fet suport vital avançat al trauma sabem com funciona.
+El que fa és classificar les víctimes en funció del compromís real o potencial que tinguin en qualsevol d'aquests punts de la valoració sistemàtica.
+Si tenen un problema en la en la B, en la C, en la D o en la E.
+Això el que fa és establir-nos una prioritat d'atenció enfront de les víctimes.
+I per tant sempre s'atendran primer aquelles que tenen un compromís real o potencial en l'A
+abans de les que tenen un compromís real o potencial en la B.
+Perquè una pregunta, Aurora. En aquest triatge només hi entraran els que en el triatge bàsic els hi hàgin posat l'etiqueta vermella?
+En principi aquí hi ha una mica de complicació.
+En principi es comença per les víctimes vermelles.
+Això sí.
+A mesura que et van portant els ferits, tots aquells que tenen l'etiqueta vermella els hauríem de fer aquest triatge.
+I quan aquests...
+El sistema meta diu que els hi facis a tots.
+Però en el protocol del SEM et diu que sobretot li facis als vermells.
+O sigui, incideix en què s'ha de fer als vermells i que els altres podrien entrar sense fer-los ni un triatge i a posteriori podries anar-los fent.
+El sistema en si diu que li facis a tots començant pels vermells.
+Perquè penseu que el triatge bàsic l'ha fet o un bomber o un tècnic en emergències que no té coneixements, en principi, en suport vital avançat.
+Llavors es poden passar coses que clar, és que el triatge bàsic és com molt groller, no?
+Discerneix així una mica de forma molt ràpida.
+I aquest triatge al principi això el fa una persona amb coneixements en suport vital avançat en el trauma.
+El protocol del SEM diu que en principi en les unitats de suport vital avançat que hi va el metge i infermera,
+el metge seria com l'encarregat de l'organització general de tota l'emergència i la infermera seria la que faria aquest triatge assistencial.
+Per tant, parlem de persones que tenen entrenament en atenció en trauma.
+Doncs llavors, això, què dèiem, no?
+Aquí el primer que faríem seria fer una valoració ABCDE de cada ferit vermell que m'entri en primer lloc.
+Llavors, un cop valoro aquest pacient, en funció d'on tingui l'alteració en l'A en la B, en la C o en la D,
+direm que són pacients d'un color o d'un altre, amb el mateix codi de colors que teníem a l'entrada.
+Els pacients vermells són aquells que tenen una complicació real o potencial.
+Es parla molt de potencial perquè tots els que fem assistència sabem que un pacient,
+encara que en aquell moment no tingui una complicació, depèn de què, depèn de les lesions que l'acompanyin,
+en breus minuts pot acabar tenint una complicació.
+Llavors, per això diuen real o potencial.
+Imaginem-nos, per exemple, una persona amb unes cremades a la zona del coll,
+totalment circulars i amb tota una cara i un coll cremat,
+sabem que potencialment aquella via aèria se'ns empitjorarà en pocs temps.
+Llavors, allò seria un compromís potencial de la via aèria.
+Li hauríem de posar una alteració en l'A.
+Llavors, en funció del que tenen alterat, els que tenen una complicació en la en la B o en la C serien pacients vermells.
+I es diuen vermell A, vermell B o vermell C, en funció d'on tenen la complicació real o potencial.
+Aquí és on hi ha hagut un dels canvis, a més li dèiem vermells de primera, vermells de segona.
+Ara han passat a fer-ho més fàcil, a dir complicació a l'A, vermell A, complicació a la B, vermell B,
+complicació a la C, vermell C.
+Seguidament passarem a fer una valoració neurològica, fixant-nos sobretot en el Glasgow motor.
+I les persones que tenen una alteració neurològica es consideren com a grogues D.
+Deiem vermell A, vermell B, vermell C i groc D.
+Posteriorment, si no tenen cap alteració en la D, el que mirarem és farem una exposició de la víctima,
+la E, ràpida, in situ, i el que valorarem és si aquella persona necessita una atenció mèdica in situ,
+és a dir, en el lloc de l'incident, que en aquest cas seria groga, o es pot demorar i fer-ho més tard en un centre sanitari.
+Llavors es classificaria com a verd.
+I això és el que faríem inicialment en el triatge assistencial.
+Què més? I després tenim el...
+Tenim un segon pas que és molt important, que es fa dins del triatge després d'haver fet aquesta primera valoració ABCDE
+que és dir si aquest pacient necessita una atenció quirúrgica urgent, que es diuen criteris de valoració quirúrgica precoç.
+Per què es passen aquests criteris? Doncs perquè hi ha certs tipus de patologies que no es beneficiaran de res del que els fem en el lloc de l'incident.
+I aquestes tres situacions necessiten anar al més ràpid possible a un hospital que tingui capacitat de solucionar aquest problema quirúrgic.
+Són tres i són aquestes. Un traumatisme major penetrant, el craniofacial, el coll, el tronc i o proximal als genolls o colzes amb hemorràgia.
+L'altre seria un traumatisme amb sospita de fractura de pelvis i inestabilitat hemodinàmica.
+Sospita, no cal que fem cap maniobra per palpar la pelvis, sospita de fractura de pelvis i inestabilitat hemodinàmica.
+I el tercer seria el traumatisme tancat de tronc amb signes de xoc.
+O sigui, en aquests malalts no dius que són els que hem d'identificar perquè surtin de l'àrea sanitària el més ràpid possible per anar a un hospital.
+No haurien ni d'entrar a l'àrea sanitària aquests. O sigui, des del triatge han de passar a l'evacuació i marxar.
+Només farem una mesura d'estabilització mínima. Què seria això? Què és el que diu META?
+Doncs posar una via, un sèrum i córrer. A l'antiga usanza, allò de ràpid, ràpid cap a l'hospital.
+Carregar i marxar.
+Exacte. En principi, poden marxar aquests amb qualsevol tipus d'ambulància, la primera que estigui disponible, amb instruccions per part dels sanitaris i anar directes a l'hospital.
+I això és nou? Això és la novetat del triatge assistencial? Això és nou o això ja estava escrit?
+Això ja estava escrit. Abans n'hi havia quatre i s'han ajuntat dos, que és aquest de la fractura de pelvis.
+Abans estava dividit en dos, que també parlava d'inestabilitat mecànica de la pelvis.
+Clar, com tots sabem, de les últimes recomanacions de l'ATLS s'ha tret el que seria la maniobra exploratòria de la pelvis en el malalt traumàtic.
+Si a mi un dels criteris quirúrgics és la inestabilitat mecànica de la pelvis, segurament hauré de fer alguna maniobra per discernir si té una inestabilitat mecànica.
+Llavors això s'ha aglutinat en un que diu sospita de fractura de pelvis i inestabilitat hemodinàmica.
+Un pacient inestable que tu sospites que té una fractura de pelvis és un criteri quirúrgic.
+I si a més a més te l'han tret ben empaquetadet en un sac de buit has de desfer per valorar la maniobra i tornar a fer.
+Pèrdua de temps, inútil, sense cap interès.
+Exacte. Molt bé, doncs ara ja sabem quin pacient ha de marxar corrents, quin pacient hem d'atendre primer,
+l'ordre de prioritat ABCDE i classificadets amb unes targetes, allò que deia en Xavi, que portem totes les unitats de suport vital avançat de Catalunya, del SEM,
+porten una motxilla on hi ha tot el material d'incidents de múltiples víctimes.
+No és més que unes targetes de colors que ens serveixen com de full de registre per emplenar les dades mínimes que anem fent en aquells pacients
+i porten també material de visibilització perquè ens vegin, perquè vegin quin és el metge responsable, qui és la infermera que fa el triatge, etc.
+I també molts bolis i llapis perquè si sou com jo que coneixeu el torn amb boli que veu sense, almenys en tingueu, en podeu perdre uns quants abans.
+Exacte. Boli, llapis i altres estris que també són necessaris.
+Un cop els tenim catalogats, el següent pas és fer-los l'assistència.
+Tots aquells que no han marxat urgent perquè es beneficiaven de fer-los alguna cosa en lloc d'in situ,
+serien el que seria el que antigament li havíem dit el PMA o l'Hospital de Campanya, si volem fer-nos una miqueta més la idea del que seria.
+I allà els separaríem per colors i atendríem les víctimes en funció de la prioritat que ha establert el triatge.
+Primer els vermells, els vermells amb alteracions a l'A, a la B, a la C, a mesura que ens vagin arribant recursos.
+Un altre tema que no hem parlat és dels recursos que arriben. No és el mateix estar a la Cerdanya o a l'Empordà que estar a la Rambla de Barcelona.
+Llavors, a mesura que van arribant recursos, el que has de fer és anar-los distribuint.
+Aquell metge que se'ns ha quedat d'organització, el que ha de fer és anar-los distribuint perquè es vagin col·locant en els llocs on ens falta les persones que atendran els ferits.
+I això seria en principi en l'àrea sanitària. Ens donaran suport a l'àrea sanitària per atendre els ferits i també a la zona d'evacuació.
+Perquè  una pregunta, Aurora. Si a mi ens envien a la unitat avançada que estic, m'envien en una situació així,
+que ja hi ha tot el pollastre muntat, a qui m'haig d'adreçar jo per dir que ja som aquí i on vaig?
+A qui m'haig d'adreçar jo? M'haig d'anar al triatge bàsic, a l'assistencial, al punt d'assistència o on haig d'anar?
+O sigui, si arribes com a segona unitat, diríem, no la primera unitat.
+Sí, segona, tercera, quarta o la que arribi, on vaig? Pregunto a la policia, pregunto a bombers o busco qualsevol sanitari o què faig?
+No, si ja està muntat tot el que seria l'assistència i està organitzada, hauries d'anar a la persona que és la responsable de l'àrea sanitària.
+Aquesta persona porta una armilla d'aquestes que hi ha dintre de la motxilla, aquesta d'incidents de múltiples víctimes,
+que posa responsable de l'àrea sanitària. Hauries d'anar a buscar aquesta persona i aquesta persona et diria,
+mira, doncs ens fa falta un metge a dintre de l'àrea sanitària per atendre els ferits vermells.
+O sigui, vaig amb aquest, que aquest és el que en diem el K1? O quin és aquest?
+Sí, els noms són una miqueta complexes. Aquest seria el K1, que li diu, el SEM ha posat unes denominacions per entendre'ns per l'emissora
+i llavors hi ha diferents rols. Aquest seria el K1, que és el líder de l'àrea sanitària.
+El K0 seria aquella persona que està coordinant més des de fora l'emergència i el D0, que en principi són els coordinadors territorials
+que acaben agafant aquests rols. Llavors el metge que arriba o la primera unitat de suport vital avançat,
+pot ser també una infermera, és el líder de l'àrea sanitària, és el K1. Després hi ha un altre que és el que està al punt d'evacuació,
+que seria el K2 i el que està com a responsable de la nòria d'ambulàncies de sortida és el K3.
+Això ja és encara més complicat, no me'n recordo mai, sempre m'ho he de mirar.
+I suposo que quan arribem ens poden, nosaltres que sempre intentem anar tots juntets,
+suposo que poden dir, sí necessito el K1, ens pot dir necessito un metge aquí,
+la infermera que se'n vagi a no sé on i el tècnic que entri amb els bombers a fer no sé què.
+Ens  poden dividir tranquil·lament, no?
+Exacte. Un cop entres en una emergència d'aquestes, SEM té establert que tot el material assistencial es posa dintre l'àrea sanitària
+i passa a ser comunitari, respirador, monitor, motxilla d'intervenció i els professionals es poden separar
+excepte el tècnic conductor que ha d'estar sempre escrit a la seva ambulància.
+Què vol dir això?
+O sigui, el nostre tècnic, la seva ambulància sempre serà la seva ambulància,
+però nosaltres podem marxar amb una altra ambulància i ens podem separar.
+Ens trobarem més tard un cop s'acabi tot en el punt zero, però ens anirem separant
+i fent allò que sigui necessari per resoldre el millor possible aquesta emergència.
+Molt bé.
+Doncs què ens en falta? Estàvem en el punt assistencial, no? fent l'assistència.
+Ja sabem que tenen més o menys els ferits, qui n'hem d'atendre primer
+i llavors aquí passaríem a fer una assistència com sempre, com quan vas a una sola víctima.
+Tu et centres amb aquell ferit, fas totes les mesures que són necessàries
+per poder-lo traslladar fins a l'hospital, el prepares per sortir
+i esperes que algú et digui que aquell ferit pot anar cap a un hospital.
+I aquí ve l'últim pas del META, que per mi és el més complicat, perquè és el triatge d'evacuació.
+Abans de sortir de l'àrea sanitària, ha d'haver-hi un punt on es fa un últim triatge
+i es decideix quina víctima surt primer i amb quin recurs assistencial ho fa.
+El que genera més dubte, i això és una de les altres coses que han anat fent,
+millorant en el META, és que han intentat clarificar aquests criteris de trasllat.
+Bé, els primers que marxen són aquells, els vermells quirúrgics.
+I aquest, si ens n'hem deixat algun que no haguem vist en el triatge
+i el veiem després en l'àrea d'assistència, serà el primer a marxar, sempre.
+I després el que hem de fer és passar uns criteris de gravetat,
+que es diuen criteris d'alta prioritat, i discernir entre unes lesions que es diuen lesions greus rellevants.
+Això s'ha de portar una xuleta que nosaltres en portem a dintre la motxilla
+perquè en aquell moment això segur que no te'n recordes.
+Lesions greus rellevants tindríem que són fractura de crani oberta o deprimida
+amb traumatisme cranioencefàlic sever, un tòrax batent, un pneumotòrax a tensió,
+fractura proximal de dos o més ossos llargs, extremitats aplastades, arrencades o mutilades,
+amputació proximal a canell o turmell, paràlisi i cremades greus.
+Això són lesions greus rellevants.
+Costa memoritzar-les però és clar que seran molt greus quan les vegis.
+I llavors una altra cosa que li diuen són els criteris d'alta prioritat.
+Això serveix per acabar de decidir qui trasllades primer dintre d'un mateix nivell de gravetat.
+Els criteris d'alta prioritat són lesions greus amb inestabilitat hemodinàmica o respiratòria
+i un dels següents paràmetres que serien una tensió arterial sistòlica inferior a 110,
+un Glasgow motor inferior a 6, la necessitat d'intubació o una lesió per explosió en espai tancat.
+Són moltes dades que has de tenir allà una bona xuleta per decidir qui marxa primer.
+Jo estic atenent amb un que al triatge m'han posat que és un vermell A.
+Aquest no marxarà abans que un... pot ser que marxi després que un vermell B o que un vermell C.
+En funció d'aquests criteris, no sé com en dius, els criteris de... no sé què.
+De gravetat, els criteris CAP i les lesions greus rellevants.
+Després tenim una altra cosa, o sigui, dintre la mateixa prioritat A, B, C o D, primer marxa el que té aquests criteris.
+Si tinc un vermell A que té criteris CAP, marxa primer el que no té criteris CAP.
+Dintre del vermell A, dintre d'aquesta categoria.
+Vermell A. Després passo al vermell B. I llavors si té criteris CAP o no té criteris CAP.
+D'acord.
+Posteriorment marxen els que tenen un compromís en l'ABC no resolt.
+És a dir, l'hem passat allà a l'assistència, hem intentat taponar l'hemorràgia i allò no para de sangrar
+i té una C no resolta. Doncs aquest marxa abans dels que té una C resolta o una A resolta.
+Primer marxen l'ABC no resolt. Després l'ABC resolt.
+I després ja baixaran els grocs D, els que necessiten una valoració hospitalària i els verds.
+O sigui, el que se li poden creuar més els cables és el que està responsable de l'àrea d'evacuació.
+Exacte.
+Aquests sí que li poden caure faves pertot arreu.
+Exacte. META diu que aquest ha de ser un metge.
+Però el SEM diu que si hi ha alguna infermera que té més expertesa també ho pot fer sense problema.
+I fer-ho dos en conjunt no, oi?
+És complicat. Per això META té uns esquemes que estan molt bé i que jo crec que seria interessant
+que veiéssim l'últim article aquest que van publicar ara el 2021, on tenien els esquemes actualitzats.
+Un esquema general on ens fem la idea del triatge assistencial, la prioritat quirúrgica, l'assistència al triatge d'evacuació.
+Un altre que només parla del triatge assistencial i dels vermells quirúrgics.
+I un altre que parla només del triatge de l'evacuació.
+Nosaltres, per exemple, a Figueres el que hem fet és a cada una d'aquelles bossetes que eren per a cada una de les persones
+que tenia un rol assignat dintre l'emergència, hi hem posat una còpia plastificada d'aquestes xuletes del triatge.
+Molt bé.
+Dir també com a cosa novedosa que el SEM està treballant en una aplicació perquè tot això ho puguem fer des del tablet del SEM que portem
+i puguem anar traient el paper i tot sigui com més ràpid i més interconnectat amb la xarxa perquè els hospitals vagin rebent la informació i així.
+Sí, perquè aquesta és una altra. Tots aquesta gent que tens en el lloc i que intentes que no se t'escapin perquè el caos sigui teu i només teu,
+en algun lloc han d'anar a espetegar. I van amb això de l'evacuació.
+Això que has dit que és el lloc més complicat, em sembla que hi estic d'acord. I mira que no és que els altres siguin senzills.
+Perquè a més a més es dona la circumstància que així això, jo ho veig de la perspectiva rural meva.
+És a dir, la meva nòria de trasllat depèn d'on estigui pot ser molt i molt llarga.
+És a dir, una unitat que envio és una unitat que perdo durant molt temps abans no pugui tornar a venir.
+I això també ho has de tenir present de cara a la resolució final.
+Enviar un tio sol o enviar... aprofito que hi col·loco un verd que volta per allà, que si és acompanyant de l'anterior suposo que és molt senzill de decidir.
+Però quan ja no és tan acompanyant, no ho sé. És una d'aquestes coses que els rurals intentem veure com resoldre.
+No, en principi els verds mai els hauries de traslladar en cap primer moment. Els hauries de traslladar encara que sigui en un autobús.
+Trucar la TEISA i que vinguin i se'ls emportin per dir alguna cosa.
+Les ambulàncies les deixarem només pels pacients que necessitin una ambulància.
+Una cosa que diu META i que també diu SEM és que el pacient s'ha de portar a l'hospital que li pugui donar la solució al seu problema.
+Però el vermell quirúrgic, per exemple, pot anar a l'hospital més proper.
+Ho dic perquè tot hospital hauria d'estar preparat per atendre un vermell quirúrgic.
+Només els quirúrgics, que són els que necessiten arribar més ràpid a un hospital.
+Jo també estic, a part d'estar amb el SEM i tot el tema aquest dels incidents de múltiples víctimes,
+a l'hospital també tenim una comissió que treballa per tenir el pla dintre l'hospital.
+Llavors, fa un parell d'anys just abans del Covid, el Departament de Salut i l'àrea territorial de Girona específicament
+ens va demanar que diguéssim quants pacients podríem atendre en una situació d'aquest tipus.
+Llavors, cada un dels hospitals, sobretot els comarcals de la zona de Girona,
+penso que a tot Catalunya es va fer, però Girona estic segura que sí, vàrem dir quants pacients podíem atendre
+i amb quant de temps els podríem atendre.
+És a dir, per exemple, l'hospital de Figueres ha dit que pot atendre fins a dos vermells quirúrgics,
+un inicial i un altre als 30 minuts. I això ho han fet tots els hospitals.
+És a dir, podem atendre deu vermells dels quals dos quirúrgics i si són nens, doncs poder només un.
+Això ho han dit tots els hospitals i, per tant, el SEM sap quina capacitat de resposta tenen els hospitals.
+Llavors, se suposa que en aquell punt d'evacuació també tindràs una trucada directa en coordinació de SEM
+que et dirà aquest vermell quirúrgic envia'l a Puigcerdà, aquest no, aquest ha d'anar a Barcelona.
+Llavors, això també farà que poder puguis enviar pacients més a prop per poder tornar a recuperar aquestes ambulàncies.
+L'ideal per atendre aquestes situacions de múltiples víctimes i de catàstrofes
+seria que tots els hospitals comarcals i no comarcals tinguessin un pla de catàstrofes
+i que la gent el coneixés i que féssim alguna, almenys algun simulacre cada X temps.
+Això seria recomanable, no?
+Sí, això just abans del Covid ja estàvem en això i el simulacre s'havia fet just quan va començar l'altra emergència.
+I sí, tots els hospitals estàvem en això i estàvem treballant conjuntament per poder enviar els nostres plans
+i que tothom els tingués preparats. En principi
+la feina està feta, el problema ha sigut la difusió i posar-ho en pràctica
+que aquests dos anys han sigut com si hi hagués hagut una aturada en el temps.
+Una pregunta, tornant al lloc de l'emergència o catàstrofe,
+qui decideix a quin hospital va cada malalt?
+El Kilo 3 o el centre coordinador o qui ho fa això?
+En principi el centre coordinador. T'ha d'ajudar a decidir en funció del triatge que has fet tu.
+Si tinc un vermell CAP A que necessita anar a un hospital, a quin hospital l'he de portar?
+I ell em dirà, mira, a Figueres t'estan esperant.
+Cap a Figueres. O no, mira, aquest millor porta al Trueta i llavors el següent vermell l'enviarem a Figueres.
+Molt bé, no sé si ens ha quedat alguna cosa per concretar.
+Jo penso que hem fet un repàs bastant important.
+Com a últim apunt, dir-vos que darrere dels atemptats del 17 d'agost de Barcelona,
+el Departament de Salut ha fet un altre protocol conjuntament amb el SEM
+en el qual es prioritza la seguretat dels rescatadors, diguem,
+i que en aquest cas sí que s'ha de tractar com una situació molt diferent,
+que no ens podem posar a atendre les víctimes sense assegurar la nostra pròpia seguretat.
+Allò del protegir va primer i sí que la situació canvia molt i no ens podem fer els herois,
+sinó que hem d'esperar que CECOS, en aquest cas, que és el centre coordinador,
+ens digui que realment podem entrar a l'emergència, que ens diguin que és una zona segura
+i que la podem atendre amb la mateixa normalitat que si no fos un incident intencionat.
+Com ha canviat el cuento, eh? Abans eren els bombers els que havien de protegir i treure't els pacients i tal,
+i ara són els polis. Quin món que ens està quedant, eh?
+Situacions molt diferents.
+Bé, doncs molt bé, tu. No sé si hem d'afegir alguna cosa més.
+Jo penso que m'ha quedat molt clar i ara ja estic tranquil a la pròxima guàrdia
+i jo penso que... L'Albert fa una cara així dient el que diu aquest ara.
+Jo no estic tranquil. Jo gens tranquil.
+Si pot ser que no passi. Companys, si heu de liar-la parda, que sigui lluny, que no sigui a casa meva, sisplau.
+No, va, però tot el que sigui fer una miqueta de difusió i parlar-ne, està... està molt bé, no?
+Almenys això és allò que en anglès no diuen l'spaced repetition.
+És a dir, són coses que tu ja has d'haver après, no precisament en aquest pòdcast,
+però el fet de sentir-ho farà que allò que ja sabies recordis.
+I gràcies al Covid que ens ha enfonsat la misèria durant dos anys
+i que no hem fotut res durant dos anys que no fos Covid,
+recordar que el món segueix també té el seu...
+Perquè lo de la pandèmia aquesta del Covid també es podria interpretar com una catàstrofe, no?
+Bé, de fet és una...
+Bé, ho va ser, eh? Al principi nosaltres a Urgències ja va ser això.
+Vam reorganitzar tota l'assistència per poder atendre aquest tipus de pacients.
+Ens van enviar recursos de tot arreu, no?
+Per fer... el mes de març, eh? Ara ja no, ara ja és la normalitat, però ja va ser així, no?
+En realitat vam zonificar el servei d'Urgències, vam decidir on atendrien cada pacient,
+com els atendríem, no? Quins circuits seguirien...
+I els vam prioritzar i vam fer, doncs, una miqueta això.
+La diferència és que encara no l'hem tancat, aquest episodi, no?
+És com un tsunami, que van arribant onades, no?
+I encara, bé, esperem que algun dia sigui l'última, però bé.
+I ara que hem dit això del Covid i de les múltiples víctimes,
+que tot el que hem parlat de les múltiples víctimes està molt pensat en...
+Perquè és el més habitual, entenc, que és en episodis molt puntuals de molta energia, no?
+Molt trauma. Però hi ha emergències o múltiples víctimes que no ho eren.
+Ara imagineu-vos el que havia de ser entrar en una residència d'avis
+que quedava el 10% de la plantilla durant dos dies.
+És a dir, allò són múltiples víctimes. El que passa és que allà ningú s'ha fet mal.
+Però saber què has de començar a triar allà, no?
+Però això, un 80% dels residents de segons on, malalts de Covid.
+Aquí, tot això que hem parlat de triatges i demés, aquí...
+Bé, en realitat faries el mateix.
+Aquí no hi ha ningú que sigui...
+El que li costa respirar anirà davant del que no li costa.
+Sí, sí.
+O penso també ara que també estan de moda això dels múltiples víctimes intencionats.
+Si en comptes de fer explotar coses, comences a tirar porqueries.
+Digue-n'hi, el cas aquell del gas sarín del metro de Japó, no?
+Aquí moltes de les coses que tenim escrites no ho tens escrit.
+Hauràs de començar a improvisar en base a l'ABCDE, només que no serà de l'SVAT, sinó que serà de les SVA.
+Sense la T, a darrere.
+En realitat l'assistència no discerneix molt.
+El tipus de ferides seran unes que unes altres.
+És evident que no tindran aquells criteris, aquelles ferides greus rellevants,
+però els criteris CAP sí que els tindràs, no?
+Si tenen inestabilitat hemodinàmica, si necessiten intubació,
+si tenen una alteració en el Glasgow motor, no?
+Al final li treus la part traumàtica, però l'altre, en el meu punt de vista, segueix vigent.
+Si tens clar els objectius de cada zona i de cada moment de la catàstrofe,
+i quina és la missió, t'hauràs d'adaptar si és més traumàtic, o més per un agent químic, o per un agent biològic.
+No ho sé.
+Però com més sàpigues del que més habitual és, potser te'n sortiràs millor,
+o quedarem més ben parats tots si ho tenim ben estudiat i ben practicat.
+Tot serveix.
+Això de fer servir el Glasgow motor també està ben pensat.
+Perquè fer servir el Glasgow sencer... ja és complicat de normal.
+Hem fet un pòdcast d'això també.
+Imagina't ara aquí amb el sidral aquest, que aquí el Glasgow motor, que també té el seu què,
+perquè l'acció anormal també costa, no és senzill, almenys simplifica una miqueta el tema.
+Això del Glasgow motor ho fem servir només en el triatge aquest META,
+i no pas en l'START, perquè si aquí també els no sanitaris fèieu servir el triatge motor també els pot costar.
+No, en l'START es fa servir si obeeix ordres senzilles.
+Que si les obeeix és groc, perquè no era verd abans, després passa a ser groc, si et fa cas.
+Sí, exacte.
+Molt bé, molt bé.
+Doncs res, deixem tancada aquesta situació de múltiples víctimes.
+Moltes gràcies, Aurora, per la teva companyia i per la teva participació en aquest EMpodcat,
+que segur que jo penso que serà interessant per tots els sanitaris que treballem en aquestes zones que parlem català.
+I veiem si ens podem trobar en algun altre episodi.
+Sí, millor en un altre episodi que no pas en un sidral.
+Sí.
+Exacte. Moltes gràcies per haver-me convidat i molt contenta d'estar aquí a l'EMpodcat.
+Molt bé, i fins aquí el tema d'avui. Ara ens toca la secció de l'urgemmot. Xavi, què tens pensat per avui?
+Sí, aviam, tenim una sèrie de termes que en català els podríem millorar, perquè crec que moltes vegades no els fem servir correctament.
+I és, per exemple, aquella situació en què ens arriba un pacient que no pot moure una extremitat,
+o extremitat superior o inferior, o té una pèrdua de força, que n'hauríem de dir que és una hemiplegia.
+Normalment jo sempre n'havia dit, o hi havia sentit, que un pacient tenia una hemiplegia,
+però correctament no porta accent, n'hauríem de dir una hemiplegia.
+Perquè aquesta hemiplegia podria ser un signe d'un atac isquèmic transitori,
+que és la forma correcta del que en diem habitualment un AIT, que abans en dèiem un accident isquèmic transitori.
+Aquest accident no és correcte, n'hauríem de dir en català un atac isquèmic transitori.
+Perquè això també podria ser una manifestació d'un infart lacunar.
+No en diem un infart llacunar, sinó que és un infart lacunar.
+Aquest pacient, que el tens a urgències, en aquestes situacions que ens trobem avui en dia,
+li farem amb un escobilló, li farem un frotis nasal per veure si té algun patogen respiratori.
+Entre aquests patogens respiratoris, ara a més a més hi afegim els habituals,
+com pot ser el virus sincític respiratori, que no és el virus respiratori sincitial,
+sinó que és el virus sincític respiratori.
+I aquest malalt que teníem amb aquest infart cerebral es podria complicar i podria fer un estat epilèptic.
+Aquest estat epilèptic no és el que abans en dèiem erròniament un estatus epilèptic,
+sinó que n'hauríem de dir un estat epilèptic.
+I si finalment la cosa ja acaba complicant-se, com estem fent en aquests episodis
+d'incident de múltiples víctimes, que acaba malament per molta gent,
+en últimes instàncies, quan veiem que el pacient està en últimes hores de vida,
+el que hauríem de fer és una adequació de les actuacions sanitàries,
+no una limitació de l'esforç terapèutic, sinó que el terme adequat
+i que es recomana actualment és parlar d'adequació de les actuacions sanitàries.
+I crec que res més. No sé si tu, Albert, tenies algun urgemmot per comentar.
+Quasi m'acabo de quedar hemiplègic amb tots els que acabes de llençar en un minut.
+No estic hemiplègic, però sí que tinc una contractura amb un bonic punt de gatell
+que està just aquí darrere. No ho veieu, però està just aquí darrere.
+Just aquest punt, apretes allà i aquest gatell fa molta... molesta.
+Aquest gatell, eh? Aquest punt gatell.
+Que no sé com es deu dir malament, perquè jo sempre he sentit dir punt de gatell.
+O sigui que potser per una cosa que diem bé en català aprofitem-ho, no?
+Sí, no sé com en dèiem. En castellà deu ser un punto gatillo, no?
+En castellà en diuen punto gatillo. No sé...
+Jo no ho he fet servir mai, tu. No ho sé.
+Molt bé, molt bé.
+Molt bé. I fins aquí l'urgemmot.
+Ara toquen les recomanacions d'aquest episodi, d'aquest mes, de fet.
+Va, Xavi, quina tens tu?
+Sí, jo fa temps vaig veure una eina, una puntuació,
+que ens servia per tal d'identificar aquells pacients que tenien una infecció,
+que venien a urgències en una clínica infecciosa,
+per ser capaços de fer una predicció sobre quin d'aquests malalts faria una bacterièmia.
+Sabem que un 15% dels pacients que venen a urgències venen per quadres infecciosos
+i d'aquests n'hi ha un petit tant per cent que faran bacterièmia,
+que la bacterièmia es defineix com la presència de bacteris vius a la sang
+i que nosaltres ho demostrem amb un hemocultiu positiu per a algun bacteri.
+Aquests pacients en una clínica infecciosa, si a més a més fan una bacterièmia,
+és un factor de mortalitat.
+Per tant, és important identificar aquests pacients.
+Aleshores, hi ha molts scores, hi ha quantitat des de fa molts anys
+que es fan diferents escales, puntuacions,
+per veure de quins d'aquests malalts infecciosos
+tenen més risc de fer bacterièmies i, per tant, més mortalitat.
+I un que veig molt fàcil i que és molt recent
+i que es pot aplicar molt fàcilment al servei d'urgències,
+el podeu trobar en una pàgina web, que l'han fet específicament per això,
+que es diu, a la pàgina web heu de posar mpbscore.urgenciasclinico.
+Vosaltres poseu en el Google mpbscore
+i ja veureu que un dels primers enllaços que us aporta el Google
+és aquesta pàgina web, que només hi ha això, hi ha l'score,
+i tu vas seleccionant cada un dels apartats
+i és molt fàcil de fer perquè et demana coses molt senzilles
+com és ara la temperatura, l'índex de Charlson,
+la freqüència respiratòria, leucos, si té calfreds o no,
+les plaquetes i la procalcitonina.
+Són aquests set ítems que són els que ens demanen
+i res, tu selecciones aquests quatre factors, li dius que et calculi la puntuació
+i en funció d'això et donarà una escala que et diu la mortalitat que té
+en funció dels paràmetres que tu li has marcat
+i què li hauries de fer, si el pacient realment requereix o no requereix hemocultius,
+si requereix o no requereix antibiòtics
+i si requereix o no requereix ingrés hospitalari.
+Això és una eina més, complementària, el més important és com està l'estat clínic del malalt,
+si el malalt és un malalt sèptic xocat, evidentment que li faràs hemocultius,
+evidentment que li posaràs antibiòtic i també és una eina complementària
+a la situació basal prèvia del pacient i a l'òrgan afectat.
+No és el mateix tindre una infecció urinària que tindre una meningitis.
+És a dir, és una eina d'ajuda a preveure quins pacients tindran una bacterièmia
+i això ens pot ajudar a complementar, a decidir si li posem antibiòtics,
+si li podem donar d'alta o si li fem uns hemocultius.
+I és molt fàcil de fer i teniu una pàgina a la web exclusiva, que només hi ha aquest score,
+aquesta puntuació, que és això, mpbscore.urgenciasclinico.
+Quan explicaves això pensava que no sé fins a quin punt això altera la teva presa de decisions
+perquè als més greus els és igual.
+Suposo que és pel grup aquest d'entremig que no tens clar què has de fer amb ells,
+perquè pels altres ja és tan evident que no canviarà res fent aquest score, et quedaries amb el...
+Exacte, si tu tens, per exemple, la majoria de bacterièmies són d'origen urinari o d'origen respiratori.
+Aleshores, no tothom que ve amb un quadre de, no sé, una pneumònia lleu o una bronquitis amb febre i tal,
+que és un quadre infecciós, doncs potser això et pot ajudar a decidir si li trec hemocultius
+o no val la pena treure hemocultius, perquè sabem que les contaminacions dels hemocultius són molt importants
+i que després això indueix tractar amb antibiòtics, etcètera, etcètera, etcètera.
+I és una despesa i un temps i un consum d'antibiòtics que faran resistències.
+Per tant, en aquests pacients que dius, ostres, no sé si deixar-lo 24 hores o ingressar-lo o donar l'alta
+perquè està justet, doncs això et pot ajudar.
+Evidentment, el que té una meningitis o el que està sèptic i xocat, és igual,
+li faràs hemos, li faràs antibiòtics i li ingressaràs. Per tant, no t'ajudarà.
+Però els que estan així intermitjos, jo penso que sí que pot ser una bona eina.
+Igual perquè els d'interna comprin.
+Mira, és que té un MPB score de tant, com que abans de reconèixer que no saben què els estàs parlant,
+diuen, vale, vale, ingressa'l.
+Ah, ingressa'l, ingressa'l. Doncs sí, no et dic pas que no.
+Molt bé. Mira, jo tinc una recomanació que no sé massa bé com explicar-la.
+Aquest mes de gener de 2022, resulta que el compte de Twitter de la Difficult Airway Society,
+Trainees, és a dir, suposo que és un compte educatiu de la Societat de la Via Aèria difícil,
+ha posat un hashtag, aprofitant el joc de paraules de January en anglès,
+en comptes de... l'etiqueta, en comptes de ser January, és Januaryway,
+en què cada dia del mes de gener de 2022 posen una infografia, una informació sobre un punt concret.
+Per exemple, veig que el 15 de gener, el Januairway parlava de les traqueostomies.
+I tens allà una bonica infografia que t'explica de les traqueostomies què has de saber.
+Un altre dia parlaven del canviador de tubs de Heschman.
+Un altre, mira, avui. Mira, just avui parlen d'equipament extra per fer una cricotirotomia.
+Us sona això de la cricotirotomia, de l'episodi anterior.
+En vam parlar un dia, sí.
+Sí, sí. Doncs això, que és... mira, durant aquest mes de gener de 2022,
+doncs cada dia pots llegir-te una d'aquestes infografies,
+torna a ser el mateix de la repetició espaiada, de quelcom que potser ja sabies,
+doncs mira, amb això te'n recordaries i no quedaria en aquell bagul de records oblidats que tenim tots dins del nostre cap.
+I això ho tenim en un hashtag al Twitter, eh?
+Exactament. En un hashtag al Twitter, que no sé massa bé com apuntar-ho a les notes de l'episodi,
+no sé com posar-ho.
+En fi, Difficult Airways Society Trainees, amb l'etiqueta JanuAirway.
+Ho mirarem, ho mirarem. Molt bé.
+Molt bé, doncs fins aquí aquest nové episodi de l'EMpodcat.
+Esperem que us hagi agradat.
+Com sempre, doneu-nos els vostres m'agrada, si ho creieu convenient,
+subscriviu-vos, feu-ho saber als altres, i si teniu alguna cosa per explicar,
+contacteu-nos, que podem organitzar una altra trobada com la que hem fet avui amb l'Aurora.
+Vinga, que vagi molt bé i gràcies per escoltar-nos.
+Vinga, fins la propera. Moltes gràcies.
