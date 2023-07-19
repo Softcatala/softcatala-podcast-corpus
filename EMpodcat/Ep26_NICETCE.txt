@@ -1,0 +1,560 @@
+EMpodcat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvingudes a un nou episodi de l'EMpodcat, el que fa 26, el segon de la tercera temporada.
+Tres temporades ja.
+Aquest pòdcast, el pòdcast en què parlem d'urgències i emergències mèdiques en català,
+el presentem aquest qui us parla, l'Albert Homs,
+i a l'altra banda de l'internet hi tenim en Xavi Basurto. Hola, bon dia, Xavi.
+Sí, hola, bon dia, què tal? Jo us parlo des de l'Empordà,
+i sí, sóc en Xavi Basurto, que sóc metge d'urgències de l'Hospital de Figueres,
+i que també em desplaço amb la USVA 606 de Figueres.
+I bé, tenim un... per si voleu saber alguna cosa més o llegir alguna cosa
+que anem difonent de tant en tant, hi ha un blog que es diu urgem.cat
+i a Twitter que és @urgemcat. Quan tenim temps, que espero que després del juliol tindrem més temps,
+doncs anem publicant coses que a nosaltres ens semblen interessants i sobretot compartir-les.
+I Albert, presenta'ns una miqueta tu on et podem llegir i saber els teus interessos mèdics "urgentils".
+Mira, jo tinc un blog que és emermedpirineus.cat,
+i també emermedpirineus al Twitter i a mastodont.cat.
+Treballo a l'Hospital Transfronterer de Cerdanya i el SEM em posa conductor i Mercedes per treballar.
+Companys tècnics lo de conductor era per fer la brometa.
+Molt bé, molt bé.
+Bé, i en aquest episodi d'avui en Xavi ens vol parlar...
+Fa poc temps s'han publicat unes guies, les guies NICE per al diagnòstic i tractament del traumatisme cranioencefàlic.
+El Xavi se les ha llegit amb profunditat i ens vol fer...
+ens en vol destacar allò que considera important.
+O sigui, Xavi, quan vulguis, comença.
+Doncs sí, no pretenia fer una descripció de totes les recomanacions que fan les guies NICE
+sobre la valoració i el tractament precoç del TCE, del traumatisme cranioencefàlic,
+perquè és massa extens i no...
+Però sí que algunes coses que em van semblar interessants perquè
+és possible que en molts serveis d'urgències fem diferent
+al que recomanen ara les guies i que potser han canviat una miqueta
+respecte a les últimes que van fer que, si no recordo malament, eren del 2014.
+Estem a 2023 i ara les han publicat, ara, el mes de maig.
+El 18 de maig les van publicar.
+Recordo que les guies NICE són el National Institute for Health and Care Excellence
+que és un organisme anglès que es dedica únicament a fer guies de pràctica clínica.
+A diferència d'altres elaboradors de guies de pràctica clínica,
+com poden ser, per exemple, les societats científiques o, per exemple,
+els guies de l'ICS, per exemple, d'organismes que donen serveis sanitaris i tal,
+les NICE, el seu objectiu únic i exclusiu és elaborar guies de pràctica clínica.
+Per tant, com que només fan això, ho fan molt bé.
+Tenen tota una metodologia basada en l'evidència i amb molta rigorositat.
+I una altra cosa important és que, a diferència de, per exemple, les societats científiques,
+estan molt subvencionades, per exemple, per la indústria farmacèutica.
+Aleshores, vulguin o no vulguin, això influeix a l'hora de fer recomanacions
+i de fer les guies de pràctica clínica. Està influenciat, lògicament.
+Les empreses que són subvencionades pels governs i que només es dediquen a això
+i que no fan publicitat de res més, normalment, i sobretot, per exemple,
+això ho veiem quan es fan publicacions d'assajos clínics, per exemple, a revistes científiques.
+Si són un assaig clínic on hi ha molt finançament, o hi ha finançament
+per la indústria farmacèutica, comparat amb estudis que no hi ha aquest finançament,
+que és finançament, per exemple, més públic a través d'universitats o d'hospitals i tal,
+normalment hi ha un factor d'interessos i els resultats, sent el mateix tractament,
+la mateixa intervenció i tal, les diferències són significatives.
+Per tant, només us ho vull dir perquè les guies NICE normalment,
+doneu-li... després s'han d'analitzar una per una i tal, però tenen un vot de confiança d'entrada.
+No tenen el conflicte d'interès econòmic, almenys.
+Almenys no el que poden tindre la resta d'elaboradors de guies de pràctica clínica.
+Doncs això, el mes de maig van publicar l'actualització de les seves guies de pràctica clínica
+sobre el traumatisme cranioencefàlic i jo volia destacar 3 o 4 coses que em sembla que poden ser interessants.
+Una és la indicació de fer una tomografia cerebral en els pacients per descartar si tenen o no alguna lesió cerebral.
+Aleshores... Ells també parlen sobre els menors, que en diuen gent per sota de 16 anys,
+però penso que si voleu ja hi entrarem en un altre episodi, però és liar-nos massa.
+Per tant, només... tot el que direm ara ens referim a persones de més de 16 anys,
+16 o més de 16 anys, que venen amb un servei d'urgències després d'un traumatisme cranial.
+Doncs, indicacions de fer una tomografia.
+Primer de tot, les indicacions claríssimes.
+Si veus un pacient que després de caure d'un lloc té un TCE i ve amb un Glasgow de 12 o menys,
+a ningú se li ocorreria no fer-li un TAC cranial.
+Doncs, un Glasgow de menys de 12, o que al cap de dues hores del traumatisme encara no estigui amb un Glasgow de 15,
+o que només amb l'exploració física vegis que té una fractura cranial amb una depressió,
+o amb una fractura oberta, evident, o que tingui signes de fractura de la base del crani,
+com un hemotimpà, uns ulls d'ós rentador, el "mapatxe", que tingui líquid cefalorraquidi,
+que li degota pel nas, per les orelles, o el signe de Battle, que és aquesta equimosi retroauricular,
+tot això a ningú se li ocorreria no fer-li una tomografia.
+O que hagi convulsionat, o que tingui una focalitat neurològica.
+Si de cop i volta dius, hòstia, no... té una afàsia, per exemple, doncs faràs una tomografia, evidentment.
+Hi ha una indicació, que a mi m'ha cridat l'atenció perquè la diuen molt específica, i és més d'un episodi de vòmit.
+Per tant, juntament amb totes aquestes que hem dit, recomanen que el que ha tingut dos vòmits després del TCE,
+doncs li facis un TAC. Si n'ha tingut un, doncs n'ha tingut un.
+Però si això es repeteix, doncs encara que no tingui cap cosa més que et preocupi,
+doncs ja ha tingut dos vòmits, doncs té una tomografia.
+Què més? Després hi ha el pacient, que lògicament no està tan greu i tan evident que pot tindre una lesió intracranial,
+i són el pacient que no té cap d'aquestes coses que hem dit ara, però és un pacient que t'explica,
+explica els testimonis que ha perdut el coneixement o que quan tu li fas l'anamnesi,
+doncs el pacient té una amnèsia del que li ha passat.
+Doncs en aquestes dues situacions, veurem.
+Si ha passat això, que té una amnèsia o realment ha perdut el coneixement, veurem.
+Si el pacient té més de 65 anys, pren anticoagulants o pren antiagregants o el mecanisme de lesió és una miqueta ja important,
+és a dir, traumatisme que l'hagi atropellat un vehicle amb motor, que hagi sortit disparat de dins el vehicle,
+que hagi caigut d'una alçada de més d'un metre o de més de 5 esglaons en una escala,
+o que tingui una amnèsia de més... retrògrada, més de 30 minuts abans del traumatisme.
+Si té amnèsia o ha perdut el coneixement i té algun d'aquests factors que hem dit,
+la recomanació del NICE és: fes una tomografia computada.
+Per tant, si només has tingut la pèrdua de coneixement i no tens cap d'aquests, diguem-ne, altres factors de risc,
+no està recomanat fer la tomografia.
+Sí, diu, tomografia no necessària.
+Què més? Si no ha perdut el coneixement o no té amnèsia, però és un pacient que pren anticoagulants o antiagregants,
+excepte l'aspirina, en aquesta situació et diu que consideris,
+no et diuen, com els altres et deien, fes una tomografia, aquí diu consideris i és una diferència respecte a l'última guia que teníem del 2014,
+que deien fes una tomografia, aquí diu considera.
+Per tant, tot aquell pacient, per exemple, parlo del que pren sintrom,
+que d'entrada no veus que tingui un Glasgow de 12, ni uns ulls de d'ós rentador, ni té un hematoma,
+evidentment que li hagis de fer un TAC, veus?
+A més a més, no ha perdut el coneixement, no té amnèsia i l'únic que li passa és que pren sintrom o pren clopidogrel,
+doncs no et diuen fes una tomografia, et diu considera-ho.
+Per tant, aquest pacient considera-ho vol dir mira't si no hi ha alguna altra lesió,
+mira't si a casa pot estar acompanyat 24 hores,
+assegura't que si li passa alguna cosa o empitjora o té algun signe d'alarma algú se n'adonarà ràpid
+i podrà avisar el 112 i podrà venir a l'hospital en breu.
+Assegura't que la causa que li ha provocat la caiguda ha desaparegut,
+doncs si ha caigut perquè... lògicament tenia un bloqueig de tercer grau,
+doncs no l'enviaràs a casa amb un bloqueig de tercer grau perquè tornarà a caure la persona.
+Per tant, si la causa que l'ha fet caure ha desaparegut o s'ha solucionat i té un bon suport... tal,
+et queda fer la següent cosa que és parlar amb el pacient, parlar amb els acompanyants i fer una decisió compartida.
+Tu els expliques al pacient, a la família i dius mira, no tens cap cosa d'entrada greu,
+no has perdut el coneixement, no tens amnèsia i l'únic motiu per fer-te més proves
+i deixar-te aquí en observació i tal és perquè prens sintrom o perquè prens clopidogrel.
+Però com que vius aquí 15 minuts i tindràs un bon suport familiar i podràs vindre si hi ha algun problema,
+si hi ha algun problema ens véns a veure i s'ha acabat.
+Si arribem a aquest acord no és necessari fer una tomografia.
+Xavi, mentre parlaves d'aquest cas concret de l'aspirina... corregeix-me, perquè
+si la persona l'únic factor de risc és no li ha passat una part del coneixement, no té amnèsia,
+i pren aspirina no cal fer l'escàner, però quan parlaves d'abans que venia amb l'amnèsia i la pèrdua de coneixement,
+aquí sí que si prens aspirina se li ha de fer?
+Sí.
+Així ho he entès bé.
+Sí, perquè ja donen per suposat que si és un traumatisme amb el qual has perdut el coneixement
+o ja tens una amnèsia o si prens anticoagulants o prens aspirina és un factor de risc i per tant sí que l'hi has de fer.
+D'acord, així ho he entès bé.
+Si no has perdut el coneixement, no tens amnèsia i l'únic que et passa és que prens anticoagulants o algun antiagregant, considera-ho.
+Si l'únic que et passa és que prens aspirina, no has perdut el coneixement, no tens amnèsia,
+no tens cap d'aquests factors que hem dit abans, per tant tens menys de 65 anys, estàs bé,
+i l'únic que passa és que prens aspirina, doncs ells no veuen, en la revisió que han fet,
+no veuen que la gent que pren aspirina amb aquestes característiques no tenen més risc de fer una hemorràgia intracranial
+comparat amb la resta de població.
+Per tant, si no hi ha res més, el fet que només prengui aspirina, no ho consideren indicat a fer ni considerar-ho,
+és com si no prengués res.
+Interessant, interessant. Això és un canvi interessant.
+Sí, sí, ho diuen bastant clar.
+Sobre aquest tema dels altres antiagregants, bàsicament el que fem servir molt és el clopidogrel,
+la quantitat d'estudis que tenen per dir que no hi ha més sangnat o que n'hi ha menys o el que sigui,
+realment podria semblar que són molts, però són un o dos comptats.
+Però amb el que hi ha, no està gens clar que prendre aspirina per si sola augmenta el risc de tenir una hemorràgia intracranial.
+D'acord.
+Bé, un cop una miqueta aclarit, teniu un algoritme... en l'algoritme número 1 d'aquesta guia de la NICE
+Hi ha un algoritme que tenen penjat ells, que ja el penjarem també en el blog,
+que tot això que us he explicat queda molt clar i és molt fàcil de consultar.
+Després, volia parlar perquè també parlen de la recomanació, que és nou això,
+de l'àcid tranexàmic en el traumatisme cranioencefàlic.
+I és nou perquè hi ha dos estudis, això es basa en dos estudis.
+Un és el Rowell del 2020, que és un estudi també multicèntric fet als Estats Units i al Canadà, a nivell de prehospitalària.
+I aquests comparaven les dosis habituals que fem servir en el pacient,
+el codi PPT o qualsevol hemorràgia que ens sembla exsanguinant i que fem servir l'àcid tranexàmic,
+de posar un gram i després un gram en 8 hores, comparat amb passar... a fer una embolada de dos grams.
+Doncs, juntament amb aquest estudi del Rowell 2020 i el CRASH3 del 2019,
+donen la recomanació de fer servir l'àcid tranexàmic en pacients, estem parlant de pacients adults,
+pacients de més de 15 anys, amb un TC moderat greu.
+Aquí també parlen de la definició de moderat greu, depèn de quin organisme internacional estiguem parlant.
+Si l'OMS o la societat de neuro no sé què, t'agafen per exemple el Glasgow 13 o no te l'agafen.
+Les NICE te diuen que amb un Glasgow, un TC moderat greu, és a dir, amb un Glasgow menys de 13,
+entre 12 i 3, en un pacient adult, més de 15 anys, doncs li posis dos grams de tranexàmic.
+Més senzill que fer el gram i al cap de no sé quanta estona la resta i tal.
+Un bol de dos grams, fantàstic.
+Sí, una embolada de dos grams, que tampoc t'acaben de definir perquè no està clar,
+però si aquests dos grams els poses en 100 mil·lilitres de fisiològic i els passes en 10 minuts,
+o tranquil·lament fas una embolada de un minut o de dos minuts i se t'ha acabat el problema.
+Per tant, això és a criteri de cada servei o de cada professional, però la qüestió és que sí,
+si tens un TC moderat o greu, posem-li dos grams de tranexàmic, o sigui, a nivell de prehospitalari,
+això s'ha de fer abans de dues hores. Abans de dues hores, passat just el moment del TC.
+Més enllà de les tres hores, bé, no ho sabem. No sabem si serà beneficiós o no.
+També diuen que els efectes adversos del tranexàmic tampoc són gaire preocupants,
+però sí que et recomanen... el benefici s'ha vist si es fa abans de les tres hores del traumatisme.
+Per tant, a nivell extrahospitalari, si el vas a buscar tu amb l'USVA, ja l'hi pots posar.
+I si arriba a urgències i tal, abans de fer el TAC per descartar si té o no té lesió,
+o si és un Glasgow menys de 13, ja li pots posar una embolada de tranexàmic i continuem.
+Després, també sobre el traumatisme cranial, hi ha un altre organisme.
+Ara surto un moment de les NICE i me'n vaig a l'American College of Emergency Physicians,
+la societat americana de metges d'urgències.
+També han publicat ara al mes de maig del 2023, en el Annals of Emergency Medicine,
+un posicionament clínic.
+Han fet una revisió sistemàtica per resoldre tres situacions o tres dubtes que tenien concrets,
+dels quals n'hi ha dos que m'agradaria destacar.
+I són, per una banda, si hi ha alguna eina en aquells pacients que venen amb un traumatisme cranial lleu,
+dels que hem dit al principi, no? Ni ha perdut el coneixement, ni està amnèsic, traumatisme lleu.
+Si hi ha alguna eina, una mica sistematitzada, que ens ajudi a descartar aquells pacients
+que no necessiten una tomografia.
+El mateix que ens deia l'algoritme dels NICE, però aviam si hi ha alguna eina, un aplicatiu,
+unes normes, una regla que ens ajudi i això.
+Doncs aviam si hi ha alguna eina. I ells te recomanen, sí que n'hi ha vàries, lògicament,
+i ells te recomanen la Canadian CT Head Rule, que és el CCHR,
+que si vas a qualsevol pàgina web on hi hagi aquestes aplicatius digitals a internet,
+doncs ho trobaràs. Si vas a l'MDCalc, allà poses el Canadian Head Rule i allà ho trobaràs.
+I és una forma organitzada, sistemàtica, de veure tot, que tu li vagis dient sí, sí o si no,
+si té aquell factor de risc i ell te dirà, si tot li respons que no,
+t'ho dirà aquesta persona, no cal que li facis una tomografia.
+I això t'ho diu, amb això tens una sensibilitat, no és del 100%, perquè no hi ha res que sigui al 100%,
+però s'aproxima molt al 100%, amb el qual vol dir que no hi haurà cap persona
+que tenint una lesió intracranial clínicament rellevant, no se te n'escaparà cap.
+No hi haurà cap que et digui negatiu, li pots donar l'alta i després resulti que sí,
+que té una lesió intracranial clínicament rellevant.
+Té una sensibilitat aproximadament del 100%.
+I després hi havia un altre, ells van voler resoldre un dubte i és,
+en aquells pacients que venen per un traumatisme lleu, que no tenen cap complicació més,
+però que prenen anticoagulants o antiagregants, si és segur donar-los d'alta,
+aquells que hem dit, el considerem o no considerem fer-li un TC?
+Doncs en aquells que hagis decidit fer-los, veiem que la imatge no està informada,
+que hi hagi cap sagnat ni cap lesió intracranial, però el pacient pren sintrom.
+Doncs què fem amb aquest pacient? El deixem en observació o no el deixem en observació?
+Crec que en alguns serveis d'urgències aquests pacients es queden en observació
+i en alguns serveis no són observacions de 6 hores, 8 hores o 12 hores.
+Aleshores, ells van voler revisar això i van veure que no.
+Que en aquells pacients que abans, a través de les guies NICE, no tenien factors de risc,
+i deien, bé, considera-ho, no és necessari, però considera-ho si realment necessita una tomografia o no,
+doncs en aquests, si no hi ha res més i tu has considerat perquè has parlat amb el pacient
+o perquè no té un bon suport, no ho sé, o viu en lluny d'aquí, etcètera,
+si has considerat fer-li una tomografia i la tomografia és normal pel sol fet que prengui anticoagulants o antiagregants,
+no cal que es quedi en observació 12, 24 hores o les hores que siguin.
+Pot marxar cap a casa si no hi ha cap problema més.
+I això potser també és diferent del que tenim, em sembla.
+No sé què et sembla a tu, a veure si ho feu diferent en el teu servei o ja ho fèieu així vosaltres.
+Hi ha gran variabilitat professional.
+De totes maneres, això que... ja em comença a agradar aquest soroll,
+que sigui segur enviar gent que pren sintrom, que la majoria dels que prenen sintrom ja tenen una edat,
+i gent gran que pren sintrom no s'hagin de quedar a l'hospital em sembla un guany,
+perquè cada vegada que tenim un senyor o senyora gran a l'hospital a la nit, l'endemà s'ha despirulat.
+Sí, exacte, s'ha despirulat, hi ha infeccions nosocomials,
+fas servir un recurs que també... tampoc anem sobrat ni de personal ni de recursos.
+Si el pacient no ho necessita, doncs no ho necessita.
+En aquest, sobretot és això, són pacients que, independentment de l'edat,
+si són pacients que no han perdut el coneixement, no tenen amnèsia,
+i l'únic que els passa és que prenen anticoagulants, doncs considera-ho.
+I allò de l'aspirina, si tot i considerar-ho, tu li has fet una tomografia i no té un sagnat,
+si l'únic que li passa és que pren anticoagulants o antiagregants,
+doncs absolutament necessari que es quedi en observació, no ho és.
+Interessant, interessant.
+Reviseu-ho en les guies NICE, que hi ha un... us podeu llegir tot el text que són unes quantes pàgines,
+o anar a revisar l'algoritme, o el text de la revisió que han fet a la Societat Americana de Metges d'Urgències,
+que també tenim el text complet per llegir-lo, i es llegeix bastant senzillament,
+i ens donen aquestes recomanacions.
+Això de les guies NICE sí que es llegeix.
+Quan ho llegia pensava, dic, cony, on estan aquells textos infumables, aquells llençols que no s'acabaven mai,
+per aquí és punt, punt, punt, punt, punt, i directe, curt,
+això sí, molts enllaços a altres coses, però directe al gra, està molt guai això.
+Sí, estan bé. Aquesta gent les guies les fan molt bé.
+A mi m'ha cridat l'atenció, però no té res a veure amb nosaltres, que fan molta incidència com a nou,
+aviam si ho diré bé, hipopitu... no ho diré bé, passo.
+Allò que la pituitària després se'n va a fer punyetes, però sóc incapaç de pronunciar-ho això,
+que és una cosa desconeguda per mi fins ara, vaja.
+Sí, ells diuen que sí, que hi ha malalts que tenen lesió de l'hipotàlem, suposo que deu ser, o la hipòfisi,
+i són pacients que potser et  venen hipotensos, amb hiponatrèmia,
+després del traumatisme hi ha una alteració de la regulació hormonal a resultes del traumatisme,
+que no fa falta que sigui un traumatisme lleu, no és molt habitual,
+però fins i tot ho pots veure al cap de poques hores, del traumatisme,
+i per tant ho podem veure a urgències, que gent que dius, ostres, per què està hipotens? per què està hiponatrèmic?
+un TCE, que per lo que sigui, l'has deixat en observació,
+i que tinguis en compte que pot ser un problema de la hipotàlem o de la hipòfisi,
+però clar, després d'això s'ha de fer estudis amb cortisol i no sé què,
+i a urgències... la gent que està a urgències, els nivells de cortisol i tal no és el moment ideal d'estudiar-ho,
+ni tampoc tenim les eines, ni el laboratori ens diran... què estàs demanant tu?
+si vols demana-ho i ja t'ho donarem el resultat la setmana que ve,
+però sí que ens diuen que ho tinguem en compte,
+per tant, si el pacient ingressa o el pacient va al metge de capçalera al cap d'una setmana
+i continua hipotens, li fan un control de l'analítica i continua hiponatrèmic,
+doncs que algú s'adoni que pot ser un problema d'aquests.
+Mira, deixa'm per acabar el tema, volia fer-ho en plan conyeta, però no, ho faré seriosament.
+Aquí parlen molt del Glasgow, que si Glasgow de menys de 15, que si Glasgow de menys de 13, que si Glasgow de 8.
+Escolteu-vos l'episodi en què parlàvem del Glasgow.
+Aquí els Glasgow els engaltem de qualsevol manera i s'han de fer bé.
+I precisament aquest Glasgow 12 és un dels que probablement sigui més difícil d'encertar
+i que entre dues persones diferents ens trobem que a un li dona 14 i a l'altre li dona 12.
+Fixeu-vos-hi, hi ha els fulls d'ajuda per valorar el Glasgow que fan que ho objectivis molt millor.
+Fem-ho bé, si us plau, invertim temps aquí, perquè tots hem fet moltes cagades mesurant Glasgow malament.
+Mirem de fer-ho millor, va.
+Sí, sí, perquè almenys depèn de moltes algoritmes i moltes decisions que prenguis,
+no és el mateix tindre un Glasgow de 12 que de 13, per exemple.
+L'anirà que li posis a lo millor el tranexàmic o que no li posis. Sí, sí, és veritat Albert.
+Què més?
+Doncs va, jo crec que ja podem passar a la següent secció,
+que seguint l'ordre dels altres episodis toca parlar del menys és més.
+Del menys és més.
+I en aquest episodi el menys és més em toca a mi.
+Us portaré una iniciativa relacionada sempre d'aquest sector, de que fer menys és millor.
+En aquest cas és el Choosing Wisely Canada,
+és una recomanació que ve de l'Associació Canadenca d'Infermeres
+i de l'Associació Canadenca d'Infermeres de Cures Intensives.
+Llancen un paquet de cinc recomanacions, jo em quedo amb aquesta.
+No intenteu repetidament accessos intravenosos durant un esdeveniment de risc vital
+quan l'accés intraossi és accessible.
+Ens diuen que les situacions d'emergència els accessos intravenosos poden ser difícils d'obtenir,
+ja ho sabem això,
+que sovint les infermeres perdem molt temps intentant insertar vies perifèriques
+i que a vegades fins i tot es comencen a insertar catèters venosos centrals,
+però que si l'accés intraossi és accessible és molt més ràpid i molt més segur
+si es fa per personal entrenat.
+Ens donen diverses fonts.
+Aquestes recomanacions no ho he dit, és una recomanació del juliol de 2020
+i que per mi crec que encara és ben vigent.
+Recordeu, si no hi ha manera de pillar una via perifèrica ràpid, anem a la intraòssia.
+En aquesta llista hi ha altres recomanacions,
+una llista de cinc recomanacions que també són interessants
+No poseu ni deixeu posat un catèter urinari sense una indicació acceptable.
+No fem servir benzodiazepines per tractar el deliri.
+No fem servir com a primera instància les contencions mecàniques
+per evitar que la gent se'ns extubi o s'arrenqui en coses.
+I per últim, no... mira, lliga amb una recomanació del menys és més que vaig fent no sé quin episodi.
+Que no allarguem l'ús de les vies perifèriques o centrals
+sense una reavaluació diària si són necessàries o no.
+Doncs això, Choosing Wisely Canada,
+de les recomanacions de l'Associació Canadenca d'Infermeres
+i de l'Associació Canadenca d'Infermeres de Cures Intensives.
+Per això, Albert, que ens deies de l'accés de la via intraòssia,
+recordar que també ens sembla que ho vam parlar un dia en un blog,
+en algun pòdcast que hem fet.
+No n'estic segur, eh?
+Que si el pacient està conscient, el tema de l'analgèsia, lidocaïna i tal,
+perquè fer una infusió de líquid intraossi, si el pacient està conscient, fa molt de mal.
+Te'n recordes si en vam parlar, Albert, o no?
+Doncs jo al meu blog hi tinc un resum del que s'havia de posar.
+No sé si n'hem parlat. Em sembla  que alguna cosa...
+No em sona que n'hàgim parlat.
+Mira, va, ens apuntem. Hem de parlar de la intraòssia.
+Ho repassem i si no n'hem parlat, això està bé,
+perquè penso que molta gent ho desconeix o no en som conscients,
+que el pacient que està inconscient,
+perquè estem fent una reanimació en una aturada cardíaca i tal,
+doncs el pacient no és prioritari l'analgèsia.
+Però si és un pacient que té dificultat en una via perifèrica
+i l'únic que tens és una intraòssia, doncs abans de passar-li mig litre de sèrum
+o del que sigui per una via intraòssia, s'ha de fer una analgèsia... lidocaïna
+que té tota una estructura, una forma de fer-ho, que està bé conèixer.
+Hem de parlar de la intraòssia.
+És una de les coses bàsiques que ens toca parlar aquest any, també.
+Doncs ho farem.
+Molt bé. Doncs va, Xavi, vinga, anem a l'Urgemmot.
+En l'últim episodi havíem començat a fer un recull de termes
+que feien referència a diagnòstics o problemes de salut.
+Ja no parlem de, per exemple, signes o símptomes
+o estris que tenim pel servei d'urgències,
+no sé què hem fet alguna altra vegada, de fàrmacs, per exemple,
+sinó parlem de patologies i de diagnòstics i de problemes de salut.
+Per exemple, podríem parlar de la fasciïtis.
+En lloc de la fascitis, que hi ha diferents tipus,
+en lloc de la fascitis o facitis o digui com vulguis,
+el terme correcte és fasciïtis, amb una dièresi a la segona i.
+Fasciïtis.
+Què més?
+La fibril·lació auricular paroxismal.
+En lloc de dir-ne fibril·lació auricular paroxística,
+n'hauríem de dir paroxismal.
+Després, en lloc de parlar de...
+hauríem de parlar d'una hiperèmesi gravídica,
+la gestant que ve perquè està amb molts de vòmits continuadament,
+doncs parlem d'hiperèmesi,
+amb un accent obert a la segona E.
+Hiperèmesi gravídica.
+Un que ja havíem parlat, que és l'infart lacunar.
+En lloc de llacunar, n'hem de dir infart lacunar.
+El mal de muntanya.
+També en podem dir mal d'altura,
+però el terme més correcte i tal,
+el més recomanat pel TermCAT, és el mal de muntanya.
+I és més maco, també.
+És més maco, sí.
+Què més?
+La malaltia inflamatòria pelviana.
+En lloc de la malaltia inflamatòria pèlvica,
+n'hauríem de dir pelviana.
+I una infecció vírica de la pell que veiem molt freqüent en nens,
+que també en podem veure en adults,
+a regió pubiana relacionada amb malalties de transmissió sexual,
+que és el mol·lusc contagiós,
+que jo sempre n'havia dit moluscum, el moluscum contagiosum.
+Doncs en català és el mol·lusc, amb ela geminada, el mol·lusc contagiós.
+I fins aquí l'urgemmot de diagnòstics mèdics.
+El pròxim dia continuarem perquè anem per la lletra M
+i ens en queden 9 punts.
+Molt bé.
+Mira, jo no tinc cap urgemmot,
+però seguint amb la meva tònica activista,
+recordareu que en algun, ja no recordo quin episodi era,
+vaig parlar del projecte AINA,
+una iniciativa de la gene de Catalunya
+que aprofitava una eina prèvia del Common Voice,
+una eina de la Fundació Firefox,
+per tenir un corpus de veu per entrenar intel·ligències artificials
+i per tota una sèrie de qüestions.
+Bé, em sembla que ho havia recomanat diverses vegades,
+bàsicament tu havies de locutar uns textos,
+havies de gravar uns textos amb la teva veu
+i havies de validar el que havien gravat d'altres.
+Bé, doncs resulta que fa unes setmanes el Common Voice en català
+és la llengua més hores gravades i validades d'aquest projecte
+Ah, molt bé
+per davant de l'anglès.
+Molt bé
+Per tant, aquí l'armada catalana,
+allò que els de la Viquipèdia diuen The Catalan Army,
+que es veu que sempre que hi ha una trobada viquipedista pel món
+apareixen una quantitat enorme de catalans a donar guerra,
+doncs també donem guerra en això.
+Estem parlant d'hores.
+Ni el número de persones ni el número de frases gravades
+guanyen els anglesos, els anglòfons,
+però el número d'hores, els catalans anem primer.
+Ara hauríem d'apretar una miqueta més
+a veure si ja passem davant amb número de frases,
+en número de parlants és una miqueta difícil,
+ens porten quatre vegades...
+Això vol dir també que estem motivats,
+si amb quatre vegades menys gent fem més, ens hi posem.
+Els catalans fem coses, doncs mira, els catalans fem coses.
+És una de les coses que fem.
+Molt bé, molt interessant. Molt bé
+Jo si vols tenia també una recomanació.
+Vinga, fot-li.
+Penso que... Penso que no l'hem fet,
+però si l'he fet ara la recordo.
+És el dianasalut.
+Et sona si l'hem fet Albert, una cosa que es diu dianasalut?
+No, no, no.
+El dianasalut.com és una pàgina web
+que és una iniciativa que significa
+divulgación de iniciativas para analizar la adequación en salud.
+Jo segurament ho he comentat alguna vegada,
+perquè quan fem el menys és més,
+moltes iniciatives d'aquestes les trobo en el dianasalut.com.
+Això és una iniciativa iniciada, una cosa que es diu el Ciberesp,
+que és un centre d'epidemiologia, de salut pública a Espanya,
+emparat en l'Institut Carlos III,
+en el qual intervenen diferents hospitals,
+com el 12 de octubre, Ramón y Cajal, Cruces de Baracaldo,
+l'Hospital de Donosti, Sant Sebastià,
+una altra d'Alacant, el Miguel Hernández,
+l'Hospital Vall d'Hebron i l'Hospital Santa Creu i Sant Pau de Barcelona,
+que dintre d'això és el coordinador de la iniciativa MAPAC.
+El MAPAC, que crec que en vaig comentar un dia,
+és l'acrònim que significa
+Mejorar la Adequación de la Práctica Assistencial y Clínica.
+I mejorar la adequación és el que estem intentant
+amb això del menys és més,
+és no fer coses que... diagnòstics, proves complementàries,
+tractaments en salut, que sabem que no aporten res de bo
+als pacients i inclús que poden ser perjudicials,
+i que fem de forma sistemàtica.
+Per tant, són totes iniciatives, com aquests menys és més,
+que ens diuen, i això en algun cas puntual,
+si us requereix, ho feu, fem-ho,
+però de forma sistemàtica, no.
+Aleshores, a través del Dianasalud,
+podem accedir a totes aquestes recomanacions del MAPAC
+de l'Adequació de la Pràctica Assistencial i Clínica
+i ho fem a través del Dianasalud.
+Aquest Dianasalud té un buscador molt senzill
+en el qual pots posar diferents filtres
+i diferents cerques bàsiques.
+Tu li poses un o dos termes que vols buscar,
+poses traumatisme cranial,
+o poses el que vulguis, aspirina,
+o poses el que estiguis buscant,
+i després pots triar, o si vols, no poses res més, i te dirà de totes...
+Ell fa una cerca en moltes pàgines web
+on tenen iniciatives d'aquestes,
+com l'Essencial del Gencat,
+diferents. Per exemple, el Choosing Wisely,
+del Canadà, d'Austràlia, del Japó,
+d'Anglaterra, d'Holanda,
+què més? La Cochrane també fa recomanacions
+d'aquestes similars al Menys és Més,
+l'Essencial, que ja ho hem dit del Gencat,
+el Less is More del Jama, les NICE,
+la SEMFIC fa també unes recomanacions que en diu
+No Hacer. Bé, hi ha molts organismes internacionals
+que es dediquen a fer aquest tipus de recomanacions
+de no fer, de Less is More, de Menys és Més,
+i això és un buscador, és com un metacercador
+que tu a partir de... li poses
+un interval de temps, els últims 5 anys,
+i li poses dos o tres termes de cerca que vulguis
+i ell te dirà les recomanacions
+internacionals d'aquests... molts organismes
+que facin sobre aquella cerca que tu li estàs fent.
+I jo... moltes, moltes recomanacions de les que fan
+o que diem aquí a l'EMpodcat, doncs les trec del DianaSalud
+Moltes, me surten, jo faig la cerca aquí
+i m'hi surten moltes de l'Essencial, que són les recomanacions
+de l'Agència d'Avaluació i Qualitat Sanitaris de Catalunya,
+que és l'AQUAS, doncs em surten aquí.
+Si teniu interès o veure què hi ha de nou,
+a part del que nosaltres anem donant,
+si teniu interès, podeu anar
+a aquest buscador, a aquest cercador,
+i és fàcil de trobar. I això és tot.
+Jo ni confirmo ni desmenteixo que el Menys és Més d'avui
+l'he trobat a través de dianasalut.com.
+És un molt bon sistema.
+Va, i la meva recomanació d'aquest episodi és una recomanació
+visualment molt antiga.
+És un lloc web que es diu intranasal.net
+i és una web estèticament lamentable.
+Ja pels anys 90 devia ser fins i tot antiga.
+De les pàgines de web de quan Google
+encara no existia, perquè us feu una idea
+del que estem parlant.
+I es diu com? Intranasal què?
+Intranasal.net. De fet, és que estèticament és tan lamentable
+que he anat a mirar i dic, a veure si està morta aquesta pàgina
+i no, no, tenen actualitzacions de l'any 2020, o sigui que
+tan morta no està. I per què es recomana una cosa
+tan estèticament lamentable? Doncs perquè està molt bé.
+Qualsevol dubte que tinguis de l'ús
+d'aquesta via d'administració de medicació, de la via intranasal,
+el trobaràs aquí. És en anglès,
+no hi ha un cercador, però sí que hi ha
+una sèrie de seccions pel qual et pots acostar
+al concepte que t'interessi i tot el que tingui a veure
+amb la via intranasal ho trobaràs aquí.
+Evidentment, nosaltres quan pensem en via intranasal pensem en
+la sedació de la canalla, pensem en l'ús
+d'analgèsia, però trobarem de tot.
+L'ús de naloxona intranasal... Als Estats Units
+que tenen aquests problemes amb l'epidèmia d'opiacis
+ja tenen presentacions per fer-les intranasals.
+Bé, francament, qualsevol cosa que
+necessitis saber de l'ús d'aquesta via, doncs aquesta pàgina
+necessitaràs, això sí, necessitaràs una certa
+tolerància a qüestions estètiques.
+S'ha de reconèixer que és bastant lamentable visualment.
+Però el contingut és espectacular.
+Albert, evidentment no té res a veure, però quan m'has dit
+això que no hi havia un buscador, no hi té un cercador,
+aquesta pàgina web, hi ha un sistema, és molt fàcil
+de fer una cerca a qualsevol pàgina web
+que no té un cercador,
+que és el buscador de Google,
+per exemple, qualsevol buscador d'un navegador. Tu li poses el terme de cerca
+que vols fer, per exemple, poses midazolam, aquest terme, o varis,
+després li poses site,
+dos punts, intranasal.net,
+i ell te fa la cerca d'aquest terme que tu li hagis posat
+a la web que li has dit, i això li has dit amb el site.
+Jo he posat, per exemple, midazolam, un espai,
+i després escrius site, dos punts,
+i la pàgina web, intranasal.net,
+i ell te fa una cerca a dintre d'intranasal.net
+de tot arreu on hi ha la paraula midazolam.
+És una forma fàcil de fer una...
+Quan trobis una pàgina web on no hi ha un cercador,
+ho fas així. 
+Molt bé, doncs mira, ja li acabem de posar
+un cercador a aquesta pàgina sense que ells ho sàpiguen.
+Doncs escolta, ja hem acabat aquest 26è episodi.
+Qualsevol queixa,
+suggeriment, al nostre grup de Telegram ens trobareu.
+Recordem que estem molt interessats
+que ens vingueu a explicar coses. Aquells que tingueu
+algun interès, algun coneixement que vulgueu compartir,
+estem aquí per escoltar-vos.
+Fantàstic.
+Vinga, que vagi molt bé, a la propera
+Vinga, fins la propera, adeu siau.
