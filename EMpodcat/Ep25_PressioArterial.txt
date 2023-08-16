@@ -1,0 +1,734 @@
+EMpodcat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvinguts a un nou episodi de l'EMpodcat.
+Com sabeu, és un espai on conversem sobre temes d'urgències i emergències sanitàries.
+I sabeu que som un equip una mica multidisciplinari i multicèntric.
+Normalment som dos professionals d'urgències, que per un costat tenim l'Albert Homs.
+Hola Albert, què tal?
+Hola, bon dia.
+Va, presenta't una miqueta.
+Jo sóc l'Albert, sóc infermer d'urgències i emergències.
+Ara que sembla que això de l'especialitat torna a bellugar-se, una altra vegada.
+En aquests moments treballo a l'Hospital Transfronterer de Cerdanya i a l'unitat SEM del territori.
+I tinc un blog, que és emermedpirineus.cat.
+També estic per un mateix nom a Twitter i a mastodont.cat.
+Doncs Jo sóc en Xavi Basurto i tenim un blog que és el urgem.cat.
+I bàsicament ens podeu... si us interessa, a través del blog o a través del Twitter, que és arrova urgemcat,
+allà anem publicant coses que ens semblen interessants i que ens agrada difondre.
+El tema de l'especialitat d'urgències, no sé com està, però ara, com que hi ha de tornar a haver eleccions
+i hi haurà canvis del " Gobierno de España", no sé si això canviarà o no.
+Jo, fins que no surti la primera promoció, no m'ho creuré.
+De fet, si comptéssim des que van començar a parlar d'això, la primera promoció ja gairebé s'estaria jubilant.
+Probablement, probablement.
+Però bé, no sé, que no es perdi l'esperança.
+Bé, avui, Albert, em sembla que ens tenies un tema interessant per explicar-nos.
+És un tema que veiem cada dia i utilitzem cada dia.
+Penso que com a tal, és important que sapiguem exactament què estem fent i va en relació al tema de la tensió arterial,
+què mesurem amb la tensió, com ho mesurem i si realment ens en podem fiar o no ens en podem fiar.
+Va d'això, Albert, el que ens vols explicar?
+Correcte. De fet, és...
+No hem comentat que tenim un grup de Telegram d'aquí... de l'EMpodcat, el pòdcast aquest que esteu escoltant.
+Té un lloc web que és empod.cat i tenim un grup de Telegram.
+I del grup de Telegram, quan vam acabar la segona temporada, hem preguntat a la gent,
+a veure, als nostres oients, a veure què els venia de gust, que parléssim i com havíem de fer-ho i això.
+I una de les coses que hem demanat és si volíem que parléssim de qüestions bàsiques.
+Doncs bé, aquest és el primer. Parlarem d'una qüestió bàsica, com és la pressió arterial.
+No et van dir, ja que preguntem això en el Telegram,
+no hi havia ningú que volgués parlar d'algun tema ell o ella personalment en el blog?
+Ho dic per convidar ja explícitament a la gent que li sembla que té alguna cosa interessant a explicar-nos,
+que nosaltres estem encantats.
+La gent és molt tímida, no sembla que s'atreveixin.
+Però nosaltres som bona gent, no mosseguem ningú i la veritat és que tots els convidats que hem tingut han acabat contents.
+Bé, això ens han dit. Va, vinga, comencem.
+Mira, això ho trobareu escrit al meu blog.
+Tinc una entrada que parlo d'això, amb aquest... amb l'àudio d'avui, ho ampliarem una miqueta.
+La qüestió és que la majoria de nosaltres, els nostres serveis fem servir aparells de pressió arterial automàtics.
+Posem el braçal pneumàtic al braç del pacient, apretem un botó i ens dona un número.
+I aquest número que ens dona, aquesta pressió arterial que ens dona,
+és una informació bàsica per a l'atenció de pràcticament totes les patologies i de pràcticament tots els pacients.
+I convé saber una miqueta de què estem parlant quan parlem de pressió i com funcionen tots aquests aparells.
+Dedico un minutet o dos a parlar de què és això de la pressió arterial,
+perquè és una informació important a saber i sobretot del que se'n deriva quan aquests números no són correctes.
+La manera senzilla d'explicar això de la pressió arterial és la força que fa la sang,
+el líquid que tenim dins les canonades, les nostres artèries en aquest cas.
+Han mort diversos gatets després d'haver fet aquesta definició tan simple.
+Podem comparar amb un sistema de calefacció.
+En el sistema de calefacció tens l'aigua que corre per dins les canonades i les canonades que sostenen l'aigua.
+Si tu fiques més aigua, puja la pressió dins d'aquestes canonades.
+Aquí s'acaba l'analogia amb el sistema de calefacció,
+perquè el sistema de calefacció té una bomba que belluga l'aigua sempre a la mateixa pressió,
+mentre que el nostre sistema circulatori, la bomba és pulsativa.
+Tenim el cor que va empenyent. Per tant, la pressió no és constant.
+Aquesta força que fa la sang contra les parets de l'artèria no és constant.
+En algun moment d'aquesta pulsació del cor, aquesta pressió puja un màxim i arriba a un mínim.
+Tenim una ona de pols que es transmet al llarg de l'artèria.
+Doncs bé, la pressió arterial és com canvia la força d'aquesta sang contra les parets de l'artèria al llarg de tot aquest cicle.
+La forma de mesurar la pressió arterial, doncs n'hi ha diverses.
+La que n'hi diríem el "gold standard", la forma més precisa, i d'aquella manera també, és un catèter arterial.
+Habitualment es punxen a les artèries radials, tot i que tenim pressions arterials mesurades a diferents llocs,
+en funció d'on arribi el teu catèter.
+Habitualment, els catèters aquests, per mesurar la pressió de forma invasiva,
+és una agulla que es punxa a l'artèria radial i deixes un catèter a dins.
+També es pot fer a la femoral i potser en algun altre lloc, que no se m'acut ara.
+Tenim una mesura pràcticament instantània, no sé quantes vegades per segon,
+de la pressió que fa la sang contra el sensor que té tot aquest sistema de pressió arterial invasiva.
+Suposo que tothom n'ha vist algun, però per als que no ho hagueu vist,
+bàsicament aquest sistema és una bossa pressuritzada que té sèrum per evitar que quedi sang dins el sistema.
+Aquesta bossa va degotant, mica en mica, una miqueta d'aquest sèrum per netejar tot el circuit
+i que no se'ns coaguli a la punta del catèter.
+En una part d'aquest sistema tenim un sensor que mesura la pressió, la força que fa, que hi ha dins de tot aquest sistema.
+És a dir, bàsicament el que fem és transmetre via la tubuladura del catèter i tot aquest sistema de sèrum.
+Transmetem aquesta pressió al sensor.
+Aquí normalment on hi ha el sensor també hi ha aquella tira de goma que tibes per fer la neteja,
+per netejar el sistema i que sigui precís.
+I això ens va donant aquest valor de forma, no sé quantes vegades per segon ho fa el mostreig,
+i ens dona un valor.
+I aquest valor la nostra pantalla ens el va dibuixant.
+Això a urgències ho veiem ben poc.
+No és gaire habitual.
+I haig de dir que és el sistema més precís que hi ha.
+Té les seves mancances, que algun dia potser buscarem algú de la UCI que ens expliqui coses,
+perquè la UCI sí que es fa servir.
+És molt estrany que un pacient fotudet a la UCI no porti una pressió arterial invasiva.
+A quiròfan també es fa servir, tot i que la majoria de vegades surten de quiròfan sense.
+I pel que vaig veient és molt probable que això que a urgències no ho veiem gaire,
+veient com evolucionen les guies de reanimació,
+no descarto que en un temps no massa llunyà acabem posant catèters arterials amb més freqüència
+i tinguem dispositius per mesurar-ho.
+Això que n'hi diuen la reanimació hemodinàmica,
+i demès... necessites saber les pressions arterials diastòliques,
+tota una sèrie de coses que algun dia buscarem un expert en reanimació que ens expliqui el que vindrà a futur.
+Però de moment ho veiem poc.
+El tema que no ho fem servir habitualment a urgències, per què és?
+Perquè són dispositius molt cars o molt complexos d'utilitzar?
+O posar el catèter arterial és complicat?
+O és molt costós de temps?
+O per quin motiu no ho fem servir?
+Jo crec que és molt cultural.
+Perquè sí, posar el catèter arterial és una miqueta més difícil que posar una via perifèrica,
+però amb l'ecografia ja no ho és tant.
+El sistema és car?
+Home, val els seus diners, però no serà que no fotem servir coses cares cada vegada.
+Jo crec que és més una qüestió cultural, que bàsicament als nostres serveis d'urgències no hi tenim els especialistes
+que fan servir això de forma habitual.
+No hi tenim anestesistes que necessiten la seva pressió arterial per mesurar com tenen el pacient segon a segon,
+ni tenim el personal de cures intensives, que això és bàsic per ells.
+Com que no tenim...
+Aquí jo crec que si tinguéssim una especialitat i ens forméssim com toca, ho faríem més.
+De fet, hi va haver una època, recordo, que els equips SAMU tenien bastant per costum...
+Bé, de fet, les seves ambulàncies portaven...
+No totes, eh? Portaven equips per mesurar la pressió arterial invasiva en transport.
+Aquí podríem discutir si és massa complicat, no tots els pacients ho necessiten i demès.
+Però això és una altra història.
+Jo penso que el motiu pel qual no ho tenim és bàsicament una qüestió cultural.
+I pregunto, no en tenim prou amb el que tenim?
+O sigui, amb una tensió arterial no invasiva no fem prou? No és suficient?
+Doncs ara anem al gra, ara anem al gra.
+Clar, la pressió arterial invasiva, quin problema té?
+Cony, que hem de fotre un catèter i la gent no va pel carrer amb catèters a la seva artèria radial.
+De fet, les primeres formes de mesurar la pressió arterial no eren amb un catèter.
+S'han fet diferents mètodes.
+I ara fem un repàs ràpid de l'antiguitat, de com es mesurava això a l'antiga,
+que pel que em consta hi ha escoles d'infermeria que ja no estan ensenyant com fer-ho, això.
+De tant en tant trobes algun estudiant que et mira amb cara de...
+Eh? Què m'estàs demanant?
+Perquè ara ja tots anem amb maquineta.
+Si dius manual, hi ha algú que es queda parat, no? De dir manual?
+Què vols dir manual?
+Exacte, manual. I per què anem dient manual?
+Doncs perquè l'aparell que fem servir l'operem manualment, amb els dits fem coses.
+El mètode més habitual i que encara és recordat és el que en diuen el mètode auscultatori.
+Bàsicament tu poses un braçal.
+La posició del braçal és important, en parlem després.
+Tu poses un braçal, habitualment al braç, per això es diu braçal, oi?
+Agafes un fonendo, el poses sobre la sofraja del braç, damunt d'un creus que passa l'artèria braquial,
+fins i tot podries palpar-ho.
+Infles aquest braçal pneumàtic fins al nombre que creguis oportú.
+Habitualment puges a 200 mil·límetres de mercuri, ja comencem a parlar de xifres aquí.
+I auscultes el lloc, la sofraja del braç, aguantes allà la campana del teu fonendoscopi,
+escoltant, i comences a fer baixar lentament, comences a fer baixar la pressió del braçal i vas auscultant.
+I en algun moment se sent un soroll.
+És el primer soroll de Korotkoff, n'hi diuen a això.
+Els sorolls de Korotkoff, una altra cosa també... això és història de la medicina.
+Escoltes un soroll. El moment que escoltes aquest soroll, això és la pressió arterial sistòlica, la màxima,
+la que correspon al moment en què tota la sang ejectada pel cor arriba, aquesta ona, arriba al lloc on tu estàs mesurant.
+Segueixes baixant de mica en mica la pressió del braçal i arriba un moment en què es deixa de sentir el batec,
+es deixa sentir el pum, pum, pum.
+Això és el, no sé quin soroll és de Korotkoff, perquè pot ser que no el deixis de sentir,
+sinó que canvia la tonalitat d'aquest so.
+És el moment en què hi ha aquest canvi de tonalitat o es deixa de sentir que correspon a la pressió arterial diastòlica,
+és a dir, la pressió arterial mínima del sistema.
+Tu pots seguir sentint el soroll fins que la pressió arribi a zero, però evidentment la pacient no està en una pressió de zero.
+Aquest és el mètode que s'ha fet servir històricament.
+Abans del mètode auscultatori es feia servir, abans de fer servir el fonendo,
+de fet encara ho fem servir a vegades, és el mètode palpatori.
+És a dir, tu busques un pols, normalment a la radial, infles el teu braçal pneumàtic fins que el deixes de sentir
+i llavors comences a baixar.
+I en el moment en què notes el primer batec, la pressió que tu veus en el teu disc, en la teva roda del manòmetre,
+i notes el primer batec, aquella és la pressió sistòlica.
+Per mesurar pressions sistòliques aquest mètode és molt funcional.
+Problema: has de prendre un pols radial.
+Per tant, primer hi ha d'haver un pols radial, per tant, en pressions molt baixes, número indeterminat és molt difícil
+i has de mesurar un pols radialment.
+Si us recordeu de les formacions de suport vital bàsic que t'estan dient que mesurar el pols,
+si no estàs entrenat a fer-ho, és molt poc fiable.
+Doncs aquí també és poc fiable.
+I he llegit que es podia determinar la pressió arterial diastòlica en palpació,
+posant la mà a la sofraja i notant com canviava la qualitat del pols i tal... ho he estat llegint i estaves incapaç d'aconseguir-ho cap vegada.
+Si algú sap fer-ho, que ens ho expliqui. Jo em quedo amb que puc mesurar una sistòlica per palpació
+i puc mesurar una sistòlica i una diastòlica auscultant.
+Això és el que fins ara tothom ha entès per pressió arterial.
+Sempre entenem una sistòlica i una diastòlica, una màxima i una mínima,
+perquè la pressió, la força que exerceix la sang dins les canonades,
+té un pic màxim quan surt tota de cop del ventricle i un moment mínim, que és quan ja s'ha... tota aquesta onada ha passat.
+Però és que aquest número és relativament, és important, evidentment,
+però no és el que determina totes les qüestions fisiològiques que venen darrere.
+Hi ha un número que és important en fisiologia, que és la pressió arterial mitjana.
+Per què és important? És important perquè és el que determina fins on arribarà aquesta sang.
+Quina força tindrà aquesta sang quan arribi als teixits.
+Ara han mort no tres gatets, ara n'han mort sis després d'aquesta explicació que hem fet.
+Aquest número ve determinat per la quantitat, aquí ara faré matemàtiques difícils, seguiu-me, seguiu-me.
+Us enrecordeu que us he parlat de la pressió arterial invasiva que dibuixa,
+quan tenim una pressió arterial a llarg del temps, se'ns dibuixa una ona.
+Aquesta ona, habitualment, té una pujada molt vertical, amb una pendent, amb un empit molt dret,
+i una baixada que ja no és tan dreta. De fet, estem més temps, estem dos vegades en diàstole,
+és a dir, omplint-se els ventricles, que en sístole, que és quan el ventricle es buida.
+Doncs, en la sístole, és a dir, el moment que el ventricle es buida, l'empit és molt dret,
+puja molt de pressa, però a la diàstole, la baixada és més lenta.
+I força sovint ens trobem que mitja baixada, a una certa distància del pic màxim, hi ha una petita pujadeta,
+això li diuen la ona dicròtica, em sembla, que correspon al moment en què es tanquen les vàlvules
+i llavors acaba de baixar fins al mínim, que és la pressió diastòlica.
+Si? Tenim al cap aquesta muntanyeta dibuixada?
+Doncs bé, la línia que separa la mateixa quantitat de superfície sota aquesta corba,
+És a dir, si agaféssim la muntanya, partiríem la meitat per dir que hi ha mitja muntanya a baix i mitja muntanya a dalt,
+però no amb alçada, sinó amb superfície total.
+Una miqueta complicat d'entendre, al meu bloc hi ha el dibuixet que ho explica, que és aquí es veu molt més clar.
+És a dir, no és agafar la mitjana aritmètica, si tinc 100 i 50, doncs és 75. No.
+Hi ha fórmules per calcular-ho en base a saber la pressió sistòlica i la diastòlica.
+N'hi ha vàries. La que fem servir la majoria de nosaltres és la que agafa la sistòlica,
+suma dues vegades la diastòlica i ho divideix a 3.
+No és del tot perfecta, hi ha algunes correccions, però és la que fem servir tots perquè és la més senzilla.
+Aquesta que hem dit de 100 de sistòlica, 50 de diastòlica,
+si fem la mitjana aritmètica és 75, doncs aquí seria 100 de sistòlica, 50 de diastòlica, més 50 de diastòlica,
+això són 200, ho divideixo a 3 i em surt seixanta... A veure, deixa-m'ho comptar... 66,6 període.
+D'acord? tinc una pressió arterial mitjana de 66.
+És la fórmula que tenim per calcular-ho tenint una sistòlica i una diastòlica.
+Aquesta és la pressió que en molts processos fisiològics és important.
+Una de les coses que... si mai algun dia parlem de traumatisme cranioencefàlic,
+una de les qüestions fisiològiques importants és la pressió de perfusió cerebral,
+que és agafar la pressió arterial mitjana, aquesta que acabem d'explicar ara,
+i restar-li la pressió intracranial, i llavors saps quin diferencial de pressió
+arribarà a la sang allà per poder difondre el seu oxigen.
+Hem introduït aquí el concepte important, pressió arterial mitjana.
+Aquest és el número que segurament hauríem de fer servir sempre,
+més que la pressió arterial sistòlica i més que la pressió arterial diastòlica.
+I aquest número durant molts anys no es feia servir perquè l'havies de calcular respecte a com ho mesuraves.
+L'exemple típic d'això és la persona que està a 100 de sistòlica i a 35 de diastòlica.
+Fem 90 i 35, que potser és més creïble.
+Aquesta persona té una pressió... tu veus el 90 i dius, home, està una miqueta justa,
+però el 35 t'està dient que la cosa va de mal borràs.
+Tens una pressió arterial mitjana força baixa.
+No l'he comptat, però no el podríem comptar.
+90 i 70 són 160, partit de 3 són 50 i pocs.
+És una pressió arterial mitjana per sota de 65, que és un número que fem servir de referència.
+A pressions arterials per sota de 65 tindrem algunes zones hipoperfoses.
+A pressions arterials per sobre de 65 tot el cos està relativament ben perfós.
+Jo, Albert, normalment faig servir una aplicació en el mòbil que és el MDCalc.
+I en aquest també, com en moltes, hi ha eines que són fórmules.
+I ells fan servir, que no sé si és exactament el que abans de dius tu,
+que és la pressió arterial mitjana,
+ell diu que és la suma de la sistòlica dividit per 3, més
+la diastòlica multiplicat per 2 i dividit per 3.
+I si tot això ho multipliques per 3 et dona que una sistòlica més dues diastòliques partit a 3.
+Sí, sí. El que acabes de dir tu és la manera formal.
+De fet, la manera formal d'aquesta fórmula és
+la pressió arterial mitjana és la diastòlica més un terç de la pressió de pols.
+On la pressió de pols és la sistòlica menys la diastòlica.
+Per complicar-ho una miqueta, total, si fas els números acaba sent això.
+Pressió arterial sistòlica més dues vegades la diastòlica, tot això partit a 3.
+És la fórmula de Gauer, aquesta se'n diu ara.
+També s'ha de dir que sembla que no és la més precisa de totes,
+no és la que més s'hi acosta.
+Hi ha una que compensa això afegint-li dos o tres mil·límetres de mercuri més.
+És així una miqueta, ja veiem que és una miqueta imprecís això.
+De totes maneres, suposo que ens podem refiar, no?
+Si tens un pacient monitorat i se li va mirant la tensió arterial,
+el mateix aparell ja et va dient la tensió arterial mitjana que...
+Vull dir que amb això ja ens podem refiar, no?
+No cal que anem fent càlculs matemàtics al mig de la guàrdia.
+No has de fer els càlculs, la màquina te'ls dona.
+I de fet, i aquí és el motiu de l'entrada,
+les màquines automàtiques de mesurar la pressió
+no fan res de tot el que hem explicat fins ara.
+Ni registren, evidentment, l'impuls directe de pressió,
+directe de la sang contra el sensor,
+perquè evidentment no són invasius,
+ni mesuren la pressió màxima ni mesuren la pressió mínima.
+El que fan aquestes màquines és: posem el braçal, puja i baixa la pressió.
+El que estan mesurant contínuament és com oscil·la aquesta pressió
+que ells tenen en aquell moment, com va oscil·lant respecte el temps.
+És a dir, quan la sang en el moment de sístole passa per dins el braç,
+es produeix un augment de volum del braç.
+Imagineu-vos el que estem parlant.
+Una artèria braquial, per exemple, que deu mesurar?
+No arribarà pas al centímetre de diàmetre ni de bon tros.
+Doncs, quan ve la sístole, aquests pocs mil·límetres que es dilata l'artèria
+augmenten una misèria el volum del braç.
+Com que augmenta aquest volum del braç, el nostre braçal detecta aquest augment de volum
+amb un augment de pressió. I a la maquineta nostra el que detecta és com va oscil·lant
+aquesta pressió, que no és lineal, va pujant i baixant,
+és a dir, fa un mostreig durant el temps i va veient com la pressió que ell té assignada
+va fent unes petites oscil·lacions, una vibració.
+Doncs, el moment de màxima amplitud d'aquesta oscil·lació
+és el moment de pressió arterial mitjana.
+La nostra màquina que fa? Puja a una pressió màxima on no detecta cap oscil·lació
+perquè la pressió és tan alta que la pressió arterial és incapaç de travessar
+i va baixant mica en mica, mica en mica, mica en mica.
+Cada vegada, com que la pressió és més baixa, la pressió arterial va compensant
+i arriba un moment en què ja travessa tota la llargada del braç.
+Cada batec anirà fent oscil·lar lleugerament aquest sensor del braçal
+fins que arribarà un moment que deixarà d'oscil·lar perquè ja tota la sang passarà lliurement
+perquè no hi ha cap obstrucció.
+Doncs, el moment de màxima oscil·lació d'aquesta petitíssima oscil·lació
+és la pressió arterial mitjana.
+És a dir, realment el que està mesurant la màquina automàtica és la pressió arterial mitjana.
+No ens mesura ni una sistòlica ni una diastòlica.
+Però, en canvi, quan mirem el nostre monitor, doncs, et sortirà una sistòlica,
+una diastòlica en gran i després allà entre mig d'uns parèntesis un numeret,
+que és la pressió arterial mitjana.
+Doncs, la pressió arterial mitjana és el que ha mesurat el nostre aparell.
+D'on treu la sistòlica i la diastòlica?
+Doncs se les inventa
+En base a algorismes que ha fet el fabricant, doncs, agafa i diu,
+doncs, mira, per una arterial mitjana de 50 li corresponen una diastòlica de 50 i una sistòlica de 100.
+M'he inventat els números, no els he calculat ara mateix.
+Realment, el número que ens està donant de sistòlica a diastòlica és, no diré que inventat,
+perquè, evidentment, s'han fet càlculs, però és un número calculat, no és un número mesurat.
+El que és mesurat és la pressió arterial mitjana.
+Això, com que parlem de magnituds de números que no són molt grans,
+doncs, tampoc és una cosa especialment rellevant.
+Però, és clar, si nosaltres decidim que a una persona li hem de posar noradrenalina
+perquè està a 64 de pressió arterial mitjana o està...
+És igual, perquè està a 59 de pressió arterial mitjana i a 60 no decidiríem posar-li.
+Conyo, és només un, compte amb això.
+Sí, però hi ha indicacions que sí que et refies de la sistòlica o de la diastòlica puntual més que de la mitjana.
+Per exemple, si tens una emergència hipertensiva,
+doncs, potser depèn de quines xifres de tensió sistòlica o diastòlica li posaràs, no sé, un labetalol endovenós,
+o no li posaràs, no tant de la mitjana.
+I aquí, en aquest cas, la sistòlica és inventada, calculada, perdó.
+Què passa amb això? Es fan servir algorismes.
+No han agafat un tio, s'ha llepat el dit i ha anat mirant amb un ull tapat i ha dit: tant.
+Això s'ha mesurat i, com ja vam explicar en el seu dia de la pulsioximetria, s'ha mesurat amb voluntaris sans.
+I a sobre s'ha comparat, en comptes de comparar-ho la majoria de vegades,
+en comptes de comparar-ho amb pressions arterials invasives,
+que és el gold estàndard, que és el que mesura realment el que hi ha,
+es mesuren amb pressions arterials mesurades amb el mètode auscultatori.
+Que ja és imprecís perquè necessites algú amb el fonendoscopi escoltant.
+O sigui, anem acumulant imprecisions.
+D'això de la pressió arterial auscultatòria a l'ambulància és inútil.
+Amb el soroll que hi ha no pots escoltar res.
+I al servei d'urgències també és bastant inútil,
+perquè la veritat és que serveis d'urgències silenciosos pocs també.
+L'avantatge del mètode, aquest oscil·latori que se'n diu, el mètode automàtic,
+és que aquí el soroll és relativament poc important.
+Per cert, deixa'm fer un apunt, una tonteria.
+Fa uns quants dies vam tindre una estudiant francesa
+que comença ara al setembre la carrera de Medicina
+i el treball de recerca era, curiosament, mesurar,
+primer mesurar quin era el nivell de soroll que hi havia als serveis d'emergències
+i quin impacte podia tenir.
+I com que has parlat això ara, se m'ha vingut a la memòria,
+i com que ja el deu haver presentat i tot això,
+a veure si li dic que ens l'enviï o li podem fer una mini-entrevista un dia d'aquests
+i que ens expliqui, perquè a mi em va explicar alguna cosa
+i em va semblar interessant i preocupant
+el nivell de soroll que tenim a urgències
+i la implicació que això pot tindre en molts aspectes.
+I tant. He sentit deliri per aquí?
+Sí, sí, no, no. Va, res més. Continua, Albert, perdona.
+Doncs això, que ens trobem que la validació del que mesura la màquina
+ve determinada per un mètode que tampoc és excessivament precís.
+Està mesurat amb voluntaris sans.
+A més a més, perquè et donin les autoritzacions,
+el requeriment de l'agència d'autorització tampoc és que sigui un escàndol de precisió
+i no et demana que quadris al 0,0.
+Amb la qual cosa, hòstia, tenim uns números així una miqueta brfff...
+Llavors hi ha hagut gent, hi ha hagut savis que s'han dedicat a mesurar realment quin impacte té això.
+Pots fer-ho fàcil, bé, fàcil no hi ha res fàcil per investigar en aquest planeta,
+però a l'UCI que tens gent amb un catèter arterial,
+doncs els pots anar posant el braçal i comparar.
+I, no ho sé, a l'entrada del bloc vaig destacar un estudi d'un tal Kaufman
+que aquest estudi el que fa és agafa una pila de mesures
+i mira quina dispersió hi ha respecte a aquest gold estàndard que seria la pressió arterial invasiva.
+Doncs resulta que el que menys se'n va del valor que li correspon,
+és a dir, jo mesuro una sistòlica i la comparo respecte a la sistòlica invasiva,
+doncs això se me'n va a una certa distància.
+Doncs el que menys se'n va d'aquesta distància és la pressió arterial mitjana.
+I la pressió arterial mitjana és el número més precís,
+com d'altra banda també és normal, és el mesurat,
+respecte a la pressió arterial real d'aquell pacient.
+Per tant, el missatge que voldria deixar és,
+si mesures una pressió arterial amb una màquina oscil·lomètrica,
+amb una màquina automàtica, sisplau, sisplau, sisplau,
+queda't que la mitjana és el més precís, que els altres no ho són tant.
+I aquí ens queda per parlar només, si ja estem parlant dels problemes de precisió d'aquesta mesura,
+saber quan ens en podem refiar més i quan ens en podem refiar menys.
+Llavors, si tens una arrítmia, la pressió és molt menys fiable,
+perquè justament estem parlant que la màquina mesura l'oscil·lació màxima,
+doncs si tens una arrítmia, cada batec ejecta un volum diferent de sang.
+Per tant, l'oscil·lació canviarà no només perquè la màquina va mesurant
+amb més o menys pressió respecte a l'arterial,
+sinó perquè a més a més cada batec que ejectarà una quantitat de volum diferent
+tindrà una pressió diferent.
+Per tant, si tens un pacient amb una fibril·lació auricular,
+doncs aquella pressió no serà tan precisa com si estigués en un ritme sinusal.
+Una altra cosa, aquesta pressió arterial, com sempre,
+nosaltres vivim en un planeta amb gravetat, per tant la gravetat ens afecta a tot.
+Nosaltres mesurem la pressió arterial amb un braçal al braç
+perquè és la mateixa alçada a la que tenim al cor.
+Si alguna vegada teniu ganes de jugar amb aquells aparells de pressió que es posen al canell,
+proveu a prendre-us la pressió amb el braç per sota de la cuixa, per exemple,
+i amb el braç a dalt de tot.
+Veureu quins números més divertits que surten.
+Per tant, hem d'intentar tenir sempre el braçal de la pressió
+a l'alçada d'on hi tindríem els ventricles.
+Al braç és senzill perquè només que tens el braç adherit al cos ja està a lloc.
+Si tenim el pacient estirat, doncs podem... de fet algunes vegades ho hem fet,
+si tens un pacient que els dos braços els necessites perquè estàs passant infusions de medicació
+que no poden aturar-se, per exemple, una noradrenalina o unes bombes del que correspongui,
+que dius, hosti, compte amb això.
+O tens un braç que el tens inhabilitat perquè està trencat i a l'altre braç,
+hi tens les vies, però justament prens les pressions en aquell braç,
+que justament és per on està passant la noradrenalina.
+Doncs a mi em fa una certa angúnia prendre la pressió en aquell braç
+si l'haig de prendre cada minut, cada dos o tres minuts,
+perquè, hòstia, que no m'entrarà la nora, tinc un problema.
+Llavors, a vegades què fem servir? A vegades fem servir els bessons.
+Si el pacient està estirat, tenim l'aparell de pressió a la mateixa alçada ventricle,
+el número... bueno, ja tampoc és tan precís.
+De fet, llegia un estudi que ha sortit, no l'he pogut llegir,
+he llegit només el resum, que parla que les pressions arterials al bessó en pacients estirats
+has de calcular que són uns 10 mil·límetres de mercuri més de la que mesuraries al braç.
+Això també ho has de tenir present.
+Clar, el número absolut, potser no ens en podem refiar gaire,
+de les oscil·lacions, de la variació sí que ens el podem refiar.
+És a dir, si aquella persona el teníem una pressió de 100 de mitjana
+i ara el tenim una pressió de 90, és que la pressió arterial mitjana,
+en el mateix lloc, ha baixat.
+Potser no era 100 inicialment, potser era 80.
+Déu-n'hi-do quin canvi. Doncs ara saps que ha baixat.
+I això que he comentat ara fa un moment, que posem la pressió cada minut, cada dos, cada tres,
+una de les coses que ens passa i que hem de ser conscients d'això és que els nostres aparells
+abans deixaran de donar-te un número, que donar-te un número incorrecte.
+És a dir si ells veuen que la pressió, que la mesura que estan fent no se'n poden refiar, no et donaran cap número.
+A vegades què ens passa? A vegades ens trobem una reanimació d'un pacient
+que no ens creiem la pressió que ens diu o directament no ens dona cap número.
+I insistim, insistim, insistim, insistim.
+Potser és que senzillament aquella persona té les pressions tan baixes que no són detectables.
+No perdem excessiu temps en comprovar i recomprovar, recomprovar.
+És a dir, quan la pressió és una bírria, a les pantalles surt, que és una bírria, o no surt.
+Quan tinguem una, dues, tres mesures que no estem obtenint una pressió, si us plau, fem alguna cosa. Tenim un problema.
+Un dia parlarem d'un concepte que m'agrada molt que és el Defend the Map, de defensa la pressió arterial mitjana.
+És una cosa que ens hem de... També suposo que quan parlem del TC sortirà,
+que tots els episodis d'hipotensió són gravíssims pel pronòstic del pacient i demès.
+Per tant, primer missatge que ja he recordat abans.
+De les màquines automàtiques ens hem de refiar de la pressió arterial mitjana,
+tenint en compte aquests factors que he explicat de la posició del braç i de les arrítmies.
+I quan tinguem pressions arterials que costen de mesurar o que són molt birrioses, actuem. Alguna cosa passa.
+Si hem de fer algun procediment al pacient que el pot enviar a fer punyetes,
+posem les pressions amb una certa gràcia. Si hem d'intubar un pacient, que la hipotensió durant la intubació també és un problema,
+no posem la pressió cada mitja hora, la posem a revisar cada minut, cada dos o cada tres per tenir una seqüència.
+I em sembla que de la pressió ja no tinc res més a explicar. He fet un resum d'una qüestió bàsica
+i gairebé més que un resum, sembla un llençol.
+Per tant, me quedo amb que si la màquina no me dona una xifra o la xifra és molt preocupant,
+realment, home, comprovar-ho un parell de vegades, però realment pensar que el problema el té el pacient i no la màquina.
+Correcte.
+I intentar començar a posar-hi solució, més que dedicar-hi mitja hora a canviar aparatus i a canviar coses,
+sinó que mirar-te a la clínica del malalt.
+I que si la pressió arterial mitjana és raonable però els números de sistòlica i diastòlica no ho són tant,
+no és tan preocupant com a la inversa.
+Si tens uns números de sistòlica que estan molt bé però tens una pressió arterial mitjana que és una bírria,
+per tant la diastòlica és molt baixa, doncs no et refiïs de la sistòlica.
+La mitjana t'està dient que el teu pacient té un problema.
+Molt bé, molt interessant.
+Molt bé Albert, doncs crec que no hi ha res més d'aquest tema.
+Vinga, passem a la següent secció.
+En l'episodi d'avui volia parlar d'un Essencial del juny del 2021
+i que parla sobre la urgència hipertensiva i del seu tractament.
+Hi ha diferents conceptes, que és la hipertensió arterial mal controlada,
+que és quan parlem d'unes tensions per sobre de 140-90.
+Hi ha un altre concepte que és la urgència hipertensiva
+i hi ha un altre concepte que és l'emergència hipertensiva.
+Són conceptes que depenent de la societat que estiguis parlant o pensant,
+si és l'Europea de Cardiologia, la Societat Europea d'Hipertensió o la OMS,
+ni amb ells els queda ben clar què és una cosa i què és una altra.
+Quan parlem d'urgència hipertensiva, en principi és una persona amb una tensió arterial elevada
+sense lesions als òrgans diana.
+Quan parlem d'emergència, és una tensió elevada,
+i parlem d'unes xifres, per exemple, per sobre de 180 de sistòlica
+i per sobre de 110-120 de diastòlica,
+però que té unes lesions o una manifestació a nivell dels òrgans diana.
+Digues-li el cervell, digues-li els ulls, digues-li el cor, digues-li els ronyons
+o les arteries centrals o perifèriques.
+Problemes amb gent que ens venen els serveis d'urgències amb crisis hipertensives,
+digues-li urgències o emergències, és igual,
+gent amb tensions arterials per sobre de 180 i 110-120 de diastòlica,
+en tenim moltes, en tenim com, no sé, com a mínim almenys el nostre servei,
+on jo treballo una cada dia, perquè és una de cada 200 visites a urgències,
+són gent que consulten per això.
+Però només una meitat o dos terços són gent que no tenen cap manifestació
+de lesions dels òrgans diana.
+Per tant, moltes societats d'aquestes, l'Europea i l'OMS i tal,
+discuteixen si realment el concepte de crisi hipertensiva ha quedat obsolet o no,
+hi hauríem de parlar senzillament d'emergència o no emergència,
+perquè veuen que les urgències hipertensives,
+la persona que té una tensió elevada de 180-200 de sistòlica,
+sense lesions dels òrgans diana, la veritat és que aquesta gent,
+a curt termini, no té cap problema, vull dir, no li passarà res,
+ni avui, ni demà, ni demà passat, ni als pròxims dies.
+Per tant, és una persona que té la tensió mal controlada i punt,
+no s'ha de fer especialment cap cosa més, sinó que senzillament et recomanen
+que si ve una persona a urgències amb aquestes característiques,
+facis un repòs, deixis un rato descansant, l'estiris, un ambient tranquil,
+tranquil·litzes el pacient i tornes a fer una altra avaluació.
+En cas que potser estigui... continuï amb les tensions molt altes,
+normalment és perquè el seu tractament de base de la hipertensió no el fa bé
+o ha fet una transgressió dietètica o el que sigui,
+i per tant s'ha de modificar una miqueta això.
+Però normalment, o en gairebé cap cas, amb aquest tipus de pacients
+que tenen una urgència hipertensiva, és a dir, que no tenen lesions
+o que tenen manifestació d'una afectació dels òrgans diana,
+no s'ha de fer ni tractament endovenós antihipertensiu,
+ni molt menys intentar baixar la tensió especialment.
+Per tant, aquesta recomanació de l'Essencial,
+elaborada a través de la Societat Catalana de Medicina Família i Comunitària
+i amb la Societat Catalana de Cardiologia, de la Societat Catalana de Hipertensió,
+de Farmàcia Clínica i altres societats,
+recomanen que davant d'alguna crisi hipertensiva realment veure si és una urgència o una emergència.
+Si és una urgència, és a dir, que no té lesions dels òrgans diana,
+tranquil·litat, repòs, tornar a mirar la tensió al cap d'una estona,
+i mai fer tractament endovenós i repassar l'adherència que tingui del tractament.
+I en alguns casos, veure si es necessita algun tractament via oral
+o reajustar el que estigui fent. I això és tot d'aquesta recomanació de l'Essencial.
+Aquí és feina del metge de capçalera els que en tenen,
+perquè cada vegada és més difícil trobar-ne, de metges de capçalera.
+Sí, de fet, te recomanen, si no vaig equivocat,
+ells te recomanen que en un període de set dies el pacient vagi al metge de família
+i que ell decideixi si ajustar el medicament antihipertensiu que està prenent,
+o canviar-li, o afegir-li un altre. Això en el pacient que té una urgència hipertensiva.
+És a dir, el que et ve a urgències amb unes sistòliques de més de 180,
+o amb una diastòlica de més de 110, 120, però que no té afectació dels òrgans diana.
+Nosaltres d'aquests en veiem bastants.
+I en veiem bastants perquè al meu territori hi ha molt turista
+que ve de zones properes a la costa, que és on viu la majoria de la gent,
+i ve a fer el turista i puja més de mil metres que estem la vall,
+però també a vegades se'n va més amunt.
+I sembla, això dic sembla perquè no sóc expert en el tema,
+sembla que això té afectacions en la pressió arterial dels individus.
+És a dir, si canvien d'alçada els puja la pressió.
+I ens vénen a veure sovint perquè tenen pressions altes,
+amb més o menys simptomatologia, habitualment mal de cap,
+i au, ja els tens allà, estira'ls, tingue'ls una estona,
+explica'ls mitja vida i miracles i de tant en tant algun captopril cau per allà
+perquè amb la pressió de 18 no poden marxar, amb una pressió de 18 que fa molt lleig.
+Millor no opino sobre les pressions de 18 si fan lleig o no.
+Sí, sí, el que està clar i el que ens diuen és que a curt termini,
+és a dir, als pròxims dies o setmanes,
+tenen el mateix pronòstic que una persona que tingui una tensió mal controlada,
+una tensió d'unes sistòliques de 150-90 o 140-90 i que fa la seva vida normal.
+A curt termini no li passarà res.
+Per tant, no li has de fer res especialment, senzillament dir-li
+que vagi al seu metge en els pròxims dies, procuri menjar sense sal
+i si pren el medicament que li han receptat per la hipertensió,
+prengui-se'l bé i de la manera que li han dit.
+I amb això n'hi hauria d'haver-hi prou.
+No cal fer segons quines coses amb segons quines pressions.
+Almenys de forma sistemàtica.
+Després valores cada cas particular,
+però sí que de forma sistemàtica no s'ha de tractar tot pacient que ve amb una tensió elevada.
+Doncs va, anem a la següent, anem a l'urgemmot, la secció lletra ferida a l'EMpodcat.
+Mira, començo jo.
+Tens alguna llista tu o tens alguna recomanació o alguna cosa?
+No, no, vinc a fer penitència perquè he estat transcrivint l'episodi anterior
+i hi haig de fer una fe d'errates perquè anava transcrivint
+i a mesura que anava transcrivint se'm posaven els pèls de punta.
+Per les moltes bestieses que diem malament, algunes són de l'urgemmot.
+Mira, una molt tonta.
+Vam parlar, si us en recordeu, parlàvem de l'hemorràgia exsanguinant
+i en algun moment vam parlar del sagnat així poc exsanguinant però molt emprenyador
+de la polpa del dit.
+És la part aquesta al final dels dits, el que repengem quan apretem amb el dit alguna cosa.
+N'hi hem dit polpell ni hem dit polpis, però no es diu polpa del dit.
+Això surt als urgennmots de la pàgina de l'UrgemCat, cortesia d'en Xavi.
+Per tant, polpell del dit no, polpa del dit.
+I després aquí, bé, una altra fe d'errates.
+Aquesta no és lingüística però també té el seu què.
+Parlàvem d'uns apòsits hemostàtics que antigament,
+i de fet encara existeixen quirúrgicament,
+la marca comercial que jo recordo és lyostip, que parlàvem de si eren d'un material o d'un altre.
+Bé, es veu que estan fets de fibra de col·lagen i per això tenen tanta adherència
+i són tan malparits de treure.
+Això és una fe d'errates, una més.
+I per acabar amb el quadre aquest, mentre anava fent la transcripció, carai,
+vam parlar molt del Chitosan, que és un d'aquests agents hemostàtics,
+que és de closca de crustaci, una cosa d'aquestes.
+I Chitosan per aquí, Chitosan per allà i, cony, el corrector automàtic només feia que Chitosan...
+I jo, què passa? Vaig anar a buscar el Chitosan i resulta que en català no es diu Chitosan,
+es diu Quitosan, amb Q-U en comptes de CH.
+Aha, això em recorda a la colquicina.
+Doncs mira, és exactament el mateix.
+Em ressona molt aquest mateix problema.
+De la colchicina, colquicina, doncs del Chitosan, Quitosan.
+Quitosan
+Cada dia aprenem una cosa nova. Va, Xavi, què tens tu?
+Sí, he començat a fer una recopilació que podem fer-ho en diversos episodis
+del llistat que tenim de recopilació de termes que hi ha a l'UrgemMot,
+una recopilació de diagnòstics o de problemes de salut.
+I aleshores, ara en podem fer 6 o 7 i després al pròxim episodi en farem més.
+Repasso. Per ordre d'alfabètic tenim, per començar, l'anafilaxi o reacció anafilàctica en lloc d'anafilàxia.
+Això va ser el nostre primer episodi.
+Exacte, sí, ja ni me'n recordo de quan feia, però després de 25 episodis, no?
+Després, parlem d'atac isquèmic transitori en lloc d'accident isquèmic transitori.
+Després, parlem de candidosi, en lloc de candidiasi.
+Un altre és la cefalàlgia en agrupaments, que també en podríem dir cefalàlgia en brots,
+en lloc de, en castellà és la cefalea en racimos o en anglès el cluster headache.
+Doncs en català, si ho volem escriure bé, doncs el millor posar cefalàlgia en agrupaments.
+Això fa pupa, pupa, eh?
+O cefalàlgia en brots, no?
+Sí, si, però, hòstia, quan venen, venen cascadets, eh?
+Ah, pupa vols dir pels pacients, eh? Sí, home, sí.
+Sí, sí.
+Sí, sí, sí, és un problema per ells, sí, sí.
+Després, n'hi ha un altre que és molt bonic, que és el colze de mainadera,
+que sempre en diem, sí, una pronació dolorosa,
+però pronació dolorosa és el signe específic d'aquest problema de salut.
+És el que veiem, el que el pacient ens explica, bé, no el pacient, la mare o el pare, l'acompanyant,
+però el diagnòstic mèdic és colze de mainadera.
+L'èczema, després tenim l'èczema, que va amb un accent obert a la E,
+en lloc d'ezema o, en realitat, d'altres formes de dir-ho,
+que és aquest tipus similar a una dermatitis, doncs és un èczema.
+Després hi ha l'epifisiòlisi, nens que fan traumatisme i es donen un cop al canell
+i l'epífisi distal del radi es queda una mica desplaçada.
+Doncs això és una epifisiòlisi, amb accent obert a la O.
+Epifisiòlisi, hòstia, aquests accents fan mal, eh?
+Sí, sí, els diem, moltes vegades els diem malament.
+Estan posats i deu ser perquè els diem d'una manera determinada, si no, no els posarien.
+Me'n queden tres, ja estic.
+L'estat epilèptic, aquest ja l'havíem parlat algun dia.
+En lloc d'estatus epilèptic, doncs en lloc d'estatus, estat epilèptic.
+Després, la gent que contínuament, en el ritme cardíac, fa extrasístoles.
+Doncs el problema de salut d'aquestes extrasístoles freqüents és l'extrasistòlia.
+I després podríem dir, en lloc de fallo multiorgànic, correctament,
+hauríem de parlar d'una síndrome de disfunció multiorgànica o un fracàs multiorgànic.
+Però intentem evitar parlar del tema de fallo multiorgànic.
+I ja està, el pròxim dia en farem unes quantes més.
+I així acabarem de repassar tots els problemes o diagnòstics de la gent que ve a urgències.
+Molt bé, escolta, per acabar la secció, si recordeu de l'episodi 24,
+en els últims episodis havíem posat una juguesca,
+perquè al grup de Telegram de tant en tant posem juguesques amb els urgemmots.
+Posem la definició i que la gent trïi de les vàries opcions que se'ls dona
+quin és el mot correcte, la forma correcta d'expressar-lo.
+Això, com heu anat veient, és un rotllo al final per nosaltres aquí a l'episodi,
+perquè sempre ens en descuidem.
+Total, que hem decidit que no ho farem més.
+Que qui tingui interès a fer la juguesca a l'urgemmot,
+que s'apunti al grup de Telegram, que de tant en tant surten i fem les nostres rialles.
+Però sí que hauríem de donar la resposta de l'episodi anterior.
+El mot que volíem, la definició del mot era
+cadascuna de les ramificacions dels bronquis terminals que connecten amb els conductors alveolars
+tenen les parets més fines i absència de cartílag,
+presenten pocs cilis i no estan del tot recoberts per mucosa.
+En català correcte això és un bronquíol, està accentuada la I.
+Igual que hi havia l'alvèol, també hi ha el bronquíol.
+Queda resolta la juguesca de l'urgemmot de l'episodi 24.
+I a partir d'ara, qui vulgui jugar, que s'apunti al grup de Telegram i a jugar.
+Molt bé. Què més?
+Hauríem de parlar de les... alguna recomanació?
+Sí, sí, les recomanacions, que es veu que quan hem preguntat quines seccions havíem de mantenir,
+la de les recomanacions, tothom en vol més.
+Doncs vinga, anem per les nostres d'aquest episodi.
+Doncs mira, jo tenia una recomanació, és una pàgina web, es diu redantidotos.org.
+I com ja diu la paraula, va d'antídots i normalment va de toxicologia.
+És una iniciativa de la Societat Catalana de Farmàcia Clínica
+i d'alguns toxicòlegs clínics que veien que tindre disponibilitat
+d'una quarantena d'antídots que es necessiten en un servei d'urgències,
+la disponibilitat és difícil perquè molts d'aquests antídots, per exemple,
+són importats, són medicació estrangera,
+o són medicaments que com que es fan servir molt poc caduquen,
+alguns són medicaments cars...
+Total, que no tots els serveis d'urgències tenim tots els antídots.
+Aleshores van veure que si feien un treball col·laboratiu entre els diferents hospitals de Catalunya
+i ens posàvem d'acord, doncs no feia falta que tothom tingués de tot,
+sinó que hi hagués una coordinació entre els diferents serveis de farmàcia
+i d'urgències dels diferents hospitals
+i en cas que jo tingués necessitat d'utilitzar algun antídot,
+ràpidament sapiguer a qui trucar, amb quin servei de farmàcia contactar
+i ja tindre un servei de transport programat
+i que al cap de poca estona m'arribi l'antídot que està a Puigcerdà,
+que m'arribi a Figueres, a Girona o on sigui, amb un temps prudencial.
+Aleshores això és la red d'antidotos.org que s'ha intentat,
+a través de la Sociedad Española de Farmacia Hospitalaria
+i de la Societat Catalana de Farmàcia Clínica,
+posar-se d'acord i fer aquesta red, que ara és a nivell espanyol
+i tenen la pàgina web aquesta que és la redantidotos.org.
+Cada servei d'urgències de cada hospital s'ha de posar en contacte amb aquesta iniciativa
+i sol·licitar que volen formar part d'aquesta red
+i aleshores hi ha una sèrie de persones a farmàcia i a urgències
+que són els responsables de mantenir l'estoc,
+de mantenir la informació actualitzada a la pàgina web
+i ser com els interlocutors d'aquesta iniciativa.
+Una altra cosa que pots utilitzar d'aquesta red d'antídotos
+és que a la seva pàgina web hi ha una pestanya
+on tens tota la informació de les indicacions, la dosi,
+la forma d'administració, les precaucions que has de tindre,
+els efectes adversos i tal de cada un dels antídots
+que tenen un llistat de 41 antídots
+que són els que normalment en el nostre àmbit podem arribar a utilitzar.
+Per tant, si busqueu informació o teniu dubtes de com utilitzar qualsevol tipus d'antídot
+aquí en aquesta redantidotos.org, com a consulta, també és un lloc molt vàlid.
+També tenen un altre servei i és per consultes no urgents.
+És a dir, si hi ha alguna cosa que us preocupa o que vulgueu millorar del vostre...
+si esteu fent els protocols del vostre servei i teniu dubtes
+o teniu un dubte científic de dir, ostres, això tenim dubtes de com s'ha de fer.
+Doncs tenen un correu electrònic i aleshores tu els hi envies.
+Lògicament no és mai urgent, us escoltaran i com que hi ha toxicòlegs i hi ha farmacèutics i tal,
+us contesten i us donen respostes als vostres dubtes científics o clínics.
+I això és el que us volia... que coneixia que existia el red de antídotos i volia compartir-ho amb vosaltres.
+Molt interessant. Fa un temps vam fer un protocol d'intoxicacions al meu centre.
+Vam contactar amb la gent de la Socmuetox, que són alguns dels que estan darrere de la red de antídotos.
+Són molt bona gent, professionals excel·lents, gent molt agradable.
+Bé, i la meva recomanació per aquest episodi és un pòdcast. Es diu Cardiopodcast.
+És un pòdcast de la Sociedad Española de Cardiología, de la sección de jóvenes de la Sociedad Española de Cardiología.
+Jovenes fins a quina edat?
+Sent metges joves serà fins als 40 noi, perquè a l'edat que acabeu medicina...
+És que m'ha fet gràcia.
+La sección de jovenes parla de cardiologia en general, però, evidentment, hi ha coses de cardiologia que ens afecten als serveis d'urgències.
+És un format interessant de tertúlia.
+Tampoc ben bé de tertúlia.
+És força interessant els temes que ens interessen, evidentment, que són els que escolto. No els escolto pas tots.
+Té el seu què.
+I el destaco també perquè penso que és una forma que totes les societats científiques i fins i tot les revistes,
+les revistes també ho estan fent, les revistes d'articles mèdics,
+és una forma d'arribar molt més enllà.
+Parlàvem un dia amb un company que no sé quantes citacions pot tenir un article que tu hagis escrit,
+però quan arribi al Twitter tindràs una burrada d'interaccions, moltes més interaccions, que no pas en la publicació formal.
+Aquí ve a ser el mateix. És a dir, si tu vols que arribi la teva informació que consideres rellevant per la pràctica clínica de la teva especialitat,
+doncs tenir... des de canals de YouTube, tenir els nous mitjans de transmissió de coneixement, és fer-los servir.
+I en aquest cas el CardioPodcast em sembla ben produït també, no pas com el nostre,
+és una cosa ben feta, amb els seus editors, tot molt bé, molt maco, i de tant en tant temes interessants.
+Recordo l'últim, estava a l'hort l'altre dia arrencant herbes,
+escoltant el pòdcast que parlava del tractament endovascular del TEP, que és un tema que vam parlar també, no recordo en quin episodi,
+De fet dos episodis, no sé si el 19 i el 20, que parlàvem del TEP, doncs potser d'aquí no massa anys haurem de parlar del tractament endovascular del TEP,
+que es veu que la cosa va forta.
+De la trombòlisi, de fer una trombectomia i aquestes coses.
+Sí, sí, vàries coses. Hi ha des de per catèter fer la trombòlisi dirigida, que això ja en vas parlar,
+però ja parlen de fer recuperació de trombi... una miqueta com l'ictus,
+demanem perdó per no haver parlat encara de l'ictus, però ja hi arribarem,
+quan trobem l'expert adequat hi arribarem.
+Doncs de l'estil de la trombectomia per l'ictus, també de la trombectomia.
+Bé, en fi, Cardiopòdcast, no recordo ara mateix l'enllaç, el trobareu al vostre reproductor, busqueu Cardiopòdcast i serà allà,
+i si no ja posarem l'enllaç a les notes de l'episodi.
+Molt bé, molt interessant.
+I què més? Jo penso que ja... ens queda alguna cosa? jo penso que ja hem fet de tot, no?, aquest episodi.
+Jo crec que ja podem tancar. Recordar que tenim el grup de Telegram,
+posem la musiqueta, que ja hem tret les gralles, a petició popular també, i ens veiem al pròxim episodi.
+Va, vinga, fins la propera.
