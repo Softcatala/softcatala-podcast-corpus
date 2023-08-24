@@ -1,0 +1,101 @@
+"Quinze glaçons d'hidrogen", el pòdcast de llengua i tecnologia de Softcatalà, amb Aleix Vidal.
+Us donem de nou la benvinguda. Tornem a obrir les portes de la taverna del Quinze glaçons d'hidrogen per acompanyar-vos durant uns minuts en el món de la llengua i la tecnologia.
+Aquest és el nostre segon episodi. Si no vau sentir el primer, el podeu recuperar al nostre web, però també a les plataformes habituals: Spotify, Apple, Google... També us hi podeu subscriure i així no us perdreu cap més episodi.
+Ara mateix cal dir que estem de sort. La nostra taverna està exempta de les restriccions i mesures sanitàries
+que s'apliquen últimament. Així que no us ho penseu més i quedeu-vos a fer un mos amb nosaltres.
+Vagi per davant tot el nostre suport a aquells que esteu patint el dia a dia d'aquesta pandèmia. S'està fent llarg i dur.
+Per pair-ho tot una mica millor, hem decidit incorporar un toc d'humor al programa. Alguns ens vau dir que hi trobeu a faltar una mica de comèdia. Doncs dit i fet, pareu atenció perquè hem decidit treure l'alcohol de la bodega. Només tenim un petit dilema. Què preferiu, whisky o ratafia? Cap al final del programa, en Jordi i en Joan en serviran una mica de cada.
+Per cert, no ho vam comentar en el primer episodi. Us agrada la nostra imatge? És obra de la Maria Alejandra Roca,
+la companya que s'encarrega últimament del grafisme que utilitzem a les xarxes socials i al web. Moltes gràcies per aquesta meravellosa imatge, Mariale. Ens encanten els glaçons!
+En aquest segon episodi parlarem del LibreOffice, l'OpenOffice i tot l'embolic de la seva història. Tastarem una paella de pollastre i degustarem lentament un nou refrany català. També hi haurà moments pels enyorats accents diacrítics i per recordar els diferents webs que ha tingut Softcatalà. Però comencem amb un aperitiu. 
+"Quinze glaçons d'hidrogen."
+"L'aperitiu d'actualitat."
+Avui us podríem parlar del nostre 22è aniversari, que va ser el passat 2 d'octubre. Podríem parlar de les ensabonades que ens vau fer a les xarxes socials. Sí, nosaltres també us estimem molt. També podríem comentar les novetats de la Neoloteca del Termcat, que incorpora l'ús de "lletra tipogràfica" o "família tipogràfica" per referir-nos a l'Arial o la Times New Roman. Fins i tot podríem fer la petada sobre la configuració d'idioma del portàtil de la Rosalia. Però no. Avui ens posem una mica seriosos i volem posar sobre la taula el que està passant a can Mozilla. La fundació responsable del Firefox, un dels navegadors més utilitzats i amb més recorregut de la història d'Internet, està patint una reestructuració interna. Molts dels seus treballadors han anat al carrer i, més enllà de les dificultats personals que això suposa, ens preguntem fins a quin punt afecta això a la comunitat del programari lliure i sobretot el desenvolupament de les iniciatives que Mozilla estava duent a terme pel que fa a les llengües minoritzades com el català.
+Tenim amb nosaltres a Toni Hermoso, membre de Softcatalà que segueix de prop als passos de Mozilla des de fa anys.
+Hola, Toni.
+Hola, bon dia.
+Què li ha passat a Mozilla?
+En certa manera, Mozilla mateix ha creat un ecosistema que al final pot acabar destruint-la, no? Seria una miqueta com el que… aquella gent familiaritzada en el que seria ecologia, seria el tema de successió ecològica,
+en tant que el model del que és avui en dia el sector de les grans empreses tecnològiques que es troben especialment a Silicon Valley, no?
+Però si estem parlant dels creadors del Firefox, el navegador que va desterrar l'Internet Explorer.
+El Firefox va ser un gran èxit, va haver-hi un gran activisme de diferents usuaris, etcètera. Amb l'èxit que va haver-hi, van començar els primers acords amb el que seria Google. Aquests acords van ser bàsicament que, incloent el que seria la barreta de cercador en el navegador, al mateix temps, Mozilla rebria un "royalties". Poc després, el 2008, ja es va confirmar el que seria el Chrome. El Chrome va ser un dels productes de Google. I bé, progressivament aquest navegador va anar aclaparant fins al dia d'avui, que és el majoritari. En aquell moment ja vam poder veure doncs que llavors dins de Mozilla hi havia unes tensions, tensions en el que seria la fundació, que era l'original, la que seria l'empresa que en va sorgir, la corporació, i al mateix temps la comunitat al voltant que s'havia generat al voltant d'això, no? Comunitat en un sentit ampli: comunitat de traductors, desenvolupadors independents, etcètera, etcètera.
+I això és una tensió que fins ara no s'ha acabat resolent. Mentre tot això passava, tots aquests anys que passava, estic parlant del 93 a la mort del Firefox OS el 2015, Silicon Valley esdevenia un lloc molt més car, molt més difícil, amb molt d'interès per atreure cada cop més potencials enginyers i altra gent molt alta en aquest sector per treballar en aquestes empreses, i això porta al final a les situacions, per exemple, ja el 2017 va ser una de les primeres a fer fora més gent, molta gent que estava treballant, per exemple, en iniciatives d'innovació com dispositius connectats, Internet of Things…
+Sí, aquest 2020 els acomiadaments encara han estat més nombrosos. Tant greu era la situació per arribar aquí?
+El drama al final de tot això és que hi ha circumstàncies que això des del 2005 ens trobem que Mozilla ja, entre el 80% i el 90% dels seus ingressos en comparació a Mozilla, són bàsicament de Google. Hi ha una dependència molt gran, fins i tot des del punt de vista cínic molta gent diu que al final Mozilla acaba actuant com un grup de desenvolupament, un departament de desenvolupament de Google mateix.
+I com ho veus tot això a partir d'ara?
+Sigui quin sigui el futur, el que esperem, almenys també des d'iniciatives com Softcatalà, per tot l'interès i tot el que ha fet aquesta iniciativa de Mozilla per la nostra llengua, és que hi hagi una continuïtat. Fins i tot si és més enllà de la mateixa fundació, corporació, etc. Això pugui continuar i la gent que ha pogut apostar això pugui continuar fent-ho i treballant-hi, i idealment també crec que poder cedir el relleu a més gent que pugui ajudar-hi, en definitiva tant per un Internet més lliure i al final també per la viabilitat de llengües com la nostra.
+Exacte. Moltes gràcies, Toni.
+Adeu-siau.
+Finalment, els efectes d'aquesta reestructuració a Mozilla s'han materialitzat, entre altres coses, en el tancament dels serveis Firefox Send i Firefox Notes, uns serveis que oferien, per un costat, un mode segur i xifrat de compartir fitxes grans, i per l'altre, una eina per prendre notes mentre navegàvem per la xarxa.
+Per sort sembla que la resta de projectes està fora de perill de moment, però aquesta reestructuració crea una incertesa de cara al futur d'aquests projectes i de la mateixa fundació. Com a punt positiu, la col·laboració al Common Voice encara és possible. Aquest projecte, del qual us parlarem en profunditat en els pròxims programes, és clau pel futur del català a la tecnologia. Us animem que hi dediqueu uns minuts.
+"Quinze glaçons d'hidrogen"
+I arriba l'hora de tornar a obrir el nostre rebost. A veure què hi trobem avui. Ens acompanyeu?
+"El rebost digital"
+En aquesta ocasió us volem presentar el paquet ofimàtic lliure de referència. El LibreOffice és un conjunt d'utilitats per treballar amb tota mena de documents, textos, fulls de càlcul, bases de dades, presentacions, dibuixos vectorials…
+A molts de vosaltres potser encara us sona més el nom "OpenOffice". I és que va ser així com es va conèixer la suite ofimàtica quan, el juliol del 2000, Sun Microsystems va decidir alliberar-la sota una llicència lliure per tal de competir amb el paquet de Microsoft, després d'haver-la comprat per a ús intern a Star Office el 1999.
+Des de llavors es va convertir en el referent de codi obert del sector ofimàtic, però alguns dels membres de la comunitat OpenOffice, que no eren treballadors de Sun i que no compartien l'enfocament que donava l'empresa al projecte, van seguir treballant en una versió independent.
+En Joan Montané, membre de Softcatalà i coordinador del projecte de traducció del LibreOffice, ens explica com va anar la història.
+Sun va deixar d'acceptar contribucions de la comunitat al codi i llicencià el codi d'OpenOffice a IBM sota una llicència propietària, en comptes d'una lliure.
+Mentrestant, la versió de la comunitat de programari lliure havia decidit adoptar el nom "LibreOffice" que havia de ser temporal fins que Oracle, que el 2010 havia comprat Sun, s'incorporés a The Document Foundation i cedís el nom d'OpenOffice al projecte comunitari.
+Aquesta fundació estava pensada per a seguir amb el desenvolupament del paquet ofimàtic sota una llicència lliure però Oracle va rebutjar la invitació.
+És així com el paquet ofimàtic lliure va quedar-se amb el nom "LibreOffice".
+Mentre que el 2011, Oracle va renunciar a l'explotació comercial de OpenOffice, per donar-lo a la fundació Apache que encara avui el manté viu, o més aviat zombi, amb el nom d’Apache OpenOffice.
+Han passat els anys i s'han publicat vora 20 versions del LibreOffice. Amb tot, la marca OpenOffice encara avui és molt coneguda, tot i que no s'ha publicat cap versió important des de fa més de 6 anys, només uns pocs pedaços de seguretat.
+Fa poques setmanes, coincidint amb el 20è aniversari de l'OpenOffice, The Document Foundation va publicar una carta oberta a Apache, demanant que reconsidi el futur del projecte Apache OpenOffice i ajuntar esforços per oferir un paquet ofimàtic potent i actualitzat als usuaris.
+Fet aquest viatge per la història, tornem al producte.
+LibreOffice és el paquet ofimàtic més complet en llengua catalana i a més multiplataforma, la qual cosa vol dir que es pot utilitzar en diferents dispositius i sistemes operatius.
+També hi ha disponible una versió en línia que qualsevol usuari, amb els coneixements adequats, pot hostatjar en un servidor. Planta cara d'aquesta manera a solucions col·laboratives al web que proposen altres gegants del sector ofimàtic.
+És compatible amb els formats de Microsoft Office i se li pot incorporar el servei de correcció ortogràfica i gramatical LanguageTool, que és la base del corrector de Softcatalà. És a dir, que podeu tenir el nostre corrector al LibreOffice perquè us ho corregeixi tot mentre ho escriviu.
+Us agradaria col·laborar amb nosaltres? Necessitem ajuda amb la traducció del LibreOffice. El projecte té més de 600.000 paraules i només ens en manquen per traduir 90.000. Podeu ajudar en la traducció i en revisar-ne la qualitat. Si us hi animeu, trobareu més informació de com fer-ho al nostre web.
+"Parem taula"
+Ha arribat l'hora. Ja és el moment d'entaular-se per assaborir un d'aquests arrossos que ens encanten.
+Però per gaudir d'aquest ritual gastronòmic cal tenir una taula ben parada. Aquesta vegada ens ajudarà a preparar-la un dels membres de Softcatalà que millor combina la bici, la muntanya, la llengua, el córrer, la muixeranga i el programari lliure, en Jordi Mallach.
+Que, per cert, porta Debian a les venes.
+Hola, soc Jordi Mallach i fa molt de temps que soc membre de Softcatalà. Soc de València, però ja fa gairebé una dècada que visc a les Comarques Centrals, entre Muro i Cocentaina, envoltant de les serres del Comtat.
+Per l'any 2002 o així vas començar a contribuir a la traducció del Gnome sense saber de l'existència de l'equip de traducció de Softcatalà i de seguida Jordi Mas em va convidar a fer aquesta tasca des de l'associació.
+Amb els anys la meua implicació ha anat canviant i he passat de traduir diferents projectes a dirigir els meus esforços cap al disseny i manteniment de la infraestructura de Softcatalà.
+Fa uns anys vaig ser pare i vaig passar una etapa durant la qual no vaig poder
+dedicar-li a Softcatalà tant de temps com m'hauria agradat. I ara estic centrat en migrar tots els nostres serveis a tecnologies actuals com son Docker, la integració continua basada en GitLab, etc.
+A banda, amb la resta de companys valencians, fem tasca de formigueta per a promocionar l'ús del valencià a les noves tecnologies sota el paraigües de Softvalencià, la marca de Softcatalà per al País Valencià.
+Sí, sí, molt bé, però i l'arròs què? Com t'agrada tu? O això de l'arròs no ho toques?
+Evidentment sent d'on soc, tinc una opinió prou forteta sobre el tema dels arrossos.
+L'arròs que més gaudisc ara mateix és l'arròs a banda, però cap arròs serà mai tan bo com la paella de pollastre que feia ma abuela i ara ma mare.
+Amb la taula tan ben parada comença a arribar gent de tot arreu. Sembla que ha corregut la veu que aquí gastem Linux i els virus no hi entren.
+Serà qüestió d'anar traient unes tapes que si no se'ns fotran la paella de pollastre
+de l'àvia d'en Mallach.
+"Una tapa de refranys" amb Josep Closa.
+Bon dia a tothom i totdon. De mica en mica s'omple la pica.
+Des de 1814 trobem referències d'aquesta popular dita que ens convida a ser constants i pacients per tal d'arribar a poc a poc al nostre objectiu.
+També trobem la seva cosina germana: "de gota en gota s'omple la bota",
+que sovint s'acompanya amb un final més dinerari: "de sou en sou es compra un bou".
+També son parentes d'ella: "gota a gota sempre fa gorg" o "a pas de bou s'hi arriba prou". Aquesta, emparentada amb la italiana "piano piano si va al lontano".
+Tot plegat ens recorda aquell aspecte tan català del seny i l'estalvi: calma, paciència, estalvis i futur. El refranyer ens retrata ben retratats.
+"Quinze glaçons d'hidrogen"
+"Whisky o ratafia?"
+El saben aquel que és un tio que va a l’oculista i l’oculista li diu "Sisplau, cavaller, què hi ha escrit allà a la pissarra?". El tio diu "Venen ossos". Diu "No es precipiti, sisplau, fixis bé què hi diu". El tio "Venen ossos". Diu "Està vostè nerviós i m'està posant nerviós a mi. Per última vegada, què hi posa?" i el tio: "Venen ossos". L'oculista se'l mira "Em pot dir on veu vostè el diacrític?". "Dia crític? Dia crític aquell que se'ls van carregar tots, nano!"
+Es podria dir que els diacrítics els van retallar en dos temps, en dos dies crítics, de fet. El 29 de setembre de 2016, el ple de l'Institut d'Estudis Catalans  ratificava la Gramàtica de la Llengua Catalana, la primera gramàtica institucional del català, que substituïa la que fins ara havia estat l'obra de referència,
+la Gramàtica Catalana de Pompeu Fabra, publicada pel mateix institut el 1918.
+La redacció de la Gramàtica va implicar la conveniència de publicar una nova versió de l'Ortografia de la Llengua Catalana, i és aquesta la que, entre altres canvis, va sentenciar la fi de vorer 150 diacrítics. Només en van sobreviure 15.
+La nova ortografia va ser ratificada pel ple de l'IEC el 17 de novembre de 2016.
+Així podem dir que, a banda dels desobedients, i malgrat la moratòria que ens permet usar-los fins al moment de menjar els 12 grans de raïm acompanyats dels nets, abans que ens vingui la son, movent tots els ossos el pròxim 31 de desembre, el Dia Crític, en majúscules, fou aquell 17N.
+"A la barra"
+Sabíeu que la segona versió del nostre lloc web estava inspirat en Gaudí?
+Avui, a la barra, viatgem a l'any 2002 per recordar la primera renovació que vam fer al nostre lloc web inicial.
+Vam decidir inspirar-nos en Gaudí per fer el primer redisseny web.
+La portada semblava un dels balcons del trencadís del Parc Güell, que va presidir la pàgina fins ben bé l'any 2008.
+Ens en parla Anna Barberà, dissenyadora i membre de Softcatalà.
+Tenia molta personalitat. Estava inspirat en l'obra de Gaudí, i jo recordo mirar-me'l des de fora i realment era un disseny potent i força trencador per l'època.
+En aquest primer disseny, jo, a part d'alguna petita col·laboració, no hi vaig fer més cosa. En el segon disseny sí, perquè aquest ja va ser obra meva. La idea era que la base tecnològica en què se sustentava el web havia de canviar i aleshores es va aprofitar per fer un canvi a nivell gràfic.
+Però va ser un canvi a nivell gràfic i tampoc vam anar més enllà d'això. No es va repensar el web a nivell estructural, d'arquitectura de la informació em refereixo.
+Això va arribar amb el tercer disseny, que a més a més va implicar molts membres de l'associació i realment va ser un procés de canvi important.
+Amb el nou disseny, que en realitat era la tercera versió del web, vam establir la paleta de color actual, amb el roig predominant. Vam optar per continuar amb els homenatges a grans artistes dels territoris de parla catalana, i en aquesta ocasió vam fer-li una picada d'ull a Miró. Xavi Ivars, enginyer informàtic i membre de Softcatalà, ho recorda.
+En aquesta tercera versió del web de Softcatalà, tot i que no hi havia cap component extret de cap obra de Miró, hi havia una imatge inspirada en la seua obra, que introduïa el top 20 de programes més baixats.
+Malauradament, als successors de Miró no els va agradar i ens van convidar amablement a retirar-ho de la nostra web i a canviar la imatge per una altra.
+Després vam saber que fins i tot a Google hi havia hagut problemes amb un dels seus "doodles", els logotips commemoratius que el cercador posa a la seva pàgina principal, un dia que van voler fer-li un homenatge a Miró.
+Així que vam fer el canvi i la nostra tercera web va passar a ser una miqueta menys mironiana.
+El 2016 vam fer el quart redisseny del nostre web, de nou ideat per la nostra companya Anna Barberà. Però això serà una història per un altre dia.
+Doncs aquest ha estat el segon episodi del nostre jove pòdcast. Ens agradaria saber què en penseu o si teniu algun suggeriment, així que no dubteu en deixar-nos els vostres comentaris a les xarxes.
+I res més, que la llengua us acompanyi, que la tecnologia ja ho fa massa.
+Fins al proper programa, mentrestant...
+Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!
+"Quinze glaçons d'hidrogen", el pòdcast de llengua i tecnologia de Softcatalà.
