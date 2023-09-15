@@ -1,0 +1,1098 @@
+# Exported by Aegisub 3.2.2
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Bon dia, benvinguts a un nou episodi de l'EMPodCat,
+que com ja sabeu tots és un espai que utilitzem per conversar sobre temes d'urgències i emergències sanitàries,
+i nosaltres som un grup de...
+Varia gent, entre elles som dues persones. Per un costat tenim l'Albert. Hola Albert Homs, com estàs?
+Hola, bon dia, bona tarda, bona nit, bon el que sigui.
+Presenta't una miqueta per la gent que encara no ens ha sentit mai, almenys que sabran qui som nosaltres.
+Digues alguna cosa de tu, Albert.
+Jo sóc l'Albert Homs, sóc infermer d'urgències i emergències, treballo ara a Cerdanya,
+a l'Hospital Transfronterer i a la unitat del SEM del territori,
+i tinc un blog emermedpirineus.cat, on escrivim... això dels blogs, que ja està molt passat,
+doncs mira, estarà molt passat però encara el fem servir.
+I on anem publicant coses que tradueixo i coses que de tant en tant escric que em semblen rellevants.
+També estic a Twitter? x.com, com es diu això? que està a punt de caure, fa mesos que es vol destruir i encara aguanta.
+Per emermedpirineus i a mastodont.cat, que és on anirem a espetegar tots quan Twitter se'n vagi a fer punyetes.
+També estic per emermedpirineus allà.
+I aquest que us ha parlat ara és en Xavi Basurto. Va, Xavi, ara et toca a tu presentar-te.
+Sí, hola, sóc en Xavi Basurto i sóc metge i treballo a urgències de l'Hospital de Figueres
+i també a la 606, a la medicalitzada de Figueres.
+I tenim un blog que és urgem.cat, on quan tenim temps expliquem també alguna cosa,
+que de vegades fem servir també per explicar-ho a través d'aquest pòdcast, de l'EMPodCat,
+i moltes coses que expliquem les podeu veure... llegir després, tant el blog de l'Albert com el meu.
+Anem publicant el que aquí parlem, i moltes vegades ho teniu per escrit en aquests blogs corresponents.
+Avui abans de començar amb els temes habituals, volem recordar que tenim un grup de Telegram,
+que sobretot l'Albert es cuida del manteniment, la curació de continguts i la comunicació entre la gent,
+que em sembla que ja som com 70 i pico, em sembla que em deies, Albert? Pot ser que som 70 i pico?
+Sí, una miqueta més de 70.
+I allà, moltes coses de les que anem comentant en el pòdcast i altres coses que veiem interessants,
+també les anem fent difusió allà, i és un lloc on també podem, entre tots, participar-hi,
+comentar les coses, preguntar... És un fòrum per comunicar-nos.
+Un fòrum, una altra cosa antiga. Blogs, fòrums... Què serà el següent?
+La BBS? Calla, que això és missatgeria instantània d'abans. En fi, sóc vell, perdoneu-me.
+Les coses velles encara funcionen, eh? I de vegades, vés a saber, eh?
+Millor que les que estan sortint avui en dia.
+Tot torna.
+Molt bé, doncs va, Albert, avui tenies tu...
+T'havies preparat algun tema que ens volies comentar dels teus temes principals,
+que és el tema electrocardiogràfic. Explica'ns què ens vols comentar avui.
+Sí, és que feia dies que tenia síndrome d'abstinència. Ja sabeu que jo sóc addicte a l'electrocardiografia
+i feia dies que no en parlava i, és clar, això no pot ser.
+A més a més, al capítol... que em sembla que és el 23, vam parlar del Codi IAM, però en va parlar el Xavi, no jo.
+Amb la qual cosa, és clar, això no pot ser. No pot ser.
+Total, que per a aquest episodi d'avui el que pretenc fer és parlar d'electrocardiografia.
+Parlar d'un reconeixement de patrons visuals, però fent-ho sense veure res, només amb àudio.
+Difícil, oi?
+És un repte, és un repte.
+És un repte, sí. De totes maneres, farem trampa.
+Tenim abandonadíssim un canal de YouTube on teníem els àudios de...
+Tots els àudios dels episodis que hem anat gravant, doncs mira, aquest hi posarem els àudios i els electros a sota.
+I, evidentment, a les notes de l'episodi posarem exemples de cada un dels patrons electrocardiogràfics que us vull parlar avui.
+Aquests patrons electrocardiogràfics que us vull parlar...
+Fem una miqueta... Tirem una miqueta enrere, va. No pot ser tan fàcil.
+Uns quants episodis de la primera temporada vam parlar d'una cosa que era el Manifest IAMO,
+que bàsicament posàvem a parir l'elevació de l'ST com a forma de diagnosticar els infarts aguts de miocardi.
+Era una traducció d'un document d'uns savis americans.
+I proposàvem una altra nomenclatura, que és l'infart agut de miocardi oclusiu, IAMO.
+OMI en anglès. Oclusive Myocardial Infarction.
+Això ho vam fer a la primera temporada. A la segona temporada vam parlar del patró electrocardiogràfic més habitual d'infart de miocardi oclusiu,
+que és... l'elevació de l'ST.
+Ah, o sigui, encara serveix l'elevació de l'ST, no?
+És que clar, has començat dient que ja no ens hi havíem de fixar i m'ha semblat entendre.
+No, no, no. Mira, més o menys, has de comptar que tres quartes parts dels infarts aguts de miocardi oclusius
+debuten amb elevació de l'ST.
+També s'ha de dir que hi ha un 25% de falsos positius.
+És a dir, tu quan veus elevacions de l'ST que compleixen aquests criteris que heu d'anar escoltant en un seguint episodi de la temporada passada,
+hi ha un 25% que no seran infarts aguts de miocardi.
+O sigui, que tenim un 25% que no entren i un 25% que surten.
+Hi ha altres coses, i són aquests altres patrons, alguns dels quals són els que us parlaré avui.
+Avui en tinc tres, intentarem mantenir-nos en aquests tres quarts d'hora que pretenem que durin els episodis.
+Ara, els dos últims ho hem aconseguit una miqueta, els anteriors eren un drama perquè no hi arribàvem mai.
+Vinga, comencem, si us sembla. En tinc tres.
+I començaré per un, que és la síndrome de Wellens, que resulta que és un patró electrocardiogràfic,
+però no és d'infart d'agut de miocardi oclusiu.
+Cosa estranya, oi, també? Sempre fent-ho complicat.
+Bàsicament, quan apareix això en l'electrocardiograma, el malalt no té dolor.
+Per tant, si no té dolor, és que no està tapat en aquell moment.
+Però n'ha tingut abans.
+És a dir, si aquest patró electrocardiogràfic que us ho explicaré ara, no ha tingut dolor o equivalent
+anginós... el que sigui, la sensació de dispnea en els malalts diabètics o en dones,
+aquestes coses que no són estrictament dolor toràcic, però que ho hem de considerar equivalent,
+si no ha tingut això abans, que aparegui aquest patró electrocardiogràfic, ens és irrellevant.
+És a dir, aquest patró electrocardiogràfic només serveix si la persona afectada ha tingut abans dolor o equivalent,
+i en el moment en què es fa l'electrocardiograma no en té.
+Aquest patró electrocardiogràfic que em refereixo ara, la síndrome de Wellens,
+és molt específic d'un territori cardíac, que és el que està irrigat per l'artèria descendent anterior, la DA.
+És una de les branques del tronc comú. Això també, en l'episodi aquest de l'elevació de l'ST,
+hi ha un diagrama molt xulo que explica quines derivacions corresponen a cada territori,
+quines artèries corresponen a cada una de les derivacions que hi ha un electrocardiograma estàndard de 12 derivacions.
+La síndrome de Wellens es descriu primer a V2 i V3, és a dir, les derivacions electrocardiogràfiques septals anteriors.
+És altament específic que tenim tapada o que hem tingut tapada la descendent anterior.
+I per què dic que hem tingut tapada? Perquè aquest patró, que el tenim,
+quan el patró que teníem inicialment, que habitualment és un patró d'elevació de l'ST,
+quan se'ns tapa aquesta descendent anterior, es destapa pel que sigui, perquè es lisa,
+pel motiu que sigui, perquè s'ha pres una aspirina a la persona quan li ha vingut bé i s'ha destapat.
+En el moment en què aquesta artèria s'ha destapat, el patró d'isquèmia transmural que teníem,
+que és aquesta elevació de l'ST, doncs clar, com que ja no està tapada en aquell moment, desapareix.
+I es transforma en aquest altre patró. De fet, dic patró, però n'hi ha dos de patrons de Wellens.
+Hi ha un patró més comú, que el que tenim és una inversió de l'ona T bastant important.
+No és una baixadeta, sinó que baixa molt, l'ona T.
+Ara imaginem-nos el nostre traçat electrocardiogràfic, tenim la P, que és el primer bony,
+Tenim el segment PQ o PR, que és l'espai, aquest pla isoelèctric que va des de la P fins que comença el QRS,
+tenim el nostre QRS, el que toqui per cada derivació, si és un RS, comença pujant i després baixa.
+Després d'aquest QRS hauríem de tenir una línia isoelèctrica i després una pujadeta que seria l'ona T.
+Això és un patró, una ona típica d'electrocardiograma.
+Pujadeta P, isoelèctric, QRS, isoelèctric, pujadeta T.
+Doncs amb aquest patró de Wellens, aquest segon patró de Wellens que n'hi diuen B,
+aquesta T, en comptes d'estar positiva, que és el que correspon a totes les derivacions, menys a vR,
+doncs la tenim profundament negativa.
+Això és un patró de Wellens tipus B.
+Sí, s'entén?
+Sí.
+Hauríem de tenir una ona T positiva i en canvi la tenim profundament negativa, venint d'una isoelèctrica.
+És a dir, tenim el QRS, tornem a la línia base, que hauria de ser més o menys recta.
+Si l'electro està ben fet, si hem fet un electro que és una merda, doncs ho hauríem de fer bé, companys.
+Els electros es fan bé.
+I llavors tenim aquesta T que baixa.
+Aquest que us he explicat ara és el patró B de la síndrome de Wellens.
+Tenim un altre patró, que és el patró A, que afecta només un 25% dels que presenten aquesta síndrome,
+que el que trobem, podem tenir, des que acaba el QRS fins que comença la T,
+pot ser isoelèctric o pot ser lleugerament elevat, però la part final d'aquesta ona T se'ns en va per sota.
+N'hi diem isodifàsica perquè comença positiva l'ona T, passa negativa i després torna a la línia isoelèctrica, d'acord?
+És a dir, tenim el patró A, que és una ona T isodifàsica, puja amunt, torna al 0, baixa i torna al 0.
+O bé tenim el patró B, que comença de la isoelèctrica, baixa cap avall i torna a pujar a la línia isoelèctrica.
+D'acord? Són els dos patrons d'aquesta síndrome de Wellens.
+Insisteixo, aquesta síndrome de Wellens, és el que passa quan teníem un tap a la descendent anterior que s'ha destapat
+i la persona tenia dolor abans i ara no en té. Això és important.
+Només és a V2 i V3? és sobretot a V2 i V3, però també ho podem tenir en altres derivacions.
+De fet, està descrit també a la cara inferior, per exemple.
+Si teníem la nostra artèria coronària dreta tapada i s'ha destapat,
+doncs també podem veure o bé el patró A d'aquesta T bifàsica o aquest patró de T invertida profunda, també el podem trobar a la cara inferior.
+Recordem que això de la síndrome de Wellens, estàvem parlant que estava tapat i es destapa.
+Teníem dolor, ara no en tenim. Això és molt, molt important.
+Si veiem aquests patrons sense això, no té cap significació.
+Si hi han ones Q abans, és a dir, aquests marcadors de necrosi miocàrdica prèvia,
+això tampoc entra dins el criteri diagnòstic.
+Podem trobar-nos que aquesta Q hi sigui i a partir d'aquí ja no podríem agafar i dir
+no, és que aquest senyor té això a punt de tapar-se o el tenia tapat i se li ha destapat.
+Fixeu-vos que he dit que aquest patró no és un patró d'oclusió miocàrdica,
+però és un patró que ens ha pràcticament d'obligar a portar el pacient a un lloc on el puguin destapar.
+Perquè si s'ha tapat abans, vol dir que es tornarà a tapar, en algun moment o altre.
+Quant de temps? No ho sabem.
+Hi ha literatura escrita, perquè això aquest patró ja deu tenir una trentena llarga d'anys.
+Les primeres descripcions que hi havia parlaven que era una inversió de l'ona U,
+que és una ona que apareix a vegades després de l'ona T,
+i que aquells que ho tenien tenien pitjor pronòstic que aquells que no ho tenien.
+Clar, si no els destapaven, a l'època en què es va descriure això encara no hi havia manera de destapar.
+Ara que tenim manera de destapar vol dir que si trobem algú amb aquesta síndrome de Wellens
+hem d'intentar vendre'l perquè vagi a cateterisme i el destapin.
+No hi ha cap problema, l'enviem al cateterisme a destapar. On és el problema?
+Reconèixe'l. El problema és reconèixe'l i enviar-lo a cateterisme.
+Si algú ens apreta, diem això és un Wellens, senyor cateterista, això és un Wellens, sisplau.
+Pensi que ara no està tapat, però d'aquí una hora, quan el torni a trucar, estarà tapat.
+I haurem perdut una hora. I uns quants miòcits pel mig.
+Potser una fracció d'ejecció s'haurà anat a fer punyetes.
+Bueno, és conya. En els temps que corren, la veritat és que els que fan cateterismes
+no tenen masses manies a entrar a la gent a destapar.
+Sí, sí, no, no. La majoria de vegades molt bé.
+L'únic que veig estrany és que, tot i que la instrucció del CatSalut del Codi IAM
+parla de síndrome de Wellens, i que en cas que pensis que clínicament el pacient
+té un síndrome coronari agut i l'electro és d'un síndrome de Wellens,
+és d'activació del Codi IAM. Tot i que la instrucció diu això,
+el SEM, l'última actualització aquesta que han fet del seu algoritme d'activació
+i tot això, no parla del síndrome de Wellens.
+Per això t'ho dic, per això faig una mica la conya de dir
+hòstia, com pot ser que la Societat Europea de Cardiologia digui que això
+és un síndrome de Wellens i tal, i el CatSalut diu que s'ha de destapar
+amb un Codi IAM, doncs ens podem trobar que potser no ens l'accepten fàcilment.
+Això que expliques ara és un dels motius que justifica aquest canvi de paradigma
+que pretenen els promotors d'això de l'OMI, de l'IAMO, que és que si ens centrem
+sempre única i exclusivament en l'elevació de l'ST, totes aquestes altres coses
+no entraran, i volem que entrin, perquè destapar quan està tapat
+és el que hem de fer. Aquest és un.
+Per això dic, jo intento recalcar de, hòstia, si trobes algú que et diu que no,
+doncs dir-li, escolta'm, doncs tu em diràs que no, però el CatSalut,
+a partir de les guies de la Societat Europea, diu que el síndrome de Wellens
+s'ha de destapar i s'ha de destapar ja, s'ha d'activar el Codi IAM.
+Recordar, insistir en això, aquests dos patrons que he intentat descriure,
+el que aquesta ona T, independentment si hi ha elevació de l'ST o no,
+aquesta ona T, és difàsica, és a dir, puja per sobre de la isoelèctrica
+i baixa per sota de la isoelèctrica i torna normal, o bé és invertida,
+ha d'estar precedit per dolor, o equivalent, i quan es fa aquest electrocardiograma
+ha d'estar sense dolor. Hi ha altres coses que simulen això,
+l'embòlia pulmonar, la hipertrofia de ventricle esquerre,
+el síndrome de Brugada també a vegades ho fa,
+les hipopotasèmies, que bé, les hipopotatèmies, que la T canvia completament.
+Per tant, si no tenim aquest dolor previ i fem l'electro sense dolor...
+detall tonto. Si tenim un pacient que ve per dolor toràcic
+i el dolor canvia, s'ha de repetir l'electro.
+Ja sé que ens fa molta mandra, els que ens dediquem a fer electros,
+hòstia, ara haig de fotre'n una altre, de electro?
+però si ja n'hi he fet un fa cinc minuts. Correcte,
+ però fa cinc minuts estava en unes condicions i ara està en unes altres.
+Mira, aquesta síndrome és un dels exemples que hem de fer electros seriats.
+Si tens un electro primer, que ni fu ni fa, i després tens un electro
+que et surt això, caram, aquí alguna cosa està passant.
+Aquest missatge és gairebé pels tècnics i les infermeres,
+escolta, que no ens faci mandra. Podem salvar uns quants cors així
+i no hauríem d'estalviar-ho.
+A les notes de l'episodi tindreu uns quants dibuixets
+de diferents electros amb aquesta síndrome de Wellens
+perquè entreneu els ulls, perquè al final l'electrocardiografia
+és bàsicament el reconeixement de patrons, perquè quan us trobeu
+amb un patró d'aquests digueu, ui, això és una d'aquelles coses estranyes
+i aneu a buscar què pot ser.
+Vinga, primer patró liquidat.
+Va, el següent.
+ Aquest tenia un nom estrany.
+Wellens, aquest em sembla que és un holandès, crec,
+i si no és holandès ho sembla.
+El següent és un tal de De Winter, el patró de Winter,
+aquest sí que em sembla que és dels Països Baixos.
+Aquest patró de De Winter, aquest és un equivalent d'elevació de l'ST.
+Recordem-nos-en, elevació de l'ST, el 75% són infarts aguts de miocardi
+oclusius van amb elevació de l'ST.
+Doncs d'aquest 25% que no, alguns poquets són les ones T de Winter,
+com que es coneix que corresponen a oclusió coronària,
+doncs els han fet equivalents.
+Hem d'estudiar les elevacions de de l'ST, a més, tots aquests patrons estranys.
+Aquest patró té la seva gràcia, en principi només es veu a cara anterior,
+per tant estaríem parlant de les derivacions, aquesta V2, V3, V4, V5.
+A V1 i V6 també es podria veure, però bàsicament a les precordials és on es veu,
+a la resta de derivacions representa que no s'ha vist,
+però com tot en electrocardiografia, si està en una banda,
+per quin motiu no pot estar a l'altra?
+Quina mena de patró és aquest?
+Doncs tenim unes ones T punxegudes i altes,
+que algú podria dir, home, com la hiperpotassèmia,
+que també les ones T de la hiperpotassèmia,
+un dels patrons que poden seguir és aquestes ones T punxegudes i altes.
+Però a diferència de les ones T de hiperpotassèmia,
+aquestes no comencen a la isoelèctrica, sinó que fan una depressió de l'ST.
+Tenim el nostre QRS i en comptes de, des de la S del QRS,
+tornar a la isoelèctrica, una línia plana i començar l'ona T,
+tenim que des de per sota de la isoelèctrica, el punt J,
+és a dir, on s'ajunta el final del QRS i comença l'ST,
+doncs està infradesnivellat.
+És a dir, tenim el nostre QRS, el nostre QRS precordial, que toqui,
+i en comptes de tornar... de la S, tornar a la isoelèctrica,
+una miqueta d'isoelèctrica i pujar a la T,
+Doncs tenim que des de baix se'ns enfila molt pronunciadament aquesta ona T punxeguda,
+de forma, aquí diríem còncava, perquè ho mirem des de dalt,
+fa una miqueta de cubeta i puja molt cap amunt.
+Aquest torna a ser un altre patró, aquest sí que és d'oclusió,
+si veus això és que està tapat, de la descendent anterior,
+aquesta branca del tronc comú de l'artèria coronària esquerra.
+Aquest patró, a diferència del Wellens, que té vora 40 anys,
+aquest en deu tenir, no arriba a la vintena,
+estic veient que va descriure el senyor De Winter l'any 2008.
+No hi ha gaire gent que el tingui,
+es parla al voltant del 2% de gent que té una oclusió de la descendent anterior,
+que sí que és una de les artèries que...
+potser és de l'artèria més comuna que s'obstrueixi,
+però bueno, en tenim tres,
+per tant no estem pas parlant del 2% dels infarts aguts de miocardi oclusiu.
+S'ha entès aquest també? Aquest és senzill, has de reconèixer el patró.
+Escolta'm, tenia entès que també hi havia alguna alteració en vR,
+l'elevació de la vR potser, o no té per què ser-hi, en el De Winter?
+Mira, una de les coses que ens passa aquí sempre
+és que... sobretot passa amb el síndrome coronari agut sense elevació de l'ST.
+És lo de les imatges mirall,
+Us en recordeu quan parlàvem de l'elevació de l'ST que sempre hi ha d'haver una imatge mirall?
+Doncs quan en alguna part de l'electrocardiograma
+hi ha alguna cosa que és negativa,
+en una altra part, a la imatge mirall d'aquest electrocardiograma,
+hi haurà d'haver-hi una part que és positiva.
+Aquí que estem parlant? Aquí estem parlant que hi ha, a derivacions precordials,
+hi ha un descens de l'ST, és a dir, l'ST està descendit
+i llavors, és quan llavors puja amunt, però al principi està descendit,
+per tant, a vR hi haurà d'haver-hi una elevació.
+En certa manera serà una imatge mirall.
+Si no hi ha aquesta elevació, no tenim aquesta imatge mirall,
+doncs això que estem veient no és un patró d'oclusió.
+D'acord? Això sempre és important.
+Un altre dia parlarem de l'infart posterior,
+que a cara anterior només veiem un descens de l'ST,
+però si fem les derivacions posteriors veiem una elevació.
+Doncs aquí ens trobem amb això,
+ens trobem que com que a cara precordial tenim aquest ST descendit al principi,
+doncs a vR, que no és estrictament imatge mirall de les precordials, oi?
+vR podria ser mirall de V6, més o menys, de la cara més apical,
+bueno, podríem assimilar-ho així,
+doncs tenim aquest avR s'eleva.
+Però no cal que s'elevi gaire, eh?
+Sempre aquest mil·límetre que tenim de marge per tot arreu,
+que és... en funció de com vagis de presbícia,
+és una miqueta el que ets capaç de veure.
+Jo que ja m'estic fotent vell,
+ja menys d'un mil·límetre cada vegada em costa més.
+I sense ulleres ja ni t'explico.
+Ok, doncs gràcies.
+Molt bé, i què més? Tenim un altre de...
+eh? que teníem un altre de... Sí.
+Si aquests us han semblat difícils, aquest que ve ara és l'hòstia.
+Aquest és el patró d'Aslanger, aquest encara és més nou,
+aquest ja que té menys de 5 anys que ha estat descrit,
+i encara n'estan parlant.
+Perdó, el de De Winter sí que en parlen, en el SEM,
+els criteris d'activació de l'IAM sí que en parlen del De Winter.
+Correcte.
+El de l'Aslanger aquest que dius ara no em sona de res, eh?
+No, i de fet no et sona, a part de recent,
+és perquè és un patró concret d'una altra mena de patrons més general
+que podríem dir el de l'elevació de l'ST en una sola derivació.
+Si recordeu els criteris d'elevació de l'ST,
+els criteris síndrome coronari agut amb elevació de l'ST és que has de tenir
+dues derivacions contigües, adjacents,
+ja no me'n recordo quina era el correct3,
+has de tenir dues derivacions a tocar que estiguin elevades.
+A tocar...
+Sí. Contigües, no? eren...
+Sí, contigües a tocar anatòmicament.
+Sí, sí, sí.
+És a dir, I i II són properes però no són regions contigües.
+vL i D.I sí que són contigües, per exemple.
+I per exemple, V1 i vR no són estrictament contigües
+però són bastant veïnes.
+I V6 i vL són bastant veïnes.
+V6 és apical i vL és cara lateral alta.
+No són estrictament veïnes en el sentit que no es donen la mà,
+no treuen la mà per la finestra i es passen la sal,
+però són properes.
+Què passa quan tenim només una sola derivació elevada?
+Si tens una sola derivació elevada,
+doncs no compleixes els criteris perquè necessites dues.
+N'hi ha diverses d'aquestes.
+Una de les que parlarem algun altre dia
+és l'elevació única de vR com a signe d'oclusió del tronc comú.
+Aquesta la deixarem per un altre dia.
+Aquesta és més llarga, potser, o és més important, la deixem per un altre dia.
+Aquest que us vull explicar jo, que és el patró d'Aslanger,
+és un patró en què l'única derivació,
+o sigui, les derivacions que tenen l'elevació de l'ST són
+són D.III i vR, que no són gens contigües.
+Entre l'una i l'altra hi ha 120 graus de diferència.
+D.III és 120 i vR són menys 150, crec recordar.
+No ho facis mirar, però sí em sembla que anava per aquí.
+Hi ha una diferència considerable entre les dues.
+I això per què passa?
+No són veïnes, però hi ha una certa relació.
+I això... tirarem enrere amb allò que has comentat abans
+d'aquella elevació de vR que es veu a les ones T de Winter.
+D'acord? Quin és el criteri electrocardiogràfic d'aquest patró d'Aslanger?
+Doncs tenim l'elevació de l'ST a D.III que havíem comentat.
+També tenim una certa imatge mirall d'aquesta elevació de ST a D.III,
+que és una depressió de l'ST de V4 a V6.
+I podem tenir l'ona T que al final pugi, acabi sent positiva.
+Una miqueta com el De Winter, però molt menys.
+I ens trobarem que a V1 el segment ST és és més elevat que a V2.
+Això ara sona una miqueta estrany.
+Què és el que ens passa aquí?
+Aquí el que ens passa és que tenim tapada la coronària dreta
+amb un pacient que el que té és malaltia multivas.
+Què vol dir això de malaltia multivas?
+Vol dir que de les tres artèries que tenim,
+la coronària dreta, la descendent anterior i la circumflexa,
+a totes elles hi ha una estenosi.
+Totes elles estan no tapades del tot, però estan estretes.
+Què ens passa?
+Quan un se'ns tapa, les altres artèries,
+que aquí hi ha un estrès coronari,
+hi ha una... No només tens
+la isquèmia del territori que està obstruït,
+sinó que a més a més tens una isquèmia no per obstrucció,
+sinó per manca de rec.
+El calibre del vas no és suficient perquè arribi tota la sang
+i per tant generes una isquèmia sense obstrucció.
+Tindries una part del cor obstruït i, per tant,
+amb elevació de l'ST,
+i una altra part del cor isquèmic sense elevació de l'ST,
+perquè els altres vasos són incapaços
+de suplir el flux necessari de sang
+perquè el cor funcioni correctament.
+Si això passa amb la coronària dreta
+ens trobem que l'ST de la part inferior hauria de pujar,
+perquè és la coronària dreta,
+per tant D.II, D.III i vF,
+que corresponen al territori inferior,
+eleven l'ST.
+Però és clar, tenim una isquèmia del territori dels altres vasos
+que això ens fa baixar l'ST.
+Com que amb l'electrocardiograma el que veiem
+no és més que la suma dels diferents moviments elèctrics,
+resulta que un ascens d'una banda
+i un descens de l'altra acaben compensant.
+I ens acabem trobant que aquesta elevació
+que hi hauria d'haver a D.II i vF
+es veu compensada pel descens
+que hi hauria a la resta de derivacions altes
+i per tant queda equilibradet,
+diguem-ho així.
+I ens acaba convertint un electro
+en què només hi ha elevació a D.III.
+Però només hi ha aquesta elevació a D.III
+perquè els altres queden amagats
+per aquesta compensació que es fa.
+No sé si s'ha entès.
+El concepte és una miqueta...
+Hi ha un dibuixet que podreu veure
+que explica una miqueta com aquests vectors elèctrics
+és a dir, aquest resultant
+de les diferents direccions de l'electricitat
+com acaba resultant
+en que només ens eleva a D.III.
+No sé si s'ha entès aquest
+Si, si no recordo malament
+has dit una elevació
+de l'ST a D.III,
+un descens
+de l'ST de V4, 5 i 6, descens de l'ST.
+Exactament. I aquí la part important
+és aquesta ona T,
+que al final és una miqueta positiva.
+Té a veure també amb això mateix.
+Clar, l'electrocardiograma el que ens fa és donar-nos
+la suma... O sigui, hi ha corrents elèctriques
+en diferents direccions i una compensa l'altra
+quan tu ho mesures. D'acord?
+Els criteris electrocardiogràfics d'aquest patró són
+elevació aïllada,
+és a dir, només tenim elevació de l'ST a D.III.
+Si tinguéssim elevació de l'ST a D.III
+i D.II, ja complim.
+Ja està. És un IAM inferior
+i ja està. Ja no cal buscar patrons estranys.
+Tenim aquesta
+mena d'imatge mirall,
+a V4-V6, amb aquesta ona T
+que al final acaba sent positiva.
+I sí que ens hem de fixar
+que és un detall que ens permet
+afinar encara una miqueta més aquest
+diagnòstic, que és que l'ST
+si eleva, ha de ser més elevat
+a V1 que a V2.
+Per què és complex aquest? Doncs perquè això passa
+només en un grup molt concret de pacients.
+També s'ha de dir que és un grup de pacients
+que té més risc de tenir infarts, que són els que ja tenen
+la malaltia multivas. És a dir, si tu
+ja ho tens tot desmanegadet,
+doncs tens més possibilitats
+que algun d'aquests altres vasos que estan
+mig tapadets es tapi.
+Si a més han hagut de fer coses abans, portes
+stents, els stents es poden tapar, etc.
+Aquest és bastant recent.
+De fet, hi ha un... mentre
+preparava la gravació
+d'avui, hi ha un article
+que vull llegir d'algú que suggereix que
+fent no sé què pot ser útil
+per determinar aquest patró. Però com que és
+de juliol de 2023, encara no hi he tingut
+accés. Això quedarà pendent per d'aquí uns anys
+quan tornem a revisar això.
+Aquest és molt recent.
+Aquest segur que no surt al Codi IAM del SEM
+perquè, deixa'm mirar, això el publica
+el senyor Aslanger ho publica el 2020.
+Imagina't. Fot quatre dies d'això.
+Aquest segurament si l'intentes vendre
+a l'intervencionista, potser et diu que li estàs explicant.
+Heu de ser molt amics, no? Per...
+Per què coli.
+ Sí.
+Bé, jo ho he intentat.
+Molt bé, no, no
+No sé si la descripció
+oral haurà servit o no. Deixarem
+els enllaços a les entrades del
+meu blog on estan explicats...
+De fet, són traduccions, em sembla que ho he dit
+al principi, són traduccions de la pàgina aquesta del
+Life in the Fastlane, que és una recomanació que vam fer ja fa uns quants
+episodis. Posarem els enllaços
+i deixarem alguns electros de mostra
+doncs perquè sapigueu de què estem parlant
+quan parlem d'això tan estrany.
+No, home, jo penso
+que sí, que almenys ja sapiguem que existeixen
+aquests patrons i
+amb el que ens has dit ja ens farem
+una idea. Tot servirà.
+Doncs, vinga va. Jo, per la meva banda, ja he xerrat prou.
+Doncs... després
+d'aquest tema principal,
+què et sembla? Seguim per les recomanacions?
+O...
+Home, ara toca el menys és més.
+Ara toca el menys és més?
+Val.
+A mi m'agrada molt aquesta secció, eh? Perquè...
+El menys és més.
+Com més va, més clar tinc que...
+menys és més.
+Doncs mira, jo tenia avui del menys és més
+seguint el...
+el que tenim a casa,
+que és l'Essencial, tenim vàries
+recomanacions de
+CatSalut, que a través de l'Essencial ens
+parlen del tema dels
+inhibidors de la bomba de protons. En tenim
+vàries. He fet una mica de barreja
+entre una que tenim del
+2013 i una que tenim del
+2017, que parla de les
+indicacions i sobretot de les no indicacions
+d'utilitzar
+fàrmacs antiulcerosos,
+concretament els inhibidors de la bomba
+de protons, amb molts malalts
+que actualment l'estan rebent. De fet,
+a Catalunya i a Espanya
+som els campions de
+la prescripció
+d'IBPs a tota Europa
+i està augmentant. I això són
+dades de fa uns quants anys, del 2017
+i d'abans. I dubto que
+en els últims anys això hagi millorat molt.
+El problema principal
+és que hi ha grups de pacients
+que prenen els inhibidors
+de la bomba de protons, l'omeprazole, per exemple,
+quan realment no està indicat.
+Només hauria d'estar indicat
+en pacients, també pot haver-hi
+alguna altra indicació eh? però en els pacients
+que prenen AINEs
+per protegir-los d'alguna
+malaltia ulcerosa,
+en aquells pacients que
+tinguin algun factor de risc
+associat. És a dir,
+els pacients amb AINEs
+que tinguin història
+prèvia d'ulcus pèptic, hemorràgia
+gastrointestinal o perforació duodenal
+i prenen AINE, o els prescrius
+tu un AINE, en aquests els hi has de donar
+un omeprazole, per exemple.
+Els pacients de més de 65 anys
+que els prescrius un AINE,
+també. Els pacients que
+per raons... la que sigui han de prendre
+dosis altes d'AINEs durant
+molt de temps, també. Els pacients
+que prenen AINEs més
+algun fàrmac com anticoagulants
+o corticoides o
+aspirina o algun altre
+tipus d'antiagregant,
+també els has de donar
+gastroprotecció amb
+omeprazole, per exemple. O pacients que
+prenen AINEs i tenen
+alguna comorbilitat greu,
+alguna patologia cardiovascular greu,
+o renal greu, hepàtica, o hipertensió,
+o una diabetis important, doncs
+aquest pacient, si els dones AINEs,
+també han d'estar gastroprotegits
+amb un inhibidor de la bomba de protons.
+Una de les recomanacions
+del 2013 de l'Essencial
+és que veuen que hi ha
+molts pacients que prenen un
+protector, un IBP,
+només perquè són polimedicats,
+o sigui, el pacient que pren
+10 medicaments, o 4, o els
+que siguin, però cap d'ells
+és un AINE, doncs no necessiten
+fer gastroprotecció.
+O els pacients, perquè tinguin més de 65 anys,
+no necessiten cap tipus
+de gastroprotecció si no prenen un AINE.
+De fet, parlen que ja el 2012
+érem com 1,5 milions
+de persones a Catalunya
+que preníem algun tipus d'antiulcerosos.
+I si eliminéssim
+els pacients
+que pel sol fet d'estar polimedicats
+ja els prescrivim un IBP,
+aquests que no ho necessiten, si no els donéssim
+estalviaríem 9 milions d'euros
+només a Catalunya. 9 milions
+d'euros, que potser no és molt,
+però sí que podrien servir per moltes coses
+almenys amb sanitat.
+No només és pel tema econòmic, sinó perquè
+el fet de prendre
+per exemple l'omeprazole,
+que és el més conegut i el més utilitzat,
+a part de ser
+a nivell nacional
+un cost econòmic important,
+no deixen de tenir
+efectes adversos importants,
+tot i que són poc freqüents,
+és veritat, però tenen efectes adversos
+importants. Entre ells,
+augmenta el risc de fractures, perquè
+disminueix l'absorció de calci,
+ i s'ha vist que la gent que pren IBPs
+durant força temps té més risc de fractures,
+hi ha més risc d'hipomagnesèmia,
+hi ha més risc d'estar
+infectat i tindre una colitis per
+clostridium difícil, dèficit de vitamina B12
+i pneumònia.
+Abans només se sabia que
+estava relacionat amb pneumònia a la UCI,
+però ara sabem que també pot estar relacionat
+al fet de canviar el pH gàstric,
+pot facilitar el fet que
+a nivell ambulatori també hi hagi més risc de pneumònies.
+I per tant,
+aquestes dues recomanacions de l'Essencial
+ens parlen d'això,
+que si prens AINEs, hi ha d'haver
+algun altre factor de risc
+que justifiqui
+el fet d'afegir-hi
+un omeprazole,
+i que el fet de prendre molts
+medicaments no és una indicació,
+o el fet de tindre més de
+65 anys, si no hi ha
+altres factors, no és una
+indicació per
+prescriure un IBP.
+Les recomanacions aquestes les trobeu en l'Essencial
+a la pàgina web del CatSalut,
+allà les trobareu.
+Les posarem a les notes de l'episodi,
+que d'això en faré un pòstit per enganxar la meva feina.
+Un milió i mig de catalans,
+això és un de cada cinc, que s'ha pres
+omeprazole. Déu-n'hi-do.
+Això fa... parlava d'una estadística
+del 2012. No veig
+clar que en aquests últims anys això hagi millorat.
+I som els campions d'Europa
+amb aquest tipus de medicaments,
+que ens hauríem de fer mirar una miqueta,
+perquè ni és barat, ni és sa
+prendre un... tot i que
+sembla que és per protegir i per prevenir
+i no sé què, si no està
+indicat, és car i a més
+té efectes adversos.
+ Si ho he entès bé vol dir que aquella persona que li receptem
+un dexketoprofèn per
+no sé, per una fractura que s'ha fet,
+si és això, el jove que es fractura
+fent el cafre, dexketoprofèn
+i no cal l'omeprazole.
+No cal. No, no. Home, si
+se l'hagués de prendre a dosis molt altes durant molt
+de temps, sí. Però si
+és per una patologia traumàtica
+normal i des d'urgències,
+home, com a mínim des d'urgències, que és del que
+parlem nosaltres, no és necessari només
+amb aquests grups, amb aquests factors de risc que
+he explicat. Si per algun altre motiu
+el seu metge capçalera considera
+que l'ha de prendre, doncs que el prengui. Però
+en principi, evidentment
+no és necessari.
+Molt bé.
+Aquest és interessant, eh? Ja et dic, això
+PostIt enganxat al costat de la pantalla d'ordinador
+del metge, allà amb un QR que digui
+vés a mirar això. Vols receptar omeprazole? Mira't això.
+Repassa els criteris.
+Tenim l'altra secció, Albert, que sempre parlem dels urgemmots.
+Jo en tenia uns quants preparats, continuant
+amb la línia dels últims episodis que hem fet
+de l'EMPodCat. No sé si tu en tenies
+algun preparat i vols comentar-lo o què et sembla?
+Sí, sí. Mira, a mi m'ha passat una cosa...
+Bueno, jo tinc fills, com molta gent,
+i tinc un nano que amb l'esport que fa
+no para de rebre cops a l'espinilla.
+I és clar, enteneu, espinilla,
+això no pot ser.
+No pot ser. Espinilla... no pot ser.
+Bé, ja ens entenem. Entendre'ns ens entenem el que voleu dir, però...
+ Perfectament. Però, aviam, fa 300 anys l'espinilla no existia.
+Evidentment, si existia l'espinilla segurament existia
+a l'oest, no? Però aquí no. No en teníem, d'espinilla. teníem una altra cosa.
+Com ho diríem, això? Com ho podríem dir, això?
+Jo n'he anat dient espina tibial, però és que he tingut a bé
+de veure que l'espina tibial és només la part de dalt
+d'aquesta espinilla.
+És el que hi ha just a sota del replà tibial,
+de la meseta tibial mal dita.
+Tot el resto, tota aquesta...
+tota l'espinilla, es veu que té
+un altre nom, que vaig trobar casualment
+això no sé si és paraulògic
+o diccionari, ja no ho sé. Es veu que es diu canyella
+Canyella.
+Això no ho tens al diccionari, eh? L'hauràs de posar
+a l'Urgentmot de la teva web.
+No.
+Canyella, com la canyella de cuinar, doncs canyella.
+Que és tota aquesta part de la tíbia
+que ens podem tocar, que tenim just
+a sota la pell, la part anterior de la cama.
+I el meu nano, això no para
+de fotre's cops a la canyella
+amb l'esport que fa.
+I vaig pensar això l'hi has de dir al Xavi que l'apunti. Aquest l'ha d'apuntar al diccionari.
+Sí, sí, doncs no és al diccionari.
+ Jo pensant, sempre havia pensat pensat que
+en podíem dir corró, també.
+No sé si seria...
+Corró?
+Corró, sí. Saps com el corró per amassar la...
+la pasta, per fer una base de pizza, aquestes coses?
+Jo penso que també es deia corró. No ho sé, eh?
+Doncs ho haurem de mirar. A veure si algun dels savis, alguna de les autoritats de la
+llengua considera que és adequat.
+Ho mirarem, ho mirarem.
+Va, va. Però bé, la canyella està clara, no?
+Està clar, està clar. Ara, però fixa't
+per això, o sigui, la podem liar molt, eh?
+Perquè tenim el repla tibial,
+la canyella, després ve el clavillar, que és com
+n'hi diem al turmell aquí a Cerdanya.
+L'empenya, l'empenya és...
+L'empenya, l'empenya... O sigui, podria arribar
+aconseguint no saber absolutament res del que estem parlant, eh?
+ Després, o sigui, ve els galindons.
+ Els galindons, qui en tingui. Sí, sí.
+Hòstia, és que la llengua és preciosa.
+Realment estem matant-la per només fer servir les 4 paraulotes de sempre.
+Mira que és rica, eh?
+Bueno, va, ja he rajat. Va,
+explica els que et queden de malalties, que estava molt interessant, també.
+Aviam, jo, sí, d'alguna malaltia...
+Ara, barrejareu alguna malaltia i alguna síndrome
+per començar la paraula malaltia.
+Perquè, tot i que, lògicament,
+jo penso que el 99% en diem malaltia,
+encara sento alguna vegada que algú parla d'enfermetat.
+Entre la població normal és força freqüent,
+però entre professionals també sento de vegades
+que parlen d'enfermetat.
+I abans de preparar-me
+això, ho he estat buscant també
+així, fent una cerca així una mica
+bèstia a Google, i he trobat algun hospital,
+clíniques i algun
+blog en català que parlaven d'enfermetats.
+Per tant, no és un...
+no està de menys recordar
+que el terme
+enfermetat no és correcte, sinó que n'hem de parlar
+sempre de malaltia.
+Saps que no em sorprèn això? Home, a mi em fa mal!
+Home, a mi em fa mal!
+Jo quan sento algú que diu enfermetat, dic hòstia, què és això?
+A mi també, però hi ha gent que encara diu ATS.
+Ah, val. Sí, val, però segurament... Sí, sí, clar.
+Si encara hi ha algú que diu ATS... Bueno, i
+enfermera, això ja ni t'explico.
+Enfermetat, escolta'm,
+no ve d'aquí, no ve d'aquí.
+A poc a poc anirà canviant. Malaltia, malaltia.
+Però malaltia, malaltia, queda clar, malaltia.
+Hi ha algun tipus
+de... no és cap malaltia,
+però és una característica que tenen algunes persones
+que només tenen un ronyó,
+jo sempre n'havia sentit a parlar
+d'un pacient monorré,
+doncs no, és mononèfric.
+El terme correcte, segons el termcat,
+n'hem de parlar de mononèfric.
+Després, si vas per algun lloc d'Àsia i Àfrica, això,
+pots tindre el risc que et piqui algun
+mosquit que té un plasmodium
+i és un paludisme.
+Malària també és correcte, però el termcat
+prefereix el terme paludisme.
+I després hi ha un parell de síndromes.
+Hi ha la síndrome de l'esclafament,
+és el crush syndrome, que
+podries dir aixafament o aplastament,
+però bueno, el termcat
+ens diu que, diguem, síndrome de l'esclafament,
+que són aquells pacients traumàtics
+que, per el que sigui,
+han tingut un traumatisme muscular
+que fa que... hi ha una compressió
+de les artèries, que fa extravasació, i això
+fa que la mioglobina entri dins el torrent sanguini
+i tapona els ronyons i fan
+xoc hipovolèmic, oligúria
+i, lògicament, una lesió d'extremitats important
+Doncs això és un síndrome de l'esclafament.
+Aquest és un tema, aquest és un tema per l'EMPodCat.
+La síndrome de l'esclafament?
+La síndrome de l'esclafament.
+Si algú del que ens escolta
+en sap o coneix algú que en sàpiga,
+n'hem de parlar, perquè aquest
+per una, dues o tres vegades a la vida que t'hi pots trobar,
+això hem de saber com va, perquè aquí la pots liar molt, també.
+ Com et despistis, també la pots cagar molt.
+Sí, sí, sí. I tenia un altre que era molt habitual i que
+aquest sí que és freqüent, i molt freqüent, malauradament,
+i a més a més que ens afecta
+a nosaltres molt directament, a nosaltres vull dir,
+no a tu i a mi, Albert, que segurament també,
+a tots els sanitaris, que és la síndrome d'esgotament professional.
+També en podríem dir la síndrome del cremat,
+però no en podríem dir burn-out.
+L'anglicisme o la versió anglesa
+que és el burn-out, pel termcat no és correcte,
+sinó que n'hauríem de dir la síndrome d'esgotament professional
+o la síndrome del cremat. I ja està.
+Aviat s'hauran d'inventar la síndrome
+del cremat del cremat, perquè
+ja això va evolucionant de tal manera que al final
+diria ara no em puc socarrimar més i encara
+trobes la manera de seguir pencant
+i socarrimar-te encara més.
+El cremat i el socarrimat, exacte.
+Doncs mira, no estaria mal pensat això.
+Quan ja semblava que no hi havia res més per cremar.
+Molt bé, molt bé, molt bé.
+Va, doncs, escolta'm, després d'aquest síndrome del...
+Com ho has dit?
+Cremat no. Has dit... espera't.
+Esgotament professional.
+Hòstia, això sona...
+Això...
+Això ho ha dit algun directiu, no?
+Sí, algun d'aquests que no sap ben bé el que és això. 
+D'acord, d'acord.
+Va, passem a les recomanacions i deixem aquí
+aquests temes tan depressius per un altre dia.
+Va.
+No sé si, Albert, tu... jo penso que seguint amb la teva línia
+tenies alguna cosa molt interessant avui per explicar-nos. Una novetat...
+Sí, la mateixa cosa que tenies pensada tu i que t'ha obligat a canviar-la.
+Una novetat, una novetat.
+Va, explica'ns-ho tu, que això és molt interessant, va.
+Bé, és una novetat que ha sortit fa...
+Això ho estem gravant un 9 d'agost.
+Doncs això deu haver sortit
+aquesta setmana passada, que hi ha hagut
+un metge americà que, basant-se
+en les ensenyances d'aquests savis,
+el doctor Smith, que també hem recomanat alguna altra vegada,
+que és un dels que està darrere d'això de l'Occlusive Myocardial Infarction,
+ha creat una... és una pàgina web, però bueno,
+seria una web-app també, podries tenir-ho al mòbil,
+que es diu Omiguide,
+Omiguide,
+O-M-I-G-U-I-D-E punt O-R-G, 
+en la qual tens allà categoritzades
+això que hem parlat avui,
+és a dir, aquests patrons electrocardiogràfics
+que són indicatius d'oclusió coronària,
+i també els patrons electrocardiogràfics
+amb elevació de l'ST que no són oclusió coronària,
+és a dir, que són un fals positiu,
+allà els tens descrits i
+organitzats, a més a més estan organitzats d'una manera
+que suposo que, potser d'aquí uns quants episodis en parlarem,
+estan organitzats seguint una mena de seqüència
+que hauríem de seguir, diguéssim, d'una forma sistemàtica de llegir aquests...
+Aquests patrons perquè no se te n'escapi cap i no et trobis enviant algú a cateterisme
+que no li tocava i a la inversa, que potser encara és més important,
+que algú que hi hauria d'haver anat no hi vagi.
+Omiguide, punt O-R-G.
+A part d'estar descrits, hi ha electrocardiogrames d'exemple
+per entrenar l'ull, també. És interessant i... a més a més
+de fer-lo servir per estudiar, jo penso que pot servir
+de referència per quan t'hi trobes. 
+Consulta, no? De consulta quan tens dubtes.
+Jo l'he estat mirant, també, i he vist que de cada criteri,
+de cada patró d'aquests, tens
+10 o 12 exemples
+que te pots anar entrenant l'ull
+i, a més a més, si tens dubtes és... i és molt fàcil d'accedir
+i de consultar, i està molt bé.
+Sí, sí. Recomanable.
+I segurament molts dels
+que ens esteu escoltant, com que ja sentiu l'Albert de tant en tant
+que ens parla d'aquests temes, segurament també ja us havia
+arribat, no?, aquesta, no?, seguint les xarxes socials
+i altres històries, l'Omiguide.
+O potser ja s'havien enterat abans que nosaltres, eh, Albert?
+Probablement, probablement.
+És el que té, és el que té estar a l'última.
+Potser hauríem de fer, com hem dit abans, eh,
+hauríem d'anar a l'antic i tornar-ho a portar.
+Repassar els clàssics.
+Va, quina t'ha fet buscar de nou, Xavi?
+Mira, no sé si ho havia comentat alguna vegada,
+és una aplicació que jo faig servir des de fa molts anys
+i que la veritat és que, bé, la faig servir molt i me va molt bé
+i n'hi ha moltes que són molt similars,
+però bé, jo faig servir l'Evernote.
+I l'Evernote és una eina multiplataforma
+que la pots tindre també amb una app en el mòbil
+i serveix per apuntar-te tot allò que vulguis recordar.
+ I jo, entre altres coses, tinc dintre l'Evernote una
+llibreta que es diu Notes d'Urgències
+i tot el que veig, que llegeixo
+o que em diuen i que sé que la meva memòria falla, evidentment,
+doncs m'ho apunto a l'Evernote i faig una nota,
+m'apunto allò o faig una foto,
+o me baixo, no? si estic mirant al Twitter alguna cosa i veig
+algun esquema xulo, me guardo
+la foto aquesta, pum, i la penjo
+directament en una nota de la meva llibreta de Notes d'Urgències a l'Evernote.
+I en cada apunt d'aquests hi puc anar-hi posant, per exemple, de, no ho sé,
+d'hiperpotassèmia o de cetoacidosi diabètica o de mil històries,
+tinc un apunt d'aquests i en aquest apunt hi vaig posant tot el que trobo,
+sempre que veig alguna cosa interessant
+en el mateix apunt, doncs hi vaig posant
+tot el que vaig trobant sobre aquell tema.
+I és molt fàcil de buscar-ho després,
+perquè a cada un d'aquests apunts,
+a cada nota, tu li pots posar, lògicament, li has de posar-hi unes etiquetes
+i després tens un buscador que pots buscar per temes, per paraules o per etiquetes
+ i... no?, si tens un dubte de... 
+necessites alguna cosa del sulfat de magnesi, 
+necessites alguna cosa d'una crisi hipertensiva, 
+necessites alguna cosa de la procainamida,
+necessites alguna cosa de no sé què, 
+doncs allà hi tens de tot i pots guardar-hi notes escrites per tu a l'ordinador, 
+hi pots posar-hi fotos, hi pots posar-hi PDFs, hi pots posar-hi notes de veu, qualsevol cosa.
+Per tant, quan jo tinc un dubte, me'n vaig i trobo una nota que parla
+de la cetoacidosi i trobo el PDF del protocol del meu hospital,
+un PDF d'una guia de no sé qui
+hi trobo unes captures de pantalla que he fet de l'ordinador d'una pàgina web
+i hi trobo unes fotos que he baixat del Twitter
+d'algú que és farmacèutic d'urgències i no sé què i posa coses...
+tot allò ho tinc en una sola nota
+que etiqueto amb unes quantes etiquetes i és fàcil de trobar.
+Hi ha una versió gratuïta d'això
+i hi ha una versió pro que pagues
+no sé si són 10 euros l'any o alguna cosa així
+i que et permet alguna cosa més.
+Per exemple, vol dir que potser tens accés offline
+sense que tinguis cobertura, per exemple
+els que fem SEM a llocs no diria remots però si rurals
+on no hi ha cobertura.
+Aleshores, si confies que tens algun app que t'ajuda
+a resoldre algun dubte, doncs si te'n vas
+a Maçanet de Cabrenys o Albanyà
+és possible que no tinguis cobertura allà.
+Per tant, amb l'Evernote sí que hi ha una versió que les llibretes
+que tu vulguis te les pots baixar offline i les pots consultar sense tindre cobertura.
+I una altra cosa que pots tindre és que
+tu pots decidir si aquelles notes que fas
+o aquelles llibretes que tens a dins de l'Evernote
+les pots compartir amb alguna persona en concret
+ o les pots fer públiques. 
+I jo, per exemple, la meva llibreta que es diu Notes d'Urgències,
+ on hi tinc 300 notes gairebé crec, la tinc pública
+perquè són coses que jo trobo i si a mi em serveixen
+és possible que a altra gent també li pugui servir. 
+Per tant, la tinc en un enllaç públic
+i tothom que la vulgui consultar entra allà i busca...
+síndrome de Wellens. I aviam què tinc jo apuntat del síndrome de Wellens, 
+que ho he tret de molts llocs.
+Per si a algú li interessa, us passo la versió
+escurçada de l'enllaç d'accés a aquesta llibreta de Notes d'Urgències
+que és bitly.com/apuntsurg per qui vulgui consultar-ho.
+Molt bé, moltes gràcies.
+Això aquí hi ha teca per estona. 
+Sí, sí, aquí hi ha informació, aquí n'hi ha molta.
+Hi ha un altre escurçador
+interessant de la gent de la Fundació punt cat, que és el ja.cat
+Ah, no el coneixia aquest. Ja.cat?
+El pots personalitzar com el bit.ly, doncs ja.cat
+ja.cat el que vulguis, ja.cat apunts d'urgències, per exemple. 
+Ah, ostres, molt bé. No el sabia. Molt bé, doncs el farem servir.
+I mira, i abans d'acabar, jo no sé massa bé com explicar això,
+perquè jo vaig fer una recomanació en el seu dia que després vaig desrecomanar
+I ara tornes a recomanar.
+No ho tinc clar. Algú se'n recorda?
+és aquella aplicació que es diu PM Cardio.
+Era una aplicació que pretén ser una ajuda... 
+Et fa uns informes amb uns diagnòstics automatitzats, ara ja per intel·ligència artificial
+en algunes coses i amb alguns suggeriments de tractament. 
+Això en la seva fase, diguem-ne, beta va ser gratuïta
+i podíem digitalitzar, que era pel que feia servir jo,
+digitalitzava electros, feies una foto a l'electro i te'ls passava
+a PDF en format molt maco, molt visible.
+Podies tenir electros fets una birria, doblegats, que no es veia res, 
+tacats i te'ls deixava preciosos.
+Després ho vaig desrecomanar perquè va passar a ser de pago
+i pagant pasta a gansa
+i resulta que ara et permeten cinc...
+digitalitzar-ne 5,
+quan et registres. Cada vegada que et registres
+amb un compte de correu electrònic diferent, en pots fer 5 de gratis.
+No m'atreveixo a recomanar-ho de nou, però penso que és una informació rellevant, 
+ja que us vaig donar aquesta informació en el seu moment, doncs mira, us dono aquesta altra.
+Va, està bé. I si hi ha algun hospital o algun centre que els hi sobri la pasta,
+que ho paguin, no?
+Hi ha una subscripció caríssima, evidentment, hi ha una subscripció per entitats
+i jo personalment trobo que això seria bastant interessant.
+ Sí que és cert que la majoria de dispositius ara mateix
+t'ho passen a dicom, al format digital, i puges a la història clínica en format digital,
+però encara circulen moltíssims electros en paper que es perden
+ i a més a més sempre es perden els més importants. Això fixeu-vos-hi, que...
+aquell electro que no vols que es perdi, bé, aquell has de fer la foto de seguida, 
+perquè aquell es perdrà segur,
+i tot i que tu t'hauràs petat la llei de protecció de dades
+per haver fet foto d'aquell electro, 
+al cap de quatre dies te'l vindrà a buscar algú perquè
+ha passat alguna cosa amb l'electro en paper important que s'ha perdut.
+A mi ja m'ha passat diversos cops i, hòstia, és una experiència bastant desagradable, eh, 
+els electros en paper aquests que desapareixen.
+Molts electros hi ha per WhatsApp, també, no?
+No, mai, mai, mai, mai es passen electros per WhatsApp.
+Mai es passa cap informació clínica de pacients per WhatsApp.
+Hi ha mètodes molt més eficients,
+molt millors de les nostres empreses que ens permeten comunicar
+comunicar dades confidencials de pacients.
+Tots els coneixem, eh, que sí?
+Jo tampoc. 
+Per cert, vosaltres encara no teniu l'Odissea?
+Com està l'Odissea a Cerdanya?
+No està. Avui he vist que els hi han... 
+No està?
+He vist que els hi han donat un premi.
+Escolta, els hem de portar a parlar amb aquesta gent, també, eh? 
+Clar.
+Els hem de portar a parlar. He vist que
+amb això han baixat 15 minuts el temps d'arribada a la taula d'hemodinàmica.
+No són pas pocs, eh?
+Ah, bé, no, està bé.
+Està molt bé.
+Està bé, està bé.
+Està molt bé, està molt bé. Això ens ho han de venir a explicar.
+A veure si els arribem a pescar algun dia, que això...
+Ai, això de trobar gent... Això de produir, eh?
+de fer la producció, de contactar amb els convidats,
+coincidir, que ens trobem,
+poder-ho gravar i tal, està costant molt, eh?
+S'hi ha de dedicar molt d'esforç, això, eh?
+Haurem de donar alguna recompensa. Hauríem de pensar en algun...
+No sé, unes vacances a Puigcerdà, a la Seu, o...
+Clar, clar, sí, sí. Espera, espera un moment, que mira el pressupost
+que tenim. Espera't, a veure... Negatius, tu. 
+I a la Costa Brava, no? Aquí també podríem fer unes...
+No? Els col·laboradors, que un cap de setmana...
+No? A l'agost i així. Està guai.
+Sí, sí. El que passa és que si no es paga cadascú el seu, em sembla que malament, eh?
+Bé, doncs fem d'amfitrions i els acompanyem a visitar el poble...
+Sí, això sí, veus? Això sí que es pot fer.
+Coneixem alguns racons que encara no coneixen masses turistes
+Bé, cada vegada menys perquè a tot arreu està ple de gent
+o sigui que tampoc serà tan diferent.
+Doncs va, doncs convidem a la gent que tingui ganes d'explicar-nos coses, que es posi en contacte
+amb nosaltres. I res, quedem un dia i en una horeta fem una
+gravació del que ens volen explicar
+i... Mira, això és una col·laboració
+desinteressada, altruista, i que
+se'n pot beneficiar molta gent.
+I tant. Arribem a bastanta més gent del que ens pensem, eh?
+Jo últimament començo a tenir la sensació
+d'una certa responsabilitat, eh? 
+No la cagués gaire quan parlo.
+Molt bé, Albert. Doncs... 
+Escolta, amb aquesta gent
+amb qui... que ens escolta, que són uns quants...
+Jo seré al Congrés de l'EUSEM a Barcelona...
+Deixa'm mirar quines dates és això...
+Mitjans de setembre, no? 
+18, 19, 20 de setembre, aquest Congrés de la Societat Europea
+de Medicina d'Urgències, a Barcelona, jo hi seré.
+Si algun dels que ens escolteu
+esteu per allà, doncs jo què sé... Pronuncieu-vos.
+Ens podem trobar, anar a fer unes birres,
+o ens expliquem alguna pena, o que s'escaigui.
+Bé, ens desvirtualitzem,
+perquè a nosaltres només ens heu escoltat, no ens heu vist encara.
+Exacte, exacte.
+Doncs queda dit, Albert.
+Doncs res, a la propera, ja, no?
+Exacte. Fins  la propera. Vinga, adéu-siau a tothom
