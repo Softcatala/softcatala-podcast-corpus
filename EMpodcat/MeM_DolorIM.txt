@@ -1,0 +1,13 @@
+# Exported by Aegisub 3.2.2
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+Per al Menys és Més d'avui, ens volem fer ressò d'una recomanació de l'Essèncial de la Generalitat de Catalunya.
+Aquesta recomanació parla sobre el tractament analgèsic parenteral.
+Ens recomana que sempre que sigui factible, per al control de dolor, cal escollir el tractament no parenteral com a primera elecció.
+I ens recorda que l'ús innecessari de tractament analgèsic parenteral per al control de dolor associa més riscos de complicacions evitables per al pacient,
+especialment quan existeix una alternativa analgèsica amb bona efectivitat i millor seguretat, com poden ser les vies orals o tòpiques.
+A la pràctica clínica fem servir molt sovint la via intramuscular, perquè creiem erròniament que a la via oral els fàrmacs s'absorbiran més lentament o no amb la seva totalitat.
+Això no és cert. Per exemple, en el paracetamol, en solucions aqüoses, aquest paracetamol s'absorbeix ràpidament i gairebé totalment per via oral.
+Cal tenir present que la via intramuscular té riscos inherents en ella mateixa, com poden ser els abscessos o en casos molt rars de fasciïtis necrosant.
+Evidentment, aquesta recomanació de l'Essèncial no ve pas sola.
+També en les 15 recomendaciones de No Hacer, la Sociedad Española de Medicina de Família y Comunitaria també ens recomanen no fer servir la via parenteral si disposem d'opcions igualment eficaces per via oral.
+Per tant, ja ho sabeu, amb pacients amb dolor no es recomana el tractament parenteral com a primera elecció.

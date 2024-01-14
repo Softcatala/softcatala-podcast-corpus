@@ -1,0 +1,880 @@
+# Exported by Aegisub 3.2.2
+EmPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvingudes a un nou episodi de l'EmPodCat, el que fa 28 d'aquesta tercera temporada.
+Avui és un programa, que hi ha alg cosa més que ens explicarà coses interessants.
+Anirem al gra perquè no sabem si se'ns allargarà molt.
+Jo sóc l'Albert, sóc l'infermer de Cerdanya que presenta aquest pòdcast també i
+justament l'altra persona que s'hi posarà ara, en Xavi.
+Fa ja uns quants anys que hem començat. Va, Xavi, ataca!
+Sí, jo em presento, sóc en Xavi Basurto, soc metge d'urgències de l'Hospital de Figueres
+i també vaig amunt i avall amb la 606.
+També ens podeu seguir en el blog d'Urgem i a Twitter, doncs a urgem.cat.
+I l'Albert també el podem seguir a moltes...
+On te podem seguir tu, Albert? El que ens expliques i el que fas difusió, on te'l podem llegir?
+Bé, jo escric al meu blog, emermedpirineus.cat, un nom fàcil també.
+I em trobareu per el mateix nom al Twitter i a Mastodont.cat.
+Fetes les presentacions dels de sempre, avui tenim com tenim de tant en tant,
+no tant com ens agradaria, perquè ens agradaria que fos més habitual.
+Tenim un convidat entre nosaltres, que és l'Àngels Gispert,
+que és metge de família, urgentòloga, metge d'urgències
+i actualment és la cap de servei dels serveis d'urgències del Trueta
+i que ens ve a explicar temes molt interessants
+que ara començaran a ser més de moda o més freqüents en els serveis d'urgències.
+No tinc clar que sigui aquesta temporada la més idònia,
+però que ens ve a parlar sobre intoxicacions per bolets.
+Hola Àngels, què tal?
+Hola, bona tarda.
+Ens véns a explicar coses de bolets o parlem d'alguna altra cosa?
+Perquè no sé si aquest any, com que no ha plogut gaire,
+no sé si tindrem molts problemes amb els bolets. Com ho veus això?
+Bé, això mai se sap, perquè jo crec que últimament no depèn tant de la meteorologia
+com del sentit comú dels boletaires aficionats.
+Una de les coses que sabem de la natura és que les coses dolentes i les coses tòxiques
+són capaces de sobreviure en qualsevol condició climatològica.
+Sempre en cau algun. Aquest any en vam tenir a la primavera d'intoxicats per bolets.
+Ja ho veurem.
+Tu, a part de tenir aquesta expertesa en temes de toxicologia,
+vas a caçar bolets de tant en tant o no t'interessa el tema?
+Hi havia anat perquè el meu pare és un gran boletaire.
+Jo soc de la Bisbal d'Empordà i per allà a les Gavarres l'acompanyava quan era petita.
+Però jo tinc un problema que em passa el mateix amb la dermatologia.
+No tinc memòria fotogràfica. Soc un desastre. Jo ho veig tot igual.
+I les vegades que he anat a buscar bolets, després arribo i la meva mare me'ls tira tots a la basura
+perquè no hi ha res bo. O siqui que...
+Jo em dedico al que ja se l'ha menjat i els compro al supermercat
+o als que va a buscar algú que els coneix.
+O sigui, ai anem al Trueta i ens regales bolets, no els agafarem.
+Millor que no.
+Hem llegit diverses coses que ens havies passat, el butlletí de toxicologia
+i algun document que ens havies passat.
+I tant l'Albert com jo ens hem anat apuntant alguns dubtes que ens havia generat el que hem llegit.
+I si et sembla, no sé, si et sembla vols començar a explicar-nos el maneig,
+el diagnòstic, tractament i pronòstic i aquestes coses que ens podem trobar
+amb la gent que s'intoxica per bolets.
+Doncs, si vols començar, nosaltres després t'anem escoltant i t'anem interrompent
+per fer preguntes i resoldre dubtes?
+Perfecte. Primer explicar-vos una mica com vaig arribar al món dels bolets.
+Perquè ja us dic, no sóc caçadora de bolets i sí que a casa meva sempre s'han anat a buscar bolets
+i s'han cuinat, però això va ser una mica de casualitat.
+A mi m'agrada molt la toxicologia, estic posada en diversos grups de treball
+i quan vam fer la primera jornada de toxicologia de la societat catalana,
+el tema eren els bolets. A mi em tocava presentar una taula
+i el primer ponent, que havia de ser en David Gràcia, que suposo que coneixeu,
+que també és metge d'urgències i gran boletaire de l'Hospital de Palamós,
+havia de presentar quins eren els bolets tòxics de Catalunya
+i com es confonien amb els comestibles.
+I just quan li vam dir la data, que ja tenia tot preparat, ell estava fora de viatge,
+amb la qual cosa m'ho vaig haver d'aprendre. I a partir d'aquí va sortir una mica la passió dels bolets.
+I una mica arrel d'aquella jornada és quan hem anat fent guies
+i cada any als del meu servei els faig l'speech habitual, a aquesta època,
+de començaran a venir bolets, cada pacient que vingui amb diarrees, pregunteu-li.
+I una mica també parlar que ha canviat el perfil de l'intoxicat per bolets,
+perquè ara mateix vam tenir durant molt de temps un programa a la tele,
+caçador de bolets, hi ha aplicacions de mòbil que tu vas al bosc i li fas una foto
+i l'aplicació et diu si és bo o dolent i la gent se'n fia i se'l menja,
+que també és una cosa que no he entès mai.
+Hi ha concursos, diades de bolets, vull dir que és com una fal·lera de voler ser neorural.
+I abans potser et trobaves gent que eren molt experts i que es confonien.
+Tots sabem que un dels bolets més apreciats que tenim aquí és l'ou de Reig
+i l'ou de Reig és una amanita i d'amanites n'hi ha molts tipus,
+però també hi ha les més tòxiques que tenim a Catalunya.
+I l'ou de Reig quan és petit no té color i és molt fàcil confondre
+el que tu et penses que és un ou de Reig, que si deixes passar un parell de dies
+es tornarà taronja amb una amanita verna, amb una amanita phalloides,
+que seran... l'ou de Reig es tornarà taronja i l'amanita phalloides es tornarà verda.
+Hi ha el boletaire expert que té moltes ganes de trobar ous de Reig,
+doncs els agafa abans que els agafi el veí que vindrà demà a buscar bolets
+i és quan es confonien i s'intoxicaven.
+Últimament en els darrers anys el que estem veient és que hi ha molt de neòfit dels bolets,
+d'aquests que van amb l'aplicació i que van amb el que han vist a la tele
+i agafen tot el que els hi sembla i venen intoxicats.
+Ha canviat una mica el perfil del pacient, no sé si m'explico.
+I creus que hi ha més incidència d'intoxicacions per bolets que fa 10 anys o 20 anys
+o abans d'aquestes aplicacions i d'aquestes programes i tot això o no?
+Sí, exacte, hi ha més incidència però també veiem més intoxicacions lleus
+perquè agafen bolets que fan més simptomatologia gastrointestinal
+o que fan una clínica molt més lleu.
+És molt freqüent gent que va i veu xampinyons, que és l'únic que coneixen del supermercat,
+i hi ha xampinyons bords que et poden fer un tropell gastrointestinal impressionant.
+Una mica ha canviat el perfil, encara també algun coneixedor de bolets que s'ha confós,
+però és una mica el que hem vist a tots els hospitals que acaben atenent pacients boletaires,
+que són els del nord i de la província de Girona.
+Total, que tenim poder una miqueta més d'incidència d'intoxicacions però acostumen a ser lleus.
+La majoria són lleus, sí. Hi ha anys que no veiem cap cas greu
+i ja et dic que aquest any ens vam estrenar a la primavera
+amb una família de tres que van menjar una amanita verna, que és la que surt a la primavera,
+i que van acabar fent hepatotoxicitat. No van necessitar trasplantament, van acabar bé.
+Perquè els que són més tòxics, suposo que són els que fan hepatotoxicitat,
+tenen una estacionalitat o no té per què? L'amanita phalloides, no sé què,
+te la pots trobar a la primavera també o no?
+No, la phalloides és més de final d'estiu tardor,
+però hi ha un tipus d'amanita, que és l'amanita verna, que creix a la primavera,
+en zones altes, al Pirineu, i que aquesta sí que et pot fer igual de hepatotoxicitat
+que l'amanita virosa o que l'amanita phalloides, que són més de tardor.
+Àngels, lligant amb el que has comentat abans,
+que tots els clients que vénen amb cagarrines al Trueta se'ls pregunta si han menjat bolets,
+tenim alguna manera de saber si la potencial intoxicació serà greu o lleu
+en base a la simptomatologia que ens refereixen?
+Sí, de fet, amb les intoxicacions per bolets el més important és fer una bona anamnesi,
+fer una bona història clínica, perquè amb això pots arribar a identificar
+quina família de bolets ha pogut menjar.
+Un moment, o sigui, un pacient a urgències que no se li fa el tac abans de preguntar-li res?
+A vegades passa, a vegades passa, que no et sentin els radiòlegs, però sí, sí.
+Això ho intento jo, eh?
+El que els he fet és unes fitxes, tots els ordinadors tenen accés a una intranet
+i tenim com un PowerPoint, a cada box hi ha un ordinador i els passem allà les fotos
+i que busquin quina espècie creuen ells que han menjat.
+Això és pels pacients perquè mirin les fotos i s'ho vegin?
+Sí, o sigui, el primer que has d'intentar amb l'anamnesi, a part de preguntar els símptomes,
+i ja seria més pels entesos, és primer si els han agafat ells i saben on l'han agafat,
+perquè el tipus de bosc també fa que creixin més uns bolets que els altres,
+l'època de l'any també, que t'expliquin com era macroscòpicament aquest bolet,
+si l'han menjat cru o cuit, perquè hi ha alguns bolets que la intoxicació la fan
+per haver-lo cuinat poc o per no haver-lo dessecat, les múrgoles que són tan apreciades,
+que a més també són de primavera, si no les desseques bé o si te les menges,
+o sigui, no les has assecat i les cuines acabades de collir i no les coles bé,
+que encara hi hagi el suc, s'han de rentar molt bé, poden fer una clínica neurològica,
+amb atàxia i, bé, és un quadro. Arriben que alguna vegada s'ha activat un codi ictus,
+pensant que era un codi ictus i eren múrgoles.
+Vull dir que preguntar on han recollit el bolet i després la simptomatologia.
+Quan li han començat els símptomes i a quina hora ho ha menjat.
+I quan preguntem a quina hora, és molt important saber si l'han menjat només en un àpat
+o en més d'un, perquè històricament les intoxicacions per bolets es diferencien
+en període de latència curt i període de latència llarg.
+Els de període de latència curt normalment són intoxicacions lleus. Si jo vinc a urgències perquè he començat amb vòmits i diarrea
+i us dic, mira, són les 4 de la tarda i a la 1 he dinat bolets,
+i jo crec que han sigut els bolets. És molt important preguntar si a la 1 és l'única vegada
+que has menjat aquests bolets o si en vas menjar ahir per sopar i a la 1 t'has acabat el que quedava.
+Perquè pot ser que els bolets que ara t'estiguin provocant els vòmits i les diarrees
+siguin els que et vas menjar ahir a la nit, i això seria un període de latència llarg.
+En canvi, si només els has menjat a la 1 del migdia i a les 3 o les 4 comences amb diarrees,
+perquè els que són gastrointestinals comença la clínica molt ràpid,
+doncs ja et pots assegurar que no seria tan greu.
+L'altra cosa que hem de preguntar és si han menjat una sola espècie o més d'una.
+Si jo sóc aquesta pacient que vinc a les 4 de la tarda amb vòmits i diarrees
+i us dic que a la 1 he menjat bolets i he menjat una sola espècie,
+doncs serà una intoxicació gastrointestinal i ja està.
+O sigui, se'n va cap a casa amb l'Aquarius i el Primperan, poca cosa més.
+Però si hi havia una barreja de bolets, tu no saps si el bolet que t'està fent la clínica
+en un període de latència curt et pot estar amagant la clínica que et pugui fer un de latència llarg,
+que encara no hagi començat els símptomes.
+O sigui, que és important preguntar a quina hora s'ho ha menjat,
+si ha sigut amb una sola presa o amb més d'una i si en aquest àpat hi havia una sola espècie o no.
+Per tant, si només hi havia una sola espècie i fa menys de 6 hores que s'ha menjat això
+i ja té clínica... la que sigui, hem de pensar que tot anirà bé i que serà un quadre lleu.
+Podem confiar-hi en això, sí?
+Exacte. Hem de buscar quin tipus, i aquí hi ha moltes taules dels diferents toxíndromes que et poden provocar,
+quin tipus de clínica lliga amb el que t'explica el pacient i tranquil·litat,
+perquè és tractament simptomàtic la majoria de vegades.
+Jo tot això ho veig molt clar quan el pacient ja us relaciona que ha menjat bolets amb el que li passi.
+Si això és així, està xupat.
+El que veig més difícil és quan la clínica, per exemple, no sigui gastrointestinal,
+que és de taquicàrdia o bradicàrdia, hipotensió o de broncoespasme o una clínica neurològica.
+Ja sé que hi hem de pensar sempre que pot ser una intoxicació per bolets,
+però si et ve algú amb un deliri o amb disminuïció del nivell de consciència o amb una clínica rara,
+no ho sé, alteracions de... atàxia i no sé què,
+depèn de com t'agafi i a l'hora que t'agafi i estiguis tu treballant,
+fàcilment se't pot passar que allò pugui ser una intoxicació per bolets.
+No sé, em va donar la sensació, eh?
+Sí, sí, tal qual, eh? I a mi també se'm passa i sóc una friqui de la tòxico,
+però clar, jo encara hauria de dir, no?, el que els dic als estudiants o quan faig alguna xerrada,
+és, bueno, us heu de saber les síndromes toxicològiques,
+perquè la tòxico és la part de la medicina més antiga que hi deu haver.
+Sempre la gent s'ha assassinat amb tòxics, no?
+Vull dir que això està molt estudiat i tu t'has de saber quatre o cinc toxíndromes
+i al final el que t'ocasiona el toxíndrome moltes vegades és igual i moltes vegades ni ho saps.
+No ho arribes a saber, no?
+Però sí que has de saber que si tu tens un pacient en una clínica colinèrgica,
+que és el típic que et ve, és aquell pacient, i perdoneu, eh?,
+que ho digui així, però com una mica fastigós, no?
+Perquè vomita, té molta mucositat, està molt suat, un pacient així com molt moll, no?
+Que estigui bradicàrdic i que estigui hipotens, tu sempre has de pensar en un síndrome colinèrgic
+i provar amb una atropina a veure si funciona, no?
+I això serà igual el que t'ho causi, sigui un bolet o sigui qualsevol altre tòxic.
+La sort que tenim aquí, perquè en altres regions del món tenen bolets que són més letals,
+és que els que aquí maten, o sigui la gent que s'ha mort per intoxicacions per bolets a Catalunya,
+sempre són per síndromes hepatotòxiques.
+O sí que pot ser per complicacions perquè et deshidratis perquè has estat amb molts vòmits i diarrees,
+però al final el que mata més és la síndrome hepatotòxica
+i aquests venen normalment parlant i vomitant, a no ser que arribin tard.
+No sé si t'he contestat la pregunta, però al final és això.
+Vull dir que moltes vegades amb la tòxico no acabes de saber què s'ha pres, no?
+Suposo que si no acabes de lligar els signes i símptomes del pacient amb un tòxic síndrome concret,
+suposo que t'hauria de cridar l'atenció que no saps identificar ben bé què li passa al malalt, no?
+Té una cosa rara que no sé què carai li passa a aquesta persona, que no ho sé identificar,
+en aquests moments que se t'il·lumini la bombeta de dir
+hòstia, no serà una intoxicació per bolets i després preguntar-ho.
+Exacte. Aquests són els que els fas el tac i després preguntes, no?
+Fas el tac de l'ictus i veus que no és un ictus i després comences a pensar, no?
+Aquí la sort de la latència curta és que tothom relaciona aquelles vomiteres, aquella cagarrina, amb el que han menjat.
+Sí, això és més fàcil, sí.
+Però clar, penso que una latència llarga, si vénen l'endemà,
+potser vénen tan cagats que no se'n recorden que el dia abans van menjar el bolet.
+Exacte. O hi ha alguna... jo no n'he vist mai cap, però hi ha la síndrome nefrotòxica, pot aparèixer fins a 20 dies més tard.
+Ve un pacient urgències per una insuficiència renal o amb qualsevol simptomatologia i lliga tu,
+perquè sí que li preguntaràs si s'ha pres ibuprofèn i si ha estat amb vòmits i amb diarrees,
+però pensa tu que fa tres setmanes hagi pagut menjar un cortinari o alguna cosa així.
+I sempre, bé, suposo que moltes vegades també ens ajuda que vinguin diverses persones intoxicades, no?
+Que hagin menjat junts o visquin junts i tot això, i després és més fàcil de lligar caps.
+I normalment creus que és més freqüent intoxicacions a nivell de restaurants i supermercats i coses d'aquestes?
+Això passa o no? O és més bé consum que tu te'l vas a collir, te'l cuines a nivell individual? És més freqüent, no? Suposo.
+Sí, hi ha hagut algun cas que s'hagi colat algun bolet allò amb preparats, amb les safates aquestes que compres o així,
+però molt puntual, normalment és perquè és gent que els va a caçar i se'ls menja per consum propi
+o que han fet conserva i se'l mengen al cap d'uns mesos, no?
+Per això també és una cosa que hi hem de pensar tot l'any perquè la gent fa conserves de bolets.
+Sí, el que passa és que segurament els que fan conserves de bolets, aquests no són seguidors de caçadors de bolets, eh?
+Aquests ja segurament és tradició familiar de casa.
+Exacte, aquests són els que estaven allà asseguts al banc i anaven veient com pujaven l'altra gent a buscar bolets, no?
+Escolta'm, creus que hi ha diferències entre el que pot veure l'Albert de Puigcerdà i nosaltres a Figueres o a Girona
+o a restes de, no sé, la península, Europa? Hi ha diferències o no?
+A nivell de, no sé, del tipus de bolet o de la freqüència o de la gravetat o del que sigui o no?
+O sigui, hi ha diferents espècies però de la mateixa família, a Europa. O sigui, a Europa no hi ha coses molt més rares que les que tenim aquí.
+I de fet, una de les coses que ens hem trobat molt aquí, bueno, amb tòxico molt potser són tres casos, eh?
+Perquè tot és molt minoritari, però sí que ens hem trobat pacients de Romania, sobretot, que hi ha molta tradició d'anar a buscar bolets,
+que venen a viure aquí i que segueixen anant a buscar bolets i el bolet que a Romania era comestible aquí és tòxic.
+Sí, que deu ser la mateixa família o el que sigui de bolet, no? I canvia una miqueta i aquí és tòxic.
+Exacte, sí. El que dèiem abans, no? Les amanites, és que n'hi ha 30.000 d'amanites diferents,
+però, bueno, al País Basc és més freqüent que en vegin una, a Navarra una altra, aquí una altra, però al final tot són amanites i es tracten igual, no?
+Perquè és el que deia una mica al principi del tipus de bosc. A Europa els boscos són bastant similars,
+sobretot el que et puguis trobar aquí al Pirineu o a la zona del País Basc, Navarra, La Rioja, al nord de Castella i així.
+I ara que us deia això del País Basc, els bascos són els grans especialistes en bolets que hi ha a Espanya,
+tant amb intoxicacions com gastronomia també, no? I ells tenen, que això és molt pràctic, i de fet jo ho tinc penjat allà al despatx,
+han fet unes fitxes que comparen què et penses tu que has menjat amb què et pots haver confós.
+I estan molt bé aquestes fitxes perquè t'ajuden també a que si el pacient et diu no, no, és que jo m'he menjat això,
+tu puguis anar a buscar la família que seria més freqüent que estigui implicada en la intoxicació.
+Ara que comentes això de la identificació, en algunes de les guies aquestes que hem llegit parla de portar,
+si sospites que és una intoxicació per bolets quan vas a l'hospital, portar les restes de bolets.
+Això jo pensava, dic, home, a casa meva quan netejo els bolets, que és la feina més pesada que hi ha, sí que tinc bolets que puc agafar.
+Sempre quan els vaig a buscar busco més o menys, no en sé gaire, agafo els que conec. I tots són més o menys semblants.
+Però cuits serveix d'alguna cosa?
+Podrien servir. O sigui, a mi no, perquè ja us he dit que jo en memòria fotogràfica no en tinc gaire i em costaria.
+Però nosaltres el que tenim és contacte amb l'associació de micologia de Girona,
+que són aficionats als bolets, que queden un dia al mes en una aula de la Universitat de Girona per parlar de bolets.
+I que de fet jo vaig anar a fer una xerrada d'intoxicacions per bolets a Navarra i en vaig conèixer un allà, que no el coneixia.
+I així va ser el contacte. I el que fem moltes vegades és que jo li envio fotos i li dic,
+a tu et sembla que això pugui ser... aquesta intoxicació que vam tenir la primavera
+Et sembla que sigui una amanita verna? perquè la família em va passar les fotos dels bolets que havien trobat.
+I ells tindrien capacitat d'analitzar les espores dels bolets.
+Si són crus, allò que els talles el peu, te'l porten al peu de les escombraries i tu pots analitzar les espores del bolet i saber quina espècie pot ser.
+Si és cuit, seria una mica macroscòpicament què els sembla a ells que pugui ser.
+Però clar, has de tenir contacte amb algun friqui de bolets que te'l pugui identificar també.
+Bé, als agents rurals sempre n'hi ha algun de bastant friqui. Falta que aquell dia estigui de guàrdia, però...
+També, també, sí. Home, ja us dic, els bascos, me'n recordo una vegada que vaig anar a un curs d'intoxicacions per bolets
+i ensenyaven unes fotos que havien tingut un pacient que va acabar amb un trasplantament hepàtic
+i no tenien molt clara quina era l'espècie. O sigui, la identificació de l'espècie tampoc t'ha de retardar mai a l'inici del tractament.
+Si tu tens dubtes, comences tractament i després ja ho pararàs.
+Doncs, el que van fer va ser que amb el marit de la pacient que tenien a l'UCI,
+el van portar al bosc on havien recollit els bolets.
+Van anar allà i van agafar el subsol i el van analitzar i van trobar les espores d'aquell bolet i van poder saber quin era.
+No és necessari, però bé, és interessant poder-ho fer.
+I sortien fotos del pacient amb el pijama de l'hospital a mig de bosc.
+Allà, és aquí. Però clar, aquest estava bé, aquest estava bé.
+Això ja és com si fos un programa de crims.
+Exacte, sí. Posarem llum a la foscor.
+De caçadors de bolets a crims.
+Exacte.
+Doncs, si continuem, un cop hem identificat la clínica o el que li passa al pacient,
+sospitem que és una intoxicació per bolets, a nivell del maneig i tot això,
+què és el primer que hauríem de fer?
+Una mica, primer, encara que no identifiquis l'espècie, posar-lo en aquests dos grans grups.
+Si és una latència curta o una latència llarga.
+Si és una latència curta, totes les síndromes que hi ha, que són diverses,
+el 99% serà una síndrome gastrointestinal pura,
+però n'hi ha d'altres, no?
+Hi ha síndromes colinèrgiques, anticolinèrgiques, al·lucinògenes,
+que aquests normalment no venen perquè l'objectiu de menjar-se aquests bolets
+és intoxicar-se i passar-s'ho a casa o on estiguin, no?
+Però bé, algun pot caure.
+Aquests és tractament simptomàtic, bàsicament és tractament simptomàtic.
+Sí que la síndrome muscarínica, la colinèrgica, doncs podries posar-li atropina,
+però la resta és tractament bàsicament simptomàtic.
+Si vomita, doncs posar-li un antiemètic, hidratar-los amb sèrums i poca cosa més.
+Si tu creus que és una síndrome de toxicitat tardana o de latència llarga,
+doncs després sí que has d'identificar quina és
+i tenen tractaments una mica més específics, no?
+El que dèiem abans, la més freqüent, tot i que no és molt freqüent,
+no en tenim cada any, però vaja, quasi cada any,
+és la síndrome hepatotòxica, que és la que hem de descartar.
+Perquè la resta, al final, si te ve un síndrome convulsiva, ja el veuràs convulsionar i el tractament no deixa de ser diferent
+que qualsevol altra causa de convulsions.
+I la síndrome hepatotòxica és la que hem d'estar més alerta i la que has de començar el tractament com més aviat millor.
+A part dels tractaments específics que, si vols, parlem ara, has de fer un tractament de suport inicial que pot ser igual amb tota intoxicació, no?
+Parleu en els esquemes que tenim de seroterapia intensiva, però no sé exactament això a què fa referència.
+Vull dir, quina quantitat de sèrums li hem de passar i quin tipus...
+Hi ha alguna cosa establerta que sigui millor un tipus de sèrum que un altre?
+I la intensitat de la reposició hidroelectrolítica? O això va en funció de com estigui el malalt?
+Exacte, va en funció de com estigui el malalt.
+De fet, amb tòxico no hi ha evidència
+i al final, si tens un pacient deshidratat o no, el que mana és la clínica i el tractaràs igual que qualsevol altra reposició hidrica que hagis de fer.
+Si el pacient està xocat per un xoc hipovolèmic per les diarrees, doncs potser posaràs solucions balancejades d'entrada
+i aniràs més a saco, controlant pressió venosa central o amb la tècnica que facis servir tu habitualment.
+Però si és un pacient que només té vòmits i diarrea, que no té cap signe de deshidratació,
+no li veus les mucoses seques, no té síndrome de plec i no està hipotens,
+doncs al final li posaràs una pauta com la que li posaries a un pacient que estigués en dieta absoluta.
+Fins que comenci tolerància i la que pugui tolerar a via oral és que ja els hi dones l'alta.
+I el tema de descontaminació digestiva i tot això,
+ho faríem només de sospitar que es tracta de...
+o en aquests casos no ho fem?
+La majoria de pacients que venen, que són els que tenen vòmits i diarrea, no està indicat.
+No està indicat primer perquè la toxina que tenen aquests bolets,
+el que fa no és...
+o sigui, no l'acabes absorbint, és una toxicitat local.
+El que fa és irritar la mucosa gastrointestinal i d'aquí els vòmits i les diarrees.
+No és una intoxicació que el target sigui el sistema nerviós central i vomitis per això,
+sinó que és per lesió local de la mucosa.
+Amb la qual cosa, si està vomitant, el carbó actiu sempre està contraindicat amb qualsevol intoxicació
+i el mal ja l'ha fet.
+Amb la qual cosa a l'estómac no tens res que puguis adsorbir amb el carbó
+i que et disminueixi la clínica, la possibilitat d'intoxicar-te més.
+Però en els que siguin de període de latència llarg, en aquests sí?
+En aquests sí perquè les amanitines, que és la toxina que porten aquests bolets,
+no només les amanites tenen amanitines,
+que això també ho hem de saber perquè també hi ha les lepiotes,
+que també algun pacient hem tingut perquè es confon.
+La lepiota és un bolet que es troba molt als marges dels camins,
+que hi ha la macrolepiota, que la gent se'l menja,
+és un bolet molt gros que es veu fàcilment i que la gent se'l menja i aquest no és tòxic.
+No sé per què se'l mengen perquè no val res, és com menjar-te aigua.
+Però hi ha la lepiota bruna incarnata que és igual en petit.
+De fet, diuen que si el barret fa menys de 10 centímetres de diàmetre no te'l mengis perquè és la tòxica.
+Doncs aquesta també té amanitines i també fa una hepatotoxicitat, que a vegades no hi pensem.
+I després hi ha les galerines, que són uns bolets petits que neixen en els troncs dels arbres,
+que s'estan podrint o així, així com en flotes de bolets, i aquests també porten amanitines.
+L'amanitina és la toxina que ens provocarà la hepatotoxicitat i té dues maneres de provocar toxicitat.
+Una també és a nivell local, per irritació de la mucosa gastrointestinal,
+i per això ens dona aquesta fase intestinal, aquesta clínica de vòmits i diarrees
+que comença a partir de les 6 hores després de la ingesta, i després tenen recirculació enterohepàtica.
+Com que tenen recirculació enterohepàtica, surten per la bilis, es tornen a absorbir a nivell del jejú,
+i van intoxicant el fetge, van danyant l'hepatòcit.
+I el carbó actiu es posa per recaptar aquestes amanitines que recirculen hepàticament,
+perquè tu a l'estómac ja no hi tens res, tu te l'has menjat fa 6 hores,
+amb lo qual tu no absorbeixes amanitines que tinguis a l'estómac, pensem en una intoxicació medicamentosa.
+Nosaltres donem el carbó actiu per adsorbir el que tens a l'estómac i que no absorbeixi el cos.
+I ho dones en un període de temps en què tu penses que aquella toxina encara està a l'estómac, o encara està al duodè.
+En el cas dels bolets de latència llarga, han passat tantes hores que a l'estómac tu no tens res,
+i el que tu vols fer és evitar que les amanitines que fan recirculació enterohepàtica es tornin a absorbir i danyin més els hepatòcits.
+Aquest síndrome hepatotòxic, tenim aquesta fase inicial, que és tardana, de vòmits i diarrees,
+i per què més es caracteritza a partir d'aquestes vòmits i diarrees?
+El primer que es caracteritza, que és el que hem de pensar sempre, és que té un període de latència llarg.
+O sigui, els pacients no et venen a les 3 hores d'haver menjat, sinó que et venen a partir de les 6 hores,
+i moltes vegades més cap a les 12 hores que cap a les 6.
+Després venen en vòmits i diarrees, i aquí és on has d'estar tu alerta de pensar-hi,
+que el que dèiem abans, que tu associes la intoxicació amb què tu acabes de menjar,
+però no l'associes amb què ho vas sopar ahir.
+I en aquesta fase fan unes diarrees coleriformes, unes diarrees líquides molt abundants,
+i que poden portar a una deshidratació.
+Si tu hidrates correctament el pacient, o si el pacient això s'ho ha passat a casa i no tenia molts vòmits i s'ha hidratat,
+fan després una fase de milloria aparent.
+Millora, ah mira, ja se m'ha passat la gastroenteritis que tenia, ja està, no passa res,
+però en aquest cas, si tu li fessis una analítica ja trobaries alteracions a l'analítica.
+I després, a partir de les 36-48 hores, comença la fase visceral,
+que és quan fan la fallida hepàtica i et venen ictèrics, et venen amb signes d'hepatitis aguda,
+que al final és una hepatitis el que provoca.
+Abans que parlaves de les amanítines, deies? És el mateix que les ametoxines o no?
+Sí, sí, sí, és el mateix.
+Molt bé, doncs ja el tenim, que ja li hem posat el carbó activat,
+i si li hem posat una sonda gastroduodenal o amb aspiració, això serveix o això hauríem de fer-ho?
+El que diuen els entesos és que la sonda hauria de ser gastrojejunal,
+que és molt difícil perquè, clar, l'ha de posar l'endoscopista,
+perquè tu el que vols és arribar a l'esfínter d'Oddi i aspirar el que està sortint directament.
+I el que fas és una aspiració, o sigui, tu poses el carbó, el deixes una estona que actuï,
+i el carbó no el poses a l'estómac sinó que el poses ja directament a duodè o a jejú,
+i quan ja ha passat una horeta, després comences a aspirar el que va sortint.
+I fas carbó actiu amb dosis repetides. Cada 3-4 hores tu vas posant una dosi de carbó.
+El carbó és bastant indigest perquè fa un restrenyiment impressionant i has d'anar amb compte.
+A vegades no pots posar tantes dosis repetides perquè el pacient no ho tolera.
+Pots fer dues coses, o baixar la dosi perquè al final no et surt tant... o sigui, el carbó actiu.
+Si tu el mires amb microscopi està foradat, és com si fos una esponja,
+i els grams que tu poses de carbó absorbeixen ú a deu el tòxic.
+Per això, per exemple, amb les intoxicacions per paracetamol,
+tu has de posar més dosi de la que posem per qualsevol altra intoxicació.
+Perquè el paracetamol, com que les pastilles són d'un gram o de 650,
+prens molts més grams de tòxic que si et prens alprazolam, que són de 0,25 mil·ligrams.
+Amb les amanitines és el mateix. Les amanitines són microscòpiques.
+No està sortint 25 grams d'amanitines, ni dos grams i mig.
+Vull dir que pots disminuir una mica la dosi si no ho tolera el pacient,
+o posar-la de forma repetida però amb més distància temporal entre una dosi i l'altra.
+I l'administració continua amb flux lent per la sonda naso-duodenal?
+Això millor o igual que si ho fas cada 4 o 6 hores?
+És que com que per la mateixa sonda has d'aspirar,
+alguns autors diuen que és millor aspirar que no posar el carbó.
+Seria fer una mica les dues coses.
+O sigui, mentre hi ha el carbó, la sonda no està aspirant,
+i després, quan han passat un parell d'hores que ja hagi pogut absorbir alguna cosa,
+poses aspiració contínua.
+I això quant de temps ha de durar, més o menys?
+Depèn del pacient.
+O sigui, a la primera fase és molt difícil poder-li donar carbó
+perquè està vomitant el pacient.
+Si vomita, no l'hi dones.
+El començaries a posar a partir que ja no vomiti
+i ho pots mantenir durant 24-48 hores.
+Les primeres 24 segur, i després ja decideixes.
+Àngels, què més li podem fer al pacient aquest que creiem que té una clínica hepatotòxica?
+Li hem posat els sèrums, li hem posat el carbó activat i la sonda, el que sigui.
+I què més tenim? Ara ja passem al tractament més específic
+o encara ens quedaria alguna cosa per fer de tractament de suport?
+Bueno, tractament de suport el que has de fer és depenent de l'afectació que tingui el pacient.
+Si estem en la fase coleriforme, en la fase intestinal, serà hidratació, control de glicèmia
+i li pots posar un inhibidor de la bomba de protons si té algun motiu per posar-li i antiemètics.
+Sempre s'aconsella que els antiemètics siguin centrals, que no sigui una metoclopramida
+perquè la metoclopramida fa anar més ràpid les coses cap avall
+i millor posar un ondansetró que no una metoclopramida.
+Després, si tu l'enganxes al pacient que ja està en fase hepàtica, en fase hepatotòxica,
+doncs hauràs de corregir el que trobis.
+Si el pacient està amb encefalopatia hepàtica, que serà que et ve molt tard,
+doncs lactulosa igual que faríem amb un pacient cirròtic.
+Si veus que hi pot haver una alteració de factors de coagulació, vitamina K
+i factors de coagulació podries posar i poca cosa més.
+I dels tractaments específics, pensant en l'amanita i tot això, què ens dius d'això?
+Tenim un antídot, n'hi ha hagut molts al llarg de la història, s'han provat mil coses.
+Abans es posava penicil·lina, ara nosaltres des del grup d'antídots no l'aconsellem, la penicil·lina
+perquè tenim la silibinina, que és un fàrmac que prové del card, del cardo
+i que el que fa és evitar que les toxines entrin a...
+Inhibeix la recaptació de les amatotoxines per l'hepatòcit.
+Les cèl·lules del fetge que no puguin agafar les amatotoxines aquestes que estan recirculant allà per la circulació enteropàtica.
+És com un tractament protector, no és un antídot d'aquests que s'enganxen un a un amb el tòxic,
+sinó que el que fa és bloquejar els receptors que tenen els hepatòcits de les amanitines
+i evitar que hi entrin. Fa com un segurata de discoteca.
+Tu no entres i ja està, i ja les eliminaràs via digestiva aquestes amanitines.
+Nosaltres el que diem és que si t'arriba el pacient aviat,
+quan encara estàs en fase digestiva, si ho tens molt clar,
+comença a posar la silibinina perquè és un tractament que té molt pocs efectes secundaris,
+es tolera molt bé i mal no li farà i a més és barato.
+I ara que estic en gestió també em miro aquestes coses.
+Nosaltres tenim la sort que a l'Hospital Clínic de Barcelona fan determinació de amatotoxines
+i tu pots enviar una mostra d'orina i en unes 4-6 hores tens el resultat.
+Però és l'únic laboratori d'Espanya que fa detecció de amatotoxines.
+Si nosaltres ara volguéssim canviar de vida i ens n'anéssim a treballar a Tenerife, per exemple,
+que allà també tenen amanites i també tenen intoxicats, menys, però algun en tenen,
+tindríem el problema que si volem una determinació d'amanitines potser no la tenim fins al cap de 5 dies.
+Amb la qual cosa, si tu no tens accés a una determinació d'amanitines,
+tu comença el tractament i ja ho veuràs al cap d'uns dies si aquell fetge respon o no respon,
+si ho era o no ho era.
+Nosaltres tenim la sort que podem enviar amb taxi una orina al Clínic
+i tenim la determinació en poques hores i ens podríem arribar a esperar a començar el tractament a tenir la determinació.
+Però jo prefereixo que si tinc una sospita molt alta el començo i després el paro.
+Si tinc una sospita baixa, no.
+El típic de s'ha menjat una barreja de bolets, ha vingut aquí que feia 3 hores amb vòmits i diarrees,
+aquest no l'hi començo fins que tinc el resultat de la determinació.
+Però si m'ensenya una foto i allà estic veient una amanita phalloides, l'hi començo i després ja m'ho confirmaran.
+A part, tenir la determinació d'amatotoxines ens va bé perquè és un factor pronòstic també.
+Si tens una determinació amb uns nivells molt elevats, saps que aquell pacient anirà pitjor que un altre.
+Per tant, una pregunta que se m'ha corregut ara, la determinació d'amatotoxines en orina
+l'envies sempre que tens una persona que saps que s'ha intoxicat per bolets, encara que estigui amb vòmits i diarrees.
+A tots aquests els envies a determinar nivells d'amatotoxines o no?
+O només quan veus que ja comença a tindre fallo hepàtic o transaminases elevades,
+dius, ostres, aviam si serà una amanita...
+No, ja vas tard, aquí ja vas tard.
+Bé, va tard el pacient de no haver vingut abans, però és que no et venen en aquesta fase.
+Mira, fa molts anys vam tenir un cas d'una pacient que havia menjat amanitines
+i que va consultar per uns vòmits i diarrees i on va consultar li van dir
+això és una gastroenteritis, tranquil·la, no van pensar ni en períodes de latència ni res,
+tu hidrata't i ja se't passarà.
+Se'n va anar cap a casa i com que li van dir que era normal, la senyora va aguantar a casa 3 dies.
+El tercer dia ens la va portar al SEM amb un xoc hemorràgic
+provocat perquè tenia 0 factors de coagulació i estava sagnant per tot arreu.
+I després va sortir parlant amb el marit que els bolets,
+vull dir que aquesta va venir tard perquè el primer dia no hi van pensar que era una gastroenteritis,
+però normalment els pacients consulten el primer dia.
+I el primer dia tu no tens alteracions analítiques de fallo hepàtic.
+Amb la qual cosa, a la pregunta, perdona que me lio i no,
+si tu tens un pacient que ha menjat un sol tipus de bolets i que ha vingut en menys de 6 hores,
+a aquest no li demano amatotoxines.
+O sigui, clínica gastrointestinal que ve en un període de latència curt
+i que ha menjat una sola espècie o que tinc molt clar que el que ha menjat no ho és,
+però costa tenir-ho clar, sobretot si no coneixes els bolets, aquest no li demano.
+Si tinc dubtes, li demano.
+Ara han sortit uns kits de detecció de amatotoxines que els venen
+i que els estan comprant als hospitals que no tenen accés a enviar la mostra al clínic
+com pugui ser qualsevol hospital de Catalunya.
+Bé, també són pràctics.
+Ahà, ah, veus.
+Com un test d'antígens.
+Llavors aquest medicament, la silibinina aquesta,
+està disponible suposo a través de la xarxa d'antídots,
+o sigui aquí a Catalunya els petits que no en tenim hauríem de parlar amb algú gran que en tingui.
+Exacte, sí, però hi ha bastants centres que en tenen.
+Nosaltres en el grup d'antídots traiem la guia d'antídots, ara la vam fer nova l'any passat,
+i els antídots es diferencien, o sigui els hospitals es diferencien per nivell.
+Els de nivell bàsic han de tenir una farmaciola d'antídots bàsica,
+sobretot aquells antídots que tu no tens temps de demanar-lo en un altre hospital,
+i després hi ha una sèrie d'antídots que només tenen els hospitals de referència provincial
+o els hospitals de tercer nivell, o com el cas de la silibinina,
+també està aconsellat que ho tinguin els hospitals que poden tenir intoxicacions per bolets.
+Si no en té un hospital, doncs sempre el pots demanar a partir de la xarxa d'antídots, demanar un préstec.
+Una pregunta, que m'havia quedat un dubte que ens explicaves.
+La silibinina en perfusió continua o també així cada sis hores?
+Hi ha diferència o no?
+És un bolus.
+És un bolus cada sis hores?
+Es posa un bolus de 5 mg per quilo, que passa en dues hores,
+a la pauta inicial i després es posa en perfusió cada sis hores.
+Pots posar com una perfusió estesa o seguir fent bolus.
+O sigui, no deixa de ser una medicació endovenosa normal i corrent, no?
+Com poses, jo què sé, antibiòtic cada sis,
+doncs poses el que toqui de silibinina cada sis amb la bosseta i vinga anar fent.
+Hi ha algun article que diu que ho puguis posar en perfusió contínua, però nosaltres ho posem en bolus.
+I en cas que no tinguem encara, si en el nostre hospital no tenim la silibinina,
+les altres alternatives com la penicil·lina i quina més hi havia...
+val la pena començar-les o no?
+No hi hauria d'haver aquesta possibilitat. Ara que els hospitals de Catalunya estan a la xarxa d'antídots.
+Tens temps d'anar-lo i començar-lo.
+Però la penicil·lina sempre s'havia fet servir i, de fet, encara hi ha centres que fan servir els dos, que posen els dos,
+allò per la por que pugui anar pitjor, però la penicil·lina fa el mateix que la silibinina,
+t'inhibeix la recaptació de les amatotoxines a nivell hepàtic,
+t'augmenta l'excreció urinària de les amatotoxines
+i t'augmenta l'oxidació a nivell de l'hepatòcit.
+Què s'ha vist? Que els pacients que, com que tot són sèries de casos,
+els pacients que eren al·lèrgics a la penicil·lina,
+que no se'ls hi havia posat, tenien el mateix pronòstic que els pacients que se'ls hi havia posat.
+Per això ara ja no s'utilitza.
+Si no tens silibinina, podries començar amb la penicil·lina, però la que t'arribi la penicil·lina, jo no l'hi continuaria,
+pels efectes secundaris que tenen, perquè són dosis molt elevades de penicil·lina.
+I la ceftazidima?
+La ceftazidima, hi ha algun article que ho han publicat,
+però que potser cada article són sèries de casos, i n'hi ha dos, quatre, i amb una mica la mateixa intenció que la penicil·lina.
+Si no tens silibinina, si ara hi hagués un trencament d'estoc, perquè als antítots és difícil fabricar-los,
+doncs mira, podria ser una opció, però hi ha poca experiència.
+I la n-acetilcisteïna?
+La n-acetilcisteïna es posa una mica amb el mateix propòsit que amb altres intoxicacions que són hepatotòxiques,
+perquè és una teràpia antioxidant.
+Així com la silibinina us deia que si tens una alta sospita,
+la comencessis abans de tenir els resultats de les amanitines, la NAC et pots esperar.
+T'esperes a veure si comença a fallar el fetge, doncs l'hi posarem, això vols dir?
+Sí, o quan tens la confirmació de les amanitines possibles, també.
+Molt bé, també hem llegit com a antioxidant el tema de la vitamina C?
+Nosaltres ho posem, perquè és el típic allò que...
+No fa mal.
+No fa mal, exacte. No sabem si és molt homeopàtic, però bé.
+Sí que hi ha estudis amb altres patologies com a tractament antioxidant, i mal no fa.
+I quan estaria indicat a aquests malalts intoxicats per bolets?
+Quan està indicat traslladar-los?
+Quan tens signes d'hepatotoxicitat,
+o sigui, quan tu tens un pacient en la primera fase,
+aquest pacient es podria ingressar a qualsevol hospital,
+no cal que sigui ni un hospital de referència.
+Quan tu comences a tenir fallo hepàtic,
+ja has de contactar amb el Clínic, normalment, que és on hi ha l'UCI hepàtica, per traslladar-lo.
+Normalment, pacients que tinguin un índex de protrombina per sota de 30,
+o que tinguin xifres de bilirubina molt elevades,
+o que ja estan en clínica de fallo hepàtic.
+Perquè un cop traslladats a aquesta UCI hepàtica, què se'ls pot fer?
+Entenc que aquí, el tractament que hem fet,
+el tractament de suport, l'adsorció amb el carbó activat, i després la silibinina,
+tot això és per disminuir el dany a l'hepatòcit.
+Però en el moment en què el dany ja s'ha produït, què es pot fer?
+En el moment en què s'ha produït, si no hi ha volta enrere,
+o sigui, hem dit que la intoxicació té quatre fases,
+té la fase de la latència, té la fase gastrointestinal,
+la de millora aparent i la de hepatotoxicitat.
+La fase de hepatotoxicitat té diferents graus.
+No és obligatori passar d'una a l'altra.
+Igual tu hidrates bé un pacient,
+li poses la silibinina,
+havia consumit poca quantitat de amatotoxines
+i ja no passa a la següent fase.
+Amb la qual cosa, aquests els tindràs ingressats
+un parell de dies a Medicina Interna o on decideixis tu,
+però la gràcia del tractament és no passar a la següent fase, que és el que podem fer nosaltres.
+Si passa a la següent fase i entra en un fallo hepàtic, doncs aquests pacients poden acabar necessitant
+un trasplantament hepàtic.
+I els criteris per trasplantament són els mateixos que amb qualsevol altra patologia que afecti el fetge.
+Bàsicament alteració de la coagulació i sí que potser hauríem de demanar,
+a part de la típica coagulació que demanem nosaltres del temps de quick i de l'INR,
+demanar un factor 5, que és un dels que més aviat s'altera i que també pot tenir un factor pronòstic.
+I a la que ja fan clínica hepatorenal, amb insuficiència renal i alteració de...
+No tant la transaminitis, sinó l'alteració de la coagulació, aquests serien tributaris de trasplantament urgent
+i a més seria una prioritat zero.
+I hi ha algun centre específic per a aquests intoxicats greus?
+Així com hi ha de cremats, hi ha Vall d'Hebron,
+d'intoxicats per bolets o per hepatotoxicitat així,
+hi ha algun centre de referència o no?
+O truques al teu de referència que tinguis a Barcelona?
+Nosaltres sempre contactem amb el Clínic
+perquè tenen una UCI hepàtica específica.
+Amb aquests tres pacients que vam tenir la primavera
+hi havia una pacient pediàtrica i es va derivar a Vall d'Hebron.
+I ara que ens hem cagat tots amb el tema dels bolets hepatotòxics,
+hi ha alguna manera de garantir que el bolet que has pillat
+no és hepatotòxic, que no és tòxic?
+O tot això són falòrnies que circulen?
+Allò que si el talles i canvia de color, aquelles coses?
+Sí.
+Jo crec que és conèixer-los i no menjar-te res que no coneguis
+i que si vols menjar un ou de reig t'esperis que tingui color.
+Seria el meu consell.
+I les lepiotes no te les mengis perquè és que no valen res.
+No sé si les heu provat però...
+És que ja gastronòmicament no tenen cap gràcia.
+T'ho pots estalviar.
+N'hi ha d'altres de bolets que pots menjar.
+De fet ara diré un sacrilegi però el bolet està bo.
+Però la bogeria que genera potser no n'hi ha per tant.
+Bé, jo crec que sí, uns ceps o...
+Uns rovellons o uns pinetells així a la brasa estan bons.
+Sí, sí, amb una mica d'all i julivert, sí.
+No dic que no però jo que sóc aficionat i m'agraden,
+vull dir la bogeria aquesta que veiem jo crec que té més a veure
+amb la cosa ancestral que el bosc et dona i tu ho agafes
+que no pas amb el valor gastronòmic en si.
+Sí, sí, sí.
+Els nostres avantpassats recol·lectors,
+encara ens queda allà el gen de caçadors i de recolectors
+de la prehistòria.
+A part dels bolets hepatotòxics, que hem quedat clar que són aquestes amanites
+que després potser ens dedicarem a dir els noms de les coses i com són i deixen de ser,
+tenim algun altre bolet aquí al territori que et pugui matar sense fer el síndrome hepatotòxic?
+O tots passaran per aquí?
+No, sí. O sigui, hi ha altres intoxicacions que poden anar malament, que són molt menys freqüents.
+Hi ha la síndrome convulsiva, que no tant per les convulsions i la clínica neurològica
+que provoca que al final ho acabaràs tractant, com hem dit abans, com qualsevol convulsió,
+però sí que et pot provocar una metahemoglobinèmia,
+que com totes les metahemoglobinèmies, no hi pensem, i se't passa i té un tractament molt fàcil,
+que és el blau de metilè, però hi has de pensar.
+Les que hem vist nosaltres, les primeres,
+perquè al final demanes proves i alguna cosa et surt,
+però pensar-hi és complicat i les metahemoglobinèmies maten.
+Aquest sí que el tenim per aquí.
+I després les nefrotòxiques, ja us dic, jo no n'he vist mai cap i els nefròlegs del meu hospital crec que tampoc,
+però sí que el doctor Piqueras, que és un clàssic toxicòleg de Catalunya
+que és molt aficionat a les intoxicacions per bolets,
+sí que n'havia vist,
+i aquestes et poden fer una insuficiència renal i pots acabar necessitant una diàlisi
+o que no hi siguis a temps, també.
+Doncs no sé, Albert, ho deixem aquí de moment? Si tenim consultes ja les podrem anar fent a través de la red de antidotos,
+perquè també a la red d'antídots se'ls poden fer consultes.
+No urgents, eh? Consultes no urgents.
+No urgents, sí.
+Que a vegades arriba cada cosa que flipes.
+Aquí no ho hem dit, però clar, evidentment davant de qualsevol problema toxicològic
+sempre hi ha el Centro Nacional de Toxicologia on es pot trucar.
+Exacte.
+Els Poison Centers a tot arreu, que és un gran invent, que haurien de fer-ho amb altres coses,
+però encara hi hauria més gent trucant per coses que ja haurien de saber.
+Doncs jo penso que pel tema, molt interessant,
+jo he après coses, com sempre, que parlem amb gent que hi entén,
+i ara podríem acabar el tema aquí
+i podríem continuar amb les seccions habituals
+però com que veig que anem molt passadets de temps potser el que podríem fer és limitar només les seccions
+de les habituals de què parlem amb coses relacionades amb el tema d'avui.
+Tenim una secció que és el menys és més,
+que penso que avui potser ens la podem saltar,
+i després en tenim una que és l'urgemmot, que és la secció en què, sobretot el Xavi,
+ens parla de mots i paraules que no diem correctament en català.
+Jo sempre hi fico cullerada amb paraules que em fan gràcia, perquè a mi això de la llengua em diverteix molt.
+I quan vam parlar de bolets vaig dir hòstia, ara és la meva!
+Paraules en català estranyes, hòstia, el món rural està ple de mots
+ estranys, antics, ancestrals, i amb els bolets ja ni t'explico.
+I he tingut a bé d'agafar la meva guia de bolets,
+i m'he dedicat a buscar noms de bolet
+que el nom ja et diu que alguna cosa no va bé,
+perquè la sabiduria popular hi entén de coses, oi?
+I m'he entretingut a buscar de tots els bolets que tinc a la meva zona,
+al meu llibre, quins noms tenen,
+a veure si ja et fas una idea,
+el nom ja et diu que això no ho has de fer.
+I he començat a veure, n'he agafat uns quants,
+i, mira podem aprofitar així de cas per explicar una miqueta com és cada bolet d'aquests, o no ho sé,
+o a veure què us sembla, vosaltres que també n'heu vist algun.
+Mira, el primer que em ve al cap,
+el primer que he trobat és el reig bord.
+Perquè és xungo aquest, perquè és una amanita, és l'amanita buscària,
+i aquí el nom bord, que és una cosa que al món rural també es fa servir molt,
+Bord és allò que no té descendència, allò que està mal fet,
+bastardo és en castellà,
+i el reig bord també se'l coneix per mataparent.
+Per si hi havia algun dubte,
+no només una cosa és borda, sinó que mataparent,
+ja... la cosa et diu que no anem bé.
+Aquest reig bord, Àngels, és el que deies tu, que es confon amb l'ou de reig, oi?
+No, aquest és el dels barrufets.
+Aquest és dels barrufets, correcte.
+Aquest és el dels barrufets, que no és hepatotòxic, el que et fa és una síndrome anticolinèrgica,
+i com les síndromes anticolinèrgiques et fan una midriasi, que tens una mica de deliri,
+hi ha una cosa curiosa d'aquest bolet, que a mi m'agrada sempre explicar,
+que és que diuen que el Gaudí se'l menjava per delirar una mica
+i dissenyar aquelles coses tan xules que va fer.
+Si vas al parc Güell, a l'entrada principal,
+i mires enlaire, hi ha una estàtua petita
+d'un reig bord, d'una manita muscària, allà posada,
+i d'aquí diuen que ell s'ho prenia
+per després fer la Sagrada Família, el parc Güell, i totes aquestes genialitats que va fer.
+Aquest és el dels barrufets.
+D'acord, d'acord. Ara ho veig a la imatge que sí.
+L'altre que sí que em sembla que és el que parlaves és la farinera borda,
+la farinera borda, exacte
+que és la amanita phalloides,
+que aquest sí que, bueno, ja té el... em surt la coberta, no
+Oh, merda, com es diu això, hòstia?
+El barret.
+El barret, ara, per favor.
+Té aquest color verdós, que és el que deies tu que es confonia amb el blanc de l'ou de reig, oi?
+Quan és jove.
+Sí, quan són petits, els ous de reig, i per això a les farineres totes se'ls diuen ous,
+perquè tenen aquesta volva a la base, i quan són petits són com un ou.
+Després s'obre l'ou i creix el bolet.
+I quan és molt petit l'únic que veus és la volva i el barret tancat del bolet,
+i tots són blancs de petits.
+Quan van creixent es torna taronja, o es torna a verd, o d'un altre color.
+Però no és un bolet que tingui molt mala pinta.
+Vull dir, els bolets blancs normalment o són tòxics
+o no són gaire bons.
+Els xampinyons tampoc és que siguin tan bons.
+Per tant, com a consell, no agafeu bolets blancs.
+Molt bé.
+L'altre que he trobat també és un que es diu,
+aquí a la meva zona el coneixen per cortinari de muntanya,
+però també es coneix per cortinari metzinós.
+Aquest és un dels que parlaves tu que fa la síndrome nefrotòxica,
+crec, i això de metzinós, bé, metzina,
+emmetzinar, una paraula preciosa també d'aquestes que m'agraden tant a mi.
+I de fet, un dels bolets que tenen amatotoxines,
+també que tenim aquí, que són les galerines,
+el nom típic és la galerina metzinosa, també.
+Quan els posen metzinosa els nostres avis, és que no és bo.
+En tinc un altre, que és la coloma pudenta, això de pudent, si fa tufa,
+també ja t'indica que potser no és bo. Aquesta és lepiota cristata,
+aquesta no la coneixia de res, i de fet diria que no l'he vista mai.
+Jo crec que aquí no n'hi ha, no sé si n'hi ha moltes,
+aquí hi ha més la brunoincarnata, que és tòxica,
+i jo suposo que aquesta, aquesta també és hepatotòxica.
+No convé aquesta tampoc.
+Tenim una altra que també és bord, és el peu de rata bord.
+La veritat és que quan veus la foto, si només en trobessis un de sol,
+podries intentar confondre'l amb un camagroc,
+però és que no sé com la gent es pot confondre.
+Però això de bord, el que anàvem dient, si surt bord no ens convé.
+Bord, nens, tot el que sigui bord no convé.
+I el que em fa més por a mi,
+perquè jo sóc amic dels fredolics,
+sé d'uns quants llocs que no us diré que en trobo,
+però és que n'hi ha un que es diu el fredolic metzinós, o fredolic d'avet,
+i home, té una retirada al fredolic, el barret és puntejat,
+en comptes de ser degradat com és el del fredolic,
+però aquest, a mi això, si hi han avets, aquí no recolliré fredolics.
+Sí, és blanc, és blanc, no te'l mengis
+De sota ben blanc, sí, sí, el barret és una miqueta blanc.
+Sí, home, costa, eh? És com més gordo, no?, que els fredolics normals.
+Sí, sí, sí, una miqueta més.
+Jo aquest no, ja dic, bosc d'avet no hi vaig.
+Aquest, com a molt, et farà cagaleres, eh?
+El que sí que he vist, també, que és que això dels noms tampoc te'n pots refiar massa,
+perquè després tenim alguns, per exemple, n'hi ha un que aquest podem tenir una miqueta de discussió,
+que també es diu mataparent, que és el mataparent de peu vermell,
+el Boletus erythropus,
+que no deixa de ser un cep que de sota és vermell,
+així com de forma,
+que aquest et diuen que si el cous bé, te'l pots menjar.
+El que passa és que diu mataparent, o sigui que a mi no m'hi trobareu aquí.
+Ja, si si. Els ceps, els que són tòxics
+fan poca toxicitat, normalment.
+Aquest, és que estava buscant-te'l, que no sé si és un que li treus...
+No, el que li pots treure la...
+No sé si el tens aquí, un que es diu escaldabec.
+No, aquest em sembla que aquí, al meu territori, no n'hi deu haver, d'aquests.
+Vale, aquest és comestible, però és vermell,
+és un bolet que és vermell, i l'has de pelar, que es diu pebrassa,
+i el que és tòxic és aquesta pela vermella.
+Però això fins i tot, abans el que feien era assecar-ho
+i trossejar-ho i ho feien servir com a pebre.
+Vull dir, si ho desseques, t'ho pots menjar,
+i si peles el bolet, el pots menjar, però tot junt i cru no.
+I els mataparents fan una mica de gastroenteritis,
+però és això, si el cous bé.
+Aquests sí que són aquests que els talles i es tornen blaus,
+t'el podries menjar.
+Tinc un altre, també, que aquest m'ha fet gràcia.
+Segurament aquest nom no impressiona gaire,
+és l'esclata sang, que és un tipus de rovelló,
+el lactarius sanguiflus, és el rovelló aquest que té així com és,
+té com una miqueta de color verdet el capell, el barret.
+Però això, esclata sang, sona així com lleig.
+Però de tots els que té un nom perillós
+i que al final resulta que no ho és, és la trompeta de la mort.
+Boníssimes.
+Que dius, hòstia, aquí surt la paraula mort i es veu que aquest és escandalós.
+Aquest sí que s'assembla al camagroc, només que és negre,
+perdó, gris més que negre.
+L'amanita cesarea aquesta, que sents la paraula amanita i et cagues,
+és l'ou de reig, cesàrea del César,
+perquè es veu que devia ser molt bo que el Césars els volien per ells.
+Sí, sí.
+I mira, i després, per acabar, els que el nom no sembla indicar
+que són xungos però que ho són.
+Hi ha aquest el pixacà, que fot fins i tot gràcia,
+que és una amanita, l'amanita panterina,
+que aquest he llegit que també té bastanta mala bava.
+No sé si els de la meva guia l'encerten o no gaire.
+L'encerten, l'encerten.
+Aquest, no ho sé, aquest seria un entremig del reig bord i de la farinera borda, perquè...
+té un color així, el barret així com verdós fosc, però té els punts blancs
+que té el bolet dels barrufets que dèiem abans.
+Exacte, sí, és com el bolet dels barrufets però en marró.
+El que passa moltes vegades amb aquests bolets que en el barret tenen com els piquets
+és que si ha plogut molt, cauen aquests piquets
+i és més fàcil de confondre'ls.
+Sempre l'has de girar i mirar si té anella,
+que si té anella és amanita i si no ho tens clar no l'agafis.
+Però aquest no fa hepatotoxicitat, aquest fa el mateix que la muscària, fa un anticolinèrgic.
+I veus, jo que no soc... Tinc companys perquè en el meu servei
+tinc molts companys friquis, alguns escalen, d'altres esquien
+i n'hi ha que són caçadors de bolets.
+Són caçadors perquè ho viuen amb aventura.
+Jo sóc buscador de bolets perquè no tinc cap esperança de trobar-ne,
+n'hi ha alguns que en troben i tot.
+I és un que s'assembla a la múrgola,
+que es veu que té molta requesta gastronòmica això de la múrgola.
+Éstan bones, sí.
+És el bolet de greix
+i hòstia, llegint el que fa aquest bolet de greix fa com angúnia,
+què voleu que us digui?
+La múrgola és aquest bolet que el barret té com forma de cervell, diguem-ho així, no?
+Sí, la múrgola, sí, com un d'un, com es diu?, un panal de abejas,
+un rusc, un rusc d'abelles.
+Un rusc.
+El de greix, hòstia, jo sempre he pensat que costa confondre's
+perquè les múrgoles són com buides
+i el bolet de greix sí que és com un cervell, no?
+I fa una rabdomiòlisi
+i molt tardà, poden venir dies després.
+I va, per acabar, perquè si no m'allargo molt perquè, clar, de bolets n'hi ha per avorrir.
+N'hi ha un que m'ha fet gràcia perquè es coneix, amb un nom en català es diu pixaconills,
+també té la seva gràcia.
+En castellà n'hi diuen seta de los caballeros
+que penses, home, seta de los caballeros això ha de ser bo.
+Però també es conegut per verderol
+I aquest és el tricoloma equestre
+que aquest també és dels que et pot pelar.
+Sí.
+Aquest, si el cuines bé, te'l pots menjar,
+però si no, també et fa una rabdomiòlisi, una insufí...
+Bé, per mala sort, a partir d'aquí ens hem quedat sense l'àudio de l'Àngels.
+Per sort estàvem a punt d'acabar. Agrair-li des d'aquí
+la seva col·laboració, no us sentireu pas com se'ns acomiada.
+I vinga, va, us deixem amb els últims minuts del pòdcast.
+Jo els mots així estranys, aquests que ja sabeu que m'agraden molt,
+ són tots els que he trobat. Segur que n'hi ha molts més.
+Si algú en troba algun de divertit i ens el vol compartir al grup de Telegram
+que tenim, doncs, escolta, endavant.
+Encantats de sentir-los.
+El que pots fer aquesta tardor és agafar
+escriure-ho amb etiquetes i anar pel bosc
+i quan els vegis li poses l'etiqueta al costat.
+Així la gent que el vagi veient dirà, hòstia, aquest potser que no...
+Mira...
+No tens temps, no?
+Bé, no sé si en tindré. Escolta'm, de fet, el primer que hauria de passar és que
+caigués aigua perquè en sortís algun.
+Que això fa mala pinta. De moment no anem gaire bé amb això.
+Aviam, aviam, si plou.
+I jo, per la meva banda, doncs ja no se m'acuden més coses relacionades amb els bolets.
+No vingueu a buscar-ne, sobretot.
+Els de casa meva són dolentíssims. No us acosteu per aquí.
+Ja està. No diré on s'han d'anar a buscar perquè segur que sabeu que és l'altra banda d'on us diré.
+Molt bé. Què et sembla? Ho deixem per ara, Albert?
+L'episodi aquest?
+Jo, per la meva banda, més que complet.
+A veure com ens quedarà llarg quan l'editi
+Molt bé, doncs moltes gràcies, Àngels, per les explicacions i la conversa que ens has regalat.
+Segur que la gent s'ha encantat avui amb el que hem fet. Moltes gràcies.

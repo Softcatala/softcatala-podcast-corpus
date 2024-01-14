@@ -1,0 +1,770 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvinguts i benvingudes a un nou episodi, l'episodi número 31 de l'EMPodCat,
+que com sabeu, els que ens escolteu habitualment, és un espai per conversar sobre les urgències i emergències sanitàries
+i un cop més és un pòdcast conduït per un gran equip multidisciplinari i multicèntric.
+Per un costat tenim l'Albert. Hola Albert, què tal, com estàs?
+Hola, bon dia, bona tarda, bona nit, bon el que s'escaigui.
+Fes-nos una mica de presentació teva i després em presento jo.
+Jo sóc l'Albert Homs, sóc un infermer d'urgències i emergències, avui molt perjudicat perquè he tingut guàrdia nocturna.
+Tinc un blog que es diu emermedpirineus.cat i em podeu trobar pel mateix nom al Twitter
+i al mastodont.cat. I aquest altre que us parlava és en Xavi, en Xavi Basurto, ara et toca a tu.
+Sí, jo sóc en Xavi Basurto, que sóc metge d'urgències de l'Hospital de Figueres
+i també estic a l'avançada que tenim a Figueres.
+I a l'internet ens podeu trobar en una pàgina web, un blog que és urgem.cat i també a Twitter que és urgemcat.
+I també ens podeu trobar, aquests episodis que anem fent de l'EMPodCat,
+podeu fer-ne un seguiment en el blog de l'EMPodCat i també a través de Telegram, que tenim un grup de Telegram o un canal de Telegram,
+que hi anem posant material i anem fent diferents converses entre la gent que els interessa el tema,
+que si entreu mireu hi ha coses interessants.
+I déu-n'hi-do la gent que tenim, no? que hi devem tenir? una cinquantena de persones, Albert, que ens ho va...
+No, ara ja anem a la vuitantena. No arribem a 80, avui 79. Descomptem el robot 78.
+Molt bé, molt bé. Doncs això, que ens podeu seguir a través de la pàgina web,
+de tots els dispositius que hi ha per escoltar pòdcasts i després també a través del Telegram.
+Què més? No sé si ens deixem alguna cosa o ja podem anar per matèria, Albert?
+Podem anar... a treballar, a treballar.
+Avui l'Albert ens presentarà un tema molt interessant, que d'entrada fa una mica de iu-iu,
+que es diu els trasllats massius. Trasllats massius en tren.
+És això, Albert? Estàs segur que no t'has equivocat del nom?
+No, no. En tot cas podria haver-me equivocat de segle, però això és una altra història.
+De tren, i ja veurem. Si ens dóna temps, potser d'alguna cosa més.
+Doncs vinga, va. Comença... Què ens has d'explicar d'això?
+Començo explicant una mica d'història.
+Pels que no ho sapigueu, al novembre del 2015 hi va haver una sèrie d'atemptats a París.
+La sala de festes Bataclan. Una colla de terroristes van posar unes quantes bombes
+i van anar disparant amb les seves... els AK-47s i aquestes metralladores lleugeres.
+Doncs van anar pelant moltíssima gent i van acabar fent una presa d'hostatges en aquesta sala de festes.
+Com a anècdota, el mateix dia al matí van fer un simulacre d'atemptat i a la nit van tenir aquest festival.
+Més de 130 morts, més de 350 hospitalitzats.
+Van arribar a obrir 70 sales d'operacions simultàniament
+des que van començar a arribar gent portats de qualsevol manera, molts ferits per bala.
+Total, que van estar operant la tira de quiròfans, fins a 32 hores després encara estaven operant gent.
+Va passar bastant més d'un dia en què tota l'activitat hospitalària de París pràcticament es va dedicar a totes aquestes víctimes.
+Això va ser a París. Ara imagina't que això mateix passa doncs en comptes de París,
+com va passar a Niça, l'any següent també va haver-hi un atropellament massiu a Niça.
+Això pot passar a qualsevol lloc i no tothom pot tenir potser una capacitat de resposta com la que va tenir París.
+No em vull estendre en aquest tema, però la veritat és que tenien coses bastant ben muntades
+que valdria la pena estudiar quan, algun altre dia, si parlem d'accidents de múltiples víctimes intencionats
+o alguna cosa d'aquestes, seria interessant parlar-ne d'això.
+La qüestió és que veient aquesta situació que es van trobar, es van plantejar aquesta mateixa situació que plantejo jo.
+És a dir, si això en comptes de passar a París un vespre d'un divendres, per tant saps que no tens la teva feina ordinària,
+si això passa, doncs jo què sé, a les 5 de la tarda d'un dimarts, el cacau que es munta el sistema sanitari és bestial.
+Tot el teu sistema sanitari pateix una gran disrupció i tot el que tenies previst fer, les químios, les cirurgies inaplaçables,
+ara que estem en vagues aquests dies, doncs mires els serveis mínims i no pots ajornar pràcticament res, perquè tot és important.
+El sistema sanitari pateix una disrupció enorme.
+Tenim un incident de múltiples víctimes, l'atenció que se li fa a les víctimes d'aquest incident és subòptima,
+perquè, és clar, no tens tota la gent que voldries per tractar un sol pacient,
+has de fer el que puguis, però és que, a més a més, després tens tot el dany
+que es causarà els que no tenen res a veure amb aquest incident,
+simplement els malalts que no podran seguir el seu sistema sanitari ordinari, les seves activitats sanitàries ordinàries.
+Preveient això, es van plantejar una opció fent servir
+això que als francesos els agrada molt, que són els seus TGVs, els trains a grande vitesse, els trens d'alta velocitat.
+Es van plantejar l'opció, si mai es trobessin en una situació semblant,
+en un accident de múltiples víctimes, doncs desplaçar gent
+amb aquests TGVs, amb aquests trens ràpids, cap al lloc on ha passat, cap a la població on ha passat això,
+ i repatriar, endur-se tantes víctimes com poguessin cap a un altre lloc on no es tinguessin afectats.
+Tens un incident amb 200 persones afectades i el teu hospital, a partir de les 100, col·lapsa.
+Doncs tu el que fas és portes l'hospital 5, 6, 8 hores lluny, arriben allà i se te'n porten 100 tios.
+Amb la qual cosa és una forma molt ràpida de recuperar,
+entre cometes lo de recuperar, de recuperar una certa normalitat.
+Això ho van provar el 2019, van simular que hi havia un atemptat a Metz,
+això és la Lorena, aquest exercici li van dir l'exercici Chardon,
+que és card en francès perquè es veu que és el símbol d'aquesta regió francesa.
+Van simular aquest atemptat, van enviar un tren des de París,
+amb molt personal, i el que van fer va ser recollir moltes víctimes.
+Evidentment tot això era un muntatge ben previst i perquè sortís bé.
+I es van emportar moltes víctimes amb el tren cap a París, de manera que a Metz el seu impacte va ser menor.
+Aquest és el test que van fer, fins aquí, mira, com tantes bestieses que fem a la vida per penjar medalles
+i fer moure les pancartes, tenim la seva gràcia.
+La qüestió és que què va passar després del 2019?
+Un altre incident de múltiples víctimes perllongat.
+Exacte, vam tenir un puto sidral horrorós, que havia de ser només una grip,
+però a principis de març es va veure que això seria el que va ser, no? una barbaritat.
+Doncs el que van fer va ser aprofitar aquesta experiència
+i van veure la possibilitat, com ens va passar una miqueta aquí.
+Diferents territoris del país van caure dins d'aquesta primera onada que els va sumir a la misèria
+però d'altres, quan ens van tancar, vam tenir la sort que encara no havia arribat i l'afectació va ser no tan bèstia.
+Doncs a França els va passar exactament el mateix.
+Van començar pel Gran Est, va començar amb una ocupació enorme
+que els va ocupar totalment les unitats de cures intensives.
+Doncs ells el que van plantejar és l'opció de doncs...
+ens emportem aquests pacients cap a altres llocs i es van plantejar fer-ho amb el tren d'alta velocitat.
+A més a més, de tots els mètodes que hem fet tots
+durant l'etapa aquesta del Covid, ambulàncies, helicòpters, aquí també ho van fer.
+És a dir, la forma ordinària, doncs des de Còrsega que van enviar gent a Marsella en ferri,
+des de no sé on també de l'Est de França van enviar gent amb helicòpter a Alemanya,
+doncs això es va anar fent.
+Però ells el que volien, ells no volien traslladar pacients individualment
+perquè necessitessin un servei que no es podia donar.
+Ells el que volien era buidar les UCIs perquè tinguessin capacitat d'agafar
+la següent ronda de pacients que anirien omplint.
+Sabem això una miqueta com va anar. Va començar a ser sent dos, quatre, vuit, ja us en recordeu.
+Tots els que ho hem passat ja sabem de que va el pastel aquest.
+La idea, ja us dic, no era tant el benefici del pacient que es traslladava, que també, si no...
+Sí, pels futurs o per la resta de la societat que estaven vivint allà encara, no?
+Exactament, és a dir, és perquè l'hospital que ja estava a petar doncs no hagués de tancar la porta
+i els següents que arribessin ja no se'ls pogués oferir el servei.
+En total van fer deu trens, van començar el 26 de març i l'últim tren el van fer el 10 d'abril.
+Aquí no recordo quin dia van tancar a França, però devia ser més o menys semblant a nosaltres,
+per tant ja devien portar... el 10 d'abril ja devien portar tres, quatre setmanes de tancament,
+d'aquell confinament tan divertit que vam passar.
+Us en recordeu allò quan sortíem al carrer i no hi havia ningú?
+Només veies els senglars... acollonant, eh? va ser un moment...
+En total van fer aquests deu trens per transportar 200 pacients.
+És a dir, amb aquests deu trens, en total van desplaçar vora uns 200 pacients.
+El recorregut més llarg que van fer va ser 950 quilòmetres,
+van estar set hores dins el tren.
+Perdó, set hores de viatge dins el tren.
+Perquè ens fem una idea de quina mena de trasllats estem parlant.
+Això no és agafar l'ambulància, jo què sé, a Olot i baixar al Trueta.
+Estem parlant de serveis llarguíssims.
+Perquè a quants hospitals van derivar?
+Eren a quatre hospitals o repartien per tota França?
+Per tot França. Després explico com estava organitzat això perquè segurament és la part més important,
+perquè això, la part espectacular, és el tren.
+Però el tren no deixa de ser un vector, no deixa de ser una forma de fer la feina.
+Aquí mola perquè és un tren d'alta velocitat, saps? Això mola, però...
+Mira, d'aquests deu trens que tinc aquí a la taula, sis van sortir de París.
+És a dir, París va haver de treure sis trens.
+Sí, sis dels deu, no?
+Sis dels deu van sortir de París.
+Sis dels deu van sortir de París.
+A Bordeus, per exemple, n'hi van anar un parell.
+A Brest, allà a la Bretanya, des de París, també hi van portar gent.
+D'Estrasburg també en van sortir un parell que van acabar un a Nantes.
+Vull dir que si ens fem una idea, van desplaçar gent per mig França.
+El trajecte més curt, 350 quilòmetres, i el més llarg, aquest de 950, d'Estrasburg a Bordeus,
+parant a Futuroscope en mig.
+Ja us dic, és un festival, això.
+És un festival el tren, però és un festival el que comentaves tu.
+És a dir, a quants hospitals van anar?
+Primer, el més important, era triar els pacients que es podien traslladar.
+Estem parlant de fotre gent feta una bírria, estan a la UCI, que es calci set hores de tren.
+Més l'ambulància per anar al tren, més l'ambulància per sortir del tren.
+Estem parlant de trasllats infames.
+Es transportaven pacients intubats, evidentment tots greus, però no excessivament greus.
+Per exemple, gent que anava amb més de no recordo quants mil·ligrams de noradrenalina,
+que tenien una certa inestabilitat hemodinàmica, no es podien traslladar.
+Gent que anava amb teràpia de substitució renal,
+que anava amb hemodiàlisi o hemodiafiltració, tampoc se'ls podia traslladar.
+Gent que se'ls havia pronat les 24 hores anteriors, tampoc se'ls podia traslladar.
+Gent que necessités una FiO2 per sobre de 60, tampoc se'ls podia traslladar.
+I una cosa molt tonta, si pesaven més de 100 quilos, tampoc se'ls podia traslladar.
+En aquest cas, per una dificultat física de moure'l.
+I evidentment calia que les famílies estiguessin d'acord amb traslladar els pacients.
+Famílies que evidentment no estaven als hospitals,
+que s'havia de contactar amb ells per telèfon... O sigui, la tria de pacients ja era complicada.
+Tots intubats, eh? Tots amb ventilació mecànica.
+Tots intubats. Era l'època en què fer VNI no era una opció.
+Si us en recordeu, al principi, la VNI no es podia fer perquè allò era escampar virus.
+És a dir, quan fracassaven respiratòriament, que normalment els haguéssim tirat endavant amb VNI,
+amb ventilació no invasiva, tema a parlar també, un altre dia d'aquests,
+doncs els intubàvem. Això era aquesta època.
+Estàvem dient que triar els pacients ja era un merder.
+Però és que triar els hospitals que havies de buidar, també.
+Quins hospitals s'havia de buidar?
+El que estava més fotut, però si el que estava més fotut
+estava molt lluny de l'estació de tren on els havien de ficar dins del tren,
+hòstia, com ho fèiem? Llavors això era bastant complicat.
+I a més a més, per una qüestió d'organització que explicarem després,
+s'havien de bellugar els pacients de quatre en quatre.
+Després explicarem el motiu d'això.
+Què era el que passava amb això? Doncs que justament costava triar els llocs,
+costava triar els pacients, els havien triat la nit anterior,
+quan arribaven al matí per traslladar-los, algun d'aquests ja no era traslladable.
+Amb la qual cosa es van acabar creant gairebé llistes d'espera,
+és a dir, si l'hospital en tenia quatre que podia traslladar, val, en tenia quatre i un de reserva,
+per si un dels quatre que havien triat per traslladar, doncs no es podia traslladar.
+Feu-vos una idea ja de la complexitat logística d'això.
+Qui se'n va, des d'on, i que tothom hi estigui d'acord.
+I potser el que és més important és que això no havia de suposar un sobreesforç a l'hospital que ja estava afectat.
+És a dir, aquests llocs se'ls anava a ajudar.
+No podies comptar amb ells per res.
+Eres tu, entre cometes, el salvador que anaves allà a treure'ls la gent.
+Per tant, tota la missió es feia sense comptar amb els recursos locals.
+Tot s'havia de portar de fora, el personal i l'equipament.
+L'única cosa que es feia era posar les ambulàncies per recollir la gent, el personal i l'equipament que portaven
+a l'estació, diguem-ne, de sortida de la missió.
+És a dir, arribaven amb el tren des dels seus llocs d'origen cap a l'estació on començava la missió.
+La gent aquesta els recollien les ambulàncies locals
+i anaven en combois de quatre ambulàncies per anar a recollir els pacients i portar-los al tren.
+Tot l'equipament el portaven la gent dels hospitals on acabarien aquests pacients després.
+I això és una gran diferència.
+Nosaltres, el nostre servei de transport sanitari és, entre cometes, independent dels hospitals.
+És veritat que hi ha unes quantes bases col·laboradores com la teva i com la meva que depenem de l'hospital,
+però la immensa majoria és independent.
+La qüestió és que la gent, no sé, els de Bordeus, que van rebre tres trens, cada vegada que havien de portar
+gent a Bordeus, ells anaven a recollir-los allà on fos.
+I per què quatre, aquest número quatre que es va repetint?
+Doncs resulta que el que feien servir per traslladar gent eren aquests TGVs, no sé si els heu vist, de dos pisos.
+Llavors el que feien era el pis inferior, era on posarien els malalts, zona bruta,
+el pis superior era la zona neta on la gent podria reposar i on hi hauria la logística.
+I 4 són els que cabien al pis de sota.
+A cada pis de sota podien posar quatre pacients.
+On els posaven?
+A damunt dels reposacaps dels seients.
+Aquests trens que gastaven ells tenien sis vagons practicables per posar-hi quatre pacients a cada vagó.
+I llavors el vagó restaurant, que no era practicable per això, era on hi havia el lloc de comandament.
+Era on hi anava el metge a cap de tren, i els operadors, els tècnics de logística,
+i els auxiliars de regulació medica, el personal de comunicacions, diguem-ho així.
+Ens fem una idea del que estem parlant aquí?
+Per tant, no modificaven res de l'estructura del tren, l'interior dels seients i tot això, no els feia falta fer res?
+En el primer tren van agafar i van situar unes lliteres lligades a damunt dels reposacaps.
+I a partir d'aquí posaven els pacients en sacs de buit, ben empaquetadets, i llavors anaven lligant com podien
+tot l'equipament que portaven, els monitors, el respirador, ho tenien posat per allà.
+A partir del primer viatge, el que sí que van fer va ser desmuntar una part d'uns quants seients,
+de manera que el pacient no anava tan amunt, ja no anava a l'alçada del reposacaps,
+sinó que anava una miqueta per sobre de l'alçada del seient.
+Així era una miqueta més fàcil de manipular.
+Cada vagó era una unitat independent: l'Unité Mobile Hospitalière Ferroviaire, la UMHF.
+I aquesta unitat la formaven quatre infermeres, una havia de ser infermera anestesista per anar bé,
+un metge sènior, un de júnior i un tècnic.
+Cada hospital que havia de rebre pacients aportava el tren a aquest personal, amb l'equipament necessari.
+Equipament necessari, doncs, per cada pacient era un ventilador, un aspirador de secrecions, un monitor multiparamètric,
+d'aquests que tenim per monitorar els pacients, quatre bombes de perfusió per cadascun
+i la previsió farmacològica que tu fessis una idea que podries necessitar per 12 hores de viatge.
+I els del tren, el que és l'organització del tren, posava les bombes d'oxigen,
+que hi ha una foto, i si no n'hi ha 100 bombes d'oxigen de 5 litros, doncs és que n'hi ha 80.
+Però si tens, no sé quants tios ventilats, 10 hores.
+Imagineu-vos això
+Jo no sé quantes bombes d'oxigen portàtils tens al teu servei, però és que no sé d'on les van robar, la veritat.
+També portaven el seu ecògraf, una màquina d'analítica portàtil i també portaven, que són molt macos aquests també,
+una màquina d'ecmo per si s'havia de posar amb algú, que al final no van necessitar.
+I per manegar tots aquests pacients i tota aquesta barbaritat de trastos
+portaven una vintena de socorristes, bombers, tècnics, voluntaris, agafaven la creu roja d'allà,
+doncs aquests ajudaven a carregar i descarregar els pacients i a fer de senyors dels encàrrecs.
+Perquè això d'entrar i baixar els pacients era,
+doncs imagineu-vos, jo penso en el tren i penso en aquelles portes que s'obren i entren i surten quatre persones alhora.
+No, no, aquí són les portes aquestes estretes d'aquests trens, portes que una persona passa, però dues no.
+Doncs imagineu-vos entrar algú que ve amb un paquet que deu pesar...,
+doncs imagineu-vos el que és entrar-lo.
+I a sobre d'aquests trens de dos pisos,
+clar, no només l'entres dins del tren, després l'has de baixar al pis de baix per escales,
+passar per entremig aquell passadís estret, que quasi més estret que el passadís d'un avió,
+i llavors col·locar-lo en aquestes lliteres que hi ha damunt dels seients.
+Un merder.
+Bé, els socorristes, doncs el que van fer va ser una...
+És molt divertida la foto, aneu-la a veure, si podeu al meu blog, perquè és molt divertida.
+El que feien era, dos d'aquests socorristes es posaven així a quatre grapes i li fotien el pacient a sobre.
+I llavors aquests anaven fent el suport perquè els altres, des dels costats poguessin anar manipulant la llitera
+i anar-la avançant fins a portar-la a lloc.
+Això per cada pacient, només se'n podia entrar un alhora.
+Clar, una alhora per vagó.
+Això es feia simultàniament a sis llocs diferents.
+Aquestes 20 persones que tibaven de llitera, s'havien de repartir, clar, unes quantes a cada vagó.
+Tres o quatre a cada vagó.
+Estaven entre una hora i mitja i dues hores per completar el tren i poder sortir.
+Llavors un cop l'has posat a la teva llitera, llavors l'has de deixar endreçadet, clar, tot està allà de qualsevol manera.
+Doncs has de posar el monitor aquí, les bombes allà, perquè tu estaràs allà moltes hores dins d'aquest tren
+i l'has de tenir endreçadet perquè l'hauràs d'anar cuidant.
+Fixa't en el detall. De 90 a 120 minuts per entrar al tren i el mateix per sortir.
+Ep, això és el trànsfer des de l'ambulància fins a dins del tren.
+Primer has anat amb l'ambulància a l'hospital de sortida,
+l'has empaquetat, l'has ficat a l'ambulància, amb aquest comboi d'aquestes UMHF, no?,
+que hi van els dos metges, més les quatre infermeres, llavors tens un comboi de quatre ambulàncies,
+dues que van amb metge i infermera i les altres dues que només van amb infermera
+i totes juntetes fent el caminet fins a arribar a l'estació.
+I a l'estació, au, vinga, a bellugar.
+No sé com ho veus, però això és un merder.
+Sí, sí, sí, no...
+I el mateix passava quan es descarregava.
+Clar, arribaven a l'estació, a la de Bordeus, de l'estació de tren,
+se'ls havia de portar als seus hospitals de destí.
+Amb el tren que, per exemple, em sembla que el tren que tinc aquí posat d'exemple,
+va acabar a Bordeus, doncs dels sis vagons, quatre els portaven
+el SAMU de Bordeus.
+Els altres dos, el 92 i el 95, que no sé d'on són.
+Els de Bordeus se'n van quedar a 16 i els altres dos SAMU se'n van emportar quatre cada un.
+Els havien de descarregar, carregar-los a ambulàncies o un helicòpter,
+o fins i tot hi va haver uns que van fer això mateix del tren, ho van repetir després amb un bus per anar a l'hospital seu.
+És a dir, van descarregar quatre tios, els van fotre amb un bus, el mateix muntatge, i del bus cap a l'hospital.
+Al blog mireu també la foto que és l'estació de Poitiers, és una estació, diguéssim, a l'aire lliure.
+Van desmuntar les baranes que separen l'andana de l'estació d'un camí del costat per ficar-hi les ambulàncies.
+Això, quan ho pensava, quan llegia això pensava
+Mare de Déu Senyor, quin merder!.
+I tot això ho tenien previst prèviament o va ser totalment improvisat, tota aquesta història?
+Part del muntatge l'havien fet quan van preparar aquest exercici de Metz,
+de l'atemptat terrorista, ja l'havien plantejat.
+Què havien d'endur-se, què hi havia d'anar cada tren...
+De fet, una de les coses que ja van detectar en aquest exercici era la problemàtica de l'alimentació elèctrica.
+Ho hauràs d'endollar a la corrent, tota aquesta maquinària electromèdica que porten,
+i no és pas poca, jo he comptat així set aparells per malalt.
+Amb la qual cosa necessites 28 endolls només per tota la maquinària del pacient, més les altres coses que puguin anar sortint.
+Estem parlant que has d'endur-te 30 o 40 coses en un vagó.
+Els de l'SNCF devien pensar i això com ho fotrem?
+El simulacre aquest de Metz, creus que ja estaven... ja havien previst poder transportar... no sé, cent malalts així amb tren i tot això?
+Al simulacre de Metz em van portar 90 no sé quants d'urgències relatives, que serien els grocs verds,
+ja et dic, és tot inventat, en una situació real, vés a saber,
+i em van portar 20 i tants d'urgències absolutes, els nostres vermells.
+He comentat això dels endolls, perquè clar, tot això que estic parlant ara és la part, diguem-ne, sanitària
+però imagineu-vos la part ferroviària d'això.
+S'ha de tenir molt clar quines línies tens que puguis fer passar quins trens.
+Us he explicat això, que tenien 6 vagons practicables, més el vagó restaurant,
+clar, això era del segon tren, això era un comboi de dos trens que anaven junts.
+El primer tren era el tren de l'SNCF, de l'operador ferroviari francès,
+que hi anaven els conductors de tren, evidentment, però hi anava tot de personal
+preparat per si el tren patia algun problema, poder-lo engegar de nou, i hi anaven generadors
+extres per si es quedaven sense llum o aquests moments tontos que tenen les línies
+de tren, que es veu que hi ha moments tontos en què el tren deixa tenir corrent durant un parell de minuts,
+doncs portaven generadors extres per si es quedaven tirats, doncs poder donar corrent.
+Ja havien previst bastant, no sé si tot gràcies a allò d'aquest exercici,
+o després va sortir a base d'aquesta serendípia que tenim
+quan les coses es compliquen, doncs van preveure moltes coses.
+I de fet, goita, 200 pacients, 10 viatges, no se'ls va morir ningú,
+no se'ls va morir ningú a les 48 hores següents, sí que després, evidentment, va morir gent,
+200 pacients amb Covid, aquella ronda, tocaria que palmessin uns quants.
+I l'única cosa que van veure és que la PaFi dels que van estudiar, no de tots aquests dos-cents,
+la PaFi d'arribada era una miqueta més baixa que la PaFi de sortida.
+I sí que van tenir els seus lios, li van haver de reintubar un tio per si li va
+punxar el baló de pneumotaponament, van haver de posar un catèter arterial dins el tren, amb el tren en marxa.
+Bueno, ho van poder fer bastant fàcil.
+Cosa tonta, que m'ha fet molta gràcia llegir-ho,
+vaig pensar, mira, uns conductors que no coneixen la fisiopatologia del transport.
+A la primera missió van veure que hi havia bastants pacients
+que s'hipotensaven quan el tren frenava.
+Us sona?
+Els companys TES, això us sona? Us han estrujat el cervell per la fisiopatologia del transport,
+que no podem anar molt de pressa, que no podem accelerar i desaccelerar. Doncs van haver de dir
+als conductors del tren que sí, que era una urgència, però que...
+Si vas a 300 per hora, no frenis de cop.
+Exacte, que a poc a poc.
+Fins aquí, això que us he explicat, és tan merder que jo em plantejo, va valdre la pena? Val la pena fer això?
+Això, evidentment, és l'efecte wow. Quan veus això, dius wow. Però paga la pena?
+I no ho tinc clar. No ho tinc clar perquè sí que és cert que el merder
+és enorme, és gegantí, però d'altra banda, clar, l'eficàcia...
+O sigui, imagina't que avui estàs amb l'aigua al coll
+i demà has buidat. O sigui, tu imagina't que ets d'un d'aquests hospitals
+del Gran Est, d'Estrasburg, tens la UCI a petar,
+no la UCI teva, la UCI, més la UCI inventada, més la segona UCI inventada, a petar,
+i d'urgències tenen 10 tios més que han de pujar.
+Això és catastròfic.
+El dany moral que representa haver d'agafar i dir aquest morirà, això es va haver de fer aquí.
+Aquelles edats que cada vegada preguntaves a partir de quina edat
+te'ls volen i cada vegada era menys, cagava molt.
+Doncs imagina't això, imagina't que estàs
+havent de prendre aquestes decisions i l'endemà, cony, tranquils, tinc puesto.
+No ho sé, no ho tinc massa clar.
+Jo estic pensant, perdona Albert, amb les famílies,
+perquè que se t'emportin el familiar a 500 quilòmetres,
+vale, que potser aquella època segurament tampoc podies
+desplaçar-te ni entrar a la UCI i visitar el teu familiar ni res, però...
+És el que t'anava a dir, és a dir, vale, sí, sí, ho entenc, 500 quilòmetres
+és horrorós, però és que tampoc hi podies anar. Quina era la diferència?
+Que si palmava allà te l'havien de portar de 500 quilòmetres?
+Perquè clar, en el moment que aquest senyor ja estava operatiu i es volia tornar,
+segurament el tornaven a casa, des d'allà on fos, no?
+I l'altra cosa que també em plantejava és, d'acord, el muntatge de fer això és enorme,
+però com bellugues 200 pacients d'un en un amb els mitjans ordinaris, fer 200 trasllats?
+Hòstia, no tinc gens clar si això valia la pena o no.
+I una altra cosa que també em fa plantejar si això
+es podia fer o no, és que clar, això es va poder fer quan es va poder fer.
+El país parat. Per tant, tens tots els TGVs que tu vulguis, totes les vies per tu sol,
+és més, com que amb això ho tenien tot parat, va resultar que els primers trens
+es trobaven que el tren arribava a la tarda o vespre, descarregaven, però que ja no podien tornar.
+I cony, el personal havia d'anar... anàvem justos de personal, tothom, no?
+Aquests tios els tenies, què, dormint i l'endemà havien de tornar amb un altre tren?
+Doncs hi va haver una de les missions que van tornar amb l'avió del president.
+Ara jo penso sí, clar, demà fem aquest lío i després el Falcon del Presidente et torna a casa. Hòstia,
+evidentment es van posar a la pancarta, però no ho sé. De totes maneres, també t'haig de reconèixer una cosa, eh?
+El fet de fer servir trens no s'ho han inventat els francesos el 2019.
+Els trens van ser els primers mitjans de locomoció que es van fer servir per traslladar pacients, ja fa més d'un segle,
+i ara, per exemple, Metges sense fronteres té un tren a Ucraïna que fa justament això.
+Tinc un tuit seu que parla de setembre del 2022 que diu que hi havia bellugat més de 1.400 pacients,
+de 1.400 pacients, això a desembre del 2022, a saber quants n'ha bellugat ara.
+És una eina, és una eina.
+I clar, quan van sortir les notícies en el seu moment vaig pensar: mira, i després
+ara fa poc han anat sortint estudis, la literatura d'això, i ho anava llegint i pensava, ostres,
+per cert, la literatura aquesta que he fet servir per fer l'entrada la tindreu al grup de Telegram,
+perquè si us interessa la pugueu consultar allà.
+Clar, després d'haver llegit tot això d'aquesta gent, el primer que vaig fer
+és pensar com fem la gent dels pobles, que quan el veí té una cosa tu també la vols per tu.
+I vaig dir, hòstia, això no s'hauria pogut fer aquí. Doncs mira, sorpresa, resulta
+que buscant, buscant, la RENFE, veient l'experiència francesa, ja havia preparat alguna cosa.
+Ells proposaven fer servir uns trens, uns Talgo, no van tan de pressa com els TGV, però són més versàtils.
+Aquests Talgo són dels primers que van començar a fer servir les línies d'alta velocitat,
+a 250 km per hora quan van per una línia d'alta velocitat, però que poden anar amb ample ibèric,
+l'ample internacional i també poden anar amb electricitat com amb motor dièsel.
+ De manera que podien anar a molts més llocs, no només als llocs on hi havia línia d'alta velocitat.
+Aquí, la part que em va semblar molt interessant aquí és que aquests trens
+de Renfe és d'un sol pis, no era de dos pisos i s'entrava a peu pla.
+De manera que tu podies entrar a una llitera d'ambulància i directament, que és com ho havien fet ells,
+la llitera d'ambulància la lligaven a uns ancoratges a terra, on hi havia els seients,
+hi havia uns ancoratges que tu la lligaves allà. A l'hora de carregar, això és infinitament més ràpid.
+Si, si, i tant
+Entres amb la llitera i de la llitera fas un trànsfer a l'altre i ja està.
+Si has empaquetat bé el sac de buit, ja pots engegar i després ja pots tirar.
+Veient això vaig dir, anem a fer uns numerets.
+I vaig fer uns comptes d'aquests de tovalló,
+són unes taules que he fet, estan a l'entrada del bloc, que té el seu interès.
+I vaig mirar, doncs, quan trigaries a traslladar un tio per carretera,
+doncs jo què sé, d'un hospital de Barcelona, a la Vall d'Hebron, a l'Hospital de la Paz de Madrid, no?
+Doncs trigaries 6 hores, per exemple.
+I amb tren, quant trigaries? I vaig fer una taula així tota interessant
+comparant amb temps, quines diferències de temps hi hauria a fer-ho per terra, a fer-ho amb aquest muntatge.
+És a dir, emportar la gent de l'hospital a l'estació, de l'estació al tren, i el viatge amb tren i tot això.
+I fent uns números així tontos, si estem parlant de menys de dues hores per carretera,
+ni t'ho plantegis, no té cap sentit.
+Perquè, clar, dues hores per carretera vol dir que no has tingut temps de carregar el tren, que ja has deixat el primer pacient.
+Si hem dit que trigues dues hores a carregar, clar, no tenia gaire sentit.
+Però a partir de les 4, la cosa comença a canviar.
+A partir de 4 hores de trajecte, comença a canviar. Plantejar-te, fer això, ja no és cap bestiesa.
+I seguint amb aquestes taules, n'he fet una altra molt tonta, que, evidentment, això són comptes de joguina.
+Això no pots anar pel món.
+Seguint amb les taules, n'he fet una altra pensant quin esforç et suposa desplaçar 20 pacients,
+pensant 20 que cabrien en un tren, per exemple.
+Clar, 20 pacients. Si tu has de desplaçar 20 pacients en un sol viatge de tren, necessites 20 infermeres, 10 metges,
+o una dotzena de metges, 10 tècnics dins el tren, una vintena de tècnics a entrar i sortir.
+Si això ho vols fer amb dos helicòpters, necessites menys gent.
+Però és que el viatge amb el tren d'alta velocitat trigaries un dia.
+Però amb helicòpter en trigaries 5 a desplaçar aquestes 20 persones.
+Amb ambulàncies ho he fet per diferents distàncies.
+Això que us acabo de dir és per anar de Madrid a Barcelona. Si has de desplaçar 20 persones de Madrid a Barcelona,
+Doncs amb un viatge d'aquests trens ho fas en un sol viatge, que és un viatge d'un dia.
+Si ho fas amb 10 ambulàncies necessites dos dies, perquè només pots desplaçar una persona per viatge.
+10 ambulàncies són, doncs feu números, una burrada de gent.
+A més a més, amb més tècnics. Són 6 hores de cotxe.
+Necessites dos tècnics per conduir-la anar i el tornar.
+Segueixo sense tenir clar si això val la pena o no val la pena.
+El que sí que tinc molt clar és que això no ho pots improvisar.
+Això ho has d'haver provat abans. I si t'has de gastar molts calés en això,
+potser és més útil fer-ho d'una altra manera.
+Aquí segurament si tinguéssim capacitat de muntar hospitals de campanya,
+UCIs de campanya, més que hospitals de campanya, doncs potser el que s'hauria de plantejar és dir, molt bé,
+aquesta UCI de campanya, per 6-12 pacients, el que hem d'assegurar-nos és que
+la puguem posar en qualsevol vector mòbil, que la puguem bellugar.
+Si mai es planteja aquesta possibilitat s'hauria de plantejar als gestors:
+Però tot això ho podrem bellugar? ho podrem canviar de vector?
+ho podrem posar en un vector... en els trens? o en un dels altres vectors que m'agradaria explicar-vos
+però crec que avui anem molt passats de temps i si et sembla ho deixaríem aquí
+i potser en un altre episodi podria explicar l'altre vector en el qual es podria
+repetir aquesta operació que també van fer servir aquests companys francesos.
+Jo tot això... home, si val la pena o no val la pena utilitzar
+aquest sistema de transport, se m'acudeix pensar que segurament és com un últim recurs, no?
+Vull dir, si tu veus que sí o sí has de treure els malalts d'un lloc perquè si no aquests
+o els següents es moriran necessites algun sistema i si ja estàs fent servir ambulàncies i no dones
+l'abast amb les ambulàncies i amb un altre sistema i tampoc no queda més remei que
+si existeix això d'estar preparat i estar pensat i dissenyat perquè es pugui fer el transport per tren
+doncs sigui poc rendible o hi hagi un sistema millor, si és l'únic que queda doncs és el que hi ha.
+Sí, però pensa que aquí això si no ho has preparat abans pot ser contraproduent perquè si fas això per alliberar
+i després resulta que et dona més feina que fer-ho pels mitjans ordinaris, has perdut.
+No, no, clar, si treus professionals d'un hospital per anar a buscar a 500 quilòmetres
+uns altres malalts i mentre els professionals van i tornen poden estar
+48 hores sense fer res més que això. Clar, si mentre fan això no estan fent una altra cosa que on eren necessaris, docs és evident.
+Doncs aquesta és la història és un tema que va sortir a l'EUSEM, al Congrés de l'EUSEM
+ho vaig comentar en sembla quan vam fer el programa aquest que explicava les coses
+i és un tema que ja havia anat seguint, em semblava molt interessant i mira n'he fet l'entrada
+i us he explicat la meva... el que he trobat i el que a mi em sembla. No ho sé,
+escolta'm, al grup de Telegram podem anar opinant a veure si això val la pena, no val la pena,
+és una anada de pilota o... o fins i tot els podem dir als nostres gestors si
+podem fer algun dia algun... bé, podem fer algun dia no, si val la pena invertir temps a provar-ho o no provar-ho.
+No sé si aquí a Catalunya el SEM o algú s'ho ha plantejat perquè tu dius a nivell de Renfe...
+Sí, Renfe ho va preparar però no es va arribar a fer servir mai aquest vector.
+Aquí faltaria veure el per què. Igual simplement és que no hi havia lloc on portar ningú
+Però ni amb simulacres s'ha fet servir això, que sàpigues.
+No. Si aneu a l'entrada veureu un parell d'enllaços que et porten a un vídeo que es veu...
+És una cosa ridícula. Es veu com una ambulància entra en una llitera i a dins del tren uns que
+van disfressats, amb un ninot fan veure que li fan alguna cosa. Però... el tren ni es belluga.
+Era més una prova de concepte de Renfe per veure si es podia fer o no, que no pas l'ús que se'n va fer.
+se'n va fer. No sé si algú sap per què no es va fer servir, doncs que ens ho digui.
+Jo la meva sensació és que no es va fer servir perquè no hi havia enlloc buit on portar pacients
+Molt bé, doncs escolta, jo ja estic. Ara... quina secció ens toca ara?
+Ara... poder fem el Menys és Més o...?
+Vinga va, Menys és Més, fot-li
+Doncs el Menys és Més d'aquest episodi és una campanya del
+Choosing Wisely, que és de la Junta Americana de Medicina Interna, que té
+una de les sèries d'aquesta campanya que es diu Things We Do For No Reason
+és a dir, coses que fem sense cap mena de raó. I el que fan és revisar
+pràctiques que fem habitualment, almenys a dintre de l'àmbit hospitalari,
+que s'han provat i demostrat que no tenen cap valor, o tenen molt poc valor per als pacients.
+Això és un article que està publicat en el Journal of Hospital Medicine,
+que és la revista oficial de la Societat de Medicina Hospitalària Americana
+Aleshores, el concepte que volen remarcar en aquest Menys és Més
+és el tema del sediment d'orina i cultius en ancians que tenen un deliri.
+Uuuuh, tema, tema!
+Perquè sabem que el deliri és la raó més freqüent per la qual es demanen
+sediments en pacients ancians.
+Aleshores, es pregunten, això que fem sempre cada dia amb la majoria de malalts
+ancians amb deliri, que és dir, si o si s'ha de fer un sediment d'orina, ells ho tenen com a coses que fem sense cap mena de raó.
+Aleshores, les cosa es basa en que la infecció d'orina sí que és una patologia freqüent en gent gran,
+però és un 25% de les infeccions, no és un 70%, és un 25%.
+I només un 30% d'aquestes cursen amb deliri, poden fer un deliri.
+Per tant, el deliri és una manifestació molt inespecífica d'infecció del tracte urinari.
+El deliri el pots tindre per mil raons diferents.
+I la infecció del tracte u rinari no és ni de molt bon tros la infecció més freqüent en els ancians. És només un 25%.
+Aleshores, per què pensem, en un pacient de 80 anys que està amb deliri, per què pensem sempre en la infecció d'orina?
+Doncs, pel que expliquen aquí, la raó pot ser que el concepte de la bacteriúria asimptomàtica,
+que és molt freqüent, aleshores, la bacteriúria asimptomàtica és un sediment patològic
+o un cultiu amb més de 10 elevat a 5 unitats formadores de colònia positiva,
+però sense una clínica mínimament compatible amb una infecció d'orina.
+Això és una bacteriúria asimptomàtica. I és freqüent.
+En persones de més de 60-65 anys, estem parlant que un 5 o un 10% tenen bacteriúries asimptomàtiques.
+I en pacients que estan en residències, en centres de llarga estada, aquesta prevalença ja pot ser el 50%.
+Per tant, això afegit a que és un diagnòstic, que ho diagnostiquem de forma molt fàcil
+i molt ràpida, només hem d'aconseguir una mínima mostra d'orina d'un pacient
+i al cap de 10 minuts ja tenim un resultat que es llegeix de forma molt fàcil.
+Això de fàcil i ràpid, l'orina, compte, perquè és molt fàcil de demanar, però si la persona no està
+gaire centrada, l'has d'acabar obtenint per mitjans una mica cruents,
+Sí, si
+que suposo que és el que ens parlaràs ara, de les conseqüències de fer-ho.
+Sí, jo dic que és ràpida, com a mínim, mira, ara et diré que és fàcil pel metge demanar-ho.
+Molt, molt.
+Pel metge és molt fàcil, dic, hòstia, què fem? Tinc un pacient amb 80 anys
+amb un deliri, bé, doncs descartem que no sigui una infecció d'orina.
+I és molt fàcil, demanes i ja està. I al cap d'X estona, te donen el resultat
+ i no has de fer ni un esforç per interpretar el resultat
+No és com interpretar una radiografia, un electro, que sí que ja necessites posar-hi els 5 sentits.
+Jo rebré el resultat i em diran, doncs mira, 40 leucos, 1.000 bacteris i el cultiu pendent.
+D'acord, tinc un sediment patològic. I ja està, no m'ha sigut excessivament traumàtic per mi.
+Per infermeria i pel pacient, evidentment.
+A més a més, això ho fem servir molt també perquè tenim la necessitat de donar
+una resposta ràpida i començar un tractament ràpid amb un pacient que
+et sembla que pot estar sèptic, que té un deliri, no sé què, i tenim la necessitat de fer alguna cosa.
+Als professionals sanitaris esperar amb als braços creuats que allò se solucioni ens costa molt
+tindre aquesta paciència. Per tant, tenim una prova que és un sediment d'orina
+que és, entre cometes, fàcil d'aconseguir, fàcil d'interpretar i, a més a més, és relativament ràpid
+Tot això fa que la bacteriúria asimptomàtica l'hem associat immediatament a infecció d'orina
+ i, com que molts pacients d'aquesta edat tenen bacteriúria i ens sortirà un sediment patològic,
+hem acabat associant que infecció d'orina i deliri estan relacionats.
+Però, en aquest article, ens expliquen i ens posen exemples d'una revisió sistemàtica del 2019
+publicada en el BMC Geriatrics, que és una revisió sistemàtica que inclou 22 estudis
+ en la qual, d'aquests 22, que és tot el que han trobat sobre aquest tema, no hi ha cap d'ells que tingui suficient
+validesa com per poder dir que infecció d'orina i deliri estan relacionats en ancians.
+És evident que, per conceptes biològics i que sigui plausible, evidentment,
+si una persona té una pielonefritis i sobretot en gent gran i tal, que això pugui fer que tinguis una disfunció cognitiva,
+és plausible plantejar-t'ho. Però, si repasses la bibliografia, aquesta revisió sistemàtica del 2019
+no va trobar cap indici bibliogràfic que això estigui establert en estudis científics.
+Per tant, deixem-ho una miqueta entre cometes. 
+Per tant, si ja ni a la infecció d'orina realment hi ha una gran fortalesa
+en evidències científiques que estan relacionades, ara imagina't la bacteriúria asimptomàtica,
+que això sigui una causa, la bacteriúria asimptomàtica que sigui la causa del deliri és bastant improbable.
+Aleshores, en aquest Menys és Més, recordo el que passa quan utilitzem
+la bacteriúria asimptomàtica per tractar aquests deliris amb pacients d'edat avançada.
+Primera, que no aporta cap benefici, perquè és molt probable que aquella persona no tingui una infecció d'orina
+i, si la té, no sigui el responsable d'aquest deliri que té. Per tant, no aporta cap benefici.
+I, a més a més, les conseqüències de tractar, perquè la tractarem, perquè si tenim un sediment amb 100 leucos i 5.000 bacteris,
+no ens podrem quedar de braços plegats.
+Ja has demanat una prova, tens un resultat patològic i ara has de fer alguna cosa.
+Aleshores, estaràs tractant una infecció d'orina que no hi és i tindrà efectes secundaris
+secundaris que seran, per exemple, infecció per Clostridium, resistències bacterianes i efectes adversos de l'antibiòtic.
+A més a més, allargues la durada de l'estada hospitalari, els pacients ancians tindran pitjor recuperació funcional.
+A nivell de salut pública, el que hem dit abans de les bacteris multiresistents, el cost econòmic i, molt important,
+faràs un tancament prematur del diagnòstic d'aquest pacient que està en deliri.
+Et quedaràs tranquil que ja has trobat la causa d'aquest deliri i t'estaràs menjant en patates
+una encefalitis, una meningitis, una pneumònia, mil històries més, una prostatitis,
+ t'ho estaràs menjant amb patates i no li estaràs oferint a aquell pacient un tractament que el tens a tocar de mà
+ i que li podries començar ja, perquè t'has cregut que aquella bacteriúria asimptomàtica
+és el reflex d'una infecció d'orina i que això és la causa del deliri.
+Una forma fàcil de donar l'alta, però no necessàriament de resoldre el problema.
+Exacte. I, evidentment, el pacient, si ingressa, anirà malament i si el dones d'alta també.
+Aleshores, en aquest document ens recorden les indicacions de demanar un sediment d'orina
+i un cultiu amb un ancià amb deliri.
+Només en cas que hi hagi simptomatologia d'infecció d'orina,
+és a dir, disúria, pol·laciúria, urgència miccional, dolor suprapúbic i punyopercusió positiva dolorosa.
+O hi hagi una clínica d'infecció sistèmica clara, que estiguis amb febre més de 38, una leucocitosi clara
+o una inestabilitat hemodinàmica que pensis que sigui per una infecció.
+Serien les indicacions de demanar un sediment d'orina.
+I com a recomanacions finals, te diuen, en l'ancià amb deliri sense signes locals d'infecció d'orina
+ni signes sistèmics d'infecció severa, no demanar un sediment ni cultiu d'orina.
+Per contra, què has de fer?
+Doncs una bona anamnesi de l'estat actual i de l'estat basal del pacient,
+que te la pugui fer amb un informant, amb un pacient familiar acompanyant,
+que et pugui donar informació correcta i veraç,
+fer una exploració física correcta i una neurològica també acurada,
+demanar les proves complementàries necessàries,
+per exemple, per detectar alteracions hidroelectrolítiques, metabòliques,
+altres tipus d'infeccions o fracàs d'altres òrgans
+i, important, fer un maneig dels factors de risc modificables del deliri.
+Per tant, els temes ambientals, de deprivació del son, de medicació,
+de mobilitzacions o immobilitzacions del pacient i dèficits sensitius del pacient,
+tot això que podem modificar-ho i que afectaran el deliri, començar-ho a fer-ho ja.
+Segona recomanació, en l'ancià amb deliri i que té signes d'infecció d'orina
+o sistèmics d'infecció, en aquest sí, en aquest li demanem un sediment d'orina
+i si és positiu o és patològic, el cultiu i a començar a valorar el tractament antibiòtic.
+Però si no hi ha infeccions locals, no hi ha clínica local o sistèmica d'infecció, no demanar un sediment d'orina.
+Això seria la conclusió d'aquest Menys és Més del Choosing Wisely de la Junta Americana de Medicina Interna.
+Ho veus clar, Albert?
+Un altre paper per imprimir i penjar al despatx dels metges.
+Sí, aquest seria important.
+Se'ns acabarà la paret.
+Sí, sí, nosaltres en tenim un de similar que ja deia alguna cosa així, però tot i això costa molt.
+Costa molt perquè anem massa a pinyó i massa intentar resoldre ràpid, ràpid pacient
+i amb el tema de les proves complementàries penso que ens hauríem de posar les piles perquè fem les coses sense pensar-les.
+I després tard o d'hora el pacient, o per efectes secundaris o perquè et deixes de fer
+de diagnosticar el que has de diagnosticar, el pacient després se'n ressent segur, segur, segur.
+Mira, ja tenim una assignatura per la futura especialitat de Medicina d'Urgències i Emergències. Menys és Més.
+El Menys és Més.
+El tema dels antibiòtics és un tema xungo i que serà importantíssim els pròxims anys.
+Ja ho és ara, però vull dir que cada vegada més amb les resistències dels bacteris
+això serà primordial tindre clares les indicacions, ja no dels antibiòtics sinó de les proves
+que després ens aportaran a tractar amb antibiòtics o no.
+És el primer que hem de mirar, penso jo.
+Doncs res, Albert, canviem de secció, fem els UrgemMots?
+Vinga, anem als UrgemMots.
+Tu tenies alguna cosa preparada o...?
+Doncs sí, resulta que fa poc, estem gravant això al desembre,
+doncs resulta que al novembre l'Institut d'Estudis Catalans va presentar
+l'actualització del diccionari, del DIEC i resulta que hi han afegit una locució
+que quan la sentis diràs això no hi era, no pot ser veritat.
+Resulta que hi han afegit la locució d'atac de cor.
+Atac de cor.
+Això no era el diccionari, com a sinònim d'infart.
+O sigui, atac de cor, locució afegida al novembre del 2023,
+junt amb les altres paraules aquestes que afegeixen cada any.
+Jo em vaig quedar bastant sorprès i dic ostres, això no hi era?
+Sorpresa. Trobes coses...
+Està guai, està guai, un atac de cor.
+Sí, sí, és com tieta, que tampoc hi és al diccionari, però això és un altre tema.
+Tieta. I tiet si?
+No, tampoc, tampoc. Tiet, tieta no hi són.
+Ah, val.
+Oncle i tia sí, però tiet, tieta no. Polèmica al paraulògic amb això.
+Molt bé, molt bé.
+Però bueno, el mot que tenia, que aquest...
+Mira, just té una miqueta a veure amb això que explicaves ara.
+Resulta que el xoc sèptic el produeix una sèpsia, no una sèpsis.
+Una sèpsia.
+Llavors això del codi sèpsis, doncs no, com molt bé està escrit a molts llocs, és el codi sèpsia.
+Veus, una d'aquestes cagades que feia sovint que s'ha d'arreglar.
+Sí, sí, aquestes les hem de sentir molt sovint perquè, clar, són tan similars al correcte de l'incorrecte que...
+Sí, sí, jo he d'estar-hi molt atent perquè si no també la cago molt sovint.
+Va, Xavi, quines tens tu, va.
+Jo havia fet un recull, tinc recollides 12.
+Ala!
+Estic ràpid, eh.
+Que fan referència als animals i a la vida vegetal.
+Al regne animal i al regne vegetal.
+Però això és un pòdcast de medicina d'urgències.
+Sí, sí, tindran relació, tindran relació.
+Aviam, quan... Sobretot amb els nens que veiem amb fractures així,
+que es trenca una cortical només d'un costat i l'altre no,
+de forma incorrecta en podríem dir de tija verda, però hauríem de dir-ho de canya verda.
+Ah, caram!
+Una fractura de canya verda.
+Les fractures així que fan una... En castellà en diem de rodete o de canya de bambú,
+n'hem de dir fractura de rebaba.
+També és correcte, però no és el terme preferit del Demcat, pel termcat,
+és fractura de bambú, però no de rodete ni canya de bambú,
+sinó o de rebaba o fractura de bambú.
+Després, el pacient que està amb una apendicitis que ha evolucionat
+que el cirurgià no la vol operar fins l'endemà al matí i no sé què, finalment tindrà una peritonitis
+i tindràs a l'exploració física un ventre de fusta.
+En lloc del ventre de taula, tindràs un ventre de fusta.
+Aquest em sembla que ja l'havíem dit alguna vegada.
+I la llengua de gerd. La llengua de gerd te sona, Albert?
+No. El gerd em sona, però la llengua de gerd no.
+Sí, clar.
+Vale, doncs hi ha el sinònim que és la llengua de gat i la llengua de maduixa
+que són de l'escarlatina.
+Són signes que has de mirar, no?
+Un pacient que sospitis una escarlatina li mires la llengua veient com la té.
+Això és dins del regne vegetal, dintre del regne animal.
+Tenim la tos de gos, que no és la tos perruna ni altres formes, sinó que és la tos de gos.
+Tenim l'ull d'os rentador, que és molt xulo, que en castellà és l'ojo de mapache.
+Xulo de dir, però no de veure.
+I menys pel pacient, clar.
+Doncs el mapache és l'os rentador, per tant en diem ull d'os rentador.
+Després, el pacient que ja té una miqueta d'artrosi a la columna i tal,
+veiem aquelles formacions d'os que en castellà és el pico de loro, l'osteòfito.
+En català és el bec de lloro, l'osteòfit o bec de lloro.
+Després tenim la típica tendinitis de la pota d'ànec, la pata de ganso.
+Ui, on és això?
+Aquí dins la part interna del genoll, dins del semitendinós.
+Són tres muscles que surten d'aquí, d'una branca de la pelvis
+i s'insereixen a la cara interna de tíbia i de fèmur.
+Doncs mira, deu ser de les poques tendinitis que encara no he fet.
+No la tens? Doncs no ho sé, t'hi has d'esforçar-hi més.
+Prefereixo no tenir-la.
+Què més? La síndrome de la compressió de la cua de cavall.
+El final de la medul·la espinal s'acaba amb tot d'arrels nervioses, que és on fem la punció lumbar.
+Doncs, gent que té algun tumor, algun traumatisme i tal,
+pot tindre una compressió de cua de cavall.
+Això en anglès és molt maco aquesta... N'hi diuen cauda equina.
+La cauda equina.
+Que per nosaltres és superfàcil de dir, però pels anglesos deu ser muerte.
+Sí, sí, pot ser complicat, sí.
+Què més? La verola del mico, que això ho vam veure, no sé si aquest estiu passat o l'altre, ja no me'n recordo.
+I l'última era el peu equí. El peu equí ve del cavall.
+Gent que té alguna paràlisi, ara no me'n recordo de quin nervi és,
+però al caminar, la flexió dorsal del peu no la pot fer, i camina així, com aixecant més la cama
+perquè el peu li penja. Això és un peu en equí.
+Sí que ho veurem a urgències, però no és una patologia urgent.
+I això és l'UrgemMot del regne animal i del regne vegetal.
+Molt bé, m'ha agradat, molt ben trobat.
+Molt bé.
+Doncs, escolta, va, anem a les recomanacions.
+Mira, jo en tinc una, és una recomanació només per a grans friquis.
+Per a apassionats de la fisiologia.
+Es diu...
+Caram
+Si,si. És un lloc web que es diu derangedphysiology.com.
+És un lloc web que el va començar a fer un intensivista
+per preparar-se els exàmens, els boards aquests que fan americans per treure l'especialitat.
+Qualsevol cosa que vulgueu saber de fisiologia humana desmanegada, dels que acaben a la UCI, ho trobareu allà.
+De fisiologia, sobretot relacionada amb la UCI, eh?
+Sí, sí, sí. Evidentment és de lectura dura, eh?
+No espereu aquí els vídeos de TikTok de dos minuts de...
+Pressió arterial invasiva, no espereu això.
+És de les de... Si has d'estudiar, aquí trobaràs moltes coses.
+Però això dic que és només per a apassionats, eh?
+Si us la porta una miqueta fluixa, doncs no cal que aneu a veure aquesta pàgina.
+I has dit que es deia com?
+Deranged?
+Delta, eco, Romeo, alfa, november, golf, eco, delta.
+Physiology, en anglès és...
+Papa, hotel, yankee, sierra, índia, oscar, lima, oscar, golf, yankee una altra vegada. Punt com.
+Molt bé.
+Jo tenia una recomanació també, que és una app que es diu Codi Blau, CodeBlue. Et sona?
+No, no, no. Primera notícia.
+És una app per controlar, per fer un control del... de quan estàs fent RCP, per controlar els temps.
+Què dius ara?
+Sí, és una app que te la tens instal·lada al teu mòbil, a la teva tablet.
+Hi ha quatre cronòmetres. En una pantalla veus els quatre cronòmetres.
+El primer, quan comença el codi d'RCP.
+Quan t'avisen que un pacient està parat i tu vas cap al lloc,
+ja li pots posar Start i tu saps que els teus companys de la tango o de qui sigui
+estan començant a fer RCP un malalt.
+I tu quan tu arribes a aquell cronòmetre ja està als 5 minuts, als 10 minuts i tal.
+Després tens un altre cronòmetre, és quan tu comences l'RCP.
+I allò va continuant.
+Després tens un altre cronòmetre que et diu cada vegada que tu fas una desfibril·lació,
+li marques, li dius, vale, pum, faig una desfibril·lació i torna a començar a zero el cronòmetre.
+Per tal que cada dos minuts tu vas veient que allò, quan arriba a dos minuts,
+dius, ei, portem dos minuts de l'última desfibril·lació, revisem ritme.
+I ho tens. I cada vegada que marques desfibril·lació, pum, això es posa a zero i torna a començar sol.
+I el mateix amb l'adrenalina.
+Cada vegada que tu li dius, pum, posa una adrenalina, es posa a zero
+i al cap de quatre minuts, tu ja saps que ja portes quatre minuts,
+dius, vale, nova adrenalina, li criques adrenalina i es torna a posar a zero i es torna a començar.
+I pots anar afegint-hi coses, no?
+De dir, jo vull fer un seguiment de cada vegada que posi una intraòssia o la intravenosa
+o la sonda no sé què o que intubo no sé què, tots aquests actes els pots anar registrant.
+Tota la medicació que puguis anar posant: el bicarbonat, el sulfat, la lidocaïna si n'has de posar, l'amiodarona, no sé què, els pots anar posant.
+Els ritmes que vas trobant també els pots anar registrant.
+Amb la qual cosa, quan acabes, dius, vale, he acabat l'RCP i et pot fer un resum
+en cada minut i segon que has anat fent adrenalines, has anat fent desfibril·lacions
+i quant de temps has fet RCP i quant de temps el pacient ha estat parat, aturat.
+A mi em sembla que pot ser útil a l'hora de fer el registre Utstein
+que sempre estàs dient quantes adrenalines hem posat, quan he començat, vosaltres quan heu arribat,
+quan hem arribat nosaltres, el 3-4, no sé què.
+Tot això que és un cacao i segurament ho fem relativament bé,
+doncs aquí pot quedar registrat i és fàcil d'utilitzar.
+No és gratuïta. Jo em sembla que vaig pagar, no ho sé, dos euros o tres euros o alguna cosa així.
+Escolta, molt interessant. I quan deies això que marca,
+quan marques la desfibril·lació o l'adrenalina, et pita els dos minuts?
+O ho has de mirar tu? No hi ha un avís sonor d'això.
+No, tu vas veient el cronòmetre que va evolucionant i dius, hòstia, ja porto dos minuts i mig.
+Vale, doncs, nois, adrenalina, marques tu que li poses adrenalina i ell ho registra.
+I així ho veus molt clar, no? Si hi ha algú que fa de líder i pot anar controlant-ho,
+ho veus molt clar en el marcador, si portes una adrenalina, portes dues,
+quantes vegades has fet la desfibril·lació...
+Gràficament queda bastant... però bé, has d'estar pendent, eh, has d'estar pendent dels números i...
+ho has d'anar mirant, clar. A mi... jo ho he fet servir un parell de vegades i...
+que jo recordi no m'ha pitat.
+Molt bé, molt bé, molt interessant.
+Doncs això és tot, em sembla, Albert. No sé si hi ha alguna cosa més.
+Però jo penso que ja podríem donar per acabat aquest episodi de l'EMPodCat, no?
+Doncs, escolta'm, ens emplacem el mes que ve, el mes vinent, que ja serà l'any 2024.
+El 2024 tenim pendent fer la segona part, no?, dels trasllats massius,
+o tenies algun altre vector per explicar-nos?
+Jo tinc més coses, però... ja ho veurem, ja ho veurem. A veure què ens porta aquest nou any.
+Doncs fantàstic, molt bé Albert.
+Vinga, apa, que vagi molt bé, a la propera
+Vinga, fins la propera, adeu-siau a tothom

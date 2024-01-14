@@ -1,0 +1,27 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+El Menys és Més d'aquest episodi és una campanya del Choosing Wisely,
+de la Junta Americana de Medicina Interna, de la sèrie Things we do for no reason.
+En concret, és una recomanació que ens parla de les indicacions
+de demanar un sediment d'orina i cultius en ancians que es presenten a urgències amb deliri.
+Ens parlen que les infeccions d'orina només són un 25% de totes les infeccions que tenen els ancians
+i que només un 30% d'aquestes infeccions cursen amb deliri.
+I que, per tant, el deliri és un signe molt inespecífic d'infecció d'orina,
+que cal pensar en altres causes molt més freqüents i molt més greus, potencialment greus,
+de deliri en un pacient ancià.
+La revisió qüestiona l'associació entre infecció d'orina i deliri.
+De fet, a urgències, moltes vegades, i aquest és el problema que se'l vol centrar aquesta revisió,
+és que associem infecció d'orina amb deliri perquè, en lloc de tenir en compte el diagnòstic d'infecció d'orina,
+normalment estem parlant de la bacteriúria asimptomàtica,
+és a dir, un sediment patològic o un cultiu patològic en absència de clínica compatible.
+Aleshores, les recomanacions que ens fa aquesta recomanació del Choosing Wisely
+és: en les indicacions de sediment d'orina i cultiu en pacients ancià i deliri
+són aquells pacients que es presenten amb simptomatologia local d'infecció d'orina,
+és a dir, disúria,  pol·laciúria, urgència miccional, dolor suprapúbic o punyopercusió positiva,
+o clínica d'infecció sistèmica, és a dir, pacient amb febre, leucocitosi o inestabilitat hemodinàmica.
+Per tant, en aquell pacient sense aquests signes locals o sistèmics d'infecció severa,
+no demanem sediment ni cultiu.
+Per contra, sí que ens hem d'assegurar que fem una bona anamnesi,
+que coneixem l'estat basal del pacient, que fem una exploració física i neurològica acurada,
+que demanem proves complementàries fent un diagnòstic diferencial de les possibles causes d'aquest deliri,
+i sobretot fem un maneig dels factors de risc modificables de deliri,
+per exemple, els factors ambientals, la deprivació del son, medicació, immobilització i dèficits sensitius.
