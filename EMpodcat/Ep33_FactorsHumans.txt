@@ -1,0 +1,824 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMPodCat, el que fa 33, que si Déu vol el publicarem al febrer de 2024.
+Com sempre, els que fem aquest pòdcast som en Xavi Basurto, des de l'Empordà. Hola Xavi, bon dia.
+Hola, bon dia. Jo sóc en Xavi Basurto, que sóc metge d'urgències a l'Hospital de Figueres i també a l'Avançada a la 606
+i amb un blog que és urgem.cat. Allà intentem, quan tenim temps, sempre dic el mateix, quan tenim temps publiquem coses,
+que allà, si trobeu alguna cosa interessant, doncs fantàstic. I a l'altre costat sempre tenim també l'Albert Homs.
+Albert, explica'ns alguna cosa teva per a la gent que no ens conegui.
+Jo sóc l'Albert, com en Xavi també tinc un blog, es diu emermedpirineus.cat i a les xarxes socials, a Mastodon
+i allò que ni deien Twitter abans i ara, saber quan durarà, també estem allà amb això.
+I des d'aquí l'EMPodCat, que ja sabeu que és aquest pòdcast que parlem d'urgències i emergències sanitàries o mèdiques, com preferiu.
+També tenim, evidentment, el lloc web on posem els àudios, empod.cat, i tenim un grup de Telegram on ens expliquem penes amb els oients,
+ja som una vuitantena. És interessant, de tant en tant posem coses que valen la pena.
+Vinga, va, anem al tema d'avui, que ens l'has d'explicar tu, Xavi, que ens sembla que és força interessant i té a veure amb la medicina, però no només, oi?
+Sí, avui volia explicar, no sé, fa dies que estem explicant coses que no són purament clíniques i avui continuarem amb la mateixa tendència.
+I sí, jo volia explicar temes de seguretat dels pacients. Què podem fer nosaltres per millorar la seguretat dels pacients?
+Perquè qualsevol cosa que fem, qualsevol persona és susceptible de tindre errors i aquests errors, habitualment, els paguen els pacients.
+I està documentat. El que passa és que no tenim prou consciència de la magnitud del problema,
+perquè s'estima que per errors de seguretat en l'assistència sanitària, errors que segurament serien evitables,
+a tot el món hi ha 3 milions de morts anuals, a tot el món. A nivell d'anys de vida, de qualitat de vida perduts, de vida saludable,
+és comparable a el que pugui passar amb els accidents de trànsit, amb l'HIV i més que, per exemple, la malària i la tuberculosis.
+Carai, doncs la malària i la tuberculosis són malalties molt prevalents.
+Estic parlant de tot el món, no només a països amb vies de desenvolupament, sinó a nivell mundial.
+Vull dir que... els efectes perjudicials del sistema sanitari sobre les persones és comparable als efectes perjudicials als accidents de cotxe,
+l'HIV, el paludisme i la tuberculosis. Estem parlant de coses que no ens en donem compte perquè el dia a dia no ens les deixa veure,
+tenim molts pacients, estem per moltes coses i a urgències els pacients l'ideal és que hi estiguin unes quantes hores,
+ja sabem que sempre hi estan més i això és una cosa també de la seguretat dels pacients,
+però com que desapareixen a les 10 hores, doncs clar, tu els hi fas alguna cosa i potser és possible que el que els hi hagis fet
+al cap de 24, 48 o 3 dies o 3 setmanes apareguin els efectes adversos del que has fet o del que no has fet
+i costa ser conscient d'aquest tema. Els que ho estudien ens diuen que un de cada 10 pacients tindrà efectes perjudicials
+que són evitables a conseqüència de l'existència sanitària, un de cada 10, i d'aquests un 10-15% són efectes severs o mortals.
+Entre un 1 i un 2% dels pacients que veiem patiran dany.
+Pot tenir alguna cosa important, sí. De fet, Estats Units calculen 130.000 morts anuals per efectes de l'assistència sanitària
+en pacients de més de 65 anys. 130.000 morts. Al Regne Unit, Canadà, Holanda, que s'ha estudiat això,
+un 5% dels morts a l'hospital són per errors evitables. Per exemple, només a Anglaterra, 11.000 morts anuals a Anglaterra
+per errors evitables. Si féssim la regla de 3, a Catalunya són 1.300 morts anuals per aquesta causa.
+Quan parles d'errors, et refereixes tant als errors d'acció, és a dir, que tu t'equivoques i, no sé,
+el típic és el error de medicació, que li poses la medicació A en comptes de la B, però també altres coses, imagino,
+no només aquest que és evidentíssim, sinó altres coses més subtils, no?
+Sí, infeccions nosocomials, caigudes, errors de prescripció, que li poses un medicament que li tocava al pacient del costat
+i li poses en aquest. Per exemple, que vam parlar en l'episodi passat de la prevenció de TVP,
+que li poses quan no l'hi has de posar i el que li has de posar no l'hi poses. Això seria un error evitable.
+I aquests errors evitables, com els podem evitar?
+Bé, primer, conèixer-los, que existeixen, quins són i en funció d'això sí que tenim moltes coses.
+Tot i això, no tots els... estem parlant o ens centrarem ara en factors humans,
+és a dir, coses que tu sabent, tenint coneixement i consciència i una actitud i uns coneixements adequats,
+podria disminuir de forma considerable. Hi ha moltes altres coses que no directament són errors humans directes.
+Estic pensant, jo què sé, la forma de dissenyar les instal·lacions, la neteja, l'estat dels equips mèdics,
+el manteniment, els sistemes informàtics, que siguin fiables, que siguin fàcils d'utilitzar,
+la transferència d'informació d'un equip a un altre. Tot això són coses que afecten la seguretat del pacient
+i no és directament un factor humà en aquell lloc concret on es prenen les decisions.
+Tot això evidentment influeix en la seguretat del pacient, tot això suma aquests morts que hem comentat,
+però bé, hi ha una part que sí que nosaltres com a professionals sanitaris ens toca directament
+i que hi podríem fer alguna cosa. Ja està inventat, no estem inventant res de nou.
+De fet, ja la indústria aeronàutica, als anys 70, ja se'n van adonar que el 70% dels accidents aeronàutics
+eren d'errors humans i la majoria era per un fracàs del treball en equip i de la comunicació en equip.
+Això és el 70% dels errors que es cometen i que segurament es pot extrapolar directament de l'aeronàutica
+al sistema sanitari, tot i que el sistema sanitari és molt més complexe que l'aeronàutica.
+I la gran diferència amb l'aeronàutica és que sempre pots decidir no volar.
+I en el sistema sanitari, tancar crec que no és una opció.
+No, i el pacient ha de vindre igualment. Vull dir, volar pots dir volo o no volo i el pacient normalment,
+si li passa alguna cosa greu, ha de vindre. I tu l'has d'atendre. Sí, sí, tens raó.
+A partir d'aquí ja es van inventar el CRM, el Crisis Resource Management.
+La C és de crisi però pot ser... crec que la primera dallonses era de cockpit,
+que el cockpit és la cabina dels avions. I aquí va anar evolucionant i en diuen la Crisis Resource Management,
+que en català en podríem dir la gestió de recursos en situacions de crisi.
+Gestió de recursos. I fa referència a totes les habilitats, que normalment són habilitats no tècniques,
+és a dir, sobretot de comunicació entre l'equip i de distribució de tasques,
+habilitats no tècniques que cal conèixer, dominar i, evidentment, utilitzar,
+sempre que es treballa en equip, en situacions complexes on un error humà pot tenir conseqüències greus.
+Això és el que fem cada dia a urgències. Per tant, totes les accions, tot el que facis
+quan entra un pacient a urgències hauria d'estar sota aquesta gestió de recursos en una situació de crisi.
+És a dir, que això pot servir no només quan estem a reanimació amb una aturada cardiorespiratòria
+o el que sigui, o en un politraumàtic, no, no, un pacient que ve en una clínica de febre urinària,
+aquí també hem de treballar en equip, la cosa es pot complicar i un error pot acabar amb conseqüències fatals pel pacient.
+Per tant, aquest CRM, aquesta gestió de recursos, ho podem aplicar cada dia.
+Quins factors hem de tindre en compte que influeixen? Factors humans que hem de tindre en compte, no?
+Per exemple, només el factor del procediment. Els procediments poden ser complexes, no?
+Complexes no vol dir difícils, sinó que intervenen molta gent, moltes eines, moltes variables,
+aleshores es converteixen una cosa complexa, no? La intubació, l'RCP...
+De procediments, també que sigui temps dependent, tots els codis són temps dependents,
+quan hi ha manca d'informació, pacients estrangers, pacients sense acompanyants que no s'expressen bé,
+pacients inconscients, tot això ens crea manca d'informació, incertesa,
+per tant, és un factor important en la seguretat del pacient.
+Factors individuals nostres dels professionals, no?
+Ui, ui, aquí en tenim la tira, eh?
+Aquí sí, hi ha emocionals, ja no et dic. L'estrès, el síndrome de l'esgotament professional,
+el cansament, que tens son, que portes moltes hores de guàrdia,
+i evidentment la falta de coneixement, la falta d'habilitats i la falta d'experiència.
+Tot això són condicionants que afectaran la seguretat del pacient.
+I aquests últims que has dit ara, és que penso, i llavors em desespero molt,
+perquè és que tots els tenim.
+La manca de coneixement, habilitats i experiència, vols dir?
+I els altres...
+I emocional, d'estrès, d'esgotament, son...
+Clar, és que ho pares a mirar i dius, els tinc tots, tots els que són lesius pels meus pacients, els tinc tots.
+Vaig cansat, estic fins al monyo, no en sé prou.
+Ho mires i dius, mare de Déu Senyor, tens la sensació de ser un tio perillós, eh?
+I si sobre fas guàrdies de no sé quantes hores, o tens dues feines, una aquí i una allà,
+és el pa de cada dia, això. I això és cosa nostra, clar.
+Sí, sí.
+Cosa nostra, també, evidentment, de la cultura de l'empresa on treballes i etcètera, però...
+Va, més factors que poden influir.
+Estàvem parlant dels factors individuals, però també hi ha l'equip.
+Pensant en coses, no? la distribució de rols, de tasques, la comunicació,
+que moltes vegades és inefectiva i es creen uns problemons i uns mals entesos,
+i al final, moltes vegades, el que el pateix, finalment,
+al que no se li fa el que se li ha de fer o se li fa alguna cosa diferent, és el pacient.
+Relacions, no?, disfuncionals entre professionals
+I... No sé, només que sigui, per exemple, parlant de la transferència de pacients,
+que no es faci de forma estructurada, sistemàtica, sempre de la mateixa manera,
+i seguint un ordre com a l'IDEAAS, no?,
+que em sembla que en vam parlar en un episodi del principi.
+Sí, senyor. Un capítol de la primera temporada.
+Doncs una tonteria com aquesta, que no es faci servir això i que no hi hagi la cultura
+en els nostres serveis de fer-ho d'aquesta manera,
+sabem que això és perjudicial pels pacients. Doncs no ho fem.
+L'ambient, l'entorn, les interrupcions, no sé, a planta d'alguns hospitals,
+tu veus infermeria quan estan carregant i preparant la medicació, no sé què, que posen...
+No em molestis o no m'interrompis, no sé com ho posen.
+Sí, sí. Les armilles de colors.
+A urgències, això, jo almenys no ho he vist.
+I les interrupcions, jo em passo la guàrdia amb tres converses a la vegada,
+per telèfon, m'avisen per la porta i tinc el resident que m'està explicant no sé què.
+Jo diria que la interrupció és el que defineix el servei, no?
+Crec que començar un pacient i acabar-lo sense que t'hagin...
+Bé, és que ho fem nosaltres. Als 15 segons que una persona ens comença a parlar ja l'interrompem. Per tant,
+deu ser intrínsec a la naturalesa nostra, no?
+Jo me'n faig creus de vegades, de dir...
+crec que estic fent masses coses a la vegada, perquè això a la meva vida normal sóc incapaç de fer-ho
+i en canvi quan estic a urgències ho estic fent perquè per nassos ho haig de fer-ho.
+Perquè moltes vegades haig d'estar a dues converses a la vegada.
+I això ens pensem que ho podem fer-ho, però som humans
+i el cervell està estudiat que només pot fer una cosa a la vegada.
+I si fas microtalls, quan tornes a començar la tasca d'abans has de tornar enrere.
+El soroll.
+Uf!
+El soroll ens afecta molt
+i a urgències en tenim de totes les tonalitats, de totes les amplituds d'ona i del que vulguis.
+No ens falta soroll.
+Equipaments, estic parlant de l'ambient, entorn,
+equipament defectuós o desconegut i poc familiaritzat per nosaltres.
+A vegades et poses a fer alguna cosa i dius hòstia, això ara feia temps que no ho feia servir.
+I d'aparells en tenim per avorrir.
+Per això al començament hem dit, no?
+En entorns complexes, que qualsevol error pot suposar
+un efecte pels pacients, doncs a urgències tot això es dona.
+I a més a més dels aparells que n'hi ha de moltes menes,
+però sobretot n'hi ha moltes marques dels mateixos aparells.
+I els fabricants, si una cosa no fan, és posar-se d'acord perquè tot s'assembli.
+Tot el contrari.
+Si al desfibril·lador d'aquesta marca està al botó de desfibril·lar a la dreta,
+l'altre, no pateixis, que el tindrà a l'esquerra.
+Ja no diguem altres coses que segurament sortiran
+de l'estil de les ampolles de la medicació,
+que tothom sap que cada una és diferent de la del veí, oi?
+I medicacions que estan retolades de forma bastant similar
+i és fàcil de confondre les unes amb les altres.
+Sí, és un despropòsit.
+Sí, ara hem explicat problemes i ara veiem si...
+Sí, perquè fins ara ens hem deprimit molt.
+Ara a veure si això ho podem aixecar una mica.
+Jo penso que són coses bastant lògiques, eh?
+Penso no, són coses bastant lògiques
+i penso que repetir-les i posar-les sobre la taula
+ens fem més... som més conscients
+i el fet de ser-ne conscients que existeix aquest problema
+i que la solució és evident, doncs ens pot ajudar una miqueta.
+Vull dir que no sé si explicaré grans coses que no sapiguem, però bé.
+El tema de conèixer i preparar l'entorn.
+Sapiguer on estan les coses, com funcionen tots l'equipament, és bàsic.
+El tema d'etiquetat. Si necessites etiquetar-te les coses d'una forma determinada
+pensa-ho amb l'equip i fem-ho tots de la mateixa manera.
+Utilitzar ajudes cognitives. Els mapes d'equip, no?
+Per exemple, hi ha vegades llocs, hospitals, que entres a reanimació
+i ja veus al fons una gran pantalla que diu
+el líder està aquí, el que fa vascular està aquí, el que fa via respiratòria està aquí
+i tu véns de fora que no saps res, mires i dius
+hòstia, doncs aquesta que tinc aquí davant serà la líder.
+Això són mapes d'equips.
+O utilitzar uns braçals identificatius o unes armilles identificatives.
+Tot això són ajudes que es poden implementar de forma bastant fàcil, entre cometes.
+Què més podem fer? Entrenar. Entrenar regularment.
+En això la simulació és una eina estudiada que sabem que va bé,
+que és cara i necessites temps,
+però sabem que és una forma d'entrenar i per tant l'hauríem de fer servir més.
+Coneixer els membres de l'equip. Entrar a una guàrdia, entrar en una unitat de suport vital avançat o urgències,
+ens hem de conèixer.
+Jo haig de saber quin nivell tens tu, què pots fer, quines són les teves habilitats més importants,
+amb què m'haig de fixar perquè ja sé que pots tenir problemes aquí,
+ens hem de conèixer.
+Sempre tenir un pla i compartir-lo i revisar-lo contínuament.
+Saps que si tens un problema sempre has de tenir un pla A,
+però sempre has de pensar i planificar qualsevol contingència que puguis tenir.
+Per tant, sempre, parlem de la intubació, però ho pots extrapolar a moltes altres situacions.
+Sempre pensar en el pla B i el pla C.
+Prioritzar, és una altra cosa que hem d'aprendre a fer i posar-la en pràctica.
+De fet, la fem contínuament, perquè no paren d'entrar tasques a fer i tu vas decidint quina va primer i quina faràs després.
+Exacte.
+Un exemple de la priorització és el que ja ens donen de l'XABCDE.
+Això és una priorització.
+Doncs es pot aplicar aquesta a moltes patologies o llocs diferents.
+Què més? Reavaluar periòdicament.
+Fer llistes de comprovació.
+Ho estem fent a molts llocs, però podríem fer-ho a molts llocs més, a moltes situacions més.
+Abans de donar l'alta a un pacient, jo haig de tenir una llista de comprovació
+i dir, li he fet això, li he fet això, li he fet això, i de seguida, sí, pum, va, doncs alta.
+Què més podem fer en el tema de plans i aquestes coses? Compartir el pla amb l'equip.
+Això sé que infermeria, i amb molta raó es queixa moltes vegades que els metges anem fent no sé què
+i potser no hi pensem de dir, ostres, aquest em falta no sé què i després ingressarà.
+O aquest estic pendent que vingui el SEM a buscar-lo. Doncs això amb l'equip que som s'ha de compartir.
+I el mateix amb la informació, no?
+Perquè la gràcia de ser infermera és que estàs al costat del malalt contínuament
+i vas recollint dades que potser són rellevants i no han arribat a qui pren decisions.
+Això també és el mateix, però a l'inversa.
+En comptes de compartir el pla és compartir la informació.
+Evidentment, en les dues direccions.
+Una de les coses que podem fer és pensar en veu alta i verbalitzar.
+Som un equip i, per tant, si tu veus que l'altre membre de l'equip,
+que evidentment té un rol o unes tasques diferents de les que jo pugui tindre,
+però si veus que alguna cosa no va pel que a tu et sembla que seria normal,
+la teva obligació és verbalitzar-ho, pensar en veu alta.
+Dir, ei, crec que aquí tenim un problema amb això, amb això i crec que hauríem de fer això.
+Doncs verbalitzar-ho. Moltes vegades ens costa.
+I animar, no? Animar la resta de l'equip a compartir aquestes idees, aquests plans.
+Tothom ha de dir, el líder ha d'animar, ha de dir, us sembla bé que fem això, tal, tal, tal?
+I tothom dir la seva.
+I revisar contínuament els plans, els plans que tenim amb els pacients,
+compartir-los, verbalitzar-los i revisar-los contínuament.
+Què més? De tema de lideratge, prendre les decisions també de forma participativa,
+sempre que sigui possible, millorant la implicació de tot l'equip.
+En alguns moments potser cal que el líder sigui més directe i amb més autoritat
+perquè potser en aquell moment cal que la cosa vagi ràpida perquè anem de segons.
+Bé, quan cal ser directe i una mica amb fermesa, es fa així.
+Si no, ser una miqueta assertiu, saber dir les coses, saber escoltar i saber dir les coses.
+Jo amb això del lideratge, una de les coses que...
+Bé, penso que de les infermeres una de les coses que trobem a faltar és la identificació del lideratge.
+Si no hi ha algú que digui, ep, em toca a mi, llavors no hi ha ningú.
+No és que no hi hagi ningú, és que llavors n'hi ha molts i ningú és el que està clar, no?
+Una de les coses que m'ha agradat, no recordo on haver-ho vist, suposo que és aeronàutic també,
+el eyes on, eyes off, o el concepte de comandant de l'aeronau.
+És a dir, qui està al comandament?, els comandaments són meus.
+Jo ara deixo de fer això, tu passes el comandament, els comandaments són teus.
+De manera que sempre identifiques qui és el que està...
+Això d'eyes on, no? És a dir, estic mirant, ara sóc jo.
+Eyes off, et quedes tu, no? Llavors és aquest continu del lideratge,
+sempre s'està transferint de forma explícita.
+De forma clara, sí, sí.
+No, el que ens passa, doncs que el líder en aquell moment ha de sortir per parlar amb la família o el que sigui
+i no queda ningú al càrrec en aquella estona.
+Per tant, si no és ningú, és tothom, que és un dels grans problemes aquests de la identificació del lideratge.
+El concepte aquest d'eyes on, eyes off, sempre m'ha agradat.
+No l'he pogut aplicar gaire per això a la vida, la veritat.
+Està bé, sí, sí.
+Que quan canvies o es canvien, canvies o que siguin els rols de l'equip,
+assegurar-te que aquest traspàs de rols, sigui el rol que sigui,
+doncs és explícit i tothom n'és conscient i queda clar.
+No deixar-ho així anar a l'aire, tu te'n vas cap aquí,
+dones per entès que aquell que es queda allà farà la tasca que tu estaves fent.
+Si canvien els rols, ha de ser explícitament.
+I el tema del debriefing, no sé si depèn només de començar-ho,
+o de convidar a fer aquesta reflexió després d'una situació.
+que algú de l'equip consideri que s'ha de fer una reflexió,
+doncs que convidi la resta i fem un debriefing,
+el TALK o la sistemàtica que sigui, però parlem-ne i veiem què podem aprendre
+del que hem fet, tant sigui bo com sigui millorable.
+Què més? Del tema dels rols i de l'equip, que tothom és responsable
+d'observar-ho tot i de supervisar-ho tot, no només el que fa de líder,
+o sigui, no el líder és el que ho ha de supervisar tot i els altres cadascú a la seva feina,
+sinó que tu fas la teva feina, però de tant en tant has d'aixecar la vista i veure què fan els teus companys
+i dir la teva quan vegis que alguna cosa no et quadra.
+Tothom és responsable de reconèixer quan tens algun problema d'estrès,
+per exemple, quan et supera alguna cosa, la teva feina és fer-ho explícit
+i dir, hòstia, això m'està superant, i demanar ajuda.
+I que tothom és responsable del pacient, no només el líder o no sé qui,
+que si a l'equip som tres, el responsable del pacient som tres, quatre, cinc o els que siguem.
+No només és el líder, és feina de tots.
+El líder ha de fer la seva feina i la resta de l'equip ha de fer la seva feina i ajudar el líder a que pugui fer la seva feina.
+Tothom ha de posar els ulls també sobre de tothom.
+El tema de comunicació amb bucle tancat.
+Superimportant, això.
+Albert, posem-li un mil·ligram d'adrenalina.
+Adrenalina a punt. Quan la vols?
+Ja l'hi pots posar.
+Posada.
+Posada. Ja ens hem entès, no? Hem quedat que li posaves això, tu em dius i li poses...
+Jo rebo que tu li has posat l'adrenalina que havíem quedat al principi, amb el bucle tancat.
+Ser assertiu, ja ho havíem dit abans, no?
+Tindre una mica de mà esquerra, sapiguer trobar el moment oportú de dir les coses,
+sense ser agressiu, però sense ser submís a el que te pugui estar dient l'altre.
+Per tant, dir les coses com s'han de dir, sense ofendre i acceptant el que et diguin.
+Això és ser una mica assertiu.
+Això als que tenim l'ego una miqueta gran, això de ser assertiu ens costa.
+Això ens costa... Sí, això costa bastant a tothom, jo penso.
+Què més? Comprovació encreuada.
+També serien les comprovacions dobles o els cross-checks.
+Per exemple, identificar al pacient.
+És a dir, que les coses que sàpigues o que vulguis saber,
+que et vinguin... Si pot ser una cosa conflictiva, com l'identificar un pacient,
+doncs que vingui de dues fonts diferents.
+Com es diu vostè? Joan no sé què, no sé quantos.
+D'acord. I quina data de naixement? Quan va néixer vostè?
+Tal dia, tal dia, no sé què, tal any.
+D'acord. Ja tinc dues fonts d'informació.
+El pacient, ell, m'ha dit el seu nom i, a més a més, m'ha dit la seva data de naixement.
+És difícil que hi hagi dues persones amb el mateix nom i amb la mateixa data de naixement.
+Això podria ser un exemple de comprovació encreuada.
+Què més? Demanar ajuda i recursos.
+Quan creguis que necessites ajuda, demana-la aviat.
+I demana tots els recursos que necessitis i que estiguin disponibles.
+I per això cal tenir uns criteris predefinits per a demanar aquesta ajuda.
+I això potser és una feina que has de fer abans amb l'equip.
+Potser si t'avisen que ve un pacient, un politrauma que té aquest problema, etc.
+Doncs si fem un briefing cinc minuts abans que vingui aquest pacient,
+doncs ja sabem que necessitarem això, això, això i això.
+I tenim alguna cosa més a l'hospital que ens pugui ajudar? Sí, doncs ho necessitem.
+I demanar-ho ja, demanar-ho aviat.
+I el tema del raonament, de centrar l'atenció.
+Això és una de les coses que volia centrar-me una miqueta,
+que potser s una miqueta menys conegut, que són, no sé si et sona Albert, els biaixos cognitius.
+Mare de Déu
+Com vas de biaixos? Com vas de biaixos tu?
+Me'n sobren. En tinc de tota mena. De tots els colors i per qualsevol cosa.
+Vas esbiaixat o no vas esbiaixat?
+Sí, el tema del biaixos el conec bastant bé.
+Doncs sí, els biaixos cognitius n'hi ha estudiats dos-cents i escaig.
+Sí que es coneixen i segurament els sanitaris els podem patir tots i molts a la vegada.
+Dos-cents són molts, però si m'hi esforço potser hi arribo.
+Amb el temps, no?
+Aviam, els biaixos cognitius també en diem els heurístics
+i són tot de dreceres mentals, de forma natural, no?
+Són dreceres que el teu cervell fa servir per simplificar la gran quantitat de processos mentals,
+de raonaments que has de dur a terme constantment per a resoldre temes complexes
+i per a resoldre'ls de forma ràpida i eficient.
+En lloc de fer una anàlisi exhaustiva de totes les opcions, de tota la informació,
+el teu cervell fa servir una drecera i diu, hòstia, no puc estar per captar tota la informació,
+analitzar-la de forma racional i per tant prendre una decisió molt ben raonada,
+sinó que diu, tu, quan passi això, faig una drecera i prenc una decisió.
+Si no, si haguéssim de prendre totes les decisions en funció de tota la informació que ens pugui arribar, ens tornaríem bojos.
+Això és una cosa que fem a la vida quotidiana.
+A la vida professional, evidentment, també ho fem.
+És una eina que té el cervell per reduir tasques complexes o preguntes difícils
+o situacions difícils a situacions més simples, per fer-nos la vida suportable.
+És bastant útil per trobar respostes ràpides, adequades,
+tot i que en moltes ocasions les conclusions a les quals arribes i les solucions
+no sempre són perfectes i hi ha moltes imperfeccions en aquest mecanisme que tenim
+i moltes vegades indueix errors importants perquè afecta la manera de raonar,
+per tant, afecta a les conclusions que arribem,
+fem uns judicis que no són els adequats i, per tant, finalment prenem una decisió que en ocasions són equivocades.
+Aquests biaixos cognitius estan molt bé, però hem de tindre en compte que moltes vegades
+ens poden perjudicar, a nosaltres i, evidentment, al pacient.
+Per dir-ne dos, hi ha el biaix, es diu biaix o efecte de ramat, afecte d'arrossegament.
+Tu moltes vegades quan has de passar per un lloc, parlo de la muntanya,
+per un lloc que pugui ser difícil, que pugui haver-hi un despreniment,
+que pugui haver-hi una allau, has de valorar moltes coses, tens moltes variables.
+Si veus que hi ha una corrua de 36 persones passant per aquell lloc,
+el teu cervell diu, aquell lloc on passen aquelles 36 persones és el lloc correcte.
+Doncs el teu biaix, la teva drecera, és prendre la decisió que aquell per on passen els 36 és correcte.
+No té per què ser el correcte, però no estaràs tota l'estona analitzant tot el que passa al teu voltant.
+Moltes vegades tires per la directa en funció d'unes estratègies que el teu cervell té.
+I l'efecte aquest de ramat o d'arrossegament és un d'ells.
+Hi ha l'efecte d'ancoratge, no sé si et sona el d'ancoratge, Albert.
+Això és això i seguirà sent això encara que no ho sigui.
+Això seria, per exemple, més l'efecte... el biaix de confirmació.
+El biaix d'ancoratge seria més aviat la primera informació que jo et dono d'alguna cosa
+o que tu reps, quedes ancorat amb aquella informació.
+Per exemple, si jo te dic, creus que Gandhi va morir als 122 anys, tu què me diràs?
+Doncs diré que no.
+D'acord, jo te dic, a quina edat creus que va morir?
+No ho sé, però els 122 està ressonant al meu cervell ara mateix, no?
+Està... jo te dic 122, segurament me diràs una xifra més alta que si jo te hagués dit,
+escolta'm, Gandhi creus que va morir als 82 anys?
+Tu me diràs, podria ser o no.
+A quina edat va morir Gandhi? Doncs tu me diràs 81 o 62.
+En canvi, amb l'altra versió, jo te he donat una xifra més alta, inconscientment me donaràs una xifra més alta.
+T'has quedat amb la xifra que jo t'he donat i si fem aquesta mateixa pregunta a 100 persones,
+doncs els que jo els he dit d'entrada aquesta xifra que m'he inventat de 122,
+la mitjana que me donaran aquestes 100 persones serà molt més alta que la xifra que jo t'he dit.
+Escolta'm, creus que va morir als 88 anys? Doncs totes aquestes 100 persones, la mitjana serà molt més baixa.
+És un error de fixació, perquè el teu cervell diu, hòstia, no en tinc idea de quan va morir Gandhi,
+però si me diu 122, val, 101.
+En canvi, si te dic 60, doncs això.
+I el mateix passa amb els preus de les coses.
+Quan vas a comprar una cosa, si pel que sigui te diuen això val 200 euros,
+doncs si t'ensenyen una altra cosa de 180 diràs, hòstia, 180 és guai.
+En canvi, si t'hagués dit que valia 50, diràs, hòstia, 50 és car.
+És quedar-te amb la primera informació que reps de les coses.
+L'estratègia de venda, sí.
+Malparits, juguen amb nosaltres, els que ho saben, això.
+Sí, i si no, som nosaltres mateixos que ens hi posem de quatre potes.
+Escolta'm, jo em volia centrar una miqueta en l'error de fixació.
+Quan escolteu aquest pòdcast, en el blog d'Urgem deixarem un test
+perquè poseu a prova el vostre error de fixació.
+Ara aquí, explicant-lo en veu alta, seria com una miqueta liat,
+perquè és qüestió de veure unes imatges i com les solucioneu.
+Però bé, l'error de fixació és un error que ens afecta
+quan ens enfrontem a un problema, a una dificultat, a una incertesa.
+Normalment, per culpa de no tindre una consciència situacional correcta,
+ens centrem en un sol aspecte d'aquell problema.
+Ignorem de forma absoluta la resta de factors
+que puguin ser rellevants per aquest problema.
+I fins i tot, si veiem els altres factors, els distorsionem perquè no ens atabalin.
+El problema és que, com que t'has centrat només en un dels factors d'aquell problema,
+intentes resoldre aquella situació, estem parlant de temes mèdics,
+en base només en una sola solució que afecta en aquell factor.
+I no surts d'aquest bucle i només veus aquest factor,
+i per tant només apliques aquella solució i no avances ni progresses
+perquè allò arribi a bon port.
+I fins i tot és possible que no vegis o creguis que hi ha un problema en aquella situació
+i que la cosa cada vegada s'està posant més xunga
+perquè tu només tens una missió que és resoldre aquell impediment que t'impedeix progressar.
+Per exemple, no sé si et sona, Albert, d'aquell cas de la Elaine Bromiley,
+que era una intervenció d'una septoplàstia el 2005 al Regne Unit,
+doncs que una noia va anar a fer-se una septoplàstia i pim-pam, propofol,
+i l'anestesista que la mascareta laríngia no li entra, una més petita, una de no sé què,
+provem a ventilar-la, no la puc ventilar, torno a provar una mascareta diferent,
+ara una més petita, etcètera, van provant diferents sistemes de ventilar el pacient,
+i al final és un pacient que no es pot ventilar, no es pot oxigenar,
+la pacient 5, 10, 15 minuts saturant 40%,
+entra un altre anestesista, comença a provar el mateix que ja s'havia provat abans,
+després entra un otorrino i prova el mateix,
+en lloc de sortir d'aquest factor que ens impedia ventilar el pacient i anar a buscar altres estratègies.
+Total, que al final va ser un desastre i la pacient va morir.
+Aquest és un cas molt estudiat i hi ha moltes coses escrites d'aquest.
+És molt estudiat perquè dona la casualitat que el marit d'aquesta persona
+era formador en temes de seguretat aeronàutica.
+Ja li va semblar una miqueta estrany, no sé què, però ell va seguir investigant una miqueta, veient què havia passat,
+i al final va veure el que havia passat i va dir
+hòstia, nosaltres ho tenim molt estudiat, aquest biaix cognitiu de fixació,
+de dir hòstia, el meu objectiu és ventilar per la boca, mori qui mori, saps?
+I no van sortir d'allà, a ningú se li va ocórrer al cap de no sé quant de temps
+fer una crico amb un otorrino allà al costat, saps?
+Aquest ningú... aquest cas, aneu-lo a mirar perquè sí que hi va haver algú que intentava fer-se sentir.
+Sí, sí, hi ha una infermera que els porta el kit de crico i no sé què, però estàs tan obsessionat, fixat en aquell factor,
+que ja et poden dir, eh, que tinc la solució. És que no el veuràs.
+Doncs el marit d'aquesta senyora, com que es dedicava a això,
+n'ha fet molta pedagogia, té una fundació per formar professionals sanitaris
+en aquests temes i bé, ha escrit moltes coses i trobareu molts vídeos
+que fan una recreació del que va passar i bé, el que va passar, entre altres coses, l'error de fixació.
+I tu tens alguna estratègia per lluitar contra aquest error?
+En tinc vàries, en tinc, sí, algunes, quatre o cinc. Són evidents, eh?
+Primer, ser conscients que existeix aquest biaix.
+És possible, no?, que diguis això. A mi no em pot passar.
+De fet, el marit de la Bromiley, ell explica que quan fan formacions i tal,
+els pregunta als sanitaris, escolta, això com ho veus tu?
+Doncs molts sanitaris diuen, això a mi no em pot passar
+perquè era evident que en aquesta pacient s'havia de ventilar per un altre forat.
+A mi això no em pot passar.
+Doncs al cap d'unes setmanes, quan es fa una simulació,
+canvies una miqueta el motiu, canvies el context, no sé què,
+però finalment és un problema similar, doncs molts tenen aquest mateix problema,
+que se centren en el problema de ventilar per via aèria, sigui com sigui, i la pacient acaba morint.
+Tot i sabent que existeix aquest problema, molts creiem que no ens pot afectar això.
+I bé, si n'ets conscient, i n'ets conscient que per més expertesa que tinguis
+i per més coneixements que tinguis això et pot passar a tu, doncs n'has de ser conscient.
+I el primer pas perquè si et passa te'n surtis és ser conscient que això existeix i que et pot passar a tu.
+Si et passa l'estratègia, si te n'has adonat, és fer un pas enrere.
+És a dir, ep, aquí tenim un problema, deixa'm de forma figurativa parar,
+fer un pas enrere i tindre una visió de 360 graus.
+Aquí l'equip és important.
+És a dir, hòstia, Xavi, aquí hi ha un problema per ventilar aquest pacient, hi ha un problema per fer això, parem-nos un moment
+i mirem totes les possibles alternatives.
+És a dir, fer un pas enrere i fer una visió de 360 graus amb tot l'equip.
+Buscar pistes, buscar informació perquè hi haurà alguna cosa de l'entorn que te donarà pistes.
+En aquest cas de la Bromiley tenies una infermera que et va portar a l'equip de Crico,
+una altra que va voler avisar a la UCI, vull dir que si s'haguessin apartat
+i mirar l'entorn, l'equip, el pacient, alguna cosa d'aquestes te donarà la solució.
+El problema de fixació és que ens posem aquí unes orelleres com els burros
+i ja ens poden ensenyar la solució, que no la veiem, a no ser que et tiris enrere
+i miris i diguis, hòstia, d'on en algun lloc m'ha de vindre la informació.
+Per tant, buscar-la.
+Què més? Ajudes cognitives, llistes de comprovació, infografies,
+algoritmes, arbres de decisió, regles mnemotècniques.
+Si t'atabales en aquell moment, tu saps que tens un algoritme,
+tens una infografia, tens un tal, i l'únic que has de fer és mirar-lo,
+parar un moment i ajudar-te de coses que puguis tindre al voltant.
+I una cosa interessant és el pensament lateral.
+És a dir, la nostra forma de pensar habitualment és un pensament vertical.
+És un pensament que està dominat per l'hemisferi esquerre
+i és un pensament racional, lineal, lògic, analític, molt seqüencial,
+que segueix unes normes.
+Aleshores, si tu ets tan metòdic, tan racional, tal,
+i tens un problema que se surt de la normalitat, et costarà trobar la solució.
+Per tant, els que estudien aquest tema de la fixació, error de fixació,
+et diuen, a part de fer això, de tirar-te una miqueta enrere, 360 graus,
+buscar solucions a l'entorn, al pacient, a l'equip, a la infografia, etcètera,
+tingues un pensament lateral, o també se'n diu horitzontal, que fa servir més el teu hemisferi dret,
+que és més intuitiu, més creatiu, més imaginatiu, més integrador, més abstracte.
+Això és fàcil de dir-ho, no?
+Al vertical, tu tens uns mètodes de resoldre els problemes
+i no te sortiràs d'aquests patrons o d'aquest mètode. En canvi, el que exercita una miqueta el seu pensament lateral,
+doncs s'inventa formes, patrons, per resoldre problemes.
+Noves idees, tindre idees noves. I això està bé practicar-ho a la vida diària,
+perquè quan a la vida professional tinguis un problema, t'ajudarà.
+No ho sé, és qüestió de practicar aquest pensament lateral.
+Jo quan... l'estratègia que faig servir per evitar això és una barreja de cada un dels items que has dit.
+Si tot quadra, alguna cosa no està bé,
+i si hi ha alguna cosa que no quadra, fixa't en aquella.
+I això ho aplico a la vida, si tot porta a pensar allò, ep! què passa aquí?
+O al contrari, si tot va cap a la teva zona de confort, busca el que no t'hi porta.
+Sí, perquè pot ser que siguis tu que t'estàs convencent que tot allò...
+t'estàs donant la raó a tu mateix, amb tot el que t'està arribant.
+Això seria l'error de biaix de confirmació.
+Ens obsessionem que aquell pacient té una pielonefritis
+i tot el que busques i tot el que interpretes, inconscientment,
+ho faràs perquè confirmi que allò és una pielonefritis.
+I et poden ensenyar un electro que té un ST aixecat i per això té dolor no sé on,
+que tu aquell ST diràs, bah, aquest ST en aquest context no té importància.
+Sí, sí. Tot et quadrarà.
+Quan tot et quadra, exacte, com dius Albert, pot ser que ho estiguis quadrant tu. És possible.
+I jo penso que ja està.
+Després un altre dia, si vols, aprofundim una miqueta més amb el... per exemple,
+el biaix d'encoratge, el biaix de confirmació, el biaix d'autoritat...
+No sé, vull dir que n'hi ha 200 de biaixos.
+Tenim per programes, si hem de parlar de tots.
+Doncs Albert, jo ja estic.
+Amb aquest tema penso que ja us he donat la tabarra prou.
+Si la gent és conscient que existeix això i que per més coneixements i experiència que tinguis et pot afectar,
+penso que ja estic satisfet.
+Molt bé, doncs ja ho sabeu gent, entrenar-vos perquè això no ens passi.
+Va, què més ens toca ara?
+Ara ens toca el menys és més.
+I mira, sembla que ho hem fet expressament.
+De fet, no, no ho hem fet expressament perquè el menys és més sempre va de fer de menys
+i justament una de les formes d'evitar dany als nostres pacients és fer-los menys coses. Per tant, tots els menys és més funcionen.
+Mira, aquest l'he triat perquè vaig tenir una pacient amb una no invasiva que havia de fer pipí.
+Aquestes coses que passen, que has de fer pipí i això.
+Llavors vam començar a entrar en aquelles disquisicions filosòfico-transcendentals de si se li ha de posar una sonda o no.
+Perquè no es pot fer VNI i posar una cunya al mateix moment, o què passa?
+Bueno, tot té dificultats.
+Clar, això em va fer pensar, dic, home, en algun lloc ha d'estar escrit això.
+Però vaig pensar, dic, el menys és més això ha de sortir, perquè hem de saber si això toca o no toca.
+I he estat buscant i he trobat del Choosing Wisely Canada una iniciativa que es diu Loose the Tube,
+que vindria a ser, doncs, treure la mànega.
+I aquesta iniciativa ve inspirada per un hospital de Toronto,
+que es veu que tenien un 20% dels pacients que hospitalitzàvem anaven amb sondes.
+Això estem parlant de fa uns anys, eh?
+I van veure que, clar, això no tenia sentit, perquè molts no tenien una raó per la qual havien de portar aquesta sonda.
+I van dissenyar una intervenció,
+i amb aquesta intervenció al cap d'un any havien aconseguit posar el 50% menys de catèters urinaris.
+Quan dic catèters urinaris vull dir sondatge permanent, no un d'aquests sondatges de treure i posar.
+Només amb una intervenció reduïen a la meitat un procediment que fas i que a sobre no el necessitaves.
+És a dir, amb la qual cosa segur que has reduït a la meitat, com a mínim, els efectes adversos d'aquesta intervenció.
+En les notes de l'episodi posaré aquesta eina.
+Hi ha uns vídeos, veureu que és una cosa bastant més elaborada.
+I en aquesta eina hi ha tres apartats diferents, tres grans apartats diferents.
+Un que seria la retirada precoç dels catèters, quan estan els pacients hospitalitzats,
+que això lligaria una miqueta amb el que havíem parlat de mantenir les vies. De seguida que no necessitis ho treus.
+Un altre que és l'ús restrictiu dels catèters urinaris a les sales d'operacions,
+que aquí no és el nostre negociat, per tant no hi entrarem.
+I un que és el mateix, és a dir, la restricció de posar catèters urinaris als serveis d'urgències.
+La restricció, dius?
+Sí, o diguem-ne, n'hi diu aquí, restrictive insertion, no? És a dir...
+Uns criteris més restrictius.
+Exactament, és a dir, fer-ho servir només quan toca.
+Llavors ells et donen diferents eines que pots fer servir.
+Una que és interessant és aconseguir un consens entre els metges
+per les indicacions adequades per fer aquest sondatge.
+És a dir, que hi hagi un consens quan s'ha de fer i quan no.
+Ells donen unes idees de quines indicacions hi ha que sí que s'ha de posar aquesta sonda.
+Tenim, per exemple, que requereixis del monitoratge horari d'entrades i sortides.
+Necessites saber l'orina horària, per exemple.
+Els pacients ventilats mecànicament. Els pacients amb edema agut de pulmó que necessitin VNI.
+És l'únic moment que surt la VNI.
+Els cremats de més d'un 20%. Els que tinguin un trauma major. Això, trauma major, diu per protocol ATLS.
+Els que hagin d'estar immobilitzats, panxa enlaire i no es puguin bellugar de cap manera.
+Bàsicament, grans fractures de pèlvis i grans fractures de columna.
+Aquí parla de les fractures de maluc.
+I aquí potser, no sé jo fins a quin punt podríem estar d'acord amb això.
+I també les retencions agudes d'orina.
+Aquestes són les que s'ha de posar una sonda.
+Retenció aguda d'orina, doncs s'ha de posar una sonda.
+Tot i que en una altra iniciativa semblant a això, que es diu BladderSafe,
+és una altra iniciativa que segueix exactament la mateixa idea, també la posarem a les notes de l'episodi,
+et recomanen que aquesta retenció d'orina sigui objectivada amb ecografia.
+No només pel fet de palpar i que estigui en anúria, no. Mira-ho.
+Sí, abans de sondar-ho, dir si hi ha o no hi ha orina dins la bufeta.
+Exacte.
+Llavors et donen unes altres indicacions que hauries de considerar si val la pena o no val la pena.
+Si tens aquestes úlceres sacres terrorífiques que hi ha una incontinència
+i per tant estan contínuament humides, doncs no curaran.
+El tema de les cures pal·liatives o de confort.
+Si tens algú que s'ha de morir i li fot mal cada vegada que el bellugues,
+doncs potser posar-li la sonda i li farà mal una vegada ja te n'oblidaràs.
+Llavors n'hi ha unes quantes que et diuen directament que busquis mètodes alternatius per fer-ho servir.
+Per exemple, si necessites control de sortides més enllà d'una hora, doncs no facis servir una sonda.
+Llavors ja et diuen algunes que no la posis mai. Si tens pacients amb deliri o demència, no la posis.
+Correcte.
+Incontinents no fan falta. Per obtenir una mostra d'orina, doncs no posis una sonda permanent. Posa una sonda i la treus.
+I una molt interessant que és que t'ho demani el pacient, no s'ha de posar.
+Com ho dius?, perdona
+Que si el pacient demana que li posis una sonda i és només per petició del pacient i no té cap altra indicació, doncs no cal.
+Llavors ells donen les tres eines per aconseguir reduir aquestes insercions de catèter. Són bàsicament tres.
+L'educació als metges per les indicacions adequades d'aquestes sondes urinàries.
+Alhora, educar les infermeres i empoderar-les per poder discutir aquest ús del catèter.
+Clar, això també és important que aquesta estratègia ha de tenir present que hi ha d'haver un consens
+no només entre metges sinó entre serveis. No pot ser que la planta X posi les sondes per una cosa i la planta Y no.
+I l'últim punt és superar les barreres que dificulten el fet de no posar aquestes sondes.
+Per això podeu anar mirant, ho tindreu a les notes de l'episodi.
+La idea és que les sondes urinàries només les hem de posar realment quan fan falta, no quan creiem que puguin fer falta.
+Asegurem-nos de la indicació.
+Aquestes indicacions que has dit són les que proposen ells? O és un exemple...
+Ells que diuen que són aquestes?
+O que l'equip assistencial decideixi per consens els criteris de sondatge?
+Les indicacions que ells donen aquí són les que han fet servir aquí a aquest centre, al SunnyBrook aquest.
+Els altres, aquests dels del BladderSafe, també te'n proposen algunes,
+però realment quan vas a comparar-les hi ha molt poca diferència.
+Per exemple, aquest de la fractura de maluc, segurament en alguns llocs, no sé si aquesta fractura de Maluc no necessitarà...
+O sigui, no totes les fractures de maluc ho necessitaran, aquest sondatge.
+O si el necessiten, probablement en el moment en què aquesta persona pugui tolerar la sedestació, ja es podrà treure.
+És la primera part, aquesta dèiem, de retirar la sonda tan aviat com es pugui.
+D'acord?
+Doncs ja ho sabeu, sondes urinàries permanents,
+assegurem-nos de la indicació abans de posar-la.
+Siguem restrictius.
+Estaria bé fer una infografia que estigui penjada i fàcil visible a tothom
+amb les, no sé si has dit, set o vuit indicacions,
+les que digui l'evidència científica o les que decidim cada centre.
+Això, per exemple, la iniciativa aquesta del BladderSafe,
+li van canviar el nom, abans es deia Catether Out, perquè vegis com va la cosa.
+La tenen, justament, tenen una fitxa d'aquestes que pots penjar,
+doncs igual es podria penjar als carretons on hi tens el material per sondar,
+doncs allà una fitxa que digui, la sonda es posa per això, sí o no?
+Doncs si no es posa, no la posis.
+Exacte.
+Ja ho han pensat, aquesta gent són...
+Veus? Són espavilats.
+Les ajudes cognitives, que deies abans.
+Exacte, sí, sí. Molt bé, Albert.
+Va, anem a l'UrgemMot, que ja saps que m'agrada molt sempre a mi.
+Aquesta de l'UrgemMot, que tens per avui?
+Què ens expliques?
+L'últim episodi, que era el 32, que vam fer...
+L'últim episodi que vam fer?
+Sí, sí, sí, el 32, sí, sí.
+Vam fer un llistat de termes de cardiologia,
+i en van faltar uns quants per comentar.
+Per exemple, quan tens una insuficiència cardíaca,
+en moltes ocasions fem un tractament depletiu.
+Aquest ja l'havíem dit en algun altre episodi de l'EMPodCat,
+però ara el repeteixo, només termes de cardiologia.
+El tractament depletiu.
+Sempre n'havia dit jo de-plec-tiu, amb una C, però correctament és depletiu.
+Carai!
+Sí, no te'n recordaves d'aquest, no?
+No, no, no, no, mira, au.
+Sí, sí, depletiu.
+Després, els fàrmacs, que per exemple ens ajuden molt en les taquicàrdies,
+gent que va a 180 per minut i els volem frenar una miqueta,
+fem servir blocadors.
+No fem servir bloquejants o bloquers, els beta-bloquers i això no.
+Són blocadors o beta-adrenèrgics o blocadors dels canals del calci, per exemple.
+Per tant, la pròxima vegada, i si li posem un blocador beta-adrenèrgic?
+Tu ja saps que has d'anar a buscar el bisoprolol, labetalol, el que faci falta.
+Què més? Fibrinòlisi.
+Ja ho veiem escrit moltes vegades, la fibrinòlisi, en lloc de fibrinolisi.
+Després, el marcapassos.
+En lloc de marcapas, hem de parlar de marcapassos.
+Quan el pacient té un bloqueig de tercer grau i tal,
+truques al càrdio per dir, tinc un pacient que necessita un marcapassos.
+I quan té una insuficiència cardíaca, moltes vegades veiem que el pacient té un fetge cardíac.
+També en podríem dir un fetge d'èstasi,
+però el terme que el Termcat ens aconsella és el fetge cardíac.
+I, ja, finalment, és l'adjectiu miocardíac.
+En lloc de miocàrdic, no sé per què, jo també sempre, i ara encara em costa,
+tot i que ja ho sé, parlo de miocàrdic, però hauríem de parlar de miocardíac.
+Per tant, hauríem de parlar de l'infart miocardíac, la necrosi miocardíaca, en lloc de miocàrdica.
+Aquest serà difícil, eh? Perquè ja teníem...
+El vessament pericardíac ja costava. Doncs ara imagina't, clar, és el mateix, no?
+Sí, perquè fa mil anys que el fem servir i, hòstia, no sé,
+aquests canvis de termes que són d'on està la...
+si és esdrúixola, si és àtona, si és... per tant, porta accent, no sé què, canviar l'entonació...
+Això, almenys a mi em costa. M'és difícil, perquè, no sé, se'm fa poc intuïtiu.
+Diré a mi infart de miocardi i així no t'estalvies haver de...
+Molt bé, bona idea.
+Va, i tu, Albert, tenies algun UrgemMot per comentar?
+Doncs mira, jo no tinc un UrgemMot, però tinc problemes.
+Tens problemes de què?
+Us ho explico.
+Mentre escrivia alguna de les meves entrades al blog,
+el meu corrector automàtic, que n'estic fent servir un de molt xulo, softcatalà power.
+Companys de softcatalà, gràcies, us estimem molt.
+Resulta que em marcava la paraula decliu.
+Una cosa en decliu.
+Posem una sonda en decliu quan, doncs, des del lloc d'inserció de la sonda,
+la bossa recol·lectora és més avall.
+Aquesta diferència d'alçada, doncs, el decliu.
+Tota la vida, oi? Deixar la sonda en decliu, passes un pleur-evac d'aspiració a decliu, oi?
+I què passa? Això és que el teu softcatalà aquest està blocat.
+Està blocat. Doncs resulta que decliu no és al diccionari.
+Ni al diccionari, ni a l'Optimot, ni al Termcat. Llavors, no sé com n'haig de dir,
+al fet aquest de posar una bossa recol·lectora per sota del lloc on està posada la sonda.
+La sonda o el que sigui, l'element recol·lector que toqui.
+Sí, però ara tenim un problema, Albert.
+Tinc un dubte. Sí, sí, la veritat és que ara mateix...
+Tens un problema, tens un problema.
+Perquè, és clar, estic fent servir una paraula que no és el diccionari.
+I, és clar, això em fa baixar punts en el meu rànquing de torracollons.
+Si algú sap com se n'ha de dir en català correcte, doncs, que ens ho digui.
+Nosaltres seguirem buscant, però no ho sé.
+Estàs proposant que siguin els oients d'aquest pòdcast que ens solucionin el problema i ens aportin la solució.
+Si ho saben, seria molt lleig que no ens ho diguessin. A mi em tenen patint i no...
+no sé, no tinc les coronàries molt sobrades com per anar patint inútilment.
+Bé, està bé, està bé.
+Per tant, oients, ja ho sabeu. Si sabeu com es diu decliu, el fet aquest de tenir un element recol·lector
+per sota d'una alçada, per fer servir la gravetat per recollir, doncs a veure si sabeu com es diu.
+Jo no ho sé. Si ho trobem, ja ho passarem.
+Molt bé, aviam si al pròxim episodi, d'aquí un mes, ja podem celebrar
+que tenim una resposta al teu dubte, Albert.
+A veure, suposo que haurem d'escriure els del TermCat i demanar-los-hi.
+Al final acabarà sent el més ràpid, espero.
+No, home, no. Ja veuràs com... ja ens ajudaran, Albert. No pateixis.
+Twitter has tu mágia, que deien...
+hastumagia...
+Vinga, va, anem a l'última secció. La secció de les recomanacions.
+Què ens recomanes, a aquest episodi, Xavi?
+Doncs jo tenia una recomanació d'un llibre.
+No sé si ja havíem fet algun llibre...
+No recordo haver recomanat cap llibre a l'EMPodCat. No ho recordo.
+Jo sí n'he recomanat un.
+Tu n'has recomanat un? Sí, un dia? Hòstia.
+Sí, sí, sí.
+Being Mortal, de l'Athul Gawande.
+La primera temporada, ja fa dies, eh, d'aquesta.
+Però sí, sí, hem recomanat algun llibre, eh.
+Som antics, Xavi, som antics, cony.
+Jo és que tinc una memòria de peix. Què vols que et digui?
+Va, quin llibre, quin llibre?
+Jo tinc un llibre que... va arribar per el Tió,
+i que el seu títol és Per què els elefants no tenen càncer?
+El coneixes, Albert?
+Això... qui ho va escriure, això?
+Ah, ah, ah. Qui ho va escriure, això?
+Sí, sí, em sona, em sona, però no sóc capaç de... no sóc capaç de recordar qui ho va escriure.
+Doncs mira, penso que una de les gràcies d'aquest llibre són els seus autors.
+Perquè no és un autor únic, sinó que ho escriu una plataforma
+que es diu Neurones Fregides.
+Home!
+Et sona ara o no?
+Home, i tant!
+Grans divulgadors de ciència en català.
+Neurones Fregides. Massa joves pel meu gust, però i tant, i tant.
+Val.
+Doncs sí, això...
+L'escriuen això, són Neurones Fregides, i tal com diu la contraportada del llibre,
+Neurones Fregides, us ho llegeixo, és una plataforma
+impulsada per científics joves
+amb l'objectiu de promoure diferents projectes de divulgació científica en català,
+crear referents en la nostra llengua i arribar a sectors de la societat on la divulgació clàssica no arriba.
+Aleshores, es dediquen a això.
+Participen en molts mitjans de comunicació, han fet un llibre, xarxes socials,
+i bé, són un grup, ara no et sabria dir, són com deu o així,
+i evidentment són joves, i cadascú és del seu ram de la ciència,
+físics, matemàtics, enginyers de no sé què, químics, genetistes, etc.
+I en aquest llibre hi ha 16 temes diferents i cada tema el fa un d'aquests científics
+i t'explica aquell tema.
+Aquest llibre no va d'un sol concepte, d'un sol tema,
+sinó que parla de 16 temes diferents, cadascun escrit per un d'aquests científics,
+i a mi em va fer gràcia perquè em vaig sentir identificat amb els neurones fregides,
+que una miqueta, ells, el seu públic, no són professionals del tal sector,
+sinó que fan divulgació científica per la població en general.
+Nosaltres ens centrem més, ens centrem exclusivament en els professionals sanitaris
+de les urgències sanitàries mèdiques, però, no sé, com que el seu objectiu
+era fer divulgació científica en català i era de la branca de la ciència,
+per això em va fer molta gràcia i vaig comprar el llibre, me'l vaig llegir i el vaig trobar molt interessant.
+I és molt amè de llegir i és interessant,
+tots els 16 temes diferents són molt interessants.
+Per tant, vaig pensar, això ho haig de recomanar un dia a l'EMPodCat
+perquè penso que val molt la pena llegir-lo
+i conèixer aquesta gent de les neurones fregides perquè expliquen coses molt interessants.
+Sí, sí, tenen algun canal de YouTube hem seguit a casa.
+Sí, sí, tenen de tot, tenen de tot aquesta gent.
+Molt bé, Escolta Neurones Fregides, molt bé, molt bé.
+M'agrada aquest jovent, el jovent ve fort.
+Va, què més? I tu, Albert, tenies alguna proposta?
+Sí, mira, jo tinc, va, direm que és un lloc web.
+De fet, és una iniciativa docent, es diu The Protected Airway.
+Mira, parlàvem del cas de la Bromiley.
+Doncs, goita, aquests també segur que en parlaran.
+Doncs aquest The Protected Airway.com
+és un lloc web en el qual hi ha tota una sèrie de lliçons.
+No m'atreviria a dir que és estrictament un curs perquè el que hi ha són diferents temes
+i tu pots anar aprenent de diferents temes.
+És bastant multimodal.
+Per exemple, tenen una part de pòdcast en què hi ha una gravació que parlen d'algun dels temes
+que tenen per aprendre i per cada un dels...
+De fet, parlen de learning spaces, de llocs d'aprenentatge.
+Doncs tenen una infografia i després tenen dins del lloc web
+enllaços que et porten, infografies que es belluguen.
+Al jovent suposo que li agradarà més que a mi.
+El lloc és molt interessant, l'aprenentatge és molt interessant.
+M'estressa una miqueta tot aquest ara vaig aquí apreta allà, ara surt un vídeo, ara sona un no sé què.
+Això m'estressa, però realment el contingut és molt, molt bo.
+També fan algun curs. Pel que veig aquí són de Nova York.
+Un curs presencial amb cadàvers i això.
+Fa pinta de ser interessant.
+Evidentment no els he fet tots, però està guai.
+També tens els quizziz aquests corresponents.
+Penso que val la pena.
+Com sempre aquí pots dedicar-hi moltes hores de la teva vida. Aquestes coses que...
+Comences i quan comences a veure les hores que hi hauràs de dedicar... Uf!
+Falten hores del dia després.
+I són formacions gratuïtes això o no?
+Sí, sí, sí. El que no hi ha evidentment és... No tens certificacions.
+Però està currat.
+Ara estic veient aquí els pòsters de videolaringoscòpia hiperangulada,
+els glidescopes amb la...
+Tens el pòster i a més a més tens l'espai que pots anar a veure
+amb text que t'explica el que has de fer, amb algun vídeo tant en tant amb alguna àudio que t'explica.
+En funció de cada un dels espais d'aprenentatge tenen més o menys floritures.
+Doncs això.
+theprotectedairway.com
+Va bé, doncs li donarem un cop d'ull i li direm què tal.
+Molt bé. Doncs escolta'm, ja portem molta estona.
+Jo crec que ja podríem anar acabant aquí.
+Al grup de Telegram veureu que hi ha diferents xerrades.
+Hem anat posant diferents enllaços de xerrades,
+webinars que hi ha els propers dies.
+Mireu, perquè potser algun és interessant
+i qui sap potser en algun d'aquests ens veurem.
+Molt bé, Albert. Doncs res més.
+No sé. Ens veiem al pròxim episodi de l'EMPodCat.
+Vinga, va, fins el mes que ve.
+Adéu siau a tothom
+Adéu, que vagi bé
