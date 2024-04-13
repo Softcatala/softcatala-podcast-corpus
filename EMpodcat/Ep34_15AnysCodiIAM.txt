@@ -1,0 +1,841 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvinguts a un nou episodi de l'EMPodCat.
+Aquest és l'episodi número 34 de la tercera temporada
+i avui estem gravant el dia 8 de març.
+No sé quin dia sortirà això en antena perquè ho puguem escoltar tothom.
+Però bé, avui, aprofitant que és el dia 8 de març,
+saludem i felicitem a totes les dones perquè avui és el Dia Internacional de la Dona.
+I bé, no sé, aprofitarem i no sé, et presentes a Albert.
+Avui som dos i tenim a l'altre costat de l'antena l'Albert Homs.
+Albert, digues alguna cosa pels primers oients que tinguem després de 34 episodis,
+que sempre hi ha algú que s'incorpora a cada episodi.
+Presenta't una miqueta i digues qui ets, què fas i on et podem seguir
+Jo sóc l'Albert Homs, sóc infermer d'urgències i emergències,
+actualment treballo a l'Hospital de Cerdanya, a l'Alfa 602, l'ambulància de suport vital avançat del SEM,
+concertada al territori, al Pirineu català.
+Tinc un blog, que és emermedpirineus.cat
+i també a les xarxes socials, doncs estic al Twitter i al Mastodon.
+Va Xavi, ara et toca a tu presentar-te.
+Sí, jo em presento per si hiha algú nou.
+Sóc en Xavi Basurto, que sóc metge de família, que treballo a urgències de l'Hospital de Figueres
+i que també estem a la USVA 606
+i també tinc un blog, que és urgem.cat.
+Doncs avui, fa uns quants dies, que l'Albert va poder anar a una reunió a principis de març,
+va ser l'1 de març, si no recordo malament.
+L'1 de març, sí.
+A l'Acadèmia de Ciències Mèdiques a Can Caralleu, a Barcelona,
+perquè se celebrava una jornada commemorativa dels 15 anys
+de la posada en marxa del Codi IAM a Catalunya.
+Aleshores, no sé, si ens vols fer 5 cèntims
+i així tots els que no vam poder anar-hi ens posem al dia d'aquest tema.
+Molt bé. Això és gairebé rabiosa actualitat, perquè això ho gravem una setmana després d'haver-hi anat.
+Aquesta jornada de celebració dels 15 anys del Codi IAM. I per què 15 i no els 10?
+El Codi IAM va començar el primer semestre del 2009
+en una fase pilot i el segon semestre per a tot Catalunya.
+Per tant, els 10 anys del Codi IAM es complien el 2019
+i ho volien celebrar un cop passat el desè any, que va ser el 2020,
+i per tant es va poder celebrar per culpa del Covid.
+Llavors això es va posposar i ho han fet ara pels 15.
+Tot i que els 15 encara no els han fet, perquè va començar el juliol del 2009, doncs els 15 anys els farà el juliol del 2024.
+Però bé, ha sortit així.
+I això era una celebració que organitzava qui?
+Aquesta jornada l'ha organitzat la Societat Catalana de Cardiologia, el grup de treball d'hemodinàmica.
+Hi ha participat, evidentment, el SEM i el Departament de Salut.
+Érem vora dos-cents inscrits, van dir, i m'hi vaig fixar.
+La paritat entre homes i dones, ponents i moderadors,
+un 40% eren dones, no és el 50%, però vaja, vist altres llocs que hem estat, estem millorant.
+Falta una miqueta, però això ja no és el que era.
+I en aquesta jornada vam parlar de moltes coses, valorar molt el que s'havia fet fins ara,
+però també de molts reptes de futur i coses que s'han de millorar.
+I si et sembla, doncs jo començo a explicar el que s'ha anat parlant aquí.
+En un primer bloc ens parlaven una miqueta dels números que hi ha hagut fins ara, oi?
+Coses epidemiològiques que s'han de saber.
+Una cosa interessant és que la mortalitat de l'infart, en 40 anys, ha baixat un 60%.
+En 40 anys, què ha passat amb l'atenció de l'infart?
+Ha passat bàsicament la reperfusió.
+Abans no hi havia res a fer, ara es pot destapar.
+Estàs parlant de 40 anys, són molts anys.
+Són molts anys.
+40 anys abans, com a molt, una aspirineta i andando, no?
+Sí, sí, de fet, gran part de la millora d'aquesta mortalitat ve del tractament, clar, evidentment, el fet que ara es pot tractar i abans no.
+El que també és interessant és que la incidència també ha anat baixant.
+No és la mateixa incidència ara que fa 40 anys enrere.
+Per què? Segurament perquè els hàbits de vida potser han millorat una miqueta.
+Hi ha menys incidència, això està bé.
+El que sí que es manté és la desproporció entre homes i dones.
+3 de cada 4 persones que s'infarten són homes
+i només 1 de cada 4, un 25%, són dones.
+També ha baixat la mort sobtada.
+Part d'aquesta disminució de la mort sobtada segurament l'ha fet baixar el Codi IAM.
+Però el que sí que ens passa és que la letalitat hospitalària, és a dir
+el nombre de persones que ingressen en aquesta condició o que moren a l'hospital, no ha baixat, es manté més o menys constant.
+Això es fa una miqueta estrany. Si hem muntat el Codi, perquè la gent anés millor com és que més o menys es van morir els mateixos.
+Clar, una part és perquè molts dels que morien abans i no arribaven,
+que són els que estaven més fotudets, ara arriben.
+I per tant el que arreglem per una banda ens espatlla els números per l'altra.
+No sé si s'entén.
+És a dir, si abans moria més gent a fora i no arribava a l'hospital, que són els que anaven més fotuts, ara arriben a l'hospital.
+I a pesar d'això, els morts a l'hospital doncs són els mateixos que eren abans. En certa manera, és una bona notícia.
+I parlem de 15 anys, anem a números.
+En aquests 15 anys, més de 50.000 casos.
+Els últims anys ens movem al voltant de 4.000 casos any.
+Això són uns 10-12 Codi infarts per dia a Catalunya.
+D'aquests, més de 45.000, al voltant del 87%, es consideren Codis apropiats.
+És a dir, són activacions que s'han fet de forma correcta.
+Ja s'assumeix que hi haurà un percentatge que serà un fals positiu.
+Ja s'assumeix i passa una miqueta com les apendicitis.
+Si no tens cap apendicitis blanca, doncs és que potser te n'estàs perdent alguna.
+Doncs aquí passa una miqueta el mateix.
+Has d'assumir que hi ha un percentatge de Codi que tu consideres que ha d'anar a la hemodinàmica i que resulta que no ho necessitava.
+S'han fet més de 37.000 cateterismes, intervencions coronàries percutànies,
+i només poc més de 1.000 fibrinòlisis.
+Quantes dius que s'han fet? 1.000 en 15 anys?
+1.000 en 15 anys, respecte a més de 37.000 d'angioplàstia.
+I això té diverses explicacions. L'explicació d'això és que la majoria de la població
+viu relativament a prop dels centres amb hemodinàmica.
+Per tant, la preferència és millor un tractament percutani,
+un tractament mecànic, que no pas el tractament farmacològic.
+Però això té a veure amb els temps. Anem a números. Això dels temps també té la seva importància, però anem a números.
+Ens movem al voltant de 400 casos per milió d'habitants, més o menys.
+A les terres de l'Ebre potser una miqueta menys, a la resta de Catalunya al voltant de 400,
+i al Pirineu, a casa meva, doncs 600 casos per milió d'habitants.
+No tinc clar el per què. No sé si són hàbits alimentaris o l'edat.
+És la contaminació, Albert.
+Doncs mira de la contaminació en parlant més endavant.
+Et puc fer una pregunta?
+Sí, i tant.
+Parles dels falsos positius. N'hi havia pocs, no? Com un 14% o alguna cosa així.
+Sí.
+Clar, no devíem parlar de falsos negatius perquè és difícil detectar-los.
+Gent que, pel que sigui, no va fer un cateterisme o no sé què,
+pel que sigui, perquè no es considera l'electro,
+o perquè els criteris d'activació ara estan canviant i poden millorar per ampliar aquests falsos negatius.
+Però durant molts anys era una elevació descarada de l'ST concreta o no anaves a cateterisme.
+I aquests falsos negatius, hi ha un tant percent important de gent
+que no s'han repermeabilitzat la coronària perquè no entraven en codi IAM.
+Teniu dades d'això o no?
+Dades no, perquè de fet això que acabes de comentar ara és la paradoxa de la inexistència del fals negatiu.
+Si heu llegit, em sembla que era el quart episodi, vam parlar del manifest IAMO,
+justament és una de les coses que expliquen.
+Quan fem servir només l'elevació de l'ST com a criteri electrocardiogràfic d'infart, no pot existir mai un fals negatiu.
+Perquè si no tens elevació de l'ST, mai serà un fals negatiu.
+Tu pots estar infartat, sí, però com que no tens l'ST elevat, no seràs un fals negatiu.
+Números com a tal no n'hi ha. Cla, quina és la gràcia?
+El codi IAM inclou, des d'aquesta última actualització que es va fer l'any 2023, que tu ens vas comentar,
+que tenim un episodi en què també en parlem, ara no recordo el número,
+ja inclou altres criteris electrocardiogràfics que no són l'elevació de l'ST
+i a més a més, inclou, que això també és rellevant, l'angioplàstia,
+el cateterisme per als síndromes coronaris aguts, sense criteris electrocardiogràfics,
+però amb més de dues hores de persistència del dolor a pesar de tractament.
+Sí, els de molt alt risc.
+A partir dels números que tinguem a partir de 2023,
+doncs a veure aquest concepte de falsos negatius com queda.
+Seria interessant veure que els que compleixen el criteri aquest de cateterisme dalt risc, a veure com sortirà.
+Segurament el que veurem serà que augmenten els casos de cateterismes urgents.
+Si ara en fan, no sé si deies, quants has dit, 10 o 12 al dia?
+Més de 4.000 activacions any.
+Suposo que a l'ampliar, lògicament, el ventall de criteris d'activació del codi IAM
+evidentment hi haurà més gent que vagi a fer cateterisme.
+Pot ser. ot ser, pot ser. Això ja ho anirem veient. Clar, no hi ha dades encara.
+Fa relativament poc que es va fer el canvi, per tant, no hi ha dades.
+Quan vagis a la celebració dels 30 anys ens ho expliques, Albert.
+Home, espero que en facin un abans, no?
+Però sí, sí, si hi vaig jo us ho explicaré, cap problema.
+Més números, més números, va.
+Hi ha una mena de criteri de qualitat que és que és del primer contacte mèdic fins a la reperfusió,
+és a dir, no arribar a l'hospital amb hemodinàmica, sinó a reperfusió, és a dir, que t'obrin,
+han de passar menys de 120 minuts, dues hores.
+Es considera un criteri d'aquests de qualitat.
+Menys de dues hores des del primer contacte mèdic fins que se't destapa l'artèria.
+Actualment això està passant en un 71% dels casos.
+L'any 2010 passava només a un 59% dels casos.
+I la mediana és al voltant de 106 minuts.
+Si agafem la mediana des que es fa l'electro fins que es va a reperfusió, són 89 minuts.
+Són temps força interessants, estan bé.
+La veritat és que aquests temps estan bé.
+Ho comparaven amb altres països o...
+Vull dir, per tindre una referència de si ho fem bé, superbé,
+o si hi ha altres llocs que ho fan amb la meitat de temps, no ho sé.
+Mira, ho comparava amb altres països, però potser no m'interessa tant amb altres països, sinó com amb nosaltres mateixos a partir del 2017.
+Abans del 2017 només hi havia cateterisme 24/7 a l'àrea metropolitana.
+A Tarragona, al Joan XXIII,  a l'Arnau i al Trueta, només fèiem cateterisme en horari...
+Primer horari de dilluns a divendres i després feien 12 hores de dia.
+Sí, ho recordo.
+Sí, però a partir del 2017 va passar a ser 24/7.
+Per tant, hi ha aquest canvi al 2017.
+Si us en recordeu d'aquests números que us he dit,
+del 71,7% que entren en menys de 120 minuts respecte al 59%.
+Ja hem millorat sensiblement només pel fet de passar a aquest 24/7.
+Què ens passa en aquests temps?
+Doncs que Terres de l'Ebre i al Pirineu destruïm els números, totalment.
+Perquè els nostres temps, dels nostres territoris fins als centres d'hemodinàmica són llargs.
+I per tant, al Pirineu i Terres de l'Ebre, tot i que són relativament pocs casos,
+som els que els hi espatllem aquestes medianes i aquestes coses.
+Interessant el número, aquest l'he sentit diverses vegades i va tornar a sortir.
+En funció d'on va el pacient, el lloc que tria el pacient per consultar,
+marca lo de pressa que aniran a destapar-lo.
+Si tu truques al SEM, la mediana de temps que trigaran a destapar-te és 76 minuts.
+Si tu et plantes en un hospital amb hemodinàmica, doncs es triguen 65 minuts.
+Si vas a l'atenció primària, se'n triguen 98.
+I si vas a un hospital que no té hemodinàmica, són 110 minuts.
+110 minuts, dius? 110 minuts?
+Sí, dels hospitals sense hemodinàmica, 110 minuts.
+Hi ha una diferència considerable d'allà on et plantes.
+La majoria de la gent, un 35% dels primers contactes mèdics els fa al SEM.
+És a dir, la gent s'ha acostumat a trucar al SEM quan té un dolor toràcic.
+I això està molt bé.
+Home, però 30 i escaig és poc, no?
+Sí, 30 i escaig és poc, sí, sí.
+Però ha anat augmentant.
+I de fet, és la porta d'entrada més habitual.
+Un 27% són la resta d'hospitals, un 19% van a l'atenció primària
+i un 10% van als hospitals d'hemodinàmica.
+També és interessant perquè resulta que els hospitals d'hemodinàmica són els més grans del país
+i només hi va un 10% dels pacients.
+També no deixa de ser...
+Però clar, l'altre 35% dels SEM és de tot el territori.
+Tant a dalt el Pallars com a la Gran Via, a Barcelona.
+Per tant, a lo millor, la recomanació podria ser si tens un dolor toràcic i estàs al costat d'un hospital gran,
+vés directament a l'hospital gran.
+Truca al SEM.
+El que està clar és que amb el SEM vas més de pressa.
+Quan s'agafen els números totals, el SEM és qui va més de pressa.
+És cert que els hospitals amb hemodinàmica també ja s'han posat les piles
+i entretenen menys la gent a urgències.
+Exacte, sí, sí.
+Cosa interessant també, el que comentàvem abans de la letalitat hospitalària.
+És a dir, tenim el Codi, però la mortalitat hospitalària no ha baixat.
+I no ha baixat perquè els pacients que abans es morien, ara arriben.
+I com que arriben i estan fotuts, més d'aquests es moriran.
+No parlem de mortalitat total, que anem veient que va baixant, sinó de mortalitat hospitalària.
+De números, clar, aquests números els podem fer perquè tenim un registre molt ben parit del CodIAM.
+Inicialment era només un registre administratiu on es posaven quatre dades,
+però ara realment és un registre que, tot i que algú va dir que era un calvari omplir-lo,
+és un registre que ens permet tenir molta informació.
+De fet, aquesta informació que tenim de temps, per exemple, doncs surt d'aquí, surt d'aquests registres.
+A mi m'ha agradat molt, justament una de les pioneres que va començar això,
+la doctora Lidon, ens parlava d'això, de com important és aquest registre per després poder fer recerca.
+Que clar, veient aquests registres, el que es veu és que tenim territoris,
+el meu és un d'ells, que el número de casos que tenen és tan baix
+que es fa molt difícil que els professionals que estem allà estiguem mínimament entrenats
+i puguem complir números tal com Déu mana.
+Per entendre'ns, un servei d'urgències que veu dos Codis IAM la setmana, doncs ha d'anar bé per collons.
+Però un servei d'urgències que veu dos Codis IAM l'any, doncs no li pots donar els mateixos números i que això és un problema.
+És un problema que té solució relativament fàcil.
+Algunes es van plantejar, algunes d'aquestes solucions es van plantejar allà.
+Les comentem després?
+Sí, quan hi arribem.
+Més coses dels números.
+El departament té un quadre de comandament molt ben parit,
+un lloc web, d'accés restringit als que poden accedir-hi,
+en què tu pots veure els resultats, no diria que a temps real, però en molt pocs dies,
+els resultats que hi han hagut històrics i els que tens del teu centre, els que tens de la teva àrea, quantes fibrinòlisis has fet, com estàs de temps.
+Per tant, aquest quadre de comandament és important.
+Més coses. Aquesta és la cosa així divertida.
+També vam tenir un pacient, que resulta que era metge, i el pacient ens va explicar el seu cas, com es va infartar i com va anar tot.
+I em va fer un parell de reflexions que fa i que són importants.
+La primera és els missatges aquests agradables per a la feina.
+És a dir, la nostra professió ens permet donar al pacient una altra oportunitat.
+La gent s'infarta i nosaltres els donem una oportunitat.
+Amb el tractament que els hi fem, els donem una altra oportunitat,
+que facin altres coses, que les facin diferents, que facin com els vingui bé.
+És una d'aquestes coses que quan t'agafa la síndrome d'esgotament professional,
+pots pensar-hi. No tothom ho pot dir, això.
+I l'altra, que també me l'apunto, és que allò que fem nosaltres
+disminueix molt l'angoixa dels pacients i alhora els augmenta les expectatives positives.
+És a dir, si tu arribes i fas allò que has de fer i ho fas correctament,
+el pacient de cop i volta aquella sensació de desempara que té la perd.
+I creu que les coses poden anar bé.
+Jo això m'ho vaig apuntar, vaig pensar que era molt rellevant. La història és tot el còmic que tu et puguis imaginar.
+Sent metge, vas parar tres hores tenint el dolor per anar a l'hospital, coses que fan els pacients, doncs mira, ja les teníem.
+I avui, que és el Dia de la Dona, doncs mira, també va sortir una cosa que ja és molt cíclica,
+que és l'impacte del gènere justament en l'infart de miocardi.
+Mira, sabem històricament que les dones sempre tenen pitjors resultats en l'infart de miocardi.
+Però això és una veritat a mitges i, a més a més, ja no està passant tant.
+Per què dic que és una veritat a mitges?
+Perquè realment el que ens passa és que la presentació dels infarts en les dones
+és més tardana, al voltant de 7-10 anys més tard.
+I sí que és veritat que els condicionants socials de gènere,
+el fet que a les dones se'ls tracta diferent, se'ls diu que tenen més ansietat,
+es triga més a fer-los els electros, tot això, és veritat que determina el pronòstic,
+però quan fem l'ajust per edat, veiem que tenen millor pronòstic a l'any.
+És a dir, que una de les coses que determina molt també és el fet aquest que les dones es presenten més tard.
+No és només els condicionants socials, que per exemple ho llegeixo aquí,
+que el temps d'isquèmia abans no es reperfonen, és més gran en dones que en homes, al voltant de 30 minuts.
+D'aquests 30 minuts 20 es poden adjudicar a que arriben més tard, i això és culpa de les dones, no culpa del sistema,
+però els altres 10 es poden atribuir al sistema sanitari, això és culpa del sistema sanitari,
+és culpa d'aquest biaix que tenim tots, masclista, heteropatriarcal, com n'hi vulgueu dir.
+Però resulta que quan fem aquest ajust per edat, i es tracten les dones, evidentment si no es tracten van pitjor, això és perogrullada,
+però resulta que aquestes dones al final tenen millor pronòstic a l'any.
+És a dir, que si les dones van pitjor, 10 minuts més d'isquèmia perquè el sistema sanitari té aquest biaix,
+20 minuts més perquè són dones i aguanten més a casa i no haurien d'aguantar-ho,
+és cert, però resulta que quan ho ajustem per edat, i el fet que es tractin, evidentment, doncs tenen millor pronòstic a l'any.
+I no és només el gènere el que afecta, també sabem que el codi postal determina el teu nivell de salut,
+ho han dit moltes vegades, i aquí també passa.
+Amb un nivell socioeconòmic més baix, pels més factors de risc cardiovascular.
+I ens van presentar un estudi fet a Barcelona, on resulta que sí, és cert,
+que aquestes diferències que a menor nivell socioeconòmic, més factors de risc cardiovascular,
+i per tant edat d'inici de malaltia coronària precoç, és a dir, que s'infarten més joves i moren més joves,
+doncs resulta que a Barcelona aquestes diferències de nivell socioeconòmic no afecten la supervivència.
+Això vol dir que el sistema sanitari és prou robust com per compensar aquesta diferència
+que suposa el fet de tenir un menor nivell socioeconòmic i per tant majors factors de risc cardiovascular.
+És a dir, que la supervivència, un cop t'infartes, és equivalent en si vius a la Bonanova com si vius a la Mina.
+I això, perdona, és només a Barcelona o és perquè només s'ha estudiat a Barcelona, això?
+L'estudi està fet només a Barcelona. Ells poden afirmar de Barcelona, però és de suposar que serà més o menys equivalent a tot el territori.
+Això pel que es refereix a les dades, a la presentació de l'infart.
+Ara, si ens anem al tractament, que potser és la part que... D'això va el codi IAM,  de detectar-los i tractar-los, oi?
+Aquí tenim que el SEM, que és una peça clau, és una peça clau perquè molta gent els truca primer
+i per tant són el primer contacte mèdic, però també perquè un percentatge molt gran es presenta o a atenció primària
+o a l'hospital sense hemodinàmica i s'han de traslladar a un hospital amb hemodinàmica, i això ho fa el SEM a Catalunya.
+Ells també hi van venir a dir la seva. Tenim que un 90% dels seus codis són apropiats.
+Ens movem en aquest 87% d'activació, dels codis que al final són correctes, doncs aquí, el SEM, per aquí ens movem.
+Algú recordarà, en algun dels altres episodis vaig dir que el SEM no era conscient de la importància que tenen els tríptics i els codis que fan.
+Bé, sí que en són conscients, en són molt conscients i de fet van explicar una miqueta l'impacte que té això.
+El fet que s'ha inclòs els criteris del risc de l'SCASEST, els hem afegit aquests criteris electrocardiogràfics que vam comentar,
+tothom té clar que això té un gran impacte i que és important.
+I aquí em va agradar perquè no es van quedar amb el bé que ho estàvem fent, sinó amb què podem millorar.
+Jo em vaig apuntar uns quants dels reptes que el SEM té clar que ha d'intentar millorar.
+Un és millorar la inclusió, és a dir, incloure altres coses que ara mateix no s'entren.
+Per exemple, els dolors toràcics intermitents i recurrents.
+Fa tres dies que tinc mal al pit i ara m'ha tornat a venir, però ja m'ha passat, per exemple.
+El fet de tenir present, quan ells fan la recollida de dades, que hi ha símptomes que no són de dolor toràcic estrictament,
+però que poden ser equivalents. Una disney amb un diabètic, tot això poden ser símptomes que et poden fer pensar en aquest síndrome coronari agut
+i que ara no s'inclouen, van per una altra banda i aquí potser tocaria entrar-los per aquesta banda.
+Aquest molt important, especialment pels tècnics que ens escolten, es pretén que pel nou concurs,
+els tècnics de l'ambulàncies de suport vital bàsic puguin fer un electrocardiograma
+des que arriben, en menys de 10 minuts, aquest electrocardiograma estigui fet i interpretat remotament si fa falta.
+Això pot ser, no diré que revolucionari, però aquí pot haver-hi millora amb això.
+Si tu tens un electro escandalós 5, 10, 20 minuts abans que arribi l'avançada,
+hem avançat temps, aquí ja podem haver millorat alguna cosa.
+Sí o sí necessitarà que sigui una valoració remota
+El nou concurs, el concessionari que guanyi ha de garantir que disposa d'un aparell per a totes les ambulàncies de suport vital bàsic
+que li permeti gravar i transmetre els electrocardiogrames en remot.
+El SEM haurà de buscar la manera que algú llegeixi aquests electrocardiogrames quan li arribin.
+Una altra cosa que es planteja fer, i que probablement ja estiguin fent ara,
+és que sempre que s'activi el codi des d'un CAP,
+o sigui que des d'un CAP diguin que tenen un codi IAM,
+s'activa sistemàticament tota la moguda, hi va l'avançada i tal, però ja està activat el codi IAM.
+No s'espera que arribi l'avançada i que decideixi si allò ho és o no ho és.
+Pot ser que s'hagi de desactivar?
+Si s'ha de desactivar, es desactiva i ja està.
+I aquesta m'importa bastant a mí, perquè em toca per territori,
+és que haurem de fer més fibrinòlisis.
+Si el destapar està més de dues hores, el dolor fa menys de dues hores que ha començat,
+s'ha d'administrar en els primers deu minuts la fibrinòlisi.
+Això justament nosaltres, al meu centre, estem en un lloc una miqueta malparit
+perquè estem entre els 90 i els 120 minuts
+i realment ens costa molt que ens diguin els cardiòlegs de fer fibrinòlisi,
+amb el qual segurament haurem de deixar de preguntar i fer-la.
+Però això seria, perdona, torna a dir quina condició és per fer la fibrinòlisi?
+O sigui que el temps des del primer contacte mèdic fins que destapen sigui superior a 120 minuts.
+En el teu cas, que tu estàs a l'Alt Empordà, doncs és difícil que passi.
+És a dir, estaríem parlant d'alguna extracció d'algun lloc malparit.
+Segurament no deveu tenir ni fibrinolítics, segurament, als vostres cotxes ja.
+Sí que en tenim, sí.
+Doncs si el teu tècnic et diu no, no, aquí no arribem en menys dels minuts que siguin, doncs hauràs de fer-ho.
+Si has de fer una extracció en un cotxe escala dels bombers, per exemple, doncs probablement la fibrinòlisi, si l'has de fer, l'has de fer de pressa.
+O sigui, probablement hauries de decidir-ho ràpid.
+Vinga, llavors, antiagregació i anticoagulació. Com anem al 2024?
+Aquí, aquesta és interessant, perquè recordant l'episodi que vam gravar del codi IAM,
+que ens vas explicar tu, que vam passar d'antigament que fèiem servir aspirina,
+evidentment per a tothom, i després fèiem servir clopidogrel,
+excepte amb alguns que els donàvem coses més fortes,
+i en canvi ara és pràcticament al revés.
+Hem passat a fer servir prasugrel o altres coses més fluixes, en funció de com tenim el pacient.
+Aviam, fer servir heparina o enoxoparina,
+evidentment l'enoxoparina va només amb la fibrinòlisi,
+prefereixen posar heperina bàsicament perquè tens antídot i pots mesurar-ho.
+Tu saps com vas d'APTT i tal, doncs pots parar-la, pots posar la protamina,
+llavors els hemodinamistes prefereixen fer servir heparina perquè sempre pots tirar enrere.
+I una cosa semblant passa amb els antiagregants.
+Hem de fer servir els antiagregants més potents? Sí.
+Però si tenim dubtes, aquest segon antiagregant,
+si tenim dubtes de si realment és Codi o no és Codi, doncs aquest ens podem esperar.
+Si fos el cas que realment el necessita, quan li comencin la angioplàstia,
+posaran el Cangrelor intravenós, que és un medicament que tenen allà,
+que es pot posar també en perfusió després, però és bàsicament d'ús a hemodinàmica, doncs ja l'hi posaran.
+És a dir, la recomanació que ens feia aquest senyor és,
+si ho tens clar, li dones l'antiagregant més potent que puguis,
+Prasu si no té cap contraindicació, Ticagrelor si no sé què, i Clopidogrel si no sé quantos.
+Però si tens dubtes, no el donis aquest segon, i a hemodinàmica i ja l'hi posaran.
+Què més? Va, temps, temps, més temps.
+Us recordeu que al principi us he parlat dels temps?
+La mediana de temps des del primer contacte mèdic fins a obertura d'artèries, 120 minuts,
+tot això es pot partir.
+I aquí és important de cara saber cadascú de nosaltres on podem millorar.
+Hi ha un primer temps que nosaltres com a professionals de la urgència
+hi podem intervenir molt poc, que és des que comencen els símptomes fins que hi ha el primer contacte mèdic.
+Nosaltres no podem fer que la gent visqui més a prop dels centres mèdics,
+ni podem fer que la gent es passi més o menys hores a casa patint dolor.
+Nosaltres em refereixo als professionals de la urgència.
+Sí que podem fer educació sanitària, evidentment.
+Especialment a la gent que té malaltia coronària, dir-los, ep, no facis el burro, eh?
+Si et torna a venir, prefereixo que vinguis mil vegades que en el cas de venir no vinguis.
+Que ja sabem que ens ho fan, això, eh?
+El temps més important per mi, perquè sóc infermera,
+és des del primer contacte mèdic a que es fa un electro i es llegeix 10 minuts.
+És com una d'aquestes... clau.
+És que no sé què, electro.
+I després ja acabaràs a preguntar, però electro, va, ja, ja, ja, ja.
+Perquè això determinarà què ve després.
+I un altre temps que és superimportant també és, des que tens l'electro,
+quan trigues a decidir que es reperfon.
+Perquè això és el que després fa que tot allò més vagi de pressa.
+És a dir, si tu estàs badant, i estàs mirant, i estàs pensant i deixant de pensar,
+doncs aquí perds molts minuts que són importants.
+S'hauria d'aconseguir que des del primer contacte mèdic,
+door-in, porta d'entrada, fins que surt per la porta cap a hemodinàmica, 30 minuts.
+Això hauria de ser el temps.
+I després resulta que quan anem a mirar, resulta que els hospitals sense hemodinàmica,
+doncs, ho fem pitjor que el SEM, per exemple. El SEM és molt més ràpid.
+El SEM també arriba abans, des de l'inici dels símptomes, fins al primer contacte mèdic.
+Per què? Segurament perquè la gent els crida abans.
+Amb 49 minuts des de l'inici del dolor, el SEM fa el primer contacte mèdic.
+Si vas a atenció primària, són 94 minuts.
+Des que fem l'electro fins que s'activa el Codi IAM, doncs resulta que l'atenció primària triguen 31 minuts.
+Als hospitals que no tenim hemodinàmica no anem gaire millor, eh? 27 minuts.
+Per tant, podem guanyar temps on és, en aquests punts, no?
+És a dir, des que fem el primer contacte mèdic fins que decidim, aquí hi hem de guanyar.
+Des que s'activa fins que s'arriba a obrir, doncs s'ha anat millorant molt.
+La veritat és que ha anat baixant, vas veient els números.
+No és una cosa exagerada, però ens van ensenyar una gràfica i anàvem veient els números.
+Hospitals amb hemodinàmica, des que s'activa fins que obren, passen 49 minuts.
+Excessiu i tot, em sembla.
+Els que no tenim hemodinàmica són 83 minuts. Déu-n'hi-do.
+Però és que els del Pirineu són 164 minuts de mediana.
+De falsos positius que comentaves, hi va haver una xerrada també,
+que bàsicament insistia molt en el concepte aquest del IAMO,
+de l'infart agut de miocardi oclusiu,
+respecte al paradigma que fem servir encara ara,
+que és el de síndrome coronari agut amb elevació de l'ST.
+Insistir molt en aprendre'ns de tots aquests patrons electrocardiogràfics
+que no són elevació de l'ST però que impliquen que està tapat.
+Tenir present que un fals positiu no acostuma a ser un problema si no hem donat aquest segon antiagregant,
+perquè donar una aspirina té un risc però és baix, però en canvi si dones una aspirina i un prasugrel,
+doncs ja és un risc més alt de fer un sagnat, especialment si ets vell.
+Per tant, insisteixo amb allò que ens han dit abans.
+Si tens dubtes, doncs el segon t'esperes.
+I el dels fals negatius que comentaves tu, evidentment.
+Si no entres, doncs no vas a reperfusió i per tant tindràs uns resultats molt pitjors si realment estava tapat.
+Amb la discussió que hi va haver després de tots aquests casos, de totes aquestes xerrades, em va agradar la frase que va dir
+justament aquest doctor, el dels antiagregants, que el que no s'ha de tenir és por.
+És a dir, no s'ha de tenir por de fer si cal fer-ho i no s'ha de tenir por de no fer si no cal.
+Per insistir en el tema aquest de la doble antiagregació.
+És un codi? Doncs fes el que hagis de fer.
+No tinguis por de fer de l'heparina, del prasu, no tinguis por.
+I la inversa? Si no ho tens clar, no ho facis. No tinguis por de no fer-ho i dir no ho he fet perquè no ho tenia clar.
+Em va fer riure una cosa, aquí va passar una cosa divertida,
+una de les preguntes del públic, una altra d'aquestes cardiòlogues pioneres del Codi IAM,
+va dir que això de la trucada a tres, que és un problema, que amb això de la trucada a tres que no hi guanyem res.
+Uns quants del públic es van posar a aplaudir.
+O sigui, ja ho tombarem aquí, com volent dir, si no ho és, serà un fals positiu?
+Tampoc serà un fals positiu i el tombarem nosaltres, quan arribi.
+Sí, jo intento no fer mai trucada a tres i tot això, intento no...
+Què ens aporta, no? Seria el dubte.
+Què ens aporta? Si ja ens han dit que si no ho tens clar,
+no li donis el segon antiagregants és potser l'únic dubte que podries tenir, si l'hi has de donar o no.
+Si ja t'ho han dit, doncs no ho fas, i quan arribin ja li posaran cangrelo i avall.
+Més coses.
+Trombòlisi de nou, la fibrinòlisi.
+Tots els que sou a l'àrea metropolitana, això us importa un bledo.
+Perquè no us cal, però a mi, que al meu territori això ens passa...
+Coses importants. A més risc, més benefici.
+Com pitjor està el malalt, més important és fotre-li el fibrinolític abans.
+Si tens un electro que nyè, i el malalt pssè,
+potser aquest, mira, tira.
+Però si tens un electro que canta, que t'està cridant, que soc un infart, i el tio està fatal,
+doncs no t'ho pensis més, l'hi fots.
+L'any 2001 hi va haver 26 fibrinòlisis de 4.500 activacions del Codi IAM.
+És una misèria.
+D'aquestes 26, 15 van acabar després amb un angioplàstia de rescat,
+que ja està previst, i de fet el Codi ja diu que tu el lises i te l'emportes,
+que no esperes que es reperfongui i tal.
+Això també és una millora que hi va haver en el seu moment.
+Resulta que tenim uns temps de merda, Pirineu i Terres de l'Ebre,
+i a pesar de tenir uns temps de merda, no fem les fibrinòlisis.
+Amb això dels temps de merda, doncs mira, els de Lleida que estaven per allà,
+resulta que l'any 22, dels 46 Codis IAMs del Pirineu que van baixar a l'Arnau,
+només 6 es van lisar.
+No pot ser.
+Va fer uns números dient, si hi ha més de 50 minuts de trasllat,
+aquests 120 minuts que teníem de marge, repartint-los en els diferents tempos,
+aquest de primer contacte mèdic, l'electro i tot això,
+t'acaba resultant que si estàs més de 50 minuts a traslladar,
+fent la fibrinòlisi tindràs millor resultat.
+Per tant, i aquí ja anem tancant, si tu estàs a més d'una hora
+del lloc on estàs a l'hospital on el poden destapar,
+probablement et sortirà més a compte fer una fibrinòlisi que no pas esperar a hemodinàmica.
+La frase aquesta me l'apunto, fotré un pòster que diu
+val més una fibrinòlisi a temps que una angioplàstia tardana.
+Més cosetes, més cosetes, va.
+El tractament post-IAM.
+El tractament post-IAM vol dir una vegada el pacient se li dona l'alta,
+post-infart, doncs ha d'anar amb un tractament a casa.
+I van sortir 300 milions de medicaments nous, i com està...
+que si l'estatina, clar, aquí jo no hi vaig fer massa atenció perquè això és post
+i això li donen l'alta als cardiòlegs,
+doncs nosaltres a urgències la veritat és que no ens interessa massa.
+Però sí que em vaig quedar amb la idea de la rehabilitació cardíaca, de l'exercici.
+Pràcticament tothom que surt després d'un infart ha de sortir amb una recepta d'exercici, el que pugui.
+I això és especialment positiu en dones, també.
+Em vaig quedar amb aquesta idea.
+Discussió de totes aquestes últimes xerrades que us he anat dient,
+un concepte que també penso que és rellevant explicar,
+sobretot als que preneu decisions, els que prenem decisions,
+és el risc real versus el risc percebut.
+Què vol dir això?
+Si vam tenir una mala experiència, això és un risc percebut, és el que nosaltres hem vist,
+i això té molt més pes que davant del risc real.
+En el cas de la fibrinòlisi, si tu has posat una fibrinòlisi a algú i ha fet un hemorràgia cerebral,
+doncs seràs molt més reticent a posar fibrinòlisi,
+perquè has vist una complicació, que és rara, però l'has vista.
+En canvi, no posar-la, tu no veuràs la conseqüència de no fer-ne.
+Perquè, clar, quan el pacient faci més isquèmia, o sigui, hi hagi més tros infartat,
+tingui una fracció d'ejecció pitjor i acabi fent una insuficiència cardíaca
+i es mori 10 o 15 anys abans del que li hagués tocat, si l'haguéssim tractat correctament, tu això no ho veuràs.
+I com que no ho veus, quan fas la teva valoració de risc-benefici, doncs això no ho tens present.
+Per tant, has de tenir aquesta idea.
+Molt bé, això m'ha passat, és un risc que he viscut,
+però compte que no estàs veient els riscos de l'omissió del que hauries de fer, doncs per què tens aquesta por?
+Lliga amb el no hem de tenir por a fer i no hem de tenir por a no fer.
+I ja per anar acabant,
+de l'últim bloc de xerrades, una miscel·lània de diferents coses.
+El doctor Aceli, que és un dels metges del SEM, és un investigador també de Tarragona,
+aquests van fer un estudi molt interessant de la mort sobtada,
+val la pena llegir-lo si teniu ganes.
+El 70% de les aturades són de causa cardíaca.
+Això vol dir que hi ha un 30% que no.
+Això és el seu estudi que van fer allà a Camp de Tarragona, d'autòpsies...
+L'estudi estava bastant currat.
+I una cosa que em va cridar l'atenció és, això pels que tenen una oclusió coronària,
+pels que han fet un infart,
+com més temps passa entre que comencen els símptomes i et pares, millor supervivència tens.
+Sembla una miqueta contraintuïtiu, ho has de pensar. Clar, si estàs molt tapat, estaràs pitjor.
+La idea és, com més temps passa entre símptomes i aturada, vol dir que menys greu estàs en aquell moment.
+Això és una mica contraintuïtiva, però quan hi penses et surt.
+I una altra cosa que va sortir també, que segurament ho veurem,
+és el tema de les xarxes de voluntaris per fer RCP comunitària.
+Hi ha diferents aplicacions de mòbil, diferents països ho tenen.
+Quan algú es para, s'ha de començar a RCP de forma immediata.
+S'ha de fer RCP telefònica.
+Si hi ha gent formada que es posa a disposició del veïnat, això millora la supervivència.
+És una estratègia més de fer que es millorin les taxes d'RCP i, per tant, les taxes de supervivència després.
+I això hi ha algun lloc que es feia aquí a Catalunya? Existeix això aquí o no?
+Que jo sàpiga no. I és una de les coses que, quan es va fer el tancament,
+la doctora Ricart, del departament, es va apuntar com a coses que s'han de plantejar fer.
+Acabo ja amb el xoc cardiogènic,
+que ja sabem que el xoc cardiogènic té diverses causes, però l'IAM és la principal.
+D'un 8 a un 10% dels que fan l'infart fan un xoc cardiogènic
+i la mortalitat és molt alta.
+El tractament és revascularitzar.
+I això em va agradar la frase del doctor Ariza, de Bellvitge, que és un d'aquests homes ECMO, que va dir
+és un missatge pels joves. No us fixeu en lo guapes són les maquinetes que tenim.
+El primer és destapar.
+I un cop destapat, o mentre destapes, fes l'altre. Però primer destapar.
+Plantegen la idea que hi hagi un equip de xoc, un shock team, perquè aquí hi ha moltes coses a fer.
+Hi ha molta maquineta, des dels balons de contrapulsació, l'impella, l'ECMO per gent que fa un xoc cardiogènic,
+poder-los tirar endavant fins que es resol el problema.
+Això vol dir fibrinòlisi?
+Revascularitzar.
+Si tu estàs lluny, fibrinòlisi. Si estàs a prop, no cal.
+Tindràs millor resultat amb l'altre.
+Comentaves això de la contaminació.
+L'última xerrada parlava d'això, de la relació que hi ha entre la contaminació atmosfèrica i, entre altres patologies,
+els infarts aguts de miocardi.
+Comparat amb els factors de risc cardiovascular individuals, potser no són tan importants,
+però com que afecta a tota la població tenen el seu pes.
+I per acabar, del tot, el tancament el va fer la doctora Ricart, del departament,
+i com a punts que el departament es posa per millorar,
+és assegurar això que dèiem del cateterisme pels síndromes coronaris aguts sense elevació de l'ST d'alt risc,
+en menys de dues hores, que això s'ha d'assegurar. Que aquí tenen feina perquè s'ha de concedir que això passi.
+L'estratègia de millora de supervivència de la aturada cardiorrespiratòria, n'hem dit algunes.
+Aquesta xarxa de primers responedors per fer l'RCP, s'ha de formar la població per fer suport vital.
+Que tots els DEA estiguin connectats al SEM, que ara no ho estan gaires,
+i jo acabo aquí, després de fotre-us aquí la tralla d'aquest grup de xerrades.
+Els resums els tindreu a les notes de l'episodi, i sapigueu que tinc també les,
+no totes, però bastantes diàpos de les presentacions, per si algú té interès a veure aquestes gràfiques, doncs les demaneu al grup de Telegram,
+que no ho hem dit, tenim un grup de Telegram justament per aquestes coses, les demaneu al grup de Telegram i ja us les passaré.
+Molt bé, Albert. Escolta'm, jo volia dir dues coses.
+En el tríptic del SEM, ho deixen bastant clar, el tríptic que... no sé de quan era, eh, del...
+2023, no recordo el mes.
+Ells parlen del temps estimat de trasllat, des que tu fas l'electro fins que arribaràs a l'hospital,
+si és més de 90 minuts, fibrinòlisi prehospitalària. I això és el que hauríem de fer tots.
+Sí, però no es fa.
+Sí, no sé per què no es fa.
+No m'hi trobo habitualment, però clar, vosaltres, aquests 90 minuts és fàcil que els tingueu.
+Però vull dir que no és una invenció que està en el tríptic del Codi IAM,
+ho diuen així, de trasllat més de 90 minuts, fibrinòlisi.
+I l'altre, que parlaves tu que si estàs en un lloc on hi ha poca incidència
+d'activacions de Codi IAM, no?,
+hospitals així més petits, o que veus un Codi IAM a la setmana o el que sigui,
+jo t'he dit, home, jo tinc la solució.
+No sé si és una solució, però sí que pot ajudar, és fer simulació.
+Si tu tens un box on un cop a la setmana pots entrenar un equip a fer un Codi IAM simulat,
+quan tinguis el Codi IAM de veritat sortirà més bé.
+Tot anirà més ràpid i faràs el que has de fer, hi haurà menys dubtes i tot anirà més coordinat.
+És implementar una miqueta més, que ja s'està fent a molts llocs i tal, que de vegades sembla que necessitis
+molts recursos tecnològics i molta història per fer una simulació,
+però si no els tens, no passa res, pots fer-ho igualment i el pacient se'n beneficiarà.
+Això últim que acabes de dir, espero que alguns dels que decideixen coses
+i on s'inverteixen els calés ho escolti.
+Els de CatSalut.
+Sí, exacte. I ara ja em posaré polític, vinga va, canviem va.
+El Menys és Més ara toca, no?
+Al Menys és Més d'aquest episodi de l'EMPodCat,
+avui us volia parlar d'un problema de salut pública mundial,
+que ja coneixem, però de vegades en som poc conscients,
+que és el tema de les resistències bacterianes.
+De fet, és un problema fins i tot que l'OMS
+ho considera com una de les prioritats en salut actualment
+i que en el futur s'espera que sigui un problema encara pitjor.
+Calculen que el 2050, d'aquí 25 anys, que sembla molt lluny,
+però hi serem d'aquí poc,
+hi haurà més morts per aquesta causa, per les resistències bacterianes
+que en mortalitat per càncer.
+L'impacte econòmic d'això s'estima
+en 100 bilions de dòlars anualment a nivell mundial.
+A mi em costa interpretar aquests 100 bilions de dòlars,
+però sembla molta pasta i moltes morts, comparables amb les del càncer.
+Per tant, sí que és un problema de salut pública mundial
+i que estaria bé que tothom posés, si podem,
+el nostre granet de sorra a partir de ja.
+A partir d'aquí, jo us volia recomanar uns documents i una pàgina web
+d'un organisme que és la Col·laboració Cochrane
+a través de la seva seu de Barcelona,
+que és el Centre Cochrane Iberoamericà,
+i tenen una pàgina web molt interessant, que és es.cochrane.org,
+que és com una pàgina web de difusió de coneixement mèdic, científic, obert a tot el públic.
+Doncs dins d'aquesta pàgina web hi ha una secció que donen respostes,
+plantegen un dubte, i a partir d'una revisió sistemàtica que han fet a la Cochrane, donen resposta a aquest dubte.
+Aleshores, el que us volia dir jo és una revisió sistemàtica
+publicada l'octubre del 2023 que pretén respondre al dubte
+que si la prescripció diferida d'antibiòtics funciona en les infeccions respiratòries.
+És a dir,
+quan tu veus infeccions de vies respiratòries altes,
+doncs què fas?
+Li dones a tots els que tu creguis necessaris un antibiòtic ja,
+o fas una prescripció diferida, que és l'objectiu d'aquesta pregunta,
+o directament li dius al pacient que això no es mereix antibiòtic.
+A partir d'aquí fan una revisió sistemàtica i seleccionen 12 assajos clínics
+que en total sumen 4.000 participants entre adults i nens.
+Les conclusions a les que arriben és que la clínica facis una cosa o una altra,
+és a dir, doni's antibiòtic sempre en aquestes infeccions, o facis una prescripció diferida.
+Diferida vol dir, mira, de moment crec que no necessites l'antibiòtic,
+però jo et faig la recepta, tu te'n guardes la prescripció, no vagis a buscar-la a la farmàcia,
+però si d'aquí dos o tres dies veus que estàs pitjor, te'n vas a la farmàcia i te donaran l'antibiòtic
+i te'l comences a prendre d'aquí dos o tres dies si veus que no millores. Això és la prescripció diferida.
+Per tant, en aquesta revisió comparaven aquestes tres coses.
+O li prescrius ja l'antibiòtic i li dius que se'l comenci a prendre aquest vespre,
+o li dius que se'l prengui d'aquí dos o tres dies si veu que no millora,
+o directament li dius que no necessita un antibiòtic i que prengui paracetamol, begui molta aigua i ja ens veurem.
+Aleshores, facis el que facis, la intensitat i la duració dels símptomes no hi ha cap diferència.
+La diferència està en la satisfacció del pacient.
+Si compares amb donar de forma immediata antibiòtic o fer-ho de forma diferida,
+la satisfacció no canvia, segons aquests estudis.
+Li és igual que tu li diguis mira, t'has de prendre aquest antibiòtic,
+com que li diguis et faig la recepta, però no te la prenguis,
+fins d'aquí dos o tres dies, si veus que no millores,
+doncs això el pacient ho entén perfectament i sortirà de la consulta tranquil
+perquè t'ha entès i dirà mira que bé, doncs no m'haig de prendre l'antibiòtic a no ser que empitjori.
+Se senten igual de satisfets.
+En canvi, si ho fas d'aquesta manera, sí que redueixes l'ús d'antibiòtics.
+Per tant, a nivell d'intentar disminuir una miqueta
+el consum, potser no indicat del tot, d'antibiòtics
+i per tant reduir les conseqüències de les resistències bacterianes,
+sí que podríem fer una prescripció diferida de l'antibiòtic.
+I això penso que si ho fem tots de forma sistemàtica la població ho entendrà perfectament
+i hi haurà més consciència pels metges i per la població
+que no sempre que tens una infecció respiratòria necessites un antibiòtic.
+I a la llarga, d'aquí 25 anys, els pronòstics de l'OMS esperem que no es compleixin.
+I això a través d'aquesta pàgina web de la Cochrane Iberoamericana
+podeu llegir el resum, que fan uns resums super ben fets de tres tipus,
+un de curt amb una infografia, un altre resum una miqueta més ampliat
+o directament te'n pots anar a la revisió sistemàtica
+i llegir-te les 50 pàgines que té la revisió sistemàtica
+si vols estar molt ben documentat sobre aquest tema.
+Ostres, això pot funcionar.
+Pot funcionar perquè t'has de barallar molt perquè se'n vagin sense antibiòtic.
+Si els dius, aquí tens la recepta i ara és la teva responsabilitat, o sigui, la gent pot comprar-ho això.
+L'altre, pel que veig, és una baralla constant que a més a més contribueix bastant
+al síndrome d'esgotament professional si t'has d'estar barallant contínuament amb la clientela perquè no sé què.
+I el fet que funcioni, que aquesta gent del Cochrane hagin vist
+que les revisions sistemàtiques diguin que funciona, que disminueix el consum d'antibiòtics i la gent no ho viu malament...
+Sí, la sensació de satisfacció és la mateixa.
+També veig que pot ser útil perquè és una acció que pots fer relativament fàcil a nivell del sanitari
+i que això pot, de forma indirecta, conscienciar el professional sanitari
+perquè no sempre és el pacient que reclama l'antibiòtic, sinó que a vegades,
+i jo penso que fifty-fifty, és el sanitari que en moltes ocasions ens podríem estalviar molts antibiòtics.
+El que passa és que per curar-nos en salut, etcètera, etcètera,
+o per anar més ràpid i no haver de discutir i no sé què, moltes vegades és més fàcil
+prescriure un antibiòtic i adéu, fins la pròxima.
+I això en la revisió sistemàtica que és de d'adults i nens
+en els nens també funciona igual
+Si, si, si
+Per mi és un dels llocs on és més difícil, justament.
+Aquesta exigència de proves i tractaments quan simplement aguantant n'hi hauria prou.
+Ostres, és que tots els menys és més els haig de penjar al servei, tots, tots, eh?
+És un drama això, eh? No tindrem paret suficient, eh?
+Hauràs de demanar un box o una paret per penjar coses que anem dient
+Estaria bé, podríem recomanar la instauració d'una paret a tots els serveis d'urgències,
+la paret d'EMPodCat, i que hi hagi un representant d'EMPodCat a cada hospital
+Albert, això hauríem de fer. Saps com els equips PROA,
+relacionat amb els resistències antibiòtics i tal,
+que a la majoria d'hospitals ja tenim uns equips del PROA, no?
+Justament tu ens vas recomanar una aplicació per mòbil de la PROA de
+no sé si era de l'Arnau de Vilanova de Lleida
+No recordo quin episodi.
+Sí, no me'n recordo d'on era, sí.
+Doncs igual que hi ha els PROA a tots els hospitals els serveis d'urgències hi hauria d'haver el tauler d'anuncis d'EMPodCat.
+Mira, això que dius, una de les recomanacions que vaig fent al seu dia el OnePagerICU, bàsicament fa infografies
+ doncs hi ha alguna foto d'alguna sala de residents de no sé quin hospital de no sé on, on els tenen tots penjadets allà a la paret, tots.
+Sí, sí, està guai, molt bé.
+La paret empaperada de les infografies aquestes
+ Va, doncs convidem els nostres oients a que ens facin fotos dels seus serveis amb les recomanacions allà penjades.
+Igual els hauríem de donar algun suport infogràfic que ens queda una miqueta lluny, eh? Molt bé.
+Va, escolta, anem a l'UrgemMot?
+Anem a l'UrgemMot. Tu tenies alguna cosa Albert, d'UrgemMot per aquest episodi?
+Jo tenia el dubte que arrossegava de l'episodi passat, el de com es diu decliu,
+no hi ha hagut cap oient que ens ho hagi dit, estic pendent que el termcat contesti.
+I ara el que tinc és un altre dubte, eh? Sóc un cagadubtes, només foto que tenir dubtes, tu.
+En el tema d'avui he parlat de l'angoixa del pacient i em va entrar el dubte de, escolta,
+angoixa i ansietat, és el mateix?
+Són sinònims, no són sinònims?
+I he estat buscant i et surten 30.000 pàgines de psicòlegs
+explicant què és ansietat, què no ho és, i si en tens i no en tens, i què has de fer.
+Bé, no és la part que m'interessa i no he trobat enlloc que m'ho expliqui filològicament.
+Llavors he anat a buscar i el que tinc és les definicions del diccionari i el que diuen els del termcat.
+Angoixa, segons el diccionari, és el respir fatigós degut a la xafogor de l'atmosfera, un estat morbós o un disgust.
+L'angoixa de la mort.
+Ara el malalt està més tranquil, li ha passat l'angoixa. Un respir, unes inspiracions... una freqüència respiratòria determinada.
+Això és l'angoixa?
+L'angoixa. Després diu opressió de l'ànim, fàtig, afany extrem,
+malestar profund alhora físic i psíquic determinat per la impressió d'un perill imminent i determinat davant del qual
+Això és la definició d'angoixa.
+Anem a l'ansietat. L'ansietat la defineix el diccionari com
+estat d'intranquil·litat i d'agitació amb sensació d'opressió al cor.
+O bé la pertorbació psíquica caracteritzada per un estat d'extrema inseguretat i inquietud.
+Jo, companys, no sé què dir-vos. No ho tinc gens clar.
+El termcat ens ajuda una miqueta simplificant aquestes definicions
+i ens acaba dient, en el món anglosaxó i germànic, principalment, l'ansietat es considera com a sinònim d'angoixa.
+No sé massa bé on fer servir una paraula i on fer servir l'altra.
+ Em sembla que seguiré fent-les servir com a sinònims directes i, guaita,
+si algú troba alguna manera més concreta de dir, no, això és una angoixa, això és una ansietat,
+doncs, com sempre, estem oberts a millorar l'ús que fem de la llengua.
+Sí, és complicat, és complicat.
+Jo no aporto res, només aporto problemes, ja ho veus.
+Són dubtes. Tu generes preguntes i dubtes. Això està molt bé.
+És el primer dallonses per aprendre coses, és crear-te dubtes.
+Doncs en tinc, en tinc uns quants.
+Molt bé, Albert. Va, jo havia fet un recull que en faré uns quants
+i, potser a l'episodi següent en faré uns quants més.
+Alguns, potser, ja els havia parlat, perquè eren un motiu de parlar-ne en algun altre context
+i és termes que pronunciem malament
+ i, per tant, els escrivim malament, perquè segurament els diem de forma aguda i són plans
+o són esdrúixols i porten accent i com que ho pronunciem malament ja no li posarem l'accent.
+No és que el terme estigui malament, sinó que senzillament la pronuncia la fem malament i l'escrivim malament.
+Per exemple, l'alvèol pulmonar, que jo sempre n'he dit l'alveol, doncs no, és un alvèol.
+Podríem parlar de les, crec que ja ho vam dir, les bronquièctasis.
+No és les bronquiectàsies o el que sigui, si no que té un accent a la E obert, que és bronquièctasi.
+El colèdoc, jo ne n'havia dit el coledoc o no sé, d'altres formes,
+doncs no, aquest també té un accent obert a la E, un colèdoc.
+El còlon, no és el colon, si no és el còlon, té un accent obert a la primera O.
+El delirium tremens, que més?
+L'ènema, que també en podem dir lavativa, però el TermCat diu que el terme preferit és ènema.
+I la hematèmesi.
+Ui, aquest hematèmesi, hòstia, també és difícil, eh?
+Sí, és difícil, però sona, no sé, a mi m'agrada.
+Si diem ènema, també podem dir aquest, només faltaria.
+I igual que diem la hematèmesi, podem dir hiperèmesi gravídica.
+La hiperèmesi gravídica també porta un accent obert a la E, a la segona E. Hiperèmesi gravídica.
+L'episodi pròxim en farem set o vuit més.
+Penso que és més difícil de recordar que no pas un terme totalment diferent del que fem habitualment.
+Això en lloc de dir-ne lavativa, millor dir-ne ènema.
+Això és més fàcil de recordar els accents i la pronúncia correcta de cada terme, a mi personalment em costa recordar-ho.
+Suposo que si ho anem recordant de tant en tant i ho veiem escrit.
+i ens hi fixem, dius, ostres, és veritat que porta accent obert l'hematèmesi.
+Mira, un d'aquests m'ha fet pensar que l'havíem posat quan fèiem les juguesques de l'Urgent Mot al grup de Telegram.
+Igual en podem fer alguna aprofitant aquí els accents aquests, que també tenien la seva gràcia. Molt bé.
+Doncs vinga va, anem a les recomanacions.
+La meva recomanació per aquest episodi, com que anava dels quinze anys del Codi IAM,
+uns dels investigadors que parlaven formen part d'un grup de recerca que es diu RegiCOR, que és el Registre Gironí del COR.
+Aquests els coneixo jo.
+Exacte. El Gironí és perquè van començar a Girona, però realment el seu àmbit d'actuació no és només a les terres de Girona, sinó a tot Catalunya.
+És la pàgina d'un grup de recerca, evidentment si la recerca no t'importa, doncs no és per tu.
+I per què el recomano? Doncs el recomano perquè totes les publicacions i un parell de tesis doctorals
+que s'han fet fent servir el registre del Codi IAM, les tenen aquí.
+Si vols llegir literatura científica de l'infart feta a casa, doncs la tens aquí.
+Evidentment no tots els estudis ens interessen a tots, però hi ha alguns dels estudis que és interessant aquí.
+Això que us comentava, per exemple, de Barcelona, doncs forma part de la tesi doctoral de la doctora Tizón, està aquí al Regicor
+Hi ha al voltant de 30 no sé quants estudis que han sortit d'aquest registre del Codi IAM.
+A més a més de recomanar-ho pel fet del contingut que té, també el recomano pel que implica
+Tenim unes dades que estan a disposició de tothom.
+Quan dic a disposició de tothom no vol dir que siguin obertes, vull dir que si vols fer algun estudi doncs els pots fer servir.
+En diverses ocasions han sortit convocatòries que ofertaven calés per poder fer aquestes investigacions.
+Penso que és un exemple també. Al nostre ofici tenim la nostra part assistencial, que és la que ens ocupa més temps,
+però també hi ha la part acadèmica de recerca, que també té la seva utilitat i és important.
+I si hi tens interès, doncs mira, en aquest cas ho han fet els cardiòlegs,
+potser altres especialitats o altres camps del coneixement mèdic també es podrien plantejar, no?
+Això mateix que han fet aquesta gent, és a dir, posar les dades a disposició dels investigadors
+i un cop ho has publicat, doncs en llocs on tenir-ho disponible.
+El lloc web es diu regicor.cat
+O sigui, nosaltres la utilitat que en podem tindre d'això és com a clínics normals,
+és accedir fàcilment a les publicacions que ells tenen recollides sobre aquest tema.
+Exacte. Sí, sí.
+Doncs mira, em va molt bé això que ens expliques,
+perquè la meva recomanació és molt útil per utilitzar la teva recomanació.
+Sembla que ho haguéssim fet expressament i tot.
+És un llibre de divulgació científica que es diu" Els tractaments a prova",
+que en anglès en diuen Testing Treatments i és un llibre clàssic de divulgació científica
+de com llegir i interpretar de forma crítica tota la bibliografia científica mèdica,
+que parla sobretot de com es fan els estudis científics, sobretot revisions sistemàtiques o assajos clínics
+en la qual els investigadors experimenten sobre nous tractaments o sobre tractaments
+que s'estan utilitzant per veure si funcionen o no funcionen,
+i aleshores aquest llibre et dona les bases perquè tu puguis llegir aquests articles que trobaràs
+a la pàgina web aquesta del Regicor perquè tu puguis valorar críticament
+si aquell estudi és vàlid o no és vàlid o si és rellevant el que t'estan explicant o no
+i que per tant tu puguis tindre la teva opinió sobre el que s'estigui experimentant
+si el cangrelor és útil o no és útil o si val la pena
+esperar-me a posar-li la doble antiagregació o no, etcètera, etcètera
+coses que potser queden així una miqueta ostres, no ho tens clar perquè un cardiòleg
+et diu una cosa i l'altre et diu una altra cosa que tu tinguis la teva opinió
+Aleshores aquest és un llibre que la primera edició és del 2006 i el 2011 vam fer la segona edició
+i està fet per 4 o 5 investigadors que són molt reconeguts a nivell científic, mèdic, a nivell internacional
+i és un llibre molt divulgatiu està pensat per gent que fa divulgació científica, per periodistes,
+per personal sanitari que no siguem investigadors o que no tinguem uns coneixements de metodologia científica
+molt avançats perquè ho puguis llegir tranquil·lament i també per investigadors que publiquen coses, 
+doncs, perquè les seves dades les publiquin de la forma més entenedora
+i amb totes les dades necessàries perquè el lector, al llegir aquell estudi ho pugui interpretar de forma correcta.
+És un llibre que quan va sortir el 2006 va tindre molta repercussió
+i ara amb la segona edició el centre de Cochrane iberomericà que està a Barcelona, ha fet la traducció al català.
+De fet, és un llibre que està traduït en molts idiomes diferents i que pots baixar el pdf directament i llegir-te'l,
+te'l pots llegir amb la pàgina web o inclús crec que te'l pots escoltar amb àudio en anglès.
+I el que t'expliquen és això ,com valorar quan estiguis intentant veure si aquell
+assaig clínic compleix els mínims indispensables o no.
+I això no necessites uns coneixements ni estadístic ni metodològics molt avançats.
+Són coses que són fàcils d'entendre i que permetrà que quan llegeixis un assaig clínic diguis:
+aquí no m'expliquen això, no m'expliquen això i això que m'expliquen, si ho haguéssim fet d'una altra manera,
+ l'estudi tindria menys risc de biaix per tant, poso una mica en dubte aquestes conclusions a les que arriben.
+i això és un llibre que està a l'abast de tothom,
+no cal ser un erudit en metodologia de la recerca i penso que pot ser molt útil.
+Doncs l'apuntarem, com totes les recomanacions les apuntarem a les notes de l'episodi
+i a l'apartat de recomanacions del lloc web
+Aquí la lectura crítica és una cosa important.
+Estaria bé fer-ne més ús i més pràctica, sí que es necessita una mica de pràctica i fer-ho de tant en tant.
+Primer llegim-nos aquestes cosetes i un dia farem una lectura crítica, no, Albert?
+Hem de fer una lectura crítica, Xavi, algun dia.
+Vinga va, tu, pleguem ja perquè aquí estem desvariant i no pot ser, portem molta estona.
+Esperem que aquest episodi sigui interessant per la majoria dels oients i ens veiem a l'episodi 35.
+Sí, ja s'acaba el tercer any aviat, eh? Vinga.
+Adéu siau a tothom. Adéu.
+Fins la propera, que vagi molt bé.
+I estava pensant que un dia hem de rajar...
+Digues, digues.
+És que ja m'estic encenent jo sol. 
+Què passa ara? 
+A França hi ha un pollo interessant muntat... Us en recordeu la hidroxicloroquina? Pel Covid?
+ Sí. 
+Doncs un dels culpables es diu Dídier Raoult.
+Està a la Bastilla?
+Doncs mira, hi hauria d'anar, segurament.
+És igual, és igual.
+Això ho tallaré, perquè, clar, jo solet m'encenc i no pot ser.
