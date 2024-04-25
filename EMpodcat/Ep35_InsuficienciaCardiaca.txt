@@ -1,0 +1,767 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMPodCat, el que fa 35.
+Estem a punt d'acabar el tercer any, la tercera temporada ja.
+Com sempre, els còmplices habituals, en Xavi Basurto, des de l'Empordà.
+Hola, Xavi, bon dia.
+Hola, bon dia, sí.
+Sóc en Xavi Basurto, que sóc metge d'urgències de l'Hospital de Figueres,
+i també estem a l'Avançada, a l'ambulància, al suport vital avançat 606 de Figueres.
+I a les xarxes ens podeu llegir alguna cosa que anem publicant de tant en tant
+en un blog, que és urgem.cat, i a Twitter també, urgem.cat.
+I Albert, va, presenta't tu per si algú encara no et coneix.
+Jo sóc l'Albert Homs, sóc infermer també d'urgències i emergències,
+treballo ara mateix a Cerdanya, a l'Hospital Transfronterer de Cerdanya i al SEM
+i també tinc un blog, que és emermedpirineus, nom senzill, emermedpirineus.cat,
+i també a Mastodon i a Twitter i aquestes coses.
+Recordar que no ens en recordem mai, que tenim un grup de Telegram,
+tots els oients que vulgueu podeu participar i ens expliquem coses,
+i enviem informació interessant, i podeu opinar i donar-nos idees i el que convingui.
+El grup es diu EMPodCat, ens busqueu allà i us podeu apuntar.
+Ara ja som gairebé 90, semblava que havíem de ser 3 i guaita ja, uns quants, eh?
+Home, vejam sí acabem aquesta temporada ja som un centenar, no? Ho veus possible o no?
+No ho sé. Ja saps que jo vaig mesurant coses, però per esport,
+i la veritat és que com que no em crec res, tinc les estadístiques posades al meu blog i tots són robots,
+aquí sí que de robots sé que segur que n'hi ha un que l'he posat jo.
+Els altres diria que són tot humans i amb alguns interactuem en persona de tant en tant, també.
+Però .. quan acabem la temporada? Això s'acaba al juny o al maig? O?...
+Aquest episodi sortirà a finals d'abril, doncs el següent a finals de maig és l'últim de la tercera temporada.
+És que vam començar molt estrany, podent començar per curs escolar o a principi d'any i vam decidir començar al juny.
+I per què no?
+Jo penso que anem a curs acadèmic dels que fan la formació especialitzada, no?
+De metges i infermers que fan els FIRS i els MIR i els LLIRS i tot això.
+Comencen ara al maig, més o menys. Anem al mateix ritme.
+Mira, no se m'havia acudit, però com a excusa està molt bé.
+Clar, home.
+Mira, com a excusa, si algú ens vol fer servir com a plataforma per ensenyar als seus residents,
+no seré jo qui digui que hi ha molts programes de residents que tenen el seu pòdcast.
+Molt bé, molt bé.
+Aquí ho deixo.
+Companys d'hospitals grans que teniu residents que els heu d'ensenyar,
+sapigueu que teniu aquesta eina que podeu fer servir, també.
+És un bon exercici de preparar el material, de fer una síntesi, d'explicar-ho. Això està molt bé.
+Nosaltres proporcionem la plataforma tècnica per fer-ho.
+I l'edició d'àudio i tal. Tu posa el tema, nosaltres fem la resta.
+Una proposta més que per discutir en el Telegram i posar-ho en pràctica. Molt bé, Albert.
+Va Xavi, vinga, prou parlar de tot. Va, explica'ns... què ens explicaràs avui. Vinga.
+Avui volia explicar una patologia, un problema de salut,
+que veiem molt freqüentment als serveis d'urgències, que és la insuficiència cardíaca.
+És un problema de salut, una malaltia molt freqüent.
+De fet, dels pacients que venen a urgències que s'ofeguen,
+aproximadament un 45% acabaran sent diagnosticats d'una insuficiència cardíaca.
+És la primera causa d'ingrés en pacients de més de 65 anys, la insuficiència cardíaca.
+Caram, això és bastant, eh?
+Sí, sí, és important.
+I a més a més, no només és molt freqüent, molt prevalent,
+sinó que també és una patologia que poder, a urgències, no és especialment greu,
+però sí que la mortalitat de la gent que hospitalitzes per una insuficiència cardíaca,
+un 4% moriran durant l'ingrés. Un 4%, no és cap tonteria.
+Alguna dada més, un 23% dels que els donen l'alta reingressen al cap de 30 dies de l'alta.
+I des del que té el primer diagnòstic d'insuficiència cardíaca,
+s'ingressen una vegada a l'any de mitjana.
+O sigui, el pacient que té una insuficiència cardíaca normalment ingressarà una vegada a l'any.
+I de fet, és un problema de salut important per tot el sistema sanitari,
+perquè s'ha previst, s'està estimat que vagi a més.
+I els ingressos per insuficiència cardíaca està estudiat
+que augmentaran un 50% en els pròxims 25 anys.
+Per tant, ara és un problema, però d'aquí 25 anys, com moltes altres coses,
+com per exemple les resistències bacterianes, els antibiòtics,
+tot això que també serà un problema de salut important,
+la insuficiència cardíaca també ho serà.
+Una altra dada de mortalitat és que, als 5 anys del diagnòstic,
+un 67% d'aquests pacients diagnosticats haurà mort.
+Déu-n'hi-do, eh? Estem parlant...
+Dues terceres parts al cap de 5 anys.
+Suposo que és que, com que ho veiem tan sovint, no et pares de pensar realment l'abast que té tot això.
+Sí. La insuficiència cardíaca pot abarcar bastant tipus de malalts molt diferents.
+No parlo ara del xoc cardiogènic o de l'edema agut de pulmó,
+que li hem de posar la no-invasiva i bombes,
+perquè aquests sí que se'ns moren a nosaltres a les primeres hores d'estar a urgències.
+D'això tenim un episodi que parlem de...
+Sí, de l'edema agut de pulmó així, llampec.
+Exactament.
+Aquests, evidentment, ja veiem que són greus i es moren un tant per cent important.
+No, jo volia parlar del típic pacient amb insuficiència cardíaca
+que potser ja ha vingut diverses vegades, potser ja el coneix molta gent del servei,
+i que ve perquè té un excés de líquids i hem de fer un tractament
+i ingressa perquè satura malament, s'ofega, no sé què...
+Li posem una mica de furosemida i, com que no està bé,
+està uns dies ingressat, se'n va cap a casa seva i tal.
+Són aquests els que dic que tenen un 4% de mortalitat,
+que al cap d'un mes ingressaran una quarta part...
+I tot això és el que parlem ara.
+Aleshores, aquests pacients venen per diferents motius.
+Normalment és el pacient que ve perquè s'ofega, que té dispnea.
+Són els que tenen una congestió, que tenen un augment de líquid extracel·lular,
+se li acumula en el sistema circulatori,
+i això fa que canviï les pressions a nivell de les cavitats cardíaques
+i s'acumuli líquid en l'espai intersticial, alveolar, dels pulmons,
+i s'ofega, se li inflen les cames, tenen ortopnea,
+tenen ingurgitació jugular, tenen reflux hepatojugular,
+tenen una placa de tòrax amb una redistribució cefàlica perquè acumula líquid,
+si li fas una eco té línies B,
+té una cava més distesa del normal, que no es col·lapsa...
+Tot això.
+Aquest tipus d'insuficiència cardíaca amb congestió, amb una retenció de líquid.
+Aleshores, el primer que ens interessa
+és intentar identificar aquest tipus de pacients.
+Tu, quan veus un pacient a urgències i que el motiu de consulta és l'ofec,
+li fas tota una anamnesi, una exploració física, unes proves complementàries,
+i a partir d'aquí tens una orientació diagnòstica,
+però no sempre és fàcil estar segur que aquell pacient té una insuficiència cardíaca descompensada,
+perquè no tota la informació que tu tinguis amb tot això que he dit,
+de l'anamnesi, l'exploració i les proves, són molt útils.
+De fet, són bastant menys útils del que ens podríem pensar.
+Aleshores, es tracta d'ara repassar una miqueta quins paràmetres
+i quines informacions del pacient ens poden ajudar
+i quines no ens ajuden a pensar que aquell pacient,
+un cop ja descartades les coses més habituals,
+ens ajudarà per orientar-nos a que allò és una insuficiència cardíaca i tractar-la com a tal.
+Quan vas a visitar un pacient, per saber què li passa,
+està bé preguntar-li quins antecedents té.
+Aleshores, jo et pregunto tu, Albert,
+amb aquest pacient que dius, hòstia, no serà que té una insuficiència cardíaca?
+Quins antecedents patològics creus que t'ajudaran més per diagnosticar aquest problema de salut?
+La pregunta que em ve evident és si té una insuficiència cardíaca.
+Bé.
+És molt probable que ho sàpiga ni de què estic parlant, però això és un altre tema.
+Clar, si li dius insuficiència cardíaca, potser no ho entendrà, però sí.
+De fet, de tot el que li podries preguntar, que si és hipertens, diabètic, dislipèmic, si ha tingut infarts...
+L'infart encara podria ajudar una miqueta,
+però de fet l'única cosa d'antecedents patològics que et pot ajudar en el diagnòstic
+és si té antecedents d'insuficiència cardíaca.
+Això és l'única cosa que t'interessa, com aquell qui diu, dels seus antecedents.
+Tota aquesta informació de l'anamnesi, l'exploració física, les proves complementàries,
+tot això són proves diagnòstiques
+i sabeu que totes tenen la seva sensibilitat, la seva especificitat.
+De vegades costa una miqueta d'entendre-les i entendre-les encara,
+però aplicar-les a la pràctica clínica és complicat.
+Hi ha una cosa que se'n diu les raons de versemblança,
+que en castellà és la razón de verosimilitud
+i en anglès és el likelihood ratio,
+que és una combinació, és una formuleta,
+és una divisió entre la sensibilitat i l'especificitat.
+I és un paràmetre, és un número,
+que ens ajuda molt a saber si aquella prova diagnòstica ens ajuda o no ens ajuda.
+I això és el likelihood ratio.
+Saber si té insuficiència cardíaca o no,
+si té antecedents d'insuficiència cardíaca,
+el likelihood ratio d'això és de 5,8.
+Si està entre 5 i 10 és una bona prova diagnòstica
+que ens ajuda a pensar, confirmar no,
+però ens augmenta la probabilitat que aquella persona tingui la patologia que estàs pensant.
+I al contrari, quan la prova és negativa.
+Quan la prova és negativa és un likelihood ratio negatiu
+i aquestes serveixen quan és per sota de 0,2.
+Quan és per sota de 0,2 és una bona prova per descartar una patologia.
+Continuem.
+Dels símptomes que pugui explicar-te el malalt,
+que si té ortopnea, que si té dispnea paroxística nocturna,
+si té edema, si té tos, si té expectoració, dispnea d'esforç,
+etcètera, etcètera, etcètera.
+Tot això està molt bé per descartar altres patologies,
+però no ens ajudarà a pensar que aquell pacient té una insuficiència cardíaca o excloure-la.
+Per tant, està molt bé, eh?
+Però si penses en insuficiència cardíaca no perdis molt de temps amb els símptomes del malalt.
+Què més?
+L'exploració física.
+Digue'm tu, a Albert, si tens 30 segons, què aniries a buscar?
+Li baixaria els mitjons i miraria si té fòvea.
+Li preguntaria si li han inflat els peus els últims dies o setmanes.
+Dies, segurament diria dies.
+He dit peus, eh? No peu, els dos.
+Sí, sí, peus, els dos.
+Doncs estàs perdent el temps perquè hi ha molts motius perquè un pacient tingui edema, fòvea a les cames,
+de forma bilateral.
+No és gens específic.
+Ni que les tingui ni que no les tingui.
+L'única cosa que ens pot ajudar és escoltar que tingui un tercer soroll cardíac,
+un ritme de galop.
+Això és l'única cosa de l'exploració física que et diu
+hòstia, no tindrà una insuficiència cardíaca?, doncs ves a escoltar el cor i ves a buscar a veure si té un tercer soroll cardíac,
+un ritme de galop.
+Això, els temps que corren, pot ser difícil.
+Sí, no et dic pas que no.
+Però si saps el que vas a buscar i ja el vas a buscar expressament
+perquè creus que tens una insuficiència cardíaca i no és clara,
+ves a buscar-ho i entretén-te 2 minuts a posar el fonendo i a escoltar atentament
+si sents aquest tercer soroll.
+Per fer més comprensible això del tercer soroll o el galop,
+us hem afegit aquí un parell d'àudios.
+Primer d'una auscultació cardíaca normal
+i després d'una auscultació cardíaca amb aquest soroll, un S3 o galop S3.
+Aquests àudios els hem tret d'una web de la Universitat de Michigan
+que trobareu referenciada a les notes de l'episodi.
+Molt interessant també. Va, tornem al pòdcast.
+Això quina raó de versemblança té per comparar-ho amb l'antecedent?
+Un 4. Justet perquè a partir de 5 ja és una prova moderadament...
+capaç d'augmentar la probabilitat que allò sigui la malaltia que estàs pensant
+És un 4 amb un interval de confiança que va entre tres i sis.
+Les altres no serveixen de res.
+En canvi, que tu vagis expressament a escoltar-lo i no sentis el tercer soroll, no t'ajuda.
+O sigui, que no tingui el tercer soroll cardíac no t'ajuda a disminuir la probabilitat que allò sigui una insuficiència cardíaca.
+Ja tenim fets uns antecedents, una anamnesi, una exploració física
+que tot això no ens ha ajudat especialment molt,
+i anem a una sèrie de proves complementàries.
+Podríem parlar, com aquell qui diu ja no és una prova complementària,
+fer una eco pulmonar i mirar si té línies B.
+Aquí, què et sembla Albert?, les línies B ens ajudaran o no ens ajudaran?
+Jo crec que línies B als dos camps pulmonars a diferents llocs,
+noi, tenim els pulmons plens d'aigua.
+Si és cardíac o no, això ja no ho sé.
+Doncs sí, correcte.
+Si veus més de tres línies B, en tres camps pulmonars de forma bilateral, o alguna cosa així.
+Això ens ajuda a estar una mica més convençuts que aquell pacient,
+l'ofec que té és per la insuficiència cardíaca.
+Això té una raó de versemblança de 7,5.
+Oh, Déu n'hi do.
+Sí, està molt bé.
+És clar que parlar d'eco en un pòdcast també és una miqueta trist, oi?
+Perquè amb àudio poc...
+Us referim a diferents recursos que trobareu.
+De fet, potser aprofitaré i en donarem un després quan fem les recomanacions,
+perquè sapiguem de què estem parlant quan parlem de línies B.
+Jo en sé un que parla molt d'electros per a un pòdcast i no es veuen.
+I així ens va.
+Exacte.
+Bé, si veus les línies B en els dos pulmons
+i penses que allò pot ser una insuficiència cardíaca,
+t'ajuda a estar una miqueta més segurs que ho és.
+Però, en canvi, si no les veus, no t'ajuda.
+No t'ajuda, no serveix de res.
+Només serveix l'eco pulmonar quan tu veus línies B.
+Si no les veus, és com si no li haguessis fet res.
+Altres proves complementàries. Quina vols?
+D'eco, serviria d'alguna cosa mirar la cava?
+Que jo hagi vist, no.
+D'acord.
+L'electro n'hem de fer un només per satisfer-me a mi, això segur.
+Però no crec que serveixi de gran cosa, oi?
+No, res, res.
+Gairebé no ho tinc ni apuntat.
+Llavors quedaria la placa de tòrax, m'imagino.
+La placa de tòrax s'assembla molt al tema de l'eco pulmonar.
+Si tu veus signes de congestió a la placa,
+és a dir, les línies B de Kerley,
+un edema intersticial o un edema alveolar, amb cefalització i tal,
+això té una raó de versemblança entre 5 i 6.
+Això està bé.
+Si no les té, si té una placa normal, tampoc m'ajuda.
+No és que digui, com que té la placa normal, no deu ser una insuficiència cardíaca.
+Això no ho pots dir-ho.
+Igual que no té línies B, tampoc t'ajuda
+Doncs que tingui una placa de tòrax normal, no pots dir...
+Penso que no és una insuficiència cardíaca.
+Pot tindre una insuficiència cardíaca amb una placa de tòrax perfectament normal.
+Què més? Què més li vols demanar?
+Jo no ho sé, però el ProBNP, el pèptid natriuretic no sé què,
+va com si el regalessin i val una pasta, tinc entès.
+Eh que sí? No és una tira reactiva d'allò que fem amb l'orina.
+Això val pasta, no?
+Mira, això, al revés de l'eco i de la placa de tòrax,
+només serveix quan és negativa i molt negativa.
+És a dir, si tens un NT ProBNP de menys de 125,
+això és el que diu la European Society of Cardiology en les guies del 2021.
+Si tens un ProBNP molt negatiu,
+molt probablement no és una insuficiència cardíaca.
+Però, al contrari, penso que podria ser una insuficiència cardíaca,
+li demano un ProBNP i surt un ProBNP de 30.000,
+no t'ajuda a confirmar que tinc un diagnòstic.
+No, se t'està passant alguna altra causa de dispnea
+que no l'has vist, i com que has vist un ProBNP de 30.000 ja t'has quedat tranquil.
+Això és trencador, eh?
+Sí, és que això ens passa molt sovint.
+És com el que havíem dit algun dia de la tira reactiva,
+que veus uns quants leucos o el sediment,
+un sediment positiu amb leucos, bacteris, no sé què,
+i et quedes tranquil que allò és una infecció d'orina i no, és una bacteriuria asimptomàtica.
+És trencador, eh? Això em fa pensar també en els dimer D.
+Un dimer D positiu no implica un TEP.
+Exacte, el ProBNP és molt similar al dimer D,
+que ja estem més acostumats, perquè ja portem molts anys demanant-los,
+però ens ajuda quan són negatius i, a més a més, tens una baixa probabilitat,
+té pocs números de ser una TVP o un TEP.
+Si li demano un dimer D i em surt negatiu, aquest problema ja no el tenim
+i, si és només per això, ja se'n pot anar cap a casa.
+Aquí seria el mateix.
+Si és molt negatiu el ProBNP, no és una insuficiència cardíaca.
+I si és positiu, no t'ajuda. Bàsicament, no t'ajuda.
+Què més ens falta?
+Ens falta una... Una important, eh, Albert?
+Ja tenim de proves complementàries.
+L'eco pulmonar, ProBNP,
+la placa de tòrax, m'has dit l'electro, l'analítica,
+i te'n falta una altra...
+Aviam... A, B, CT.
+Faltaria l'escàner, però aquí no li veig cap sentit.
+Però, clar, a urgències és això.
+A, B, tomografia, però aquí no li veig sentit.
+Ah, no. No, no, no, no.
+Aquí sí que no li veig sentit, llavors jo ara ja no se m'acut.
+No, seria fer-li un ecocàrdio.
+Hem fet una eco pulmonar, però estaria bé poder-li fer un ecocàrdio.
+Si te la poden fer, o tu la saps fer molt bé i estàs molt segur del que estàs fent,
+et pot ajudar en el diagnòstic, no per descartar-la,
+perquè pots mirar la funció diastòlica del ventricle esquerre
+per intentar trobar aquesta disfunció diastòlica.
+I per això has de fer un doppler d'ompliment mitral.
+I si veus un patró d'ompliment restrictiu,
+doncs això sí que t'ajuda a dir
+que aquesta dispnea és per una insuficiència cardíaca.
+Això sona complicat de nassos de fer amb una eco.
+Sí, has de saber posar el transductor, veure les dues ones de la vàlvula mitral, la E i l'A,
+i veure que la relació E-A és superior a 2.
+Això té una raó de versemblança de 8,5.
+És la més alta que en tenim fins ara, crec.
+Si. I l'altra és veure que això sí que potser és més fàcil,
+però també has de tindre experiència,
+és fer una estimació visual de quina és la fracció d'ejecció.
+És una miqueta menys útil,
+té una raó de versemblança de 4 i escaig,
+i això ens pot ajudar una miqueta.
+Però, sobretot, el patró d'ompliment restrictiu de la mitral
+és el que, si ho veus això,
+i el pacient té dispnea i no té cap altra causa de dispnea,
+doncs pots començar a posar la mà al foc
+i tractar-lo com si fos una insuficiència cardíaca.
+Resumint, per separat, res,
+ni els antecedents, ni els símptomes,
+ni els signes de l'exploració física,
+ni les proves complementàries,
+gairebé res, et serveix per si sol.
+Només et serveix per ajudar a dir això va cap a una insuficiència cardíaca,
+seria l'ecocardio i la eco pulmonar, en la qual vegis línies B.
+Coses que t'ajudaran a pensar que allò no és una insuficiència cardíaca
+i, per tant, hem de buscar altres coses, és el proBNP
+Això és el bàsic.
+L'ecocardio i l'ecopulmonar, amb les línies B, per diagnosticar la insuficiència cardíaca
+i el proBNP molt negatiu per descartar-lo.
+Antecedents d'insuficiència cardíaca, escoltar un tercer soroll cardíac
+i la presència de signes de congestió a la radiografia també ens ajuda.
+Veient tot això que expliques, em ve al cap, igual que ens passa amb el TEP,
+no hi ha cap score, cap eina d'aquestes...
+així com hi ha el WELLS i totes aquestes, que ja no recordo els noms que ens has anat explicant, pel TEP
+No en tenim, per això?
+No, jo no ho recordo.
+Em vaig repassar ara les guies del 21 de la Societat Europea de Cardiologia i de les de l'AHA
+i no recordo cap score ni cap forma per dir...
+Sumo quatre característiques i... És com això que em dius, eh?, no...
+Jo crec que no, Albert.
+Amb el que es fa servir això, si no ho han tret ara, és que deu ser molt difícil.
+Sí. Només recordar una vegada, que ja vam parlar una vegada, que és una pàgina web que es diu The NNT.
+Sí, correcte. Una recomanació teva de no sé quin episodi.
+Que és una pàgina web on tu li dius signes, símptomes, proves complementàries i tal,
+i ell et diu tot això que parlàvem de les raons de versemblança positives i negatives,
+et diu cada prova diagnòstica, que prova diagnòstica pot ser,
+que el pacient et digui si té dispnea o no té dispnea, si té edemes o no té edemes,
+tot això també té la seva sensibilitat i la seva especificitat.
+Doncs hi ha una pàgina web que es diu The NNT.
+Hi ha un apartat exclusivament que es diu Acute Hearth Failure Syndrome
+i allà et diuen tot això que hem dit ara.
+Et diuen allà els likelihood ratios, que té cada prova diagnòstica i tot això.
+Molta part d'aquesta és una revisió sistemàtica
+publicada a l'Academy Emergency Medicine del 2016.
+L'autor principal es diu Martindale.
+És un estudi molt complet i ben fet i penso que la informació que hem donat ara és bastant confiable.
+Ja tenim el pacient orientat, que no amb un diagnòstic definitiu,
+sinó que ja el tenim orientat, que té una insuficiència cardíaca descompensada
+i té una sobrecàrrega de volum,
+està congestiu, no estem parlant del pacient amb un xoc cardiogènic
+o amb un edema de pulmó que necessita...
+Potser també necessita el mateix que parlarem ara, però estem en un altre nivell de fallada cardíaca.
+Aleshores, aquest pacient que està congestionat, quines recomanacions ens donen
+perquè això ha canviat una miqueta respecte al que fem habitualment.
+I és el que volia recordar ara o fer una mica d'èmfasi
+amb tot el tractament de la insuficiència cardíaca,
+que hi ha molta eina terapèutica ara, sobretot quan ja el pacient està més estable,
+que fan servir medicaments que a mi em costen de pronunciar i sobretot de retenir.
+Però a nivell d'urgències, bàsicament el que necessitem és eliminar l'excés de líquid que té,
+que el pacient estigui euvolèmic.
+I això sí que ens recomanen tant l'Europea de Cardiologia com l'Americana,
+és el tractament depletiu amb diürètics de nansa, és a dir, furosemida.
+I comencem quan abans millor.
+Diuen que en una hora ja hauríem d'estar tractant el pacient
+En la primera hora d'ingrés a urgències hauríem d'estar posant la primera furosemida.
+I quanta n'hi posarem?
+Pot ser dues coses. En funció de cada cocinillas, això és una opció.
+I l'altra opció és la que ens recomanen les societats de cardiologia.
+Que també us haig de dir, i ells també ho diuen, que per més que sembli que
+hi hagi 2.000 estudis i hi hagi molta literatura, molta investigació sobre el tema,
+sobre el tema depletiuamb diürètics,
+tampoc és que hi hagi un nivell d'evidència que ens quedem molt tranquils.
+Moltes coses de les que ara us explicaré són molt de consens d'experts.
+És a dir, no hi ha gaire literatura, no hi ha assajos clínics molt extensos,
+per tant, posem-nos d'acord entre nosaltres que som els que en teoria en sabem més del món sobre aquest tema
+i decidim alguna cosa perquè tothom faci una miqueta el mateix.
+Aleshores, si un pacient consideres tu que està congestiu
+i li has de treure líquid perquè és una insuficiència cardíaca,
+doncs dependrà si és un pacient que no pren diürètics prèviament,
+a aquest com a mínim li has de posar 20-40 mg d'endovenós de furosemida, com a mínim.
+L'altra cosa és que si ja els prenia, el que li has de fer és posar-li una vegada o dues vegades
+la seva dosi diària de furosemida.
+Quan parles de dosi diària, estem parlant...
+dosi total, és a dir, la furosemida oral els comprimits són 40 i els vials endovenosos són 20,
+per tant, si hem de fer 40 hem de fer dues ampolles? Ho estic entenent bé, això?
+O hi ha alguna mena d'equivalència d'endovenós a oral
+Sí, amb la furosemida la biodisponibilitat és del 50%.
+Per tant, si a un pacient tu li preguntes totes les pastilles de furosemida que es pren el dia
+i si amb això suma 80 mg, l'equivalència d'endovenós són 40.
+Per tant, d'aquests 40, tu li has de posar una vegada o dues vegades aquesta dosi que ell prenia oral.
+Per tant, si en prenia 80, jo li haig de posar com a mínim 40 o 80,
+perquè li haig de posar una o dues vegades la seva dosi diària que pren ell oralment a casa seva.
+M'explico?
+Si ell pren 3 pastilles de furosemida 40 mg al dia a casa, això són 120 mg.
+Per tant, aquests 120 són 60 endovenosos. Per tant, li haig de posar entre 60 i 120.
+Doncs si ja tenim la primera dosi posada de furosemida,
+què hem de fer ara? Esperar una miqueta que faci el seu efecte.
+I com ho fem això? Mires com satura el malalt, mires si ja comença a fer pipí,
+pots repetir-li l'eco pulmonar, això estaria molt bé,
+però no tenim uns criteris molt definits, molt estàndards i que tothom pugui fer els serveis mateixos.
+Aleshores, ara ens han dit, a les dues hores, hem de mirar com està el sodi en orina
+Hem de mirar la natriuresi.
+Fer una recollida puntual d'orina i mirar el sodi.
+Si aquest sodi està per sobre de 50-70  mil·liequivalents per litre, doncs anem bé.
+Vol dir que la furosemida ha fet el seu efecte i impedeix que el sodi es reabsorbeixi,
+i per tant elimina sodi per l'orina, arrossega líquid i, per tant, l'efecte depletiu és correcte.
+Tindre un sodi urinari com a mínim per sobre de 50.
+Això a les dues hores, eh?
+A les dues hores, sí.
+Si a la mitja hora no han començat a orinar, mosca darrere l'orella, eh?
+Si no demanen cunyes i palanganes i anar al vàter,
+a la mitja hora es fa estrany, eh? Després de la furo...
+Sí, perquè l'efecte ha de ser ràpid. Mitja hora o una hora ja és l'efecte màxim de la furosemida.
+L'altra opció que tenim, o que es poden fer les dues, és mirar la diüresi.
+Hem mirat la natriuresi i també mirar la diüresi.
+Et diuen que al cap de sis hores ha de ser de 100 ml hora, com a mínim. 100-150.
+Això, comptat a partir de les sis hores de la... 
+El pacient ha de fer pipí, posar-li la furosemida i amb la bufeta buida començar a comptar.
+I com a mínim, a les sis hores, has d'haver comptat 600 ml.
+Tu has de començar amb la bufeta buida.
+Faci pipí, ja li puc posar la primera furosemida, o abans que li faci efecte la primera furosemida,
+bufeta buida, i a partir d'aquí, mirar si a les sis hores ha fet 600, anem bé.
+Tot i que ja tindràs una primera idea important, 
+que si a les dues hores li reculls una orina
+i l'analitzes, mires el sodi, va, si és per sobre de 50,
+doncs aquí ja sabrem si va bé o no va bé.
+Si no va bé, què hem de fer? Doncs doblar la dosi inicial que hem posat de furosemida.
+Si li hem posat 40, li toquen 80. 
+Per tant, a les 3 hores, 4 hores, quan tinguis el resultat del sodi en orina o que a les sis hores no hagi arribat a 600 ml,
+li toca doblar la dosi
+D'acord.
+Perquè l'efecte dels diürètics té uns límits inferiors i superiors.
+És a dir, hi ha gent que necessita, a partir d'una dosi, que potser 20 no li fa res,
+40 no li fa res, i a partir de 60 fa tota la diüresi de cop.
+I també hi ha un sostre. Per més que li augmentis aquesta furosemida, no farà més diüresi.
+Hi ha un petit marge i cada persona és una miqueta diferent,
+per això et recomanen que si amb 40, amb 60 no n'ha tingut suficient,
+ doncs li has de doblar la dosi. 
+I així cada 6 hores. És a dir, ja li has doblat la dosi i a les 6
+tornes a mirar com està de sodi en orina, com està de diüresi, com a mínim 100 ml l'hora.
+Si això no ho ha fet, tornes a doblar la dosi.
+La dosi màxima que te diuen ells al dia
+són 400-600 mil·lígrams de furosemida al dia.
+No hi arribem mai ni de casualitat.
+És molt, molt, molt, molt.
+Sí. Ells te diuen que són dosis que, almenys en els estudis que han fet per veure la dosi ideal,
+fins que no arriben a 400-600 mil·ligrams al dia, no paren.
+I no et diuen que tenen complicacions.
+Tot i que diuen que la majoria de pacients, quan dobles la dosi inicial,
+després ja obtens una diüresi normal, bé
+Les guies aquestes les fan cardiòlegs, oi? Els nefròlegs no hi són, en aquestes guies, oi?
+Ostres, hauria de mirar-ho, no ho sé. Una bona guia hauria d'estar feta per tothom qui posa la mà sobre els pacients.
+Ho dic perquè hi ha històricament aquesta mena de guerra entre cardiòlegs i nefròlegs.
+Els uns que volen treure la furo i els altres que només volen fer que posar-la.
+Hi ha acudits i comediants d'internet que ho fan servir. En fi, res, igual. Perdona, perdona.
+Doncs no ho sé.
+Què més? Si tu després de la primera dosi de furosemida, 
+i a les dues hores tens una bona natriuresi o una bona diüresi, doncs què fas després?
+Ha anat bé aquesta dosi? Doncs la vaig repetint cada 12 hores.
+No cal més ni cal menys. Només que la facis cada 12 hores, aquesta dosi que m'ha anat bé, la continuo.
+Fins a la completa descongestió del pacient.
+I és important, sobretot el pacient que ingressa i el donem d'alta, completament descongestionat.
+Tu et mires tots els criteris que un pacient estigui congestionat,
+que és el que hem dit abans. Ortopnea, la ingurgitació jugular, el reflux hepatojugular,
+l'edema a les cames, la placa de tòrax, l'eco pulmonar...
+Quan tot això ja estigui bé, li puc donar l'alta.
+Si això no va bé, si jo li estic doblant la dosi de furosemida i no anem bé,
+et diuen que a les 24 hores revalorar
+Si en aquestes 24 hores persisteix el pacient congestiu i ha fet menys de 3 litres en 24 hores,
+et recomanen que hi afegeixis un altre diürètic tiazídic,
+per exemple la hidroclorotiazida.
+I ja comencem a afegir dos diürètics per descongestionar el pacient.
+Si el pacient ha fet més de 3 litres i ja no està congestionat, ja valora si li pots donar l'alta o l'ingresses o el que sigui.
+Pobres pacients, només foten que pixar tota la nit, pobrets. 
+Tampoc poden dormir perquè s'ofeguen. Mira, és canviar el lloc on et bellugues, del llit a la tassa al vàter.
+Sí, no sé què és millor, però bueno.
+D'això només volia recordar les precaucions que has de tindre amb els diürètics de nansa.
+La hipopotasèmia.
+Has d'anar amb compte i fer un control a mesura que van passant les hores i li vas posant dosis de furosemida,
+ves fent un control de funció renal i d'ions per no tindre un disgust
+perquè a part de la hipopotasèmia pot alterar una miqueta la funció renal
+i pot donar hipotensió. Sobretot, anar amb compte.
+Et recomanen que vagis amb precaució a partir de sistòliques de menys de 90.
+A menys de 90, consideris un parell de vegades abans de començar-li a posar furosemida,
+I després, les interaccions amb IECAs,
+quan comencis a combinar diürètics de nansa amb diürètics tiazídics,
+vigila, perquè aquests pacients sí que poden fer hipovolèmies, hipotensió, hipopotassèmia, insuficiència renal.
+Són sobretot aquests que ja has posat dosis cada vegada més altes de furosemida i, 
+a més a més, després ja li afegeixes una hidroclorotiazida.
+I també la combinació de diürètics i antiinflamatoris pot atenuar una miqueta l'efecte diürètic,
+que no faci efecte la furosemida.
+Per tant, vigilar una miqueta el tema del potassi, funció renal i de la hipotensió.
+I això és tot, Albert.
+Molt bé. Escolta'm, un gran recull de la insuficiència cardíaca.
+Aquesta malaltia la conec per qüestions familiars. Tenia pacients a casa que ho patien.
+I el tema aquest del pes és una cosa que la fèiem servir però no hem sabut mai si funcionava o no,
+que era el pes diari, com a detecció precoç que estaves acumulant líquid i, per tant, poder ajustar el diürètic que correspongui.
+No ho sé. Jo els peso tots els pacients.
+Normalment, quan el portalliteres, se'ls emporta cap a dalt a planta, els passem per la bàscula i apuntem el pes. I queda fet.
+No sé si és útil o no, però no sé si diu alguna cosa la guia aquesta.
+Sí, que en parla. Crec haver llegit que no era especialment útil,
+que també pots tindre un problema de sobrecàrrega de volum,
+però també normalment hi ha un problema de distribució d'aquest volum.
+Pots tindre el volum a les cames i tampoc és un problema.
+Pots tindre poc volum als pulmons i sí que és un problema.
+I el pacient pesa el mateix. El que passa és que té el volum distribuït malament
+i, per tant, si té el volum als pulmons li has de treure.
+És un problema també de distribució d'aquest volum, no només del volum total.
+Total, sinó d'on està. D'acord.
+Exacte.
+Doncs, escolta'm, després d'aquest repàs tan interessant a la insuficiència cardíaca congestiva, què?
+Canviem de secció?
+Menys és més. Allò que serveix per millorar l'adequació del que fem als pacients, eh?
+Que no els fem coses innecessàries. Tens alguna cosa preparada, Albert?
+Tinc una cosa. El que passa és que normalment al menys és més sempre parlem amb negatiu, i deixar de fer coses, oi?
+Però jo tinc un menys és més que segurament no serà fer menys coses, sinó fer-les en un lloc diferent.
+En un lloc? 
+Sí.
+Això és una cosa que a les infermeres ens passa sovint, que quan tractem gent que està mastectomitzada,
+especialment quan els han fet el buidament ganglionar de l'axil·la del costat que està mastectomitzat,
+els diuen que en aquell braç no s'hi pot fer res, ni prendre'ls-hi la pressió, ni punxar-los,
+aquest braç intocable
+De fet, els hi posem també un braçal en el canell per identificar...
+al meu hospital els hi posem un braçalet i diu...
+Sí, sí. En el seu moment era una cosa gairebé paranoide, no? Dius, hòstia, què passa? Tan bèstia és?
+A mi em sonava d'haver llegit que no era tan bèstia, i buscant, buscant, 
+he trobat una recomanació de Osasunbidea,
+l'informe Seguridad de la Realización de Procedimientos Médicos
+en la Extremidad Superior Ipsilateral de Pacientes con Mastectomía.
+Això és un MAPAC, aquella iniciativa de la millora de l'adequació de la pràctica assistencial i clínica
+A les notes de l'episodi posarem aquest informe. 
+Que aquest informe es basa en una pila d'estudis a diferents nivells d'evidència.
+Però, bé, els que ens interessa estem amb urgències, no? Els que ens interessen anar de cara al gra.
+Conclusions a les que arriben, a veure.
+La primera és... Això realment és cert?
+És a dir, el fet de fer coses en el braç de la mastectomia pot provocar dany?
+Doncs sembla que no.
+D'on ve això, aquest pensament?
+Això ve del limfedema, és a dir, que quan se'ns infla el braç, a l'haver eliminat els ganglis,
+es trenca tot el trajecte limfàtic i, per tant, aquest líquid extracel·lular no es pot recollir.
+No es drena. 
+No es drena, exactament. Llavors, clar, si aquest braç s'infla, doncs quedarà inflat per sempre.
+I això és una cosa que feia molta por.
+Doncs sembla que el fet de prendre, sobretot la pressió, i de punxar aquest braç,
+si no té limfedema, no sembla que l'hagi de generar. 
+Per tant, aquesta por que se'ls deia, compte, no us deixeu fer coses en aquest braç perquè podria ser que féssiu el limfedema i després caca, 
+doncs em sembla que això no és cert.
+I en base a això ens fan unes recomanacions
+De fet, el primer paràgraf m'agrada
+Diu: en funció de l'última evidència disponible, no se sosté la recomanació taxativa de no realitzar cap tipus de procediment en el braç sotmès a la mastectomia.
+I ens proposen un enfocament que bàsicament és primer tenir en compte l'opinió del pacient,
+si el pacient no vol que li toquis el braç, no discuteixis, no li toquis i ja està.
+ Si té feta una mastectomia unilateral, comença fent les coses a l'altre braç.
+Fins aquí res estrany és el que fem.
+Però aquí el que és interessant és que si no pots fer-ho allà pel que sigui, pots fer servir l'altre.
+Si s'ha trencat el braç que no té la mastectomia, hauràs de fer-li tot a l'altre. Doncs li fas a l'altre.
+I si necessita vies als dos braços, no passa res, no?
+No passa res. És a dir, en absència de limfedema, la punció del braç
+de la mastectomia comporta poc o cap risc de complicacions addicionals.
+I, evidentment, hem de tranquil·litzar els pacients. 
+Ens afegeixen una cosa que és d'aquestes d'evidència extrema, que és gairebé ridícul dir-ho,
+que és que s'ha de tenir especial precaució amb l'asèpsia i la realització curosa dels procediments per evitar risc d'infeccions.
+Que és el que hauríem de fer sempre amb tots els pacients, no només amb aquests, oi? 
+Aquest és el meu menys és més, que en aquest cas potser hauria de ser més que menys, oi? 
+És a dir, el braç de la mastectomia es pot fer servir si no té limfedema, el pots fer servir.
+Millor fer servir l'altre, però si no pots, el pots fer servir.
+Per al tema de la pressió també, eh? Això inclou mirar la pressió i tot això, sí, eh?
+ Tal qual. Parla de procediments en genèric, pensem específicament en la punció, però si pots puncionar, evidentment has de poder prendre una pressió.
+Si no té limfedema, compte amb això, que no ens confonguéssim aquí, eh?
+Com que parlem sempre de menys és més, aquí pensava dir que aquí hauríem de dir més alguna cosa, no ho sé,
+perquè és potser la primera vegada que fem un menys és més que diem de fer més, això també... 
+Jo ho deixaria així, ja està, fem un menys és més,
+però que en aquest cas és peculiar i diferent dels altres, molt bé, m'ha agradat.
+Doncs va, vinga, anem a les recomanacions.
+Què ens pots recomanar, Xavi?
+No és res de medicina, crec que ja ho he fet alguna vegada, recomanar alguna cosa que no tenia res a veure amb la medicina,
+però com que tenim un apartat que es diu l'UrgentMot, és una recomanació que té molta relació amb això.
+I és un llibre. És un llibre que es diu en nom de PunKpeu fabra.
+O, o! A casa el tenim, molt bo, molt bo.
+El teniu? És de la Filòloga de Guàrdia.
+La Filòloga de Guàrdia és l'Aina Roca, que és una filòloga
+i que, bé, li molava molt temes de divulgació lingüística,
+aquest tema li agradava molt, i té milers de seguidors a les xarxes socials.
+Aquest llibre parla del tema de l'ús del català.
+I només us volia llegir dues coses.
+És un llibre que es llegeix superfàcil. Sembla escrit per nens de... No sé, que vagin a l'ESO.
+Amb dues tardes te'l llegeixes tranquil·lament, eh? No és res complicat.
+Està pensat per ser venut al Dia Sant Jordi.
+Exacte, sí. Us llegiré els manaments del català correcte.
+Són tres manaments.
+Un diu parlaré el català genuí, el segon parlaré un català adequat
+i el tercer és no renunciaré a la meva varietat dialectal.
+Concreto, el parlaré un català genuí es refereix a que no faré servir barbarismes.
+El principal barbarisme que tenim nosaltres amb el català són els castellanismes.
+Per tant, no faig servir barbarismes, no faig servir castellanismes.
+El català adequat, ella parla del català adequat, 
+vol dir el català adequat en l'entorn que tu estiguis parlant. 
+És a dir, si tu estàs fent un informe oficial sí que has de fer servir un català normatiu, 
+és a dir, el que apareix en el diccionari, com se diu, el IEC?
+Diccionari de la Llengua Catalana de l'Institut d'Estudis Catalans.
+Exacte, si és una cosa seriosa, has de fer servir un català normatiu.
+Ha de sortir en els diccionaris, totes les paraules que facis servir.
+Però és igualment de correcte fer servir un català col·loquial.
+És a dir, tu pots fer servir paraules que no surten en el IEC, però són correctes,
+és un llenguatge col·loquial, no sortiran en el IEC perquè no és normatiu però és correcte.
+I el llenguatge col·loquial en català és ric del cagar.
+Exacte. Té quantitat de paraules i varietats i cada regió és diferent, cada entorn és diferent.
+I xitxarel·los de nosaltres que no el fem servir. 
+Exacte. Fer servir un català adequat. No cal que sigui sempre normatiu.
+I que no renunciïs a la teva varietat dialectal.
+Ens explica que no hi ha un dialecte millor que un altre, que una llengua està formada per tots els seus dialectes.
+Cadascú parla un dialecte diferent, depèn on visquis, on t'hagis criat i el que sentis, i tots són igual de bons.
+Per tant, fer servir el teu, fes-lo servir.
+Haig de dir que aquest llibre està molt bé, 
+però peca d'aquest catalanocentrisme que tenim els parlants del català estàndard,
+que som els que, sense voler-ho avergonyim els que tenen parlars dialectals diversos.
+Per exemple, el fet de no parlar en castellanismes, els pocs catalanoparlants que queden a Catalunya Nord, 
+el seu problema no són els barbarismes en castellà, precisament.
+Ho dic perquè això, els catalanocentristes, jo sóc un d'ells, doncs tinguem-ho present sempre, 
+perquè a la meva comarca parlem de catalans i francesos i no és cert.
+Catalans som els dels dos costats. Els uns tenen una carté d'identité i els altres tenim un que pone en tu  DNI, però...
+Ho havia de dir, perquè a mi ja m'han repassat de tant en tant, per tant jo...
+Ok, molt bé, Albert.
+Molt bé. Escolta, una recomanació molt poc mèdica i bastant d'UrgemMot, 
+de fet, en certa manera, per això hem girat, perquè normalment van als UrgemMots abans que les recomanacions, avui hem fet el revés per poder fer la cagarela aquesta.
+Doncs mira, la meva recomanació l'he canviada sobre la marxa, en tenia una prevista, però com que hem parlat de l'ecografia,
+ mentre el Xavi ens explicava aquestes coses de la insuficiència cardíaca, l'he canviada.
+És un lloc web que es diu coreultrasound.com
+neix de la fusió de diferents llocs previs, un que era el Five Minutes Sono de la Jaylen Avila.
+Són videopòdcasts i, a més a més de videopòdcasts, lliçons.
+Pots accedir a cursos que, a més a més, et poden donar això, els CME, els crèdits.
+Això, aquí nosaltres no ho toquem gaire, però als Estats Units és bastant comú, que tu has de fer la teva formació contínua obligatòria i t'ho mesuren d'aquesta manera.
+I té molts vídeos. Realment, si t'interessa l'ecografia, és un d'aquests llocs webs que has de visitar.
+Els vídeos aquests dels cinc minuts són molt ràpids, molt interessants, molt ben produïts.
+Si toques l'eco, aquest lloc l'has d'haver vist i, quan tinguis dubtes, de fet, gairebé m'atreviria a dir que és un lloc de capçalera.
+Això que deies, la disfunció diastòlica mitral, una cosa així...
+ Patró d'ompliment restrictiu, sí.
+També hi és, també hi és. Busca-ho, perquè també hi és.
+I això ho tinc a YouTube o on està això? Quines xarxes socials ho trobo, això? Té una pàgina web?
+Sí, el seu lloc és coreultrasound.com, però, evidentment, tenen YouTube, tenen Twitter, tenen Instagram,
+però jo ho segueixo amb la meva aplicació de pòdcasting.
+Ara, mentre editava, m'he adonat que aquesta recomanació ja l'havia feta.
+Un  moment o altra havia de passar després de 70 recomanacions.
+Passo a presentar-vos la recomanació que sí que tenia inicialment per a aquest episodi.
+Mireu, es tracta d'un pòdcast que es diu The Resus Room,
+theresusroom.co.uk
+És un pòdcast de dos, tres professionals anglòfons de la Gran Bretanya.
+En Simon Laing, que és un metge, en Rob Fenwick,
+que és una d'aquestes infermeres de pràctica avançada, i en James Yates, que és un paramèdic.
+És un pòdcast que cada mes treuen una revisió d'articles científics
+i ara també tenen un pòdcast temàtic per diferents temes.
+Abarca tot el període d'urgències de l'assistència, des de la prehospitalària fins que acaba al servei d'urgències o ingressa.
+Molt interessant, molt agradable a sentir, s'ho passa molt bé fent-lo i s'aprèn molt.
+Us el recomano. theresusroom.co.uk
+Doncs, escolta'm, recomanacions ja ho tenim. 
+Ara és quan acabaríem habitualment, però avui no. Avui parlarem dels UrgemMots
+Acabem amb els UrgemMots, vols dir?
+Acabem amb els UrgemMots avui, sí.
+I deixam començar un momentet en a mi, perquè jo normalment aporto poca cosa en aquesta secció, molts dubtes, oi?
+Vaig portar dubtes fa dos episodis, en vaig portar a l'episodi anterior,
+però gràcies a la gent del Termcat doncs ja n'hem resolt un. 
+Ah, sí? Bé, digue'm.
+Recordeu que us parlava del drenatge en decliu, que la paraula decliu no existia, oi?
+Sí.
+Vaig preguntar i els del Termcat m'han dit que es diu en declivi. 
+No m'agrada gens, però bé, és el que toca, no?
+El declivi és la inclinació d'un terreny d'una superfície en relació amb un pla horitzontal, 
+per tant, ells diuen que el drenatge en declivi no m'agrada, però el farem servir, escolta'm, és la vida.
+Hi ha moltes coses que no m'agraden i bé, toca, no? Doncs aquesta és una.
+Sí, quan posem una sonda la posem en declivi.
+En declivi, exactament.
+L'altre dubte que tinc pendent, el d'angoixa i ansietat, 
+algun oient ens ha contestat i ha donat unes explicacions molt ben raonades. 
+No tinc resposta encara dels Optimots i Termcats i aquesta gent.
+O sigui, que el proper episodi a veure si podem resoldre aquest dubte, també.
+Estarem pendents. Molt bé, Albert.
+I tu, Xavi, què tens d'UrgemMots per a aquest episodi?
+Mira, jo he fet un recull random de termes... És un recull random, no respon a cap... 
+Random... Escolta'm, haurem de canviar el Punkpeu Fabra i en comptes de castellanismes dir-ne anglicismes. And you know it.
+Un recull aleatoritzat de termes que tenim al diccionari d'UrgemMot
+que són coses que sí o sí hauríem de canviar i actualitzar i fer servir.
+Una és la taula de transferència. En lloc de dir-ne el transfer, 
+és una cosa que fem servir cada dia, cada dia, cada dia, i no costa res dir-ne la taula de transferència per passar als pacients
+I si no la fem servir, l'hauríem de fer servir, que la nostra esquena ho necessita.
+Exacte. Això, la taula de transferència.
+L'altra és els pacients que venen perquè s'han  torçat el peu i normalment, posem que ha tingut un entorsi.
+Recordar que l'entorsi no existeix, és una torçada.
+I a partir d'aquí s'ha fet un esquinç amb Q, no ésguinç amb G, sinó que és un esquinç amb Q.
+Però el mecanisme és una torçada de turmell, no és una entorsi de turmell, és una torçada.
+Aquest, mare de Déu, l'estic cagant cada dia. Cada dia de guàrdia l'estic cagant. Vinga. Apuntat. 
+Per això hauria de fer els que sí o sí, hauríem de canviar ja, eh?
+La torçada en lloc d'entorsi. La tira reactiva,
+que avui en aquest episodi, també ho he dit diverses vegades malament, no és una tira d'orina, és una tira reactiva.
+Tira reactiva, i punt. No s'ha de dir una altra cosa.
+L'altre és el tema de sèrums i seroterapia.
+A mi aquesta també em costa recordar, però és que, clar, és una cosa que tenim allà constantment i cada pacient
+porta un sèrum fisiològic, un sèrum glucosat. No és un suero, és un sèrum.
+Una altra opció seria deixar de posar-ne tants de sèrums, llavors no faríem tantes seroteràpies.
+Això queda per algun altre Menys és Més d'algun dia, que em sembla que també en parlarem d'aquest.
+ És veritat, sí. És veritat. Aleshores, el pacient que li posem aquest tractament està amb seroteràpia.
+No em preguntis per què, però li posem un sèrum i no li posem sèrumterapia. 
+Això no entenc per què, però el TermCat ens diu que els pacients
+que porten sèrums estan amb seroteràpia.
+És així. Sèrums i seroteràpia.
+El pas de guàrdia. No és un passe de guàrdia ni no sé quines altres coses.
+No és un passe, és un pas de guàrdia.
+I el marcapassos.
+Ara ja no em costa, però he hagut de pensar sovint que pacients no porten un marcapas, sino que porten un marcapassos.
+I la llista de comprovació. Això ja sé que potser queda més guai i és més ràpid de dir check-list, 
+però és com el transfer. Fem servir una llista de comprovació. 
+Tampoc és tan complicat. El terme més adequat o més afavorit pel TermCat és llista de comprovació.
+També en podríem dir llista d'avaluació, però ja com a sinònim. 
+Però no check-list, ni llista de verificació, ni llistat de verificació.
+I aquests són els que volia recordar perquè són coses de cada dia. 
+Segurament totes ja les havíem comentat en algun dels 35 episodis previs,
+però penso que són coses que has d'anar repetint i sentir-ho sis vegades
+i a la que fa deu ja et sonarà molt estrany que algú digui marcapas
+si el que has de dir és un marcapassos. És qüestió de repetir-ho. I ja està, Albert.
+Jo m'apunto ja les que faig malament i me les apunto per anar-les millorant.
+Molt bé, Albert.
+Com a en Pau Casals, que li preguntaven als 70 anys per què assajava i li vaig dir perquè crec que encara ho puc fer millor. Doncs igual.
+Doncs ens sembla que ja ho tenim tot, no, Albert?
+Sí, jo penso que sí. Com sempre, els nostres oients, expliqueu-nos si us ha agradat, no us ha agradat. 
+Estem sempre receptius a totes les crítiques que puguem tenir.
+Sí, ens ho podeu fer pel Twitter, pel...
+Pel Instagram també, al Telegram, que us podeu apuntar.
+I encoratjar-vos a això que vam començar en aquest àudio vídeo anterior dels EMPodCas,
+que no tenim nom, si se us n'acut  algun també l'escoltarem,
+doncs aquesta presentació de casos clínics, com una eina educativa més que creiem que pot ser interessant.
+Hem rebut força feedback positiu,
+perdó, força retroalimentació positiva, en nom de Pompeu Fabra.
+I ja està. Si en teniu algun que creieu que pot ser interessant compartir, parlem-ne, que segur que podem fer alguna cosa xula.
+Molt bé, doncs va, sí, segur que sí, Albert
+Ens veiem a la propera, al proper episodi, que ja serà l'últim de la temporada, no, Albert?
+Sí, senyor.
+Vinga
+Vinga, a reveure.
+Adéu, fins ara
+I només m'agradaria acabar amb el Fabra Nostre.
+No sé si te'l vas llegir, el Fabra Nostre?
+Això sí, si després  vols, ho talles, Albert, i no ho poses en el pòdcast.
+Diu, Fabra Nostre, que esteu en el cel, sigui santificat el vostre diccionari,
+vingui amb nosaltres la vostra normativa,
+facis Pompeu la vostra voluntat, així en el poble com es fa a l'IEC.
+El nostre català de cada dia, corregiu-nos, senyor, el dia d'avui.
+I perdoneu els nostres barbarismes, així com nosaltres perdonem els nostres repel·lents.
+I no permeteu que parlem castellà als estrangers.
+Ens deslliureu-nos de qualsevol interferència.
+Amén. Això és el... en nom de Punkpeu Fabra.

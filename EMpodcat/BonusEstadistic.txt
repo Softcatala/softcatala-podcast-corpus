@@ -1,0 +1,24 @@
+# Exported by Aegisub 3.2.2
+L'anamnesi, l'exposició física, les proves complementàries.
+Tot això són proves diagnòstiques
+i sabeu que totes tenen la seva sensibilitat, la seva especificitat.
+De vegades costa una miqueta d'entendre-les
+i entendre-les encara,
+però aplicar-les a la pràctica clínica és complicat.
+Hi ha una cosa que se'n diu les raons de versemblança,
+que en castellà és la razón de verosimilitud
+i en anglès és el likelihood ratio,
+que és una combinació, és una formuleta,
+és una divisió entre la sensibilitat i l'especificitat.
+I és un paràmetre, és un número,
+que ens ajuda molt a saber si aquella prova diagnòstica
+ens ajuda o no ens ajuda.
+I això és el likelihood ratio.
+Si està entre 5 i 10, és una bona prova diagnòstica
+que ens ajuda a pensar, confirmar no,
+però ens augmenta la probabilitat
+que aquella persona tingui la patologia que estàs pensant.
+I, al contrari, quan la prova és negativa.
+Quan la prova és negativa és un likelihood ratio negatiu
+i aquestes serveixen quan és per sota de 0.2.
+Quan és per sota de 0.2, és una bona prova per descartar una patologia.

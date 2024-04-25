@@ -1,0 +1,33 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+Al Menys és Més d'aquest episodi parlem d'un problema de salut pública mundial,
+que són les resistències bacterianes.
+I diem que és un problema de salut pública mundial,
+perquè així ens ho diu l'OMS, per dos motius.
+Perquè es calcula que el 2050 es produiran el mateix nombre de morts
+per càncer que per les resistències bacterianes
+i per l'impacte econòmic mundial, que serà de 100 bilions de dòlars anualment.
+Aleshores, per reduir aquest impacte de les resistències bacterianes,
+una opció que pot ajudar-hi és la prescripció diferida d'antibiòtics
+en les infeccions respiratòries.
+I per això us recomanem una revisió sistemàtica de la Cochrane,
+que podeu llegir a la pàgina web de la Cochrane iberoamericana, que està a Barcelona,
+i que podeu llegir un resum extens en castellà,
+que parla d'això, de la prescripció diferida d'antibiòtics en infeccions respiratòries.
+És a dir, en aquests casos de sinusitis, otitis, faringitis, bronquitis,
+que en algunes ocasions, o en moltes ocasions, de forma incorrecta donem antibiòtics,
+doncs en lloc de donar-li antibiòtics, fer una prescripció diferida.
+És a dir, fer la prescripció i dir-li al pacient que no es prengui l'antibiòtic encara
+i que se'l prengui d'aquí dos o tres dies en cas que no millori.
+Però que en cas que noti certa millora i que la cosa vagi millor,
+aquella prescripció la guarda i no cal que la vagi a buscar ni es prengui l'antibiòtic.
+Això es va estudiar en una revisió de la Cochrane, que es va publicar a l'agost del 2022,
+i és una revisió que inclou 12 assajos clínics amb 4.000 pacients
+amb aquestes infeccions respiratòries,
+i les conclusions van ser que el nivell d'intensitat i la duració dels símptomes
+és la mateixa facis el que facis, li donis l'antibiòtic de forma immediata, no n'hi donis, o facis una prescripció diferida.
+I la satisfacció del pacient augmenta.
+I en cas de fer la prescripció diferida comparat amb la prescripció immediata d'antibiòtics,
+reduïm el consum d'aquests antibiòtics.
+Per tant, una de les recomanacions que fem a través de l'EMPodCat,
+seguint aquesta revisió sistemàtica,
+és fer la prescripció diferida d'antibiòtics en pacients que tenen infeccions respiratòries.
