@@ -1,0 +1,719 @@
+# Exported by Aegisub 3.2.2
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvinguts i benvingudes a un nou episodi de l'EMPodCat, el que fa 30, de la tercera temporada.
+En aquest episodi, en Xavi, un dels dos còmplices que perpetrem aquest pòdcast.
+Hola, Xavi, bon dia.
+Hola, bon dia a tothom.
+En Xavi és metge a l'Hospital de Figueres i a la base SEM del territori i té un blog que és l'UrgemCat, oi Xavi?
+Exacte, Urgem.cat, sí. I també el Twitter, o el X, UrgemCat.
+Allà, quan tenim temps, anem publicant alguna cosa que ens pot semblar interessant, almenys per a mi mateix,
+i intentem que també sigui interessant per a la resta de la gent que ens dediquem a les urgències i emergències mèdiques.
+I l'altra còmplice sóc jo mateix, l'Albert Homs, un infermer d'urgències i emergències treballant a l'Hospital de Cerdanya, al Pirineu Català,
+a la base SEM del territori també, i també tinc un blog amb un nom molt senzill, emermedpirineus.cat.
+Es podia fer més llarg, però... per què?
+Molt bé.
+Bé, en l'episodi d'avui, en Xavi ens vol parlar dels destacats d'un curs de suport vital avançat pediàtric que va fer.
+Un curs de suport vital avançat pediàtric seguint les guies de l'European Resuscitation Council de 2021.
+De 2021, sí.
+Mira, just quan publiquem això ja farà pràcticament un mes que hauran celebrat el congrés aquí a Barcelona.
+Ho vam comentar en l'episodi anterior, que dèiem que quan ho publiquem ja haurà passat. No, el vam començar a fer uns quants dies després.
+A veure si algú hi ha anat en aquest congrés i ens vol explicar les novetats.
+Escolta, encantats de sentir-lo, que segur que van dir coses molt interessants.
+Sí, sí. I no sé si van parlar d'alguna cosa de pediatria o...
+Home, segur, segur. I ves que no hi hagués una línia de suport vital avançat o bàsic de suport vital pediàtric.
+A més a més d'això, com sempre, tindrem les seccions habituals, el menys és més, l'UrgemMots i les recomanacions.
+Doncs va, no ens allarguem més. Vinga, Xavi, comences a explicar què és el que és interessant d'aquest curs que vas fer.
+La meva intenció no era, lògicament, fer un resum de tot el curs de suport vital avançat pediàtric,
+perquè ja d'entrada només el manual que ens hem d'estudiar prèviament, el mes previ a fer la part presencial.
+I ja tenim un manual que són 300 pàgines i és molt complet i...
+300 pàgines d'un llibre de text? Mare de Déu Senyor!
+Sí, sí, sí. 295 pàgines té això.
+I a més a més, té l'afegit, no sé a altres llocs, però aquí, clar,
+et connectes amb una pàgina, amb un moodle i el text te l'has d'anar llegint en el moodle,
+perquè si no, no et compta com a temps dedicat a la formació que s'ha d'acreditar.
+I vas responent preguntes i tal, i tot això que t'has de llegir, tota la teoria te l'has de llegir a la pantalla de l'ordinador.
+A part, tens el manual per anar subratllant o per, no sé, amb el qual és una miqueta farragós.
+I després vénen els dos dies de formació pràctica.
+Aleshores, a mi em va semblar interessant, clar, per la gent que no ha fet el curs o que ja fa anys que l'ha fet i tal,
+de les coses que a mi personalment em van semblar més interessants o detalls que crec que són importants de recordar,
+doncs fer-ne un llistat i recordar-los.
+Per tant, ara no vinc a fer un repàs del suport vital avançat pediàtric,
+sinó a posar uns titulars sobre algunes recomanacions, conceptes, titulars del curs aquest,
+perquè crec que és interessant repassar-los i pot ser útil.
+Aleshores, jo vaig explicant els diferents apartats i penso que en 20 minutets o així ho tindrem fet.
+Si hi ha alguna cosa m'interromps, Albert, i puc puntualitzar alguna cosa,
+tot i que evidentment jo no sóc instructor, sóc un simple usuari dels cursos.
+Per tant, potser hi ha coses que no sé contestar, però bé.
+Molt bé.
+El primer que et fan èmfasi és en el triangle d'avaluació pediàtrica, que això ja ho sabem tots.
+Explicaré coses que ja sabem i que es donen per sabudes, però no està de més recordar-ho.
+El tema del TAP, el triangle d'avaluació pediàtrica, que ens serveix per a diverses coses.
+Entre elles, identificar quin òrgan o quin sistema està fallant.
+I això ens ajudarà molt després de fer el triangle, quan comencem a fer l'XABCDE,
+si ja sabem per on patina el nen, si és un tema més a nivell sistema nerviós central, respiratori o circulatori,
+a l'hora de fer l'ABCDE també ens ajuda a centrar-nos en aquest moment.
+Ens ajuda a identificar també el grau d'urgència.
+És a dir, no és el mateix que tingui un costat del triangle que en tingui dos.
+Pot estar un problema respiratori compensat o descompensat.
+Per tant, ens ajuda a identificar el nen que està estable o inestable.
+I és una eina també que ens ajuda a comunicar-nos amb l'equip.
+Si tu veus com està el nen pensant en el triangle,
+és més fàcil a l'hora de comunicar amb la resta de l'equip què està passant.
+Si ho fem amb l'ajuda del triangle, tothom anirà pel mateix camí i tothom anirà enfocat cap a un mateix objectiu.
+Per tant, té una utilitat de comunicació.
+Resumint, el triangle té tres costats.
+Un costat és l'aspecte del nen, en el qual ens valora el sistema nerviós central.
+L'aspecte, el comportament, el to, la interacció del nen, això ja et diu com està a nivell el sistema nerviós central.
+Si està alterat aquest i només està alterat aquest costat, és un nen que té una disfunció cerebral.
+Si està alterat el costat de la respiració, és un nen que respira ràpid, que té tiratge,
+que pots sentir algun so, pots sentir unes sibilàncies, pots sentir un estridor,
+o veus el nen amb una cianosi central, això t'està dient que hi ha un destret respiratori.
+I si està afectat a nivell circulatori, miraràs sobretot el color de la pell.
+El triangle es fa en 10 segons.
+És el primer contacte que tens amb el nen.
+Gairebé no cal tocar-lo i només per la inspecció visual.
+Quan tens un costat, per exemple, afectat respiratori,
+si només tens el respiratori afectat però no tens ni el circulatori ni l'aspecte tocat, vol dir que tens un destret respiratori.
+Quan ja se li suma en aquest una afectació del sistema nerviós central,
+te recomanen o te diuen que ja no pensis en un destret respiratori,
+sinó que ja pensis en una insuficiència respiratòria aguda.
+Igualment amb el circulatori.
+Si només tens el circulatori tocat, pensa que és un xoc compensat.
+Si ja tens que això afecta el sistema nerviós central i per tant ja tens dos costats tocats,
+ja no tens un xoc compensat sinó que tens un xoc descompensat.
+Ja tindràs el nen amb una hipotensió arterial i amb una alteració del nivell de consciència.
+Per tant, si recordem per què serveix el triangle d'avaluació pediàtrica,
+penso que en farem més ús i en farem un ús més apropiat.
+És molt interessant aquesta eina. Jo a vegades la trobo a faltar pels adults,
+perquè visualment... el que passa és que té la pega que el que has de veure necessites haver-ho vist abans.
+El ser subjectiu té la pega aquesta.
+Si has vist pocs nens et costarà molt fer un triangle d'avaluació pediàtrica ben fet,
+perquè els tiratges que dius tu mateix... N'hi ha molts de tiratges.
+Sí, però jo penso que si sabem que existeix això i que funciona i que té... serveix per a diverses coses,
+si l'utilitzes, o n'ets conscient sistemàticament quan veus un nen,
+de dedicar els deu primers segons a mirar-te aquests tres aspectes del nen,
+clar, si veus un nen a l'any no arribaràs mai enlloc, però si de tant en tant en veus,
+sí que quan vegis un nen que respira ràpid t'ha de cridar l'atenció,
+perquè tu, una persona, quan respira normalment la seva respiració no t'ha de cridar l'atenció
+si no té un compromís respiratori. Si t'adones que respires, que alguna cosa passa.
+I de fet, com menys cascada estigui la criatura, més aviat l'has de fer,
+perquè en el moment en què t'acostis si té aquella edat tonta,
+entre l'any i els tres que són rebels com una mala cosa,
+com el toquis ja s'ha acabat respirar a poc a poc i s'ha acabat estar tranquil.
+Sí, sí, sí, exacte. T'has de mantenir una mica o mirar-lo des del costat que no et vegi.
+Aleshores, després del triangle hem de fer una exploració centrada
+o per ordre sistemàtic per prioritats, és a dir, hem de fer l'XABCDE.
+De fet, el triangle jo també el veuria fàcil d'aplicar en el pacient adult.
+No està validat per fer una avaluació inicial del pacient adult,
+però quan veus un pacient adult també fas una inspecció general,
+també mires com respira, com està a nivell cardiocirculatori, com està a nivell d'interacció amb el medi.
+ Per tant, es pot fer servir. I l'XABCDE, que és el mateix que amb els adults, és a dir,
+una exploració sistemàtica amb l'objectiu d'identificar lesions amb risc imminent de mort.
+I crec que són les mateixes patologies que pots intentar identificar
+amb un nen, per exemple, traumàtic. Doncs és el mateix.
+Sí que, per exemple, no sé ara amb l'adult si ho recomanen,
+però a nivell circulatori, quan fas la C, hi ha l'acrònim o la regla mnemotècnica de les 5 P's,
+com està de perfusió perifèrica, com està de pols perifèric i central,
+com està la freqüència del pols, és a dir, la freqüència cardíaca,
+després la pressió arterial mitja i després la precàrrega.
+Això de la precàrrega és el que sempre ens oblidem de com està a nivell cardiocirculatori
+i és senzillament mirar la ingurgitació jugular i la hepatomegàlia.
+He sentit pressió arterial mitja?
+Mitjana?
+No, no, pressió arterial mitja, m'agrada, m'agrada. N'hem parlat, n'hem parlat, de la pressió arterial mitja, no recordo l'episodi, però n'hem parlat.
+Sí, sí, n'hem parlat, n'hem parlat extensament en un episodi, n'hem parlat, sí, sí, d'això.
+Però sí, sí, són les 5 P's, perquè quan valoris la C de cardiocirculatori,
+doncs no t'oblidis i sobretot no t'oblidis de la precàrrega.
+La resta és el mateix.
+Una altra cosa que sí que em va cridar l'atenció,
+i penso que és una cosa que has de portar a la butxaca o en algun lloc fàcilment accessible,
+és un quadre on reflecteixen els signes vitals normals del nen per edat,
+perquè a mi em passava, eh?, en les simulacions i tal,
+te diuen un nen d'un any, no sé què, amb una tensió sistòlica de 80,
+i per mi això, inconscientment, està hipotens, però clar, depèn de l'edat.
+En un nen d'un any, doncs no, el percentil 50 de la tensió arterial sistòlica és 95,
+però pot ser normal fins a 70, 70 i escaig.
+Per tant, per valorar un nen que pugui estar crític,
+busca't una taula amb la freqüència cardíaca, la freqüència respiratòria,
+pressió arterial sistòlica i pressió arterial mitjana a la butxaca,
+perquè no és el mateix un nen d'un mes, d'un any, de dos mesos, cinc anys o deu anys.
+I et pot portar a errors importants, eh?
+Amb això, la cinta aquesta de Broselow, aquestes cintes que l'estens al costat del nano,
+que és una cinta mètrica, està mesurada, llavors t'estima un pes i et dóna dosis,
+amb aquesta pot ser que estigui...
+És que em sembla que la que tinc a l'hospital i que hem agafat també per l'ambulància, em sembla que allà hi ha una taula.
+És possible, perquè crec que també hi ha temes de medicació, de dosis de medicació...
+Sí, sí, correcte, és per no haver de fer comptes, és per tenir-ho apuntat i no haver de comptar.
+Em sembla que allà també hi ha una taula d'aquestes que comentes, eh?
+Cadascú que utilitzi el sistema que li sembli més còmode, però si no estàs acostumat i no veus nens cada dia
+i no és la teva feina habitual tractar nens que puguin estar greus,
+tingues a mà un lloc per consultar les constants vitals dels nens
+perquè pots equivocar-te i tindràs errors importants.
+Si les coses van mal dades no et refiïs de la memòria.
+Exacte, la memòria et fallarà segur.
+Què més? Alguna patologia concreta, per exemple, de la hipoglicèmia,
+a diferència amb els adults que fem servir el suero glucosat al 50%,
+clar, això és molt irritant per les venes,
+aquí te recomanen lògicament el suero glucosat al 10%,
+que la dosi és molt fàcil, són 3 mil·lilitres per quilo, quan tinguis un nen hipoglucèmic,
+3 mil·lilitres per quilo del suero glucosat al 10%.
+Recordant això ja en tens prou.
+Després, al final de tot, parlarem d'alguna cosa de reanimació cardiopulmonar.
+Ara us explico quatre coses d'algunes patologies concretes,
+per exemple, de l'estat epilèptic,
+sobretot recordar les dues dosis inicials de benzodiazepines,
+la que vulguis i per la via que vulguis, bàsicament o midazolam o el diazepam,
+però que la primera dosi l'has de posar als 5 minuts i la segona dosi, si el nen continua convulsionant, als 10 minuts.
+Recordar sempre fer les dues dosis.
+I els medicaments de segona línia en l'estat epilèptic,
+que són els fàrmacs antiepilèptics, en tenim dos, que es comencen a posar als 15 minuts.
+I són el levitiracetam i el valproic, el valproat sòdic.
+I les dosis sí que poden variar una miqueta, depèn d'on t'ho miris,
+però almenys aquí nosaltres ens recomanaven els 40 mg per quilo.
+Tant el levitiracetam com el valproat, els dos igual, 40 mg per quilo.
+Caram, dos medicaments amb la mateixa dosi, això gairebé és sorprenent.
+Sí, és curiós, però ens va bé.
+I això que deies dels 5, 10 i 15 minuts... de rellotge,
+perquè t'asseguro que 5 minuts convulsionant algú caga, eh?
+Sí, sí, sí, no, no, clar.
+I són 5, més 5, més 5, o sigui 15 minuts convulsionant i només fer 3,
+només fer una cosa cada 5 minuts t'has d'aguantar, eh?
+Sí, sí, al principi no, mentre fas el monitoratge,
+poses l'oxigen, mires la glicèmia i això ja han passat 5 minuts,
+doncs ja li poses, o tens la via, o tens la intraòssia o la via venosa,
+o rectal, o bucal, o el que sigui, prepares la medicació.
+Sí, sí, els primers 5 ho entenc, eh? Els segons 5 ja es poden fer molt llargs, eh?
+I els tercers, hòstia, aguantar-te les ganes de fotre-li la kepra
+després que li hagis fotut... faci dos minuts que li has posat el...
+Sí, sí, no, no, que es pugui fer llarg, sí.
+Costa, eh? Aquests 5 minutets més costen... Bé, els has d'agafar de rellotge.
+La primera dosi de benzos és els 5 minuts, la segona els 10,
+el primer fàrmac antiepilèptic és els 15 minuts,
+i si això no funciona, els 25 minuts has de posar
+la segona dosi de fàrmac antiepilèptic d'un fàrmac que no hagis posat.
+Per tant, si primer has posat levetiracetam, els 25 minuts posaràs el Valproat,
+o al revés, si primer has posat el Valproat, després posaràs el kepra.
+I esperant que amb això ja en tinguis prou, perquè si no, els 30 minuts ja has de començar a...
+pensar-te en fer una sedació més profunda, i intubar el nen i anar cap a un hospital que sigui més resolutiu.
+Què més? Del tema de la intraòssia, recordar que depèn de l'edat.
+Nens petits, menys de 6 anys, ens recomanen més la zona del tibial proximal,
+la zona medial de la tuberositat de la tíbia,
+en menys de 6 anys, nens de més de 6 anys, tibial distal,
+dos o tres centímetres per sobre del mal·lèol intern,
+i després en adolescents ja pots anar al cap humeral.
+I recordar que després d'administrar tots els fàrmacs per via intraòsea,
+administrar 5 o 10 mil·lilitres de sèrum salí fisiològic, per exemple.
+Per arrossegar.
+Exacte. Això amb els nens inconscients, amb els conscients, recordar igual que els adults,
+que abans de començar a infondre molts volums,
+s'ha de posar una mica de lidocaïna per fer una mica d'anestèsia de la zona, perquè si no fa molt dolor.
+Em sembla que això ja ho havíem dit també en algun dia, en algun episodi de l'EMPodCat.
+I em sembla que ho tornarem a dir, perquè de la intraòsea n'hem de parlar.
+En parlarem, en parlarem
+Parlem d'algun moment de l'anafilaxi, que també n'hem parlat.
+A l'anafilaxi fem servir l'adrenalina sense dissoldre, l'adrenalina pura,
+que és la concentració 1:1000, i la dosi és 0,01 mil·lilitres per quilo.
+Si només recordes això, 0,01 mil·lilitres per quilo d'adrenalina pura intramuscular.
+Què més? Del xoc hipovolèmic.
+No estan tan capficats de si solucions balancejades o no,
+però tampoc és que li donin especialment rellevància
+si la solució d'un cristal·loide que li poses és balancejat o no.
+Però sí que el que és important és començar fent embolades de 10 mil·lilitres per quilo
+i anar repetint fins a 40-60 mil·lilitres per quilo durant la primera hora.
+Això amb un nen que està hipovolèmic, sigui perquè és un gran cremat, per pèrdues gastrointestinals,
+o perquè és una cetoacidosi diabètica, per exemple,
+comença amb embolades de 10 mil·lilitres per quilo,
+repetides 4, 5, 6 vegades fins que sigui necessari, almenys durant la primera hora.
+Que amb això no n'hi ha prou? La noradrenalina.
+Amb l'objectiu de mantenir la pressió arterial mitjana, en el percentil 50, per la seva edat.
+I quant de temps entra en embolada i embolada, per decidir si necessites més o no?
+Pensa que això t'ho recomanen que ho facis a la primera hora.
+Per tant, tu mateix, a la primera hora, això li pots repetir fins a 4 o 6 vegades.
+Cada 20 minuts o cada 15 minuts, 10 mil·lilitres per quilo.
+Clar, tens el nen amb un xoc hipovolèmic, no l'hi posaràs tot de cop, però jo penso que és anar revalorant, no?
+Poses 10 mil·lilitres per quilo, mira si ja el tens bé de pressió, que encara no el tens bé de pressió, doncs 10 mil·lilitres més per quilo.
+Això t'obliga a tenir una via intravenosa digna, o si no, cap a la intraòssia, perquè ara estic comptant,
+així mentalment em surt que menys d'un 20G,
+infondre 300 o 400 centímetres en 5-10 minuts,
+menys d'un 20 no crec que puguis.
+O tindré dues vies, no?
+O dues vies, clar, sí, sí.
+Què més? De similar a això hi ha el xoc hemorràgic.
+Te recomanen, si hi ha alguna cosa que et pot ajudar de proves complementàries,
+sobretot el dèficit de base i el lactat, que això t'ajuda molt a estimar la gravetat.
+Més que no pas, com està de hematòcrit, hemoglobina inicial, el dèficit de base i el lactat et  poden ajudar.
+Cristal·loides, la seroteràpia, limitar-ho en el xoc hemorràgic a 20 mil·lilitres per quilo.
+Si amb això no en tens prou, doncs ja començar precoçment els hemoderivats.
+Sang, plasma, plaquetes, i pensar en tancar l'aixeta,
+depèn on estiguis, pre-alertar a cirurgia que tens un nen amb un xoc hemorràgic
+i que, depèn del que sigui, que es preparin per entrar a quiròfan.
+Important això, limitar, així com el xoc hipervolèmic per una cetoacidosi o per una deshidratació
+pots anar augmentant fins a 40-60 mil·lilitres per quilo, doncs amb el xoc hemorràgic 20 mil·lilitres per quilo.
+I concentrat d'hematies, plasma i plaquetes, i cirurgia.
+Es permet el tema de la hipotensió permissiva,
+mantenir-lo, per exemple, en el percentil 5 per la seva edat,
+o sigui, una pressió arterial mitjana que estigui en el percentil 5 per la seva edat.
+Aquí tens la teva taula per edats i t'ho mires.
+Això sempre i quan vegis que el xoc hemorràgic que té no està associat amb un TCE.
+Si el nen té un traumatisme cranioencefàlic, doncs la hipotensió permissiva pot ser més perjudicial.
+Això és igual que amb els adults, veig.
+És igual que amb els adults, sí, sí.
+I el mateix amb l'àcid tranexàmic.
+Si tens una hemorràgia massiva, una hemorràgia exsanguinant, doncs l'àcid tranexàmic igual.
+Què més?
+Amb el tema del traumatisme cranioencefàlic que parlàvem ara,
+el nen que té clínica d'augment de la pressió intracranial i que té una herniació imminent,
+és a dir, que està hipertens, bradicàrdic, amb una respiració irregular
+i lògicament que té una alteració de les pupil·les,
+doncs has de pensar que té la pressió intracerebral augmentada i que s'està començant a herniar.
+Doncs aquí te recomanen el suor de salí hipertònic al 3%.
+La dosi que et recomanen és entre 2 i 5 mil·lilitres per quilo d'aquest hipertònic.
+Deixam fer un incís d'això del sèrum salí hipertònic,
+perquè en el seu moment vaig tenir els meus merders mentals de decidir quan era un 3% i com preparar-lo i això.
+Al final de comptes, mira, és una recomanació fora de la recomanació. Hi ha un lloc web que és rcc.noseque,
+que tenen una calculadora que tu li dius quin percentatge vols i quin volum. I et diu, fes això amb això.
+M'ho has tret de la boca Albert, perquè quan estava preparant el resum vaig dir això ha de ser més fàcil.
+I exacte, vaig trobar aquests del rccc.eu
+i és tal com te dius tu. Li dius la concentració que vols i el volum
+i ell te diu quant clorur sòdic al 20% has de barrejar amb fisiològic i ja està.
+En un segon ho tens perfectament. A nosaltres ens en van recomanar dos,
+que és per exemple agafar 10 mil·lilitres del clorur sòdic al 20% i barrejar-los amb 90 de fisiològic.
+L'altra opció, que és de més volum, si el nen és més gran, pesa més quilos,
+doncs és agafar 30 mil·lilitres del clorur sòdic al 20%
+i barrejar-los amb 220 mil·lilitres de sèrum fisiològic normal, al 0,9%.
+I si no t'agraden aquestes dues, doncs això que diu l'Albert,
+te'n vas al rccc.eu i ho trobaràs fantàsticament bé allà.
+Recordar que en aquests TCEs, mesures de neuroprotecció,
+intentant mantenir-lo amb la pressió arterial mitjana en el percentil 50,
+amb cristal·loides i amb vasopressors si són necessaris,
+mantenir saturacions a tot nen crític entre 94 i 98 de saturació,
+pressió de CO2 entre 35 i 45,
+inicialment no et serveix el que et digui el capnògraf,
+que inicialment has de fer-ho a nivell venós
+i després veure si hi ha una equivalència entre el que et diu l'analítica de la sang amb el que tu veus en el capnògraf,
+sedoanalgesiar, normotèrmia,
+mantenir el cap i el tronc a 30 graus, excepte si hi ha hipotensió,
+normoglicèmia, mantenir el sodi, magnesi, potassi, tot això, els electròlits a ratlla,
+i el tema de les convulsions.
+No està demostrat que fer una prevenció en el TCE de les convulsions serveixi de res, però sí apareixen lògicament tractar-les.
+Per tant, el nen amb TCE, igual que amb l'adult, han d'estar normo-normo de tot.
+Després del tema del calibre del tub endotraqueal,
+també et pot ajudar la cinta aquesta de Broselow, crec que es diu...
+Sí, sí. Bé, n'hi ha vàries, però el que tenim nosaltres és la cinta de Broselow.
+Segurament allà també t'ho posa, però bé, si no, hi ha altres eines,
+però és important tindre una eina de fàcil accés i que sàpigues quina és
+per seleccionar quin tub endotraqueal farà servir al nen.
+Amb el que ens van dir, vaig fer un quadre,
+i és en el nen de menys d'un quilo, que serà un nen, no?, un nounat de menys de 28 setmanes de gestació,
+necessitaràs un tub del 2,5.
+Entre 1 quilo i 2, que normalment correspon a 28-34 setmanes de gestació,
+necessitaràs un tub del 3.
+Entre 2 quilos i 3, que ja seria 34-38 setmanes de gestació, un tub del 3,5.
+Després ja normal, un nen que neixi més de 3 quilos,
+ja 3,5-4 el número del tub,
+que així anirem aproximadament fins a l'any, un tub del 3,5.
+A partir d'un any, entre un any i dos, ja serà un 4.
+I després, a partir dels dos anys, et recomanen una formuleta,
+que és l'edat dividit entre 4, i el resultat d'això li sumes 4.
+Amb això, en nens de més de dos anys, tindràs el tub aproximadament que li has de posar.
+Aquesta formuleta està bé recordar-la.
+I després una altra formuleta, que no és cap formuleta, és una simple multiplicació,
+és el tub que li poses, l'has d'entrar fins a una certa profunditat per no anar-te'n al bronqui dret,
+o per no sortir-te de la tràquea,
+que és el número del tub que li hagis posat multiplicat per 3.
+Aquest és el número que li has de posar, la profunditat llegida a la comissura bucal.
+Sabràs fins a quan has d'introduir el tub seleccionat. És el número del tub multiplicat per 3.
+Què més? Després el nen que ja tens intubat, i de cop i volta comença a pitar...
+el respirador, el monitor, alguna cosa passa, ens van recomanar la regla mnemotècnica,
+que és el DOPES, que en anglès deu significar alguna cosa.
+Si recordes aquest acrònim, que és DOPES, sabràs el que hauràs de fer
+quan un nen que està intubat i l'estàs ventilant comença a fallar tot.
+La D és de desplaçament del tub, és a dir, s'ha extubat de forma accidental
+o el tub el tens en el bronqui dret, perquè en els desplaçaments, les transferències,
+alguna cosa has tocat i el tub s'ha extubat o l'has introduït excessivament. La D.
+La O és la d'obstrucció del tub. Del tub o de les tubuladures, hi ha alguna cosa,
+no sé, per sang, per mucositat, o perquè l'estàs trepitjant o el que sigui, però hi ha una obstrucció del tub.
+ La P és de pneumotòrax o altes alteracions que provoquen un augment de la pressió, un broncoespasme, un edema,
+una hipertensió pulmonar, la més lògica i la més habitual,
+pensant que t'hagis passat amb els volums o les pressions i ara, de cop i volta, el nen tingui un pneumotòrax.
+La E és de l'equip, revisar l'equip, des d'on ve la bomba d'oxigen, les tubuladures, les connexions,
+el ventilador, alguna cosa de l'equipament està fallant.
+I que no s'hagi desconnectat...
+Que no s'hagi desconnectat d'algun lloc.
+I la S és l'estómac. Ja sé que comença per E, però l'estómac.
+Que potser el prèviament haver fet de ventilar amb el respirador manual o ambú,
+que hagis introduït més aire dins de l'estómac i allà ja s'hagi creat una pressió important
+i ara t'estigui perjudicant la respiració del nen.
+Per tant, el DOPES és la regla mnemotècnica perquè no se't passi cap causa important
+de descompensació d'un nen que està intubat o que tens ventilant.
+De RCP bàsica, penso que ja ho sabem tot.
+No canvia res especialment.
+Deixa'm fer un incís aquí. Sí que no canvia res, però sí que canvien coses respecte a la de l'adult.
+I això, els que toquem nens massa poc sovint, a vegades ens trenca el cervell.
+Una cosa bona que he llegit aquí en les guies és una noteta que diu si sembla un adult, tracta'l com un adult.
+Això m'ha agradat. Si té 12 anys, però és un d'aquests nanos de 12 anys que fot metre 70,
+doncs el tractes com a adult i endavant.
+Però aquí, de l'algoritme aquest, hi ha la diferència que, com que els nens es paren més habitualment
+per problemes respiratoris que per problemes cardíacs, hi ha les 5 ventilacions inicials
+de rescat
+Exacte, abans de començar les compressions, i que no fem 30:2, sinó que fem 15:2.
+També exactament pel mateix motiu.
+Que no ha canviat respecte a les recomanacions anteriors, és cert,
+però que sí que canvia sensiblement respecte a les recomanacions de l'adult.
+Sí, el tema d'aquest que deies, Albert, ens hi van fer èmfasi en el tema d'això que dius,
+si el nen té una aparença d'adult, tu tracta'l com un adult,
+tant la RCP bàsica com l'avançada, vull dir, medicaments, cardioversions i tot això,
+tu fes com si fos un adult.
+I de fet, algun dels casos que ens van posar era això, era una nena de 13 anys, no sé què,
+i quan preguntaves pel pes, et deien, no sé, 50 i pico quilos, o 60, i vam decidir fer RCP de l'adult.
+I que és el correcte
+Només diria, per exemple, del tema del... quan fas les 5 respiracions de rescat,
+que pot ser que no siguin eficients, que has de fer-les i observant el tòrax, si s'expandeix o no,
+perquè si no s'expandeix, el lògic és pensar que la causa de l'aturada respiratòria és una obstrucció de la via aèria, per un cos estrany.
+Per tant, quan facis les 5 ventilacions de rescat, no només és fer-les, sinó fer-les i mirar que el tòrax s'expandeix o no s'expandeix,
+per si sospites o descartes que la causa sigui una obstrucció per un cos estrany.
+I dues coses en aquí, que ens recomanaven,
+és a l'hora de fer les compressions toràciques, sobretot amb lactants,
+hi ha diferents formes, no?, de fer les compressions. La tècnica que em sembla que sigui més recomanada és la d'abraçar,
+tu et poses davant del nen i abraces, que els dits et queden darrere l'esquena
+i després tens els dos polzes que van a sobre l'estern i són els que fan les compressions.
+Aquesta és la millor forma de fer les compressions toràciques,
+abraçant el tòrax del nen amb els dits a la part de l'esquena i els polses a sobre l'estern.
+L'altra seria, posar dos dits directament a sobre l'estern, sense abraçar el nen.
+Però te recomanen més aquesta forma d'abraçar el tòrax.
+I l'altra era el tema del DEA, en la RCP bàsica amb DEA.
+La recomanació és que no parar mai, no parar mai, de fer compressions toràciques
+només en dos moments, excepte quan el DEA et diu que està analitzant
+i just quan tu prems el botonet per fer la descarrega elèctrica.
+La resta, de vegades, el DEA va parlant o carregant, sobretot quan carrega el DEA,
+la tendència espontània normal és, si està carregant, treure les mans de sobre la víctima.
+Doncs no, fins que tu no prems el botonet de descarrega, compressió, compressió, compressió.
+O sigui, només parem de fer compressions quan et digui que està analitzant o quan tu prems el botonet.
+La resta, no parar mai.
+I això, en les simulacions ho vam veure que, de forma instintiva,
+quan està carregant o ell està analitzant, no sé, continuï fent compressions. Ja fa estona que estàs fent compressions.
+De seguida que fas la descarrega elèctrica, tu no t'esperes el que et digui el DEA, tu fas compressions directament.
+Això és igual que en els adults, la fracció de temps sota compressió ha de ser la més gran possible.
+Si, però aquí, com que t'estan parlant i fins que no te diu continua fent RCP o compressions,
+tu fas la descàrrega i tornes a continuar fent compressions toràciques. No t'esperes que t'ho digui el DEA.
+Sí, sí, sí. Això dels DEAs van molt bé, però la part aquesta de fer-ho
+comprensible per tothom fa que els professionals ens hi posem nerviosos.
+Quan veus que va passant el temps i estàs allà sense fer el massatge, t'agafa una angoixa existencial.
+El tema dels pegats en els lactants,
+si tens un nen molt petit i els pegats estan molt junts o fins i tot es toquen,
+no ha de ser, perquè aquí pots crear un curt circuit i vés a saber què pot passar,
+doncs directament si veus que queden molt junts o es toquen, directament en posició antero-posterior.
+L'anterior el poses a l'esquerra de l'estern i al posterior a la zona interescapular perquè no es toquin.
+Després, de les desfibril·lacions, en cas que sigui, no?
+Estem ja a la RCP avançada i és un ritme desfibril·lable.
+Les primeres cinc desfibril·lacions les fem a 4 Joules per quilo
+i després vas pujant progressivament.
+La sisena ja la pots fer a 6 J per quilo, la setena a 7 J i després les successives a 8 J per quilo.
+Per tant, comences a 4 i si desgraciadament això necessites
+moltes més desfibril·lacions, ja les faràs a 8.
+Això em sona a dosi més altes que per adult.
+Per 70 quilos, 4 x 7 serien 280 i el fem a 200 Joules.
+Ja la basal és més alta que la proporcional per adult
+i aquí t'estan dient a sobre que pots pujar molt més a mesura que les altres no estan funcionant.
+Sí, sí, sí.
+D'acord
+Que més?... després de qualsevol medicació les embolades de 5-10 ml de fisiològic
+i després el tema de les medicacions durant la RCP, les bàsiques són l'adrenalina i la amiodarona.
+Tu, Albert, així de memòria, saps l'adrenalina que li has de posar o no?
+En un adult, un mil·ligram.
+Sí, clar.
+Espera, si és per via endovenosa, seran 10 micrograms per quilo, m'imagino.
+Sí.
+El que acabo fent és dividir la dosi d'adult per un número de pes d'adult i ho arrodoneixo.
+No sé si ho estic fent bé o no.
+Sí, la dosi tant de l'adrenalina com de la amiodarona és molt fàcil perquè sempre és 0,1 ml per quilo.
+Amb la diferència que l'adrenalina l'hem de dissoldre,
+agafes una adrenalina pura, la que fem servir als adults, i li poses nou de fisiològic.
+I això és 0,1 ml per quilo.
+L'adrenalina l'has de diluir i amb la amiodarona, no,
+és una amiodarona sense diluir, però és 0,1 ml per quilo.
+De la amiodarona, normal, sense diluir.
+Amb la limitació que la primera dosi que li posis de amiodarona són màxim 300 mg,
+que això és després de la tercera desfibril·lació,
+ i 150 mg màxim, la segona dosi de amiodarona
+que li posis, que és després de la cinquena desfibril·lació.
+Però si recordes que les dosis sempre són 0,1 ml per quilo,
+d'adrenalina diluïda o de amiodarona sense diluir.
+Esperem que mai de la vida hi hagi un desabastiment de amiodarona
+i ens obligui a portar-la d'un altre lloc amb concentracions diferents.
+Llavors tindríem pollastre màxim aquí.
+Bé, després sí que has de recordar, lògicament, els micrograms i tot això, però de moment, si ara ho tenim així,
+no et preocupis per les dosis de medicació a l'RCP, que sempre és 0,1 ml per quilo.
+I una altra cosa interessant, però poc actual
+almenys en les nostres latituds, és l'RCP en la hipotèrmia.
+Si et trobes un nen que està a menys de 30 graus centígrads,
+en aturada cardiorespiratòria, en aquestes situacions màxim pots fer 3 desfibril·lacions
+i no pots fer servir adrenalina.
+I després, quan ja tens el nen a més de 30 graus, ja pots fer servir les desfibril·lacions habituals,
+les que et diu l'European Resuscitation Council del 2021 en pediatria,
+i l'adrenalina l'has de canviar i en lloc de cada 3-5 minuts, aquí l'has de fer servir cada 6-10 minuts
+fins que el nen estigui escalfat fins a 34 graus.
+Si trobes un nen, aquí, com millor, tenim molta costa i a l'hivern l'aigua està freda
+o les piscines estan fredes, ens pot passar.
+El nen que està molt hipotèrmic, menys de 30 graus, no fer servir adrenalina i màxim 3 desfibril·lacions
+i quan ja està una mica més calent, més de 30 graus, desfibril·lacions habituals,
+ però l'adrenalina l'hem d'espaiar una miqueta més, cada 6-10 minuts
+fins als 34 graus, a partir dels 34 graus, ja l'RCP la fem normal.
+Aquí veig que el tema hipotèrmia, com que això són unes guies universals, ho han de tenir present pertot arreu.
+Però aquí nosaltres tenim ECMO. D'acord que no la fem servir gaire, però tenim ECMO. Llavors aquí...
+crec que no considerar això... perquè, clar, menys de 30 no s'escalfarà sol, l'hauràs d'escalfar tu
+i l'has d'escalfar amb ECMO, perquè tot el que tenim és bastant birriós.
+Escolta, potser haurem de parlar d'hipotèrmia també, no?
+Sí, sí, sí, sí, sí. El tema és, clar, fins que tu no arribis a un lloc amb
+o no t'arribi l'ECMO a tu, hauràs de fer RCP
+i l'has de fer tenint en compte aquestes peculiaritats, no?
+Sí, sí, però que els 30 graus a més a més...
+Ara llenço una pregunta a l'audiència. Quants de vosaltres teniu termòmetres que puguem mesurar menys de...
+Ah, ja, ja.
+32. Ep, temperatura central, eh?
+Sí.
+Perquè per mirar sota l'aixella no serveix que ho sapigueu.
+Ja ens direu. A veure quants de vosaltres ho podeu fer, això.
+Què més? Només em queda la reanimació del nounat.
+Possiblement en el meu cervell hi havia aquesta informació, però l'havia oblidat.
+ I és que la saturació...
+Saps on hem de mirar la saturació, Albert? Jo t'ho pregunto a tu, vejam si sóc jo l'únic que li falla la memòria.
+Sí, ho sé, ho sé. I a més a més et puc trobar els números perquè ho vaig publicar en un post-it al meu blog.
+És una saturació preductal. S'ha de mirar a la mà dreta.
+I dic mà perquè enganxar un saturador al dit en un nadó, hòstia, es complica.
+En canvi, si ho fots aquí, entre el dors i el palmell, aquí a la part inferior de la mà.
+I al primer minut, ho dic de memòria, el primer minut em sembla que és normal per sota de 60 i vas escalant
+i em sembla que no és fins a partir dels 10 o 15 minuts que és normal per sobre de 90.
+Hi ha una graduació que has d'estar en una taula perquè si no no te n'oblides.
+A la taula de reanimació del nounat sí que diu això.
+Els tres primers minuts la saturació normal és que estigui entre 70 i 80
+els cinc minuts entre 80 i 90 i després els deu minuts és quan ja està a saturacions de 90-95%.
+Però sí, jo la veritat és que quan m'ho van dir... ostres, a la mà dreta?
+Sóc sincer i no ho recordava. Per tant, no sé, ho llanço aquí una altra vegada perquè si jo me n'he oblidat
+és possible que a algú més també li passi això. Per tant, al costat dret.
+No és l'única cosa que canvia de la reanimació neonatal que és un tema...
+tinc un pediatre... bé, el nostre cap de pediatria que una xerrada va dir els nens no són aliens.
+Bé, els nou nats sí. Perquè... totalment és una fisiologia absolutament diferent, molt interessant
+però canvia molt del que estem acostumats als que tractem habitualment amb adults.
+Sí, sí, sí, hi estem poc habituats.
+Què més? Jo penso que no tenia... les notes que vaig anar agafant
+i que volia recordar són aquests apunts que us he explicat, Albert.
+Val la pena fer-lo, eh? Val la pena recordar, o sigui, fer el curs aquest perquè...
+realment te n'adones de coses que has oblidat i que a l'hora de la veritat les faries malament.
+Si no tens un record de tant en tant és molt útil.
+La recomanació és fer-lo i també pensem els que estem al Principat
+que al SEM tenim companys a l'altra banda del telèfon
+i si no ha canviat els últims mesos tenim un pediatre al qual li podem demanar socors
+via telefònica quan tenim coses que ens sorprenen o no veiem clares.
+Que ho sapigueu, que tenim aquest recurs. Als altres territoris de parla catalana, doncs no ho sé, digueu-nos-ho a veure si també teniu aquesta opció.
+Sí, sí, des d'aquí, de CECORS parles i vols parlar amb un pediatre i no tindràs cap problema, et posaran amb el pediatre
+i el mateix, per exemple, de geriatria i tot això també tenen consultors que te poden donar el suport que calgui.
+Doncs vinga va, un cop finalitzat el tema,
+les coses destacades de la reanimació del suport vital avançat en pediatria,
+anem a la següent secció que és el Menys és Més.
+El Menys és Més. Tu, Albert, tenies alguna cosa avui per explicar-nos del Menys és Més, no?
+Sí, de fet, mira, pels que no estigueu al corrent,
+en Xavi i jo a vegades discutim, no,.. conversem per Twitter o per l'X,
+i el Xavi va, fa unes setmanes, va retuitejar un article que deia que això de tenir
+la gent a urgències aparcada durant una burrada d'hores no anava gaire bé per la seva supervivència.
+Si
+I després n'hi ha algun altre que explica com això ha empitjorat els últims anys, i això vaig pensar, home, el Menys és Més ha de ser això.
+És a dir, menys hores a urgències, millor per la supervivència.
+Però resulta que encara no tenim cap recomanació oficial d'aquest assumpte,
+ cosa que no m'estranya tampoc, perquè clar, que la pròpia administració faci una recomanació contra allò que l'administració fa pot ser una mica complicat, eh?
+Donar la culpa als altres és fàcil, donar-te-la a tu mateix costa una miqueta.
+Però en tinc un altre, en tinc un altre, en aquest cas és de l'Essencial, i tampoc és tan desencaminada.
+Aquesta recomanació de l'Essencial és una recomanació del juliol del 2019
+que es basa també en d'altres de prèvies. En aquesta també una de les que es basa és una de les recomanacions,
+de les 15 recomanacions de la SEMFyC del 2016 de No Hacer,
+i té a veure amb l'administració d'analgèsia per via intramuscular.
+Com sempre, aquestes fitxes que ens fa l'Essencial diu que són una recomanació, no són de compliment obligat
+ ni substitueix el judici clínic, eh? Una forma també de guardar la bugada.
+Molt bé, ens diu que sempre que sigui factible per al control del dolor cal escollir el tractament no parenteral com a primera elecció.
+I ens recorda que l'ús innecessari de tractament analgèsic parenteral per al control del dolor s'associa a més risc de complicacions evitables per al pacient,
+especialment quan existeix una alternativa analgèsica amb bona efectivitat i millor seguretat, com la via oral o la via tòpica.
+Evidentment, això t'ho expliquen amb més... et donen més detalls,
+i ens ve a dir una cosa que ja sabem, almenys al meu hospital passa molt, la mania aquesta que tenim de tothom qui ve perquè li fa mal alguna cosa punxar-li una intramuscular.
+Bé, doncs resulta que hi ha estudis que diuen que el paracetamol, especialment en presentacions aquoses,
+els sobres de paracetamol, s'absorbeixen ràpidament i gairebé completament per via oral.
+És a dir, que el paracetamol aquest aquós... Bé, aquos, en solució aquosa begut va igual de bé
+que els altres medicaments per via parenteral.
+Clar, la via parenteral, la via intramuscular, a part de fer més mal, també té algunes complicacions que si bé són
+poc habituals, doncs poden tenir mala bava. Si fas un abscés, malament.
+I si l'abcès aquest va a més, doncs ja veuràs tu quins riures quan t'hagin de fer segons quines barbaritats per arreglar-ho.
+Si resulta que tenim una via que ja funciona i no té complicacions, doncs per què?
+També ens fa un record força interessant, que a mi això m'ha semblat interessant també,
+que diu que els AINEs tòpics són efectius per a dolors musculoesquelètics localitzats.
+I els podríem fer servir com a fàrmacs de primera línia.
+Això també és interessant perquè normalment no hi pensava en això.
+Però també que el paracetamol té la mateixa eficàcia que els AINEs justament per a la millora del dolor de...
+aquests tipus de dolor. És a dir, que també fer servir aquí paracetamol oral, en aquest cas, tampoc és cap mala idea.
+Ens ha de quedar com a via parenteral? Doncs quan la via oral no és possible o no és adequada.
+O bé, quan el dolor que es produeix preveus que necessitarà
+més medicació a part d'aquesta medicació que podem donar per via oral.
+L'exemple que posen és el dolor còlic renal,
+perquè a part que venen nauseosos i vomitants, per tant, si dones alguna cosa per la boca i la vomiten no farà efecte,
+però a més a més és probable que necessitin altres coses que sí que en aquest cas precisin de la via parenteral.
+Doncs això, que l'analgèsia via oral, no cal via parenteral.
+I a més a més, deixa'm afegir, Albert, que segurament el cost econòmic no és el mateix
+un vial que es pugui posar endovenós o intramuscular que un comprimit via oral.
+També ho hem de tindre en compte, que és més beneficiós clínicament
+ i menys molèsties i menys dolorós i tal i igual d'eficaç pel pacient,
+però a més a més, per la institució o pel sistema sanitari ens estalviaríem uns quants calés també.
+I en funció de l'organització del teu servei, fins i tot el temps.
+ Jo penso en... tenim un triatge avançat que podem administrar analgèsia intramuscular
+amb la qual cosa si resulta que tens relatiu temps
+i el pacient entra dins els paràmetres, doncs t'aixeques i li punxes l'intramuscular, que són els teus dos o tres minuts.
+Clar, jo penso això mateix, en un servei d'aquests, que et venen deu persones l'hora, doncs probablement aquests tres minuts t'endarreriran.
+I ja no et dic res de quan estàs triant a pinyó fixe i et van entrant paperots per anar posant coses parenterals
+ que es posaran a veure a saber quants minuts passats.
+En canvi donar un sobre allà davant el taulell, és un moment.
+Un sobre i un got d'aigua. Sí, si
+Aquests temps també s'han de tenir present.
+Doncs bé, aquest és el menys és més que us volia recomanar avui.
+No fem servir analgèsia parenteral quan podem fer servir l'oral.
+Els sobres de paracetamol van molt bé!
+Fantàstic. Molt bé, Albert, molt bé
+Vinga, anem a la secció lletraferida. Hòstia, aquesta m'agrada molt, sempre a mi. Sempre m'agrada molt això.
+La secció de l'Urgent Mot.
+sí, va, què tens tu, Xavi, per avui?
+Avui tinc una petita llista de proves complementàries, agafades a una miqueta així...
+Bé, jo us explico per exemple coses que podrien dir-les de forma una miqueta més
+que estiguin d'acord amb el TermCAT, que ens guia una miqueta
+com hem de dir millor els termes mèdics en català.
+Per exemple, tens un pacient amb un TCE o un... amb un ictus què li fem? Un TAC, no?
+Doncs el TAC ja no es fan TACs, sinó que són Tomografies Computades
+i l'abreviació és un TC, una TC.
+TAC ja no existeix i la Tomografia Axial Computada tampoc, ja no és axial. És Tomografia Computada.
+Que d'aquests, escolta... tenim múltiples versions
+El nou que han comprat pel meu centre,
+a més a més dels estudis habituals sense contrast i els contrastats,
+que si tens l'angio TC, a més a més fa estudis de perfusió/difusió...
+Això no sé quins noms tindrà això, perquè això pot ser apoteòsic en un futur.
+Sí, sí, no, no, jo m'he perdut bastant també aquí, però sí, si ho hem d'escriure o dir-ho,
+doncs parlem de Tomografia Computada i suposo que deu incloure totes les modalitats d'aquestes proves que estem demanant ara.
+Després volia parlar de les... quan hem de passar un concentrat d'hematies en algun pacient
+ que està amb una hemorràgia o té una anèmia important, doncs hem de fer unes proves, no?
+Hem de fer unes proves encreuades.
+Les proves creuades... és com els lligaments encreuats del genoll.
+Això em sona que n'havíem parlat, eh, d'aquest.
+Dels lligaments encreuats, sí, i les proves encreuades.
+Després en l'analítica una cosa que demanarem és una glucemia.
+També em podries dir glicèmia, però el TermCat et recomana que parlis més de glucemia que no pas de glicèmia.
+Per tant, parlarem també d'hiper- o hipoglucèmia millor que hipo- o hiperglicèmia.
+Després, poder ja no és... no ho demanem nosaltres, però en alguna ocasió
+t'interessa mirar l'historial del pacient, vejam com està de càrrega viral,
+amb una anàlisi que tingui, doncs mirar com està de càrrega viral. En lloc de carga viral,
+hem de parlar de càrrega viral o càrrega vírica.
+I, què més? D'un parell més és la... quan fem l'analítica
+que jo he dit ara abans, ho he dit fa un moment i li farem una analítica, no,
+li fem una anàlisi clínica o unes anàlisis clíniques.
+El singular i el plural, però sempre és femení.
+Una anàlisi clínica o unes anàlisis clíniques.
+I, finalment, aquella persona que sospites que hagi estat en contacte
+o que el problema que tingui actualment sigui una tuberculosi, li demanes
+o li fas la prova de la tuberculina, que també abans
+podíem dir la prova de Mantoux, però si mires el diccionari del TermCat de Medicina
+el Mantoux no apareix per enlloc. La prova és la prova de la tuberculina.
+El PPD, famós.
+Exacte, sí, sí.
+Això encara.. això aviat ho hauran de treure del diccionari perquè això em sembla que ja es fa servir molt poc o gairebé no es fa servir ja.
+És possible.
+Fan algunes anàlisis rares que has de treure uns tubs raros i els han d'enviar no sé on i això.
+Sí, fan una determinació analítica, sí, de sang, sí.
+Doncs mira, d'aquí uns anys podrem dir a l'UrgentMot que la tuberculina, que ja no.
+És una cosa que es feia abans.
+Mentrestant, tuberculina, no?
+La prova de la tuberculina, sí.
+Molt bé.
+Doncs ja està, són els sis termes relacionats amb proves complementàries
+que, bé, si els podem fer servir de forma una miqueta més
+correcta seguint les recomanacions del termCat, doncs millor que millor.
+Recordar als oients que en Xavi té totes aquestes paraules i unes quantes més al seu diccionari, al seu lloc web
+urgem.cat/diccionari que jo els faig servir sovint quan tinc algun dubte d'aquests de: això?
+i ho vaig a mirar allà i escolta'm, és molt pràctic.
+No sé si controles les vistes del teu lloc web però em sembla que unes quantes són meves.
+No, no ho controlo.
+Però sí que em serveix de vegades que algú que coneix aquest llistat,
+que per casualitat troba algun terme que desconeixia.
+Si m'ho diu, jo m'ho miro i si no el tinc al llistat em podeu ajudar a completar-lo.
+Doncs escolta, una altra paraula que tens tu llistat,
+aquesta l'he fet servir molt les últimes setmanes perquè he estat fent una formació d'electrocardiografia a la meva empresa.
+ Ja porto no sé pas quantes sessions, no sé pas quantes me'n queden.
+Estic avorridíssim de dir la paraula elèctrode.
+No electrode, elèctrode. Amb aquest accent a la... Bé, és una esdrúixola, eh?
+A la segona e. Que tothom li diu electrode, doncs no, és elèctrode.
+El seu plural, elèctrodes.
+Així, a més a més de fer una formació d'electrocardiografia també en faig una de català ben parlat.
+Només aquesta paraula perquè el resto és un xurro, eh?
+Però aquesta no sé si la tinc...
+Oh, mirem-ho, mirem-ho. Jo crec que sí, em sona que la tens. Em sona que la tens, aquesta. Si no l'hi posaràs i quan estigui publicat això ja hi serà.
+ Val, val, val. Ho miraré, ho miraré.
+Doncs va, després d'aquest elèctrode, recomanacions, que és l'última secció
+i que alguns oients ens han dit que en volien més de recomanacions. Doncs vinga, va.
+Venen ara les nostres d'aquest episodi.
+Comences tu, Xavi, o començo jo?
+Comença tu, Albert, sí.
+Va, començo jo. Doncs el tema d'avui anava de pediatria.
+Doncs la meva recomanació és un lloc web que es diu pediatricemergencies.com
+i el lloc web en si us el recomano perquè fan una conferència via internet des del 2019, veig ara,
+i fa quatre dies, el 9 de novembre la van fer i han publicat ja els seus vídeos.
+És una conferència en línia, és a dir, fan les xerrades en una plataforma d'aquestes d'streaming
+ i llavors publiquen els vídeos i els àudios en format pòdcast, també.
+I ara ja han sortit les de 2023 i és una conferència força interessant amb moltes xerrades interessants.
+N'hi ha una de suport vital de pediatria, per exemple, que ens vam escoltar davant de l'episodi d'avui 
+i, a més a més, fins i tot veig aquí que et fan certificats per watching the video, per si tens...
+Força interessant. A mi la veritat és que m'agrada molt, en comparació amb l'episodi passat que parlàvem de l'opacitat
+i del jardí barrat del Congrés de l'EUSEM, doncs això és tot el contrari.
+Això és l'esperit FOAMED, Free Open Access Medicine, és a dir, formació mèdica per a tothom a tot arreu.
+Doncs guaita, pediatricemergencies.com És en anglès, eh, companys? Si no sabeu anglès, pinta malament. 
+Molt bé, Albert. Molt interessant.
+Jo us volia recomanar, seguint amb la mateixa temàtica d'aquest episodi d'avui,
+que anava centrat el tema principal amb el tema de pediatria, 
+i és una aplicació web, no és una app, és un lloc web, però no l'has de mirar en el teu mòbil.
+Això li diuen webapps.
+Ah, es diu així? No ho sabia. Webapp
+Però sí, de fet, la pàgina web és upedcalc.web.app
+O sigui, deu ser d'Urgències Pediàtriques Calculadora uped, amb D, calc .web.app
+Aleshores, és una calculadora d'urgències pediàtriques.
+La veritat és que funciona molt bé, és d'origen català, ho han fet pediatres de l'Hospital Sant Joan de Reus,
+ho han desenvolupat ells, i és una ajuda perquè si saps el pes del nen
+o saps l'edat, d'entrada et demana, per exemple, el pes, i ell et va dient, a partir d'aquí,
+tot el que puguis necessitar de medicació o, per exemple, si estàs fent RCP, et dirà...
+els Joules que necessites fer cada cardioversió
+i les presentacions dels medicaments, quines tenim, 
+si són presentacions, tenim vials de 250 i d'un gram, com es prepara la dilució, quina és la dosi,
+i en funció del pes, et dirà: aquest nen necessita que li posis 22 mil·lilitres d'aquest medicament.
+Amb la qual cosa, les possibilitats d'errors són més baixes,
+ i les possibilitats d'estressar-te tu perquè penses que no te'n recordaràs o el que sigui,
+doncs, també l'estrès del professional també disminueix.
+Parla de moltes coses, quan tu li poses el pes, després
+ell et demana què vols, temes d'RCP, de via aèria, de bombes d'infusió contínua, 
+sèpsia, anafilaxi, cardiologia, pneumologia, neurologia o intoxicacions.
+Per tant, tens un ampli marge de patologies
+que puguis necessitar per resoldre els temes.
+La dosi, per exemple, te les dona tant en mil·lígrams com en mil·lilitres de les presentacions que tu escullis.
+És una de les aplicacions que ens van ensenyar en el curs de suport vital avançat pediàtric
+i per això us la volia compartir avui.
+upedcalc.web.app
+Exacte.
+Quan ho obres des de l'ordinador et diu que ho has d'obrir amb l'Smartphone i et posa en un QR. Molt bé.
+Molt bé, molt bé. Interessant, interessant. Aquesta queda...
+Per guardar això ho deus haver de guardar...
+Suposo que t'ho pots guardar a l'escriptori.
+Interessant. Ara quan pengem, quan acabem aquí la conversa, a baixar-se això i a posar-so el mòbil.
+O a les unitats de suport vital, tenim les tauletes i tal. També ho podem posar...
+També ho pots posar en l'escriptori de la tauleta, no?
+Doncs va, avui quan vagi de guàrdia a veure si puc tunejar l'escriptori.
+Molt bé. Doncs escolta'm, si no tenim res més...
+Jo penso que no.
+Ja podem anar tancant. Recordar a tothom que tenim un canal de Telegram
+on discutim de les nostres penes i de tant en tant posem alguna cosa.
+De fet, una agenda aquest mes passat... Aquest mes ho tinc bastant abandonat. Hauré de posar alguna coseta aviat.
+Sí, i també veig que és un bon canal per si algú ens vol fer algun suggeriment 
+o alguna rectificació que ens haguem equivocat d'alguna cosa o el que sigui.
+Doncs a través del Telegram això és una...
+una eina bastant fàcil de posar-nos en contacte
+amb tota la gent que ens pugui escoltar.
+Doncs molt bé, escolteu, fins aquí aquest episodi d'avui. Ens veiem el mes vinent. Que vagi molt bé.
+Molt bé, Albert, f ins a la propera, adeu-siau a tothom
