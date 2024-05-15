@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Ep34_15AnysCodiIAM.mp3
-Scroll Position: 815
-Active Line: 838
+Scroll Position: 695
+Active Line: 711
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -733,7 +733,7 @@ Dialogue: 0,0:44:57.80,0:44:59.30,Albert,,0,0,0,,L'angoixa de la mort.
 Dialogue: 0,0:44:59.30,0:45:05.30,Albert,,0,0,0,,Ara el malalt està més tranquil, li ha passat l'angoixa. Un respir, unes inspiracions... una freqüència respiratòria determinada.
 Dialogue: 0,0:45:05.30,0:45:07.30,Xavier,,0,0,0,,Això és l'angoixa?
 Dialogue: 0,0:45:07.30,0:45:11.30,Albert,,0,0,0,,L'angoixa. Després diu opressió de l'ànim, fàtig, afany extrem,
-Dialogue: 0,0:45:11.30,0:45:17.60,Albert,,0,0,0,,malestar profund alhora físic i psíquic determinat per la impressió d'un perill imminent i determinat davant del qual
+Dialogue: 0,0:45:11.30,0:45:17.60,Albert,,0,0,0,,malestar profund alhora físic i psíquic determinat per la impressió d'un perill imminent i determinat davant del qual hom resta impotent.
 Dialogue: 0,0:45:17.60,0:45:19.00,Albert,,0,0,0,,Això és la definició d'angoixa.
 Dialogue: 0,0:45:19.00,0:45:22.50,Albert,,0,0,0,,Anem a l'ansietat. L'ansietat la defineix el diccionari com
 Dialogue: 0,0:45:22.50,0:45:26.10,Albert,,0,0,0,,estat d'intranquil·litat i d'agitació amb sensació d'opressió al cor.
@@ -826,7 +826,7 @@ Dialogue: 0,0:51:44.60,0:51:50.50,Xavier,,0,0,0,,Aleshores aquest és un llibre 
 Dialogue: 0,0:51:50.50,0:51:57.00,Xavier,,0,0,0,,i està fet per 4 o 5 investigadors que són molt reconeguts a nivell científic, mèdic, a nivell internacional
 Dialogue: 0,0:51:57.00,0:52:03.00,Xavier,,0,0,0,,i és un llibre molt divulgatiu està pensat per gent que fa divulgació científica, per periodistes,
 Dialogue: 0,0:52:03.00,0:52:09.20,Xavier,,0,0,0,,per personal sanitari que no siguem investigadors o que no tinguem uns coneixements de metodologia científica
-Dialogue: 0,0:52:09.20,0:52:14.00,Xavier,,0,0,0,,molt avançats perquè ho puguis llegir tranquil·lament i també per investigadors que publiquen coses, 
+Dialogue: 0,0:52:09.20,0:52:14.00,Xavier,,0,0,0,,molt avançats perquè ho puguis llegir tranquil·lament i també per investigadors que publiquen coses,
 Dialogue: 0,0:52:14.00,0:52:18.50,Xavier,,0,0,0,,doncs, perquè les seves dades les publiquin de la forma més entenedora
 Dialogue: 0,0:52:18.50,0:52:25.00,Xavier,,0,0,0,,i amb totes les dades necessàries perquè el lector, al llegir aquell estudi ho pugui interpretar de forma correcta.
 Dialogue: 0,0:52:25.00,0:52:29.00,Xavier,,0,0,0,,És un llibre que quan va sortir el 2006 va tindre molta repercussió
@@ -854,10 +854,10 @@ Dialogue: 0,0:54:08.40,0:54:10.20,Xavier,,0,0,0,,Adéu siau a tothom. Adéu.
 Dialogue: 0,0:54:10.20,0:54:11.40,Albert,,0,0,0,,Fins la propera, que vagi molt bé.
 Dialogue: 0,0:54:16.00,0:54:18.40,Albert,,0,0,0,,I estava pensant que un dia hem de rajar...
 Dialogue: 0,0:54:18.40,0:54:19.40,Xavier,,0,0,0,,Digues, digues.
-Dialogue: 0,0:54:19.40,0:54:20.80,Albert,,0,0,0,,És que ja m'estic encenent jo sol. 
-Dialogue: 0,0:54:20.80,0:54:21.40,Xavier,,0,0,0,,Què passa ara? 
+Dialogue: 0,0:54:19.40,0:54:20.80,Albert,,0,0,0,,És que ja m'estic encenent jo sol.
+Dialogue: 0,0:54:20.80,0:54:21.40,Xavier,,0,0,0,,Què passa ara?
 Dialogue: 0,0:54:21.40,0:54:26.40,Albert,,0,0,0,,A França hi ha un pollo interessant muntat... Us en recordeu la hidroxicloroquina? Pel Covid?
-Dialogue: 0,0:54:26.40,0:54:27.00,Xavier,,0,0,0,, Sí. 
+Dialogue: 0,0:54:26.40,0:54:27.00,Xavier,,0,0,0,, Sí.
 Dialogue: 0,0:54:27.00,0:54:29.60,Albert,,0,0,0,,Doncs un dels culpables es diu Dídier Raoult.
 Dialogue: 0,0:54:29.60,0:54:30.40,Xavier,,0,0,0,,Està a la Bastilla?
 Dialogue: 0,0:54:30.50,0:54:32.40,Albert,,0,0,0,,Doncs mira, hi hauria d'anar, segurament.
