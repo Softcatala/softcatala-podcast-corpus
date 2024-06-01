@@ -1,0 +1,31 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+En aquest episodi de l'EMPodCat us volem presentar una iniciativa
+del Things we do for no reason de la campanya Choosing Wisely
+publicada en el Journal of Hospital Medicine el gener del 2024.
+I ens parlen de la indicació de fer un electrocardiograma basal
+en aquells pacients adults ingressats amb una hiperpotassèmia lleu, 5-6.
+Ens expliquen que l'electrocardiograma no és una eina ni sensible ni específica
+per ajudar-nos en el maneig d'aquests pacients.
+Ens diu que un pacient pot tindre uns canvis elèctrics
+suggestius d'hiperpotassèmia i tranquil·lament pot tindre un potassi normal.
+I al revés, un pacient amb una hiperpotassèmia fins i tot moderada, de 6,5-7,
+pot anar tranquil·lament amb un electro normal.
+Per tant, ens recomanen que en aquells pacients amb hiperpotassèmia ingressats
+per alguna altra causa, però que té un potassi de 5-6, no cal fer un electro basal.
+Només cal mesures per reduir el potassi en sang
+i controls en sang de potassi per veure si això es va corregint.
+En pacients que tenen risc que aquest potassi en sang augmenti molt ràpidament,
+per exemple, acidosi metabòlica aguda, administració de succinilcolina,
+rabdomiòlisi, cremades importants, síndrome de lisi tumoral,
+transfusions massives, insuficiència renal aguda,
+o que a més a més del potassi hi hagi una hipermagnesèmia,
+una hipocalcèmia o un infart de miocardi,
+en aquests pacients que a més a més tinguin un potassi de 5-6,
+tampoc cal un electrocardiograma basal, només un monitoratge cardíac continu
+i les mesures per baixar el potassi i controls en potassi en sang.
+I només aquells pacients amb un potassi per sobre de 6,
+és a dir, una hiperpotassèmia moderada, sí que cal fer un electrocardiograma basal,
+perquè si té canvis característics d'una hiperpotassèmia,
+aquests sí que són candidats d'administrar, per exemple, gluconat càlcic.
+La resta dels casos no cal cap mena d'electrocardiograma.
+Això és el que ens recomana aquesta iniciativa que us presentem en aquest episodi.

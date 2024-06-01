@@ -1,0 +1,776 @@
+# Exported by Aegisub 3.2.2
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Bon dia, oients de l'EMPodCat.
+Estem a l'episodi número 36, estem a la tercera temporada,
+i avui tenim totes les seccions que tenim habitualment.
+Com sabeu, l'EMPodCat és un espai per conversar sobre urgències i emergències sanitàries,
+que som un gran equip, actualment som dues persones.
+A un costat tenim l'Albert Homs. Hola Albert, què tal, com estàs?
+Presenta't una miqueta, pels que no et coneixen encara, presenta't una miqueta.
+Hola, bon dia, bona tarda, bona nit, el que s'escaigui.
+Jo sóc l'Albert Homs, sóc infermer d'urgències i emergències, treballo a l'Hospital de Cerdanya,
+aquí als Pirineus Catalans, i també a l'Unitat de Suport Vital Avançat del SEM,
+que té el SEM subcontractada aquí a casa meva.
+Tinc un blog, que és emermedpirineus.cat, i pel pòdcast tenim la pàgina web on pengem els episodis,
+empod.cat, i també tenim un grup de Telegram, que vas dir l'últim episodi,
+aviam si arribàvem a 100 abans d'acabar la temporada, bé, som 95.
+O sigui que estem allà, estem allà, estem allà, ens faltes tu, que ens escoltes.
+I qui ens ha parlat és en Xavi Basurto. Va, presenta't tu ara.
+Hola, bon dia, bona tarda, sí, jo sóc en Xavi Basurto, que sóc metge d'urgències a l'Hospital de Figueres,
+i també estic en una avançada a la 606, que d'aquí a poc començarem a fer coses rares dels VIR i de les índies,
+i no sé què, que ja estic tremolant una miqueta.
+Tinc un blog, que és urgem.cat, i el mateix a X, i què més? Ja estan, no, les presentacions?
+Doncs va, avui, a més a més de so, en aquest episodi 36 també hi posem imatge.
+Com que sabeu que a l'Albert li agrada molt el tema dels electros i aquestes coses,
+fer-ho en un pòdcast només és una miqueta complicat de seguir-ho,
+i aleshores ha decidit l'Albert il·lustrar-nos en un, no sé si això es diu un vídeopodcast,
+o senzillament un vídeo penjat a les xarxes socials, no ho sé.
+Bé, que ens has d'explicar, no sé, coses d'electros. Què ens vols explicar avui sobre els electros?
+Avui segueixo amb la meva línia d'anar a les coses bàsiques,
+perquè d'electros puc explicar moltes coses, però la més important potser és com fer-los bé.
+Una cosa que fem sovint infermeres, auxiliars, tècnics d'emergències sanitàries, metges poquets ho fan,
+i és molt, molt important fer-ho bé.
+I aprofitant que fa uns mesos vaig fer unes xerrades al meu hospital i amb els tècnics de la meva zona,
+tinc una presentació feta que aprofitaré per explicar-vos com fer correctament un electrocardiograma.
+Com que els tècnics d'emergències sanitàries de les unitats de suport vital bàsic de Catalunya
+tant bon punt de sortir el nou concurs, que segurament ja serà passat l'estiu, o ja ho veurem,
+tindran capacitat de fer electros, doncs mira, aquest episodi servirà com una eina educativa més
+per començar-los a fer bé, perquè les unitats de suport vital bàsic pocs electros feien fins ara.
+I perdona, i els que hem de començar a fer VIR també ens anirà bé, no, això o què?
+Segurament.
+Perquè mentre el tècnic ja ho sap fer-ho de sobres, però els metges t'asseguro jo que no hi tinc la mà trencada.
+D'això ho has dit tot tu, jo no he dit res.
+Però tinc ganes d'aprendre-ho, va, explica'ns-ho.
+Doncs mira, et servirà. Va, els que sapigueu què és el potencial transmembrana i les fibres de Purkinje
+ja podeu passar cinc minuts endavant, que dedicaré una estoneta de fisiologia bàsica,
+perquè si no saps ben bé què busques, doncs difícilment entendràs per què ho fas, d'acord?
+Començarem parlant: electrocardiograma, la paraula ja ho diu tot, són tres sufixos, no sé si són grecs o llatins,
+grama de registre, cardio de cor, electro d'electricitat.
+I aquí la part d'electricitat és segurament la que pot sonar una miqueta estrany si no saps de què estem parlant.
+El cor no és res més que una gran massa de cèl·lules musculars cardíaques, miòcits,
+distribuïts d'una forma molt intel·ligent, perquè quan es contreuen tots de forma sincrònica i harmònica
+es disminueixen els volums interiors de les cavitats i s'ejecta la sang que hi ha a dins, fent una pulsació, de forma pulsativa.
+Les cèl·lules musculars totes funcionen igual, estan en una posició de repòs,
+en aquesta posició de repòs hi ha una diferència de càrregues elèctriques de dins a fora,
+i quan reben un estímul, que normalment és un estímul elèctric, aquesta diferència de potencials es trenca,
+s'equilibren les càrregues i la cèl·lula muscular es contreu.
+Si això ho fem d'una forma sincrònica i massiva, és quan aconseguim aquesta contracció de tota la cavitat i que es faci més petita.
+Ja he dit que ha de ser sincrònica i ha de ser massiva.
+Perquè això passi necessitem alguna forma de transmetre aquesta senyal elèctrica a totes les cèl·lules per dir-los: et toca.
+D'això se'n diu el sistema de conducció elèctrica cardíaca.
+Al cor el que tenim és una sèrie de camins, diguem-ne autopistes, en el qual la senyal elèctrica surt d'un punt i arriba als següents.
+Dalt l'aurícula dreta tenim el node sinoauricular, que el que fa és disparar un senyal que es transmet primer cap a un caminet,
+que és el feix de Bachmann, que se'n va cap a l'aurícula esquerra, i després també cap a una sèrie de fibres que estan a tota l'aurícula,
+i això provoca la contracció a tota l'aurícula, de les dues, de la dreta i l'esquerra.
+Això el que fa és buidar tota la sang de les aurícules cap als ventricles.
+La senyal elèctrica aquesta, per aquestes fibres que us he comentat de l'aurícula dreta, arriba a una altra zona, que és el node auriculoventricular,
+que el que fa aquest és frenar-ho per donar temps a que aquesta contracció...
+La contracció d'aquestes cèl·lules cardíaques és molt ràpida, de l'ordre de mil·lisegons.
+El que fa és donar temps a que es buidin i el ventricle no es contregui de seguida.
+Això és la funció del node auriculoventricular, que està entre l'aurícula i el ventricle drets.
+D'aquí surt el feix de His, que es divideix en dues branques, i el feix esquerre es divideix en dues més...
+El que fa tot això és transmetre aquest senyal elèctric primer pel septe, la paret que separa els dos ventricles,
+després cap a l'àpex, a la part final del cor, i després per les parets.
+De forma que la contracció dels ventricles comença pel mig, cap a la punta i cap a les parets externes.
+Tot aquest volum cardíac es contreu, disminueix el seu volum intern,
+i provoca un moment de pressió dins les cavitats i l'ejecció de la sang.
+Hem parlat de contracció no d'una cèl·lula, sinó d'un conjunt enorme de cèl·lules.
+Aquesta contracció, aquesta pèrdua d'equilibri elèctric que tenim, això ho podem detectar.
+I és bàsicament el que fa l'electrocardiograma.
+És dibuixar aquesta contracció massiva de totes les cèl·lules.
+Una sola som incapaços, però quan són moltes que es despolaritzen alhora,
+som capaços de, des de l'exterior, veure que hi ha unes diferències de càrrega elèctrica,
+una diferència de potencial elèctric.
+I aquest és el propòsit de l'electrocardiografia.
+És representar gràficament com es mouen aquestes càrregues elèctriques.
+En una situació de repòs, res es belluga, no hi ha cap moviment.
+Però en el moment que hi ha una contracció d'un gran nombre de cèl·lules musculars,
+hi ha moviment de càrregues elèctriques que nosaltres podem detectar.
+I quan mirem al llarg del temps tenim un dibuix que veiem com va canviant al llarg del temps.
+Aquí parlo molt d'electricitat i de detecció. Estem parlant de l'ordre de mil·livolts.
+Les nostres cases van a 220 volts.
+Això estem parlant de l'ordre de mil·livolts, i no diguem res d'una altra tensió que va de l'ordre dels quilovolts.
+La diferència és enorme i això fa que sigui tot molt susceptible a ser interferit o artefactat.
+Si estem parlant de quantitats tan petites de senyal, qualsevol cosa fa molt soroll i és molt fàcil que s'alteri.
+He parlat que això és una representació al llarg del temps, simplement estem mirant tota l'estona.
+Però si en comptes de mirar des d'un sol lloc, mirem des de diferents llocs alhora,
+ja no només tenim una representació al llarg del temps, sinó que també tenim una representació espaial.
+Aquí hi poso l'exemple quan llenço una pilota.
+Ara perquè estem separats per l'internet, però si jo et llenço una pilota a tu, Xavi,
+jo veuré que la pilota s'allunya de mi, per tant cada vegada és més petita.
+Però en canvi, el mateix fet, que és una pilota que he llençat jo cap a tu, tu cada vegada la veuràs més gran perquè se t'acosta.
+És exactament el mateix fet, l'únic que canvia és des d'on ho estic mirant. Això s'ha entès, eh?
+Sí, correcte, s'entén bé.
+Cada un d'aquests punts des d'on mirem se'n diuen derivacions.
+Quantes derivacions té un electro normal?
+A casa meva, 12.
+A casa teva, 12.
+Doncs l'electro estàndard té 12 derivacions, hi ha variacions d'això, però tenen 12 derivacions.
+El que és sorprenent és que l'electro estàndard de 12 derivacions té... quants cables?
+Quants elèctrodes es necessiten per fer un electro de 12 derivacions?
+12, no? O vaig equivocat?
+Ah, és la pregunta trampa. Se'n necessiten 10.
+Ja em semblava que era trampa, però bé.
+Se'n necessiten 10, després veurem com és això.
+Tenim aquest electrocardiograma, és aquest dibuix.
+Nosaltres necessitem interpretar aquest dibuix. Poso l'exemple d'un arbre.
+Jo estic al Pirineu i els arbres del meu territori tenen una estructura, no? tenen una base.
+Pot ser que vegis una miqueta més o menys les arrels, un gran tronc, unes branques i després unes fulles.
+Si a mi em llencen, jo què sé, a Madagascar, que només hi ha baobabs,
+jo veuré un baobab i diré, cony, això és un arbre.
+Però d'un baobab a un pi no s'assembla absolutament de res.
+Però jo sóc capaç de reconèixer que allò és un arbre,
+perquè respon a una interpretació que jo he fet d'aquesta forma.
+És el mateix un baobab com un pi? No, però s'assembla.
+Amb l'electrocardiograma passa el mateix. Jo tinc uns dibuixos i jo reconec uns patrons.
+I amb aquests patrons interpreto què pot estar passant.
+Clar, en funció des d'on miri, aquest patró és diferent. Allò que dèiem de la pilota.
+Si la pilota s'allunya de mi i tu la veus que s'acosta, doncs estem veient el mateix fet des de diferents llocs.
+Els patrons que jo veuré seran diferents des d'on ho estigui mirant.
+Clar, si cadascú mira des d'on li dóna la gana, si jo miro l'arbre i el miro cap per avall,
+doncs, hòstia, és un arbre, però està cap per avall.
+Llavors s'ha creat, ja fa pràcticament un segle, s'han creat diferents estàndards
+perquè tots interpretem els electros des dels mateixos llocs.
+És a dir, no val que cadascú miri des d'un lloc diferent. Hi ha un acord, i això és l'electro estàndard de 12 derivacions,
+que és des d'on estarem mirant aquests moviments de càrregues elèctriques cap a on van, què fan i com són i com deixen de ser.
+Sí? S'ha entès això, Xavi?
+Sí, s'ha entès.
+I això és molt important, perquè si el que fem nosaltres, comencem a fotre els cables on ens dóna la gana,
+el que aconseguim és que aquest dibuix que jo haig d'interpretar i haig de reconèixer patrons,
+doncs, o els interpreti malament o no siguin interpretables.
+I, és clar, si jo faig electros que poden determinar coses,
+i l'electro és incorrecte o està mal posat, doncs, és clar, em puc equivocar.
+Però això se'n diu innovar, fer coses diferents, i cadascú que ho faci com vulgui.
+No et dic que no, i de fet hi ha coses que venen ara,
+Em ve al cap ara una cosa que es diu Cine-ECG, per exemple, o derivacions diferents de l'estàndard,
+però si fem això el que hem d'aconseguir és que moltíssima gent accepti aquest estàndard i fer-lo servir a la pràctica clínica.
+L'electrocardiograma estàndard de 12 derivacions és aquest. Volem fer una cosa diferent? Collonut.
+S'estan fent coses diferents. Però ja no és un electro estàndard de 12 derivacions.
+Perquè és curiós com poc ha evolucionat aquesta ciència en els últims 100 anys,
+perquè els electros són iguals ara que fa 50 anys, no ho sé.
+Que fa 50 sí, que en fa 100 no.
+Si esteu interessats en la història de l'electrocardiografia, l'Elena Plaza, Más que Urgencias y Emergencias,
+té un episodi al seu pòdcast que justament parla d'això molt interessant.
+Ah sí? Vale.
+Surten aquelles fotos dels gossos amb les quatre potes dins de galledes d'aigua amb sal, que és dels primers electros que es feien.
+Des dels últims 50 anys cap aquí, l'estàndard ha canviat molt poc. Dic 50 i potser ho he de dir 80.
+Això, història, Elena Plaza, Más que Urgencias y Emergencias.
+Va, hem quedat que hi havia 12 cables, havíem dit?
+No, 10 cables has dit.
+Correcte, havíem quedat 10 cables.
+Estic alerta del que estàs explicant.
+Molt bé. Doncs aquests 10 cables s'han de posar en els llocs on correspon.
+I els llocs on correspon són, els que estigueu veient el vídeo ja ho teniu allà, si no, jo ho descriuré, evidentment.
+Es mouen en dos plans diferents.
+Una cosa que n'hi diem el pla frontal, és a dir, la persona vista des de davant, la persona la tallo entre davant i darrere,
+i un altre pla, que és el pla horizontal, és a dir, que la persona la tallo entre dalt i baix.
+El que ens interessa, d'aquests 10 cables, dic cables i potser hauria de dir elèctrodes,
+aquí hi ha una miqueta de garbuix etimològic.
+És a dir, jo haig de connectar un cable del meu aparell a un lloc concret.
+Aquesta connexió del cable a la persona es fa a través d'un elèctrode.
+Jo connecto alguna cosa, que ara ja pràcticament tots fem servir uns adhesius
+que porten una pasta conductora, i allà hi connectem el nostre cable i l'hi enganxem.
+Antigament, o no tan antigament, es feien servir unes pinces i unes ventoses pel tòrax. Els que tingueu una edat, doncs potser us en recordareu, això.
+D'aquests 10 cables n'hi ha 4 i 6.
+Anem primer als 4. Es posen a les extremitats, i a les extremitats on anirien, Xavi?
+On els posaries tu, els 4 cables de les extremitats?
+Aviam, el vermell a la dreta, extremitat superior dreta,
+groc a l'extremitat superior esquerra i el verd a l'extremitat inferior esquerra.
+I després el negre, que deu ser el neutral o neutre, o no sé com en diem, a l'extremitat inferior dreta.
+Molt bé. Doncs hem parlat d'extremitats i, de fet, normalment als aparells hospitalaris, els cables, es posen a les extremitats.
+Els acostumem a posar per la part interna dels canells i per la part interna dels turmells.
+La majoria de monitors o d'electrocardiògrafs extrahospitalaris, ambulancieros,
+no es posen a les extremitats, sinó que es posen al tronc,
+una miqueta per dins de les espatlles i una miqueta per sobre de les crestes il·líques.
+Això té una certa importància. Cada aparell està pensat per a aquestes posicions.
+És important fer-ho notar, això. Hi ha una petita diferència, és subtil, però hi és.
+No és el mateix fer l'electro amb els elèctrodes al tronc que amb els elèctrodes a les extremitats.
+Ho podem fer? Sí, no hi ha cap problema en fer-ho. Però sapiguem que no és exactament igual.
+És subtil la diferència, però si el que estem buscant són coses subtils a l'elèctro, doncs això ho hem de tenir present.
+Hem de saber el nostre aparell, el seu fabricant, com l'ha programat, si és per extremitats o és per tronc.
+Del tronc, em sembla que es diu Mason-Lykar, no me'n recordo ara com es diu. Té un nom, eh?, aquesta posició dels elèctrodes.
+Si fem servir aquest aparell en posicions diferents, potser hem d'anotar-ho, perquè el que llegeix l'electro pensi, podria ser que això fos...
+Com que normalment tots fem servir només el nostre aparell, doncs simplement sapiguem com és el nostre aparell i tinguem-ho present.
+Els colors ho has dit molt bé. El semàfor vermell, groc, verd.
+En l'estàndard europeu és així, en l'estàndard americà no.
+Després veurem qui és més llest. Sempre els americans són tontos, però potser no tant.
+I has parlat de l'elèctrode negre neutre.
+No m'hi vull entretenir massa estona aquí, però l'explicació per la qual tenim 12 derivacions i 10 cables
+és perquè en aquests 4 elèctrodes del pla frontal hi ha 6 derivacions.
+Tenim 3 derivacions que se'n diuen bipolars, que el que fan és des d'una elèctrode miren a l'altre.
+Per exemple, la derivació D.I és des de la L,
+és a dir, des del costat esquerre, estem mirant cap al costat dret.
+D.II és mirar des de la cama esquerra cap al braç dret.
+I D.III és mirar des de la cama esquerra cap al braç esquerre.
+Se'n diuen bipolars perquè mirem d'un elèctrode a l'altre.
+I aquestes 3 es fan servir perquè la màquina fa un càlcul d'un punt central imaginari del cos,
+la terminal central de Wilson, em sembla que es diu.
+I totes les altres, les 6 derivacions, els 6 cables precordials,
+i cada una d'aquests 3 elèctrodes de les extremitats que hem dit miren cap a aquest punt central.
+Per això necessitem aquest N de neutre perquè la màquina pugui fer aquest càlcul.
+Ja us podeu imaginar que si un d'aquests 4 elèctrodes del pla frontal
+el posem malament, la tira de derivacions sortiran malament.
+És molt, molt important posar bé els elèctrodes, però aquests 4 més, perquè si aquests 4 els foto malament,
+o un d'aquests 4 balla, el que sigui, hi ha una interferència, doncs afectarà a totes les altres.
+Important això, eh?
+El semàfor: vermell-groc-verd i el negre, la baixa a la dreta.
+Anem a les altres derivacions, els del pla horitzontal.
+Aquestes es posen just damunt de les estructures cardíaques.
+Quan feia el curs els demanava a la gent això tan poètic de posar-se-la amb el cor.
+I diguem que el coneixement anatòmic no és...
+Universal.
+No és tan universal, exacte.
+Bé, això és important, i aquesta... jo em desespero molt
+perquè mira que he fet formació d'això i mira que està escrit a tot arreu i mira, i mira que...
+aquestes 6 derivacions que han d'anar aquí al precòrdi, precòrdi, davant del cor,
+hosti tu, te'n trobes a tot arreu menys on toca.
+I gran part de la culpa la tenen les fotos de llibres i d'internet.
+Avui, just avui, mentre em preparava això,
+he trobat la primera fotografia d'un tòrax femení amb els elèctrodes ben posats.
+He dit femení, de tòrax masculí amb els elèctrodes ben posats, n'hi ha bastants.
+Mal posats molts, eh, també, però de dones no.
+Es fa malament, normalment?
+No diré que normalment, però que se'n fan molts de malament, t'ho puc ben assegurar.
+On van aquests elèctrodes?
+I aquí, ara, seguiu-me perquè això és important.
+Tenim 6 elèctrodes que van de V1, no em pregunteu per què és V1 i no C1,
+en l'estàndard americà és C1, aquí és V1, no sé per què, potser coses de l'alemany, ni idea,
+van de V1 a V6.
+I els posarem de la següent manera.
+El V1, que en l'estàndard europeu és de color vermell, com la R, hòstia, dos cables amb el mateix color.
+Els americans no tenen el mateix color. Aquí ho deixo.
+Bé, V1, aquest V1 va al quart espai intercostal paraesternal dret.
+I ara aquí he llançat unes petites referències anatòmiques que hauré d'explicar.
+Què és un espai intercostal? Aquest és fàcil, no, Xavi?
+M'ho estàs preguntant a mi?
+Bé, ho llenço a l'aire, però vaja...
+Bé, bé, mira, entre dues costelles hi ha un espai intercostal.
+Llavors el quart espai intercostal és el que hi ha entre la quarta i la cinquena costella.
+Llavors, què hem de fer per trobar el quart?
+Doncs comptar costelles, comences a dalt la clavícula,
+la primera costella està just a sota la clavícula, i vas baixant.
+Toco la clavícula, primera costella. Hi ha un forat, primer espai intercostal.
+Baixo una miqueta més, hi ha un bony que puja, segona costella, a sota, el segon espai intercostal.
+Baixo una miqueta més, una altra pujadeta, la tercera costella, tercer espai intercostal.
+Baixo una miqueta més i noto la quarta costella, doncs just a sota.
+Si tens una miqueta de sobrepes, pot costar una miqueta això.
+Correcte. També t'haig de dir que sota l'estern és on menys teixit adipós hi ha.
+Bé, sí.
+També hi ha una altra trampa que pots fer, que és l'estern no baixa recte.
+A l'inici té un pendent, diguem-ne uns 45 graus, i després hi ha un angle, que és l'angle de Lewis,
+i després sí que baixa amb un empit pràcticament vertical. Aquest angle de Lewis és el segon espai intercostal.
+Sí.
+Doncs si saps que el segon espai intercostal és just on hi ha l'angle,
+llavors l'únic que has de mirar, és des de l'escotadura esternal fins a l'angle, són dos espais intercostals,
+doncs el mateix cap avall i és el quart espai intercostal.
+S'ha de comptar.
+Algú, amb tota la bona intenció del món, va dir que el quart espai intercostal
+és just a la línia mamil·lar, on tens els mugrons.
+Sí, també t'ho anava a dir ara, això. No és veritat?
+Doncs, home, si ets jove, home i atlètic, podria ser.
+Sí.
+Però, clar, d'homes, joves, atlètics, no són gaires, i a més a més això de ser jove passa amb el temps.
+I no són els que normalment necessiten un electro urgent, no?
+Acostuma a passar. Per tant, s'ha de comptar.
+Ploro d'emoció quan algú, abans de posar els elèctrodes, compta.
+Potser, si n'has fet molts i tens una bona vista,
+doncs probablement ja puguis més o menys anticipar on queda el quart espai intercostal.
+On diuen que has de posar les mans per fer l'RCP, aquí sí que ja hem de vigilar,
+doncs queda la part baixa d'on hem de posar aquest taló de la mà.
+Això, pels espais intercostals. L'altra part és el paraesternal.
+Para vol dir al costat, proper i esternal de l'estern.
+Per tant, l'hem de posar no al mig, sinó una miqueta a la dreta.
+I una miqueta vol dir una miqueta.
+Ni massa ni poc.
+Si toques, allà on acaba l'estern, bàsicament.
+V2 és exactament igual que V1, però a l'altre costat de l'estern, paraesternal esquerra.
+Aquestes derivacions, això que us comentava de l'Elena Plaza, que ella encara és més friki que jo amb això dels electros,
+aquestes derivacions les diu les derivaciones dependientes.
+Per què dependientes? Perquè cuelgan de las orejas.
+Perquè el que acostuma a passar molt és que aquestes derivacions les posen molt amunt.
+V1-V2 ha de quedar més o menys a l'alçada de les aurícules.
+Si us en recordeu, quan ens deia poseu-vos la mà al cor, doncs va a la part de dalt del cor.
+V1-V2, si ho posem al segon espai intercostal, que és on s'acostuma a posar, erròniament,
+voldria dir que tindríem el cor pràcticament aquí a l'alçada del coll.
+V1-V2 va més o menys sobre les aurícules. Aprenguem-nos l'anatomia. Si ens posem la mà al cor, doncs per allà.
+V1-V2, fins aquí ho tenim clar. Quina posem després de V2? Va, Xavi.
+No ho sé, jo te diria V4, però no ho sé.
+Molt bé, aquí no t'he pillat. Doncs després de V1 i V2 no ve V3, ve V4.
+V4 es posa al cinquè espai intercostal, és a dir, hem de baixar una costella més, a la línia clavicular mitja.
+Què vol dir la línia clavicular mitja?
+Doncs hem de mesurar la clavícula, i la clavícula s'acaba a l'espatlla, no abans,
+i a l'escotadura esternal, i més o menys a la meitat, tirar cap avall, i a un espai intercostal per sota de V1-V2.
+Aquí torna a ser el mateix. Algú amb molt bona intenció diu doncs, més o menys on hi ha el mugró. Doncs no.
+El mugró està damunt del pectoral, i si tens un pectoral molt gran, tens una mama,
+el mugró pot estar mirant pá Cuenca, i que no sigui el lloc on ha d'anar V4. Insisteixo, s'ha de comptar.
+Ja trec jo la pregunta, i què passa si la mama és molt gran,
+i just on hauríem de posar aquest V4, hi ha la mama.
+Doncs els llibres diuen que s'ha d'aixecar la mama i posar-ho a sota.
+Què passa? Moltes vegades ens trobem
+que a l'aixecar la mama, perdem la referència dels altres elèctrodes que fem servir per saber on és el quart espai intercostal,
+o que fins i tot la flexura, el lloc on la pell del tronc ve cap amunt i després recobreix la mama per sota,
+que llavors resulti que quan deixem caure la mama ens queda l'elèctrode mirant cap on no toca.
+L'hem d'intentar posar-se sota la mama.
+Les últimes coses que he llegit diuen que si ho poses per sobre d'una mama natural s'atenua una miqueta el senyal, però no és una cosa dramàtica.
+Si ho poses damunt d'una pròtesi mamària si que s'atenua excessivament i llavors el que ens mesura
+està massa atenuat i no correspondria. No sé si m'he explicat.
+V4 l'hem de posar sota la mama si veiem que ens queda al lloc on toca.
+Si veiem que no ens queda enlloc on toca i la mama és natural, doncs ho posaríem per sobre.
+Després de V4, quin posarem? Doncs V3, que és el que ens falta.
+I V3 va entre V2 i V4. Ens imaginem una línia recta que l'uneix a tots dos i ho posarem just enmig.
+Quan feia les pràctiques del curs aquest la gent deia però és que estan molt junts aquests elèctrodes.
+Correcte, és que estan molt junts. És que el cor humà no és tan gran.
+Així com V1 és aurícula, V2 és pràcticament septe,
+V3 és paret anterior, V4 és paret anterior del cor.
+És que el cor no és tan gran i per tant ens hi hem de posar bastant a prop.
+Ara, després de V3, quin posem?
+Doncs jo seguiria pel mateix espai intercostal V5 i V6.
+Sí, posaríem V6 primer. V6 va a la mateixa alçada que V4,
+compte, no al mateix espai intercostal perquè sabem que les costelles
+venen en diagonal des de darrere cap a davant i aquí no hem de seguir la costella.
+En el moment que hem trobat el cinquè espai intercostal línia clavicular mitja de V4, en la mateixa línia, en la mateixa alçada, posarem V5 i V6.
+I V6 va a la línia axil·lar mitja. I què és la línia axil·lar mitja?
+Aixeques l'ala, doncs l'espai que et queda just al mig de l'axil·la.
+Tires avall de V4 cap a l'axil·la i de l'axil·la cap a baix i on es troben poses V6.
+I V5 ha d'anar a la mateixa alçada que V4 i V6 però al que li diem la línia axil·lar anterior,
+Que és la línia axil·lar anterior? on comença l'axil·la.
+Si tens una persona que té el tòrax molt... tòrax en tonel, no sé com es diu això de tòrax en tonel en català.
+No ho sé.
+Aquests tòrax emfisematosos, per exemple, tindran un tòrax molt gran però la línia axil·lar està més o menys on toca.
+ Ens trobarem que V5 i V6 queden relativament juntets.
+Si se'ns fa molt difícil saber on és la línia axil·lar anterior perquè té un tòrax estrany,
+doncs posarem V5 a la meitat de V4-V6.
+Això és pràcticament el més important de fer els electros.
+Si arribes i et trobes algú amb aquests elèctrodes ben posats, és meravellós.
+Què passa si els elèctrodes estan mal posats? I ja hi ha un electro fet d'abans.
+Aquí tenim un problema. Perquè si jo modifico la posició dels elèctrodes un cop s'ha fet l'electro, el següent electro serà diferent.
+I si jo busco diferències, doncs ja serà diferent només pel fet que he posat diferents els elèctrodes.
+Això fa que la mala col·locació d'un elèctrode al principi
+sigui un problema no pel primer, sinó per tots els que vindran darrere.
+Insisteixo molt en això. És molt important posar-ho bé.
+Una pregunta, Albert.  El fet que aquests del pla frontal vagin a la cara interior de les extremitats,
+el fet que sigui la cara interior és perquè anatòmicament si estàs estirat...
+No té cap diferència dins-fora, simplement la cara interior no té tant pèl.
+És una qüestió que l'elèctrode s'agafi bé i ja està.
+I de fet, tornarà a sortir després quan anem a resolució de problemes que a vegades ens trobem.
+Tothom té clar on van els elèctrodes? espero que sí.
+Teniu la presentació a les notes de l'episodi, i en el vídeo hi ha els dibuixets corresponents.
+Molt de compte amb el que circula per internet perquè us puc assegurar
+que hi ha a cada imatge d'elèctrodes posats com el cul que tremoles.
+I no només a internet, en algun llibre també n'he trobat algun que et poses les mans al cap.
+Vaja
+Va, ara ja tenim els elèctrodes ben posats, potser que expliquem com es fa un electro.
+L'important era posar els cables, però alguna cosa més s'ha de fer.
+Si estem a l'hospital, haurem d'aconseguir que aquell electro que fem amb la nostra màquina pugi al sistema informàtic.
+Per tant, haurem d'anar pel procediment que tinguem per demanar l'electro,
+perquè l'electro arribi a la màquina de fer electros i a la màquina d'electros li direm aquest és el pacient que jo vull.
+L'experiència em diu que just els electros més importants són els que es fan sense registrar,
+perquè tens pressa, perquè el que sigui.
+L'electro més important de tots és el que no queda al sistema informàtic després.
+I no serà el primer ni l'últim que té problemes després,
+quan va a veure el cardiòleg perquè ha tingut una arrítmia i no sé què i resulta que l'electro bo,
+el que es veia allò s'ha perdut perquè només hi havia el paper, no hi havia res més.
+Intentem, en la mesura del possible registrar correctament el sistema informàtic.
+És superpràctic, ara, quan... deixa'm mirar un electro d'abans.
+Abans era horrorós, no es feia, perquè podies trigar mitja hora i una hora a aconseguir un electro d'abans.
+Ara vas a l'ordinador i ja ho trobes. I a sobre, els que fem servir el Raimviewer,
+un visualitzador, el pots agafar i superposar dos electros, un sobre l'altre, per veure directament què ha canviat.
+Això només ho pots fer si això ho pugem al sistem.
+En el cas de les ambulàncies, podem fer una foto amb la tauleta i es queda la foto guardada. Hauríem d'aconseguir poder digitalitzar això.
+Suposo que amb el nou concurs els aparells que es portaran podria ser que ho pugessin directament a la història clínica del pacient. Ja es veurà això.
+Preparem l'equip, preparem el pacient. El primer és assegurar que li fem l'electro a qui toca.
+Tenim la persona identificada, li expliquem què farem. Si ja n'hi han fet algua abans, ja sap de què va.
+Però si no, potser es caga quan comences a veure que treus cables.
+De fet, jo ja els dic sempre: no pateixi que no s'enramparà.
+I en el cas de les dones, també se'ls ha de dir que necessites col·locar els elèctrodes a la vora del pit.
+Ja sabem que hi ha gent que és més o menys pudorosa i pot ser que tinguis problemes amb això.
+Hem de destapar-ho, perquè hem de posar els elèctrodes on toca.
+Si estem al carrer i fot rasca, no és el lloc de fer l'electro. Tapem el que puguem, però hem de destapar.
+Els homes no tenim gaires manies en ensenyar pitrera, però les dones sí. Ho hem de gestionar.
+Destapem el mínim necessari, però destapem. I quan has posat els elèctrodes, ho tapes
+I un pas important és preparar la pell perquè s'enganxin bé els elèctrodes.
+Què vol dir preparar la pell? Si hi ha molta brutícia, no s'enganxarà bé l'adhesiu de l'elèctrode.
+Per tant, primer ho has de netejar.
+Si està molt greixós, també, amb alcohol, t'emportes la capa greixosa de la pell i ho pots enganxar.
+Si està moll, tampoc s'enganxarà, per tant ho has d'assecar.
+I si és molt, molt pelut, segurament hauràs de retallar el pèl.
+Depèn de la qualitat dels teus elèctrodes, pentinant una miqueta el pèl i apretant una mica, a vegades aconsegueixes que l'elèctrode s'enganxi.
+No sempre. Per això sempre, a tots els aparells d'elèctros hi hem de tenir maquinetes de rasurar.
+Perquè quan trobem algú molt pelut, doncs rasurem.
+Un cop tenim preparada la pell, posem els elèctrodes i connectem el cable.
+Aquí depèn del cable, depèn de l'elèctrode. A vegades és millor
+connectar el cable a l'elèctrode i després enganxar l'elèctrode a la pell,
+amb el risc que normalment la torsió del cable et treu l'elèctrode, te'l desenganxa,
+o bé connectes l'elèctrode a la pell i després connectes el cable.
+Hi ha cables on no hi ha collons d'enganxar el cable a l'elèctrode després.
+Això cadascú s'ho ha de gestionar a casa com pugui.
+Els pacients que tenim així amb una sudoració profusa perquè està mal perfós
+tens alguna recomanació perquè s'agafin els elèctrodes?
+Assecar amb una gassa eixuta i després passar-hi alcohol i deixar-ho evaporar.
+Si és una cosa terrorífica, és terrorífica i pots tenir...
+Després hi arribarem amb la resolució de problemes i potser et veus obligat a fer coses que no són les més correctes però no queda més remei.
+I una pregunta. Se m'ha acudit ara que estaves explicant això de la mama en les dones i tal.
+Els sostens aquests que porten una part metàl·lica, això m'interfereix amb els elèctrodes o no?
+En principi no perquè és metàl·lic però el metall està en contacte amb la pell, està aïllat.
+Home, és molest, per anar bé no hauria de ser-hi el sostenidor, però bé, es pot fer.
+No hi ha problema amb això.
+Tenim el nostre pacient, la nostra pacient amb els cables tot connectat
+doncs abans de fer res verifiquem que tot estigui correcte.
+I que tot estigui correcte vol dir que cada cable està connectat a un elèctrode i és l'elèctrode que toca.
+Cable R, vermell, braç dret. Cable L, groc, braç esquerre. I així successivament.
+I és important, una vegada has fet aquest electro depèn de la màquina que tinguis, ja puja al sistema i ja queda mal fet.
+I assegurem-nos que l'aparell farà l'electro amb els paràmetres estàndard.
+I aquests paràmetres estàndard us els dic ara, hi ha explicació de per què és així i potser seria millor que uns altres però ens quedem amb aquest.
+Els paràmetres estàndard és 10 mil·límetres mil·livolt, això vol dir que cada mil·livolt mesurarà un centímetre d'alçada,
+això és l'amplitud, i 25 mil·límetres segon, això vol dir que cada segon seran dos centímetres i mig de paper.
+Aquest és l'estàndard que fem servir al nostre país.
+Si no fem servir aquest estàndard ens trobarem que de cop i volta
+tindrem electros al doble de grans o la meitat de petits,
+el mateix QRS que mesurava un centímetre si el faig a 20 mil·límetres milivolts mesurarà dos centímetres.
+ I el mateix amb la velocitat, un QRS que mesura 100 mil·lisegons d'ample si el faig a 50 mil·límetres segon,
+al doble de velocitat, mesurarà 200, i diré hòstia, té un bloqueig de branca.
+Tots els aparells ho han de tenir visible i quan ho treus en el paper surt marcat.
+I quan tu interpretes l'electro una dels primeres coses que has de fer, és verificar que això és correcte.
+La majoria de sistemes informàtics et permeten després reconfigurar això a les mesures estàndard.
+Però fem-ho bé des del principi.
+Tot és correcte? Doncs premem el botonet i a gravar.
+El que passa sempre és que tot és perfecte, tot és superestable i quan prems el botonet la persona parla
+o tus, o es belluga, i llavors et surt allà un artefacte que queda com el cul.
+Quan vas a prémer el botó dius ara no parli, no el toqueu, que són 10 segons.
+Un cop ja hem fet això, verifiquem que ha quedat bé, l'imprimim si cal i l'enviem al sistema informàtic.
+I ja només ens queda retirar i netejar.
+És molt senzill, però s'ha de fer bé.
+Què passa quan no és tan senzill? Què passa quan ens trobem amb problemets?
+Aquests problemets jo els he fet com en 3 categories diferents.
+El primer és els pegats que no enganxen, el que comentaves tu, que està molt suat o està molt brut i no s'enganxa.
+Que s'ha de fer? netejar, assecar, i en el cas de les extremitats,
+docs si no se'ns enganxa a les extremitats podem fer servir les pinces antigues, li fots l'alcohol o el gel conductor i pot funcionar.
+Normalment, en assecar si està molt suat o moll i desgreixar la pell acostuma a haver-n'hi suficient.
+Per als tòrax molt peluts o per al que és molt pelut, doncs rasurar una miqueta.
+Llavors tenim els altres dos grans grups, que aquests a vegades costa molt més de treure, que són les interferències i els artefactes.
+Quan dic artefactes em refereixo a qüestions de moviment.
+Per exemple, si la persona té fred i tremola, el tremolor el detectarà la màquina.
+Estem parlant de l'ordre de mil·livolts. Quan bellugues un braç això es veu, i es veu molt.
+Si té fred l'hem d'abrigar i potser aquest electro hem d'esperar que la persona estigui més calenta per poder-lo fer.
+Si aquest tremolor és incontrolable o necessitem fer l'electro ja doncs com més a prop del tronc posem aquests elèctrodes millor.
+Una persona que té un Parkinson, per exemple, que tremola molt, li tremolen molt les extremitats però no li tremola tant el tronc.
+Per tant, podríem acostar els elèctrodes al tronc.
+Si la nostra màquina justament mesura extremitats, doncs potser haurem d'apuntar elèctrodes frontals al tronc, allà en el paper.
+Que no es bellugui, no parli, evidentment.
+Si és una persona que respira molt profundament li hauríem de dir: no respiris tan fons,
+però si s'està ofegant i està fotent el trípode ser difícil.
+Normalment la posició que es considera adequada per fer l'electro és la persona estirada.
+Si l'hi aixeco una miqueta el cap no és massa problema.
+Si ens posem drets, només per gravetat el cor baixa una miqueta més avall i només això ja fa que pugui canviar una miqueta l'electro.
+Però si hem de fer una electro a algú assegut, se li fa assegut. Ja sabem que no és perfecte, però és el que hi ha.
+I una tonteria, però és un artefacte que ha donat pel cul i ja hi ha unes quantes coses publicades,
+és evitar enganxar l'elèctrode damunt d'una artèria. Sobretot a les radials.
+Perquè com l'enganxis allà, la pulsació de l'artèria es transmet a l'elèctrode i es veu.
+I just la pulsació de l'artèria arriba després del QRS i sembla que tens una elevació terrorífica i l'únic que passa és que està en la zona pulsativa.
+Si us trobeu algun malalt de diàlisi i li poseu damunt la fístula, passa el mateix. Les fístules de diàlisi lluny, sempre.
+I on a vegades tenim molts problemes és amb les interferències.
+Quan hi ha qualsevol font de radiació electromagnètica, la corrent de casa,
+un fluorescent, els mòbils, és un problema i això es pot transmetre.
+Quan ens trobem que hi ha una interferència que no sabem d'on ve, que la línia, en comptes de ser plana,
+té tot d'espícules i es belluga, doncs el que hem de fer és diferents estratègies.
+Una és allunyar les fonts de soroll, les ràdios,
+apagar els fluorescents, apartar els mòbils, superimportant el dels mòbils.
+Si la persona porta aparells electroestimuladors,
+això que dèiem del Parkinson, recordo un cas d'un senyor que s'ofegava i havia de fer un electro perquè no sabíem si era insuficiència cardíaca o què era,
+si s'havia infartat o què, i era Parkinsonià i anava amb l'electroestimulador.
+Fins que no vam aconseguir parar l'aparell, allò era ininterpretable.
+O aquests electroestimuladors per la bufeta de la orina, hem d'intentar aturar-los.
+Teòricament, quan a les persones se'ls posen aquests dispositius,
+se'ls proporciona alguna forma d'aturar-lo justament per aquestes coses.
+L'han de tenir, els el demanem, escolti, no té l'aparell aquest per parar això?
+I si aquesta persona ha d'anar a fer-se ambulatòriament un electro, recordar-li que hi vagi amb l'aparell,
+perquè no serà el primer que ha de tornar a casa a buscar-lo i tornar a venir.
+Una altra cosa que abans passava més que ara, perquè els aparells han millorat,
+és que si tens l'aparell endollat a la corrent, doncs a vegades desendollar-lo,
+per qüestions de les preses  de terra, a vegades et trobaves amb circumstàncies estranyes.
+I un últim punt, que són els filtres.
+Això dels filtres és, tenim tots els aparells de mesura, tu els pots dir que determinats espais no els mesuri.
+I amb el filtre el que fas és dir-li tot el que supera aquestes freqüències no ho vull i per tant ja no et molesta.
+Això és eficaç quan tens moltes interferències,
+però quan poses un filtre que dius això no ho vull, també t'està canviant la senyal.
+És un balanç. Hem d'intentar fer tots els electros sense filtres, però que siguin llegibles.
+Llavors hem de jugar amb això.
+Un filtre de 0,5 hertz a 150 hertz, aquest és el mínim raonable.
+No posar aquest és ridícul, però ens podem trobar que a vegades se'ns amaguen coses.
+Tinguem-ho present. Especialment depèn de qui anem a buscar, doncs encara més.
+Electro, 12 derivacions, tot això dit, i dic 12 perquè no només hi ha les 12 derivacions
+que comentàvem abans, oi Xavi?
+En posterioritat, d'aquestes 12 algú va postular les derivacions posteriors, les derivacions dretes,
+després tenim encara les de la Fontaine, les de Lewis, les intercostals per la detecció del Brugada
+Només parlar d'on ubiquem les posteriors i dretes,
+totes les altres derivacions estranyes, doncs qui les demani, que les faci, perquè sap què busca.
+Si tu demanes unes derivacions de Lewis, saps què estàs buscant. Fes-les tu, que hauries de saber-ho fer.
+Les derivacions posteriors, per què serveixen les derivacions posteriors? Hem dit que les derivacions són des d'on mirem el cor.
+Jo estic mirant la cara de davant, perquè de V1 a V6 estic mirant la cara de davant, però la cara de darrere no l'estic veient.
+Per això tenim les derivacions posteriors. V7, V8, V9.
+I aquestes són bastant senzilles. V7, V8, V9 estan a la mateixa alçada que V6,
+que si us recordeu és la mateixa alçada que V5 i de V4, i l'únic que farem és ubicar-les darrere.
+V7 anirà a la línia axil·lar posterior, V8 anirà a la mateixa alçada que V6,
+V5 i tal, a sota l'escàpula i V9 anirà a la mateixa alçada que V7, V8, paravertebral esquerra.
+El mateix que dèiem de paraesternal, doncs ho toques la columna una miqueta separat.
+Això per les derivacions posteriors. Els nostres aparells tenen només 10 cables.
+El que fem aquí és agafem tres dels cables de les precordials, per exemple, V4, V5, V6,
+i aquests cables els posem en aquests elèctrodes.
+I quan imprimim l'electro, aquest electro no s'entrega al que l'hagi de llegir
+fins que no s'ha apuntat el canvi que hem fet.
+De fet, qualsevol cosa que fem amb un electro fora de l'estàndard, ho apuntem en el paper.
+Un dels grans problemes que tenim amb la història clínica electrònica és que molts d'aquests electros de derivacions posteriors
+no saps que són posteriors perquè no t'ho diu l'electro. Ha quedat gravat i ha quedat gravat amb el nom del cable, no de la derivació.
+I a vegades et fots un embolic perquè dius, bé, ara no sé si això és normal o no és normal, què ha passat?
+I les derivacions dretes... si us hi heu fixat, tots els elèctrodes que hem posat precordials, tots mireneal costat esquerre del cor.
+I sí, el cor normalment està a l'esquerra del tòrax.
+Però hi ha un trosset petitet, el ventricle dret, que ens queda a la banda dreta.
+Doncs ens interessa V3R, que és el mirall de V3,
+que aniria entre V1 i V4R, que V4R seria el mirall de V4.
+Aquesta V3R és el que ens interessa.
+El que passa és que normalment el que fem és posem V3R, V4R i V5R per fer servir tres cables,
+i aquest V3, V4, V5R són el mirall de les altres.
+Tu, eh que havies dit alguna vegada de fer les posteriors i les dretes fer-les amb un mateix electro?
+Que és el que feien els francesos, que ens vas explicar un dia.
+Sí, això ho vaig intentar explicar en els cursos i la gent es fot un embolic
+Jo ho faria, i a mi em sembla molt bona idea, perquè així t'assegures que només tens un electro estrany.
+Sovint és habitual, no sempre, però és habitual que quan hi ha alguna cosa que ens fa demanar aquestes derivacions,
+que demanem les dues, tant les posteriors com les dretes.
+Llavors, mira, espatllar, entre cometes, només un electro, millor que espatllar-ne dos.
+Dic espatllar en el sentit que quedaran estranys, que n'hi hagi només un d'estrany,
+que sigui molt estrany, perquè dius, hòstia, aquí ha passat alguna cosa.
+Jo ho faria, però costa molt fer-li entendre a la gent, no, goita. Tots aquests cables els has de moure en aquestes posicions.
+Molt bé, Albert.
+Doncs vinga, jo ja estic. Ara què ens toca?
+Jo tenia un menys és més que, com que sabia que feies aquest tema dels electros,
+té una relació directa amb l'electrocardiografia.
+És una iniciativa del Things we do for no reason,
+de la campanya Choosing Wisely, escull sàviament,
+que és una iniciativa començada als Estats Units el 2012,
+i en aquest cas és un article que es va publicar en el Journal of Hospital Medicine aquest gener del 2024.
+I va de la indicació de fer un electrocardiograma
+en els pacients hospitalitzats adults amb una hiperpotassèmia lleu.
+Aleshores, és un menys és més, recordo.
+Bé, és un estudi que ens recomanen no fer un electrocardiograma
+en aquests pacients hospitalitzats adults que tenen una hiperpotassèmia lleu,
+és a dir, un potassi entre 5 i 6, pel seu fet que els electros, en aquests nivells d'hiperpotassèmia, ens ajuden molt poc.
+No ens ajuden a l'hora de fer el maneig, ni el pronòstic, ni res en aquestes hiperpotassèmies lleus.
+Això va una miqueta en contra del que, almenys, jo sempre deia,
+perquè ho he sentit, ho havia llegit, que es fa en funció dels canvis
+electrocardiogràfics que vegis, no de les xifres de potassi en sang.
+Doncs no. En aquest article es diu això, que
+un 10% dels pacients hospitalitzats tenen hiperpotassèmia,
+normalment degut a efectes secundaris de medicació o per algun grau d'insuficiència renal
+i que aquests pacients hospitalitzats, adults, que tenen hiperpotassèmia,
+això està associat a augment de totes les causes de mortalitat.
+Inclús les hiperpotassèmies lleus tenen un augment de la mortalitat.
+Però els electros, en aquest tipus de pacients,
+són electros que no són ni sensibles ni específics per detectar canvis
+que t'ajudaran després a diagnosticar o a tractar coses. Són canvis no específics.
+Pots veure un electro amb uns canvis suggestius d'hiperpotassèmia,
+que tinguis unes tes picudes, un PR que s'allarga, un QRS ample...
+Bé, diries, ostres, això és suggestiu d'hiperpotassèmia. Doncs no ho és.
+No hi ha cap canvi específic d'hiperpotassèmia. I tampoc és sensible.
+És a dir, podem tindre gent amb potassis alts, de 6, de 7,
+i tenen uns electros perfectament normals.
+Per tant, el fet de veure un electro alterat no t'ajuda
+i el fet de veure un electro normal no vol dir que el pacient no tingui una hiperpotassèmia
+i que pugui tindre la seva mortalitat.
+De fet, hiperpotassèmies que augmenten molt ràpidament,
+tu pots tindre un pacient que està amb les membranes dels miòcits totalment desestabilitzades
+i el pacient a punt de fibril·lar i tens un potassi normal
+perquè tarda un temps que puguis detectar-ho tu en sang.
+Aleshores, què te recomanen?
+En aquesta recomanació te diuen que pacients amb l'analítica que tinguin un potassi entre 5 i 6,
+és a dir, una hiperpotassèmia lleu, no cal fer un electro.
+Control de potassi en sang i mesures per reduir aquest potassi.
+Per exemple, si la persona estava una mica deshidratada perquè ha vomitat, diarrees
+o febre amb sudoració, etcètera, hidratar-lo,
+s'ingressa, perquè estem parlant de pacients adults hospitalitzats.
+Doncs dieta baixa en potassi i potser ajustar una miqueta la medicació que afecti la funció renal
+o que prengui medicació estalviadora de potassi, ajustar la medicació
+i inclús si necessites eliminar potassi, un tractament depletiu que elimini potassi.
+I controls de potassi en sang.
+Al cap d'unes hores, al cap de dos dies, doncs fas un control de potassi en sang.
+Però no cal ni tindre un electro basal ni anar fent controls electrocardiogràfics.
+ Caram!
+Quan ho vaig llegir ho vaig pensar, hòstia, això a l'Albert li agradarà. No sé si...
+Agradar-me no m'agrada gens, però haurem de fer cas del que diu l'evidència, oi?
+I si diu que una hiperpotassèmia lleu no cal, doncs no cal. I ja està. I no ho farem.
+Què més? Situacions en què pot canviar una miqueta, doncs, quan el potassi en sang pensis que pot augmentar molt ràpidament.
+Per exemple, una acidosi metabòlica aguda, que hagis administrat succinilcolina, el suxametoni,
+una rabdomiòlisi, un gran cremat, una síndrome de lisi tumoral, transfusions massives de sang,
+una lesió o una insuficiència renal aguda, i quan s'associa una hiperpotassèmia lleu,
+hipo-hipermagnesèmia, hipocalcèmia, o un infart de miocardi.
+En aquests casos, i que tinguis un potassi entre 5 i 6, tampoc et recomanen que facis un electro.
+Sí, el que et demanen és que facis un monitoratge continu.
+Això anava a dir, eh? Tots els que has dit van en monitor a casa meva.
+Sí, sí, amb el monitor, sí, perquè són gent que els pot augmentar molt ràpidament el potassi en sang,
+i això el primer que has de detectar-ho és que hi hagi canvis de bloquejos, fibril·lacions, o el que sigui, han d'estar monitorats aquests pacients.
+I fer controls, posar el tractament específic, perquè tu veuràs que té una hieropotassèmia entre 5 i 6,
+té una hiperpotassèmia lleu, o si la causa que tu intueixes és una causa d'aquestes,
+aquest pacient ha d'anar monitorat i fer un control de laboratori constant de potassi, més que no pas tindre un electro basal.
+Que potser també l'hi faràs, eh?
+Però no et cenyeixis en dir, ah, no passa res, aquest pacient que té una rabdomiòlisi,
+que té un potassi de 5,5, com que té un electro normal, tots tranquils.
+No, aquest pacient ha d'anar monitorat. I en casos que tinguis un potassi inicial per sobre de 6,
+en aquest sí que l'hem de fer un electro, i si hi ha canvis elèctrics clàssics de la hiperpotassèmia,
+doncs a aquest li has de posar algun fàrmac que estabilitzi la membrana dels miòcits,
+per exemple el gluconat o... vaja, el calci.
+En aquest sí que els hi hem de fer un electro. En els altres no és necessari.
+I això és la recomanació que ens diu el Journal of Hospital Medicine del Things we do for no reason.
+Molt bé, em sembla que és la primera vegada que m'apunto al no fer un electro a algú, eh?
+Hosti, me l'apunto, me l'apunto i ja quan s'escaigui em picaré jo mateix la mà quan digui no l'has de fer, que no cal.
+Ha, ha, ha, ha. Ens ho dius, ens ho dius, que  ho facis, això. Què més?
+Ara l'UrgemMot toca.
+Tu havies pensat alguna cosa o no?
+Jo seguint amb la seqüència de dubtes. Vam resoldre el dubte del declivi, de deixar les sondes en declivi. 
+Sí. 
+I teníem pendent el de l'angoixa i ansietat. 
+Sí.
+Que, si us en recordeu, havia tirat de definicions i deia, nois, jo no tinc clar que toca.
+Sí. 
+La gent de l'Optimot em van respondre i em diuen que en llengua general es fan servir com a sinònims.
+En camps especialitzats pot haver-hi matisos entre l'una i l'altra, però depèn de l'àmbit.
+Nosaltres som un camp especialitzat, ens dediquem-nos a això, oi?
+I aquí, doncs, una oient ens va contestar,
+una oient que resulta que té familiars que són filòlegs i psicòlegs, no el mateix, oi?
+I els hi va demanar i ens van respondre. I ells diuen, pràcticament són sinònims,
+tot i que sovint s'empra angoixa quan no en pot associar-ho a situació, fenomen, persona o cosa d'alguna manera identificables.
+ L'experiència d'ansietat es relaciona amb un estat d'amenaça que no pot definir o concretar la forma o la causa.
+o la causa. Interpretant això vol dir que tu tens l'angoixa d'alguna cosa concreta i l'ansietat d'una...
+situació així genèrica o inconcreta, que no puguis concretar.
+S'assemblen molt i, de fet, segurament ho farem servir sempre com a sinònims,
+però si alguna vegada ens trobem amb algú que el que té és aquesta angoixa de tenir una malaltia, segurament és una angoixa,
+i si en canvi simplement està que no sap què li passa i tal, que tingui una ansietat.
+Estic content perquè m'ha respost tothom, tant els optimots com els oients.
+Oients sou molt macos, sou molt macos. 
+Veus? La gent té ganes de transmetre el que saben. Això està molt bé.
+Doncs, Albert, quan explicaves l'electro has parlat del tòrax en tonel o alguna cosa així, eh que sí? 
+Sí, però no es diu així, segur. No sé ara com es deu dir però...
+Perquè ho he buscat mentre estaves explicant i la forma preferida és el tòrax emfisematós.
+Tòrax emfisematós. Molt bé.
+Que els sinònims complementaris i formes correctes, però que no són les preferides del Termcat.
+També en pots dir tòrax de bota, tòrax de bota, tòrax delicoide,
+tòrax globulós, però el més correcte és l'emfisematós o tòrax de bota. 
+Tòrax de bota, mira, traducció literal.
+Sí, el tonel i la bota...
+Del tot no, però vaja, tonel i bota és això. 
+Després, jo tenia dos urgemots preparats que anaven relacionats amb temes urinaris
+Una és tu, aquestes persones que tenen una freqüència exagerada de miccionar, com en diries?
+Homes a partir dels 50 a la nit?
+De dia normal, no cal que sigui a la nit, no ho sé.
+Doncs no ho sé. Poliúrics, no. No ho sé.
+Jo sempre n'havia dit poliaquiúria.
+Ui, sí, sí, aquesta és bona, aquesta és bona.
+O sigui, la gent que té un síndrome miccional o que té una hiperglicèmia,
+una descompensació diabètica hiperglucèmica, també fan molta diüresi
+i constantment estan fent pipí, igual que els síndromes miccionals.
+Jo sempre n'havia dit poliaquiúria i és pol·laciúria. Amb l'ela geminada, pol·laciúria.
+I aquesta gent, si els tens estirats en un box d'urgències en una llitera, què et demanaran?
+Mira, t'ho diré en francès. Si és una dona et demanaran una bacina i si és un home et demanarà un pistolet.
+Un pistolet. Ah, mira, que bé. 
+Un pistolet.
+Jo diria que en català si és un home serà una ampolla d'orina
+i si és una dona, li diem cunya, però segur que està mal dit. 
+Clar, pensa que la cunya en català és un tascó o una falca. 
+Els escaladors fan servir tascons per agafar-se les parets, els llenyataires per tallar troncs o arbres,
+i les falques perquè una cadira o una taula quedi nivellada. 
+En castellà és una cunya, sí, sí.
+La cunya en castellà és això. Els femenins deu ser per això, no? Perquè com que té forma de...
+De falca, sí, sí.
+De falca, deu vindre d'aquí. Però el terme correcte és orinal.
+Mira que és senzill, eh?
+ En el diccionari posen orinal d'ampolla femení o orinal d'ampolla masculí.
+Mira que és senzill, i complicant-nos la vida de qualsevol manera. Hòstia, orinal.
+Orinal, sí, sí.
+Si busques en el diccionari normatiu del català, no el mèdic, la traducció de cunya, en castellà, 
+en català és una paella o orinal.
+Per tant, diem-ne orinal. No cal dir-li cunya. 
+Per tant, aquests pacients que tenen pol·laciúria necessiten un orinal.
+Ho provaré i ja t'ho explicaré. 
+I després, deixa'm explicar-te una anècdota que vam tenir l'altre dia a Urgències.
+No donaré molts detalls per guardar la confidencialitat, tot i que no és una cosa especialment conflictiva.
+Vam trucar a l'hospital de referència perquè necessitàvem parlar amb l'Otorrino,
+perquè teníem una pacient amb un problema d'Otorrino.
+No era jo directament, però era el meu company, que jo estava al costat.
+Li va dir, per mirar si té aquest problema, agafa 
+un abaixallengües i mira-li si en aquest lloc li fa mal o no li fa mal.
+Com et quedes?
+Petrificat
+I vam quedar tots emaperduts i...
+És el meu ídol. Tens el nom? Tens el nom? L'hem de convidar! L'hem de convidar! És el meu ídol.
+No, no el sé. No sé qui era.
+Un abaixallengües. Tremendo.
+Sí, sí. Em va fer gràcia perquè és la primera entrada que hi ha en l'UrgemMot és l'abaixallengües perquè comença amb a.
+Jo pensava que això no ho feia servir ningú i a més a més li va dir a un company meu
+i li va dir així com la cosa més normal i la més rutinària del mon.
+Es pot fer, es pot fer. Molt bé.
+Mira, hi ha coses que t'alegren el dia.
+I ja està. Què més, Albert? Ens queden les recomanacions, no?
+Doncs mira, aprofitaré la falca que m'has llançat amb l'abaixallengües.
+ La meva recomanació és un llibre, perquè tu l'altre dia vas treure un llibre
+i just vam gravar abans de Sant Jordi i va venir Sant Jordi i jo tinc un llibre.
+Un llibre de català però mèdic que es diu Ensenya'm la llengua del doctor Antoni Bertran.
+Aquest senyor és internista i metge de capçalera.
+Doncs aquest doctor explica que durant molt temps estava escrivint 
+en una llibreta les coses que li deien els seus pacients i no deixa de ser un compendi del català 
+vulgar i no tan vulgar perquè, és clar, fa molts anys que només vèiem ictus.
+Uns pocs anys abans vèiem AVCs però és que tota la vida s'havien vist atacs de feridura.
+Sí, sí, sí, clar.I
+I me l'he comprat, doncs, per poder explicar alguna cosa en els UrgemMots futurs
+perquè el català està pioc però mira, n'hi ha alguns que diuen abaixallengües.
+Molt bé, Albert. Doncs jo us volia recomanar una xerrada, un vídeo.
+És un TED Talk que a l'EMPodcat ja ho posarem, que és el TED.com
+i és una xerrada d'un metge de família i urgentòleg canadenc
+que és en Brian Goldman, que té una xerrada que es diu 
+Doctors make mistakes. Can we talk about that?
+I parla del tema de la seguretat dels pacients relacionada amb els errors mèdics
+i t'explica que tenim la idea que si som bons professionals
+i estudiem molt i ens hi dediquem molt, no tenim la consciència que ens equivoquem i tothom s'equivoca.
+El més llest s'equivocarà. I ell t'explica la seva història
+que va tenir, que era un molt bon estudiant i no sé què, i matrícules d'honor amb tal
+i va lligar errors mèdics que haguessin pogut ser evitables
+i el que es trobava és que li costava comunicar-ho, expressar-ho, parlar-ho
+perquè se n'adonava de que quan algú treia la conversa de seguida hi havia algú que feia una broma
+i es dissolia aquella discussió o aquella reflexió sobre aquell error...Costa molt de parlar-ne.
+I a més a més també el sistema sanitari tampoc afavoreix molt que això se'n parli i que n'aprenguem dels errors.
+Ni les persones individualment, ni els equips ni el sistema sanitari ajuda 
+a que siguem conscients que som fal·libles i que ens equivoquem
+cada dia des del més espavilat al menys tothom estem en aquest tema. 
+Val la pena escoltar-lo almenys per ser conscients si és que no ho ets.
+Em va semblar interessant compartir-ho amb vosaltres perquè em va cridar molt l'atenció.
+Molt bé. 
+I ja està, Albert.
+Jo l'he cagat moltes vegades.
+De fet, no puc recordar quantes perquè són tantes que no te'n puc triar una de les moltes que he fet a la vida.
+Si treballes 1.600 hores l'any és molt fàcil acumular-ne unes quantes i les que no som conscients, clar.
+I a més els que estem a urgències que de vegades hi ha alguns errors, crec que són els menys, que som conscients
+perquè veiem les conseqüències immediates però penso que un dels problemes importants és que com que els pacients nostres
+ens duren unes hores hi ha molts errors que no els veiem perquè el pacient està a planta, el pacient està a casa, el que sigui i no ho veiem. 
+Però si tinguéssim el pacient davant nostre penso que ens adonaríem molt més de les cagades que anem fent.
+Molt bé. 
+Res més, Albert.
+Doncs ja podem tancar la paradeta.
+Aquest episodi 36, l'últim de la temporada.
+Sí, senyor. Doncs ara, com cada vegada passarem al grup de Telegram
+alguna enquesta per veure què hem de fer aquesta temporada vinent.
+Si traiem seccions, si en posem, el que s'escaigui. Si ens dieu que tanquem la paradeta la tanquem, però vaja, 
+si cada vegada tenim més oients deu ser que no deu voler que la tanquem. Ja es veurà.
+Si no agafem vacances i ja està.
+Doncs mira, les vacances no està mal pensat però tu fas vacances mai? Tu sempre ets metge, no? Llavors...
+Sí, sí, sí, clar.
+No ho sé, a mi em passa. Jo vaig a un camp vaig amb la canalla, ara ja els tinc grans,
+però vaig amb la canalla, allò, una pista esportiva i vaig a les porteries a veure si estan fixades a terra.
+Aviam si t'hi pots penjar, no? Aviam si t'hi pots penjar de la...
+Bé, sí. Algun ajuntament avisat dient que si us plau les lliguessin a terra, en el seu moment.
+Doncs molt bé, Albert. Aviam, animem a la gent que arribem del 95 al 100 en el Telegram
+Estaria bé. Seria maco. Encara que jo prefereixo animar-los perquè ens expliquin coses.
+Recordeu que tenim allò de l'EMPodcas que hem començat a fer com un extra als episodis ordinaris en què juguem. 
+Algú ens explica casos i anem aprenent a base de jugar amb el que els altres han fet.
+A mi em va agradar, i m'agradaria que m'en passessin més. Surt de la zona de confort i dius, hòstia, hòstia, què faria, què faria?
+O sigui que si teniu algun cas que vulgueu compartir, tampoc cal que sigui molt espectacular, eh? Qualsevol coseta en serveix. 
+Sí, sí, i tant, de tot se n'aprèn. Albert, molt bé. Ens veiem a la propera temporada.
+Vinga
+Apa, adéu. 
+Que vagi molt bé. A reveure.
