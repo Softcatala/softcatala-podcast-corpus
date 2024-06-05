@@ -1,0 +1,853 @@
+# Exported by Aegisub 3.2.2
+EmPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvinguts a un nou episodi de l'EmPodCat.
+Estem ja en l'episodi número 29.
+Aquesta, com ja sabeu, és la tercera temporada que ens podeu sentir
+a través de les diferents plataformes on se senten els pòdcasts.
+I sabeu que l'EmPodCat és un espai en què conversem
+sobre urgències, emergències, sanitàries...
+I que de moment som un grup de dues persones,
+un grup multidisciplinari, multicèntric.
+Per un costat tenim l'Albert.
+Hola, Albert, bon dia. Fes-te una mica d'autopresentació, va.
+Bon dia, tarda, nit, vesprà, el que sigui.
+Sóc l'Albert Homs, sóc infermer d'urgències i emergències.
+Ara mateix treballo a l'Hospital de Cerdanya, als Pirineus Catalans.
+I tinc un blog, que és en emermedpirineus.cat.
+També em trobareu a Twitter, X, o com el senyor Musk li vulgui dir aquesta setmana,
+per emermedpirineus, i també estic a mastodon,
+emermedpirineus, arroba mastodont.cat.
+I jo sóc en Xavi Basurto, que sóc metge d'urgències de l'Hospital de Figueres,
+i també estic a l'USVA de Figueres.
+I tenim un blog, que és l'urgem.cat.
+I a Twitter, també, arroba urgemcat.
+Bé, això ja ho sabeu, perquè a cada episodi expliquem el mateix, qui som i què fem i aquestes coses.
+I avui tenim les seccions habituals de cada episodi.
+I el tema principal, avui l'Albert ens explicarà temes interessants,
+perquè va tindre una reunió molt productiva,
+que va ser el Congrés Europeu de la Societat Europea de Medicina d'Urgències,
+que és l'EUSEM, que va ser a Barcelona entre el 18 i el 20 de setembre.
+I ell va estar allà a primera línia i va assistir totes les sessions i a tots els tallers i tal.
+I ens va semblar molt oportú i interessant,
+doncs que ens fes un petit resum i de les coses més interessants que li van semblar.
+I no sé, Albert, explica'ns coses sobre això, aviam, què ens pots transmetre.
+El primer dir que no vaig anar a tot arreu. El do de la ubiqüitat no el tinc.
+Home!
+Aquest és un congrés molt gran.
+No pots estar tot arreu.
+No, hi havia com, ara no recordo, si eren sis o set tracks alhora, i clar, podien anar en una, però a totes no.
+Sí que les que vaig anar vaig gravar.
+Si algú té algun interès especial en alguna de les xerrades que vaig anar-hi,
+doncs que m'ho digui i li faré arribar l'àudio amb més o menys qualitat.
+De fet, és que va sortir bastant xurro la gravació, però ho he pogut salvar una miqueta.
+Molt bé.
+Aquest congrés era un congrés a Barcelona, el feien a Barcelona, Societat Europea, home, s'hi ha d'anar, no?
+I, bé, la veritat és que a mi em va agradar.
+Feia temps ara que no tenia l'oportunitat d'anar a l'estranger.
+No ho dic perquè baixés a Barcelona, ho dic perquè venien els estrangers aquí.
+Del congrés hi ha coses a destacar.
+De fet, el lloc, això era al Centre de Convencions de Barcelona,
+que està davant del Museu Blau, a la platja, allà el fòrum.
+Espectacular el lloc, tot molt ben muntat, tot a l'hora.
+Em va sorprendre que hi havia pocs locals.
+Clar, jo quan vaig comprar el tiquet del congrés em va sortir molt barat.
+Per infermeres del país eren 165 euros.
+Però és clar, ho he anat a mirar avui i després s'han posat uns preus que, és clar, que no hi havia ningú.
+Si això no ho vas preveure mig any abans, et sortia un ull de la cara.
+També sorprenent... sorprenent no.
+Una cosa que ja passa sovint.
+Si resulta que al gremi la majoria de treballadors de la sanitat són dones,
+doncs aquí la majoria de ponents eren homes.
+Sorprenent no ho és, és una realitat que s'ha d'anar canviant.
+Sí que és cert que hi havia força dones,
+però segueix sent majoria d'homes que no es correspon a la demografia laboral que tenim.
+N'hi havia, eh? Aquí no es pot dir, clar, que només parlaven homes,
+hi havia moltes dones i molt interessants moltes de les xerrades que feien, però hi ha una desproporció.
+Això encara no s'ha resolt.
+A veure, suposo que amb els anys hauria d'anar millorant, espero.
+Home, suposo que crec que també almenys aquí ho veig així,
+amb els directius i els presidents i sotspresidents i tot això,
+almenys a la catalana sempre veig homes.
+Vull dir, els alts càrrecs de les societats crec que encara són homes la majoria.
+És un problema global. De fet en podríem parlar algun dia, eh?
+Buscarem algú que ens parli d'això, d'aquestes bretxes de gènere que hi ha a tot arreu, perquè és un problema...
+És un problema, per molts motius.
+Això, va, deixem-ho veure un altre dia, perquè això també pot ser un tema llarg, eh?
+I parlant de desproporcions, clar, una altra desproporció espectacular és que això es feia tot en anglès,
+menys un track, menys una línia que es feia en castellà,
+i evidentment els anglòfons de naixement,
+clar, les xerrades dels anglòfons molt millors que les de qualsevol altre.
+Sí que hi havia alguns no anglòfons que les xerrades eren comprensibles, però... Déu-n'hi-do, eh?
+Clar, hi ha un avantatge terrible.
+Els que no són anglòfons estem... en desavantatge aquí, eh? Això...
+I no hi havia traducció simultània i aquestes coses, eh?
+No. O anglès o castellà.
+Ni digital ni...
+No. Home, el muntatge audiovisual molt ben parit.
+Allò de... Ai, el vídeo no em funciona era una anècdota.
+I l'àudio se sentia molt bé, les sales i això.
+No em mola gens, però això suposo que és política d'aquesta societat científica,
+que el que es va parlar aquí, que gravar-ho era un cost irrisori,
+publicar-ho ja és un esforç,
+però clar, tot el que es va dir aquí no ha sortit enlloc més.
+I home, aquí hi ha contingut interessant, que podria ser lliure i accessible per tothom,
+l'esperit del FOAMED aquest, del Free Open Access Medical Education,
+però aquí s'ha quedat.
+Nosaltres ara intentarem difondre el Free Open Access,
+però clar, és passat pel meu filtre.
+Però bé, segur que Google hauria trobat moltes coses interessants que no estan disponibles.
+O jo mateix, o les xerrades que volia anar i que em coincidien amb una altra,
+doncs no hi he pogut anar.
+I segur que deien coses que m'interessaven.
+Com a tots els congressos també hi havia les paradetes de la indústria.
+Em va sorprendre que hi havia molt poca farmacèutica.
+O sigui, hi havia uns que venien allò, l'andaxanet, l'antídot pels nous anticoagulants orals.
+Uns que venien, aquest em va semblar interessant, uns que venien xeringues precarregades de medicació.
+Venien els del CianoKit també, que vaig pensar, però si per què veniu a vendre això, si vosaltres això ho teniu ja venut.
+El CianoKit, per qui no ho sàpiga, és l'antídot del cianídric, un dels fums dels incendis i això.
+Toca parlar-ne algun dia d'aquestes coses.
+Sí que hi havia, que això em va sorprendre, hi havia ben bé mitja dotzena de parades amb
+catxarros de simulació, tota mena d'estris, ninots de tota mena,
+un nadó que movia els braços, una cara fidel a la realitat.
+Allò t'ho foten al llit i allò és una persona, tu li parles espectacular.
+Coses superxules.
+També hi havia molta maquineta, d'això que n'hi diuen point of care,
+per fer analítiques al costat del llit.
+Hi havia màquines de bioquímica seca, que això, l'i-stat aquest, que alguns hem vist,
+però no té més drama, però és que hi havia fins i tot la tromboestolografia,
+tromboest...
+Un moment, que hi torno.
+Tromboelastografia,
+que és una forma dinàmica nova de mesurar la coagulació.
+Sí.
+N'hi havia uns que venien a una maquineta més petita que un monitor.
+Clar, deu valer una pasta gansa cada prova que fas, però vaig trobar superportable, carai.
+Bé, evidentment, per fer marcadors cardíacs, el que tu vulguis, per fer troponines en vuit minuts,
+bueno, invents d'aquests molt ben parits tots.
+No vaig preguntar preus a ningú perquè no volia infartar-me allà mateix.
+Hauria estat lleig.
+Bé, possibilitats de sobreviure, allà en tenies més que a qualsevol altre lloc.
+Potser un excés de metges i tot, no ho sé.
+No ho sé, eh, sí.
+Normalment dos metges dubten i tres maten, eh.
+Sí, allà n'hi havia uns quants.
+També hi havia molta gent venent ecògrafs de tota mena, colors,
+totes les prestacions que vulgueu.
+Jo vaig flipar amb la quantitat de trastos que hi ha,
+de totes mides, bé, i floritures, una imatge.
+Clar, també és cert que els que estaven allà fotent de model no n'hi havia cap de gras, eh.
+Sí.
+I videolaringoscopis també, tres o quatre.
+Clar, tu veus, jo allà estava flipant molt.
+A mi que m'agraden les maquinetes.
+I el pitjor de tot és que hi havia una llibreria que venia llibres.
+I no hi havia ningú.
+Estava a petar.
+Ah, vale.
+I jo cada vegada que passava per allà, saps, em tapava els ulls així com si fos un ruc,
+perquè no vull mirar, no vull mirar, perquè a casa meva això dels llibres és un vici.
+I que m'hagués gastat pasta gansa a comprar llibres, que m'haguessin quedat empantanats allà per llegir,
+perquè això de llegir també...
+Llegir llibres és... és cansat.
+I era una cosa que em va fer riure molt, tot i que jo ja estic una miqueta vell per això.
+Hi havia una competició de paramèdics que va passar així una miqueta sense pena ni glòria,
+però és que també hi havia la copa de simulació.
+Que hi havia una paradeta, que una colla de...
+Una associació francesa van muntar allà un xiringuito,
+he posat alguna foto també a les xarxes socials, que feien una competició entre diferents equips,
+que t'havies d'apuntar abans, equips de quatre persones,
+que al final van acabar sent equip pràcticament nacionals, no?
+I era una competició, et muntaven el mateix escenari per duplicat,
+molt currat, però molt, eh?
+Si era un box d'urgències, doncs tenies un box d'urgències,
+bé, dos, per duplicat.
+Si pretenien que fos un escenari prehospitalari, doncs et canviaven el fons,
+fotien unes pancartes que representaven, doncs jo que sé, una carretera,
+i també.
+Una víctima?
+Doncs dues víctimes, eh?
+A terra, i tu anaves amb les teves maletes, que tenies allà, que eren les teves maletes,
+i tenies dos monitors, bueno, cadascú el seu.
+Tot lo realista que pot ser una simulació, diguem-ne, tancada en un espai,
+que era molt guapo de veure, els participants portaven cadascú un micro,
+ja dic mitjans a punta pala, eh?
+Cadascú dels participants portava un micro, s'anaven parlant,
+tenien fins i tot taula de mescles perquè se sentís, i tu tenies allà unes pantalles que anaves seguint simultàniament, eh?
+Anaves seguint els monitors, les gravacions de vídeo,
+doncs un vídeo zenital sobre el pacient i això, i podies anar sentint el que anaven dient.
+Però és clar, estaven allà, els dos alhora,
+enmig del batibull d'estar a la zona aquesta d'exposició,
+amb l'agravant que, clar, jo només hi anava quan eren les pauses del cafè,
+que també es feien allà.
+Costava de seguir, però ho vaig trobar super ben parit,
+bé la penya s'ho va passar pipa, i jo vaig veure que això mola molt,
+molt, molt, molt xulo, em va semblar molt, molt interessant,
+una eina divertidíssima de currar-s'ho.
+I era una competició això?
+Sí, sí, sí, final...
+Ho feien com a competició, i la finalitat que era, un temps o aconseguir que el pacient...?
+La finalitat era, doncs hi havia quatre participants per equip hi havia quatre tios allà valorant.
+Cadascú de l'equip tenia un a darrere que l'anava valorant.
+Sí.
+Les puntuacions no sé com anaven realment.
+I després feien com una mica de debrífing o no?
+No té res a veure amb simulació això, eh?
+Era un escenari i punto,
+i feien una competició i ja està.
+Mira, la veritat és que no ho sé.
+No et sé dir si quan acabaven després amb els participants
+els deien, mira, nosaltres hem vist això.
+Jo diria que no anava per la banda de l'aprenentatge,
+diria que no anava per la banda de fer feedback després als participants.
+Però l'associació aquesta ho fan, eh?
+Es dediquen justament a això, a fer simulacions,
+llavors tu et pots llogar, venen, et foten la cagarel·la, i després et fan els debrífings.
+Però aquí diria que la cosa no anava tant per aquí.
+I els que organitzaven això eren francesos?
+Sí. És una associació que no recordo com es diu.
+UGT, ja no sé com es diu.
+Ho posarem al web per qui li interessi.
+A mi em va semblar interessant, jo ja m'he apuntat això,
+per veure si algun dia apareixen calés del no-res i els podem llogar.
+Perquè barat, barat, fa pinta que no és, eh?
+Molt bé.
+Anem a les coses interessants, va.
+Què més, què més?
+Vinga, xerrades. Una miqueta per...
+Com que no sabia com ordenar-ho, doncs ho he ordenat per ordre cronològic
+a mesura que les vaig anar veient.
+El primer dia vaig arribar tard, perquè vaig agafar el bus aquí dalt a Cerdanya
+i vaig arribar quan vaig arribar a Barcelona, és clar.
+Em pensava que havies anat amb tren.
+Dic, doncs clar que vas arribar tard.
+Uf... R3, Cerdanya, Barcelona, RENFE.
+Home, si ja es pot fer, es pot arribar, clar.
+Arribar es pot arribar, però és una aventura, eh?
+No, a més a més pel meu poble passa bus, llavors hauria hagut d'agafar...
+És igual, vaig anar amb el bus i ja està.
+Vaig arribar i em vaig perdre la primera xerrada, que feia pinta de ser molt interessant,
+la feia un tal senyor Paul Pepe, però era americà.
+I anava de... Coses que es podien fer per millorar
+la supervivència neurològicament intacta de les aturades cardíaques.
+Dic que devia ser interessant perquè les preguntes que van fer després vaig pensar... Oh, oh, oh...
+Bàsicament, pel que vaig esbrinar després, és una de les coses que es plantegen
+és fer servir una combinació de RCP amb un cardiocompressor mecànic
+amb el cap lleugerament elevat, que això ja hi ha una màquina,
+entre cometes, que faria les dues coses, això ja seria la plataforma per cardiocompressor
+i podries elevar el cap, i fer servir un dispositiu
+que n'hi diuen Impedance Threshold Device,
+que vol dir que quan tu fas compressions l'aire va sortint, però impedeix que entri.
+Una miqueta contraintuïtiu.
+Què fan amb això?
+Vas disminuint la pressió intratoràcica i per tant augmenta el retorn venós.
+Això fa temps que se'n parla i no hi ha massa evidència de tot això.
+Quan dius el cap aixecat, vols dir tot el tronc aixecat? Una miqueta?
+Sí, tot el tronc aixecat. Uns 30 graus, tampoc...
+Això del cap aixecat ho van començar a fer perquè a Corea no poden determinar la mort in situ,
+per tant, totes les aturades cardíaques es traslladen a l'hospital.
+Com trasllades una aturada cardíaca d'un 8è pis al carrer?
+Amb una taula espinal, els fotien drets dins l'ascensor i els baixaven.
+I una circumstància que és pràcticament impossible, què és una RCP en curs des d'un 8è pis.
+Hi ha estudis que diuen que hi ha més mortalitat del 4t pis en amunt que del 4t pis en avall,
+en les aturades cardíaques.
+Es veu que els n'hi sobrevivia algun.
+I coi, què ha passat aquí? Van pensar, ves que no sigui com que està el cap amunt...
+O sigui, si no ho he entès malament, mentre fas compressions toràciques amb el cardiocompressor,
+això s'ha de fer amb el tronc a 30 graus?
+Sí, no em facis dir el número.
+Però vull dir, és...
+El que em va semblar entendre era tot el conjunt.
+Aquesta, ei, no la tinc gravada, no hi era. La que sí que vaig gravar i em va semblar molt interessant,
+i de fet era un tema que ja en volia parlar abans, en Pierre Carli, del jefe del SAMU de París,
+parlava d'una cosa que van fer durant la Covid, que són els transports massius de pacients crítics
+per tren o avió. Per TGV, per tren d'alta velocitat, o avió.
+Molt interessant.
+Això ho van començar a preparar després dels atemptats del Bataclan de París.
+Doncs se'ls va acudir la possibilitat, davant d'una situació de múltiples víctimes massives totes greus,
+doncs des de l'entorn arribar al lloc on estan desbordats i emportar-se'ls-hi els pacients per buidar-los.
+Que és el que van fer després amb això del Covid.
+Logísticament és un infern.
+És del que anava a la xerrada, precisament, de la logística, és un infern.
+Els hi va sortir molt bé, els números que tenen, perquè ja ha començat a sortir literatura,
+i espero que aquest any en pugui parlar, m'ho pugui preparar.
+I jo vaig pensar una miqueta, dic, això ens podria ser útil a nosaltres o no,
+perquè és moure molta gent des de molt lluny.
+No ho sé, ja en parlarem, perquè aquí crec que dóna per parlar. A més a més, logística,
+aquí els tècnics, moltíssima importància, els tècnics portaven
+més o menys un metge per dos pacients, una infermera per pacient, i dos
+socorristes, tècnics, bombers, perquè van moure moltíssima gent per això,
+per pacient. Molt interessant, ja en parlarem.
+Què més? Hi havia un track de metges joves.
+Tu t'enrecordes un dia que parlàvem dels metges joves, què vol dir metges joves? No sé, però aquests eren més joves que jo,
+per tant, eren joves.
+Va, doncs, en el track aquest de metges joves hi havia una altra xerrada que parlava
+de la ventilació mecànica durant la reanimació. És un tio que està
+investigant en això, un danès.
+Aquí em vaig quedar que la reanimació, sabem que hi ha dues coses que funcionen, no?
+La ddesfibril·lació precoç, compressions cardíaques de qualitat,
+i la ventilació, que és l'aneguet lleig.
+I, ostres, clar, no hi ha evidència, i justament és el que aquest
+tio està intentant fer, generar evidència, si realment hi ha diferència o no,
+però els arguments que anava donant em fan pensar que
+probablement ens hem passat de no donar-li importància a la ventilació.
+Probablement hi hagi coses a fer aquí, també és cert que aquestes coses
+a fer potser no són les que ens imaginem, potser s'ha de ventilar menys.
+I vaig quedar amb més dubtes que certeses,
+però la idea és que la ventilació és l'aneguet lleig, que no vol dir que no sigui important.
+Llavors, havent dinat, aquí es dinava d'hora, horari europeu, a les dues ja hi tornàvem a ser.
+Sí, clar.
+Xerrada plenària, sala mil i pico persones, va parlar en Josep Brugada,
+un dels... Brugada de la síndrome de Brugada, justament, parlava.
+La història de la síndrome de Brugada.
+Història i coses interessants pels urgentòlegs de la síndrome de Brugada.
+Ens vam passar com uns enanos, jo m'ho vaig passar pipa, una xerrada molt divertida, farcida d'anècdotes, clar.
+El tio ens explicava el seu, una malaltia, que ells la descriuen la primera vegada,
+no li posen nom, descriuen el cas d'un nano de tres anys que el van reanimar d'una mort
+sobtada, que li foten un electro i és raro, una germana d'aquest nano
+ja havia mort abans, això no sé quin any era, el 80, em sembla, potser.
+Descriuen la malaltia, l'any sobre,uns altres diuen, com deien Brugada, o sigui, uns altres li posen nom,
+a partir d'aquí va evolucionant tot, es va creant, al final s'ha creat
+tota una nova categoria de malalties, les can...
+Les canalopaties.
+Canalopaties, gràcies.
+Gràcies al síndrome de Brugada n'han aparegut vàries.
+Això són tres germans, tots són cardiòlegs, però un té una formació genètica,
+després van per aquí, van per allà, bé, molt interessant.
+Aquí podríem parlar, de fet jo em vaig quedar amb les ganes de parlar molt més.
+Em quedaré només amb les coses que m'han semblat interessants.
+Va, de la síndrome de Brugada hi ha tres patrons electrocardiogràfics,
+1, 2 i 3, no entraré ara quin és quin, ho deixarem per quan parlem de la síndrome de Brugada.
+Només el primer és patognomònic.
+I paraules textuals del doctor Brugada és,
+només li pots dir, segur, que un pacient té Brugada si té el tipus 1.
+Que als cinc segons de sortir a la consulta ja estan buscant què és la síndrome de Brugada
+i als dos minuts ja m'estan escrivint un correu.
+Aquest home deu rebre molts correus de pacients que els hi diuen que és un Brugada
+i després si no és tipus 1, doncs potser ho és o potser no.
+Interessant també que sembla que aquesta canalopatia té molta afectació per temperatura.
+Això més o menys ja sabíem que pots trobar gent que només té l'alteració electrocardiogràfica quan té febre.
+Això s'ha de tenir present.
+Les infermeres que sempre quan ens demanen de fer coses estranyes sempre fotem mala cara,
+ si et diuen que has de fer un electro amb algú quan té febre i dius, però si ja en tens fet un.
+Potser si és un tio que s'ha sincopat quan tenia febre i després torna a tenir febre i et demanen que facis un electro, potser va per aquí el tema.
+Cosa molt interessant també. Ja sabeu que jo sóc un fanàtic de l'electrocardiografia per segona vegada ho repeteixo
+i faig una angina de PrinzMetal cada vegada que veig elèctrodes mal posats.
+Una de les coses que es fa sempre malament és el que l'Elena Plaza en diu "los electrodos pendientes" perquè els pengen de les orelles.
+Que és V1, V2 els poses molt amunt.
+Resulta que posar aquests elèctrodes molt amunt és una eina que hi ha per afinar el diagnòstic del Brugada.
+En comptes de posar V1, V2 al quart espai intercostal pots posar-los al tercer i al segon.
+O sigui que aquí m'ho estic menjant el que dic jo. També que arriben en agrupacions.
+En el Brugada pots trobar-te que en un període de curt de temps tens diversos episodis que fas arrítmies
+i que després, durant anys, desapareixen. I poden tornar a venir en agrupacions.
+El tractament que tenim fins ara d'això és només posar un desfibril·lador implantable
+i quan tens l'arrítmia et desfibril·la i tornes a la situació normal. No hi ha cap altre tractament.
+Però sembla que s'està plantejant, i podria ser que fos un tractament eficaç,
+ que fent un, aviam si ho sabré dir bé, perquè això és electrofisiologia.
+Aquests que passen catèters i després es dediquen a cremar coses dins del cor
+Es veu que hi ha l'opció de fer un tractament d'aquesta mena.
+De socarrimar, ui, perdó, de fer alguna cosa estranya d'aquestes que fan els electrofisiòlegs,
+per eliminar el tros aquest que està afectat de la canalopatia
+Això et va semblar que ja ho estaven investigant?
+ Sí, sí, sí, sí. De fet, no tinc clar en quina fase estem d'això.
+Si encara és un tractament experimental o si ja es pot començar a fer
+com una alternativa als que no poden anar amb desfibril·lador o
+d'aquí uns anys directament no caldrà posar desfibril·ladors perquè et socarrimaran això i ja està.
+No ho sé. Em va semblar molt, molt, molt interessant.
+Aquesta xerrada em va fer venir ganes de parlar de la síndrome de Brugada.
+Home, aquesta segurament si busquem a YouTube o així ens trobarem alguna xerrada
+d'en Brugada explicant tot això.
+Podria ser.
+Vull dir que la de l'EUSEM no està publicada però segurament la mateixa xerrada
+més o menys segurament si la busquem la trobaríem.
+Doncs si la troba algú que ens passi l'enllaç.
+Vinga, següent. Després hi havia una altra bueno, la següent xerrada era un grup de xerrades i tal de coses a futur.
+Hi havia un paio, un canadenc, en David Carr i ens parlava d'aspectes de coses de...
+tampoc li diria noves indicacions, no sé com dir-ho. És a dir, qüestions interessants de la reanimació.
+de la reanimació. Llavors, la detecció del pols. Això tan famós de cada dos minuts has d'aturar-te im irar pols
+Doncs segurament si les societats, si els que fan les guies no fossin tan conservadors probablement això ja no es faria.
+I segurament ens n'aniríem a detectar el pols, per exemple, amb ecografia.
+Fots l'eco a la caròtide, l'ecògraf, la sonda a la caròtide i pares i mires la caròtide.
+Si batega o no batega. En comptes de buscar el pols allà amb... els dits a la caròtide,
+que després no saps si és el teu, si és el seu, no tens ni punyetera idea. Acabaríem abans.
+Sí. Home, jo et dic que nosaltres ho fem, això, eh? Sempre que hi ha algú que té un interès, però
+nosaltres ho hem fet moltes vegades a urgències i mentre s'està fent reanimació sempre hi ha algú posat amb el transductor a la caròtide
+i cada vegada que es fa ventilació vas veient si la caròtide té flux o no té flux.
+I la veritat és que no tens cap dubte de quan la cosa va bé o quan va malament i t'ajuda bastant.
+Més que no mirar el pols, no sé, a les caròtides, a les femorals o no sé on.
+ Per això. Això segurament... no sé si desapareixerà o no, però mirar-ho per aquesta banda segurament millor.
+El tema de la desfibril·lació dual, que és un altre tema, això, el tema del moment.
+ La desfibril·lació funciona molt bé quan funciona, però no sempre funciona.
+Després ja parlen de la fibril·lació refractària, que és el si t'han desfibril·lat tres vegades
+i no has aconseguit retorn a circulació espontània, doncs has de canviar d'estratègia.
+I una de les estratègies que es planteja és el que anomenen una desfibril·lació dual, que vol dir que no desfibril·les amb dos pegats, sinó amb quatre.
+Dos pegats vol dir que descarregues en una direcció, entre el pegat A i el pegat B.
+Doncs quatre pegats voldria dir que desfibril·laries en dues direccions, de l'A al B i del C al D, per exemple.
+Ara el que s'està parlant ara n'hi diuen seqüencial, perquè fa molta por de fer-la simultània i que et carreguis els desfibril·ladors,
+tot i que amb els experiments que hi ha ningú s'ha carregat desfibril·lador, però clar, cap fabricant et garanteix que no pugui passar.
+Carregar-te 20.000 euros d'aparell, doncs no li agrada a ningú, oi?
+Doncs sembla que la cosa... també no descartem que d'aquí uns anys
+apareguin venedors venent-te desfibril·ladors amb quatre pegats.
+I que puguis desfibril·lar en dues direccions simultàniament diferents
+i llavors això sembla que augmenta les possibilitats de retorn a circulació espontània.
+El tema de l'adrenalina dins l'aturada,
+que sabem que el ritme no desfibril·lable s'ha de fer tan aviat com sigui possible
+i el ritme desfibril·lable s'ha de fer després de bla, bla, bla, bla, bla...
+Doncs que això de l'adrenalina és probable que a futur veiem que l'adrenalina la fem servir menys
+en els ritmes desfibril·lables que no pas en els no desfibril·lables.
+En els no desfibril·lables té un altre caire això.
+Però coses que podem anar veient aquí.
+Escoltant aquest tio, evidentment l'adrenalina poca.
+Després un altre, Mathieu Hediet, un francès que ens parlava d'intel·ligència artificial, drons i ambulàncies volants.
+Miraves això i dius, això és xauxa. Això és xauxa, no?
+Bueno, xauxa i no és tan xauxa.
+L'ús de la intel·ligència artificial sortia diverses vegades, és el tema de moda d'aquest any.
+Ara mateix no hi ha res que puguem dir que, uà, això és trencador, va fent xup-xup, l'olla va bullint aquí.
+Coses que sí que funcionen ja, i jo em vaig flipar bastant, l'entrega de desfibril·ladors per dron.
+Això que és una cosa que estava llegint i jo pensava, buà, pots comptar. Doncs ja ha passat.
+Hi havia un vídeo real de Suècia, nevat tot, un senyor que es va parar
+palejant neu al pati de casa, una cosa bastant habitual,
+i li va arribar el DEA via dron, que el va despenjar amb un cable,
+i veies l'altre, el testimoni anant-lo a buscar, que semblava allà un pingüí,
+i va arribar el DEA no sé quants minuts abans que l'ambulància.
+Això ha passat. I és quelcom que... que em sembla que anirem veient.
+Ha d'estar alertat, eh, el que està allà al costat del pacient, perquè si estàs allà
+i veus arribar un aparell que et despenja un altre aparell, deus pensar, hòstia...
+Quan va començar a sortir això dels drons vaig pensar, va, home, va, això, uns flipats.
+Bé, doncs no.
+Clar, també és a Suècia. M'estic imaginant determinats llocs on arriba un dron amb un trasto
+jo crec que el dron, el trasto, desapareix tot.
+Però bé, qui sap. És un tema, està allà. Està allà donant voltes.
+Jo diria que ho he vist, suposo que fins també experimental i tal, en tema de...
+amb socorristes a platges i mars i aquestes coses, no?, que te fan arribar
+alguna cosa flotant on hi ha la víctima.
+ Sí, sí. Jo crec que això no trigarem.
+Després, això de l'ambulància voladora, bé, ara vaig pensar el mateix que vaig pensar en el moment amb el dels drons, vaig dir, ah, un flipat.
+Un flipat i tal. Doncs sí, sí, sí. Un flipat, però...
+Potser no tant, eh?
+Una ambulància tripulada o sense tripulació?
+Tripulada, però no necessàriament pilotada.
+O sigui, amb sanitaris però sense un tècnic que ho dirigeixi l'aparell? Això fa molta por, eh? Això...
+Moltíssima. Va presentar un parell de dissenys... O sigui, evidentment, hi ha molt powerpoint, eh?, molt disseny així...
+Però ja hi ha taxis... O sigui, potser no seria la paraula taxi,
+però aeronaus per volar dues persones a dins que et porti del punt A al punt B.
+Això ja no diré que existeix, perquè els prototips hi són i es belluguen i mouen gent.
+O sigui, torna a ser una d'aquestes coses, igual que m'estic menjant el que vaig dir que els drons eren flipats,
+aquí ja estic moderant el meu llenguatge i no dic que no pugui passar.
+Clar, avantatges amb això, doncs imagina't.
+Ara quin és el problema que tenim, els helicòpters nostres que tenim són grossos.
+Terriblement capaços, però són grossos i difícils de...
+Bé, difícils. Jo no piloto mai un helicòpter per saber si és difícil o no, però veient com es belluga m'imagino que no ha de ser senzill, eh?
+Portar-lo al lloc on a tu t'interessa.
+I aquí t'estan parlant de coses que són no gaire més grans que un cotxe i que poden arribar a tot arreu.
+No ho sé. No m'atreveixo a dir que no ho veurem. De moment segueixen sent uns flipats, però jo no estic dient que no ho veiem, això.
+Això pels més joves, eh? Pels sanitaris que són més joves, eh?
+Sí, sí. De totes maneres, pensa que cada any ens fan jubilar més tard, eh?
+Sí, sí, però quan en tinguis 69, te diguin que t'has de pujar amb un dron volador...
+No m'hi veig, no m'hi veig, però bé, qui sap, qui sap.
+Vinga, va, seguim. Després... bé, l'experiència del... Ara la cagaré. Del SAMUR de Madrid
+i ara és quan ho han fet els del SUMMA de Madrid i llavors ara, eh? Els de la capital em canegen.
+L'experiència que tenen amb el xoc hemorràgic extrahospitalari.
+Ells tenen capacitat de fer analítica dins de... Cada vegada que hi ha un sidral apareix allà Déu i sa mare
+i per un pacient tenen 10 tios i 4 cotxes. Una de les coses que poden fer amb tan desplegament,
+Tenen capacitat de fer una analítica ràpida allà al costat.
+I aquí ens parlava del PH i l'excés de base com a predictors de necessitat, de transfusió massiva o no.
+Bé, tenia el seu interès. Jo penso que en prehospitalària no crec que triguem massa anys a portar
+algun equipament de point of care i poder prendre decisions in situ.
+Això veig més viable.
+El tema de portar sang és una altra de les xerrades d'aquest senyor, del Pepe, d'aquest americà
+de l'ús de sang total de tranexàmic i calci a les ferides exsanguinants.
+Que és un dels temes que vam parlar una miqueta amb la Jordina, en l'episodi que vam parlar de l'hemorràgia exsanguinant, no?, que és el tractament sistèmic.
+Bé, aquí parlen de sang total. Hòstia, la sang total jo ho veig difícil, però és un d'aquests temes que estan donant voltes per aquí.
+Si s'ha de portar sang o no a l'extrahospitalària i com hem de fer servir la sang en el tractament sistèmic de les hemorràgies.
+Calci quant s'ha de posar? Quin calci? El gluconat? El clorur càlcic?
+Això està donant voltes, també és interessant.
+Va, més xerrades.
+Una que em va semblar interessant d'un americà, que es titulava diu, necessitem un protocol d'ecografia
+per als pacients amb febre? Que així d'entrada dius, per què?
+Va semblar interessant. Clar, quan anem amb febre, doncs pensem en el que està constipat, oi?
+Però febres d'origen incert, se'n veuen unes quantes, especialment més en gent gran que en adults joves.
+Amb nens ja sabem que la febre és d'origen incert fins que tu et canses d'esperar i llavors surt per alguna banda.
+Aquest tio plantejava un protocol així, què miraria ell? I de fet ho té escrit en algun lloc.
+Doncs clar, tenim febre, doncs jo aniria a mirar.
+Si tinc febre i tinc les parets de la bufeta del fel gruixuda
+i no sé què i tal, doncs hauria de sospitar que... Em va semblar interessant.
+Als metges que us agrada fer ecografia, jo em plantejaria fer-li un cop d'ull a això.
+No m'atreveixo a dir que això sigui trencador i que a partir d'ara t'entri un pacient amb febre
+i tu ja hi vagis amb l'ecògraf i ja facis diagnòstics així molons, però...
+Bé, és per tindre una sistemàtica de quin profit en pots treure l'eco si et trobes en un cas així.
+Sí, sí.
+Volia anar a veure unes xerrades després de procediments molons en reanimació
+Que si toracocentesi, que si no sé que i tal...
+Evidentment la sala estava plena, vaig arribar dos minuts tard i havien començat, la sala plena, ja no vaig... i vaig anar a veure'n una altra, perquè ja no hi podia entrar.
+Dels metges joves, eh? Jovent, també explicant coses.
+Després, un alemany ens parlava de triatge prehospitalari.
+Em vaig quedar amb la frase que el triatge prehospitalari dura uns minuts i a partir d'aquí se'n va a la merda.
+L'experiència que hi ha és que la gent tria una miqueta al principi, però a partir de cert moment
+és igual el que fas servir,  l'start, que fa servir el ten seconds no sé què, fas servir el ten seconds.
+A partir d'un cert moment ja no fas servir res. A partir d'un cert moment vas tirant les etiquetes i vinga, festa.
+Va explicar bastant quins diferents models de triatge que hi ha, perquè no només hi ha l'start, que és el que fem servir.
+Pels que els agrada això dels incidents de múltiples víctimes, aquí haguessin estat contents.
+Una altra xerrada d'un altre metge català expatriat dels Estats Units aquest
+que era les claus per al lideratge exitós.
+Evidentment tot molt... paraules rimbombants.
+A mi em va agradar una miqueta la idea. Aquest tio treballa a Harvard
+tio... hauria de dir eminent senyor, perquè per treballar a Harvard, diguem que no pot ser un pelacanyes.
+I explicava una miqueta l'experiència o com s'ho han manegat per un sistema
+estem parlant d'Estats Units, un sistema sanitari d'allà, res a veure amb el nostre,
+com un sistema dispers de molts centres diferents, amb competència entre ells
+com l'han anat reconvertint en un sistema en xarxa.
+Tenen el mateix problema que tenim nosaltres.
+Hi ha centres grans acadèmics que són els que generen professionals
+i els tenen i els poden anar triant i després d'una sèrie de centres a la comunitat
+com que no formen professionals doncs tenen molts problemes per cobrir.
+Cadascú és del seu pare i de la seva mare, cadascú fa les coses d'una manera, t'envien els pacients així i allà...
+I el que han fet és fer una mena d'integració territorial. I explica el que els està costant, perquè els està costant un horror,
+Clar, imagina, ajuntar sis hospitals dels quals quatre són grans i cadascú... és un drama.
+I anava explicant aquí. I això també em va fer pensar vaig pensar, home, el que està dient no és una barbaritat.
+Penso en el sistema català. El sistema català són un gran prestador que és l'Institut Català de la Salut
+que té, em sembla que són set, no sé si són set o vuit grans hospitals de Catalunya tots acadèmics,
+tots molt grans, algun enorme i després hi ha uns quants hospitals
+acadèmics més que són d'altres entitats, totes públiques,
+ i després tenim una dispersió de centres sanitaris més petits, cadascú del seu pare i de la seva mare
+i tots sabem que això és un festival.
+I em va fer pensar...
+I el problema és que cadascú mira pel seu, no?
+Sí, sí, sí. Evidentment, no tinc clar que sigui extrapolable el que parlava aquest home aquí, però allà plantejava coses
+coses de... això. De no anar cadascú pel seu compte, de començar a ajuntar.
+Va, xerrada següent també, metges joves, em tiren els metges joves.
+Qüestions digitals totes. Intel·ligència artificial de nou, que si intel·ligència artificial per detectar l'ictus,
+que si com ens ho farem ara que tothom va amb un watch d'aquests de l'Apple que et mira si tens una fibril·lació auricular o no.
+No vaig quedar-me amb cap conclusió clara, vaig anar escoltant coses,
+evidentment a partir d'ara, si tu tens una fibril·lació auricular et compraràs un iWatch de l'Apple
+i et vindrà un dia gent amb el que és que l'iWatch m'ha dit que, i si,
+ens farem un tip de riure amb el que l'iWatch li ha dit que està mort i parla amb tu.
+Sí, sí.
+Però  ens trobarem amb gent que ve amb un electro normal però que el seu watch li diu que ha tingut una fibril·lació auricular.
+ O com ho farem amb aquests que estan amb una fibril·lació paroxismal els direm posa't l'iWatch aquest i si veus que...
+Podem arribar a això, podem arribar a dir si veus que fa 12 hores que estàs amb fibril·lació auricular...
+ Pren-te les pastilletes.
+Tu mateix, eh? Aquí tens les fleques i et comences a prendre el Pradaxa.
+Coses així, clar, això ens canviarà una miqueta com estem fent les coses.
+Parlo futur perquè no van dir res així que em semblés... que digués Uala! Això ho haig d'apuntar.
+Això de la detecció del l'ictus torna a ser això mateix, eh?
+Intel·ligència artificial per tot arreu però jo no acabo de tenir clar que vagi millor que un humà
+Pot ajudar? No dic que no però no ho acabo de veure encara. D'aquí uns anys en tornarem a parlar probablement, eh?
+Va, després, què més?
+Ja ens anem a l'últim dia. Les últimes xerrades de l'últim dia.
+Ja us podeu imaginar com estava el personal a la primera hora del matí.
+Els anaves despertant tu, no?
+Doncs mira, algun anava que estava una miqueta afectat, eh?
+Vaig anar a una sessió de toxicologia perquè feien una xerrada de la intoxicació per bolets que la feia un italià.
+Els vas aconsellar que s'escoltessin el nostre pòdcast?
+Hòstia, els hagués hagut de dir que necessitaven un traductor també, eh?
+Però sí que em va cridar l'atenció una cosa, eh? D'aquests italians. Així com nosaltres, l'Àngels, l'episodi anterior,
+El 28, l'especial d'intoxicació per bolets. Ens parlava de la silibinina que...
+si sospites intoxicació per amanitines, vinga silibinina, fot-li ja, i sense por.
+De fet, ja el meu hospital la tinc localitzada, eh? Ja sé on és, a l'armariet, allà a la farmàcia, la foto, que és aquesta caixa, això.
+Doncs aquest, sí, la silibinina sí, però com que sembla que a Itàlia no és un medicament que tinguin tan a l'abast,
+doncs penicil·lina, molta.
+Fan la penicil·lina g-sòdica.
+Crec... No me'n recordo ara quina fan servir. Però vaig pensar, mira, nosaltres tenim silibinina, eh?
+Evidentment no va pas dir que s'hagués de fer penicil·lina, però en el seu historial, diguem, no la tenien tan a l'abast, eh?
+I ja per acabar el dia, doncs mira, l'última sessió de...
+dominar les estratègies fent servir la millor evidència. O sigui, bàsicament,
+venien senyors a dir-te que de tot el que fem, què és millor i què és pitjor.
+Un xicot francès ens parlava de fer servir ecografia
+o altres alternatives d'imatge per aconseguir l'accés intravenós.
+Nosaltres també n'hem parlat, d'això, eh? De l'accés venós ecoguiat. En vam parlar amb la Laia.
+La Laia Salleres, sí.
+Fa... això és la primera temporada, no sé quin episodi, set, em sembla, no me'n recordo, sis o set, ja no me'n recordo.
+Ens va parlar... el que ens va comentar la Laia, doncs que si...
+fer servir ecografia per a gent que no és difícil de punxar no té cap sentit,
+i fer-la servir d'entrada amb els que són molt difícils de punxar, doncs sí.
+Va fer servir una escala de valoració de via venosa difícil
+que no és l'ADICAVE que va publicar la Laia. Era una altra, em sembla que també ens ho havia comentat ella.
+Les altres alternatives d'imatge són aquests detectors d'infrarojos, em sembla que són, que després et projecten a sobre el dibuix de...
+de l'arbre venós, no sé si això algú ha vist les imatges et projecta en fosforito allà per on passa la vena.
+Em sembla que això no... et senyala venes que vés a saber quina mida tenen
+i vés a saber quina profunditat estan.
+Em sembla que no acaba de... no acaba de triomfar aquest estri.
+Jo que veient això em veia capaç de posar una via i veig que no serà possible.
+Les fàcils, evidentment, però és que si són fàcils no necessites això.
+Sí, sí.
+I aquí el resum de totes les xerrades, qui tingui algun interès d'alguna d'aquestes
+que he explicat doncs que ens ho digui al grup de Telegram, perquè no ho hem dit, però tenim un grup de Telegram
+i li passaré les xerrades, l'àudio, perquè no hi ha diàpos i tot això.
+Pel que ens has explicat, m'ha cridat l'atenció que hi havia força, per el que has dit, força ponent francès.
+No sé si és per la situació geogràfica a pocs quilòmetres.
+Com a la cursa de motos, igual, de Montmeló.
+I després el... Jo ho vaig intentar seguir una miqueta per les xarxes socials perquè quan hi ha congressos així
+hi ha molta repercussió, per exemple, a Twitter o X, hi ha molta piulada sobre...
+quan hi ha un tema. I d'aquest congrés, la veritat és que... potser no ho vaig mirar quan ho havia de mirar,
+però és que em costava trobar gent que penges imatges, fotos, algun vídeo
+i coses, i vaig trobar molt poca cosa.
+No ho sé, aquí no devia haver-hi premi al més piulador de tots, suposo, i no sé, potser no tenien ningú...
+dedicant-se. Si que hi havia algú de les xarxes, perquè cada dia hi havia el compte d'aquesta gent,
+però clar, aquí necessites tenir piuladors compulsius, aquests que van tot el dia fotent-li allà el...
+Sí, perquè, per exemple, aquest resum que ens has fet, jo gairebé, quan hi ha algun congrés
+per aquí o no sé què, jo gairebé el puc anar seguint. Hòstia, està... avui parla no sé qui, avui parla no sé què sobre allò
+i algú penja la diapo de resum de la seva ponència, pum, te la pengen.
+I ja pots anar llegint com ens has explicat tu. Però, en canvi, en aquest congrés europeu a mi em va costar molt, no vaig veure res.
+Doncs mira, això si fóssim de la Junta els hi podríem dir. Nens, què passa?
+Que volem un feedback, els hi farem un feedback.
+Doncs ja està, jo ja acabo aquí. M'hagués agradat trobar-me amb més gent coneguda,
+vaig anar-hi amb un company de feina, però realment vaig quedar bastant sorprès amb la poca gent local que hi havia,
+suposo que és això, que quan la gent local se'n va adonar, doncs ja valia una pasta gansa,
+i van dir: saps què? em guardo els calés per anar al Congrés de la Societat Europea de Reanimació que fan a Barcelona.
+De fet, probablement quan publiquem aquest episodi ja l'hauran fet a Barcelona també.
+Suposo que hi haurà més locals
+Molt bé. Molt bé, moltes gràcies.
+Continuem amb la secció següent que és el Menys és Més.
+Vinga, va.
+Jo tenia preparat, és un document que es diu No Hacer en Salud Mental,
+i és un document de la SEMFIC, Societat Espanyola de Medicina Familiar i Comunitària,
+que van publicar ara, aquest del 2023, em sembla que era l'agost o setembre, ara no me'n recordo,
+i precisament és això, és un recull de recomanacions de coses que no hem de fer en temes de salut mental.
+És un document que tenen penjat públic a la pàgina web de la SEMFIC,
+que ja posarem l'enllaç en el blog de l'EMPodCat,
+i bé, són 15 o 16 recomanacions que lògicament estan orientades a atenció primària,
+però sí que hi ha alguna de les recomanacions, que ara us llegiré el titular,
+i us diré alguna cosa d'algunes d'elles, perquè sí que a nivell d'urgències podríem almenys tindre-ho present,
+i sàpiguer que això és important. Per exemple, la primera que ens diuen, de No Hacer en Salud Mental,
+és no utilitzar etiquetes diagnòstiques de manera inicial en un pacient que consulta per malestar emocional.
+És a dir, quan tenim algú que ve per algun malestar psíquic,
+un patiment emocional de problemes de la vida quotidiana, anar molt amb compte a posar-hi etiquetes,
+perquè els diagnòstics són necessaris quan són necessaris, però si no és absolutament necessari,
+com tot en la medicina, té els seus efectes secundaris,
+i per tant, anar amb compte quan poses un diagnòstic que estàs posant una etiqueta,
+que si no la necessitava aquella etiqueta, el pacient en pot sortir perjudicat.
+I això passa molt, molt habitualment.
+Això que dius ara, que passa molt, jo, de l'únic diagnòstic que em sé a l'ICD-9, és el 300.00.
+Exacte, jo també, si.
+I de cap altre. És molt sospitós.
+Per alguna cosa saps aquest, i no els altres, clar, perquè l'has vist més vegades.
+En cada una d'aquestes recomanacions, ells te fan un petit resumet de 5 línies,
+i després te l'expliquen, i després hi ha com mig foli que et van explicant per què t'expliquen aquesta recomanació,
+la bibliografia, i bé, en un espai d'un foli t'expliquen aquella recomanació i te queda molt clar.
+Jo us dic només el titular, i ja està. Però que val la pena que qui tingui interès que se'l miri,
+perquè el tema de salut mental sempre ha sigut molt important, i cada vegada ho serà més, i a urgències,
+com tot el que passa a la vida, a urgències també ho veiem, i de vegades accentuat.
+Una altra recomanació va dirigida a la població infanto-juvenil,
+i és de no minimitzar els símptomes i la seva repercussió en salut mental de la població infantojuvenil,
+perquè han vist que moltes vegades no reben el tractament adequat, o no reben l'atenció que cal,
+perquè la forma de presentació dels símptomes en gent jove o nens
+és peculiar, la forma de fer l'entrevista clínica també és peculiar,
+i moltes vegades tenim la tendència de minimitzar aquests símptomes, i això pot tindre repercussions.
+També, per exemple, no obviar el consum de substàncies
+quan fas una anamnesi del pacient que consulta per problemes de salut mental.
+És a dir, el tema de salut mental i consum de substàncies, de tòxics, té una relació bidireccional,
+vull dir, una cosa està relacionada amb l'altra, i si consumeixes tòxics tens problemes mentals,
+i si tens problemes mentals també està més relacionat amb el consum de tòxics.
+Per tant, sempre que et vingui un pacient amb problemes de salut mental,
+no t'oblidis de preguntar i deixar a la història si hi ha algun problema d'abús de substàncies,
+perquè, potser tu en aquell moment, a urgències, a part d'una recomanació ràpida, no pots fer gran cosa més,
+però el seu metge de capçalera sí que ho pot veure i fer-hi alguna cosa.
+Fer-ho sistemàticament, preguntar-ho.
+Per exemple, un altre era no ometre l'abordatge de la ideació suïcida en qualsevol persona que ho consulta per símptomes depressius.
+De fet, ja ho sabem, el suïcidi és la primera causa de mort externa, accidental o no natural a Espanya,
+i se sap que molts dels pacients que acaben suïcidant-se,
+el 50% han consultat el mes previ al seu metge de capçalera o han fet algun tipus d'interacció amb el sistema sanitari.
+Per tant, sempre que tinguis un pacient  amb problemes depressius,
+no deixis de preguntar-li si ha tingut ideació suïcida.
+Què més?
+Una altra cosa de no fer és no diagnosticar un problema de salut mental sense abans haver descartat prèviament les causes orgàniques.
+Ja ho sabíem, però suposo que tothom té experiències
+i jo n'he vist en primera persona de dir, hòstia, aquesta persona porta un mes
+amb aquest problema d'ansietat i acabar morint a urgències.
+Això ho he vist i segurament deu passar... si ho he vist és que deu passar bastant sovint.
+I no un mes.
+Exacte, i menys dies, clar.
+Jo m'atreviria a dir que el pitjor que et pot passar és tenir una etiqueta de salut mental i que et xunguis.
+Això ha de ser dramàtic perquè tot serà: està ansiós
+i després et sortirà el teu xoc sèptic o el que vingui darrere, perquè...
+Sí, sí, sí, em sembla que en aquest document crec que haver-ho llegit també això de pacients amb trastorns mentals i tal, doncs,
+que moltes vegades és més difícil descartar patologia orgànica i tal perquè s'atribueix molt a temes mentals i no orgànics.
+Què més? Me'n queden un parell.
+No prescriure benzos sense abans considerar la seva semivida i el perfil clínic del pacient.
+Això a urgències ens pot passar molt, no?
+Jo, potser sí a urgències, lògicament, sí que faig una indicació a urgències de benzos,
+però prescriure-ho allò, donar una recepta de benzodiazepines crec que no ho he fet mai a la meva vida
+perquè penso que no tinc la capacitat de conèixer el pacient en aquell moment com per fer una prescripció
+durant 15 dies d'una benzo, com penso que ho ha de fer el seu metge de capçalera.
+Anar amb compte perquè el consum de benzodiazepines i de qualsevol ansiolític a Espanya
+és molt important i cada vegada més, o sigui, molt freqüent
+i això porta... sí que pot ser necessari en molts casos,
+però són medicaments que van associats a moltes efectes secundaris, de caigudes, fractures,
+accidents de tràfic, tenir més risc de deteriorament cognitiu,
+temes de tolerància, dependència, síndromes d'abstinència, és important.
+Què més?
+Ah, sí, el no subestimar el risc cardiovascular
+en pacients que estan en tractament antipsicòtic, perquè sí que s'ha vist que els neurolèptics,
+els fàrmacs aquests s'associen a un augment del risc cardiovascular i de mortalitat global de les persones que el prenen.
+Per tant, bé, és un factor de risc més, no?
+Per tant, si et ve algú amb dolor toràcic o alguna clínica cardiovascular i
+pren neurolèptics antipsicòtics,
+doncs la probabilitat que allò sigui un síndrome coronari pot estar augmentada,
+perquè, òbviament, això hi ha el trombombolisme venós, els accidents cerebrovasculars,
+la mort sobtada d'origen cardíac associada a una prolongació... a un QT llarg,
+això és el que fan... efectes secundaris dels neurolèptics.
+I l'última que us dic és no desprescriure antidepressius de forma abrupta
+per evitar el síndrome de discontinuació, de retirada.
+Això sí que ens pot passar a urgències, no?
+Gent que pren fàrmacs antidepressius i que els ingressem
+i per algun motiu no els hi prescrivim, o sigui, no els hi pautem
+i al millor hi ingressen i es passen fins que no revisen la teva prescripció a planta i això,  al millor poden passar...
+I moltes vegades coses que fem urgències, encara que les fem malament, després es perpetuen a planta.
+Aleshores, si no prescrius l'antidepressiu, tens el risc que no li prescriguin el dia següent
+i aquella persona que porta anys prenent aquell medicament pot passar una setmana sense aquell medicament
+que s'hauria d'haver retirat de forma molt lenta i això pot generar problemes per al pacient.
+I ja està, llegiu-vos aquest document perquè es llegeix molt ràpid, són, no sé si són quinze pàgines o alguna cosa així,
+i cada una d'aquestes recomanacions de no fer va molt ben explicada, de forma molt fàcil i molt entenedora.
+Doncs ja està, Albert.
+Escolta'm, cuidem-nos molt, eh, que això que se te'n vagi la pilota no és gens difícil, i menys amb els temps que corren.
+Molt bé, doncs va, vinga, anem a la següent secció que tenim, que és l'UrgemMot.
+Va, comences tu, que jo he xerrat ara una estona o què?
+Sí, mira, jo no tinc cap UrgemMot, però tinc un parell de coses que crec que poden ser interessants per la nostra audiència,
+i és el voluntariat lingüístic.
+La qüestió és que el Col·legi de Metges de Barcelona ha començat també un servei, entre cometes, de parelles lingüístiques,
+eh, això del voluntariat lingüístic què és?  És bàsicament una persona
+s'ofereix per ensenyar a una persona que vol aprendre.
+i és una trobada normalment setmanal, d'una horeta, i llavors és una trobada de conversa entre els dos,
+entre aquests dos membres de la parella.
+El Col·legi de Metges de Barcelona té obert un programa d'això, amb el qual, que és interessant perquè, és clar, és un professional sanitari,
+un metge, que fa de parella lingüística d'un altre metge.
+Tenen coses en comú, l'ofici. Ho vaig trobar molt interessant.
+En el pòdcast del Col·legi de Metges, Hipòcrates en pijames, diu el pòdcast, molt interessant,
+justament sortien una parella lingüística que parlaven de la seva experiència, i és força interessant.
+Això existeix de fa molts anys, ho està fent el Consorci de Normalització Lingüística, però ara també la Generalitat,
+al Canal Salut, hi podeu anar, i posarem l'enllaç a les notes del programa.
+Això mateix que fa el Col·legi de Metges de Barcelona, ho pretén organitzar el departament.
+Els professionals sanitaris que sabem català i en volem ensenyar els que no en saben, doncs els podem oferir,
+i els professionals sanitaris que no saben català, doncs poden... i llavors farem.
+Aquí, en l'enllaç aquest, et diu més o menys a quina zona estàs, doncs pots buscar-te algú de la teva pròpia zona.
+Penso que és una iniciativa interessant, em puc posar molt polític, però no ho faré,
+el català no morirà perquè el matin, morirà perquè el deixem de fer servir. 
+Jo estic apuntat, però no tinc parella, i potser és que no hi ha ningú que tingui interès al meu territori,
+m'hauré de bellugar i punxar algú a veure què. 
+Però aviam, en el teu lloc de treball habitual, això pots fer-ho
+ Sí, sí, sí. 
+Si hi ha algú interessat, vull dir. 
+Preferiria no tibar d'aquest tema perquè tinc una cosa a mitges.
+Pensa que nosaltres, la meva empresa, no som bilingües, som trilingües.
+Ah, és veritat, és veritat, és veritat.
+I el pollo no us el podeu imaginar. És un pollastre que flipes.
+Ja tinc una guerra oberta amb això, que millor no dic gran cosa més.
+Bé, tot són avantatges, com més idiomes parlis... si parles amb un geriatre,
+et dirà que això disminueix el risc de demències i aquestes coses.
+Per tant, podreu treballar fins als 80 anys tranquil·lament, Albert..
+Gràcies. Me l'apunto com a argument.
+Va, què tens de paraules divertides? Vinga.
+Jo tenia tres UrgemMots,
+avui seré breu, que són d'espais i situacions 
+que podem trobar a urgències o l'hospital que fem servir també els urgentòlegs, que podrien millorar la forma de dir-ho.
+Per exemple, si parles amb el cirurgià, te'l pots trobar el cirurgià, justament, a la sala d'operacions, en lloc del quiròfan.
+El quiròfan no és correcte, sinó que n'hauríem de dir sala d'operacions.
+Doncs això de sala d'operacions, en francès és igual. El català s'assembla més al francès que no pas al castellà.
+A França no existeixen els quiròfans, hi ha el bloc operatoire, el bloc operatori.
+Exacte, és el mateix. Exacte
+Abans, lògicament, el pacient ha passat per urgències, o ja el tenim a urgències,
+ja sabem que el tenim en un box, però que de vegades veig escrit malament,
+és el seu plural, que el plural seria box amb una S, i moltes vegades ho veig amb el boxes, amb E-S.
+Això ho veig, eh? No és que m'ho estigui ara inventant. Per tant...
+ Això dels plurals... Això dels plurals és difícil, eh?
+Sí, sí, la veritat és que sona com estrany. Boxs.
+Però és així. I després, si la cosa acaba anant malament,
+doncs el pacient no va a una morgue, com sempre n'hem dit, que és en castellà, sinó que va al dipòsit de cadàvers.
+I ja està. Així tenim el pacient entra en els boxs.
+No, no, sé què vas a dir, sé què vas a dir, no ho diguis. No ho diguis Perquè tots hem fet una associació mental d'un camí...
+Un camí que no hauria de ser, però mira de vegades passa.
+Exacte.
+Doncs això són els tres UrgemMots senzillets, 
+i que no costa res de modificar i adaptar-nos al que el Termcat ens recomana.
+I ja està. I no sé, després tenim en el secció de recomanacions, Albert, què ens expliques?
+Jo en tinc una que vaig veure en aquest congrés.
+En no sé quin episodi vam recomanar una web que era CoreUltrasound punt no sé què,
+ punt com em sembla, que era una web de recursos d'ecografia.
+Doncs aquí n'hi ha una que encara m'ha agradat més.
+Bé, no sé si m'ha agradat més, és molt interessant. Es diu showmethepocus.com
+Ensenya'm el Point of Care Ultrasound, ensenya'm l'ecografia a peu de llit.
+És molt interessant perquè sí, aquest CoreUltrasound, que vaig recomanar fa un any, ara ja ben bé, 
+l'espectre de gent que el podia seguir era molt ample.
+Podies començar des de ser un aprenent fins a un expert.
+Aquest el showmethepocus, si existissin els llibres visuals, seria una mena de llibre de text.
+És a dir, és molt extens. Aquí pots arribar a profunditzar molt en els diferents exàmens que tenen a la web.
+Si ja teniu una certa mà per anar a l'ecògraf i sabeu quins botons heu de prémer i sabeu què mireu,
+doncs probablement aquesta pàgina us sigui interessant, 
+perquè podreu anar més enllà de les quatre coses senzilles que els pelacanyes fem habitualment.
+showmethepocus.com
+Molt bé, l'hi donarem un cop d'ull.
+Jo us volia recomanar dues sèries que he vist recentment,
+aquest estiu, que tenen relació... sí, també tenen relació amb urgències
+però tenen més relació amb la indústria farmacèutica
+i hi ha alguns temes importants que es veuen que són Pain Killer,
+que es va traduir aquí... Medicina letal.
+I és una sèrie, és una minisèrie de, jo diria que 6 o 7 episodis, que es veu molt ràpid, que està a Netflix.
+I expliquen el tema de la epidèmia de...
+problema de salut que tenen amb els opiacis als Estats Units des de fa 20 anys, sobretot en gent jove,
+que consumeixen opioides prescrits i la veritat és que hi ha moltes morts,
+t'expliquen com, no sé si eren 300, 400 mil morts des que va començar aquest tema.
+I en aquesta sèrie ve a partir d'un article publicat al The New Yorker
+ i d'un llibre que es va publicar i explica el naixement
+a través d'una farmacèutica que es diu Purdue Pharma
+que van fer tota una estratègia de màrqueting important per augmentar
+el nínxol de pacients candidats a prendre aquests medicaments augmentés de forma
+important, que el nom farmacèutic era l'Oxycontin
+i t'expliquen tota la trama que fa l'empresa farmacèutica
+a través dels visitadors mèdics que convencien a metges 
+que no els costava res a canvi del que sigui, prescriure molt més aquest medicament,
+i clar,  és un fentanil i la gent quedava en dependència, 
+en síndromes d'abstinència i lògicament morts per sobredosi.
+i milers i milerss de pacients que estan amb aquest problema
+i la veritat és que és una sèrie bastant...
+dius: ostres, això passa, saps? És interessant i és ràpida de veure
+i associada en aquesta després vaig veure
+perquè el tema de les farmacèutiques és un tema que m'agrada seguir-lo, una sèrie que es diu
+The Pharmacist, que és el farmacèutic és com un documental una mica així
+amb els personatges reals i una mica de ficció però és un documental
+també són, no sé si són 6 o 7 episodis que es veu molt ràpid
+i la veritat és que és la història real d'un farmacèutic que treballa en un barri
+del sud de, no sé si era Louisiana... com a Nova Orleans.
+I és un farmacèutic normal i corrent que el seu fil
+mor d'una ferida d'una arma blanca quan s'anava a un barri per aconseguir un opioide
+i el seu pare que és farmacèutic, ostres, no sospitava de cap manera que el seu fill
+ pogués tenir aquest tipus de problemes i a partir d'aquí comença a investigar, 
+es comença a adonar que cada vegada més entra gent jove que no sembla que estigui molt malalta,
+amb prescripcions mèdiques legals de fàrmacs que són opioides
+i comença a investigar-ho i comença a veure que hi ha diferents centres de Nova Orleans
+en què es prescriuen centenars i centenars de receptes cada dia per un sol metge
+ho denuncia al col·legi de metges, ho denuncia a la policia, a l'FDA
+i tothom està investigant però com que és legal costa molt que hi puguin fer alguna cosa
+i t'explica tot el que pot fer aquest home o tot el que va fer per intentar posar el seu granet de sorra
+i que això vagi frenant una miqueta.
+Són dos temes interessants, són dues sèries que es veuen super ràpid 
+i que són molt interessants i ja està Albert.
+Molt bé, jo no les veuré, eh!
+tu no les veuràs, perquè no?
+No sóc capaç, perquè veig això i tal com veiés això agafaria llançaflames i sortiria a cremar-ho tot
+que la història aquesta dels Sackler és... en fi, visca el capitalisme
+Va, intentem acabar el programa de bon rotllo, episodi 29, congrés super xulo.
+Saps on és l'any que ve o no? el congrés de l'EUSEM aquest?
+Doncs no, però és fora, jo no hi aniré, jo no agafo avions. Si no és a París, que hi puc anar amb tren, no hi vaig
+Bé, amb tren pots anar a molts llocs.
+Sí, sí, sí.
+Sí, i tant fins a Rússia, fins a la Xina pots anar.
+Si algú que ens està sentint va al congrés de l'any que ve i li sembla interessant i vol fer un resum i tal,
+ doncs el convidem aquí a fer un resum com el que ens has fet tu, Albert, i que ens ho expliqui.
+I si algú ha anat al congrés de...
+o el mateix, el del català, l'espanyol o tots aquests.
+Aquest ara d'octubre, l'Europeu de Ressuscitació, el que sigui interessant que ens ho expliqui
+que està bé anar a l'última, aquí és on veus les coses més punteres
+el que estan fent els altres i agafa enveja de tot
+Doncs aviam si tenim algú que ens ve a explicar algun congrés d'aquests d'Urgències que hi vagi.
+i ens el ve a explicar aquí en 15 minutets i serà fantàstic.
+Doncs vinga, ens veiem a la propera, no?
+Exacte, ens veiem el mes que ve molt bé, Albert, fins la propera.
+Vinga, que vagi bé, adéu
+adéu
+...és l'episodi número 29 i com ja sabeu estem a la segona temporada de l'EMPodCat
+tercera, tercera
+hòstia estem a la tercera ja?
+sí!
+què dius?
+si és el 29, clar!
+bueno, va, joder...
