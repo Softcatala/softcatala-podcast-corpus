@@ -1,0 +1,604 @@
+EmPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EmPodCat, el 37, el primer de la quarta temporada.
+Com sempre, a l'EmPodCat el presentem aquests dos individus de l'equip multidisciplinari i multicèntric.
+D'una banda tenim en Xavi Basurto, des de l'Empordà. Hola, bon dia, Xavi.
+Hola, Albert i els que ens esteu escoltant.
+Me presento per si algú dels que ens esteu escoltant encara no ens heu sentit cap episodi.
+Jo sóc en Xavi Basurto, que sóc metge d'urgències de l'Hospital de Figueres
+i també de la Unitat de Suport Vital Avançat de la 606 de Figueres.
+Podeu llegir alguna cosa que vaig escrivint en el blog de urgem.cat i a Twitter també, arroba urgem.cat.
+I Albert, tu explica alguna cosa per si algú no ens ha sentit encara.
+Jo sóc l'Albert Homs, sóc ceretà d'adopció, treballo a l'Hospital Transfronterer de Cerdanya i també tinc un blog,
+que és emermedpirineus.cat i arroba emermedpirineus al Twitter i a mastodont.cat.
+D'entrada, demanar disculpes a tots els nostres oients perquè anem una mica tard.
+Havíem pensat començar la temporada amb un episodi especial,
+però al final ens ha sortit malament la jugada i hem hagut de tirar cap al que ja coneixem.
+No sé quina música posarem perquè volíem canviar la música al principi, com cada temporada.
+Al grup de Telegram m'hem preguntat què volíeu fer i sembla que les gralles tiren fort, però és que la gralla fot molt soroll.
+No ho sé, la música que heu sentit al principi és la que quedarà per la resta de la temporada o no, ja veurem.
+Va, vinga, anem al gra, Xavi. Avui ens volies explicar un tema interessant i bastant desconegut.
+Bastant desconegut, sí. El tema és una patologia, és una síndrome que en anglès
+en diuen refeeding syndrome, la síndrome de realimentació.
+A mi si m'ho haguessis dit abans que aquest tema m'interessés i me'l preparés, no sabia gran cosa,
+però bé, ara intentarem fer una mica d'aproximació genèrica, no és gens complicat, però sí que és important.
+La síndrome de realimentació és una alteració metabòlica i hidroelectrolítica
+que afecta persones que veiem, per exemple, a urgències, que tenen una malnutrició de base
+i en les quals, pel motiu que sigui, perquè es queden en urgències o s'hospitalitzen,
+se'ls comença nutrició, tant nutrició oral, parenteral, de la que sigui.
+Aleshores, en aquestes persones que estan malnodrides i comences una nutrició, això provoca alteracions,
+alteracions hidroelectrolítiques, metabòliques, que ara explicaré, i lògicament tindrà unes complicacions clíniques,
+cardíaques, hemodinàmiques, del sistema nerviós central i una miopatia.
+És una patologia que coneixem des de fa més de 70 anys, bàsicament després de la Segona Guerra Mundial,
+quan s'alliberaven els presoners dels camps de concentració, que estaven malnodrits, i se'ls realimentava.
+Aleshores, com que no es coneixia aquest fenomen, es feia de forma excessivament intensiva i tenien una mortalitat del 20%.
+Això és un problema de salut que també podem veure en urgències, però és poc conegut,
+és una patologia poc estudiada, poc investigada i es desconeix moltes aspectes d'aquesta patologia.
+Per el mateix motiu, està infradiagnosticada.
+Penso que si ho miréssim bé no seria estrany veure gent que apareix amb problemes cardíacs,
+amb problemes hemodinàmics i en problemes del sistema nerviós central, de síndromes confusionals i agitacions,
+i coses així, que pot ser un problema d'aquests.
+Com que és una patologia poc estudiada, els criteris diagnòstics, uns articles fan servir uns,
+un altre llibre fa servir un altre. S'assemblen tots, lògicament,
+però no hi ha una cosa establerta, homogènia i sistemàtica que tot arreu es faci servir els mateixos criteris diagnòstics.
+A part de la definició que és molt heterogènia, els mecanismes fisiopatològics que expliquen tota aquesta patologia,
+hi ha llacunes de coneixement important.
+Per exemple, també la incidència.
+Com que ho infradiagnostiquem i ho infraestudiem, no sabem, per exemple, en ancians que venen malnodrits,
+fins a un 16% poden fer aquesta síndrome.
+Els pacients neoplàstics que venen malnodrits i que els realimentem, poden fer un 20%.
+Els pacients amb una anorèxia nerviosa, aquests ho poden fer amb un 30%.
+Jo penso que també és una patologia que veiem poc o que som poc conscients a nivell d'urgències,
+perquè tot i que el problema comença a nivell d'urgències, que comencem a realimentar,
+ni que sigui posar un sèrum glucosat o començar nutrició enteral o oral, vull dir, donar aliment,
+això ja ho comencem a urgències.
+El que passa és que la clínica de tota aquesta síndrome no comença immediatament,
+sinó que normalment s'endarrereix fins a 72 hores.
+És a dir, que el pacient està a planta, per exemple,
+i a planta és on es comença a manifestar clínicament i després ves a saber què passa.
+Suposo que el fet que no estem parlant estrictament de desnutrició, sinó de malnutrició.
+Hi ha gent que no els veu esquelètics, penso en el malalt alcohòlic,
+aquell que li agafa l'ànsia de beure i fot quatre dies que només fa que beure
+i només beu, clar, calories en té de sobres, però la resta d'aliment no.
+Sí, sí, li falten nutrients que són indispensables, sí.
+De fet, el més important que vull explicar i que m'agradaria que quedés clar,
+que és el que podem fer urgències són dues coses.
+Identificar el pacient que és de risc que faci aquesta síndrome,
+és la feina primordial i més important que tenim, identificar-lo.
+Recordo que són pacients que quan comenci la clínica pot ser important,
+pot tindre manifestacions clíniques, cardíaques, del sistema nerviós central,
+que siguin importants i té una mortalitat i també augmenta l'estada hospitalària.
+Per tant, s'ha de tenir molt en compte.
+Aleshores, factors de risc per desenvolupar una síndrome de realimentació.
+Això es basa en la Guia de Pràctica Clínica número 32 de l'organisme, que és el NICE.
+Hi ha una primera versió del 2006 i l'última actualització és del 2017.
+Aleshores, quin tipus de pacients hem d'identificar a urgències
+i posar-los una etiqueta ben grossa que diu alerta l'alimentació d'aquest pacient?
+Doncs tots els pacients que tinguin un o més dels següents criteris.
+Un índex de massa corporal inferior a 16, que això és molt baixet, és un pacient esquelètic.
+És un pacient que, per exemple, si fa 1,70 m ha de pesar 46 kg o menys.
+Un pacient que, de forma no intencional, hagi perdut un 15% del seu pes en els darrers 3-6 mesos.
+En una persona de 70 kg, un 15% són 10 kg.
+Una persona que perdi 10 kg en 6 mesos no és res de l'altre món i potser tampoc crida excessivament l'atenció.
+Per tant, aquest se'ns pot escapar molt fàcilment.
+Després, pacients que no s'hagin alimentat o s'hagin alimentat molt poc en els últims 10 dies.
+I després, pacients que a urgències tu els vegis amb uns nivells de potassi o de fosfat o de magnesi baixos.
+Això, només que compleixi un d'aquests quatre criteris, és un pacient d'alt risc que desenvolupi una síndrome de realimentació.
+Després hi ha uns criteris menors que necessites que n'hi hagi dos.
+Són els següents. Un índex de massa corporal de menys de 18,5.
+Menys de 18,5 vol dir que una persona de metre 70 ha de pesar 53,5 kg o menys.
+Això ja no és tan esquelètic.
+No, no, això és estar prim.
+Sí, sí, força prim, però no esquelètic.
+Jo penso que em cridaria l'atenció, però no suficient.
+Tots aquests han d'anar acompanyats de dos criteris.
+Un és l'índex de massa corporal.
+Després, una pèrdua de pes no intencional més del 10% en els últims tres o sis mesos.
+Una persona de 70 kg, 7 kg en els últims sis mesos.
+Que no hagi menjat o hagi menjat molt poc en els últims cinc dies.
+Això ja no és excepcional.
+Jo que sé, una persona gran que hagi caigut a casa seva o s'hagi perdut o el que sigui i els últims cinc dies hagi menjat molt poc.
+I després, això sí que és molt habitual, pacients amb abús d'alcohol o que prenguin fàrmacs.
+Per exemple, la insulina, la quimioteràpia, antiàcids o diürètics.
+Això en tenim a cabassos.
+Per tant, qualsevol pacient d'aquests amb abús d'alcohol, insulina,
+quimioteràpia o antiàcids o diürètics,
+més que hagi perdut 7 kg en els últims sis mesos, doncs vigilem amb aquests.
+Que amb alguns d'aquests pacients, la pèrdua a punt d'arrel és molt difícil de valorar.
+Perquè si tens gent gran que ha començat aquella demència que viuen sols,
+Vejam qui sap quan pesava aquesta persona abans. I l'alcohòlic, tres quarts del mateix.
+Si se'n recorda d'on viu, ja és molt, com per demanar-li com pesava fa un mes i creure-s'ho.
+Sí, sí. I a part, urgències, el pes tampoc és una constant vital.
+Per tant, la majoria de vegades no els pesem els malalts quan entren a urgències.
+És difícil de valorar, no impossible.
+T'hi has d'esforçar, t'ha de cridar l'atenció. I tens raó que és difícil de ponderar, però bé, ho hem d'agafar una miqueta així en genèric.
+El tema de l'alcoholisme són persones que fan una dieta pobra amb nutrients i a més a més fan una mala absorció.
+Aleshores tenen dèficits de nutrients. Entre ells el més important és el dèficit de tiamina.
+I a més a més tenen disfuncions hepàtiques, que aleshores, com que tenen alteracions del metabolisme,
+juntament amb la mala absorció i la dieta pobra i tot això,
+fa que quan tu li donis un aliment, sigui un glucosat endovenós, això ho fem molt sovint,
+doncs puguin tindre problemes.
+La insulina, que hem dit que era un altre dels factors a tenir en compte que poden fer això.
+La quimioteràpia també.
+El tema dels antiàcids, magnesi o alumini, d'ús perllongat, ara es fan servir menys que abans,
+però pots trobar gent que fa temps que prenen aquestes salts de magnesi, aquestes històries per l'estómac.
+I després els diürètics, per exemple, l'acetazolamida, el nom comercial que coneixem més és l'Edemox.
+Doncs això disminueix la reabsorció, a nivell de les nefrones del túbul proximal, de fosfats
+i per tant elimines per l'orina més fòsfor del normal i per tant tens una hipofosfatèmia.
+I la hipofosfatèmia és l'alteració electrolítica més important d'aquesta síndrome.
+Aquests se'ns poden escapar ben fàcil, eh?
+Sí, i tant. El que passa que això és un criteri, és a dir, que prengui l'Edemox
+i a més a més que hagi perdut 7 quilos en els darrers mesos,
+o que hagi menjat poc els últims 5 dies, o que realment estigui prim perquè té un índex de massa de menys de 18 i mig.
+No és un criteri sol, n'hi ha d'haver-hi dos d'aquests,
+però si ho miréssim bé en trobaríem uns quants cada setmana, d'aquests pacients.
+Altres factors de risc que també poden tindre dèficits nutricionals.
+Per exemple, gent que està en vaga de fam, que no ha menjat res, dietes estrictes perllongades,
+pacients neoplàstics, ja ho hem dit abans, sigui perquè no tenen gana i no mengen
+o per problemes de disfàgia o per problemes relacionats amb la quimioteràpia,
+la hiperèmesi gravídica, les gestants que es passen dies i dies vomitant,
+doncs és possible que també tinguin dèficits nutricionals importants,
+patologies psiquiàtriques, això ho hem dit abans, l'anorexia nerviosa o una depressió important,
+condicionants socioeconòmics, que si hi hagi problemes d'accés a l'alimentació
+o negligències dels progenitors o un abús o el que sigui que faci que una persona no es pugui alimentar correctament
+o inclús causes iatrogèniques. El pacient, pel que sigui, ha estat sense prendre res d'alimentació.
+Això penso que ja no deu passar, però sí que està contemplat.
+Altres coses que també hem de tenir en compte és, per exemple, cirurgia bariàtrica,
+gastrectomies o síndrome del budell curt per reaccions intestinals extenses, per malformacions congènites, etc.
+Aquests tindrem problemes d'absorció de nutrients, ancians fràgils amb patologia crònica debilitant,
+també hem d'anar en compte, i pacients amb pancreatitis crònica.
+Un altre factor de risc és augment de les necessitats nutricionals. Per exemple qualsevol pacient amb un procés inflamatori important.
+Un pacient sèptic, un pacient amb una cetoacidosi diabètica...
+Són pacients que augmenten el seu metabolisme i estaran amb dèficits nutricionals importants.
+Coses que també ens han de cridar l'atenció o factors de risc que puguin fer aquestes síndromes,
+les realimentacions excessives. Un factor que facin la síndrome és alimentar-los excessivament.
+Dels diferents tipus de nutrició, l'enteral sembla que és la que té més risc,
+ tot i que la via oral també ho pot fer.
+El pacient amb hipoalbuminèmia també és un factor de risc.
+I després hi ha alguna escala que és la nutritional Risk Screening 2002,
+que amb una puntuació igual o superior a tres punts
+també t'indica que és un pacient que té algun tipus de malnutrició i, per tant, també està en risc
+que pugui fer una síndrome de realimentació quan tu li comences a posar algun tipus d'alimentació oral o parental.
+Això serien els factors de risc que hem de tindre en compte.
+Sobretot recordo els que ens diuen les NICE, que són aquells quatre factors de risc importants
+i que només que compleixi un d'ells ja hem d'anar en compte,
+i si no els que són més light que n'han de complir dos, i en el qual hi ha els molt habituals,
+que són l'alcohol, la insulina, quimioteràpia, antiàcids i diürètics. M'explico bé, Albert?
+Sí, sí, sí. De fet, m'inquieto, perquè, com sempre que ens expliques coses,
+sempre me'n recordo d'algú que se m'ha colat segur.
+Sí, sí. Jo penso que se'ns ha colat quantitat de gent que baixen de planta
+amb alguna clínica nova, i que m'agradaria saber quants d'aquests
+s'haguessin pogut solucionar o evitar aquest problema afegit iatrogènic
+fent senzilles actuacions terapèutiques que valen mig euro i són superfàcils de fer.
+Vull dir que no és una patologia que necessita una gran infraestructura
+ni una terapèutica complicada ni cara ni res, que són quatre coses que has de tenir en compte.
+Jo penso molt amb la gent gran aquesta que viu sola que comentaves tu de caure a terra.
+Hi ha algú que ha descrit els avis tortuga, perquè es queden panxa enlaire i no es poden...
+I com van morint mica en mica durant dies.  Ho hem vist tots, al meu territori, a més a més passa força.
+Gent que no saps què ha menjat l'última setmana, més d'una i més de dos, i probablement ha menjat molt poc.
+Sí, i això, segurament, ho veurem més cada dia. Per tant, tindre-ho en compte és important.
+Deixa'm explicar una miqueta l'explicació fisiopatològica d'aquesta síndrome,
+ perquè entenguem perquè quan jo li poso un glucosat en un pacient
+que ha menjat poc els últims cinc dies, em pot fer una síndrome que el pot matar.
+Espera, que premo el botó de l'alerta Setciències.
+Alerta, alerta.
+Compte, que aquí, alerta Setciències.
+Qui vulgui anar a fer un cafè ara mateix té cinc minuts per anar a fer un cafè i després torni.
+Aviam, no és gens complicat.
+Una persona que ha menjat molt poc, que té aquests factors de risc que hem dit, què li passarà?
+Tindrà una glucosa en sang baixa i una manca de nutrients i de vitamines.
+Això està clar, no? Aleshores, quan el cos no té sucre, el cos si continua viu necessita energia.
+Aleshores, si aquesta energia no ve de la glucosa, vindrà d'un altre lloc.
+Per exemple, del glicogen que tenim en els músculs i en el fetge.
+Hi ha la glicogenòlisi. Desfem el glicogen i fem energia.
+No ho fem a través de la glucosa sinó que ho fem a través del glicogen.
+Això és el que intentem quan fem una dieta, no? Cremar el greix.
+Exacte. O sigui, destruiràs el glicogen per fer glucosa i alimentar el cervell.
+Faràs el mateix amb el greix, fas una lipòlisi i faràs el mateix amb les proteïnes.
+Degradaràs glicogen, proteïnes i greixos per obtenir energia,
+ amb el que et quedaràs sense dipòsits de grassa i amb un múscul... estaràs sarcopènic total.
+Què més passarà a nivell de nutrients i de vitamines?
+Quan passa això, el magnesi, el fosfat i el potassi en sang baixa.
+Però el cos no pot viure amb aquests dèficits en plasma d'aquests quatre electròlits.
+Aleshores, el que fa el pacient és fer passar aquests ions de l'interior de la cèl·lula
+cap a fora, cap al plasma, per mantenir-los estables.
+Hi ha un canvi, una translocació del fosfat, del potassi i del magnesi de dins de la cèl·lula cap al plasma.
+Aleshores, tu pots fer una analítica i moltes vegades et pot sortir normal,
+però el pacient realment té un dèficit d'aquests ions a nivell corporal total.
+El pacient té energia perquè fa servir les proteïnes, els lípids i el glicogen
+i sodi, potassi i magnesi ho ha tret de dins i ho té en el plasma perquè el metabolisme
+de les membranes de les cèl·lules i les bombes de sodi-potassi i el cicle de Krebbs i tot això funcioni bé.
+Els nivells plasmàtics estan bé, però els intracel·lulars no.
+Exacte. I si mires en global de tot l'organisme, hi ha un dèficit d'aquests electròlits.
+Aleshores, el pacient ve per una pneumònia, ve per un traumatisme, ve pel que sigui,
+el pacient ingressa i li començarem a donar menjar
+o, mentre estàs pendent de l'operin o el que sigui, li posaràs un sèrum glucosat.
+O un glucosalí, perquè no saps què posar-li, li poses de tot una mica.
+O un glucosalí, amb potassi, etcètera.
+El problema d'això és que tu li estàs posant glucosa
+i el seu cos començarà a segregar insulina perquè haurà d'absorbir aquesta glucosa
+i la insulina que genera el pacient és el que el pot arribar a matar
+perquè amb la insulina s'altera tot el metabolisme.
+Tu estaves en una fase prèvia que és la que hem dit de malnutrició
+i t'ha baixat el sucre i no sé què i estàs catabòlic total.
+Estàs destruint proteïnes, glicogen, lípids, etcètera. Estàs catabòlic
+I ara has de canviar tot el sistema i començar a ser anabòlic.
+I la insulina és l'hormona més anabòlica que hi ha.
+L'augment de la insulina en sang augmenta la reabsorció de sodi a nivell de la nefrona.
+Reabsorbeixes molt sodi i què passa si reabsorbeixes molt sodi? hi ha una sobrecarrega de...
+Retens molta aigua...
+Exacte, una sobrecàrrega de líquid intravascular
+i si ets una persona gran o una persona amb...
+insuficiència cardíaca...
+Exacte, ja està, insuficiència cardíaca, edema agut de pulmó, problemes arrítmics, aturada cardiorespiratòria i mort.
+Què més pot passar? Jo li dono sucre, ell augmenta la secreció d'insulina i augmenta el metabolisme de la glucosa.
+El cicle de Krebbs, aquesta història i tot això perquè funcioni necessites molta tiamina. Tiamina que ja tenies un dèficit.
+Aleshores, amb aquest dèficit de tiamina no podràs fabricar el sucre que necessita el cervell
+i ja tindràs una encefalopatia de Wernicke i si això no se soluciona, una síndrome de Korsakoff.
+Per tant, tindràs un pacient al principi amb un deliri, amb síndrome confusional,
+amb atàxia, amb dismetries i amb problemes de nistagme, d'oftalmoplegia
+i que si no es corregeix, acabarà amb el Korsakoff, que és un pacient amb una amnèsia que no se'n recorda de res i això ja és irreversible.
+A part que faràs també una acidosi metabòlica per augment del lactat.
+ Què més passarà amb la insulina?
+El potassi, el magnesi i el fosfat tornaran a passar del plasma,
+que el teníem perquè estigui bé, la insulina fa que entri dintre la cèl·lula.
+Quan tens un pacient amb hiperpotassèmia i t'està fent arrítmies cardíaques, que en vam parlar en el darrer episodi,
+una de les coses que fas amb la hiperpotassèmia és posar-li insulina, perquè sabem que el potassi sortirà de la sang,
+entrarà dintre la cèl·lula, allà s'estarà quietet i, per tant, no afectarà les cèl·lules miocardíaques i no tindrem un problema cardíac.
+Doncs a aquests pacients els passa el mateix, que el potassi, el magnesi i el fosfat,
+que ja sabem que a nivell de l'organisme total estaven disminuïts, doncs ara passa del plasma cap a dintre la cèl·lula
+i, per tant, a nivell del plasma, ara sí que tindrem un dèficit de potassi, de calci i de magnesi.
+I al miòcit no li agradarà.
+I al miòcit no li agradarà gens ni mica, exacte. I això afectarà a nivell de múscul cardíac,
+arrítmies, tetània i tindrem un problema important.
+I a nivell dels fosfats, al començar a sintetitzar proteïnes,
+que ja tens sucre i tens insulina i tal, el teu organisme estarà anabòlic, començarà a sintetitzar proteïnes i per fer això necessites fosfat.
+El poc fosfat que et quedava en el cos et baixarà. I aquest que hem dit abans,
+nivells baixos de fosfat en sang, és l'alteració d'aquest ió, és la més important
+i és el que gairebé et dona el diagnòstic d'aquesta síndrome.
+Però el fosfat no es demana gaire. Estic intentant recordar-ho ara i quan es demanen electròlits...
+No es demana mai.
+Mira, ara preguntaré si el fem i tot, perquè diria que no l'he vist mai.
+Jo no l'he demanat pràcticament mai i ara des d'aquests últims dies que estic repassant aquest tema,
+en algun cas que dic: ostres, aquesta persona podria tindre un fosfat baixet.
+El que passa és que moltes vegades no és immediat, almenys en el meu hospital.
+Bé, i això també ens donarà problemes.
+La hipofosfatèmia dóna molts problemes, entre ells el tema de la síntesi d'ATP en el múscul.
+Això donarà debilitat muscular i la més important és la diafragmàtica
+i per tant tindràs un pacient amb insuficiència respiratòria perquè el seu diafragma no funciona.
+A part de la debilitat dels músculs de les extremitats i d'on sigui, però el problema bàsicament és amb el diafragma.
+I et tornaràs mico buscant qualsevol altra causa molt més simple.
+D'aquesta dispnea, d'aquesta insuficiència respiratòria, què li passa al pacient que està confós...
+Sepsis, serà una sèpsia. Diràs que és una sèpsia i resulta que el problema que tenim és un altre.  Un gran impostor estic veient aquí, eh?
+Sí, sí. Si portés l'etiqueta d'aquest pacient quan va ingressar tenia un problema de malnutrició,
+les alarmes han de començar a sonar i pensa en el síndrome de realimentació perquè el tractament també és bastant senzill.
+Va, explica, explica, perquè fins ara ens hem cagat. Jo molt. Ara què?
+No t'he dit una cosa que a tu et pot interessar que la hipofosfatèmia, hipopotassèmia, hipomagnesèmia i tot això
+que hem dit que fa la insulina entra dintre de la cèl·lula, altera la bomba de sodi-potassi i aleshores això afecta el cor, ja ho hem dit.
+A tu que t'agraden els electros, aquí hi ha un signe electrocardiogràfic
+que veiem en altres patologies però aquí també ens hi hem de fixar.
+Ara t'estic posant a prova, Albert. Un signe electrocardiogràfic que diguis.
+Mira, te'n diré tres o quatre i així sembla que sé de quin estem parlant. Si hi ha hipopotassèmia, les tes estaran disminuïdes,
+diré la J d'Osborn perquè sí, perquè la J d'Osborn  sempre surt
+i una fibril·lació auricular perquè si tens el potassi fatal faràs tot el que vulguis perquè el potassi està fatal.
+Però no tinc ni idea de quin signe és patognomònic o pot fer-nos pensar en això.
+Bé, és la presència d'una ona U.
+Home, la famosíssima ona U que ningú ha vist mai excepte en aquest cas, molt bé.
+Una ona U és una ona petita, una ona del mateix signe, la mateixa direcció de la ona T
+que va després de... o sigui, hi ha el QRS, la T i després pot aparèixer la U, que normalment la pots veure millor a V2 i a V3.
+I que normalment no t'hi fixes perquè sempre hi ha un artefacte de base
+perquè com que els electros els fem tan bé dius això deu ser que està l'electro mal fet i ja està.
+Fixar-te en aquest tipus de pacient després de la ona T, vejam si hi ha una ona amb el mateix signe que la T
+molt més petita, que pot ser un 25% de la ona T, i mirar-la a V2 i a V3, aviam si allà veus una ona U
+I la ona U té moltes altres causes, però fixa-t'hi.
+ Aquest pacient malnodrit, que li han passat en aquests dies soros glucosats o no sé què,
+doncs fem-li un fosfat en sang aviam què tal surt.
+Altres coses a tenir en compte, hem dit els que tenen factors de risc de fer aquesta síndrome,
+però hi ha també factors de risc de mortalitat.
+I són els pacients d'edat avançada, els ancians, els HIV, que ho he buscat i no he trobat exactament l'explicació del per què,
+i després els pacients crítics. Una cetoacidosi diabètica, un pacient amb una pneumònia greu, etcètera,
+el pacient crític, aquest que està amb més necessitats metabòliques, amb un estrès metabòlic, inflamatori i tot això,
+si fa una síndrome de realimentació té més risc de mortalitat.
+Proves que hem de fer quan ens surten les alarmes i dius, hòstia, no serà això?
+Un fosfat amb sang, és el més important.
+Si s'acompanya de potassi i magnesi també baix, tindràs una hiperglicèmia i tindràs un dèficit de tiamina.
+Això al millor tampoc no ho veuràs de forma immediata.
+Però és bàsicament això, és molt fàcil, és demanar-li un fosfat en sang.
+Ara no recordo els nivells, no sé si són 0,6 mil·limols per kilo o alguna cosa així
+i tampoc hi ha un consens específic per dir menys de 0,6 ja és diagnòstic, no hi és.
+Però si trobes el pacient amb un fosfat baix i que et quadri el seu estat nutricional
+un cop descartades les causes normals de tota aquesta clínica doncs pensa en la realimentació.
+El maneig, el més important i el que ha de quedar clar a tothom
+és identificar el pacient que té factors de risc a nivell d'urgències. Això és el que podem fer nosaltres.
+Què més podem fer? Ja d'entrada demanar-li els nivells d'electròlits en sang, que poden estar normals però poden estar alterats ja
+ Per tant, fer un monitoratge del fosfat, del magnesi, del calci i suplementar-los.
+Quan vegis un pacient malnodrit que té algun dèficit hidroelectrolític, el que sigui,
+doncs comencem ja des d'urgències a suplir-li aquest dèficit. Comencem-li ja tiamina, vitamina B1.
+Demanem els nivells, encara que no els tinguis immediatament, comencem-li la tiamina perquè és un tractament que deu valdre mig euro al dia
+i si el pacient està bé li pots donar via oral i no hi ha cap problema.
+En els alcohòlics, especialment quan venen amb la trompa corresponent,
+sempre hi ha aquest mal costum antic de punxar-los la tiamina intramuscular.
+Es perd en els albors del temps saber el motiu.
+Jo m'imagino que en el seu moment devia haver-hi uns guants que devien fer korsakofs guapos i imagino que devia ser un: goita, fotli.
+I ha quedat perquè és que no veig el motiu pel qual a tothom li cau la tiamina intramuscular.
+No sé si és per això, no sé si tens alguna idea del per què.
+No, no en tinc idea. Jo no ho he fet servir mai, però sí que ho veig de tant en tant que sí,
+que de vegades el pacient alcohòlic ve en un estat alterat per l'alcohol se'ls hi posa tiamina.
+Però si no l'has de nodrir i el pacient pot marxar cap a casa, no ho sé, no li veig tampoc el sentit.
+Jo, quan ho he preguntat, m'han dit així metabolitza l'alcohol abans i penso, segur, segur.
+No ho sé. No ho sé.
+Doncs això, en aquest que té factors de risc, ja l'hem identificat,
+Mirem-li com estan els nivells de sodi, potassi, magnesi i fosfat. Mirem-li els nivells de tiamina.
+Comencem-li a suplementar ja tots els dèficits que té. Dèficits de vitamines, sobretot la tiamina,
+i després també te recomanen que li donis algun complex multivitamínic de vitamina B6, B12, no sé, complex vitamínic.
+La seroterapia, anar amb compte perquè hem dit que aquests pacients augmentaran la reabsorció de sodi,
+retenció de líquid, i poden fer insuficiència cardíaca i tal, per tant, fem una restricció de líquids.
+Fem una restricció també de sodi i també, molt important, fer una realimentació cautelosa.
+Cautelosa vol dir hipocalòrica.
+Un pacient normal necessita que li posis tu una dieta de 30 kilocalories per quilo i dia.
+Si pesa 70 quilos, passaran 2.000, 2.100 calories al dia.
+Doncs en aquests pacients, en funció del risc que tenen de fer aquesta síndrome, li hauràs de reduir molt. 
+En lloc de 30 kilocalories per quilo i dia, el millor és de passar a 10 o a 5 kilocalories per quilo i dia.
+És molt poc. I progressivament, dia a dia, anar augmentant una miqueta l'aport calòric d'aquestes persones.
+Això amb la dieta oral, a nivell hospitalari, pot ser molt complicat d'aconseguir,
+perquè aquí, normalment, la dieta és marcar la creueta que diu dieta normal. 
+Aquí, una dieta hipocalòrica que sigui 5 o 6 vegades més hipocalòrica,
+pot ser complicat fer-li entendre al personal d'infermeria que aquell tio el tens
+menjant menys expressament, convèncer les infermeres aquí pot ser complicat .
+No, tu li dius mira, escolta l'episodi 37 de l'EMPodCat. 
+Allà ho explico.
+Això s'explica, ja sé que potser és difícil, però dient...
+i a més a més, potser veus un pacient cacèctic i no sé què, i a sobre tu vas i li pautes una dieta de 500 calories al dia.
+Això, o ho expliques i ens comuniquem bé i entre tots diem, ei, vigilem aquest pacient, posem-li un rètol,
+posem-li una etiqueta que diu pacient amb una dieta hipocalòrica i progressiva.
+El segon dia, el tercer dia, el quart dia, vas augmentant les calories i ja està, però sí que, evidentment, l'instint seria veure un pacient cacèctic,
+anar-li tot el que sigui capaç de menjar o de posar-li per via parental. Doncs, anar amb compte.
+Què més? També identificar el pacient que té la síndrome o que sospites tu que té una síndrome.
+Com que hem que la clínica comença a les 72 hores o una mica més enllà, després que tu hagis iniciat la realimentació,
+segurament serà un pacient que estarà a planta, per tant, quan et baixin un pacient de planta
+i que no sàpigues per què esta en insuficiència respiratòria, té arrítmies, està confós, etcètera,
+quan no sàpigues d'on t'ha ve això, doncs pensa en el fosfat.
+Són les actuacions que podem fer a urgències i que segurament s'estalviaria algú que es morís per aquesta causa.
+Jo no tinc res més.
+I la reposició de fosfat? És que ara estic pensant....
+El tenim, el fosfat endovenós el podem prescriure.
+La veritat és que no tinc experiència, ni t'ho puc dir de memòria, però sí que quan pengem això
+ja posaré alguna taula que he trobat d'algun article
+de cada ió d'aquests, com l'hem de suplementar i quins són els nivells normals, quins són els nivells patològics.
+Si voleu ja ho pengem i ho deixem penjat en l'Urgem.
+Molt bé. 
+Doncs ja està, Albert. 
+Moltes gràcies. Una altra d'aquestes coses que no t'esperes i al final resulta que has de fer poquet.
+Una miqueta d'aquí, una miqueta d'allà i sobretot tenir els ulls ben oberts i fixar-t'hi molt.
+Està alerta.
+Això, en els nostre servei d'urgències on sempre podem dedicar tant temps a cada pacient com voldríem.
+Una altra cosa a tindre en compte. Hòstia, no parem. 
+No acabarem mai, eh?
+Molt bé. Doncs escolta, va, anem a la següent secció.
+El menys es més, poder?
+És el menys es més, sí senyor.
+I va, jo us porto una cosa que crec que és interessant, especialment ara que cada vegada el triatge avançat
+d'infermeria a l'entrada del servei d'urgències cada vegada és més comú a tot arreu
+i les infermeres ja no només decidim qui està més fotut i qui s'espera i qui es deixa d'esperar, sinó que comencem a demanar coses.
+Aquesta és una recomanació de l'Essencial de l'any 2015, l'Essencial del Departament de Salut de la Generalitat de Catalunya
+que ens parla de la no necessitat de fer una radiografia en lesions traumàtiques agudes de turmell, avant peu i genoll.
+D'on surt aquesta recomanació de l'Essencial? bé, surt que la patologia traumàtica de genoll i turmell-peu és
+un motiu de visita molt freqüent a urgències, moltíssim.
+I gairebé tothom acaba amb radiografies i la veritat és que la proporció de fractures rellevants que surten és molt baixa.
+Llegeixo per aquí que menys d'un 15% en els casos del traumatisme de turmell la radiografia ens mostra una fractura i en el cas del genoll menys d'un 7%.
+Si afegim que uns senyors canadencs molt macos s'han inventat les regles d'Ottawa 
+per decidir si mereixen o no mereixen una prova diagnòstica, doncs tenim regles d'Ottawa
+per la radiografia de genoll i regles d'Ottawa per el turmell-peu. 
+I resulta que si apliquem aquestes regles d'Ottawa, que després les explico,
+ens estalviaríem fer un terç de les radiografies de turmell i un 50% de les radiografies de genoll
+amb l'estalvi econòmic i de temps que suposen no necessitar la radiografia.
+Quan van fer els estudis no sé la quantitat de temps que necessites per convèncer el pacient que no necessita la radiografia, però això és una altra guerra.
+La recomanació el que ens diu és, si la regla d'Ottawa és negativa, no necessita radiografia.
+Tornaré a repetir perquè quedi clar.
+Regla d'Ottawa negativa no necessita radiografia.
+I aquest no necessita es basa en el fet que aquestes regles són molt conservadores,
+l'especificitat i la sensibilitat són molt bones.
+Per tant, la recomanació de l'Essencial la torno a repetir per tercera vegada és, regla d'Ottawa negativa no necessita radiografia.
+Què són les regles d'Ottawa?
+Les regles d'Ottawa no són res més que preguntar-li al pacient una sèrie d'ítems i si els compleix o no els compleix, doncs toca una o l'altra.
+Per la regla d'Ottawa de genoll necessitarem només radiografia si tenim una lesió aguda, per tant ha de ser alguna cosa recent,
+i que compleixi un o més dels següents. 
+Tenir més de 55 anys, per tant, si tens una lesió aguda de genoll i més de 55 anys, radiografia.
+Tens una lesió aguda de genoll i un dolor aïllat a la palpació de la ròtula o del cap peroneal, aquests també mereixen radiografia.
+O bé tens una incapacitat de flexionar el genoll 90 graus, també  se't farà radiografia.
+O bé, i aquest és molt interessant i es anirà repetint,
+la incapacitat de caminar quatre passes immediatament després de la lesió i quan vénen a la visita.
+És a dir, si tu no pots caminar quatre passes després d'haver-te fet la lesió
+i no pots caminar quatre passes quan véns, radiografia.
+Si
+Si tens menys de 55 anys, si no tens dolor a la ròtula o al cap peroneal,
+si pots flexionar el genoll 90 graus i pots caminar aquestes quatre passes, no necessites radiografia.
+Això pel genoll. 
+Si ens anem al turmell-peu, doncs més o menys s'assemblen.
+No aplicarà en cas de lesions cròniques o subagudes, serveix només pel turmell i tars,
+no serveix ni pel taló ni per tot el que és estrictament el peu, pels metatarsians i els dit del peu.
+I també el mateix, trauma tancat, no més de 55 anys i aquí ens afegeixen no menys de 6.
+La radiografia de turmell és necessària si tenim dolor a la zona, ja sigui als mal·lèols o al tars,
+i tenim la incapacitat de caminar les quatre passes o tenim dolor en el cas del turmell 
+dels dos mal·lèols, l'extern, el peroneal o el tibial, l'intern,
+o bé, en el cas del peu, si tenim dolor a la palpació a la base del cinquè metatarsià a la part externa
+o a l'os escafoide a la part interna.  En aquests casos es farà la radiografia.
+Que no tenim dolor en aquests llocs i podem fer les quatre passes, doncs no necessitem la radiografia.
+Aquesta és la recomanació de l'Essencial, aquesta del 2015.
+Molt bé. Vosaltres demaneu des de triatge radiografies o no?
+ Sí.
+I teniu una infografia penjada en el despatx de triatge de les regles aquestes d'Ottawa?
+ Pasapalabra.
+Doncs així nosaltres també.
+No, és curiós perquè són recomanacions serioses publicades per l'Essencial de fa deu anys gairebé, no? 
+Sí, sí.
+I ves a saber que la quantitat de radiografies que continuem fent cada dia a tots els hospitals.
+Aquesta és la recomanació de l'Essencial que té el suport del Col·legi de Radiòlegs, de la CAMFIC, de la Societat Catalana de Cirurgia Ortopèdica i és de l'any 2015.
+Però les regles d'Ottawa, aquestes, són dels 90.
+Afegeix-hi encara uns quants anys més de fer radiografies que no es necessitaven.
+Som un col·lectiu que ens costa molt... 
+Hi ha algunes novetats, algunes evidències noves que no sé per què les introduïm superràpid
+i després n'hi ha altres que ens rellisquen, però que no vegis, eh?
+A més amb l'agravant, que com que fas, generes una expectativa
+que després, si no es compleix, genera insatisfacció.
+És una bola que hem fet enorme nosaltres solets i que trencar això serà molt difícil.
+Esperem que quan surtin els primers especialistes d'urgències, tinguin una assignatura que sigui no fer.
+Val.
+Vinga, ja tenim el Menys és Més. Si algú té alguna cosa a comentar, doncs ja ho sabeu, al grup de Telegram que tenim,
+doncs ens podeu explicar allà les vostres experiències i què us semblen aquestes recomanacions.
+Molt interessant. 
+Vinga, anem a la següent, Xavi?
+De l'UrgemMot no tenia res.
+Fins que he fet això del Menys és Més, hi ha resultat que sortia escafoide, en comptes de escafoides.
+Una altra cosa que deia malament, apuntada a la llista, també. 
+No tenia res, però sí que volia comentar una cosa.
+Estem gravant això el dia 27. Doncs mira, fa just una setmana, es van presentar les noves guies clíniques del SEM.
+Parlarem, parlarem, perquè aquí hi ha tema.
+Vaig veure la presentació i voldria destacar que des del SEM s'han esmerçat molt amb l'ús del català en aquestes guies.
+Les guies estan en català. Estan força ben escrites. Realment hi han posat molta cura i es nota.
+I a més a més, els he enviat un parell de correccions que ja han corregit.
+Per tant, agrair molt al SEM que hagi fet aquest esforç per la llengua.
+I aprofito i llenço la falca que tots les fem servir adequadament
+i que si detectem alguna cosa que es pugui millorar o arreglar, doncs els hi fem saber.
+Res, només jo volia comentar això de l'UrgemMot, Xavi.
+ Fantàstic.
+Jo tenia quatre termes que potser podríem canviar o millorar.
+Un és l'obstinació terapèutica. 
+En lloc de parlar d'aferrisament terapèutic o encarnisament terapèutic,
+el terme correcte, segons el TermCat, és l'obstinació terapèutica. 
+M'agrada. M'agrada perquè et gira el concepte cap a qui li toca.
+Tu vols seguir, en aquest cas el professional, vols seguir el tractament. 
+Ah, sí, sí, ja sé.
+El problema el centres a la persona on el té, en aquest cas és el que s'obstina a...
+Sí, sí, és el professional, sí, sí. 
+M'agrada, m'agrada. 
+En castellà sí que en diuen el encarnizamiento terapéutico, però...
+En aquest cas es refereix a la conseqüència, però no a la causa.
+Sí.
+Diguem-ho així. no?
+Sí, sí, sí. Què més? Hi havia un altre terme que té relació amb temes de recerca, que és l'avaluació d'experts. 
+Sempre que envies algun article original una editorial per intentar que la publiquin en una revista concreta,
+ si és una revista una miqueta seriosa, el que faran serà una avaluació d'experts.
+Que en castellà en diuen avaluación por pares o per iguals, en anglès és el peer review,
+doncs en català és una avaluació d'experts. 
+Tu envies el teu manuscrit perquè sigui sotmès a una avaluació d'experts.
+Això de l'avaluació d'experts penso que és una de les coses que és important.
+No hauries de poder publicar el que et doni la gana.
+Hi ha uns iguals, aquests experts, que són gent que és experta del tema que tu vols parlar,
+que et pregunta, i els dubtes que té, te'ls demana, i tu estàs obligat a contestar-los per poder publicar.
+No pots publicar el que et doni la gana. Aquesta gent et diran, de fet no t'ho diran a tu, li diran a l'editor de la revista si allò val la pena ser publicat o no. 
+Ho dic perquè a vegades sembla que qualsevol pot dir el que li doni la gana i si és una revista peer reviewed,
+una revista avaluada per experts, doncs és un dels primers graons de l'evidència científica.
+El tema dels experts aquests, l'esforç que fan, com se'ls paga, i tot això,
+ho deixem per un altre dia que també dona per bastant. Perdó, Xavi, que t'havia tallat. Segueix, segueix.
+Tranquil, tranquil. Volia parlar de dos termes relacionats amb el tema principal d'avui, que és la síndrome de realimentació,
+Un és la síndrome d'adollament.
+Carai, quin nom!
+ En anglès és el dumping syndrome. En castellà és el síndrome del vaciamento rápido.
+Són pacients que se'ls ha fet una gastrectomia,
+ i a partir de la gastrectomia, crec que és una gastrojejunostomia, si no recordo malament.
+I aquesta intervenció fa que l'estómac es buidi molt ràpidament,
+i aleshores això fa que, com que tot el contingut gàstric de cop i volta es reabsorbeix,
+el pacient està taquicàrdic, suat, estarà hipotens, perquè a nivell de l'intestí hi ha molta pressió osmòtica,
+tota la quantitat del líquid extracel·lular passarà dintre de l'intestí,
+el pacient estarà hipotens, estarà col·lapsat i estarà hipoglucèmic.
+I això és la síndrome aquesta del dumping syndrome, que en català es diu síndrome d'adollament.
+És preciosa aquesta paraula.
+Adollament ve d'adollar, que és abocar a doll.
+Abocar adoll vol dir a raig de líquid, d'aigua, del que sigui, a raig intens.
+A través d'un forat, a través d'un orifici, tirar-li líquid, això vol dir  adoll, a raig.
+Per tant, la síndrome d'adollament.
+I hi havia un altre que volia comentar. Aquest és molt senzill.
+És la síndrome del budell curt. En podríem dir de l'intestí curt. 
+De fet, si no recordo malament, entre intestí i budell crec que el Termcat posa com a preferit intestí, en lloc de budell
+Però quan parlen de la síndrome del budell curt prefereixen dir-li budell curt que intestí curt.
+Que en castellà sí que parlen de la síndrome del intestino corto,
+però en català n'hauríem de dir la síndrome del budell curt,
+relacionat com a un factor de risc de la síndrome de realimentació que hem parlat avui. 
+I ja està, Albert.
+Molt bé. Síndrome d'adollament. Maco, maco. M'agrada, m'agrada.
+Va, anem a l'última secció. L'última, anem acabant ja. La secció de recomanacions.
+Justament m'ha anat molt bé això de l'obstinació terapèutica.
+Normalment sempre recomanem coses clíniques, però portem una temporada que estem recomanant coses més variades, oi?
+Que si la llengua, que si... En fi, altres coses.
+ Resulta que fa uns dies vaig llegir una carta, al Diario16 
+És una carta que la publica  el doctor Juan Gervás, que tu ens vas recomanar a una entrevista que va fer a YouTube fa un temps.
+Sí.
+La carta no és estrictament seva, és una reescriptura d'un escrit d'un familiar d'una pacient que va morir de càncer
+i la veritat és que val la pena llegir-la. És una carta personal, íntima, que explica el final de vida d'aquesta persona.
+A mi m'ha agradat llegir-lo perquè ens posa a nosaltres, els professionals sanitaris, al lloc que ens toca.
+Nosaltres som una part important de la vida de les persones, però la vida de les persones és molt més que el que nosaltres els hi fem, oi?
+El text, la veritat, és que és molt maco de llegir, evidentment, llagrimeta, se us escaparà segur, no passa res, tots ens entren coses a l'ull.
+M'agradaria llegir-vos un tros, crec que resumeix bastant bé el que vol dir aquesta carta.
+És en castellà,  us ho llegeixo.
+És algo que no saben decir los médicos y menos los oncólogos.
+En sus algoritmos falta una rama que lleve a una salida digna que diga, fin, basta ya.
+La muerte se entiende como fracaso y el abandono de la lucha como una deserción.
+Los médicos precisan una ética del basta ya. 
+Un saber reconocer la inevitable muerte, ser conscientes de que los cuerpos encuentran la forma de morir,
+y de que es fundamental evitar el encarnizamiento terapéutico y saber no hacer ante la muerte.
+La inercia terapéutica intencional.
+Lliga amb això de l'obstinació terapèutica que dèiem abans. 
+És cert, els d'urgències són potser els que menys hem de fer en cas d'això, 
+perquè hem de prendre decisions molt de pressa, però crec que com a professionals sanitaris això ho hem de tenir aquí darrere.
+Nosaltres no salvem la vida a ningú, tots morirem.
+Simplement hem d'aconseguir que es mori la gent quan li toca, i no abans.
+Apa, va, un moment llagrimeta. Jo ja he fet la meva recomanació. Explica'ns tu, a veure si en tens alguna de més alegre.
+Molt bé. No és que sigui alegre,  és un recurs que personalment vaig descobrir fa poc 
+i vaig dir: això haig d'explicar-ho a l'EMPodCat.
+I és una pàgina web que és el bones.getthediagnosis.org
+I és una pàgina web que el va crear un tal Mark Hammer i en Guillermo González, 
+que són d'un institut de radiologia de la Universitat de Washington, a Saint Louis, als Estats Units.
+I és un repositori de radiografies esquelètiques a nivell pediàtric. 
+I la utilitat que en podem treure a nivell d'urgències
+és quan tu demanis alguna radiografia perquè no compleix criteris d'Ottawa,
+ del turmell i del genoll i d'aquestes coses que hem dit avui,
+i finalment decideixes fer-li la radiografia i de vegades amb els nens costa veure si allò està trencat
+si no està trencat pel cartílag de creixement i aquestes coses.
+Doncs en aquest repositori que es diu Normal Bones 
+tens un repositori que va dels nens de 0 anys fins a 15 anys
+i després tens un exemple de radiografia normal de tot arreu,
+d'extremitat superior, a nivell cervical, a nivell toràcic, a nivell de pelvis i a nivell d'extremitats inferiors.
+I tens tots els exemples possibles.
+Per tant, quan tinguis tu una radiografia d'un nen i diguis, ostres, no sé si és normal o no,
+ obres el bones.getthediagnosis.org
+i obres la radiografia que correspongui a l'edat del nen
+i a la zona que has radiografiat i compares la radiografia del teu pacient
+amb la radiografia normal d'un pacient d'aquella edat i veuràs si aquelles coses que t'han cridat l'atenció són una fractura o no són una fractura
+Hi ha altres pàgines web similars, havíem parlat d'una que es deia Bonepit,
+eh que sí, Albert, que es deia així és una que havíem dit?
+Si, si
+Totes són similars i totes aporten el mateix.
+Jo vaig començar a mirar aquesta i la veritat és que està molt bé i és supersenzill
+perquè a la mateixa pàgina sense tocar res ja veus totes les possibilitats i cliques a la que vulguis tu,
+ja veus la radiografia, un front, un perfil, ho compares amb la del teu pacient i problema solucionat. Molt senzill.
+M'estic mirant la pàgina i els amics del disseny no hi aneu, us infartareu, perquè és d'una altra època.
+Diu aquí veig Copyright 2012, jo hi fotria 10 anys menys també. 
+És veritat, sí. Jo no m'hi fixo mai però ara que ho dius sí que és bastant bàsic.
+Sí, sí. Però és una forma interessant de veure que no cal fer una gran floritura.
+Aquí l'important és el contingut, vas, prems el botonet, se t'obre la imatge,
+veus la imatge que t'interessa veure i ja està.
+I fàcil de buscar, no has d'anar a cal Google, només necessites aquest enllaç. Ràpid.
+Molt bé. Doncs bones.getthediagnosis.org.
+Hosti, el nom també està ben trobat, eh?
+He mirat i només tenen això dels bones, eh? Les altres coses del getthediagnosis no hi ha res més, eh?  Aquí es va quedar mitges això, veig. 
+Es queden amb lesions òssees, i ja està. Sí, sí.
+Doncs escolta'm, ja ho tenim tot fet, no?
+Aquest tema d'avui molt interessant, inquietant com sempre.
+Ser-ne una miqueta més conscients, identificar els pacients que tinguin risc i amb això ja guanyarem bastant. 
+Doncs escolta, per la nostra banda res més, a veure si pel proper episodi ja podem fer l'especial aquell que teníem a mitges
+i si no, doncs mira, un altre dia.
+Recordar a tothom que tenim el grup de Telegram, que vam engegar allò dels casos, dels EmPodCas,
+que aquells que tingueu algun cas que creieu que és rellevant o que us ha agradat o que voleu compartir, 
+doncs nosaltres podem fer el muntatge perquè tots n'aprenguem.
+Si teniu algun tema que vulgueu explicar, doncs també som tot oïdes.
+Deixa'm recordar, més d'una vegada m'he trobat a urgències que els tècnics de transport sanitari me diuen:
+Xavi, l'altre dia vaig escoltar l'episodi de no sé què
+i no recordo que haguem fet algun tema específic de transport sanitari
+o haguem convidat algun tècnic a participar i que ens expliqui alguna cosa que necessitem conèixer. 
+Si ens esteu escoltant i teniu alguna cosa interessant
+i que ens vulgueu explicar podem organitzar un episodi dedicat a alguna temàtica d'aquest tipus, no Albert?
+Sí, sí, de fet és bastant rellevant.
+Tenim coses interessants i escolta, ens falta algú que ens ho vingui a explicar.
+Doncs res més, ens veiem al proper episodi.
+Vinga, que vagi bé, fins la propera.
+Apa, adeu!

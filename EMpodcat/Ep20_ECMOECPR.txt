@@ -1,0 +1,800 @@
+EMPodcat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a l'EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Ara és la part aquella en què foto el rotllo d'on ens podeu trobar i qui som els que ho fem i tot això,
+però com que avui és un episodi especial, en un format una miqueta diferent de l'habitual, avui anem directes al gra.
+Sí que tenim a l'Empordà en Xavi Basurto, bon dia, Xavi.
+Hola, bon dia, Albert i companyia.
+I jo mateix, que sóc l'Albert Homs, que estic a Cerdanya, i avui és un programa especial perquè també tenim un convidat,
+un convidat que el tenim a la zona metropolitana, allò que alguns diuen Barcelona.
+Aquest convidat és l'Eduard Argudo, és metge adjunt del Servei de Medicina Intensiva de l'Hospital de la Vall d'Hebron de Barcelona,
+amb un currículum llarguíssim, que és el metge de l'helicòpter de... de l'hotel...
+De quin hotel? De l'hotel 1? El de Sabadell? No sé si encara hi ets. De l'hotel 2? Bé, no ho sé, has donat moltes voltes.
+I l'hem portat per un tema que a mi personalment em té abstret i...
+molt, molt, molt interessat, que és el tema de la reanimació cardiopulmonar extracorpòria,
+que jo penso que és l'extrem de la urgència.
+I l'hem portat perquè ell és un dels homes ECMO de l'Hospital de la Vall d'Hebron i coneix molt bé d'aquest tema.
+I com que ens coneixíem, l'he atabalat prou com perquè acabés dient que sí.
+Hola, Eduard, bon dia, bona tarda, bona nit, el que toqui.
+Hola, Albert, hola, Xavi, què tal?
+Clar, parlar d'això de la reanimació cardiopulmonar extracorpòria
+sense parlar de què és això de la cosa extracorpòria és... serà inútil.
+O sigui que començarem potser parlant primer de la màquina, de la teràpia en qüestió
+i després de la indicació que tenim per fer RCP amb aquesta màquina.
+Aquesta màquina, o aquesta teràpia, es coneix per ECMO, que si ho dic bé és la
+Extracorporeal Membrane Oxygenation, o sigui oxigenació per membrana extracorpòria, ho he dit bé, això?
+Sí, exacte.
+Que vindria a ser la diàlisi dels pulmons, però no es veu que tampoc és ben bé això.
+El que és segur és que això és d'UCI, és d'aquelles coses fines, que vigila que no et toquis d'aquí, que no es trenqui d'allà,
+compte i tal, això que els d'urgències no sabem fer, perquè una cosa fina no sabem gaire bé el que és.
+Va, Eduard, explica'ns una miqueta què és això de l'ECMO, com funciona.
+L'ECMO el que és és una màquina
+que ens permet suplir les funcions tan respiratòries com cardiovasculars.
+Què vol dir això?
+Doncs és un circuit extracorpori que té diferents components,
+començant per una cànula de drenatge,
+que posem en una vena central i que se'n va fins al cor i que ens permet drenar la sang del malalt.
+Amb això hi ha tota una tubuladura cap on la sang es dirigeix
+i va a una bomba, que és qui fa la succió, qui drena aquesta sang del malalt.
+Aquesta bomba és una bomba que ara mateix són totes de tipus centrífugues
+i aquesta bomba impulsa la sang, drena la sang del malalt i la impulsa cap a una membrana.
+Que és on es produeix d'intercanvi de gasos. Aquesta membrana, que és l'oxigenador, que estan fets ara tots de polimetilpentè,
+a una banda hi ha la sang, a l'altra banda hi ha una barreja de gasos que nosaltres decidim que sol ser una barreja d'aire i oxigen,
+és a dir, pot ser aire, però normalment té una concentració d'oxigen elevada, una FiO2 entre 0,5 i 1.
+I aquí és on es produeix l'intercanvi de gasos. Eliminem el diòxid de carboni i aportem oxigen a aquesta sang.
+I llavors aquesta sang, un cop està oxigenada i amb menys diòxid de carboni,
+que és el que farien els nostres pulmons, es retorna al malalt a través d'una tubuladura de retorn
+i una cànula de retorn que li aporta la sang oxigenada al malalt.
+Llavors, depenent una mica de com configurem el nostre circuit ECMO, és a dir, com col·loquem aquestes cànules,
+podem donar suport només pels pulmons o suport pel cor i pels pulmons.
+I amb això una mica serà les diferents modalitats d'ECMO que diem, que és el que potser us sona o potser no,
+que és l'ECMO venovenosa i l'ECMO venoarterial.
+És a dir, si jo agafo la sang d'una vena i la retorno a una altra vena,
+aquesta sang oxigenada, el cor l'agafarà i la impulsarà,
+la farà passar a través dels pulmons i després, de cor dret, pulmons, cor esquerre,
+i aquest cor esquerre ejectarà aquesta sang amb l'oxigen que li ha donat l'ECMO.
+I això ens donarà exclusivament un suport respiratori, és una ECMO venovenosa.
+En canvi, si agafo aquesta sang oxigenada i la retorno a través d'una cànula
+que està col·locada a una artèria, que són les artèries femorals,
+doncs aquesta sang directament anirà als teixits, amb el que estarem suplint, que és la funció pulmonar,
+d'uns pulmons que estarem bypassejant, que ens estarem saltant,
+com la funció cardíaca, perquè el cor pot estar aturat o fent molt poca cosa,
+que la sang oxigenada arribarà a tots els teixits.
+Sona molt bèstia, això, eh? És a dir, fem de pulmó o fem de pulmó i cor?
+Una pregunta que no he entès. Si tornes la sang oxigenada a l'artèria femoral, per exemple,
+Si
+i d'aquí oxigenes, a través de l'artèria femoral, oxigenes el cor, per exemple, el miocardi... i el cervell?
+Quan tenim... Depèn de la funció cardíaca.
+És a dir, nosaltres, quan volem donar suport al cor, donar un suport circulatori amb ECMO,
+la manera més estàndard de fer-ho és amb una ECMO venoarterial i amb una canulació que diem perifèrica.
+Això vol dir que posem una cànula per la vena femoral que puja fins a l'aurícula dreta, d'aquí drenem la sang,
+i el retorn d'aquesta sang la fem a l'artèria femoral,
+amb una cànula curta d'uns 15 centímetres, que de fet es queda normalment sobre la ilíaca.
+Llavors, aquesta sang què fa?
+Doncs va en sentit antifisiològic, en sentit retrograd, pujant des de la femoral cap a dalt,
+i el primer que es troba és tota la circulació de la vasculatura esplàncnica,
+que va al fetge, ronyons, etcètera,
+i puja fins a l'aorta toràcica, puja fins a l'arc aòrtic,
+i depenent de la capacitat d'ejecció i contractilitat que tingui el cor,
+ens arribarà fins al cor o no.
+Perquè s'entengui. Imaginem un malalt que està en una fibril·lació ventricular.
+No té cap mena de ritme elèctric i el cor no ejecta.
+Si jo el tinc en ECMO, el que passarà és que aquell cor no està bombejant res
+i estic drenant tot el cor a través de la cànula que està a l'aurícula dreta,
+i la sang entra per l'artèria femoral, però ens arriba fins  als sins coronaris i ens oxigena el cor, perquè aquell cor no ejecta, no bombeja.
+Si, en canvi, tinc un malalt amb un xoc cardiogènic, en una situació on té certa contractilitat,
+tot i que tingui molta disfunció cardíaca, sí que el cor ejectarà una mica.
+I llavors estarem jugant sempre amb dues circulacions.
+Una circulació nativa, fisiològica, que vindrà a través del cor amb l'oxigenació dels pulmons,
+i una circulació antifisiològica i anòmala, que vindrà a través del circuit d'ECMO
+Això no ho sabia.
+I conviuran les dues, i les dues les haurem d'ajustar, I haurem de fer-les...
+Que tot quadri, que tot estigui correctament, que els nivells d'oxigen siguin bons, tant els que donem per l'ECMO com els que donem pels pulmons.
+I haurem d'ajustar ambdues bombes. I els dos pulmons.
+El de veritat i el de mentida.
+Aquí ja vaig veient que l'ECMO ens servirà per dos grans tipus d'indicacions diferents.
+Ens pot servir per pulmons que fan figa o pel cor que fa figa.
+Exacte. Els dos grans grups de malalts que es poden beneficiar d'aquest suportena l'ECMO
+són per una banda els malalts respiratoris, on el tractament respiratori convencional no funciona.
+Venim d'una pandèmia de Covid. N'hem tingut...
+Doncs en el nostre centre hem atès més de 130 malalts amb ECMO.
+Que eren aquells malalts que tenien una pneumònia amb un destret respiratori
+amb afectació bilateral que tot i la ventilació mecànica, el prono, totes les típiques mesures
+que ens agrada fer als intensivistes doncs no responien,
+i estaven en uns nivells de hipoxèmia molt severa.
+En aquest context a aquests malalts, el que fèiem era canular-los en ECMO venovenós.
+Allò que dèiem, drenàvem la sang d'una vena, generalment la drenem de vena cava inferior
+ens hem d'apropar sempre al cor perquè necessitem fluxos de sang molt alts
+I retornàvem la sang a l'aurícula dreta oxigenada. D'aquesta manera el cor la bombejava
+I el que feia el cor és que clar, teníem un cor dret que tenia sang oxigenada, unes artèries pulmonars amb sang oxigenada
+I aquesta era la sang que acabava arribant als teixits i que era ejectada pel propi cor.
+Llavors això inclou pneumònies virals però també pneumònies bacterianes
+qualsevol tipus de patologia. un inhalat de fums... qualsevol destret respiratori
+que ens pugui portar al fet  de no poder oxigenar prou
+tot i la ventilació mecànica i les mesures convencionals
+Pel que fa al punt de vista circulatori, doncs els perfils dl malalts que se'n beneficiaran sobretot són aquells malalts amb xoc cardiogènic
+que és la indicació més clara, clàssica.
+Però també un xoc obstructiu, com un tromboembolisme pulmonar, pot ser una molt bona opció
+per suportar amb ECMO aquells que van malament tot i els tractaments instaurats
+En el cas extrem de la fallida circulatòria, la fallida absoluta
+que és l'aturada cardiorespiratòria, doncs l'ECMO també ens pot aportar per restaurar aquesta circulació.
+Tempestes arrítmiques... coses que ens facin que que el cos no estigui ben perfós.
+I que d'aquesta manera artificial, puguem donar la perfusió.
+El que si que és important, perquè és una cosa de la que parlem molt i sempre recalquem amb les famílies
+quan iniciem aquestes teràpies és que l'ECMO en el fons és una teràpia de suport.
+No tracta cap causa de res.
+Sinó que simplement molts cops el que ens permet és guanyar temps
+perquè la resta de teràpies, els antibiòtics si és una pneumònia bacteriana,
+fer una angioplàstia i recuperar la funció cardíaca si és un infart,
+o el que sigui facin l'efecte terapèutic i la patologia del malalt millori i es pugui recuperar.
+Veient la invasivitat d'això, entenc que aquesta teràpia no està indicada per tothom.
+És a dir, no tothom qui té un xoc cardiogènic podrà sobreviure a aquesta màquina.
+Exacte, en el fons penseu que l'ECMO sembla molt maco i molt xulo,
+però no està exempt de complicacions.
+Les complicacions de l'ECMO poden passar en diferents moments, des la pròpia tècnica de canulació,
+amb complicacions hemorràgiques. i hemorràgiques catastròfiques,
+Com sagnats pericardíacs, pleurals, retroperitoneals, etcètera.
+perquè estem posant uns tubs molt gruixuts fins al cor, de manera percutània
+Com complicacions després derivades de l'anticoagulació, el major risc de sagnat que tenen els malalts,
+totes les alteracions que provoca en la coagulació.
+És a dir, hi ha tot un seguit de coses que ens fan que
+reservem l'ECMO per aquells malalts que compleixin una sèrie de criteris,
+que si que els han fallat els pulmons i el cor d'una manera molt, molt greu,
+però que sobretot pensem que tenen opcions de recuperació.
+Perquè sinó el risc-benefici d'aplicar una tècnica d'aquest calibre
+i amb tot el que suposa, tant de riscos com de recursos materials i humans...
+Quan parles de tubs gruixuts, de quines mides estaríem parlant?
+Estem parlant de... Els drenatges ens solem moure entre 23 i 25 French
+Això per aquells més emergenciòlegs, és superior a la mida d'un tub de tòrax, d'un tròcar dels que solem posar.
+I en mil·límetres són uns 8... al voltant d'uns 8, 8,5 mil·límetres de diàmetre.
+És un tub de quasi un centímetre i d'uns 55 centímetres de llarg.
+No és només el diàmetre sinó que estem parlant de cànules que són com una espasa al final, amb aquestes mides.
+Les cànules de retorn són més petites. Ens n'anem a cànules que estan entre 5, 6 o 7 mil·límetres de diàmetre.
+En French són 15 o 19, depenent de quin tipus de suport donem.
+Perquè en el fons el que ens condiciona més es poder drenar suficient sang per donar suport al malalt.
+Perquè el que fa que l'ECMO funcioni suportant el sistema circulatori o respiratori
+és que tinguem un flux de sang elevat que és el que ens permetrà suplir per complert aquestes funcions.
+I quan parlem d'elevat, en adults estàndard, ens movem en fluxos de sang entre 3 i 5 litres per minut.
+Propers a allò que bombeja el cor en una situació normal.
+Això vol dir que posar aquestes cànnules té el seu què.
+Això es posa amb tècnica Seldinger vulgar?
+O hi ha molta més cosa quirúrgica a fer?
+Normalment no, normalment ho fem per tècnica de Sedlinger ecoguiada.
+La majoria de cànulacions, almenys al meu centre, les fem nosaltres, els intensivistes.
+Sempre tenim el backup de cirurgia cardíaca, que són els companys que ens ajuden
+per si hi ha algun problema o complicació durant la canulació
+Però la tècnica és Seldinger estàndard ecoguiada, això si
+essent conscients que hem de ser més agressius, hem de fer una incisió a pell, hem de tallar,
+fem una dilatació progressiva per poder arribar a posar aquest calibre de cànules a nivell intravascular,
+i que necessites una corba d'aprenentatge considerable.
+El primer punt d'aquesta corba d'aprenentatge i que és imprescindible és dominar per complet, al 100x100,
+tot el que és la tècnica de punció ecoguiada de catèters centrals  per tècnica de sedlinger.
+I a partir d'aqu has de fer el teu aprenentatge específic
+que suposa passar de posar una via central o un catèter arterial amb les mides petites que tenen
+amb una dilatació petita a arribar a posar aquest tipus de cànules.
+Una pregunta Eduard, més bàsica. Jo voldria saber...
+Tinc curiositat per aquesta tècnica que parlem.
+Volia saber en quina fase està, evolutiva.
+Vull dir, és una tècnica que ja feu servir de forma estàndard i rutinària...
+O esstà en fase molt experimental?
+Ho dic des del desconeixement. Perquè nosaltres des de Figueres o des d'un hospital comarcal
+Pràcticament només ho sentim parlar si llegim alguna cosa o anem a algun congrés.
+I volia saber això, si encara estàveu investigant sobre el tema
+o fa ja anys i panys que es fa servir això?
+Investigar sempre investiguem, perquè com a metges i científics, sempre intentem millorar
+intentem fer ciència, intentem aprendre del que fem i millorar allò que estem fent cada dia.
+Però penseu que el primer cas d'ECMO al món es va publicar al final dels anys 70.
+L'ECMO deriva de la cirurgia cardíaca, de la circulació extracorpòria en cirurgia cardíaca.
+És cert que inicialment es van fer tota una sèrie d'estudis, als anys vuitanta, que els resultats van ser molt dolents,
+però les complicacions, sobretot hemorràgiques eren brutals.
+Les mortalitats dels grups no tenen res a veure amb les que tenim ara,
+no només dels grups aleatoritzats a l'ECMO, sinó dels grups control.
+Les cures intensives han millorat i canviat molt.
+I el creixement o la...
+En pediatria si que l'ECMO fa més anys que s'està aplicant.
+Però, aquí, en adults, el boom de l'ECMO comença sobretot amb les pandèmies de grip A,
+de l'any 2008-2009, quan apareix la grip A, l'H1N1, i a més amb el COVID encara hi ha hagut una empenta més forta.
+Amb el qual, no és una teràpia experimental, és una teràpia provada, hi ha estudis, hi ha ciència al darrera.
+Que s'està aplicant com a Gold Standard de tractament a determinats malalts en determinats centres on es disposa.
+Com el meu, el Vall d'Hebron a Barcelona, i on estem realitzant ara doncs...
+Estem tractant vora cent malalts a l'any amb aquest tipus de suport.
+Són números considerables i això fa que...
+És a dir, a la meva UCI, doncs  farà uns dos anys i mig, potser una mica més
+que no tenim un sol dia que no hi hagi cap malalt en ECMO. Vol dir que sempre hi ha malalts en ECMO.
+L'activitat va pujant, va baixant. N'hi ha més o n'hi ha menys,
+però no hem tingut cap dia sense malalts a l'ECMO des de fa més de dos anys i mig.
+I a quins hospitals més es fa, així de forma rutinària o habitual?
+Els centres que tenen programes d'ECMO establerts són els hospital terciaris
+de Barcelona: Vall d'Hebron, Bellvitge, Clínic, Sant Pau, Can Ruti
+i després hi ha altres programes que estan començant, però més petits, com pot ser el Mar o, per exemple, Girona al Trueta,
+que també, sobretot en malalts cardiològics, doncs des de fa poquet ha anat fent alguns casos.
+Això, ara que parlaves que a la vostra UCI sempre en teniu algun,
+entenc que quan poses un malalt en aquesta teràpia,
+el nivell de cures d'infermeria puja molt, i el monitoratge que has de fer,
+que ja acostuma a ser elevat a la UCI, encara augmenta més.
+La càrrega de treball quan poses algú en aquesta teràpia, augmenta molt més del que...
+O sigui, deu ser de les més intensives en recursos humans, imagino
+Són malalts molt complexes, que hi has de ser molt a sobre
+A nivell d'infermeria, la càrrega és brutal.
+I sense les infermeres que tenim no aniriem enlloc.
+Quan tenim malalt a l'ECMO, la ràtio és més que doble.
+En les UCI, la ràtio d'infermeria sol ser d'una infermera porta dos malalts.
+I nosaltres, els nostres malalts en ECMO els solen portar...
+tenim entre una infermera i mitja o dues infermeres per malalt.
+És a dir, que a nivell de recursos... I infermeres que no són només infermeres d'UCI
+sinó que són infermeres d'UCI formades, entrenades en ECMO
+per poder tractar, ja no només les complicacions del malalt,
+sinó també les que passen amb la màquina i el circuit, que poden ser catastròfiques igual que en altres dispositius,
+però més en un dispositiu on la vida dels malalts durant molt temps de la teràpia,
+molts dies , moltes setmanes, depen al 100% que la màquina estigui funcionant correctament
+Perquè són malalts que molts cops no tenen cap funció pulmonar o cardíaca.
+És a dir, que sense la màquina estarien morts.
+Llavors l'equip ha d'estar molt format, molt entrenat
+També a nivell mèdic són malalts que porten més feina, els hem de fer més coses cada dia,
+a nivell de proves, de terapèutica, proves complementàries, de monitoratge, de seguiment.
+Amb el que si que hi ha una sobrecàrrega. que també és cert que amb el temps s'ha anat normalitzant.
+Recordo quan fa 5 o 6 anys, quan teníem un cas a l'ECMO era la gran excepció,
+tothom estava super a sobre, tothom acollonit, controlant tot i vigilant tot.
+I ara ja és una teràpia molt més normal, hi estem acostumats, sempre està allà.
+També tenim molta més experiència.
+Quan parlaves de les complicacions, a mi se m'han posat els pèls de punta diverses vegades
+Quan has dit això d'entre tres i cinc litres de flux de sang per minut...
+Vol dir que com es desenganxi la mànega d'algun lloc...
+La lies!
+La matança del porc, que alguns rurals hem viscut, és...
+poca cosa
+un joc de nens
+Si es desenganxa la mànega, l'has liat molt, perquè si es desenganxa la mànega que li porta la sang al malalt,
+doncs tens una mànega disparada a tres o cinc litres per minut.
+I si es desenganxa la mànega que porta la sang cap a l'ECMO, el que fa és entrar tot d'aire cap al circuit,
+s'embolitza tot i la màquina s'atura, amb el que cap mànega que es desenganxi és bo.
+Amb això s'ha de tenir molta cura, son coses que s'han de vigilar i controlar molt
+Les descanulacions, que és el tipus de complicació de la que parles, sempre és la que fa més por
+perquè és la que és com més dramàtica però es poc freqüent, per sort.
+Si l'equip està entrenat, si tot està ben fixat, si tot està ben enganxat i tot està ben controlat
+que això passi, per sort, és francament excepcional, i normalment no passa mai.
+Però hi ha moltes altres coses que es poden complicar. Des de sagnats,
+que tots els malalts en ECMO acaben sagnant, per un lloc o per un altre
+Si és poc sagnat, doncs bé, però a vegades hi ha sagnats que són considerables, des de sagnats cerebrals, que això, doncs...
+Perquè l'ECMO, penseu que en el fons estem agafant la sang, l'estem traient fora del cos, l'estem matxacant amb una bomba centrífuga,
+sotmetent a un pressions rares, això provoca hemòlisi, provoca disfunció plaquetària,
+provoca tota una sèrie de coses que afavoreixen principalment el sagnat.
+A més són malalts que normalment tenim anticoagulats perquè sinó, per altre banda, els circuits d'ECMO poden tenir tendència a la trombosi.
+Així que hi ha tota una sèrie de... Ja et dic, el sagnat sempre ens preocupa, també a vegades les trombosis.
+També les infeccions, perquè són malalts d'UCI complexos, amb unes cànules a dins que no les podem treure
+no és allò de, ai! si s'ha infectat un catèter l'hi trec. No, perquè si tinc la cànula aquesta posada,
+no tinc opció o alternativa a que la segueixi tenint posada, no?
+Amb el que tot això són coses que cal anar vigilant, monitorant i controlant cada dia.
+I una pregunta, que potser va relacionada amb les indicacions,
+quan de temps podeu tenir amb aquests dispositius els pacients?
+O quant de temps hi estan normalment de mitjana?
+Doncs no hi ha un límit, és a dir , no hi ha límits de dies
+Depèn del malalt i del perquè. Normalment els malalts amb un suport circulatori
+és a dir, els que estan en ECMO veno-arterial,
+el cor és un òrgan que és més agraït a curt termini que els pulmons,
+en el sentit que quan el cor deixa de funcionar, en pocs dies
+ja ens sol dir si tornarà a funcionar o no. Cors a vegades en una disfunció molt severa
+en dos, tres, quatre, cinc dies, generalment recuperen.
+I sinó recuperen ja ens comencem a plantejar
+que sinó hi ha aquesta recuperació potser hem de buscar coses alternatives
+assistències ventriculars, plantejar o pensar en el trasplantament cardíac en els malalts que estigui indicat
+Perquè sabem que passats X dies, exceptuant potser miocarditis o algun tipus de patologia
+que donat-li més temps pot aconseguir que recuperi, normalment no.
+En canvi els pulmons, els pulmons són uns òrgans que com que tampoc teníem un suport per ells, extracorpori, fins fa no massa,
+desconeixíem més la capacitat de recuperació que tenen.
+I ara mateix, sabem que els pulmons tenen més capacitat de recuperació d'allò que pensem,
+ sobretot si els deixem en pau i deixem de torturar-los i matxacar-los amb un respirador.
+I els malalts amb patologia respiratòria, doncs n'hem tingut que els hem retirat l'ECMO als 100 dies de suport.
+Que ens n'estem anant a gairebé quatre mesos de ventilació mecànica i quatre mesos de suport en ECMO
+i que s'han recuperat. I que ara fan una vida, no et diré normal, però bastant...
+bona, amb bona qualitat, sense oxigen i amb una situació funcional correcte.
+També hem tingut casos doncs que no, la situació respiratòria s'ha estancat, no avançava, no avançava
+No veiem cap canvi. Durant mesos no veiem aquella esperança.
+I que s'han hagut d'acabar amb trasplantament pulmonar, per exemple, que també és una altra opció en determinats casos molt seleccionats.
+És a dir, no hi ha un límit. Nosaltres hem tingut malalts vora els 120 dies, una cosa així,
+els que han durat més. I que se n'han sortit, i que se n'han sortit bé
+Això si, amb una estada molt llarga amb tot el que comporta. Per això és molt important la selecció de malalts.
+Que siguin malalts que puguin tenir aquesta capacitat de recuperar-se.
+i de poder sobreviure a una estada en UCI tant llarga.
+Que puguin estar...
+Necessites una situació socio-funcional excel·lent prèvia, perquè sinó és impossible recuperar-se.
+I a nivell d'organs, en el fons també.
+Un malalt respiratori per poder recuperar-se d'una pneumònia que necessiti ECMO.,
+Jo et diria que un dels principals factors que juguen un paper, és com teníem els pulmons abans.
+Són uns pulmons sans? no tenen res? Doncs aquests pulmons tindran capacitat,
+no et dic de recuperar-se per complert perquè segur que queden amb un cert grau de disfunció, però tenim pulmó de sobres.
+A qualsevol de nosaltres ens poden fer una pneumectomia i seguir respirant i seguir fent la nostra vida, si tenim un pulmó sà.
+En canvi, si tenim una malaltia pulmonar crònica en una fase avançada, allò serà impossible de recuperar.
+I per això aquests malalts mai seran candidats a l'ECMO, a no ser que aquest ECMO sigui un pont a un trasplantament pulmonar.
+Doncs m'ha sorprès, perquè pensant en les complicacions que m'imagino,
+i la incidència d'aquestes complicacions, l'estada de l'UCI... Jo em pensava que em diries com a màxim una setmana o quatre o cinc dies
+Però, clar, si em dius 100 dies, això em sorprèn gratament
+Tenim malalts que estan...
+Vull dir que el cos sigui capaç de suportar això.
+Tenim malalts que ho necessitem molt.
+Escolta'm Eduard, per acabar una miqueta amb tema aquest de les complicacions, a mi n'hi ha una que m'ha fet gràcia pel nom,
+però també per la fisiologia que hi ha implicada darrere, que és això de la síndrome de l'arlequí o que n'hi diuen la síndrome nord-sud.
+Ja ens has avançat quan parlaves de l'ECMO veno-arterial,
+Que si tens un cor que està funcionant, encara que malament,
+i... tens dues bombes funcionant simultàniament. Explica'ns una miqueta això de la síndrome aquesta.
+Això és una de les complicacions clàssiques que sempre es parla de l'ECMO veno-arterial.
+En el fons, el problema, la cosa que tens en un malalt en ECMO veno-arterial és que tens dues bombes i dos pulmons.
+Uns natius originals i uns de plàstic, entre cometes, que són els de l'ECMO.
+I com que els malalts normalment els canulem per via perifèrica per l'artèria femoral i la sang va en contra direcció, doncs...
+la sang d'ECMO xoca amb la sang que surt a través de l'aorta, de la vàlvula aòrtica.
+Llavors el que ens pot passar en determinades situacions quan el cor comença a recuperar i a ejectar més sang,
+és que si el malalt a nivell respiratori està molt afectat, aquell cor començarà a bombar sang desoxigenada,
+mentre que la sang d'ECMO vindrà oxigenada pujant des de les femorals cap a dalt.
+Llavors això és el que es coneix com a síndrome d'Arlequí o hipoxèmia diferencial.
+on el que passa és que el malalt comença a dessaturar l'hemicòs superior.
+mentre que l'hemicòs inferior, que l'està oxigenant l'ECMO, el tenim ben oxigenat i està bé.
+Normalment, si passa, és bo. Bo, perquè? Perquè tu has posat un malalt en ECMO perquè el cor no funciona.
+I perquè això et passi el cor ha de funcionar. Perquè si el cor no batega, tot el cos està oxigenat per l'ECMO i problemes d'hipoxèmia diferencial no en tenim.
+Llavors quan això ens passa, a vegades són malalts que hem de fer és canviar la configuració,
+Malalts que estaven en ECMO veno-arterial i que han d'acabar en ECMO veno-venós per seguir amb el suport extracorpori enfocat cap a la part respiratòria.
+Una pregunta. Necessitem moure 3-5 litres de sang per minut.
+Però què passa si el malalt el tenim sec? I té molt poc volum, què ens pot passar si el tenim hipovolèmic, per exemple?
+Doncs que no tindrem flux, i que tindrem problemes. Si no tenim prou volum intravascular
+com per drenar allò que el malalt necessita de suport, doncs serà un problema
+Si tenim un malalt exsanguinat, doncs no podrem donar-li suport en ECMO.
+Això és una de les coses importants, en un malalt en xoc hemorràgic l'ECMO no ens ajudarà gaire perquè no tindrem sang
+per drenar i per tornar si no aconseguim controlar el problema del sagnat.
+Llavors necessitem volum, sobretot inicialment tenir una vòlemia correcta que ens permeti assolir els fluxos,
+i després també és cert que, a mesura que el suport millora, com que ja no necessites tant suport
+es veu que els pulmons estan recuperats i tot, doncs allà sí que ja podem anar ajustant
+I en el fons, tots els malalts crítics necessiten balanç negatiu.
+No et preocupis, Albert,  perquè tè un catèter perquè li puguis posar tots els litres de sang que vulguis.
+I no és un 14. És un vint-i-... Ah no, perdona, aquests són els de succió, l'altre...
+No, però no posem... Penseu que la sang o el volum li administrem al malalt, no al circuit.
+amb el que, quan tenim problemes d'hipovolèmia, sagnat o així, necessitem passar-li líquid al malalt.
+Per això també, quan canulem un pacient, o ens desplacem a un altre hospital a posar un malalt en ECMO
+sempre insistim que tingui un bon canyo. Una via venosa perifèrica grossa o alguna cosa que ens permeti,
+si ens fa falta, passar bastant volum. Perquè sinó ens podem trobar un problema si no aconseguim un flux de sang suficient.
+Quan parlàvem d'això del volum, m'ha fet pensar que els malalts que teniu a l'UCI a vegades
+que estan molt justets, que els has de posar en teràpia substitutiva renal, en diàlisi o el que sigui, que l'acte aquest de buidar-los...
+O sigui, el volum del circuit, aquest quart de litre del circuit de diàlisi ja se'ls posa molt malament.
+Aquests quan els deus posar en el ciruit d'ECMO...
+Això és una cosa que m'he preguntat molt cops... Perquè et diria que es nota menys.
+Suposo que perquè allò mateix que estàs drenant ho estas tornant...
+És a dir, la sang triga molt menys des que inicies la teràpia i connectes el circuit
+pensant sobretot en un veno-venós, perquè en un veno-arterial, al revés, a la que inicies la pressió puja perquè de cop i volta li estàs posant un raig..
+Inicialment és sèrum, però a la que arriba la sang tot això va al territori arterial i les pressions arterials mitjanes pugen.
+Però a nivell d'un suport veno-venós, com faríem amb un hemofiltre, que tots hem viscut això,
+que comencem l'hemofiltre i que s'hipotensa i se li posa molt malament.
+Doncs amb l'ECMO sí que s'hipotensa una mica, però és transitori i sol ser menys.
+Perquè, ja et dic, en temps que triga, amb els fluxos als que anem, en no res ja estàs drenant sang i tornant sang.
+I llavors ja no té efecte hemodinàmic.
+Jo tenia una pregunta, alguna contraindicació absoluta, que no cal ni discutir-la,
+les teniu o depèn de cada malalt?
+En ECMO es diu que no hi ha unes contraindicacions absolutes,
+sobretot el  veno-venós, però després hi ha coses a tenir en compte.
+Una és l'edat, i és cert que l'edat sempre la tenim en compte,
+perquè aquests malalts han de tenir, per una banda, capacitat de poder-se recuperar d'una situació extremadament greu.
+I per l'altre, molts cops també han de tenir l'opció a poder tenir una sortida si no es recupera.
+Per exemple, el trasplantament cardíac o el trasplantament pulmonar en aquells malalts que no milloren, i totes aquestes coses estan limitades per l'edat.
+Després hi ha coses que no contraindiquen de manera absoluta però que ens fan les coses més difícils.
+Per exemple, malalts que tenen molts trastorns de la coagulació, de les plaquetes...
+Malalts que estiguin en un gran nivell d'immunosupressió, perquè s'infectaran més i tindran més problemes,
+Per exemple, malalts que ja són trasplantats, o malalts oncològics, amb malalties hematològiques.
+I sobretot l'esperança de vida. Jo us estava dient que un malalt el podem tenir 4 mesos en ECMO.
+Però si t'estàs 4 mesos, que vol dir estar-te'n 5 en una UCI, necessites anys per recuperar-te a nivell funcional.
+Llavors, basalment has de tenir una esperança de vida molt llarga, perquè si no és impossible de recuperar.
+Malalts que tinguin malalties terminals, amb una esperança de vida curta, no té cap sentit un suport d'aquest tipus.
+I els malalts que tinguin patologia crònica de l'òrgan, sigui pulmó o sigui cor,
+i que no siguin tributaris de poder-se trasplantar o d'una assistència ventricular de llarga duració,
+doncs són malalts que hauríem de contraindicar, perquè els podem posar en ECMO però després que podem fer?
+Perquè en aquests malalts mai s'espera una recuperació. Si ja tens un cor o uns pulmons que estan molt tocats,
+i empitjoren encara més el marge de recuperació que hi ha és nul.
+I de manera simultània podeu tenir diversos malalts? Quina és la capacitat màxima que teniu?
+En ECMO? uns deu, més o menys
+Deu, simultàniament?
+Sobre uns deu, sí.
+Molt bé, molt bé.
+Avui en tenim 3, en teníem 4 ahir, avui 3, va una mica a ratxes.
+Ara que ve l'hivern, suposo que pujarà.
+Interpreto que la majoria dels últims dos anys han sigut de Covid?
+O vaig equivocat?
+no, estem fent un terç de malalts...
+Nosaltres, eh? això cada centre canviarà.
+Nosaltres més o menys, tenim un terç de malalts en suport veno-arterial, amb problema circulatori, i dos terços de malalts respiratoris.
+És cert que com que els respiratoris són molt més llargs, tenim molts més dies en ECMO de malalt respiratori,
+que de malalt en suport cardiovascular, però en número de casos,
+ens solem moure a això, dos terços respiratori i un terç de circulatori, al nostre centre.
+Per acabar la part d'ECMO, que ja ens queda ben poquet, ja ens has comentat que els que en feu, en feu una pila. Uns cents anuals
+Més o menys on es fan. Cla, queda molta part de país, el rerepaís, que no s'ha ofert aquesta teràpia.
+Que s'han de desplaçar els pacients allà on la feu. Parlo del Principat, però també d'altres llocs.
+Em consta que de les illes també acaben a la Vall d'Hebrón i altres llocs. Que és el tema que aquests malalts s'han de transportar.
+Normalment, els que no tenim UCI, transportem els malalts fins a la UCI més propera, des que l'agafem que necessita UCI i l'entreguem.
+Perquè tenim aquest escalat. L'escalat de teràpia que podem donar a urgències fins l'escalat de la teràpia que pot donar la UCI.
+Però un cop a la UCI, desplaçar segons qui, que està en unes circumstàncies adverses, pot ser una condemna.
+I aquí és on entreu vosaltres, en la part de no desplaçar al malalt, sinó desplaçar la màquina.
+Exacte. No estic d'acord amb el que has dit que allà on no teniu ECMO no el podeu oferir,
+Perquè en el fons, o sigui l'ECMO és una tècnica molt complexa, on el que està molt clar és que el número de casos s'associa a la supervivència.
+I que els punts de tall que s'està parlant cada cop més, és que els centre d'ECMP haurien de tractar més de trenta malalts a l'any
+per tenir una bona supervivència, un bon aprenentatge, una bona experiència amb aquests malalts.
+Però no pugui haver-hi ECMO en un hospital comarcal, perquè no té sentit.
+No vol dir que l'ECMO no pugui arribar-hi si fa falta. És a dir, els centres d'ECMO el que fem,
+perquè de fet és cosa que portem cinc anys fent, que potser ara té més de nom perquè amb la COVID hem fet molts casos,
+però que l'any 2017, 2018, 2019 ja estàvem fent,
+És desplaçar-nos a aquells hospitals on no hi ha aquesta teràpia, on no hi ha ECMO,
+per canular i posar en ECMO aquells malalts que ho necessitin. Perquè el que hem de tenir en compte és que
+el malalt que té una indicació d'ECMO és un malalt generalment no transportable.
+No el podem pujar a una ambulància i fer-li recórrer 150 quilòmetres per carretera
+en una situació on tenim una insuficiència cardíaca o respiratòria refractària.
+Perquè moure'l té un risc de mortalitat molt alt.
+I en aquest context, és on els equips s'han de traslladar als hospitals on hi ha el malalt,
+posar el malalt en ECMO i després fer un transport secundari fins al lloc on...
+on després el puguin manegar i fer tota la resta de suport fins que el malalt avanci o mori, depenent del que faci.
+Això que expliques, a França, quan parlaves de l'epidèmia de la grip A, A França, en el seu programa...
+Perdò, en els seus plans de contingència, perquè altra cosa no sé, però plans de contingència en fan per tot.
+El pla de contingèncqia que tenien va suposar la creació de les unités mobiles d'assistance circulatoire,
+o assistance respiratoire, depenent de si ho portaven els pneumòlegs o no.
+que ja va suposar bellugar gent, és la primera experiència que conec, abans que la nostra és la d'ells.
+Que anaven pel mon a recollir gent a les UCIs, que estaven cascadets, els fotien la màquina i se'ls enduien.
+Això com ho fem nosaltres aquí, com està muntat?
+Doncs ara mateix el que fem aquí bàsicament és que hi ha...
+Això ha anat canviant, ara mateix, per la banda del SEM, des fa un parells d'anys aproximadament,
+tenim les unitats d'alta complexitat, que són dues unitats que principalment fan secundaris,
+però bàsicament són unitats amb un intensivista i un infermer de crítics.
+I que el que pretenen és donar suport als hospitals que no tenen crítics,
+i també fer aquests transports complexos. I aquestes unitats funcionen de manera conjunta amb els equips hospitalaris.
+És a dir, imagineu que en un hospital comarcal amb UCI, hi ha un malalt que té indicació d'ECMO.
+Doncs d'aquest malalt se'n parla amb el centre de referència i si es considera que té indicació,
+el SEM el que fa és enviar un vehicle llançadora, que sol ser una Mercedes Vito d'aquestes grogues ben maques,
+que recull l'equip. L'equip, cada hospital l'ha organitzat com ha considerat.
+Nosaltres en aquest equip sortim un adjunt d'UCI de l'equip d'ECMO, un cirurgià cardíac i dos infermers de l'equip d'ECMO.
+Portem el material necessari per posar el malalt a l'ECMO i tractar totes les complicacions.
+I posar el malalt en ECMO canulat per tots els llocs on es pugui.
+És a dir, tot allò que volem fer i allò que pot ser que haguem de fer si hi ha problemes.
+I amb aquest equip ens desplacem a l'hospital, revaluem el malalt, si veiem que està indicat, el canulem, el posem en ECMO.
+Llavors, després, de forma conjunta amb una d'aquestes unitats del SEM fem el transport de tornada, en aquest cas fins a la Vall d'Hebron.
+Això és l'estructura que estan seguint ara tots els hospitals que fan transport.
+I això és el que fem. Llavors, la via d'entrada, hi ha cops que se'ns truca directament i se'ns comenten els casos.
+ O si no, a través del SEM també entren per la taula d'interhospitalaris
+i es parla llavors amb els equips dels hospitals.
+I entenc que sempre des d'UCI a UCI. No et veurem mai a l'hospital de Figueres posant en ECMO un malalt.
+És molt, molt, molt estrany. No és impossible que passi, però és cert que normalment
+són malalts que s'han hagut d'optimitzar i que... Per exemple, un malalt amb xoc cardiogènic,
+la prioritat, si està a l'hospital de Figueres i està fatal i té un infart,
+és que arribi, en aquest cas al Trueta i poder-li obrir l'artèria.
+I llavors un cop allà, si no tira l'haurem de posar en ECMO, perquè si no aconseguim obrir l'artèria
+doncs no tractarem la causa, i demorar-ho tot a que arribi un equip i el posi en ECMO fins i tot pot ser contraproduent.
+O els malalts respiratoris soler tenir més marge. Són malalts que molts cops fins i tot fem seguiment: aquest malalt no acaba d'anar bé,
+el pronem un altre cop, veiem que passi la nit, demà tornem a avaluar
+I després d'estar una estona optimitzant, avaluant, a vegades dies, finalment es decideix la indicació
+I  transports? Aquests transports... Jo ara m'estic imaginant el transport i ja flipo.
+A la meva ambulància hi haig de posar, a veure: el malalt, bé, en portem,  respirador cap problema, monitor cap problema.
+Però ara hi haig d'afegir dos tios més, va, ja en trec un del meus i poso un de vosaltres que veniu
+Però n'hem de posar dos més, tres tios darrera, i la màquina. Màquina que no tinc fixació per posar
+Només la logística d'això ja m'està posant nerviós. Com us ho manegueu això?
+Ara sí que s'hi compta. Les unitats d'alta complexitat, les Quebec Alfa del SEM,
+compten amb suports específics per poder fixar les consoles, porten més oxigen,
+porten 6 bombes de perfusió, monitoratge de la pressió arterial invasiva integrada al monitor
+porten tota una sèrie de coses que ja ens permeten fer els trasllats amb més seguretat.
+Quan vam començar, la consola anava entre les cames, lligada a les corretges de la fusta espinal.
+Havíem d'agafar bombes de l'hospital, monitors de l'hospital per poder monitorar la pressió arterial de foma continua, totes aquestes coses
+Però, per sort, tot això és una cosa que hem anat millorant en aquests anys i ara podem fer amb seguretat
+L'equip ja sap com es distribueix, on ha d'anar cadascú, on ens asseiem i el que hem de portar
+De l'hospital ara mateix surt la part específica de l'ECMO per poder fer tota la canulació, tot el procediment, els fungibles, etcètera.
+I en el SEM ja hi ha tot el material específic per fer el transport amb seguretat, que és l'essencial també.
+La part bona d'això és que un cop ja els posat la màquina, ja no tens pressa.
+No, exacte, són malalts que un cop la màquina està posada el transport va amb calma.
+La pressa molts cops és en arribar per poder fer aquesta teràpia.
+Però per exemple, pel que fa al transport aeri, a Catalunya avui dia té poc sentit,
+perquè no tenim distàncies extremadament grans. I la pressa està en que l'equip arribi.
+Potser tindria sentit transportar, si tinguéssim helisuperfícies a tot arreu, als equips fins al lloc,
+però després, la tornada per terra sempre et dona més marge de resolució de problemes i complicacions
+I que triguis... És que la UCI més llunyana de Barcelona és Tortosa i són dues hores i una mica més
+Doncs d'ECMO no sé si hi ha alguna cosa més a parlar, perquè sinó anem al que m'interessa.
+Perquè l'ECMO és el tractament d'últim recurs per gent que està
+molt feta malbé, i se m'acudeixen poques persones més fetes malbé que les que estan en aturada càrdio-respiratòria
+I aquí és on jo tinc la sensació... A mi em queden uns quants anys per jubilar-me i tinc la sensació que alguna RCP acabaré veient que acaba amb la màquina.
+Tant de bo
+No ho sé, això dependrà de com evolucioni. La idea que subjau darrere això aixpo canvia completament
+el pensament que tenim de la RCP. Amb la reanimació càrdio-pulmonar el que pretenem és que el cor torni a funcionar,
+perquè un cop el cor torna a funcionar, tot torna al seu lloc.
+Aquí, de cop i volta, el que ens trobem és que tenim una màquina que ens permet mantenir el cervell viu mentre arreglem el problema.
+I això canvia una miqueta les coses. Fins ara el problema que teníem era que podíem arreglar un cor 20 minuts després que s'hagués aturat,
+però ja no teníem cervell que sostingués el cos un reanimaven aquest cor.
+I ara amb aquesta màquina podria ser que tinguéssim alguna cosa a fer mentre resolem un problema que abans era irresoluble
+o que mentre el resolíem se li moria el cervell a la víctima.
+I això fa uns anys que va sorgint, que ho vaig seguint i la veritat és que és molt interessant.
+Eduard, quina experiència... vosaltres vau fer un cas fa un parell o tres d'anys, fa uns quants hiverns,
+que és el cas paradigmàtic del qual parlo, que és una reanimació extracorpòria d'una pacient,
+en aquest cas una hipotèrmia accidental a la muntanya.
+Exacte
+De les hipotèrmies accidentals són les menys habituals, les que passen a la muntanya, la majoria són en circumstàncies socials malparides.
+D'això tenim pendent parlar-ne, de la hipotèrmia, oi Xavi?
+Sí, sí
+Doncs vau tenir aquest cas que no sé quanta estona d'RCP, múltiples possibilitats d'haver aturat abans,
+no es va aturar i es va acabar portant a la Vell d'Hebron on li vau posar la maquineta
+i ara aquesta senyora la tenim fent bolos dient que està a la mar de pinxa i vivint la seva vida d'abans.
+No ho sé, és que em sembla que ho he explicat tot jo ja. Com funciona això de l'RCP extracorpòria?
+La ressuscitació cardiopulmonar d'extracorpòria, l'ECMO-RCP,
+en el fons és un canvi de paradigma en el maneig de l'aturada cardíaca,
+perquè el que ens passa quan se'ns atura el cor és que, per suposat, intentem reanimar,
+però a mesura que anem intentant-ho, si no ho aconseguim, doncs cada cop estem més isquèmics,
+i arriba un moment que tota la isquèmia del nostre organisme, l'acidosi i tot el que tenim, doncs ja ens fa que no sortim
+i que arribem a un punt d'una situació irreversible.
+L'ECMO doncs ens canvia aquest punt de vista
+perquè un cop entrem en ECMO, la circulació es restaura,
+els òrgans es reperfonen, el cervell també,
+i tanquem i aturem aquell bucle d'acidosi, isquèmia global, mort
+i llavors podem tractar i arreglar la causa de l'aturada cardíaca.
+I això, igual jo crec que us deia abans, que hem après que els pulmons, si els deixem en pau, es poden recuperar,
+amb l'ECMO el que hem acabat veient és que el cervell,
+si fem una RCP de alta qualitat,
+té molta més capacitat d'aguantar que pensàvem.
+És a dir, jo crec que ningú de nosaltres amb RCP convencional
+pensaria que una persona pot estar viva i recuperar-se neurològicament després d'estar 45 minuts aturada.
+Però el que és que després de 45 minuts de RCP no es recupera ningú, ningú surt, però ja no és que no es recuperi el cervell,
+sinó que difícilment o rarament es reverteix aquella situació d'aturada cardiorespiratòria .
+Però amb l'ECMO el que estem veient és que sí, que podem sortir de la situació d'aturada cardiorespiratòria ,
+de fet, sortim de manera pràcticament immediata a l'entrada d'un flua de sang,
+i per altra banda, si hem aconseguit mantenir aquell cervell perfós i perfós de la millor manera possible
+durant aquell temps, doncs hi ha opcions. I això ens canvia una mica...
+probablement la manera de fer i de pensar a tots aquells que la ressuscitació cardiopulmonar
+és una cosa que ens apassiona, que ens agrada, i que fa molt temps que hem estat
+intentant fer RCP de la millor manera possible, doncs l'ECMO és una eina
+i probablement és la cosa que més impacte ha tingut en els últims anys en termes de ressuscitació cardiopulmonar
+Ens passem el dia posant adrenalina sense evidència,
+sabem que les compressions i la desfibril·lació precoç sí que ens ajuden,
+sabem que la via aèria potser no és tan important, el maneig avançat,
+però no hi ha pràcticament cap intervenció que hagi demostrat en un estudi fer un canvi tan important
+en la supervivència com l'aplicació d'ECMO amb aturada cardíaca.
+Això que comentaves dels números, d'aquestes millores.
+Hi ha l'experiència d'un senyor i el seu equip, evidentment, als Estats Units, a Minnesota,
+que va engegar un estudi que van haver de parar després de 30 pacients
+perquè l'estudi era un aleatoritzat a dues branques, una branca de teràpia convencional i una branca que els posaven sota extracorpòria, sota reanimació extracorpòria,
+i del grup de control, el grup normal, van sobreviure dos de 15,
+que és més o menys les supervivències que estem habituats, que és al voltant d'aquest 10% una miqueta més,
+i en canvi en el grup en què aplicava la teràpia, dels 16, n'hi van sobreviure 9.
+O sigui, estem parlant de supervivències que arriben o superen el 50% quan estem acostumats a tenir supervivències de l'ordre del 10%.
+L'estudi, evidentment, es va aturar per qüestions ètiques, és a dir, s'havia d'oferir la teràpia que estava a estudi, s'havia d'oferir a tothom perquè era imbatible.
+Aquesta és una experiència que potser és excepcional,  és el Yannopoulos no sé què, ja posarem referències a l'episodi,
+i n'hi ha hagut d'altres que segurament tu, Eduard, coneixes amb més profunditat i potser ens vols explicar.
+Sí, ara mateix, en referència a l'ECMO, en ressuscitació cardiopulmonar,
+en els últims dos anyets hem tingut dos assajos clínics publicats,
+després de moltes experiències d'aplicació de protocols, experiències de casos, coses així,
+finalment hem aconseguit aquells estudis que els científics consideren bons, que són els assajos clínics aleatoritzats,
+que en ressuscitació cardiopulmonar són complexos de fer.
+Una és la de'n Demetris Yannopoulos, que és el que esmentes, d'Estats Units, de Minnesota,
+i l'altre gran estudi que ja es fet a Praga, on la idea... és un plantejament diferent dels dos estudis,
+però els dos una mica ens han vingut a dir el mateix. I el mateix què és?
+Que quan tu portes aturat molts minuts no sobrevius fent RCP convencional,
+però que en canvi, si posem els malalts en ECMO, doncs les opcions de supervivència hi són, i no són menyspreables, no? I no són dolentes.
+Això sí, seleccionant molt i molt bé aquests malalts. Els estudis són diferents perquè l'estudi de Yannopoulos,
+el que tu comentaves, el que feien era agafar malalts en fibril·lació ventricular amb aturada càrrega extrahospitalària,
+i com és un model americà, aquells malalts els transportaven a l'hospital.
+I quan el malalt arribava a l'hospital, l'aleatoritzaven... El que feien era transport precoç dels malalts,
+després de la tercera descàrrega, càrrega i te'n vas,
+i a l'arribada a l'hospital, un cop entrava a urgències, s'aleatoritzava si el malalt es posava en ECMO o si seguia el RCP convencional.
+I en aquest punt és on els resultats eren tan, tan, tan marcats, diferents
+que clarament l'estudi, a la primera subanàlisi, el van haver d'aturar, perquè és això, en una branca que la gent vivia fins a la meitat, i a l'altre es morien tots,
+perquè de fet, dels que van sobreviure inicialment, ningú va sortir de l'UCI, la supervivència va ser nul·la.
+En canvi, si mirem l'estudi de Praga, l'estudi de Praga potser és un estudi més realista,
+que el que han fet és aleatoritzar in situ, equips, perquè també el model de Praga és més semblant al nostre,
+són ambulàncies medicalitzades que atenien una aturada cardíaca i que també després, en els primers minuts de RCP aleatoritzaven
+si seguien fent RCP in situ o si transportaven el malalt fins a l'hospital per fer, doncs, ECMO-RCP.
+L'estudi de Praga, en els resultats globals, doncs no ha sortit significativament,
+però és cert que tenen una supervivència molt bona a les dues branques, 
+és a dir no han aconseguit significació estadística amb 265 malalts, aproximadament, si no recordo malament.
+No han aconseguit diferenciació estadística, però clar, amb supervivències vora el 40% a les branques de control,
+però si mirem el subgrup d'aturades més llargues, ens tornem a trobar que els malalts només sobreviuen amb ECMO.
+És a dir, aquells malalts que van estar aturats 45 minuts, pràcticament tots els supervivents van ser en el grup ECMO
+i els supervivents que estan al grup control són malalts que es van creuar de branca,
+i que com que es va fer una anàlisi per intenció de tractar han estat analitzats com a grup control i no grup d'intervenció,
+però que realment van ser ressuscitats amb ECMO. Això sobretot a les aturades més llargues.
+Amb el que tenim una evidència important dient-nos que en un perfil de malalt molt seleccionat,
+si no surt de l'aturada amb les mesures convencionals durant els primers minuts,
+potser ens hem de plantejar un canvi d'estratègia, perquè el temps, com sabeu, sempre en una aturada càrdiaca juga en la nostra contra, i l'ECMO és una opció.
+I quan parlem que el temps juga a la nostra contra, aquí entraríem en...
+Està clar que no té gaire sentit aplicar l'ECMO en els minuts inicials,
+perquè precisament en els minuts inicials és quan trauràs els que són més fàcils de treure, els que pots desfibril·lar ràpid,
+perquè s'han aturat fa poc i els pots desfibril·lar i els tornes de seguida. Potser diguem-ne als de mort súbita cardíaca, per entendre'ns, els primers minuts.
+Totalment.
+Però després, a partir d'aquí, entres en aquest període de temps que es va allargant, i que a mesura que vas entrant ja no podràs sortir, perquè no podràs reanimar.
+I aquí és on ens anem a l'altra banda. És a dir, a la primera banda té poc sentit fer l'ECMO en els primers minuts,
+i quan ja en portes molts, té sentit fer-lo. Però clar, entremig has tingut el cervell patint.
+El temps de no-flow, que no s'estan fent maniobres, és molt important. És a dir, aquí és la primera baula de la cadena de supervivència, és començar, 
+avisar i tal, i començar les compressions cardíaques de qualitat i la desfibril·lació precoç.
+Per tant, no-flow és molt important, però després el temps de low-flow, és a dir, el temps en què estàs fent massatge, tampoc pot ser etern.
+Llavors, suposo que hi ha algun punt de tall que seria aquest punt, el sweet spot, aquest lloc dolç en el qual has de decidir canviar.
+Exacte.
+I aquí és on, en el cas de... Suposo que en el cas de Praga crec que eren 15 minuts,
+els 15 minuts inicials, igual que els de Minnesota, 15 minuts in situ.
+Si als 15 minuts no has sortit, ens plantegem el canvi.
+Què passa?
+Tu decideixes això els 15 minuts quan estàs a fora, però després has d'arribar. I aquí passa un altre temps preciós.
+És evident que quan es transporta, no es transporta... O sigui es transporta amb compressor mecànic.
+Lògicament, perquè no faràs maniobres... No el deixaràs sense fer maniobres, perquè llavors tens un no-flow massa llarg i, per tant, el cervell ha mort.
+I tampoc aniràs fent massatge dins del cotxe perquè et sortirà un xurro, a part que et faràs pupa.
+I el temps aquest és potser aquest moment, no? Quan s'han de decidir les coses, és on és malparit.
+I això em porta al cas que és una altra aproximació, que és, si tan important és el temps,
+perquè en comptes de moure el malalt no movem la màquina una altra vegada.
+I seria l'experiència de París, que també fa uns quants anys que dura, i en canvi aquí els números no són ni de bon tros com els bons que han estat els altres.
+A París, sí, això és una altra modalitat. I aquí has comentat diverses coses.
+El temps és essencial i quan fem referència al temps el problema és...
+És a dir, jo tinc molt clar que en els primers minuts d'RCP el que hem de fer és reanimació cardiopulmonar, suport vital avançat de la millor manera possible,
+perquè això és el que segueix tenint més evidència i més opcions de supervivència pel malalt.
+També tinc molt clar que als 45 minuts d'aturada cardíaca, si no l'has tret, aquest malalt posa'l en ECMO perquè és que no té cap altra alternativa o està mort.
+Entre mig, no?, diguem, probablement, entre aquells 15 i aquells 30 minuts,
+doncs és quan dius, home, a mesura que els minuts van sumant cada cop és més improbable que el tregui de la situació d'aturada cardíaca
+i, per altra banda, doncs, si he d'arribar a l'ECMO, doncs a vegades l'ECMO està lluny, no?,
+i això, doncs, és on hem de considerar...
+El que tambs és cert és que hem de ser conscients que posar un malalt en enigma no es fa en dos minuts, per molt que ho fem molt i molt ràpid i molt bé,
+però comporta un temps que no és menyspreable, que ens pot anar, doncs, al voltant de...
+Depèn de si és la canulació in situ, o sigui, la canulació en si, o tot el procés, no?, de valoració del malalt, decisió,
+preparació, equip, canulació, però és fàcil que ens anem al voltant dels 20 minuts.
+Llavors, clar, això és una cosa a considerar quan indiquem, no?, en quin moment hem de posar els malalts en ECMO i tal.
+I després hi ha un altre tema important, que és, d'acord, si hem de posar els malalts d'aturada cardíaca, com ho fem.
+Crec que són dues caixes prou grosses. No sé si de quina vols parlar primer, perquè ja, no?, poden donar bastant de sí, tant una com l'altra.
+Doncs parlem de quins malalts entraríem en ECMO, va, primer. En ECMO-CPR.
+Llavors, les indicacions, no?, quan indiquem quan posem els malalts en ECMO,
+en si, tornem una mica a allò d'abans, que han de ser malalts joves, que tinguin una bona esperança de vida,
+i que el malalt ideal és aquell que presenta una mort sobtada. És a dir, un malalt que estava tot perfecte i s'atura de cop.
+És a dir, que l'aturada cardíaca no és la fase final d'alguna altra patologia o malaltia.
+Llavors, normalment, el que se selecciona són malalts joves, que hagin tingut un episodi d'aturada cardiorespiratòria ,
+que aquesta ha de ser presenciada, perquè hem de poder determinar els temps que han passat, i que el temps de no-flow, que deies tu,
+és a dir, el temps sense maniobres, l'ideal és que sigui zero. I si no és zero, que sigui el mínim, mínim, mínim possible,
+perquè això sí que determinarà bastant la situació neurològica amb una RCP tan perllongada.
+I que, a més, tingui ritme elèctric.
+Generalment, la majoria d'estudis, de fet, el de Minnesota només va seleccionar malalts amb fibril·lació ventricular refractària,
+el de Praga no limitava per ritme elèctric, però la supervivència de subgrups
+en els malalts amb fibril·lació ventricular va ser també vora el 45%, mentre que en ritmes no desfibril·lables va ser molt més baixa.
+Els malalts en asistòlia els contraindica generalment tothom, sobretot quan és una asistòlia inicial,
+entenent que l'asistòlia sol ser la fase final de qualsevol dels altres ritmes i que ens sol indicar que anem tard , no?
+amb el maneig d'aquesta aturada cardíaca o que, per altra banda,
+que les compressions o la RCP de qualitat que estem fent doncs no ho és tant, perquè no estem mantenint oxigenat el cor i hem acabat perdent el ritme.
+I que puguem estar en ECMO, els objectius generals, és que puguem estar en ECMO dins dels primers 60 minuts de l'aturada cardíaca.
+És a dir, que en la primera hora d'aturada cardíaca hem de poder tenir el malalt connectat al nostre circuit i en ECMO.
+Tot això parlant sempre d'aturades, per suposat, normotèrmiques.
+En hipotermia accidental, les coses canvien, tenim molt més marge i tenim moltes més opcions de supervivència
+i l'ECMO ens permetrà, per una banda, recuperar l'aturada cardíaca, però també fer el rescalfament i tractar la causa.
+És una cosa molt particular que pot donar també de sí i que, bueno, allà està.
+Però si no, és això: jove, ritme elèctric, aturada presenciada, temps sensecRCP mínim, molt baix,
+i que puguem estar en ECMO dins d'aquells primers 60 minuts amb malalts que tinguin opcions.
+És a dir, que siguin malalts que tinguin bona esperança de vida, que no tinguin malalties terminals, etcètera.
+O sigui, que si tens 60 minuts, vol dir 15 de RCP de qualitat, més 20 minuts que vosaltres poseu tot l'ECMO en marxa,
+que ens queden 25 minuts per fer el trasllat, no?
+Sí, menys de mitja hora de transport.
+Menys de mitja hora.
+Sempre i quan... Clar, penseu el tema és que molts cops també, si és una aturada en via pública,
+entre que actives, mous el recurs, arriba l'ambulància, han passat entre 5 i 10 minuts,
+això si està a prop, després valores tot, comences, tot, comences, tot i que s'intenti que l'equip hi pensi
+i activi les coses ràpid, després amb escena, tots sabem que els temps, els 15 minuts passen.
+Tu penses que en portes 4 i en portes 15, després el malalt s'ha de poder transportar,
+és a dir, que has de poder-lo treure, mantenir la RCP de qualitat, perquè si no ho mantens la RCP de qualitat no té cap sentit,
+perquè amb una aturada tan llarga, si no tenim una RCP d'altíssima qualitat que ens permeti tenir el cervell perfós, no anirem enlloc.
+I aquí és on entrem, a l'altra part, que és on fer, com fem aquesta reanimació, no?
+És RCP extracorpòria in situ allà on estem o traslladem on hi ha la màquina i la gent que la sap fer anar?
+Clar, en aquest sentit hi ha diferents models.
+El model estàndard, que és el més extens del món, és el que estem fent nosaltres, el que s'està fent a altres llocs,
+és que els malalts amb atura de cardíaca refractària arribin a l'hospital.
+I això és el primer, o la cosa que necessita, doncs, molta coordinació i molt treball al darrere.
+Però portar aquells malalts que ho requereixin al lloc on hi ha els experts que poden aplicar aquesta tècnica d'una manera senzilla, entre cometes, no?,
+sense ser-ho, perquè no ho és, però amb una cosa que està més per la mà i que es pugui aplicar.
+Però és cert que d'aquesta forma molts cops ens acabem limitant a les aturades cardíaques en via pública,
+perquè aturades en domicilis, en zones urbanes, on hi ha pisos, escales, ascensors petits, etcètera,
+És difícil, des que el malalt s'atura en un quart pis, que puguem estar en menys de 45 minuts en un centre hospitalari...
+Que sempre serà un quart pis sense ascensor. Els quarts pisos mai tenen ascensor.
+O no s'hi cabrà o el que sigui, no? És difícil, és difícil temporalment, no?, amb el que... el problema que hi ha, 
+doncs, amb el model aquest, que és, ja us dic, el més estàndard, doncs és que sempre hi ha un perfil de malalt que se'ns queda fora.
+Se'ns queda fora i que no arribem a ell i que no aconseguim posar-lo en ECMO i això, doncs, bé, és un problema, no?
+Llavors, per intentar solucionar... Bé, tenim aquest problema. L'altre problema que també tenim és, en el fons,
+és la distribució a nivell geogràfic dels recursos, dels hospitals d'ECMO, no?, i de la població.
+És a dir, que a vegades el malalt sí que és evacuable, però està massa lluny.
+Pot ser un malalt que s'hi hagi aturat a la via pública, però que si és a Vic, no arriba a Barcelona,
+per molt que correm, que l'ambulància ho pensi i que tingui... no? No arribarem mai a temps.
+Llavors, per intentar millorar això, doncs hi ha diferents models que han intentat extendre l'ECMO-RCP
+fora d'aquells centres de referència.
+Llavors, hi ha models intermitjos, que també són, no?, per exemple, els models que s'han aplicat a Minnesota,
+on el que es fa és traslladar els equips experts en ECMO a hospitals, punts de trobada, diguem, no?,
+entre els equips d'emergències i l'equip d'ECMO per poder procedir a posar el malalt en ECMO, canular-lo, etcètera, i després fer el transport,
+o el cas més extrem que s'aplica principalment a París, van ser pioners, el SAMU de París,
+però després hi han hagut altres sistemes d'emergències que han adoptat, o que estan intentant adoptar aquest model,
+que és agafar gent experta, no?, que en sàpiga l'ECMO i posar-la en un vehicle que estigui 24-7,
+o les hores que es pugui, no?, perquè després a vegades no s'ho ofereix 24-7, això,
+per poder assistir in situ al malalt que ho necessita i canular-lo in situ i poder d'aquesta manera doncs arribar a l'ECMO en uns temps raonables.
+Això una mica les opcions que tenim, o les maneres que hi ha de poder aplicar aquesta ECMO-RCP amb els malalts amb aturada cardíaca.
+I encara no tenim clar quina és la millor en aquests moments.
+Bé, quina és la millor... Probablement la millor és una suma de totes.
+És a dir, jo crec que aquell malalt... que pot estar en 10-15 minuts a l'hospital ha d'arribar a l'hospital, perquè és on tenim...
+On hi ha tots els mitjans per resoldre les complicacions, hi ha sang, hi ha hemoderivats, hi ha cirurgians,
+hi ha també la terapèutica que necessitarà després, sigui el cateterisme cardíac, el que faci falta.
+Però aquell malalt que no pot estar en 10-15 minuts a l'hospital on li poden oferir això, doncs hem de buscar la manera de... Assumint altres riscos,
+perquè, en el fons, canular al mig del carrer o en un domicili doncs té més riscos
+i hi ha complicacions que allà probablement no es podran tractar, i que sí que es podrien tractar a l'hospital,
+doncs fent una balança risc-benefiis, bé, es pugui aportar.
+També hi ha un tema de cost-efectivitat, hi ha moltes coses que avui encara no sabem, és a dir, quina realment és la incidència d'aquests malalts,
+val la pena tenir una unitat, uns recursos de tal complexitat i tan específics, limitats només a això, com ho hem de fer...
+Sí, encara hi ha molts interrogants, en aquest sentit.
+I ja per anar acabant, com ho estem fent aquí? Aquí podem fer reanimació extracorpòria, al Principat de Catalunya, per exemple?
+Doncs a Catalunya, més que poder fer, n'estem fent.
+N'estem fent. Tu comentes el cas de l'Audrey, d'aquesta hipotèrmia accidental,
+això és un cas de ressuscitació cardiopulmonar extracorpòria, que vam fer el 2019 i el primer cas l'havíem fet el 2017,
+és a dir que és una cosa que s'està fent i el que ens manca és una mica més d'organització i de coordinació.
+Aquest any nosaltres, per exemple, portem 23 casos, que no és un número menyspreable,
+però jo crec que fa falta que ens acabem d'organitzar, coordinar, i això significa que tinguem un codi de preavís hospitalari,
+que tinguem tot un circuit molt més ben establert per intentar, d'entrada, que els malalts que puguin beneficiar-se
+i que estiguin en una zona on es pugui fer, arribin a aquells hospitals que els poden oferir aquest tipus de suport.
+Més enllà, després el que hem de planificar i hem de plantejar és arribar a malalts que estan més lluny.
+I aquí hi haurà més dificultat, perquè fer una ECMO-RCP no és fàcil, no ho és.
+Necessitem dos equips molt coordinats, fent dues coses molt complexes. Una és portar un suport vital avançat,
+que a vegades ja sembla en un hospital una cosa com dificultosa, molt caos, i l'altra és posar un malalt en ECMO, que també ho és, de manera simultània.
+I amb un malalt, doncs, no, i això, aturat, amb tot el que suposa, amb les presses, perquè saps que el temps va en contra.
+Amb el que per arribar a fer això, necessitem equips molt entrenats que puguin, doncs, o això, sortir de l'hospital, poder-ho fer fora, fer-ho al carrer,
+o entrenar també hospitals que puguin, doncs, almenys començar aquest tipus de suport.
+Jo penso, i això, de fet, això, ho penso jo plenament, però és una cosa que ja...
+Jo vaig anar a Estocolm, jo vaig formar-me en la ECMO a Suècia, i allà ja em deien, fa uns quants anys, quan hi vaig anar,
+que probablement en no massa temps hauria d'haver-hi una màquina d'ECMO a tot laboratori d'hemodinàmica,
+perquè tot el lloc on s'atenen aturades cardíaques, i hi arriben infarts i tot,
+doncs, allò és molt susceptible que un malalt s'aturi, que tingui indicació d'ECMO-RCP.
+I probablement la via per intentar estendre més l'ECMO-RCP fora dels 3, 4 hospitals
+que ho podem oferir a l'àrea metropolitana, doncs, és que allà on hi hagi un laboratori d'hemodinàmica 24-7,
+el malalt es pugui, com a mínim, canular, connectar la màquina,
+i després, amb el recolzament dels centres de referència, doncs, estabilitzar i transportar, no?,
+de tornada cap a l'hospital terciari, on facin tot el tractament i tot lo posterior.
+Perquè, Eduard, vosaltres, els hospitals de Barcelona, els grans hospitals, sempre esteu preparats per rebre algun malalt?
+O són com guàrdies que us aneu tornant, depèn del dia és Vall d'Hebron o depèn de quin dia és el clínic?
+Ara no tenim una... No hi ha un... O sigui, hi ha un circuit extraoficial, per dir-ho d'alguna manera. O sigui, no hi ha un codi oficial extrahospitalari.
+Nosaltres tenim capacitat per atendre 24-7, perquè ja ens hem organitzat així,
+perquè atenem també l'aturada intrahospitalària, i perquè el volum, al final, que tenim, no?, per hospital i tot, doncs, ha portat a la necessitat, no?,
+és a dir, a mesura que ens hem après més, ara ens hem organitzat de manera que, dins l'equip d'ECMO,
+doncs, sempre hi ha algú cada dia, diguem, que tingui la competència completa, que pugui assumir canular un malalt d'aquest tipus.
+Però, bé, però penseu que, si ja parlem que l'ECMO ha d'estar concentrada en hospitals,
+dins dels hospitals tampoc està a tot arreu. I dins de... És a dir, nosaltres, per exemple, som una UCI molt gran, som una UCI on som més de 45 adjunts,
+però som 12, només, que som els que ens n'anem a canular malalts fora de, no?, en altres centres o que canulem les situacions d'ECMO-RCP.
+És a dir, que necessites molta experiència, molt d'aprenentatge i molta formació continuada per mantenir l'habilitat i la competència,
+amb la qual... O ho redueixes, o, al final, tothom fa una mica de tot sense saber ningú de res.
+I això és una cosa complexa. Llavors, nosaltres sí que podem assumir un malalt sempre, sempre, vull dir, ara mateix, tots els dies de l'any, no?, a qualsevol hora que arribi.
+I la resta d'hospitals, doncs, no ho sé, perquè això ja depèn de l'organització pròpia interna de cadascú.
+I les RCPs que teniu intrahospitalàries, aquestes sí que ho teniu més protocol·litzat,
+de dir, a partir del minut 15 o minut que sigui, ja contemplem...
+En el nostre... 
+Digues, digues.
+El protocol d'ECMO-RCP el vaig fer l'any 2018. O sigui, que ja portem uns quants anys, no?,
+que almenys jo, no?, és una cosa que sempre m'ha apassionat i que anava molt al darrere.
+I el que vam posar va ser el criteri d'indicació a partir dels 15 minuts de RCP que no funcioni i a partir d'allà, doncs, muntar, organitzar i fer.
+He de dir que normalment surten més maques les coses i més quadrades en les aturades extrahospitalàries que a les intra,
+perquè a l'extra, el SEM avisa, agafem, ens organitzem, repartim els rols, preparem el material,
+tot ho tenim allà esperant, arriba el malalt i tothom sap què ha de fer a les extrahospitalàries.
+En canvi, quan és a l'aturada dins, ja sempre hi ha més caos, perquè és allò de, hòstia, uns estan fent tot això,
+intubant, el suport vital, el altres pensant, el LUCAS, ai, que si l'ECMO espera, no sé quantos...
+Però sí, sí, el protocol el tenim als 15 minuts i a partir dels 15 minuts, doncs, engeguem, diguem, el procediment, canulem el malalt i entrem en ECMO.
+I, bé, si és malalt, normalment no reverteixen peri... els que venen de fora mai, perquè són malalts que porten aturades molt més llargues
+i a les intrahospitalàries és comú que el malalt... perquè ja és això, amb el temps, més del que tu trigues després a muntar i fer-ho.
+I per anar acabant ja, perquè t'hem robat ja massa temps, tirant una miqueta d'aigua freda en aquest entusiasme que porto a sobre,
+no hi ha el risc que, clar, amb la reanimació extracorpòria, salvarem, entre cometes, la idea és salvar més cervells, salvar més gent.
+Però és clar, també ho intentaràs amb molta més gent, que ara ja no arriben, perquè són malalts que es declaren morts in situ, allà on sigui que RCP no avança.
+No hi ha el risc que comencem a omplir les UCIs, o sigui, que omplim encara més les UCIs de més malalts, que fins ara no existien perquè morien abans?
+Això s'ha mirat, no s'ha mirat?
+A veure, és cert que hi ha bastantes coses en aquest sentit a tenir en compte.
+Per una banda, estem parlant d'un perfil de malalt que té molta vida per davant,
+és a dir, seleccionant les indicacions són malalts joves sense comorbiditats amb la qual cosa val la pena invertir recursos,
+en el sentit que són malalts que tenen molts anys de vida per davant i poden aportar moltíssim a la societat, i que tenen molta capacitat de recuperació, etcètera.
+Llavors, per altra banda, són malalts que els que van bé, ocupen dies de UCI, etcètera,
+però per un malalt que va bé, és una ocupació molt ben invertida.
+I el malalt que va malament, sol anar malament en els primers dies,
+és a dir, el suport en ECMO sol ser curt, són suports de dos, tres, quatre, cinc dies, com a molt,
+i la majoria de malalts, els que moren, moren els primers dies, sigui per fallida multiorgànica, que és la principal causa de mortalitat,
+o, si no, per seqüeles neurològiques molt severes, com mort encefàlica o dany cerebral establert, molt important, no?
+Amb el qual no són malalts que es quedin durant mesos a les UCIs estancades, generalment. Són malalts que es poden ser molt dinàmics, també és cert que, clar, la mortalitat és alta.
+És una intervenció on hem de ser conscients que, si tot va bé, dos de cada tres malalts es moriran,
+amb la qual cosa això ho hem de tenir clar, ho hem de tenir parlat a nivell dels equips,
+perquè és una cosa que inverteix molt temps i molt esforç personal a tots els intervinents, i els resultats no són macos en moltes situacions.
+Per això és important que seleccionem els malalts i que estem ben organitzats, perquè, si no, són malalts complexos,
+que esgoten mentalment moltíssim, i que hem de ser conscients de tot això.
+Però jo crec que val la pena, i tant, perquè la supervivència comparativa
+amb el perfil de malalt que estem posant en ECMO és nul·la, amb el qual, tot i que tinguem un 30% de supervivència,
+que jo crec que això és molt més realista que els assajos clínics, perquè els assajos clínics ja sabem que sempre sobreseleccionen i escullen molt,
+doncs 30 versus 0 és molt, en una persona de 45-50 anys que acaba tenint una mort sobtada.
+Molt bé. Doncs no sé si hi ha alguna cosa més. Tu, Xavi, tens alguna cosa més que se t'acudeixi per preguntar?
+Home, jo penso que ja hem estat una hora i mitja, em sembla, una hora i alguna cosa.
+Sí, sí, sí, portem molta estona. Doncs em sembla que ho deixaríem aquí.
+Jo, evidentment, et preguntaria aquí coses intrínseques, bé, masses coses.
+Penso que ens podríem emplaçar que quan en algun moment futur, no massa llunyà, espero,
+comencem a establir l'ECMO-RCP com una cosa normal, 24-7, a tot arreu, o com a mínim a gran part del territori,
+llavors ens podem emplaçar per parlar de com ens han estat anant els principis d'aquesta nova activitat que segurament veurem i no trigarem, em sembla
+Tant de bo. Tant de bo. I així aquí estarem.
+Molt bé, Eduard, moltes gràcies.
+Doncs aquí acaba aquest episodi especial, ens parlem en el proper. Que vagi molt bé.
