@@ -1,3932 +1,983 @@
-1
-00:00:00,000 --> 00:00:10,000
- El podcast d'urgÃ¨ncies i emergÃ¨ncies mÃ¨diques en catalÃ .
-
-2
-00:00:14,000 --> 00:00:19,000
- Benvinguts de nou a l'EMPODCAT, que com tots ja sabeu,
-
-3
-00:00:19,000 --> 00:00:23,000
- Ã©s un espai en el qual conversem una miqueta i expliquem alguna cosa
-
-4
-00:00:23,000 --> 00:00:26,000
- sobre les urgÃ¨ncies i emergÃ¨ncies sanitÃ ries.
-
-5
-00:00:26,000 --> 00:00:30,000
- Un podcast conduÃ¯t per un equip multidisciplinari i multicÃ¨ntric.
-
-6
-00:00:30,000 --> 00:00:34,000
- Per un costat tenim l'Albert. Hola, Albert, bon dia.
-
-7
-00:00:34,000 --> 00:00:37,000
- Bon dia, bona nit, bona tarda, bon el que sigui.
-
-8
-00:00:37,000 --> 00:00:42,000
- Explica'ns alguna cosa d'on treballes i per la gent que ens segueix per primera vegada,
-
-9
-00:00:42,000 --> 00:00:44,000
- que fins i tot ens coneixen una miqueta.
-
-10
-00:00:44,000 --> 00:00:47,000
- Si hi ha nous oients, sempre benvinguts.
-
-11
-00:00:47,000 --> 00:00:51,000
- Jo soc l'Albert Om, soc infermer d'urgÃ¨ncies i emergÃ¨ncies.
-
-12
-00:00:51,000 --> 00:00:55,000
- Treballo ara mateix a l'Hospital de Cerdanya, un centre binacional.
-
-13
-00:00:55,000 --> 00:00:59,000
- Que hi ha a la Cerdanya, a la Cerdanya catalana, als Pirineus catalans.
-
-14
-00:00:59,000 --> 00:01:04,000
- I tinc un blog que es diu MRmedpirineus, l'urgÃ¨ncia mÃ¨dica al Pirineu,
-
-15
-00:01:04,000 --> 00:01:09,000
- mrmedpirineus.cat i tambÃ© les xarxes socials corresponents.
-
-16
-00:01:09,000 --> 00:01:12,000
- El Twitter, Mastodon, per qui no el conegui,
-
-17
-00:01:12,000 --> 00:01:15,000
- quan Twitter acabi de petar del tot, no n'hi anireu per a tots.
-
-18
-00:01:15,000 --> 00:01:17,000
- Jo estic a Mastodon.cat.
-
-19
-00:01:17,000 --> 00:01:21,000
- Jo de moment no he trobat cap canvi especial amb Twitter.
-
-20
-00:01:21,000 --> 00:01:25,000
- Podries dir que no hi estic molt posat, perÃ² no ho sÃ©.
-
-21
-00:01:25,000 --> 00:01:28,000
- Que deus fer servir l'aplicaciÃ³ oficial de Twitter, no?
-
-22
-00:01:28,000 --> 00:01:34,000
- Bueno, home, quan estic en el telÃ¨fon sÃ­, i en l'ordinador, la pÃ gina web,
-
-23
-00:01:34,000 --> 00:01:37,000
- no ho sÃ©, suposo que sÃ­ que deu ser l'oficial, no ho sÃ©.
-
-24
-00:01:37,000 --> 00:01:41,000
- Ah, perquÃ¨ tots els que fÃ¨iem servir aplicacions per enviar piulets
-
-25
-00:01:41,000 --> 00:01:44,000
- que no eren la de Twitter, ens hem quedat amb els murs.
-
-26
-00:01:44,000 --> 00:01:45,000
- Ah, sÃ­? No funcionen ara?
-
-27
-00:01:45,000 --> 00:01:47,000
- El senyor Elon Musk ho ha tancat tot.
-
-28
-00:01:47,000 --> 00:01:48,000
- Ostres, no ho sabia.
-
-29
-00:01:48,000 --> 00:01:51,000
- I desprÃ©s hi ha tot un altre tema de discurs de l'odi
-
-30
-00:01:51,000 --> 00:01:55,000
- i d'algoritmes que fan coses lleiges i tal, perÃ² aixÃ² Ã©s una altra histÃ²ria.
-
-31
-00:01:55,000 --> 00:01:58,000
- Va, i a l'altra banda tÃ© el Xavi Basurto.
-
-32
-00:01:58,000 --> 00:02:01,000
- Va, explica qui ets tu i d'on vens i on vas.
-
-33
-00:02:01,000 --> 00:02:07,000
- Jo sÃ³c en Xavi Basurto, que sÃ³c metge d'urgÃ¨ncies a l'Hospital de Figueres
-
-34
-00:02:07,000 --> 00:02:12,000
- i tambÃ© estic amb la USBA del SEM, el 606,
-
-35
-00:02:12,000 --> 00:02:15,000
- i tenim un blog que Ã©s l'Urgem.cat
-
-36
-00:02:15,000 --> 00:02:18,000
- i a Twitter Ã©s arroba Urgemcat
-
-37
-00:02:18,000 --> 00:02:21,000
- i allÃ  tambÃ© expliquem quan tenim temps
-
-38
-00:02:21,000 --> 00:02:23,000
- perquÃ¨ ara Ãºltimament anem una miqueta atrafegats
-
-39
-00:02:23,000 --> 00:02:26,000
- i estem publicant poques coses, perÃ² bueno.
-
-40
-00:02:26,000 --> 00:02:29,000
- A Twitter Ã©s mÃ©s fÃ cil perquÃ¨ la cosa Ã©s mÃ©s curta i tal
-
-41
-00:02:29,000 --> 00:02:34,000
- i anem fent cosetes, perÃ² al blog li costa una miqueta.
-
-42
-00:02:34,000 --> 00:02:38,000
- PerÃ² bueno, ja hi ha coses interessants i de tant en tant hi ha...
-
-43
-00:02:38,000 --> 00:02:41,000
- I anem posant coses que desprÃ©s us expliquem a l'EMpodcat.
-
-44
-00:02:41,000 --> 00:02:47,000
- O sigui que d'una manera o l'altra, si esteu interessats, Ã©s fÃ cil d'arribar-hi.
-
-45
-00:02:47,000 --> 00:02:51,000
- Per cert, l'altre dia, un d'aquests Ãºltims podcast que hem posat,
-
-46
-00:02:51,000 --> 00:02:55,000
- vam parlar sobre la fibrinÃ²logia del TEP
-
-47
-00:02:55,000 --> 00:02:58,000
- i vam fer tambÃ© una sessiÃ³ a l'hospital i tot aixÃ²
-
-48
-00:02:58,000 --> 00:03:01,000
- i no sÃ© si Ã©s la Lleida, no sÃ© qui,
-
-49
-00:03:01,000 --> 00:03:04,000
- perÃ² va ser fer la sessiÃ³ d'aquesta
-
-50
-00:03:04,000 --> 00:03:07,000
- i al cap de quatre dies vam tindre un TEP xocat
-
-51
-00:03:07,000 --> 00:03:09,000
- i que feia pinta d'estar-se morint
-
-52
-00:03:09,000 --> 00:03:12,000
- i els que estaven de guÃ rdia van dir
-
-53
-00:03:12,000 --> 00:03:16,000
- Ostres, que fa poc que vam fer la sessiÃ³ del TEP de fibrinÃ²logia i no sÃ© quÃ¨
-
-54
-00:03:16,000 --> 00:03:22,000
- i sÃ­, sÃ­, al cap d'un rato el pacient estava superbÃ©,
-
-55
-00:03:22,000 --> 00:03:29,000
- havia millorat les tensions i va arribar a l'hospital que havia d'arribar superbÃ©
-
-56
-00:03:29,000 --> 00:03:35,000
- i no sÃ©, que tÃ© una bona experiÃ¨ncia, que de vegades fas aquestes coses
-
-57
-00:03:35,000 --> 00:03:37,000
- i sembla que no hagi de servir de res,
-
-58
-00:03:37,000 --> 00:03:42,000
- perÃ² mira, si t'enganxa que al cap de pocs dies tens un cas interessant com aquest,
-
-59
-00:03:42,000 --> 00:03:45,000
- doncs, diu-vos la grÃ cia.
-
-60
-00:03:45,000 --> 00:03:48,000
- No sÃ© si t'ha passat mai que et repasses algun tema aixÃ­,
-
-61
-00:03:48,000 --> 00:03:52,000
- Ã©s a dir, vaig a repassar-me el pneumÃ²tor, extratensiÃ³, no sÃ© quÃ¨, no sÃ© quantos, pum,
-
-62
-00:03:52,000 --> 00:03:56,000
- i al cap de quatre dies t'apareix allÃ  el pacient que et diu
-
-63
-00:03:56,000 --> 00:03:59,000
- i dius, mira, sort que m'ho vaig repassar fa dos dies.
-
-64
-00:03:59,000 --> 00:04:02,000
- Evidentment que ha passat.
-
-65
-00:04:02,000 --> 00:04:07,000
- El que explicaves tu un dia dels esdeveniments de baixa probabilitat,
-
-66
-00:04:07,000 --> 00:04:11,000
- no te'n recordes allÃ² que hi havia aquell acrÃ²nim que no me'n recordo?
-
-67
-00:04:11,000 --> 00:04:17,000
- SÃ­, sÃ­, sÃ­, els CAGO, els casos d'alta gravetat ocasionals.
-
-68
-00:04:17,000 --> 00:04:18,000
- Exacte.
-
-69
-00:04:18,000 --> 00:04:19,000
- SÃ­, sÃ­.
-
-70
-00:04:19,000 --> 00:04:20,000
- Gran acrÃ²nim aquest.
-
-71
-00:04:20,000 --> 00:04:22,000
- SÃ­, sÃ­, sÃ­, els CAGO.
-
-72
-00:04:22,000 --> 00:04:24,000
- Molt bÃ©, Ã©s que m'hi he recordat ara.
-
-73
-00:04:24,000 --> 00:04:29,000
- Molt bÃ©, molt bÃ©, doncs, avui en l'episodi d'avui tenÃ­em un podcast
-
-74
-00:04:29,000 --> 00:04:36,000
- que Ã©s del OnePage UCA o alguna cosa aixÃ­, no?
-
-75
-00:04:36,000 --> 00:04:40,000
- Que parlÃ veu de... es parlava de la pulsio-oximetria
-
-76
-00:04:40,000 --> 00:04:45,000
- i havies fet una traducciÃ³ d'aquest podcast i tot aixÃ².
-
-77
-00:04:45,000 --> 00:04:48,000
- No, no, no Ã©s un podcast, Ã©s una...
-
-78
-00:04:48,000 --> 00:04:51,000
- de no sÃ© quin episodi ho vaig fer com una recomanaciÃ³.
-
-79
-00:04:51,000 --> 00:04:55,000
- El OnePage ACU Ã©s d'un senyor, Nick Mark,
-
-80
-00:04:55,000 --> 00:05:00,000
- tambÃ© el teniu a nickmark arroba medmasterdon.com,
-
-81
-00:05:00,000 --> 00:05:04,000
- que el que fa un resum d'algun tema en concret amb un sol full.
-
-82
-00:05:04,000 --> 00:05:06,000
- Per aixÃ² el OnePage.
-
-83
-00:05:06,000 --> 00:05:10,000
- SÃ­, fa com una infografia o com una... bÃ©, un resum en una sola pÃ gina, no?
-
-84
-00:05:10,000 --> 00:05:11,000
- Exactament.
-
-85
-00:05:11,000 --> 00:05:12,000
- AixÃ² es diu OnePage.
-
-86
-00:05:12,000 --> 00:05:16,000
- OnePage, ACU, perquÃ¨ parla de temes de cures intensives.
-
-87
-00:05:16,000 --> 00:05:19,000
- I em vaig traduir un, en tinc un parell mÃ©s allÃ  al calaix,
-
-88
-00:05:19,000 --> 00:05:22,000
- esperant... no sÃ© exactament quÃ¨ espero,
-
-89
-00:05:22,000 --> 00:05:25,000
- algun dia els acabarÃ© de traduir, de moment tinc aquest.
-
-90
-00:05:25,000 --> 00:05:28,000
- I com que Ã©s un tema que Ã©s molt bÃ sic,
-
-91
-00:05:28,000 --> 00:05:31,000
- bÃ sic en el sentit de... no perquÃ¨ sigui senzill,
-
-92
-00:05:31,000 --> 00:05:37,000
- sinÃ³ perquÃ¨ Ã©s Ã mpliament utilitzat per moltÃ­ssima gent en moltÃ­ssims entorns,
-
-93
-00:05:37,000 --> 00:05:40,000
- hi ha molta informaciÃ³ a donar per fer-lo servir bÃ©.
-
-94
-00:05:40,000 --> 00:05:43,000
- I penso que, mira, Ã©s una bona manera de fer-ho en format podcast,
-
-95
-00:05:43,000 --> 00:05:45,000
- tambÃ© pot servir.
-
-96
-00:05:45,000 --> 00:05:47,000
- O sigui, avui parlarem de la pulsio-oximetria,
-
-97
-00:05:47,000 --> 00:05:49,000
- aprofitant aquesta infografia.
-
-98
-00:05:49,000 --> 00:05:53,000
- Parlem d'aixÃ² i desprÃ©s tenim el dels apartats de sempre,
-
-99
-00:05:53,000 --> 00:05:58,000
- que si els urs i mots, les recomanacions, i el menys Ã©s mÃ©s.
-
-100
-00:05:58,000 --> 00:06:00,000
- Si et sembla, si vols comenÃ§ar, hi ha Albert.
-
-101
-00:06:04,000 --> 00:06:06,000
- Vinga, parlem de la pulsio-oximetria.
-
-102
-00:06:06,000 --> 00:06:10,000
- El primer que potser haurÃ­em de parlar de la pulsio-oximetria Ã©s quÃ¨ carai Ã©s, no?
-
-103
-00:06:10,000 --> 00:06:11,000
- QuÃ¨ Ã©s la pulsio-oximetria?
-
-104
-00:06:11,000 --> 00:06:14,000
- La pulsio-oximetria Ã©s la mesura contÃ­nua i no invasiva
-
-105
-00:06:14,000 --> 00:06:17,000
- de la saturaciÃ³ d'oxigen de l'hemoglobina.
-
-106
-00:06:17,000 --> 00:06:20,000
- Deu paraules seguides i ara potser comencem a desgranar-les una mica.
-
-107
-00:06:20,000 --> 00:06:24,000
- ParlarÃ© primer una miqueta de quÃ¨ Ã©s aixÃ² de la saturaciÃ³ d'oxigen de l'hemoglobina,
-
-108
-00:06:24,000 --> 00:06:28,000
- perquÃ¨ si tenim una miqueta clar aixÃ², podem entendre moltes coses darrere.
-
-109
-00:06:28,000 --> 00:06:31,000
- L'hemoglobina Ã©s una proteÃ¯na que tÃ© un ferro dins
-
-110
-00:06:31,000 --> 00:06:36,000
- que serveix per captar l'oxigen que hi ha dins una soluciÃ³ i poder-lo transportar.
-
-111
-00:06:36,000 --> 00:06:39,000
- L'hemoglobina estÃ  continguda dins dels glÃ²buls vermells
-
-112
-00:06:39,000 --> 00:06:42,000
- i el que fa aquesta hemoglobina Ã©s aixÃ² que acabo de dir.
-
-113
-00:06:42,000 --> 00:06:48,000
- Ã‰s a dir, troba les molÃ©cules d'oxigen molecular, d'O2, que circulen dins el lÃ­quid, plasma en aquest cas,
-
-114
-00:06:48,000 --> 00:06:52,000
- les captura, se les queda dins, es transporta a distÃ ncia,
-
-115
-00:06:52,000 --> 00:06:57,000
- aquesta proteÃ¯na dins del glÃ²bul vermell, i quan arriba on convingui, als teixits,
-
-116
-00:06:57,000 --> 00:07:03,000
- aquesta molÃ¨cula d'oxigen es desprÃ¨n i es difon pel camÃ­ invers.
-
-117
-00:07:03,000 --> 00:07:07,000
- Se'n va al plasma i del plasma se'n va cap a les cÃ¨lÂ·lules veÃ¯nes.
-
-118
-00:07:07,000 --> 00:07:12,000
- AixÃ², que sona senzill, de senzill no en tÃ© absolutament res,
-
-119
-00:07:12,000 --> 00:07:16,000
- i fa servir un principi fisiolÃ²gic molt interessant
-
-120
-00:07:16,000 --> 00:07:21,000
- que queda registrat en una cosa que tots els que heu fet carrera us heu de recordar,
-
-121
-00:07:21,000 --> 00:07:25,000
- que Ã©s la famosÃ­ssima corba de dissociaciÃ³ de l'hemoglobina.
-
-122
-00:07:25,000 --> 00:07:30,000
- PerquÃ¨ aquesta captaciÃ³ d'oxigen la fa els capilÂ·lars alveolars, evidentment,
-
-123
-00:07:30,000 --> 00:07:33,000
- que Ã©s on arriba l'oxigen de l'aire ambient,
-
-124
-00:07:33,000 --> 00:07:40,000
- l'alveol estÃ  ple d'oxigen que difon i s'equilibra la quantitat d'oxigen que hi ha a l'aire dins de l'alveol,
-
-125
-00:07:40,000 --> 00:07:44,000
- l'aire alveolar s'intenta equilibrar amb el que hi ha dins del plasma sanguini,
-
-126
-00:07:44,000 --> 00:07:49,000
- i aquÃ­ la molÃ¨cula d'hemoglobina s'emporta la molÃ¨cula d'oxigen.
-
-127
-00:07:49,000 --> 00:07:53,000
- En funciÃ³ de la quantitat d'oxigen que hi ha dissolta en el plasma,
-
-128
-00:07:53,000 --> 00:07:56,000
- doncs l'hemoglobina se n'emportarÃ  mÃ©s o menys.
-
-129
-00:07:56,000 --> 00:08:00,000
- Quan parlem de saturaciÃ³ de l'hemoglobina, el que estem parlant Ã©s
-
-130
-00:08:00,000 --> 00:08:04,000
- de totes les molÃ¨cules d'hemoglobina que hi ha dins dels gÃ²buls vermells,
-
-131
-00:08:04,000 --> 00:08:10,000
- quin percentatge queden saturats, quin percentatge capta l'oxigen i, per tant, ja no en pot agafar mÃ©s.
-
-132
-00:08:10,000 --> 00:08:15,000
- La saturaciÃ³ vol dir que ja no hi ha mÃ©s hemoglobina lliure per captar mÃ©s molÃ¨cules d'oxigen.
-
-133
-00:08:15,000 --> 00:08:20,000
- Si Ã©s un 100% de saturaciÃ³, vol dir que no queda cap molÃ¨cula d'hemoglobina que no hagi captat un oxigen.
-
-134
-00:08:20,000 --> 00:08:24,000
- Aquesta corba de dissociaciÃ³ de l'hemoglobina, que l'intentarÃ© descriure bÃ sicament,
-
-135
-00:08:24,000 --> 00:08:27,000
- Ã©s una corba que comenÃ§a molt avall, al zero,
-
-136
-00:08:27,000 --> 00:08:33,000
- de seguida puja amb un pendent molt pronunciat i, a partir de cert moment,
-
-137
-00:08:33,000 --> 00:08:38,000
- aquesta pendent s'aplana i llavors segueix una lÃ­nia plana fins que arriba prÃ cticament plana
-
-138
-00:08:38,000 --> 00:08:41,000
- i es queda en aquesta mena d'altiplÃ , aquesta mena de masseta.
-
-139
-00:08:41,000 --> 00:08:47,000
- AixÃ² el que vol dir Ã©s que, amb els nÃºmeros, Ã©s a dir, el 100% de saturaciÃ³ Ã©s la part de dalt d'aquesta corba
-
-140
-00:08:47,000 --> 00:08:51,000
- i amb l'altre veieix, Ã©s en funciÃ³ de la quantitat d'oxigen que hi ha d'isol en plasma,
-
-141
-00:08:51,000 --> 00:08:55,000
- Ã©s zero a la nostra esquerra i va augmentant fins a la dreta,
-
-142
-00:08:55,000 --> 00:09:00,000
- com mÃ©s oxigen hi ha, mÃ©s molÃ¨cules d'hemoglobina queden saturades per aquest Ãºs.
-
-143
-00:09:00,000 --> 00:09:02,000
- PerÃ² amb aquesta forma que us he explicat de la corba,
-
-144
-00:09:02,000 --> 00:09:06,000
- Ã©s a dir, que inicialment puja amb un pendent molt dret, no dirÃ© que vertical, perÃ² gairebÃ©,
-
-145
-00:09:06,000 --> 00:09:12,000
- i desprÃ©s s'aplana, vol dir que quan tenim moltÃ­ssima quantitat d'oxigen dins el plasma,
-
-146
-00:09:12,000 --> 00:09:17,000
- arriba un moment en quÃ¨ l'hemoglobina queda saturada i per mÃ©s oxigen que posis al plasma
-
-147
-00:09:17,000 --> 00:09:19,000
- ja no en podrÃ  transportar mÃ©s.
-
-148
-00:09:19,000 --> 00:09:24,000
- I a l'inversa, Ã©s a dir, en un moment en quÃ¨ baixem d'una certa quantitat d'oxigen d'isol en el plasma,
-
-149
-00:09:24,000 --> 00:09:26,000
- que en tenim pressiÃ³ parcial d'oxigen,
-
-150
-00:09:26,000 --> 00:09:31,000
- es desploma brutalment la quantitat de molÃ¨cules d'hemoglobina que queden saturades
-
-151
-00:09:31,000 --> 00:09:33,000
- i per tant la capacitat de transportar aquest oxigen.
-
-152
-00:09:33,000 --> 00:09:39,000
- Per quÃ¨ l'evoluciÃ³ ens ha portat a transportar l'oxigen a l'hemoglobina i no a d'isolar-lo al plasma?
-
-153
-00:09:39,000 --> 00:09:43,000
- Com ens hi ha portat? L'evoluciÃ³ no segueix cap norma,
-
-154
-00:09:43,000 --> 00:09:46,000
- simplement allÃ² que funciona progressa i allÃ² que no funciona no,
-
-155
-00:09:46,000 --> 00:09:49,000
- perÃ² la grÃ cia Ã©s justament aquesta corba.
-
-156
-00:09:49,000 --> 00:09:52,000
- Ã‰s a dir, nosaltres captem l'oxigen allÃ  on Ã©s disponible
-
-157
-00:09:52,000 --> 00:09:55,000
- i allÃ  on Ã©s menys disponible el perdem.
-
-158
-00:09:55,000 --> 00:09:57,000
- I el perdem grÃ cies a aquesta corba.
-
-159
-00:09:57,000 --> 00:10:00,000
- AixÃ² donaria per dues o tres classes de fisiologia
-
-160
-00:10:00,000 --> 00:10:03,000
- i quines coses fan que la corba vagi cap aquÃ­, vagi cap allÃ ,
-
-161
-00:10:03,000 --> 00:10:07,000
- i a la dreta, la desviaciÃ³ a la dreta i a l'esquerra de la corba a l'hemoglobina.
-
-162
-00:10:07,000 --> 00:10:10,000
- I em sembla que he fotut massa rotllo i hi ha d'haver gent que ja s'ha perdut,
-
-163
-00:10:10,000 --> 00:10:11,000
- o sigui que ho deixarem aquÃ­.
-
-164
-00:10:11,000 --> 00:10:16,000
- BÃ sicament la idea Ã©s que la relaciÃ³ entre la quantitat d'oxigen que hi ha dins el plasma
-
-165
-00:10:16,000 --> 00:10:19,000
- no Ã©s lineal respecte a la saturaciÃ³ d'oxigen.
-
-166
-00:10:19,000 --> 00:10:22,000
- AixÃ² Ã©s important per coses que explicarem desprÃ©s.
-
-167
-00:10:22,000 --> 00:10:28,000
- La grÃ cia de la pulsioximetria, que hem dit que Ã©s la mesura de la saturaciÃ³ d'oxigen de l'hemoglobina,
-
-168
-00:10:28,000 --> 00:10:31,000
- la part que Ã©s important Ã©s que Ã©s no invasiu.
-
-169
-00:10:31,000 --> 00:10:34,000
- No necessitem punxar el malalt i fer-li una gasometria,
-
-170
-00:10:34,000 --> 00:10:37,000
- no necessitem que porti un cateter arterial per anar-li traient gasometries
-
-171
-00:10:37,000 --> 00:10:40,000
- ni anar-ho mesurant amb una mÃ quina, sinÃ³ que disposem d'un element extern,
-
-172
-00:10:40,000 --> 00:10:43,000
- no cruent, no fa mal, que ens permet mesurar-ho.
-
-173
-00:10:43,000 --> 00:10:45,000
- I a sobre ens permet mesurar-ho de forma contÃ­nua,
-
-174
-00:10:45,000 --> 00:10:50,000
- que Ã©s l'altra paraula que sortia en la definiciÃ³ d'aquesta llargota que he llanÃ§at al vÃ­deo.
-
-175
-00:10:50,000 --> 00:10:53,000
- I com ho podem fer de forma no invasiva detectar aixÃ²?
-
-176
-00:10:53,000 --> 00:10:54,000
- FÃ­sica, companys, fÃ­sica.
-
-177
-00:10:54,000 --> 00:10:58,000
- La que odiÃ vem profundament a l'institut, la fÃ­sica aquÃ­ surt.
-
-178
-00:10:58,000 --> 00:11:00,000
- Parat de fisiologia i ara parlarem de fÃ­sica, eh?
-
-179
-00:11:00,000 --> 00:11:01,000
- Correcte.
-
-180
-00:11:01,000 --> 00:11:04,000
- Ã‰s que tinc fills adolescents i els haig de fotre a cagar-la perquÃ¨ estudin,
-
-181
-00:11:04,000 --> 00:11:07,000
- perquÃ¨ si no tot Ã©s una merda, tot Ã©s una merda, tot Ã©s una merda.
-
-182
-00:11:07,000 --> 00:11:09,000
- Home, serveixen, les coses serveixen.
-
-183
-00:11:09,000 --> 00:11:11,000
- No t'haurÃ s equivocat de podcast, no?
-
-184
-00:11:11,000 --> 00:11:14,000
- No? Vaja, espero que no.
-
-185
-00:11:14,000 --> 00:11:16,000
- Va, seguim.
-
-186
-00:11:16,000 --> 00:11:20,000
- Un dels principis fÃ­sics Ã©s que les molÃ¨cules sÃ³n capaces de captar
-
-187
-00:11:20,000 --> 00:11:25,000
- una part de la reacciÃ³ electromagnÃ¨tica entre la qual la llum Ã©s absorbida per la molÃ¨cula.
-
-188
-00:11:25,000 --> 00:11:27,000
- I per tant, si tu llences tot un espectre,
-
-189
-00:11:27,000 --> 00:11:31,000
- una llum de mÃºltiples longituds dona, de moltes freqÃ¼Ã¨ncies diferents,
-
-190
-00:11:31,000 --> 00:11:34,000
- hi ha una part que no arriba, perquÃ¨ Ã©s absorbida,
-
-191
-00:11:34,000 --> 00:11:36,000
- a la que t'interessa en aquest moment.
-
-192
-00:11:36,000 --> 00:11:39,000
- A nosaltres, en el nostre cas, ens interessa per l'hemoglobina saturada,
-
-193
-00:11:39,000 --> 00:11:43,000
- perÃ² si ets astrofÃ­sic, t'interessarÃ  per la pols interestelÂ·lar, per dir-ho.
-
-194
-00:11:43,000 --> 00:11:44,000
- Una bestiesa.
-
-195
-00:11:44,000 --> 00:11:45,000
- Com ho mesurem, aixÃ²?
-
-196
-00:11:45,000 --> 00:11:49,000
- Mira, bÃ sicament el que tenim Ã©s un aparell que midrem sonda,
-
-197
-00:11:49,000 --> 00:11:53,000
- el dispositiu que es connecta al malalt, que acostuma a ser un didal.
-
-198
-00:11:53,000 --> 00:11:55,000
- Escolteu, cosa de l'Urgent Mote.
-
-199
-00:11:55,000 --> 00:11:59,000
- El didal Ã©s una cosa que feien servir les iaies per no punxar-se quan cosien.
-
-200
-00:11:59,000 --> 00:12:03,000
- Cosir, allÃ², crea una agulla amb un fil i tal, que ja no fa ningÃº.
-
-201
-00:12:03,000 --> 00:12:04,000
- El didal era aixÃ².
-
-202
-00:12:04,000 --> 00:12:08,000
- Ara ja, quan li dius a un nen el didal,
-
-203
-00:12:08,000 --> 00:12:11,000
- jo crec que dibuixant un didal dibuixarÃ  un pulsiÃ³scÃ­metre,
-
-204
-00:12:11,000 --> 00:12:13,000
- perquÃ¨ no hem vist un didal en sa vida.
-
-205
-00:12:13,000 --> 00:12:16,000
- Aquest aquÃ­, el comentari de vell.
-
-206
-00:12:16,000 --> 00:12:22,000
- Tenim aquest didal, aquesta sonda, que el que fa Ã©s tÃ© un emissor, un diode,
-
-207
-00:12:22,000 --> 00:12:29,000
- que emet llum que travessa el teixit i Ã©s rebut per el receptor que hi ha a l'altra banda de la pinta.
-
-208
-00:12:29,000 --> 00:12:36,000
- Llavors, la grÃ cia Ã©s que la nostra hemoglobina absorbeix la llum d'una determinada longitud d'ona.
-
-209
-00:12:36,000 --> 00:12:39,000
- Llavors, realment no tenim un led, en tenim dos.
-
-210
-00:12:39,000 --> 00:12:43,000
- Tenim un led que emet amb llum vermella i un altre led que emet amb llum infrarroja,
-
-211
-00:12:43,000 --> 00:12:46,000
- que nosaltres no podem veure, perÃ² que la emet.
-
-212
-00:12:46,000 --> 00:12:51,000
- Les dues llums travessen el teixit i sÃ³n absorbides de forma diferent.
-
-213
-00:12:51,000 --> 00:12:56,000
- La llum vermella, diguem que travessa mÃ©s el teixit, diguem-ho aixÃ­,
-
-214
-00:12:56,000 --> 00:13:02,000
- i la llum infrarroja Ã©s mÃ©s absorbida per l'hemoglobina saturada d'oxigen.
-
-215
-00:13:02,000 --> 00:13:06,000
- Llavors, el que tenim Ã©s una mÃ quina que sap quanta llum emet d'una banda
-
-216
-00:13:06,000 --> 00:13:09,000
- i mesura a l'altre costat quanta llum ha rebut.
-
-217
-00:13:09,000 --> 00:13:12,000
- I aquÃ­ ve una de les coses que Ã©s important per desprÃ©s,
-
-218
-00:13:12,000 --> 00:13:17,000
- interpretant amb uns algoritmes que cada mÃ quina sÃ³n els seus,
-
-219
-00:13:17,000 --> 00:13:20,000
- amb uns cÃ lculs que cada fabricant s'ha tret de la mÃ niga,
-
-220
-00:13:20,000 --> 00:13:23,000
- en base a la diferÃ¨ncia que hi ha entre el que he emÃ¨s en una freqÃ¼Ã¨ncia
-
-221
-00:13:23,000 --> 00:13:25,000
- i el que he rebut d'aquesta freqÃ¼Ã¨ncia,
-
-222
-00:13:25,000 --> 00:13:28,000
- del menys de les dues freqÃ¼Ã¨ncies de llum que hi ha a mÃ©s,
-
-223
-00:13:28,000 --> 00:13:32,000
- et dona un nÃºmero que correspon a la saturaciÃ³,
-
-224
-00:13:32,000 --> 00:13:36,000
- quina quantitat de l'hemoglobina que hi ha dins la sang d'aquest pacient
-
-225
-00:13:36,000 --> 00:13:38,000
- estÃ  agafant oxigen i quina part no.
-
-226
-00:13:38,000 --> 00:13:43,000
- Ã‰s a dir, tenim llum que travessa un teixit i la mÃ quina fa mÃ gia i et diu un nÃºmero.
-
-227
-00:13:43,000 --> 00:13:47,000
- I aquÃ­ comencem, anem aquÃ­ ara, ja anem a rajar de la tÃ¨cnica,
-
-228
-00:13:47,000 --> 00:13:50,000
- perquÃ¨ la tÃ¨cnica Ã©s molt ben parida, perÃ² tÃ© mancances,
-
-229
-00:13:50,000 --> 00:13:52,000
- i les mancances aquestes.
-
-230
-00:13:52,000 --> 00:13:55,000
- Ã‰s important tenir-les clares, de fet, Ã©s gairebÃ© mÃ©s important saber
-
-231
-00:13:55,000 --> 00:13:57,000
- quan te'n pots refiar i quan no.
-
-232
-00:13:57,000 --> 00:14:00,000
- Llavors tenim els fabricants, ens han donat aquestes mÃ quines tan ben parides,
-
-233
-00:14:00,000 --> 00:14:03,000
- perquÃ¨ ens han donat la tecnica, perÃ² tambÃ© ens han donat la mÃ quina,
-
-234
-00:14:03,000 --> 00:14:05,000
- i hem de saber quan hem de refiar-la.
-
-235
-00:14:05,000 --> 00:14:09,000
- I la mÃ quina, si la fem bÃ©, ens ha de donar la saturaciÃ³ d'oxigen.
-
-236
-00:14:09,000 --> 00:14:11,000
- PerÃ² tambÃ© passa una altra cosa.
-
-237
-00:14:11,000 --> 00:14:15,000
- Al nostre cos, la sang no flueix de forma lineal, sinÃ³ que flueix de forma pulsativa.
-
-238
-00:14:15,000 --> 00:14:19,000
- Tenim el cor que cada segon fa la seva contracciÃ³
-
-239
-00:14:19,000 --> 00:14:22,000
- i empeny la sang en forma d'una ona.
-
-240
-00:14:22,000 --> 00:14:24,000
- La sang arterial ve en forma d'ona.
-
-241
-00:14:24,000 --> 00:14:27,000
- SÃ­ que quan torna de forma venosa acostuma a ser mÃ©s lineal,
-
-242
-00:14:27,000 --> 00:14:30,000
- perÃ² no Ã©s aixÃ­.
-
-243
-00:14:30,000 --> 00:14:34,000
- La mÃ quina ens mesura quina part de la sang que circula de forma pulsativa
-
-244
-00:14:34,000 --> 00:14:36,000
- estÃ  saturada amb hemoglobina,
-
-245
-00:14:36,000 --> 00:14:39,000
- Ã©s a dir, quants de les molÃ¨cules d'hemoglobina porten oxigen,
-
-246
-00:14:39,000 --> 00:14:43,000
- i alhora ens mesura cada quant arriba a aquesta onada.
-
-247
-00:14:43,000 --> 00:14:45,000
- Per tant, en un mateix aparell tenim dues coses.
-
-248
-00:14:45,000 --> 00:14:47,000
- Ens mesura una freqÃ¼Ã¨ncia cardÃ­aca,
-
-249
-00:14:47,000 --> 00:14:51,000
- i alhora ens mesura quin percentatge d'aquesta hemoglobina ve saturada amb oxigen
-
-250
-00:14:51,000 --> 00:14:53,000
- i quina no.
-
-251
-00:14:53,000 --> 00:14:56,000
- AixÃ² Ã©s el que diu el puls i oximetri.
-
-252
-00:14:56,000 --> 00:14:58,000
- Tenim aquestes dues coses, aquestes dues parts,
-
-253
-00:14:58,000 --> 00:15:00,000
- el puls i l'oximetria.
-
-254
-00:15:00,000 --> 00:15:03,000
- Si de cas ens dediquem ara una miqueta a parlar d'aquesta oximetria,
-
-255
-00:15:03,000 --> 00:15:06,000
- realment si aixÃ² que t'inventen ben perit,
-
-256
-00:15:06,000 --> 00:15:08,000
- que ara pots comprar als xinos...
-
-257
-00:15:08,000 --> 00:15:10,000
- Jo recordo el primer puls i oxÃ­metre de butxaca que vaig comprar,
-
-258
-00:15:10,000 --> 00:15:12,000
- vaig haver de comprar a l'eBay fa 10 anys.
-
-259
-00:15:12,000 --> 00:15:15,000
- Ja era barat llavors, ara amb el Covid,
-
-260
-00:15:15,000 --> 00:15:18,000
- ara penso que Ã©s que mÃ©s puls i oximetria...
-
-261
-00:15:18,000 --> 00:15:21,000
- Ens vÃ©nen pacients que el puls i oxÃ­metre de casa,
-
-262
-00:15:21,000 --> 00:15:24,000
- oh, DÃ©u meu, terrible, estic a 94, oh, horrorÃ³s, no?
-
-263
-00:15:24,000 --> 00:15:26,000
- Segur que tots anem viciats.
-
-264
-00:15:26,000 --> 00:15:29,000
- Hi ha alguns que et venen a... que diuen que estan a 60 i dius,
-
-265
-00:15:29,000 --> 00:15:32,000
- d'acord, llenci el puls i oxÃ­metre, ho fÃ cieu bÃ©.
-
-266
-00:15:32,000 --> 00:15:36,000
- PerquÃ¨, com totes les mÃ quines, tÃ© les seves mancances.
-
-267
-00:15:36,000 --> 00:15:40,000
- I si us sembla, dediquem una estona a parlar de
-
-268
-00:15:40,000 --> 00:15:42,000
- quÃ¨ ens afecta la mesura de la puls i oximetria
-
-269
-00:15:42,000 --> 00:15:45,000
- i amb quines coses ens hem de fixar.
-
-270
-00:15:45,000 --> 00:15:48,000
- Vinga, primera cosa que tothom se'ns ha dit
-
-271
-00:15:48,000 --> 00:15:50,000
- del dret del revÃ©s i tal.
-
-272
-00:15:50,000 --> 00:15:52,000
- El pintat d'ungles, les mal d'ungles.
-
-273
-00:15:52,000 --> 00:15:55,000
- Terrible, si tens les ungles pintades, el saturador, no funciona.
-
-274
-00:15:55,000 --> 00:15:57,000
- Doncs Ã©s veritat a mitges.
-
-275
-00:15:57,000 --> 00:16:00,000
- Ã‰s a dir, s'ha vist que la pintura d'ungles
-
-276
-00:16:00,000 --> 00:16:03,000
- sÃ­ que pot disminuir la precisiÃ³ de la puls i oxÃ­metria,
-
-277
-00:16:03,000 --> 00:16:07,000
- perÃ² no tots els colors, nomÃ©s els colors foscos.
-
-278
-00:16:07,000 --> 00:16:10,000
- I tampoc Ã©s una cosa excessiva i tampoc Ã©s per tots els fabricants.
-
-279
-00:16:10,000 --> 00:16:13,000
- PerquÃ¨, anirÃ© insistint, cada fabricant
-
-280
-00:16:13,000 --> 00:16:17,000
- tÃ© el seu programa, el seu algoritme, la seva forma de calcular
-
-281
-00:16:17,000 --> 00:16:20,000
- aquesta diferÃ¨ncia de la llum emesa a la llum rebuda
-
-282
-00:16:20,000 --> 00:16:22,000
- a quina saturaciÃ³ correspon.
-
-283
-00:16:22,000 --> 00:16:25,000
- Per tant, colors d'ungles especialment foscos,
-
-284
-00:16:25,000 --> 00:16:27,000
- no te'n refiÃ¯s gaire.
-
-285
-00:16:27,000 --> 00:16:30,000
- Hi ha la trampa aquesta que funciona d'aquella manera,
-
-286
-00:16:30,000 --> 00:16:32,000
- perquÃ¨ tampoc haurÃ­em de fer-ho, perÃ² tots ho fem,
-
-287
-00:16:32,000 --> 00:16:34,000
- que Ã©s girar el didal del saturador, girar-lo en 90 graus,
-
-288
-00:16:34,000 --> 00:16:39,000
- Ã©s a dir, en comptes d'anar de l'ungle al pulpell del dit,
-
-289
-00:16:39,000 --> 00:16:41,000
- que vagi de costat a costat.
-
-290
-00:16:41,000 --> 00:16:44,000
- PerquÃ¨ si no, atreveix la ungla pintada.
-
-291
-00:16:44,000 --> 00:16:48,000
- AixÃ² d'aquella manera, perquÃ¨ realment Ã©s tot el conjunt
-
-292
-00:16:48,000 --> 00:16:51,000
- de la llum que arriba, llavors hi ha una part que serÃ  absorbida.
-
-293
-00:16:51,000 --> 00:16:53,000
- PerÃ² bueno, ens ho creiem i ja estÃ .
-
-294
-00:16:53,000 --> 00:16:56,000
- Una altra cosa que no Ã©s gaire sabuda i que penso que Ã©s important
-
-295
-00:16:56,000 --> 00:16:59,000
- i que pot fer quedar bastant malament els fabricants,
-
-296
-00:16:59,000 --> 00:17:02,000
- Ã©s que no nomÃ©s Ã©s el color de les ungles el que pot disminuir
-
-297
-00:17:02,000 --> 00:17:05,000
- la precisiÃ³, Ã©s tambÃ© el color de la pell.
-
-298
-00:17:05,000 --> 00:17:08,000
- Ã‰s a dir, a pells mÃ©s fosques, com que l'absorciÃ³ de la llum
-
-299
-00:17:08,000 --> 00:17:12,000
- Ã©s diferent, a pells mÃ©s fosques el que se sap Ã©s que se sobreestima
-
-300
-00:17:12,000 --> 00:17:14,000
- la saturaciÃ³.
-
-301
-00:17:14,000 --> 00:17:18,000
- Per aquÃ­ hi ha un estudi que cita la traducciÃ³ que diu que els pacients
-
-302
-00:17:18,000 --> 00:17:22,000
- de raÃ§a negra tenen tres vegades mÃ©s possibilitats de tenir una hipoxÃ¨mia
-
-303
-00:17:22,000 --> 00:17:26,000
- que no considerarem perquÃ¨ la lectura del pulsioximetre ens la dona
-
-304
-00:17:26,000 --> 00:17:28,000
- mÃ©s elevada del que tocaria.
-
-305
-00:17:28,000 --> 00:17:31,000
- Pel que he llegit, no Ã©s molt gran, podrÃ­em estar parlant de l'ordre
-
-306
-00:17:31,000 --> 00:17:35,000
- del 3 al 5%, perÃ² Ã©s clar, la decisiÃ³ de posar oxigen moltes vegades
-
-307
-00:17:35,000 --> 00:17:37,000
- depÃ¨n d'aquest 3 al 5%.
-
-308
-00:17:37,000 --> 00:17:40,000
- Tu a un tio a 95% no li posarÃ s oxigen.
-
-309
-00:17:40,000 --> 00:17:42,000
- PerÃ² al 92%, no ho sÃ©.
-
-310
-00:17:42,000 --> 00:17:47,000
- PerÃ² Ã©s que si et dona 92% no n'hi poses, perÃ² si estÃ  a 89% probablement sÃ­.
-
-311
-00:17:47,000 --> 00:17:50,000
- I a aquest senyor de raÃ§a negra pot ser que no li estiguis posant oxigen
-
-312
-00:17:50,000 --> 00:17:53,000
- per culpa que t'estÃ  dient 92%.
-
-313
-00:17:53,000 --> 00:17:55,000
- Motiu d'aixÃ²?
-
-314
-00:17:55,000 --> 00:17:58,000
- Doncs que els senyors fabricants, quan van fer els seus estudis
-
-315
-00:17:58,000 --> 00:18:01,000
- de validaciÃ³, feien servir voluntaris.
-
-316
-00:18:01,000 --> 00:18:05,000
- I els voluntaris sempre sÃ³n homes blancs de raÃ§a blanca de mitjan.
-
-317
-00:18:05,000 --> 00:18:09,000
- La sort que tenim Ã©s que, com que aixÃ² s'afecta pel color de la pell,
-
-318
-00:18:09,000 --> 00:18:12,000
- les dones, que sempre estan infra-representades a tot arreu,
-
-319
-00:18:12,000 --> 00:18:15,000
- el color de la pell el tenim si fan o fot igual,
-
-320
-00:18:15,000 --> 00:18:17,000
- els homes i les dones de qualsevol raÃ§a.
-
-321
-00:18:17,000 --> 00:18:21,000
- PerÃ² aquÃ­ tenim una mostra de racisme, d'aquest viatge intrÃ­nsec
-
-322
-00:18:21,000 --> 00:18:23,000
- de moltes coses de la vida, que en aquest cas Ã©s un racisme
-
-323
-00:18:23,000 --> 00:18:26,000
- que ningÃº s'esperava trobar, doncs ha sortit.
-
-324
-00:18:26,000 --> 00:18:30,000
- AixÃ² s'ha vist molt amb el Covid, i amb el Covid sabem que l'oxigen era necessari,
-
-325
-00:18:30,000 --> 00:18:33,000
- segurament hi hauria hagut molts pacients de raÃ§a negra
-
-326
-00:18:33,000 --> 00:18:36,000
- que no se'ls ha posat oxigen quan potser l'haguessin necessitat,
-
-327
-00:18:36,000 --> 00:18:38,000
- o se'ls ha posat mÃ©s tard del que tocava.
-
-328
-00:18:38,000 --> 00:18:41,000
- AixÃ² suposo que ve de si molts estudis es fan en paÃ¯sos
-
-329
-00:18:41,000 --> 00:18:43,000
- on el sistema sanitari no Ã©s pÃºblic,
-
-330
-00:18:43,000 --> 00:18:49,000
- fa que gent de raÃ§a negra que potser tenen menys capacitat econÃ²mica
-
-331
-00:18:49,000 --> 00:18:52,000
- estan menys representats en els estudis.
-
-332
-00:18:52,000 --> 00:18:56,000
- I aixÃ² passa amb aixÃ² i passa amb molts estudis de medicaments,
-
-333
-00:18:56,000 --> 00:19:01,000
- que es dissenyen pensant que representen la poblaciÃ³ global,
-
-334
-00:19:01,000 --> 00:19:03,000
- perÃ² a l'hora de la veritat no,
-
-335
-00:19:03,000 --> 00:19:08,000
- perquÃ¨ la gent amb menys capacitats econÃ²miques estan menys representats.
-
-336
-00:19:08,000 --> 00:19:13,000
- I si aixÃ² correspon a una raÃ§a o una no sÃ© quÃ¨,
-
-337
-00:19:13,000 --> 00:19:19,000
- doncs clar, ja pot ser que els estiguem posant menys oxigen en un seu grup.
-
-338
-00:19:19,000 --> 00:19:21,000
- Doncs aquest Ã©s un dels casos.
-
-339
-00:19:21,000 --> 00:19:24,000
- MÃ©s coses que poden afectar la pulsiusimetria.
-
-340
-00:19:24,000 --> 00:19:27,000
- Un altre que tambÃ© ens han explicat, i aquest sisplau, aquest graveu-vos-ho,
-
-341
-00:19:27,000 --> 00:19:31,000
- per favor, aquest sÃ­ que ha de quedar clar.
-
-342
-00:19:31,000 --> 00:19:35,000
- AixÃ² mesura la saturaciÃ³ de l'hemoglobina en oxigen.
-
-343
-00:19:35,000 --> 00:19:38,000
- PerÃ² ni totes les hemoglobines sÃ³n normals,
-
-344
-00:19:38,000 --> 00:19:42,000
- ni tot el gas que arriba al plasma Ã©s oxigen.
-
-345
-00:19:42,000 --> 00:19:48,000
- Ens podem trobar, a causa habitualment de problemes amb els efectes secundaris
-
-346
-00:19:48,000 --> 00:19:52,000
- de medicaments en l'entorn en quÃ¨ ens movem, perÃ² tambÃ© hi ha altres causes,
-
-347
-00:19:52,000 --> 00:19:58,000
- que l'hemoglobina no sigui una hemoglobina capaÃ§ de captar oxigen.
-
-348
-00:19:58,000 --> 00:20:02,000
- Per aquÃ­ hi ha una cosa que diuen la sulfhemoglobina,
-
-349
-00:20:02,000 --> 00:20:05,000
- que dius, no sÃ© pas quÃ¨ Ã©s aixÃ².
-
-350
-00:20:05,000 --> 00:20:11,000
- TambÃ© aixÃ² de l'HBAUC, que ens sembla que Ã©s una d'aquestes hemoglobines glicosilades,
-
-351
-00:20:11,000 --> 00:20:14,000
- una d'aquestes coses estranyes, tambÃ© es veu afectada.
-
-352
-00:20:14,000 --> 00:20:18,000
- Ens podem trobar que, si per exemple tenim aquesta hemoglobina en un sofre
-
-353
-00:20:18,000 --> 00:20:21,000
- que hi ha un envoltes porai, ens doni una saturaciÃ³ baixa.
-
-354
-00:20:21,000 --> 00:20:26,000
- El nostre didal ens mesura una saturaciÃ³ baixa i diem, no sÃ© quÃ¨ estÃ  passant.
-
-355
-00:20:26,000 --> 00:20:30,000
- El cas mÃ©s evident Ã©s la carboxi-hemoglobina.
-
-356
-00:20:30,000 --> 00:20:34,000
- Ã‰s a dir, l'hemoglobina pot ser normal, perÃ² tenim un gas diferent a l'oxigen
-
-357
-00:20:34,000 --> 00:20:38,000
- que ha arribat al plasma, en aquest cas el monÃ²xid de carboni, el CO.
-
-358
-00:20:38,000 --> 00:20:44,000
- El monÃ²xid de carboni li encanta l'hemoglobina i s'enganxa a l'hemoglobina i no es deixa anar.
-
-359
-00:20:44,000 --> 00:20:49,000
- I com que els saturadors normals sÃ³n incapaÃ§os de diferenciar una hemoglobina saturada d'oxigen
-
-360
-00:20:49,000 --> 00:20:55,000
- d'una hemoglobina saturada de monÃ²xid de carboni, tenim saturacions del 100%,
-
-361
-00:20:55,000 --> 00:21:00,000
- perquÃ¨ s'enganxa allÃ  a l'hemoglobina el monÃ²xid de carboni i no hi ha manera que es desenganxi.
-
-362
-00:21:00,000 --> 00:21:04,000
- I el nostre saturador no ens diu cap mentida, ens diu aquesta hemoglobina estÃ  saturada,
-
-363
-00:21:04,000 --> 00:21:07,000
- perÃ² estÃ  saturada de monÃ²xid de carboni, no d'oxigen.
-
-364
-00:21:07,000 --> 00:21:11,000
- Per tant, la vÃ­ctima d'una intoxicaciÃ³ pel monÃ²xid de carboni,
-
-365
-00:21:11,000 --> 00:21:17,000
- el saturador marca un 100% preciÃ³s, perÃ² no porta oxigen, la hemoglobina porta el que sigui.
-
-366
-00:21:17,000 --> 00:21:21,000
- Una part sÃ­, evidentment, perquÃ¨ si no estaria mort, i una altra part no.
-
-367
-00:21:21,000 --> 00:21:26,000
- Ã‰s a dir, amb un saturador normal no ens podem refiar del nÃºmero que dÃ³na
-
-368
-00:21:26,000 --> 00:21:30,000
- en potencials vÃ­ctimes d'una intoxicaciÃ³ pel monÃ²xid de carboni.
-
-369
-00:21:30,000 --> 00:21:36,000
- La mÃ©s habitual en el nostre medi no sÃ³n els incendis, que tambÃ©, sinÃ³ les males combustions,
-
-370
-00:21:36,000 --> 00:21:41,000
- de calderes, de brasers, d'allars de foc, de qualsevol cosa que cremi.
-
-371
-00:21:41,000 --> 00:21:45,000
- Quina sort tenim? Doncs que tenim aparells nous, mÃ©s moderns,
-
-372
-00:21:45,000 --> 00:21:51,000
- que en comptes de fer servir dues freqÃ¼Ã¨ncies de llum per llegir la oximetria, en fan servir vÃ ries.
-
-373
-00:21:51,000 --> 00:21:56,000
- I poden detectar d'aquesta manera no nomÃ©s l'hemoglobina saturada amb oxigen,
-
-374
-00:21:56,000 --> 00:21:59,000
- sinÃ³ l'hemoglobina saturada amb altres coses.
-
-375
-00:21:59,000 --> 00:22:04,000
- I ens poden dir quina carboxi-hemoglobina tenen, quina meta-hemoglobina,
-
-376
-00:22:04,000 --> 00:22:07,000
- ara em sortirÃ  la paraula a tu, meta-hemoglobinÃ¨mia,
-
-377
-00:22:07,000 --> 00:22:11,000
- Ã©s a dir, quines hemoglobines ineficaces tambÃ© tenim.
-
-378
-00:22:11,000 --> 00:22:16,000
- El CEM de Catalunya, per exemple, fa servir els monitors cÃ²rpuls,
-
-379
-00:22:16,000 --> 00:22:19,000
- que en la tecnologia Ã©s el mÃ xim, que Ã©s un infernitaliÃ , crec,
-
-380
-00:22:19,000 --> 00:22:25,000
- que et dona la mesura de la saturaciÃ³ d'oxigen, la saturaciÃ³ de monÃ²xid de carboni
-
-381
-00:22:25,000 --> 00:22:30,000
- i la saturaciÃ³ de la meta-hemoglobina, el percentatge de meta-hemoglobina que tens al cel.
-
-382
-00:22:30,000 --> 00:22:32,000
- PerÃ² en el cas aquest quedem-nos amb la idea aquesta.
-
-383
-00:22:32,000 --> 00:22:35,000
- MonÃ²xid de carboni, la saturaciÃ³ no val.
-
-384
-00:22:35,000 --> 00:22:41,000
- El que deia la meta-hemoglobina, una tonteria, si ens trobem amb saturacions
-
-385
-00:22:41,000 --> 00:22:45,000
- al voltant entre el 85-88%, que li fots oxigen i allÃ² no es belluga,
-
-386
-00:22:45,000 --> 00:22:51,000
- i es queda 85-88, 85-88, i desprÃ©s t'hi foten una mascareta de flux,
-
-387
-00:22:51,000 --> 00:22:55,000
- i no puja, i no puja de cap manera, i sempre estÃ  a 85-88,
-
-388
-00:22:55,000 --> 00:23:00,000
- potser el problema el tenim en que tenim una meta-hemoglobina donant voltes per allÃ 
-
-389
-00:23:00,000 --> 00:23:04,000
- que ens estÃ  alterant el resultat del nostre saturant.
-
-390
-00:23:04,000 --> 00:23:08,000
- MÃ©s coses que ens poden complicar l'existÃ¨ncia amb la pulsioximetria.
-
-391
-00:23:08,000 --> 00:23:13,000
- La mÃ©s habitual, especialment els que tenim la gran sort de viure a llocs on fa fresca,
-
-392
-00:23:13,000 --> 00:23:15,000
- Ã©s la vasoconstricciÃ³.
-
-393
-00:23:15,000 --> 00:23:18,000
- Ã‰s a dir, tu perquÃ¨ puguis detectar, amb un dit per exemple,
-
-394
-00:23:18,000 --> 00:23:22,000
- puguis detectar la pulsioximetria necessites bÃ sicament que hi arribi sang,
-
-395
-00:23:22,000 --> 00:23:25,000
- de forma pulsativa, perquÃ¨ si no, no hi ha res a mesurar.
-
-396
-00:23:25,000 --> 00:23:28,000
- I esclar, si fa fred, que tens una vasoconstricciÃ³ perifÃ¨rica,
-
-397
-00:23:28,000 --> 00:23:31,000
- doncs hi arriba poca sang, per aixÃ² tenim els dits enrets, perquÃ¨ hi arriba menys sang.
-
-398
-00:23:31,000 --> 00:23:34,000
- Ja li podem posar el didÃ lia, que allÃ  poc que mesurarÃ .
-
-399
-00:23:34,000 --> 00:23:39,000
- TambÃ© pot passar si la causa d'aquesta poca sang que arriba a les extremitats
-
-400
-00:23:39,000 --> 00:23:41,000
- no Ã©s el fred, sinÃ³ qualsevol altra cosa que ho causa.
-
-401
-00:23:41,000 --> 00:23:46,000
- Per exemple, un xoc, una hipotensiÃ³, una baixada del dÃ¨bit cardÃ­ac,
-
-402
-00:23:46,000 --> 00:23:51,000
- farÃ  que la nostra senyal pulsativa arterial sigui molt baixa.
-
-403
-00:23:51,000 --> 00:23:56,000
- DesprÃ©s, quan parlem de la part de pulsi, explicarem alguna cosa d'aquestes tambÃ©.
-
-404
-00:23:56,000 --> 00:24:01,000
- TambÃ© pot passar una cosa, aixÃ² passarÃ  en els llocs moderns que fan aquestes coses estranyes,
-
-405
-00:24:01,000 --> 00:24:05,000
- si tenim algun malalt que no tÃ© un flux pulsatiu de sang,
-
-406
-00:24:05,000 --> 00:24:09,000
- bÃ sicament porta un ECMO, del qual vam parlar a l'episodi interior,
-
-407
-00:24:09,000 --> 00:24:13,000
- o porta un dispositiu ventricular de llarga durada, aquests tenen fluxos laminars,
-
-408
-00:24:13,000 --> 00:24:19,000
- no sÃ³n pulsatius, i realment el pulsioximetre no detectarÃ  aquesta pulsaciÃ³.
-
-409
-00:24:19,000 --> 00:24:24,000
- Si la perfusiÃ³ Ã©s bona, ens donarÃ  un nÃºmero, perÃ² esclar, la mÃ quina es tornarÃ  boja,
-
-410
-00:24:24,000 --> 00:24:27,000
- aquÃ­ haig de donar un nÃºmero i una pulsaciÃ³, i aquÃ­ no hi ha cap pulsaciÃ³,
-
-411
-00:24:27,000 --> 00:24:30,000
- nomÃ©s donaria el nÃºmero de la llum que arriba i la llum que no ve.
-
-412
-00:24:30,000 --> 00:24:33,000
- PodrÃ­em trobar-nos amb alguna mÃ quina que digui no sÃ© de quÃ¨ va,
-
-413
-00:24:33,000 --> 00:24:35,000
- i jo dic que aixÃ² no va.
-
-414
-00:24:35,000 --> 00:24:39,000
- Suposo que les mÃ quines no sÃ³n tan ruques, perÃ² a saber.
-
-415
-00:24:39,000 --> 00:24:44,000
- I lligat amb el tema aquest de la baixa perfusiÃ³, de la baixa constricciÃ³ i demÃ©s,
-
-416
-00:24:44,000 --> 00:24:48,000
- entrarÃ­em tambÃ© en on hem de posar els didals, que si Ã©s un didal val dit.
-
-417
-00:24:48,000 --> 00:24:50,000
- Si un nom indica, didal, dit.
-
-418
-00:24:50,000 --> 00:24:55,000
- Quin dit? Qualsevol. Sembla que el polsa, diuen que Ã©s el mÃ©s precÃ­s.
-
-419
-00:24:55,000 --> 00:24:59,000
- Bueno, qualsevol que tingui un flux rebonable.
-
-420
-00:24:59,000 --> 00:25:02,000
- De fet, fa uns dies vam tenir un xicot que va venir per una congelaciÃ³,
-
-421
-00:25:02,000 --> 00:25:05,000
- una miqueta de congelaciÃ³ amb un dit, i una tonteria.
-
-422
-00:25:05,000 --> 00:25:08,000
- HavÃ­em de posar el didal de pulsioximetre en aquell dit,
-
-423
-00:25:08,000 --> 00:25:12,000
- i tenia un puls bastant digne. Per tant, aquell dit estava relativament ben perfÃ³s.
-
-424
-00:25:12,000 --> 00:25:17,000
- Si fots el didal allÃ , i aquell didal no dona res, doncs Ã©s que no estÃ  perfÃ³s.
-
-425
-00:25:17,000 --> 00:25:21,000
- PerÃ² tambÃ© hi ha altres sensors. Tenim sensors que podem posar als dits,
-
-426
-00:25:21,000 --> 00:25:25,000
- perÃ² tambÃ© els podem posar al palmell de la mÃ , per exemple, amb els nadons,
-
-427
-00:25:25,000 --> 00:25:30,000
- si hem de fer un preducte a la mÃ  dreta, que bÃ sicament Ã©s un sensor adhesiu,
-
-428
-00:25:30,000 --> 00:25:33,000
- que en el cas de fer-se encarar tant l'emissor com el receptor,
-
-429
-00:25:33,000 --> 00:25:35,000
- que quedin encarats l'un amb l'altre.
-
-430
-00:25:35,000 --> 00:25:37,000
- Aquests els podem fer servir a les orelles, tambÃ©.
-
-431
-00:25:37,000 --> 00:25:41,000
- Si tenim algÃº que tenim dificultats per posar-li el pulsioximetre a la mÃ ,
-
-432
-00:25:41,000 --> 00:25:43,000
- doncs li podem enganxar a l'orella.
-
-433
-00:25:43,000 --> 00:25:46,000
- I llavors hi ha altres sensors, un de front, Ã©s a dir,
-
-434
-00:25:46,000 --> 00:25:50,000
- un sensor que tÃ© la llum lament, rebota per entendre'ns,
-
-435
-00:25:50,000 --> 00:25:52,000
- aixÃ² ho estic dient molt malament, perÃ² espero que s'entengui.
-
-436
-00:25:52,000 --> 00:25:56,000
- La llum rebota contra la pell i Ã©s captat pel sensor del costat.
-
-437
-00:25:56,000 --> 00:26:01,000
- Si en comptes de fer la transilÂ·luminaciÃ³, si en comptes que la llum travessa el teixit,
-
-438
-00:26:01,000 --> 00:26:05,000
- el que fa Ã©s, m'ho diuen, retrodispersiÃ³. L'envia i el rep.
-
-439
-00:26:05,000 --> 00:26:08,000
- AixÃ² Ã©s menys precÃ­s, perÃ² pot anar bÃ© si la perfusiÃ³ Ã©s mÃ©s dolenta.
-
-440
-00:26:08,000 --> 00:26:11,000
- Quines sÃ³n de mÃ  millor? Doncs no ho sabem.
-
-441
-00:26:11,000 --> 00:26:14,000
- PerquÃ¨ el nostre pacient en concret ens interessi.
-
-442
-00:26:14,000 --> 00:26:18,000
- MÃ©s coses que ens interessen de la pulsioximetria estan per la mÃ .
-
-443
-00:26:18,000 --> 00:26:23,000
- Hi ha una cosa, aixÃ² Ã©s una xorrada, perÃ² com que surt aquÃ­ en el paperot la dirÃ©,
-
-444
-00:26:23,000 --> 00:26:29,000
- que Ã©s que si et donen medicaments que modifiquen molt molt moltÃ­ssim el teu color,
-
-445
-00:26:29,000 --> 00:26:34,000
- precisament el color intravascular, doncs es veurÃ  alterat la mesura.
-
-446
-00:26:34,000 --> 00:26:38,000
- AquÃ­ parlen del blau de matiler, que aixÃ² sÃ­ que alguna UCI fa servir alguna vegada
-
-447
-00:26:38,000 --> 00:26:46,000
- quan estÃ  en una situaciÃ³ desesperada de vasoplegia que no poden resoldre amb vasopressors ordinaris.
-
-448
-00:26:46,000 --> 00:26:50,000
- Hi ha altres colorants d'aquests, doncs et pots trobar que tinguis unes saturacions rarÃ­ssimes
-
-449
-00:26:50,000 --> 00:26:56,000
- perquÃ¨ clar, el color canvia i l'absorciÃ³ dels nostres emissors, doncs la mÃ quina es fot un riu.
-
-450
-00:26:56,000 --> 00:27:00,000
- I com a Ãºltima cosa per comentar de la pulsioximetria,
-
-451
-00:27:00,000 --> 00:27:04,000
- i aquesta tambÃ© Ã©s important penso jo, i torna a anar en contra,
-
-452
-00:27:04,000 --> 00:27:08,000
- en aquest cas no Ã©s culpa seva, torna a anar en contra dels fabricants,
-
-453
-00:27:08,000 --> 00:27:13,000
- Ã©s que la precisiÃ³ d'aquest cÃ lcul que fan les seves mÃ quines,
-
-454
-00:27:13,000 --> 00:27:16,000
- clar, ells nomÃ©s l'han pogut verificar amb voluntaris.
-
-455
-00:27:16,000 --> 00:27:22,000
- I tu a un voluntarissar el pots emprenyar una miqueta, perÃ² no el pots protegir molt.
-
-456
-00:27:22,000 --> 00:27:30,000
- Ens trobem que les saturacions sÃ³n bastant fiables en valors, diguem-ne, alts, en valors relativament normals.
-
-457
-00:27:30,000 --> 00:27:34,000
- PerÃ² a partir de que, si us sona aquella corba que hem parlat de la dissociaciÃ³ de l'hemoglobina,
-
-458
-00:27:34,000 --> 00:27:39,000
- a partir de que ho encem anar a la part baixa de la corba, que llavors es desploma brutalment,
-
-459
-00:27:39,000 --> 00:27:45,000
- clar, aquÃ­ no hem agafat un voluntari a dir, ara li fotrem una pressiÃ³ parcial d'oxigen de 40.
-
-460
-00:27:45,000 --> 00:27:50,000
- Home, Ã©s molt justet 40, eh? No, perÃ² ara a mÃ©s a mÃ©s li fotrem de 20.
-
-461
-00:27:50,000 --> 00:27:52,000
- Molt justet, aixÃ² no ho pots fer.
-
-462
-00:27:52,000 --> 00:27:58,000
- Les seves mesures en valors baixos de saturaciÃ³ d'oxigen sÃ³n poc fiables.
-
-463
-00:27:58,000 --> 00:28:01,000
- Quin valor per sota del qual no et refiaries?
-
-464
-00:28:01,000 --> 00:28:04,000
- Bueno, el paper parla del 75%.
-
-465
-00:28:04,000 --> 00:28:09,000
- Jo em quedaria amb que per sota del nÃºmero aquell Ã©s un desastre, no saps quin Ã©s.
-
-466
-00:28:09,000 --> 00:28:15,000
- Ja estÃ . Per sota d'aquÃ­ ja hauries d'estar fent coses fa una estona, ja va estar.
-
-467
-00:28:15,000 --> 00:28:21,000
- Vols dir, Albert, que si els fabricants haguessin fet estudis amb gent voluntÃ ria
-
-468
-00:28:21,000 --> 00:28:28,000
- sotmesos a baixes pressions d'oxigen i haguessin pogut fer els seus cÃ lculs,
-
-469
-00:28:28,000 --> 00:28:32,000
- podrÃ­em tindre unes bones saturacions ara o no?
-
-470
-00:28:32,000 --> 00:28:38,000
- Doncs la veritat no ho sÃ©, perÃ² Ã©s que fins i tot per sota del 75,
-
-471
-00:28:38,000 --> 00:28:42,000
- fins i tot aquells que deuen, no sÃ© quines saturacions gasten els que se'n van a expedicions amb altitud,
-
-472
-00:28:42,000 --> 00:28:43,000
- perÃ² vaja.
-
-473
-00:28:43,000 --> 00:28:45,000
- Estava pensant en aquests, eh?
-
-474
-00:28:45,000 --> 00:28:50,000
- Ara s'estÃ  adaptant, llavors ja no et val tampoc, no? HaurÃ­em d'haver agafat els xerpes.
-
-475
-00:28:50,000 --> 00:28:54,000
- SÃ­, no, no. Estava pensant en aixÃ², la gent que puja, no?
-
-476
-00:28:54,000 --> 00:28:59,000
- Que te'n vas als Andes o te'n vagis on vulguis i puges a 5.000 metres o 6.000 metres
-
-477
-00:28:59,000 --> 00:29:04,000
- i estÃ s sa perÃ² s'atures baixet.
-
-478
-00:29:04,000 --> 00:29:07,000
- PerÃ² has d'estar, per aguantar aixÃ² i no morir has d'estar adaptat.
-
-479
-00:29:07,000 --> 00:29:08,000
- SÃ­, sÃ­, sÃ­.
-
-480
-00:29:08,000 --> 00:29:12,000
- Llavors si ets un voluntari sa, perÃ² ets d'una poblaciÃ³ de voluntaris
-
-481
-00:29:12,000 --> 00:29:15,000
- que no Ã©s representativa dels pacients que tindrÃ s.
-
-482
-00:29:15,000 --> 00:29:16,000
- Ã‰s una miqueta...
-
-483
-00:29:16,000 --> 00:29:17,000
- SÃ­, sÃ­, sÃ­.
-
-484
-00:29:17,000 --> 00:29:21,000
- Agafem la gent i els asfixiem. Lleig, lleig.
-
-485
-00:29:21,000 --> 00:29:22,000
- SÃ­, sÃ­, no, no.
-
-486
-00:29:22,000 --> 00:29:24,000
- No es pot fer, vaja, ja estÃ .
-
-487
-00:29:24,000 --> 00:29:26,000
- A partir d'aquÃ­ tot sÃ³n extrapolacions.
-
-488
-00:29:26,000 --> 00:29:28,000
- AquÃ­ el que sÃ­ que es podria fer Ã©s amb malalts.
-
-489
-00:29:28,000 --> 00:29:29,000
- Ã‰s agafar i dir malalts de...
-
-490
-00:29:29,000 --> 00:29:32,000
- Quan els tens a saturacions que et diu 60,
-
-491
-00:29:32,000 --> 00:29:34,000
- dir, doncs, traiem-li una gasometria i ho mesurem.
-
-492
-00:29:34,000 --> 00:29:38,000
- I ho portem, clar, logÃ­sticament Ã©s un infern per fer aixÃ².
-
-493
-00:29:38,000 --> 00:29:41,000
- I a mÃ©s a mÃ©s no portarÃ s malalts a 60 perquÃ¨...
-
-494
-00:29:41,000 --> 00:29:43,000
- Per tant, sapiguem aixÃ².
-
-495
-00:29:43,000 --> 00:29:47,000
- I a mÃ©s a mÃ©s, a mesura que hi hagi un resultat de cert nÃºmero,
-
-496
-00:29:47,000 --> 00:29:49,000
- podrÃ­em fer servir aquesta referÃ¨ncia del 75%,
-
-497
-00:29:49,000 --> 00:29:51,000
- a mi no em sembla pas un nÃºmero descabellat.
-
-498
-00:29:51,000 --> 00:29:55,000
- A mesura que hi ha aquest nÃºmero saps que estÃ s molt avall perÃ² no s'ha sortit.
-
-499
-00:29:55,000 --> 00:29:58,000
- I el mateix ens passa si ens anem per sobre.
-
-500
-00:29:58,000 --> 00:30:05,000
- Ã‰s a dir, a partir del moment en quÃ¨ tota la nostra hemoglobina estÃ  saturada,
-
-501
-00:30:05,000 --> 00:30:10,000
- la pressiÃ³ parcial d'oxigen que hi ha a la sang no la podem saber.
-
-502
-00:30:10,000 --> 00:30:13,000
- Si la dissucim de la hemoglobina, podem tenir una pressiÃ³ parcial d'oxigen,
-
-503
-00:30:13,000 --> 00:30:16,000
- en comptes de 100, que seria una pressiÃ³ normal de 100 milÂ·limetres de mercut.
-
-504
-00:30:16,000 --> 00:30:19,000
- La tenim a 1.000, seguirem saturant-se.
-
-505
-00:30:19,000 --> 00:30:25,000
- I si la tenim a 10.000, no s'hi pot arribar perÃ² no Ã©s igual, seguirem al 100%.
-
-506
-00:30:25,000 --> 00:30:31,000
- AixÃ² no seria un problema si no fos perquÃ¨ la hiperÃ²xia Ã©s la ziva.
-
-507
-00:30:31,000 --> 00:30:38,000
- Per tant, sapiguem que 100% probablement tampoc sigui un nÃºmero que ens interessi,
-
-508
-00:30:38,000 --> 00:30:40,000
- perquÃ¨ no sabem si estem passats.
-
-509
-00:30:40,000 --> 00:30:44,000
- Quedar-nos amb un nÃºmero al voltant del 95 Ã©s una bona idea.
-
-510
-00:30:44,000 --> 00:30:48,000
- I sembla que Ã©s una bona idea, perquÃ¨ hi ha diversos estudis que en donen moltes porai,
-
-511
-00:30:48,000 --> 00:30:51,000
- sobretot en posaturada cardÃ­aca.
-
-512
-00:30:51,000 --> 00:30:56,000
- Sembla que Ã©s una bona idea quedar-se amb el 95-96 i no buscar mÃ©s.
-
-513
-00:30:56,000 --> 00:31:00,000
- Jugant amb aquest mateix principi, si tu has d'intubar algÃº que saps que necessitarÃ s,
-
-514
-00:31:00,000 --> 00:31:03,000
- deixarÃ s el mal una estona amb amnia,
-
-515
-00:31:03,000 --> 00:31:08,000
- perÃ² t'interessa anar molt amunt, per tant has d'arribar al 100% perquÃ¨ saps que estarÃ s molt amunt.
-
-516
-00:31:08,000 --> 00:31:10,000
- No saps on, perÃ² estarÃ s molt amunt.
-
-517
-00:31:10,000 --> 00:31:14,000
- T'interessa justament per aixÃ², perquÃ¨ la poca quantitat d'oxigen que tindrÃ s en plasma,
-
-518
-00:31:14,000 --> 00:31:18,000
- que tampoc Ã©s molta, perÃ² allÃ  la tens, Ã©s una referÃ¨ncia que et dona.
-
-519
-00:31:18,000 --> 00:31:24,000
- SÃ© que he arribat a 100, sÃ© que estic molt amunt, ara el meu malalt tÃ© mÃ©s temps per resistir l'amnia.
-
-520
-00:31:24,000 --> 00:31:29,000
- I aixÃ² que acabo d'explicar ara ens porta a una altra qÃ¼estiÃ³ que tambÃ© Ã©s interessant,
-
-521
-00:31:29,000 --> 00:31:34,000
- que Ã©s que el que jo veig amb el meu pulsioximetre m'estÃ  ensenyant el passat del meu pacient.
-
-522
-00:31:34,000 --> 00:31:36,000
- Per quÃ¨ dic aixÃ²?
-
-523
-00:31:36,000 --> 00:31:39,000
- La saturaciÃ³ de l'oxigen de la sang que estic mesurant en aquell moment
-
-524
-00:31:39,000 --> 00:31:43,000
- Ã©s la sang que s'ha oxigenat uns quants batecs enrere.
-
-525
-00:31:43,000 --> 00:31:49,000
- Si recordem el circuit de la circulaciÃ³ sanguÃ­nia, tenim el circuit menor de la circulaciÃ³ pulmonar,
-
-526
-00:31:49,000 --> 00:31:55,000
- el nostre hematia estÃ  a l'alveol, amb el segÃ¼ent batec se'n va a l'aurÃ­cula esquerra,
-
-527
-00:31:55,000 --> 00:32:00,000
- amb el segÃ¼ent batec se'n va a l'entricula esquerra, amb el segÃ¼ent batec s'obre l'entricula esquerra
-
-528
-00:32:00,000 --> 00:32:07,000
- i x batecs desprÃ©s que ha passat per l'alveol arriba a ser detectat pel nostre sensor.
-
-529
-00:32:07,000 --> 00:32:10,000
- Per tant, en funciÃ³ de la freqÃ¼Ã¨ncia cardÃ­aca del pacient,
-
-530
-00:32:10,000 --> 00:32:17,000
- ens podem trobar que la mesura d'oximetria d'aquell moment correspon a uns quants segons enrere.
-
-531
-00:32:17,000 --> 00:32:20,000
- AixÃ² vol dir, en el cas que explicava de la intubaciÃ³,
-
-532
-00:32:20,000 --> 00:32:27,000
- si jo veig un 94, aquest 94 Ã©s com tenia la saturaciÃ³ al meu pacient fa 4, 5, 6 segons.
-
-533
-00:32:27,000 --> 00:32:30,000
- Si no faig res, baixarÃ  durant els segÃ¼ents segons.
-
-534
-00:32:30,000 --> 00:32:33,000
- Si faig alguna cosa al cap de 5, 6 segons, veurÃ© el canvi.
-
-535
-00:32:33,000 --> 00:32:35,000
- AixÃ² Ã©s un dels motius pel qual si intuem algÃº,
-
-536
-00:32:35,000 --> 00:32:38,000
- aixÃ² ho haurem d'explicar el dia que parlem de la intubaciÃ³,
-
-537
-00:32:38,000 --> 00:32:43,000
- si intuem algÃº i la saturaciÃ³ ens baixa, no hem d'esperar que estigui molt baixa,
-
-538
-00:32:43,000 --> 00:32:45,000
- perquÃ¨ vol dir que encara baixarÃ  mÃ©s desprÃ©s.
-
-539
-00:32:45,000 --> 00:32:51,000
- Si recordeu de la coorba de dissociaciÃ³ de l'hemoglobina, cau de forma molt brusca a partir d'aquest punt d'inflexiÃ³,
-
-540
-00:32:51,000 --> 00:32:53,000
- que Ã©s als 80 pocs.
-
-541
-00:32:53,000 --> 00:32:58,000
- Ã‰s a dir, 80 ja Ã©s un nÃºmero en quÃ¨ ja s'estÃ  desplomant i la cosa va de mal.
-
-542
-00:32:58,000 --> 00:33:02,000
- I em sembla que per la banda de l'oximetria jo ja he fotut un rotllo.
-
-543
-00:33:02,000 --> 00:33:05,000
- Jo crec que aquÃ­, la banda de l'oximetria, ja podrÃ­em acabar-ho.
-
-544
-00:33:05,000 --> 00:33:07,000
- No sÃ© si tens algun dubte.
-
-545
-00:33:07,000 --> 00:33:10,000
- Si els nostres avions tenen algun dubte, envieu-ho a un grup de Telegram
-
-546
-00:33:10,000 --> 00:33:13,000
- o ens ho envieu d'alguna manera i el contestarem en un altre episodi.
-
-547
-00:33:13,000 --> 00:33:16,000
- Ok. BÃ©, doncs molt bÃ©.
-
-548
-00:33:16,000 --> 00:33:21,000
- I deixem la banda de l'oximetria, passem a la banda de la pulsi.
-
-549
-00:33:21,000 --> 00:33:27,000
- La banda del puls, que Ã©s l'altra cosa que ens permet mesurar aquests aparells, els puls i oxÃ­metres.
-
-550
-00:33:27,000 --> 00:33:32,000
- He explicat que tinc un puls i oxÃ­metre que vaig comprar a l'eBay fa molts anys.
-
-551
-00:33:32,000 --> 00:33:39,000
- Aquest puls i oxÃ­metre que tinc no tenia una representaciÃ³ grÃ fica de l'ona de puls.
-
-552
-00:33:39,000 --> 00:33:42,000
- Tenia unes barretes que pujaven i baixaven
-
-553
-00:33:42,000 --> 00:33:45,000
- en funciÃ³ de la seva valoraciÃ³, diguem-ne,
-
-554
-00:33:45,000 --> 00:33:48,000
- anava a dir numÃ¨rica perÃ² no sÃ© com dir-ho,
-
-555
-00:33:48,000 --> 00:33:52,000
- de la seva valoraciÃ³ de la intensitat del puls era aquesta pujadeta i baixadeta.
-
-556
-00:33:52,000 --> 00:33:55,000
- La majoria d'aparells moderns, fins i tot aquests de dit dels xinos,
-
-557
-00:33:55,000 --> 00:34:00,000
- tenen una ona, aquesta n'hi diem l'ona platismogrÃ fica.
-
-558
-00:34:00,000 --> 00:34:05,000
- Aquesta ona el que mesura Ã©s aquesta pulsativitat de la sang que ve.
-
-559
-00:34:05,000 --> 00:34:11,000
- Hi ha una lÃ­nia basal, ve la ona pulsativa, puja i baixa.
-
-560
-00:34:11,000 --> 00:34:17,000
- Cada vegada que el puls detecta un pic prou prominent ho considera un batec i els mesura.
-
-561
-00:34:17,000 --> 00:34:22,000
- Com els mesura? Doncs no ho sÃ©, la majoria d'emitors que tenim acostumen a fer una mitjana
-
-562
-00:34:22,000 --> 00:34:29,000
- dels tres Ãºltims batecs, tant per la freqÃ¼Ã¨ncia cardÃ­aca com en aquest cas el puls perifÃ¨ric.
-
-563
-00:34:29,000 --> 00:34:32,000
- Si tens tres de seguits molt seguits, et donaran una freqÃ¼Ã¨ncia molt alta.
-
-564
-00:34:32,000 --> 00:34:36,000
- Si estan molt separats, perquÃ¨ has tingut una pausa sinusal o el que sigui,
-
-565
-00:34:36,000 --> 00:34:39,000
- o fas una mica de bradicÃ rdia, llavors aixÃ² canvia.
-
-566
-00:34:39,000 --> 00:34:45,000
- AixÃ² fa tambÃ© que si tens una rÃ­tmia, la teva freqÃ¼Ã¨ncia cardÃ­aca mesurada pel puls i oxÃ­metre
-
-567
-00:34:45,000 --> 00:34:48,000
- sigui poc fiable, perquÃ¨ n'hi ha pujant i baixant.
-
-568
-00:34:48,000 --> 00:34:52,000
- No et pots quedar amb un nÃºmero puntual, sinÃ³ que has d'agafar-te una idea global.
-
-569
-00:34:52,000 --> 00:34:59,000
- EstÃ  a 130, 140, 120, 130, 140, 120, aquest tio va a 130, perquÃ¨ mÃ©s o menys Ã©s el nÃºmero que ens queda.
-
-570
-00:34:59,000 --> 00:35:05,000
- La forma d'aquesta ona platismogrÃ fica, Ã©s a dir, de com puja i com baixa,
-
-571
-00:35:05,000 --> 00:35:12,000
- ens dona una certa informaciÃ³. De fet, mireu si ens dona informaciÃ³ que si la ona no Ã©s bona,
-
-572
-00:35:12,000 --> 00:35:17,000
- si no tens una ona ben dibuixada, no et creus la saturaciÃ³ que t'estÃ  donant,
-
-573
-00:35:17,000 --> 00:35:21,000
- perquÃ¨ no tens clar que estiguis mesurant el que has de mesurar.
-
-574
-00:35:21,000 --> 00:35:26,000
- Si la ona Ã©s bona, Ã©s a dir, tu veus un bon puls, saps que aquella persona estÃ  ben perfosa
-
-575
-00:35:26,000 --> 00:35:29,000
- i com que baixa perfusiÃ³ Ã©s un dels motius d'imprecisiÃ³ de la mesura,
-
-576
-00:35:29,000 --> 00:35:31,000
- doncs aquest l'elimines.
-
-577
-00:35:31,000 --> 00:35:34,000
- PerÃ² si tens una ona platismogrÃ fica molt dolenta, no saps quÃ¨ estÃ s mesurant.
-
-578
-00:35:34,000 --> 00:35:39,000
- I aixÃ² Ã©s una de les coses que ens ha de fer por quan tenim un malalt en mal estat.
-
-579
-00:35:39,000 --> 00:35:44,000
- Si el teu saturador Ã©s incapaÃ§ de mesurar o la ona Ã©s dolentÃ­ssima,
-
-580
-00:35:44,000 --> 00:35:49,000
- jo em preocuparia bastant poc de la saturaciÃ³ i em preocuparia bastant mÃ©s de la perfusiÃ³ d'aquest malalt.
-
-581
-00:35:49,000 --> 00:35:52,000
- Ã‰s una altra idea. La ona aquesta, dius, Ã©s que no sÃ© quina saturaciÃ³ tÃ©,
-
-582
-00:35:52,000 --> 00:35:55,000
- clar que em preocupa, evidentment que em preocupa, perÃ² no sÃ© quina tÃ©.
-
-583
-00:35:55,000 --> 00:35:59,000
- Jo el que sÃ© Ã©s que tenim un problema de perfusiÃ³, perquÃ¨ el meu saturador,
-
-584
-00:35:59,000 --> 00:36:02,000
- a pesar d'haver-lo canviat d'allÃ², a pesar d'haver provat les 1.001,
-
-585
-00:36:02,000 --> 00:36:06,000
- segueix mesurant una corba dolentÃ­ssima. Anem a resoldre el problema.
-
-586
-00:36:06,000 --> 00:36:11,000
- El pulsosÃ­metre no ho vam pensar per mesurar aixÃ², perÃ² tambÃ© ens Ã©s Ãºtil.
-
-587
-00:36:11,000 --> 00:36:14,000
- Amb aixÃ² el que he fet Ã©s he fet una anÃ lisi de la forma de la ona,
-
-588
-00:36:14,000 --> 00:36:18,000
- que Ã©s una altra de les coses que podem valorar en la pulsosimetria.
-
-589
-00:36:18,000 --> 00:36:23,000
- AquÃ­ hi ha una part tambÃ©, no sÃ© fins a quin punt aixÃ² Ã©s molt, molt fiable,
-
-590
-00:36:23,000 --> 00:36:25,000
- algunes de les coses que dirÃ© ara.
-
-591
-00:36:25,000 --> 00:36:28,000
- Jo no hi tinc una fecega, en algunes sÃ­, en d'altres no.
-
-592
-00:36:28,000 --> 00:36:34,000
- Coses que sÃ­ que podem veure. L'amplitud, Ã©s a dir, com de gran Ã©s aquesta corba,
-
-593
-00:36:34,000 --> 00:36:37,000
- aquest pic que puja i desprÃ©s baixa, com de gran Ã©s,
-
-594
-00:36:37,000 --> 00:36:40,000
- quin volum hi ha a sota d'aquesta corba, de forma indirecta ens mesura
-
-595
-00:36:40,000 --> 00:36:44,000
- quina quantitat de sang, quin volum sistÃ²lic s'ha ejectat.
-
-596
-00:36:44,000 --> 00:36:47,000
- AixÃ², per exemple, Ã©s bastant divertit de veure quan tens, per exemple,
-
-597
-00:36:47,000 --> 00:36:51,000
- un extracÃ­stole, que desprÃ©s de l'extracÃ­stole tens una pausa compensatÃ²ria,
-
-598
-00:36:51,000 --> 00:36:55,000
- al segÃ¼ent batec veus com l'amplitud Ã©s molt mÃ©s gran.
-
-599
-00:36:55,000 --> 00:36:59,000
- Estem parlant de la corba del pulsioximetre. Per quÃ¨ Ã©s mÃ©s gran?
-
-600
-00:36:59,000 --> 00:37:05,000
- Al segÃ¼ent batec ha emÃ¨s un volum mÃ©s gran de sang i ha desplaÃ§at un volum mÃ©s gran de sang,
-
-601
-00:37:05,000 --> 00:37:10,000
- perquÃ¨ ha tingut mÃ©s temps d'omplir-se l'aurÃ­cula i desprÃ©s ha passat mÃ©s sang al ventricle
-
-602
-00:37:10,000 --> 00:37:13,000
- i ha fet un volum sistÃ²lic mÃ©s gran. TÃ© la seva grÃ cia.
-
-603
-00:37:13,000 --> 00:37:16,000
- Veus aixÃ² i dius mira, amplitud, amplitud.
-
-604
-00:37:16,000 --> 00:37:20,000
- A mÃ©s a mÃ©s tambÃ© Ã©s divertit de veure com des del batec que veus amb l'electro
-
-605
-00:37:20,000 --> 00:37:24,000
- passa una mica de temps i es detecta en el pulsi.
-
-606
-00:37:24,000 --> 00:37:26,000
- Una de les coses del retat.
-
-607
-00:37:26,000 --> 00:37:31,000
- No tÃ© per quÃ¨ correspondre el batec que t'arriba, o sigui, la sang que t'arriba,
-
-608
-00:37:31,000 --> 00:37:36,000
- no tÃ© per quÃ¨ ser la del batec que ha detectat el deixonsis electrocardiograma.
-
-609
-00:37:36,000 --> 00:37:38,000
- AixÃ² tambÃ© Ã©s nou.
-
-610
-00:37:38,000 --> 00:37:43,000
- AquÃ­ en el document, que jo us recomano que llegiu,
-
-611
-00:37:43,000 --> 00:37:47,000
- Ã©s molt mÃ©s rÃ pid llegir-lo que escoltar-nos, perÃ² bueno, tampoc Ã©s tan divertit.
-
-612
-00:37:47,000 --> 00:37:50,000
- Hi ha diferents formes d'aquesta ona.
-
-613
-00:37:50,000 --> 00:37:57,000
- La ona aquesta de pulsioximetria que us dic, la ona de pols, tÃ© la pujada de quan comenÃ§a la sÃ­stole,
-
-614
-00:37:57,000 --> 00:38:00,000
- Ã©s a dir, quan s'obre la vÃ lvula Ã²rtica, comenÃ§a a sortir tota la sang,
-
-615
-00:38:00,000 --> 00:38:03,000
- i hi ha un moment de mÃ xima pressiÃ³ que Ã©s quan tota la sang estÃ  sortint.
-
-616
-00:38:03,000 --> 00:38:06,000
- A partir d'aquÃ­ comenÃ§a a crÃ©ixer la pressiÃ³ fins que es tanca la vÃ lvula Ã²rtica
-
-617
-00:38:06,000 --> 00:38:08,000
- i llavors acaba de caure del tot.
-
-618
-00:38:08,000 --> 00:38:11,000
- Doncs quan s'obre la vÃ lvula Ã©s quan comenÃ§a la pujada
-
-619
-00:38:11,000 --> 00:38:16,000
- i quan es tanca ja estÃ  en la baixada i llavors Ã©s una muntanyeta que ve darrere.
-
-620
-00:38:16,000 --> 00:38:20,000
- Jo el que he vist una vegada, vaig veure en el seu moment fa bastants anys,
-
-621
-00:38:20,000 --> 00:38:25,000
- amb un aparell no molt precÃ­s, que no mesurava la forma de la corba,
-
-622
-00:38:25,000 --> 00:38:30,000
- Ã©s una taquicÃ rdia ventricular de 200 i escaig, un pagÃ¨s,
-
-623
-00:38:30,000 --> 00:38:33,000
- i la mÃ quina mesurava 100 de pols,
-
-624
-00:38:33,000 --> 00:38:37,000
- perquÃ¨ assumia que el segon pic que detectava
-
-625
-00:38:37,000 --> 00:38:41,000
- corresponia a aquest pic que es fa quan es tanca la vÃ lvula.
-
-626
-00:38:41,000 --> 00:38:47,000
- Ara ja la majoria de saturadors van amb la ONA, ens hi podrÃ­em fixar,
-
-627
-00:38:47,000 --> 00:38:52,000
- perÃ² no estÃ  de mÃ©s corroborar amb un pols perifÃ¨ric
-
-628
-00:38:52,000 --> 00:38:54,000
- que aquell nÃºmero que t'estÃ  donant la maquineta
-
-629
-00:38:54,000 --> 00:38:56,000
- correspon a la realitat que tu pots mesurar.
-
-630
-00:38:56,000 --> 00:39:01,000
- En aquest cas era, segurament, la mÃ quina interpretava aquesta segona pujadeta,
-
-631
-00:39:01,000 --> 00:39:04,000
- com que no devia tenir temps, acabava de baixar del tot i ja arribava a la segÃ¼ent,
-
-632
-00:39:04,000 --> 00:39:09,000
- no arribava a la lÃ­nia basal, ho entenia com aquest pic diastÃ²lic que se'n diu,
-
-633
-00:39:09,000 --> 00:39:11,000
- que Ã©s el tancament de la vÃ lvula Ã²rtica.
-
-634
-00:39:11,000 --> 00:39:15,000
- Una corba normal Ã©s aixÃ², tens una pujada molt vertical,
-
-635
-00:39:15,000 --> 00:39:18,000
- comenÃ§a a baixar i abans d'arribar a baixar del tot
-
-636
-00:39:18,000 --> 00:39:20,000
- tenim aquest segon pic petitet.
-
-637
-00:39:20,000 --> 00:39:25,000
- I aquÃ­ hi ha diferents estudis que ens dibuixen diferents altres formes,
-
-638
-00:39:25,000 --> 00:39:27,000
- altres formes d'aquesta ONA.
-
-639
-00:39:27,000 --> 00:39:31,000
- Per exemple, ens diu que si estÃ  molt vasoconstrenyit aquest pacient
-
-640
-00:39:31,000 --> 00:39:36,000
- tenim que el pic diastÃ²lic, Ã©s a dir, aquÃ­ on se'ns tanca la vÃ lvula Ã²rtica,
-
-641
-00:39:36,000 --> 00:39:39,000
- estÃ  molt elevada respecte al pic sistÃ²lic,
-
-642
-00:39:39,000 --> 00:39:42,000
- Ã©s a dir, allÃ  on arriba des que s'obre la vÃ lvula.
-
-643
-00:39:42,000 --> 00:39:45,000
- Ã‰s a dir, l'espai que queda entre els dos pics Ã©s molt petitet.
-
-644
-00:39:45,000 --> 00:39:50,000
- A mi em sembla, aquÃ­ aixÃ² jo no m'hi fixaria massa perquÃ¨ realment a mi em costa veure-ho.
-
-645
-00:39:50,000 --> 00:39:53,000
- Porto temps que amb els meus, quan estic a l'hospital,
-
-646
-00:39:53,000 --> 00:39:57,000
- que tenim una central de monitoritzaciÃ³, allÃ  a la nit que estÃ s allÃ  rebentat
-
-647
-00:39:57,000 --> 00:39:59,000
- i veus les zones de puls i dels teus pacients,
-
-648
-00:39:59,000 --> 00:40:02,000
- miro, a veure aquest, a veure aquest, i sÃ³c incapaÃ§ de diferenciar una cosa de l'altra.
-
-649
-00:40:02,000 --> 00:40:07,000
- Si algÃº Ã©s capaÃ§ de fer-ho i ens ho pot explicar bÃ©, jo estaria encantat d'escoltar.
-
-650
-00:40:07,000 --> 00:40:09,000
- I no ho sÃ©, jo, per la meva banda, podria emmatar aquÃ­.
-
-651
-00:40:09,000 --> 00:40:14,000
- De tota la pulsi, em sembla que tot el que Ã©s, aixÃ² ho podrÃ­em dir en pulsioximetria,
-
-652
-00:40:14,000 --> 00:40:16,000
- tot el que necessites saber i mÃ©s.
-
-653
-00:40:17,000 --> 00:40:25,000
- Jo el meu pulsi portÃ til sÃ­ que et fa una petita grÃ fica de puntets que pugen i que baixen,
-
-654
-00:40:25,000 --> 00:40:27,000
- perÃ² no em dÃ³na tanta informaciÃ³, eh, el meu portÃ til, eh.
-
-655
-00:40:27,000 --> 00:40:29,000
- AixÃ² vol dir que fa temps que el tens.
-
-656
-00:40:29,000 --> 00:40:30,000
- SÃ­, sÃ­, sÃ­, sÃ­.
-
-657
-00:40:30,000 --> 00:40:32,000
- SÃ­, sÃ­, i cau a terra.
-
-658
-00:40:32,000 --> 00:40:34,000
- Els models aquests que es compren als xinos.
-
-659
-00:40:34,000 --> 00:40:38,000
- SÃ­, cau a terra, es desmunta, el torno a muntar i segueix funcionant.
-
-660
-00:40:38,000 --> 00:40:39,000
- No ho sÃ©.
-
-661
-00:40:39,000 --> 00:40:40,000
- Ã‰s resistent, Ã©s resistent.
-
-662
-00:40:40,000 --> 00:40:42,000
- Ã‰s resistent, sÃ­.
-
-663
-00:40:42,000 --> 00:40:46,000
- BÃ©, molt bÃ©, no ho sÃ©, aviam, aixÃ² penso que sÃ­ que ens pot ajudar.
-
-664
-00:40:46,000 --> 00:40:49,000
- Almenys sapiguer quan li podem fer cas, quan no li hem de fer cas.
-
-665
-00:40:49,000 --> 00:40:52,000
- I si no ens agrada, doncs quÃ¨ podem fer, no? Per millorar-ho.
-
-666
-00:40:52,000 --> 00:40:53,000
- SÃ­, senyor.
-
-667
-00:40:53,000 --> 00:40:57,000
- Molt bÃ©, doncs quÃ¨ et sembla? Continuem amb els altres apartats de l'episodi?
-
-668
-00:40:57,000 --> 00:41:00,000
- SÃ­, ara parla tu, que jo he xerrat massa.
-
-669
-00:41:02,000 --> 00:41:09,000
- Doncs tenim un altre, un dels apartats que volÃ­em posar en el NEM Podcast era el menys Ã©s mÃ©s.
-
-670
-00:41:09,000 --> 00:41:15,000
- I un dels exemples d'aixÃ² era l'Essencial que tenim en el salutgencat.cat,
-
-671
-00:41:15,000 --> 00:41:19,000
- que sabeu que n'hi ha, sÃ³n totes aquestes accions ara que hi ha,
-
-672
-00:41:19,000 --> 00:41:27,000
- ara, fa molts anys ja, de veure quines coses fem a nivell assistencial, que les fem de forma sistemÃ tica
-
-673
-00:41:27,000 --> 00:41:30,000
- i que no haurÃ­em de fer-les de forma sistemÃ tica.
-
-674
-00:41:30,000 --> 00:41:41,000
- Hi ha aixÃ², l'Essencial, n'hi ha altres americanes que sÃ³n el do not do, el choosing wisely i n'hi ha altres.
-
-675
-00:41:41,000 --> 00:41:46,000
- L'altre dia vam parlar d'una Essencial relacionada amb el metamizolee
-
-676
-00:41:46,000 --> 00:41:52,000
- per la febre i el dolor, quÃ¨ Ã©s la febre i el dolor, de no donar-la de forma sistemÃ tica, el metamizolee.
-
-677
-00:41:52,000 --> 00:41:59,000
- I avui volia parlar tambÃ© d'una altra Essencial que va relacionada amb les proves complementÃ ries
-
-678
-00:41:59,000 --> 00:42:03,000
- i concretament sobre la radiografia d'abdomen simple.
-
-679
-00:42:03,000 --> 00:42:08,000
- I parla dels pacients que venen urgÃ¨ncies amb dolor abdominal agut,
-
-680
-00:42:08,000 --> 00:42:14,000
- de no fer de forma sistemÃ tica la tÃ­pica placa d'abdomen que ens aporta poca informaciÃ³.
-
-681
-00:42:14,000 --> 00:42:23,000
- Sabem que els pacients amb dolor abdominal poden ser el 5-10% de tots els pacients que consulten amb un servei d'urgÃ¨ncies
-
-682
-00:42:23,000 --> 00:42:31,000
- i sabem que la radiografia d'abdomen simple tÃ© molt poca capacitat diagnÃ²stica si tu no saps ja exactament quÃ¨ estÃ s buscant.
-
-683
-00:42:31,000 --> 00:42:37,000
- Ã‰s a dir, en poques vegades una radiografia d'abdomen ens farÃ  canviar el diagnÃ²stic o el tractament que li posem.
-
-684
-00:42:37,000 --> 00:42:40,000
- A mÃ©s a mÃ©s, tÃ© el problema de la radiaciÃ³.
-
-685
-00:42:40,000 --> 00:42:48,000
- La radiaciÃ³ d'una radiografia d'abdomen Ã©s 35 vegades la que pugui fer una radiografia simple de tÃ²rax.
-
-686
-00:42:48,000 --> 00:42:54,000
- Per tant, si sabem que no ha de portar grans canvis en el diagnÃ²stic i en el tractament,
-
-687
-00:42:54,000 --> 00:42:59,000
- doncs potser que ho limitem una miqueta i no fem una radiografia d'abdomen a tot pacient que ve amb dolor abdominal.
-
-688
-00:42:59,000 --> 00:43:05,000
- De fet, aquesta recomanaciÃ³ de l'Essencial es basa en les recomanacions de la Societat Catalana de Radiologia
-
-689
-00:43:05,000 --> 00:43:08,000
- i de la Societat Catalana de Medicina d'UrgÃ¨ncies i EmergÃ¨ncies.
-
-690
-00:43:08,000 --> 00:43:14,000
- Ens adiu amb les quatre ocasions en quÃ¨ sÃ­ que de forma sistemÃ tica estÃ  recomanat,
-
-691
-00:43:14,000 --> 00:43:18,000
- perquÃ¨ sÃ­ que et pot ajudar a saber quÃ¨ tÃ© el malalt o quÃ¨ li pots fer.
-
-692
-00:43:18,000 --> 00:43:22,000
- I sÃ³n en el malalt que ve per dolor abdominal legut i sospites una oclosiÃ³ intestinal,
-
-693
-00:43:22,000 --> 00:43:28,000
- o que sospites una perforaciÃ³ d'una vÃ­scera buida, o que tÃ© un cÃ²lic nefrÃ­tic,
-
-694
-00:43:28,000 --> 00:43:32,000
- i en casos tambÃ©, pel que t'expliqui el malalt, que sospitis un cos estrany.
-
-695
-00:43:32,000 --> 00:43:41,000
- En aquestes quatre ocasions, doncs sÃ­ que tranquilÂ·lament pots demanar una radiografia simple d'abdomen i et pot ajudar.
-
-696
-00:43:41,000 --> 00:43:49,000
- Amb la resta de situacions, no Ã©s que no la puguis demanar, perÃ² no estÃ  recomanat de forma sistemÃ tica.
-
-697
-00:43:49,000 --> 00:43:55,000
- I aixÃ² Ã©s la recomanaciÃ³ de l'Essencial que us volÃ­em explicar en aquest episodi.
-
-698
-00:43:55,000 --> 00:43:57,000
- La que l'abdomen menges mÃ©s.
-
-699
-00:43:57,000 --> 00:44:04,000
- BÃ©, i un altre apartat d'aquest episodi de l'EMpodcat Ã©s, com sempre, l'Urgent Mot.
-
-700
-00:44:04,000 --> 00:44:10,000
- Si recordem, crec que va ser l'Ãºltim episodi, vam parlar d'una llista de fÃ rmacs
-
-701
-00:44:10,000 --> 00:44:16,000
- que podrÃ­em millorar el nostre catalÃ  per fer-ne gust, d'aquests fÃ rmacs.
-
-702
-00:44:16,000 --> 00:44:22,000
- I ens quedaven quatre medicaments que tenÃ­em en el diccionari per repassar.
-
-703
-00:44:22,000 --> 00:44:27,000
- I era un que no Ã©s que fem servir nosaltres precisament a urgÃ¨ncies,
-
-704
-00:44:27,000 --> 00:44:31,000
- perÃ² sÃ­ que hi ha pacients que el prenen i l'has d'escriure a la histÃ²ria clÃ­nica
-
-705
-00:44:31,000 --> 00:44:36,000
- o l'has de tenir en compte en ocasions, i Ã©s el metotrexat.
-
-706
-00:44:36,000 --> 00:44:40,000
- Moltes vegades en podÃ­em dir de forma incorrecta el metotrexate,
-
-707
-00:44:40,000 --> 00:44:42,000
- perÃ² correctament Ã©s metotrexat.
-
-708
-00:44:42,000 --> 00:44:46,000
- QuÃ¨ mÃ©s? TambÃ© tenÃ­em l'undancetrÃ³, d'acord?
-
-709
-00:44:46,000 --> 00:44:52,000
- En el medicament, els pacients que estan vomitant i tenen nÃ usees i volem tractar aquest problema,
-
-710
-00:44:52,000 --> 00:44:56,000
- doncs el que hem de fer Ã©s prescriure i administrar un undancetrÃ³.
-
-711
-00:44:56,000 --> 00:45:06,000
- I tambÃ© per temes gÃ strics, un inhibidor de la bomba de protons, per exemple, l'homapresola.
-
-712
-00:45:06,000 --> 00:45:12,000
- De fet, tots aquests medicaments que acaben amb zola, Z-O-L-E,
-
-713
-00:45:12,000 --> 00:45:18,000
- com el metamizolee, el metronidazola, tots aquests acaben amb L-E,
-
-714
-00:45:18,000 --> 00:45:24,000
- el mepresola, el metamizoleea i el metronidazola.
-
-715
-00:45:24,000 --> 00:45:30,000
- I desprÃ©s hi ha un medicament que fem servir per fer la parÃ lisi muscular,
-
-716
-00:45:30,000 --> 00:45:35,000
- que fa parÃ lisi respiratÃ²ria, quan fem una intubaciÃ³.
-
-717
-00:45:35,000 --> 00:45:38,000
- Parlem del suc-xamatoni.
-
-718
-00:45:38,000 --> 00:45:42,000
- El suc-xamatoni Ã©s la succinilcolina, el nom correcte.
-
-719
-00:45:42,000 --> 00:45:46,000
- I de fet, hem de parlar, hem de deixar de fer servir la succinilcolina
-
-720
-00:45:46,000 --> 00:45:50,000
- i fer servir el suc-xamatoni.
-
-721
-00:45:50,000 --> 00:45:54,000
- I amb aixÃ² Ã©s tot. QuÃ¨ et sembla, Albert?
-
-722
-00:45:54,000 --> 00:45:59,000
- Suc-xamatoni, sÃ­. O suc-sa, no sÃ© si vols dir.
-
-723
-00:45:59,000 --> 00:46:04,000
- Si et sona mÃ©s fÃ cil, aixÃ² Ã©s com dir xÃ bac.
-
-724
-00:46:04,000 --> 00:46:10,000
- Si et sona mÃ©s fÃ cil, aixÃ² Ã©s com dir xavi o dir-li xavi.
-
-725
-00:46:10,000 --> 00:46:15,000
- Correctament, haurÃ­em de parlar de xavi en lloc de xavi,
-
-726
-00:46:15,000 --> 00:46:21,000
- com la xocolata. No n'haurÃ­em de dir xcolata, sinÃ³ que haurÃ­em de dir xocolata.
-
-727
-00:46:21,000 --> 00:46:28,000
- Doncs el suc-xamatoni, correctament, si vols, a mÃ©s a mÃ©s, pronunciar-ho de forma correcta,
-
-728
-00:46:28,000 --> 00:46:30,000
- seria el suc-xamatoni.
-
-729
-00:46:30,000 --> 00:46:32,000
- Molt bÃ©.
-
-730
-00:46:32,000 --> 00:46:37,000
- Veig aquÃ­ molta reminiscÃ¨ncia francÃ²fona, perquÃ¨ l'home Prasole...
-
-731
-00:46:37,000 --> 00:46:40,000
- Ã‰s mÃ©s, ho veus tu, d'origen mÃ©s francÃ¨s.
-
-732
-00:46:40,000 --> 00:46:42,000
- No, no, ho Ã©s, ho Ã©s, Ã©s com ho escriuen.
-
-733
-00:46:42,000 --> 00:46:48,000
- I de fet, el suc-xamatoni, els n'hi diuen suc-xamatonium.
-
-734
-00:46:48,000 --> 00:46:55,000
- O sigui, el nom farmacÃ¨utic del medicament, els francesos en diuen suc-xamatoni?
-
-735
-00:46:55,000 --> 00:46:57,000
- Suc-xamatonium, em sembla.
-
-736
-00:46:57,000 --> 00:47:04,000
- SÃ­, sÃ­, alguna vegada que hem tingut formulaciÃ³ francesa, dÃ¨iem suc-xamatonium.
-
-737
-00:47:04,000 --> 00:47:07,000
- Molt bÃ©, doncs aixÃ² Ã©s el que acabÃ vem...
-
-738
-00:47:07,000 --> 00:47:11,000
- VolÃ­em acabar de repassar quÃ¨ eren aquests quatre medicaments.
-
-739
-00:47:11,000 --> 00:47:15,000
- No sÃ© si tu tenies, Albert, algun urgemmot per comentar.
-
-740
-00:47:15,000 --> 00:47:19,000
- Mira, jo tinc un urgemmot i una altra cosa que vull comentar desprÃ©s.
-
-741
-00:47:19,000 --> 00:47:22,000
- L'urgemmot, de fet, Ã©s a causa d'aquesta traducciÃ³.
-
-742
-00:47:22,000 --> 00:47:24,000
- Del pulsi? Ã‰s del pulsi, aixÃ²?
-
-743
-00:47:24,000 --> 00:47:25,000
- SÃ­.
-
-744
-00:47:25,000 --> 00:47:27,000
- SÃ­, sÃ­, quan escrivia aixÃ²...
-
-745
-00:47:27,000 --> 00:47:31,000
- Ja m'ho ha semblat, ja m'ho ha semblat, ja m'ha semblat que volies parlar d'aixÃ², digues.
-
-746
-00:47:31,000 --> 00:47:33,000
- Aniria per aquÃ­ la cosa, sÃ­, sÃ­.
-
-747
-00:47:33,000 --> 00:47:37,000
- Vaig escriure pulsÃ til per traduir el pulsatile a anglÃ¨s
-
-748
-00:47:37,000 --> 00:47:41,000
- i m'ho marcava com una falta d'ortografia, el corrector automÃ tic.
-
-749
-00:47:41,000 --> 00:47:46,000
- I vaig dient, eh, pots comptar el corrector automÃ tic, que has de saber que et diuen i tal.
-
-750
-00:47:46,000 --> 00:47:48,000
- I no surt el diccionari pulsÃ til.
-
-751
-00:47:48,000 --> 00:47:49,000
- Ostres!
-
-752
-00:47:49,000 --> 00:47:52,000
- No hi Ã©s. Ã‰s pulsatiu.
-
-753
-00:47:52,000 --> 00:47:54,000
- Has de canviar de diccionari. Ã‰s pulsatiu?
-
-754
-00:47:54,000 --> 00:47:58,000
- No, perdona, Ã©s el diccionari de la llengua catalana de l'Institut d'Estudis Catalans.
-
-755
-00:47:58,000 --> 00:48:02,000
- HÃ²stia, Ã©s el Pompeu actual. No podem canviar aquest diccionari.
-
-756
-00:48:02,000 --> 00:48:05,000
- O sigui que no Ã©s pulsÃ til, Ã©s pulsatiu.
-
-757
-00:48:05,000 --> 00:48:07,000
- El pulsatiu. Pulsatiu, eh?
-
-758
-00:48:07,000 --> 00:48:10,000
- Pulsatiu, sÃ­ senyor. Un altre mÃ©s, eh?
-
-759
-00:48:10,000 --> 00:48:12,000
- MÃ©s friquis no podem ser.
-
-760
-00:48:12,000 --> 00:48:13,000
- Pulsatiu, va, posa aquest...
-
-761
-00:48:13,000 --> 00:48:15,000
- PerÃ², escolta, jo avui no volia parlar de...
-
-762
-00:48:15,000 --> 00:48:18,000
- Havia dit l'urgemmot, evidentment, perÃ² tinc una cosa...
-
-763
-00:48:18,000 --> 00:48:23,000
- Si recordeu, fa uns quants episodis vaig parlar d'una cosa que es deia el projecte AINA,
-
-764
-00:48:23,000 --> 00:48:29,000
- que Ã©s un projecte que ja existia abans, perÃ² en aquest cas la Generalitat de Catalunya el va reimpulsar...
-
-765
-00:48:29,000 --> 00:48:36,000
- Per deixar la teva veu, no? Per la intelÂ·ligÃ¨ncia artificial, la teva veu en catalÃ  i tot aixÃ², no?
-
-766
-00:48:36,000 --> 00:48:40,000
- Exactament. Ã‰s a dir, la gent gravava, i gravem, encara estÃ  obert.
-
-767
-00:48:40,000 --> 00:48:46,000
- Especialment ens interessen veus de dones i variants dialectals que no siguin el catalÃ  central.
-
-768
-00:48:46,000 --> 00:48:50,000
- Per gravar Ã udios, validar-los, que aixÃ² fa falta a tothom, a validar,
-
-769
-00:48:50,000 --> 00:48:54,000
- perquÃ¨ es necessiten, no recordo quantes vegades mÃ©s de validar que de gravar.
-
-770
-00:48:54,000 --> 00:49:00,000
- I aixÃ² Ã©s un corpus d'entrenament perquÃ¨ aquestes intelÂ·ligÃ¨ncies artificials puguin entendre el catalÃ  i actuar en conseqÃ¼Ã¨ncia.
-
-771
-00:49:00,000 --> 00:49:06,000
- I per quÃ¨ dic aixÃ²? Doncs perquÃ¨ l'episodi anterior vaig decidir invertir un temps preciÃ³s de la meva vida
-
-772
-00:49:06,000 --> 00:49:10,000
- en intentar fer una transcripciÃ³ automÃ tica del que parlÃ vem.
-
-773
-00:49:10,000 --> 00:49:16,000
- Que us podeu imaginar que transcriure una hora d'Ã udio, doncs evidentment no Ã©s una hora d'escriure, Ã©s bastant mÃ©s.
-
-774
-00:49:16,000 --> 00:49:19,000
- I Ã©s una feina ideal per a una intelÂ·ligÃ¨ncia artificial.
-
-775
-00:49:19,000 --> 00:49:26,000
- Hi ha molts programes de transcripciÃ³ d'Ã udio, hi ha aplicacions especÃ­fices per transcriure Ã udios de podcast,
-
-776
-00:49:26,000 --> 00:49:29,000
- perÃ² evidentment en catalÃ  poca cosa.
-
-777
-00:49:29,000 --> 00:49:33,000
- Fins ara. Hi ha un programari que es diu Whisper, que Ã©s una intelÂ·ligÃ¨ncia artificial,
-
-778
-00:49:33,000 --> 00:49:36,000
- que tu li pots posar el corpus d'entrenament que t'interessa.
-
-779
-00:49:36,000 --> 00:49:41,000
- Li vaig posar el corpus d'entrenament del catalÃ  basat en el projecte Aina,
-
-780
-00:49:41,000 --> 00:49:46,000
- Ã©s a dir, les veus de tots els que veu gravar coses han servit per entrenar aquesta intelÂ·ligÃ¨ncia artificial.
-
-781
-00:49:46,000 --> 00:49:50,000
- I vaig treure la transcripciÃ³ bastant digna, la veritat, de tot l'episodi interior.
-
-782
-00:49:50,000 --> 00:49:55,000
- Ã‰s cert que s'ha de repassar i que llenÃ§ar-ho tal qual et pots trobar una sorpresa desagradable,
-
-783
-00:49:55,000 --> 00:50:00,000
- perÃ² vaig pensar, si aixÃ² Ã©s el que s'ha fet, sense tenir totes les hores que fan falta,
-
-784
-00:50:00,000 --> 00:50:03,000
- i a mÃ©s, compte amb aquesta intelÂ·ligÃ¨ncia artificial.
-
-785
-00:50:03,000 --> 00:50:12,000
- AixÃ² de la transcripciÃ³, Albert, l'altre dia havia d'estar mirant un podcast d'un tema de simulaciÃ³ clÃ­nica,
-
-786
-00:50:12,000 --> 00:50:19,000
- i Ã©s un podcast que durava una hora i mitja, i vaig veure que hi havia la transcripciÃ³ de tot el que es deia,
-
-787
-00:50:19,000 --> 00:50:21,000
- jo ho vaig veure en diferit, eh?
-
-788
-00:50:21,000 --> 00:50:26,000
- I la veritat Ã©s que estava bÃ© perquÃ¨ volia veure si parlaven d'una cosa en concret,
-
-789
-00:50:26,000 --> 00:50:31,000
- i com que tenia tota la transcripciÃ³, li vaig buscar les paraules clau,
-
-790
-00:50:31,000 --> 00:50:38,000
- i clar, em deia, doncs mira, d'aixÃ² en parlen en el minut 54 i 30 segons.
-
-791
-00:50:38,000 --> 00:50:43,000
- I vaig poder anar directament allÃ  on m'interessava sense haver d'escoltar tot el podcast.
-
-792
-00:50:43,000 --> 00:50:47,000
- No sÃ© si aixÃ² que estÃ s explicant tu tambÃ© podria servir per aixÃ² o no,
-
-793
-00:50:47,000 --> 00:50:50,000
- per identificar una part concreta que t'interessi.
-
-794
-00:50:50,000 --> 00:50:52,000
- I tant, i per posar subtÃ­tols, per exemple.
-
-795
-00:50:52,000 --> 00:50:57,000
- Pots fer servir per subtitular sense invertir moltes hores de la teva vida.
-
-796
-00:50:57,000 --> 00:51:00,000
- Aquesta Ã©s la grÃ cia de les intelÂ·ligÃ¨ncies artificials, que treballin per tu.
-
-797
-00:51:00,000 --> 00:51:02,000
- Fins ara hem estat treballant nosaltres per elles,
-
-798
-00:51:02,000 --> 00:51:05,000
- ara seria interessant que alguna comencÃ©s a treballar per nosaltres.
-
-799
-00:51:05,000 --> 00:51:08,000
- Vols dir que fÃ cilment podrÃ­em transcriure tot el que anem parlant
-
-800
-00:51:08,000 --> 00:51:16,000
- i fer-ho en anglÃ¨s o francÃ¨s i aixÃ­ hi hauria mÃ©s gent que ens el poguÃ©s escoltar o quÃ¨?
-
-801
-00:51:16,000 --> 00:51:21,000
- AixÃ² ja serien dues intelÂ·ligÃ¨ncies artificials, la de transcripciÃ³ i la de traducciÃ³.
-
-802
-00:51:21,000 --> 00:51:29,000
- I mira, softcatalÃ  tÃ© el traductor automÃ tic catalÃ -anglÃ¨s, o en cas catalÃ ,
-
-803
-00:51:29,000 --> 00:51:31,000
- que tambÃ© Ã©s... passa amb tecnologia neuronal,
-
-804
-00:51:31,000 --> 00:51:36,000
- tecnologia d'intelÂ·ligÃ¨ncia artificial, i DÃ©u-n'hi-do, tambÃ© DÃ©u-n'hi-do.
-
-805
-00:51:36,000 --> 00:51:44,000
- Jo per temes de traducciÃ³, normalment, a part del Google Translator normal i corrent que feien servir sempre,
-
-806
-00:51:44,000 --> 00:51:46,000
- recomano el Dipple.
-
-807
-00:51:46,000 --> 00:51:49,000
- SÃ­, perÃ² no hi Ã©s en catalÃ .
-
-808
-00:51:49,000 --> 00:51:50,000
- SÃ­, clar, no hi Ã©s en catalÃ .
-
-809
-00:51:50,000 --> 00:51:56,000
- PerÃ² si has de traduir text en anglÃ¨s al catalÃ , o d'anglÃ¨s a espanyol i espanyol a anglÃ¨s,
-
-810
-00:51:56,000 --> 00:51:59,000
- el Dipple ho fa forÃ§a bÃ©.
-
-811
-00:51:59,000 --> 00:52:00,000
- Ã‰s molt bo aquest tambÃ©.
-
-812
-00:52:00,000 --> 00:52:02,000
- Molt bÃ©, Albert. QuÃ¨ mÃ©s?
-
-813
-00:52:02,000 --> 00:52:05,000
- Tancem la falca d'intelÂ·ligÃ¨ncies artificials.
-
-814
-00:52:05,000 --> 00:52:10,000
- I ens faltava parlar... Ah, sÃ­, d'algunes recomanacions,
-
-815
-00:52:10,000 --> 00:52:12,000
- d'alguna cosa que haguÃ©ssim vist interessants.
-
-816
-00:52:14,000 --> 00:52:22,000
- Jo havia estat mirant... Ã‰s una ajuda que ens dona UpToDate,
-
-817
-00:52:22,000 --> 00:52:32,000
- que Ã©s aquest llibre electrÃ²nic, aquesta guia llibre electrÃ²nic que tenim penjat en el Nougool i que hi podem tenir accÃ©s molta gent.
-
-818
-00:52:32,000 --> 00:52:37,000
- Jo nomÃ©s us volia parlar, en l'UpToDate, els que tingueu ja accÃ©s fÃ cil i sabÃ­eu com entrar-hi,
-
-819
-00:52:37,000 --> 00:52:45,000
- hi ha una cosa que sÃ³n uns grÃ fics, unes infografies que t'ajuden a fer diagnÃ²stic diferencial.
-
-820
-00:52:45,000 --> 00:52:53,000
- No en tenen moltes de moment, les van fent a poc a poc, perÃ² sÃ³n infografies
-
-821
-00:52:53,000 --> 00:52:59,000
- en les quals te comparen, per exemple, les caracterÃ­stiques d'una faringitis vÃ­rica amb una faringitis estreptocÃ²cica,
-
-822
-00:52:59,000 --> 00:53:04,000
- una dermatitis per insurgÃ¨ncia venosa d'una celÂ·lulitis,
-
-823
-00:53:04,000 --> 00:53:11,000
- una bronquitis aguda d'una pneumÃ²nia, una pneumÃ²nia viral d'una bacteriana,
-
-824
-00:53:11,000 --> 00:53:14,000
- o un vertigen perifÃ¨ric o un vertigen central.
-
-825
-00:53:14,000 --> 00:53:23,000
- I el que fa tafant Ã©s uns grÃ fics molt ben parits i amb tota la informaciÃ³ que puguis trobar tu en l'UpToDate
-
-826
-00:53:23,000 --> 00:53:30,000
- t'ho posen aixÃ­ molt esquemÃ tic, amb una infografia molt ben feta i amb enllaÃ§os perquÃ¨ vagis al text.
-
-827
-00:53:30,000 --> 00:53:37,000
- I Ã©s una forma fÃ cil de llegir i que et quedi mÃ©s en la memÃ²ria.
-
-828
-00:53:37,000 --> 00:53:44,000
- I per accedir-hi, tu al buscador d'UpToDate normal i corrent li poses la paraula distinguishing,
-
-829
-00:53:44,000 --> 00:53:48,000
- distingint o diferenciant, li poses en anglÃ¨s distinguishing,
-
-830
-00:53:48,000 --> 00:53:52,000
- i a sota d'aixÃ² del buscador et dona diferents opcions,
-
-831
-00:53:52,000 --> 00:53:59,000
- anar a buscar un tema, un capÃ­tol, un no sÃ© quÃ¨ mÃ©s, i al final buscar grÃ fics.
-
-832
-00:53:59,000 --> 00:54:03,000
- Tu li poses al buscador distinguishing i busques nomÃ©s grÃ fics.
-
-833
-00:54:03,000 --> 00:54:08,000
- Hi haurÃ  els 10 mÃ©s o menys que tenen fets fins al moment
-
-834
-00:54:08,000 --> 00:54:13,000
- i que suposo que aniran ampliant a mesura que els vagin fent.
-
-835
-00:54:13,000 --> 00:54:17,000
- I que a mÃ©s, no sÃ©, Albert, tu tenies alguna altra cosa per recomanar?
-
-836
-00:54:17,000 --> 00:54:25,000
- Mira, la meva recomanaciÃ³ per aquest episodi Ã©s un lloc web, un lloc web de SuÃ¯ssa.
-
-837
-00:54:25,000 --> 00:54:29,000
- De fet, de la part francÃ²fona de SuÃ¯ssa, la SuÃ¯ssa romanda, li diuen d'aixÃ².
-
-838
-00:54:29,000 --> 00:54:35,000
- El lloc web es diu, ja ho veig aquÃ­, que no m'equivoqui, es diu
-
-839
-00:54:35,000 --> 00:54:42,000
- bruits.bruits.ch.ca
-
-840
-00:54:42,000 --> 00:54:50,000
- AixÃ² Ã©s de l'associaciÃ³ suÃ¯ssa romanda, l'associaciÃ³ suÃ¯ssa francÃ²fona de medicina d'urgÃ¨ncies.
-
-841
-00:54:50,000 --> 00:54:54,000
- Han creat aquesta pÃ gina, els joves d'aquesta associaciÃ³ han creat aquesta pÃ gina
-
-842
-00:54:54,000 --> 00:54:58,000
- per fer el que fem nosaltres, l'educaciÃ³ al FUAMED.
-
-843
-00:54:58,000 --> 00:55:04,000
- EducaciÃ³ mÃ¨dica oberta, d'accÃ©s obert a tot arreu, en qualsevol moment i de mÃ©s.
-
-844
-00:55:04,000 --> 00:55:09,000
- I tenen una pÃ gina web on van penjant un blog, on van penjant els articles d'allÃ² que creuen en portuguÃ©s.
-
-845
-00:55:09,000 --> 00:55:14,000
- Tenen un podcast tambÃ© en francÃ¨s, la web Ã©s en francÃ¨s, evidentment, tambÃ©.
-
-846
-00:55:14,000 --> 00:55:21,000
- I tambÃ© tenen juguesques, els quiz aquests, que, per exemple, l'Ãºltim que he vist Ã©s
-
-847
-00:55:21,000 --> 00:55:24,000
- qui s'ha de vacunar de la grip. I et posen allÃ  diferents casos i tu dius,
-
-848
-00:55:24,000 --> 00:55:28,000
- si l'has cagada et diu perquÃ¨ ja l'has cagada i si l'encenes et diu perquÃ¨ l'has cagada.
-
-849
-00:55:28,000 --> 00:55:32,000
- Una miqueta de l'estil de les juguesques de l'Urgent Mod que pengem al grup de Telegram,
-
-850
-00:55:32,000 --> 00:55:34,000
- que per cert avui no hem donat el resultat de cap.
-
-851
-00:55:34,000 --> 00:55:39,000
- HÃ²stia, no me'n recordo quin era... DesprÃ©s quan editi, quan editi l'Urgent Mod,
-
-852
-00:55:39,000 --> 00:55:45,000
- ja posarÃ© la falca de la juguesca de l'Urgent Mod que anem penjant a l'episodi 9,
-
-853
-00:55:45,000 --> 00:55:50,000
- perquÃ¨ aixÃ­ els que no ens segueixin al Telegram, mal fet, si no ens seguiu, ho sÃ piguen.
-
-854
-00:55:50,000 --> 00:55:54,000
- Doncs no, no ens hem oblidat de la juguesca de l'Urgent Mod.
-
-855
-00:55:54,000 --> 00:55:59,000
- De l'Ãºltim episodi, la juguesca de l'Urgent Mod que tenÃ­em, la definiciÃ³ era la segÃ¼ent.
-
-856
-00:55:59,000 --> 00:56:04,000
- Dificultat o cessaciÃ³ del pas d'impulsos a travÃ©s del sistema especÃ­fic de conducciÃ³ del cor.
-
-857
-00:56:04,000 --> 00:56:10,000
- DonÃ vem les quatre opcions, bloqueig, bloc, bloqueig acabat amb X o blocatge.
-
-858
-00:56:10,000 --> 00:56:13,000
- I la resposta correcta Ã©s blocatge.
-
-859
-00:56:13,000 --> 00:56:19,000
- Va, i fem una altra juguesca de l'Urgent Mod per a aquest episodi, que Ã©s la segÃ¼ent.
-
-860
-00:56:19,000 --> 00:56:26,000
- La definiciÃ³ diu, apariciÃ³ en l'aurÃ­cula cardÃ­aca de 100 transformadors d'impulsos que proporcionen uns 300 estÃ­muls per minut.
-
-861
-00:56:26,000 --> 00:56:33,000
- El nÃ²dul no pot conduir els impulsos amb la mateixa rapidesa i la meitat o la quarta part resten blocats en aquesta zona.
-
-862
-00:56:33,000 --> 00:56:36,000
- El diagnÃ²stic Ã©s fet per electrocardiografia.
-
-863
-00:56:36,000 --> 00:56:38,000
- Quatre opcions, com sempre.
-
-864
-00:56:38,000 --> 00:56:45,000
- FlÃºter auricular, batec auricular, alateig auricular o fibrilaflÃºter auricular.
-
-865
-00:56:45,000 --> 00:56:51,000
- Com sempre, si voleu saber la resposta de seguida us ho heu de mirar al grup de Telegram.
-
-866
-00:56:51,000 --> 00:56:55,000
- I si no, donarem la resposta, si ens en recordem, en el proper episodi.
-
-867
-00:56:55,000 --> 00:56:57,000
- Vinga, que hi hagi sort!
-
-868
-00:56:57,000 --> 00:57:01,000
- PerÃ² aixÃ², bruitsdechoc.ch, el podcast tambÃ© Ã©s interessant.
-
-869
-00:57:01,000 --> 00:57:06,000
- A tu t'agradaria aquest perquÃ¨ parlen dins els podcasts, tenen una sÃ¨rie, entre cometes,
-
-870
-00:57:06,000 --> 00:57:09,000
- perquÃ¨ tampoc sÃ³n tants, que parlen dels mites de la medicina d'urgÃ¨ncies.
-
-871
-00:57:09,000 --> 00:57:11,000
- Ah, doncs ja li donarem cop d'ull.
-
-872
-00:57:11,000 --> 00:57:13,000
- TambÃ© Ã©s interessant.
-
-873
-00:57:13,000 --> 00:57:16,000
- Quan explicaves aixÃ² dels que fan els cuits aquests,
-
-874
-00:57:16,000 --> 00:57:20,000
- se m'ha passat pel cap una recomanaciÃ³ que ens vas fer tu un dia,
-
-875
-00:57:20,000 --> 00:57:28,000
- que era com anaven passant diferents arrÃ­tmies cardÃ­aques greus
-
-876
-00:57:28,000 --> 00:57:31,000
- i havies d'anar decidint quina desfibrilaves i quina no.
-
-877
-00:57:31,000 --> 00:57:32,000
- AixÃ² sÃ­.
-
-878
-00:57:32,000 --> 00:57:33,000
- Te'n recordes d'aquesta?
-
-879
-00:57:33,000 --> 00:57:34,000
- SÃ­.
-
-880
-00:57:34,000 --> 00:57:35,000
- I aixÃ² m'has recordat.
-
-881
-00:57:35,000 --> 00:57:36,000
- M'has recordat.
-
-882
-00:57:36,000 --> 00:57:41,000
- Si aneu a la nostra pÃ gina web, en pot.cat barra recomanacions, i sÃ³n totes,
-
-883
-00:57:41,000 --> 00:57:45,000
- i aquesta que estÃ s dient tu, Xavi, la tenim allÃ , ara no recordo el nom.
-
-884
-00:57:45,000 --> 00:57:46,000
- Aquesta Ã©s de les que...
-
-885
-00:57:46,000 --> 00:57:47,000
- Aquesta Ã©s xula, sÃ­.
-
-886
-00:57:47,000 --> 00:57:50,000
- Aquesta Ã©s per fer-la servir, els que tenim estudiants,
-
-887
-00:57:50,000 --> 00:57:52,000
- aquesta Ã©s per fer-la servir amb els estudiants.
-
-888
-00:57:52,000 --> 00:57:55,000
- Els hi fots a davant i els hi dius,
-
-889
-00:57:55,000 --> 00:57:58,000
- mira noi, fins que no vegis aixÃ² i no saltis de la cadira,
-
-890
-00:57:58,000 --> 00:58:00,000
- tu no estÃ s fet per la feina, xato.
-
-891
-00:58:00,000 --> 00:58:02,000
- I a veure, s'entrenin.
-
-892
-00:58:02,000 --> 00:58:03,000
- SÃ­, sÃ­, sÃ­.
-
-893
-00:58:03,000 --> 00:58:06,000
- I la grÃ cia d'aquest justament Ã©s que quan veus la fibrilÂ·laciÃ³ ventricular
-
-894
-00:58:06,000 --> 00:58:11,000
- i veus allÃ , aaaah, on Ã©s el botÃ³?
-
-895
-00:58:11,000 --> 00:58:12,000
- Serveix bÃ sicament per aixÃ².
-
-896
-00:58:12,000 --> 00:58:13,000
- Exacte, molt bÃ©, molt bÃ©.
-
-897
-00:58:13,000 --> 00:58:15,000
- Per posar-te nerviÃ³s mirant una pantalla.
-
-898
-00:58:15,000 --> 00:58:18,000
- SÃ­, sÃ­, aquesta manera xula, aquesta recomanaciÃ³.
-
-899
-00:58:18,000 --> 00:58:20,000
- Doncs molt bÃ©, Albert, no sÃ© si ens queda alguna cosa,
-
-900
-00:58:20,000 --> 00:58:23,000
- ja hem fet molts apartats i hem parlat de moltes coses avui.
-
-901
-00:58:23,000 --> 00:58:26,000
- Jo crec que si queda algÃº que ens escolta ja serÃ  emperitori.
-
-902
-00:58:26,000 --> 00:58:35,000
- Penso que nomÃ©s ens falta dir allÃ² dels 50 seguidors que hi ha al Telegram.
-
-903
-00:58:35,000 --> 00:58:36,000
- SÃ­, senyor.
-
-904
-00:58:36,000 --> 00:58:37,000
- Al canal o del grup.
-
-905
-00:58:37,000 --> 00:58:39,000
- El grup de Telegram ja som 50.
-
-906
-00:58:39,000 --> 00:58:40,000
- Som uns quants, eh?
-
-907
-00:58:40,000 --> 00:58:41,000
- Ja som 50, sÃ­, sÃ­.
-
-908
-00:58:41,000 --> 00:58:42,000
- Uns quants, sÃ­.
-
-909
-00:58:42,000 --> 00:58:45,000
- I estaria bÃ© que algÃº mÃ©s portÃ©s coses, tambÃ©, eh?
-
-910
-00:58:45,000 --> 00:58:48,000
- PerÃ² bueno, ja anem penjant alguna coseta, ja.
-
-911
-00:58:48,000 --> 00:58:50,000
- Electros, pengem electros, amics.
-
-912
-00:58:50,000 --> 00:58:53,000
- Que jo els meus els tinc molt vistos, vull veure electros dels altres.
-
-913
-00:58:53,000 --> 00:58:55,000
- Altres coses que no siguin electros tambÃ© les podem posar, eh?
-
-914
-00:58:55,000 --> 00:58:56,000
- PerÃ² ja sabeu que a mi em perd aixÃ².
-
-915
-00:58:56,000 --> 00:58:58,000
- No, que desprÃ©s estÃ s una hora xerrant d'aquell electro
-
-916
-00:58:58,000 --> 00:59:00,000
- i ja no xerrem de res mÃ©s, Albert.
-
-917
-00:59:00,000 --> 00:59:01,000
- SÃ­, sÃ­.
-
-918
-00:59:01,000 --> 00:59:03,000
- Perdoneu-me, sÃ³c una mica...
-
-919
-00:59:03,000 --> 00:59:05,000
- El trastorn obsessiu-compulsiu que hi fallem.
-
-920
-00:59:05,000 --> 00:59:07,000
- No ho sÃ©, ho deixem aquÃ­, Albert?
-
-921
-00:59:07,000 --> 00:59:09,000
- Vinga, va, tanquem la paradeta.
-
-922
-00:59:09,000 --> 00:59:10,000
- Vinga, fins la propera.
-
-923
-00:59:10,000 --> 00:59:11,000
- Que vagi bÃ©.
-
-924
-00:59:18,000 --> 00:59:22,000
- He afegit aquÃ­ un petit trosset sobre la intelÂ·ligÃ¨ncia artificial.
-
-925
-00:59:22,000 --> 00:59:24,000
- I de fet aquest tros d'Ã udio que escolteu a partir d'ara
-
-926
-00:59:24,000 --> 00:59:26,000
- estÃ  tractat tambÃ© amb una intelÂ·ligÃ¨ncia artificial.
-
-927
-00:59:26,000 --> 00:59:28,000
- Ja ens direu a veure quÃ¨ us sembla.
-
-928
-00:59:28,000 --> 00:59:29,000
- Si no us interessa ja ho podeu posar aquÃ­.
-
-929
-00:59:29,000 --> 00:59:30,000
- Vinga, que vagi bÃ©.
-
-930
-00:59:30,000 --> 00:59:32,000
- I ja que parlem d'intelÂ·ligÃ¨ncies artificials,
-
-931
-00:59:32,000 --> 00:59:35,000
- deixa'm fer una falca friki, va, que en tinc unes quantes.
-
-932
-00:59:35,000 --> 00:59:38,000
- A tothom li deu sonar el chat GPT,
-
-933
-00:59:38,000 --> 00:59:40,000
- que ha estat de moda les Ãºltimes setmanes.
-
-934
-00:59:40,000 --> 00:59:42,000
- Ã‰s una intelÂ·ligÃ¨ncia artificial conversacional
-
-935
-00:59:42,000 --> 00:59:45,000
- en quÃ¨ tu li demanes coses i ella et contesta.
-
-936
-00:59:45,000 --> 00:59:47,000
- Chat GPT estÃ  basat en...
-
-937
-00:59:47,000 --> 00:59:49,000
- BÃ©, Ã©s una empresa OpenAI,
-
-938
-00:59:49,000 --> 00:59:51,000
- Ã©s la versiÃ³ 3, aviat sortirÃ  a la quadra.
-
-939
-00:59:51,000 --> 00:59:53,000
- Realment jo l'he provat.
-
-940
-00:59:53,000 --> 00:59:57,000
- L'administrador de la meva instÃ ncia, Mastodon,
-
-941
-00:59:57,000 --> 00:59:59,000
- Ã©s un friki i tÃ© muntat un robotet
-
-942
-00:59:59,000 --> 01:00:02,000
- que tu li escrius allÃ  el que vols
-
-943
-01:00:02,000 --> 01:00:05,000
- i converses amb la intelÂ·ligÃ¨ncia artificial.
-
-944
-01:00:05,000 --> 01:00:08,000
- I se'm va acudir preguntar-li una cosa que jo ja sabia.
-
-945
-01:00:08,000 --> 01:00:09,000
- I a veure amb quÃ¨ em contestava.
-
-946
-01:00:09,000 --> 01:00:12,000
- Li vaig dir, escolta'm, intelÂ·ligÃ¨ncia artificial,
-
-947
-01:00:12,000 --> 01:00:14,000
- quina Ã©s la pressiÃ³ que ha de tenir un neumont d'apunament
-
-948
-01:00:14,000 --> 01:00:16,000
- d'un tÃºpem de trÃ quil?
-
-949
-01:00:16,000 --> 01:00:19,000
- I la intelÂ·ligÃ¨ncia artificial no es talla un pÃ¨l i diu,
-
-950
-01:00:19,000 --> 01:00:22,000
- entre 10 i 20 centÃ­metres d'aigua.
-
-951
-01:00:22,000 --> 01:00:23,000
- I ho ben dit, eh?
-
-952
-01:00:23,000 --> 01:00:25,000
- El paio conversa superbÃ©.
-
-953
-01:00:25,000 --> 01:00:28,000
- I el pressiu ha de ser entre 10 i 20 centÃ­metres d'aigua.
-
-954
-01:00:28,000 --> 01:00:31,000
- No Ã©s entre 10 i 20, Ã©s entre 20 i 30.
-
-955
-01:00:31,000 --> 01:00:32,000
- I vam mantenir una conversa.
-
-956
-01:00:32,000 --> 01:00:34,000
- Jo li vaig agafar i li vaig dir, escolta'm,
-
-957
-01:00:34,000 --> 01:00:35,000
- d'on ho has tret aixÃ²?
-
-958
-01:00:35,000 --> 01:00:39,000
- D'una pÃ gina web de la Universitat de Barcelona.
-
-959
-01:00:39,000 --> 01:00:40,000
- Molt bÃ©, fem una conversa.
-
-960
-01:00:40,000 --> 01:00:42,000
- Passa amb l'enllaÃ§ de la web.
-
-961
-01:00:42,000 --> 01:00:45,000
- L'enllaÃ§ de la web Ã©s example.com.
-
-962
-01:00:46,000 --> 01:00:49,000
- Ã‰s que home, m'estÃ s trobant, xaval.
-
-963
-01:00:49,000 --> 01:00:52,000
- El tio Ã©s capaÃ§ de conversar.
-
-964
-01:00:52,000 --> 01:00:53,000
- Vaig quedar francament impressionat.
-
-965
-01:00:53,000 --> 01:00:55,000
- Dic, hÃ²stia, la conversa bonÃ­ssima.
-
-966
-01:00:55,000 --> 01:00:59,000
- La informaciÃ³ Ã©s un tronyo, perÃ² la conversa bonÃ­ssima.
-
-967
-01:01:01,000 --> 01:01:02,000
- AixÃ² l'intelÂ·ligÃ¨ncia artificial,
-
-968
-01:01:02,000 --> 01:01:04,000
- perÃ² diguem-ho amb aixÃ² que he dit del whisper,
-
-969
-01:01:04,000 --> 01:01:06,000
- que el whisper m'ha impressionat realment.
-
-970
-01:01:06,000 --> 01:01:08,000
- Aquesta transcripciÃ³,
-
-971
-01:01:08,000 --> 01:01:11,000
- Ã©s a dir, Ã©s capaÃ§ de detectar la veu de 3 persones diferents,
-
-972
-01:01:11,000 --> 01:01:12,000
- que Ã©rem 3 en aquella metÃ²dica,
-
-973
-01:01:12,000 --> 01:01:15,000
- cadascuna amb la seva tonalitat, el seu accent i tal.
-
-974
-01:01:15,000 --> 01:01:17,000
- A mÃ©s a mÃ©s amb llenguatge complex,
-
-975
-01:01:17,000 --> 01:01:19,000
- perquÃ¨ Ã©s llenguatge que no Ã©s d'Ãºs comÃº.
-
-976
-01:01:19,000 --> 01:01:20,000
- I compte, eh?
-
-977
-01:01:20,000 --> 01:01:21,000
- Que la va clavar.
-
-978
-01:01:21,000 --> 01:01:23,000
- DesprÃ©s t'apareix el xat GPT aquest,
-
-979
-01:01:23,000 --> 01:01:25,000
- que conversa de conya,
-
-980
-01:01:25,000 --> 01:01:27,000
- i et posa unes troles que...
-
-981
-01:01:27,000 --> 01:01:29,000
- Vull dir que no ens passi res
-
-982
-01:01:29,000 --> 01:01:31,000
- amb les intelÂ·ligÃ¨ncies artificials de futur.
-
-983
-01:01:31,000 --> 01:01:55,000
- Ja ho has de fer tu.
-
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvinguts de nou a l'EMPodCat, que com tots ja sabeu,
+és un espai en el qual conversem una miqueta i expliquem alguna cosa
+sobre les urgències i emergències sanitàries.
+Un pòdcast conduït per un equip multidisciplinari i multicèntric.
+Per un costat tenim l'Albert. Hola, Albert, bon dia.
+Bon dia, bona nit, bona tarda, bon el que sigui.
+Explica'ns alguna cosa d'on treballes i per la gent que ens segueix per primera vegada,
+que fins i tot ens coneixen una miqueta.
+Si hi ha nous oients, sempre benvinguts, benvinguts nous oients.
+Jo soc l'Albert Om, soc infermer d'urgències i emergències.
+Treballo ara mateix a l'Hospital de Cerdanya, un centre binacional.
+Que hi ha a la Cerdanya, a la Cerdanya catalana, als Pirineus catalans.
+I tinc un blog que es diu MRmedpirineus, l'urgència mèdica al Pirineu,
+mrmedpirineus.cat i també les xarxes socials corresponents.
+El Twitter, Mastodon, per qui no el conegui,
+quan Twitter acabi de petar del tot, no n'hi anireu per a tots.
+Jo estic a Mastodon.cat.
+Jo de moment no he trobat cap canvi especial amb Twitter.
+Podries dir que no hi estic molt posat, però no ho sé.
+Que deus fer servir l'aplicació oficial de Twitter, no?
+Bueno, home, quan estic en el telèfon sí, i en l'ordinador, la pàgina web,
+no ho sé, suposo que sí que deu ser l'oficial, no ho sé.
+Ah, perquè tots els que fèiem servir aplicacions per enviar piulets
+que no eren la de Twitter, ens hem quedat amb els murs.
+Ah, sí? No funcionen ara?
+El senyor Elon Musk ho ha tancat tot.
+Ostres, no ho sabia.
+I després hi ha tot un altre tema de discurs de l'odi
+i d'algoritmes que fan coses lleiges i tal, però això és una altra història.
+Va, i a l'altra banda té el Xavi Basurto.
+Va, explica qui ets tu i d'on vens i on vas.
+Jo sóc en Xavi Basurto, que sóc metge d'urgències a l'Hospital de Figueres
+i també estic amb la USBA del SEM, el 606,
+i tenim un blog que és l'Urgem.cat
+i a Twitter és arroba Urgemcat
+i allà també expliquem quan tenim temps
+perquè ara últimament anem una miqueta atrafegats
+i estem publicant poques coses, però bueno.
+A Twitter és més fàcil perquè la cosa és més curta i tal
+i anem fent cosetes, però al blog li costa una miqueta.
+Però bueno, ja hi ha coses interessants i de tant en tant hi ha...
+I anem posant coses que després us expliquem a l'EMPodCat.
+O sigui que d'una manera o l'altra, si esteu interessats, és fàcil d'arribar-hi.
+Per cert, l'altre dia, un d'aquests últims pòdcast que hem posat,
+vam parlar sobre la fibrinòlogia del TEP
+i vam fer també una sessió a l'hospital i tot això
+i no sé si és la Lleida, no sé qui,
+però va ser fer la sessió d'aquesta
+i al cap de quatre dies vam tindre un TEP xocat
+i que feia pinta d'estar-se morint
+i els que estaven de guàrdia van dir
+Ostres, que fa poc que vam fer la sessió del TEP de fibrinòlogia i no sé què
+i sí, sí, al cap d'un rato el pacient estava superbé,
+havia millorat les tensions i va arribar a l'hospital que havia d'arribar superbé
+i no sé, que té una bona experiència, que de vegades fas aquestes coses
+i sembla que no hagi de servir de res,
+però mira, si t'enganxa que al cap de pocs dies tens un cas interessant com aquest,
+doncs, diu-vos la gràcia.
+No sé si t'ha passat mai que et repasses algun tema així,
+és a dir, vaig a repassar-me el pneumòtor, extratensió, no sé què, no sé quantos, pum,
+i al cap de quatre dies t'apareix allà el pacient que et diu
+i dius, mira, sort que m'ho vaig repassar fa dos dies.
+Evidentment que ha passat.
+El que explicaves tu un dia dels esdeveniments de baixa probabilitat,
+no te'n recordes allò que hi havia aquell acrònim que no me'n recordo?
+Sí, sí, sí, els CAGO, els casos d'alta gravetat ocasionals.
+Exacte.
+Sí, sí.
+Gran acrònim aquest.
+Sí, sí, sí, els CAGO.
+Molt bé, és que m'hi he recordat ara.
+Molt bé, molt bé, doncs, avui en l'episodi d'avui teníem un pòdcast
+que és del OnePage UCA o alguna cosa així, no?
+Que parlàveu de... es parlava de la pulsio-oximetria
+i havies fet una traducció d'aquest pòdcast i tot això.
+No, no, no és un pòdcast, és una...
+de no sé quin episodi ho vaig fer com una recomanació.
+El OnePage ACU és d'un senyor, Nick Mark,
+també el teniu a nickmark arroba medmasterdon.com,
+que el que fa un resum d'algun tema en concret amb un sol full.
+Per això el OnePage.
+Sí, fa com una infografia o com una... bé, un resum en una sola pàgina, no?
+Exactament.
+Això es diu OnePage.
+OnePage, ACU, perquè parla de temes de cures intensives.
+I em vaig traduir un, en tinc un parell més allà al calaix,
+esperant... no sé exactament què espero,
+algun dia els acabaré de traduir, de moment tinc aquest.
+I com que és un tema que és molt bàsic,
+bàsic en el sentit de... no perquè sigui senzill,
+sinó perquè és àmpliament utilitzat per moltíssima gent en moltíssims entorns,
+hi ha molta informació a donar per fer-lo servir bé.
+I penso que, mira, és una bona manera de fer-ho en format pòdcast,
+també pot servir.
+O sigui, avui parlarem de la pulsio-oximetria,
+aprofitant aquesta infografia.
+Parlem d'això i després tenim el dels apartats de sempre,
+que si els urs i mots, les recomanacions, i el menys és més.
+Si et sembla, si vols començar, hi ha Albert.
+Vinga, parlem de la pulsio-oximetria.
+El primer que potser hauríem de parlar de la pulsio-oximetria és què carai és, no?
+Què és la pulsio-oximetria?
+La pulsio-oximetria és la mesura contínua i no invasiva
+de la saturació d'oxigen de l'hemoglobina.
+Deu paraules seguides i ara potser comencem a desgranar-les una mica.
+Parlaré primer una miqueta de què és això de la saturació d'oxigen de l'hemoglobina,
+perquè si tenim una miqueta clar això, podem entendre moltes coses darrere.
+L'hemoglobina és una proteïna que té un ferro dins
+que serveix per captar l'oxigen que hi ha dins una solució i poder-lo transportar.
+L'hemoglobina està continguda dins dels glòbuls vermells
+i el que fa aquesta hemoglobina és això que acabo de dir.
+És a dir, troba les molécules d'oxigen molecular, d'O2, que circulen dins el líquid, plasma en aquest cas,
+les captura, se les queda dins, es transporta a distància,
+aquesta proteïna dins del glòbul vermell, i quan arriba on convingui, als teixits,
+aquesta molècula d'oxigen es desprèn i es difon pel camí invers.
+Se'n va al plasma i del plasma se'n va cap a les cèl·lules veïnes.
+Això, que sona senzill, de senzill no en té absolutament res,
+i fa servir un principi fisiològic molt interessant
+que queda registrat en una cosa que tots els que heu fet carrera us heu de recordar,
+que és la famosíssima corba de dissociació de l'hemoglobina.
+Perquè aquesta captació d'oxigen la fa els capil·lars alveolars, evidentment,
+que és on arriba l'oxigen de l'aire ambient,
+l'alveol està ple d'oxigen que difon i s'equilibra la quantitat d'oxigen que hi ha a l'aire dins de l'alveol,
+l'aire alveolar s'intenta equilibrar amb el que hi ha dins del plasma sanguini,
+i aquí la molècula d'hemoglobina s'emporta la molècula d'oxigen.
+En funció de la quantitat d'oxigen que hi ha dissolta en el plasma,
+doncs l'hemoglobina se n'emportarà més o menys.
+Quan parlem de saturació de l'hemoglobina, el que estem parlant és
+de totes les molècules d'hemoglobina que hi ha dins dels gòbuls vermells,
+quin percentatge queden saturats, quin percentatge capta l'oxigen i, per tant, ja no en pot agafar més.
+La saturació vol dir que ja no hi ha més hemoglobina lliure per captar més molècules d'oxigen.
+Si és un 100% de saturació, vol dir que no queda cap molècula d'hemoglobina que no hagi captat un oxigen.
+Aquesta corba de dissociació de l'hemoglobina, que l'intentaré descriure bàsicament,
+és una corba que comença molt avall, al zero,
+de seguida puja amb un pendent molt pronunciat i, a partir de cert moment,
+aquesta pendent s'aplana i llavors segueix una línia plana fins que arriba pràcticament plana
+i es queda en aquesta mena d'altiplà, aquesta mena de masseta.
+Això el que vol dir és que, amb els números, és a dir, el 100% de saturació és la part de dalt d'aquesta corba
+i amb l'altre veieix, és en funció de la quantitat d'oxigen que hi ha d'isol en plasma,
+és zero a la nostra esquerra i va augmentant fins a la dreta,
+com més oxigen hi ha, més molècules d'hemoglobina queden saturades per aquest ús.
+Però amb aquesta forma que us he explicat de la corba,
+és a dir, que inicialment puja amb un pendent molt dret, no diré que vertical, però gairebé,
+i després s'aplana, vol dir que quan tenim moltíssima quantitat d'oxigen dins el plasma,
+arriba un moment en què l'hemoglobina queda saturada i per més oxigen que posis al plasma
+ja no en podrà transportar més.
+I a l'inversa, és a dir, en un moment en què baixem d'una certa quantitat d'oxigen d'isol en el plasma,
+que en tenim pressió parcial d'oxigen,
+es desploma brutalment la quantitat de molècules d'hemoglobina que queden saturades
+i per tant la capacitat de transportar aquest oxigen.
+Per què l'evolució ens ha portat a transportar l'oxigen a l'hemoglobina i no a d'isolar-lo al plasma?
+Com ens hi ha portat? L'evolució no segueix cap norma,
+simplement allò que funciona progressa i allò que no funciona no,
+però la gràcia és justament aquesta corba.
+És a dir, nosaltres captem l'oxigen allà on és disponible
+i allà on és menys disponible el perdem.
+I el perdem gràcies a aquesta corba.
+Això donaria per dues o tres classes de fisiologia
+i quines coses fan que la corba vagi cap aquí, vagi cap allà,
+i a la dreta, la desviació a la dreta i a l'esquerra de la corba a l'hemoglobina.
+I em sembla que he fotut massa rotllo i hi ha d'haver gent que ja s'ha perdut,
+o sigui que ho deixarem aquí.
+Bàsicament la idea és que la relació entre la quantitat d'oxigen que hi ha dins el plasma
+no és lineal respecte a la saturació d'oxigen.
+Això és important per coses que explicarem després.
+La gràcia de la pulsioximetria, que hem dit que és la mesura de la saturació d'oxigen de l'hemoglobina,
+la part que és important és que és no invasiu.
+No necessitem punxar el malalt i fer-li una gasometria,
+no necessitem que porti un cateter arterial per anar-li traient gasometries
+ni anar-ho mesurant amb una màquina, sinó que disposem d'un element extern,
+no cruent, no fa mal, que ens permet mesurar-ho.
+I a sobre ens permet mesurar-ho de forma contínua,
+que és l'altra paraula que sortia en la definició d'aquesta llargota que he llançat al vídeo.
+I com ho podem fer de forma no invasiva detectar això?
+Física, companys, física.
+La que odiàvem profundament a l'institut, la física aquí surt.
+Parat de fisiologia i ara parlarem de física, eh?
+Correcte.
+És que tinc fills adolescents i els haig de fotre a cagar-la perquè estudin,
+perquè si no tot és una merda, tot és una merda, tot és una merda.
+Home, serveixen, les coses serveixen.
+No t'hauràs equivocat de pòdcast, no?
+No? Vaja, espero que no.
+Va, seguim.
+Un dels principis físics és que les molècules són capaces de captar
+una part de la reacció electromagnètica entre la qual la llum és absorbida per la molècula.
+I per tant, si tu llences tot un espectre,
+una llum de múltiples longituds dona, de moltes freqüències diferents,
+hi ha una part que no arriba, perquè és absorbida,
+a la que t'interessa en aquest moment.
+A nosaltres, en el nostre cas, ens interessa per l'hemoglobina saturada,
+però si ets astrofísic, t'interessarà per la pols interestel·lar, per dir-ho.
+Una bestiesa.
+Com ho mesurem, això?
+Mira, bàsicament el que tenim és un aparell que midrem sonda,
+el dispositiu que es connecta al malalt, que acostuma a ser un didal.
+Escolteu, cosa de l'Urgent Mote.
+El didal és una cosa que feien servir les iaies per no punxar-se quan cosien.
+Cosir, allò, crea una agulla amb un fil i tal, que ja no fa ningú.
+El didal era això.
+Ara ja, quan li dius a un nen el didal,
+jo crec que dibuixant un didal dibuixarà un pulsióscímetre,
+perquè no hem vist un didal en sa vida.
+Aquest aquí, el comentari de vell.
+Tenim aquest didal, aquesta sonda, que el que fa és té un emissor, un diode,
+que emet llum que travessa el teixit i és rebut per el receptor que hi ha a l'altra banda de la pinta.
+Llavors, la gràcia és que la nostra hemoglobina absorbeix la llum d'una determinada longitud d'ona.
+Llavors, realment no tenim un led, en tenim dos.
+Tenim un led que emet amb llum vermella i un altre led que emet amb llum infrarroja,
+que nosaltres no podem veure, però que la emet.
+Les dues llums travessen el teixit i són absorbides de forma diferent.
+La llum vermella, diguem que travessa més el teixit, diguem-ho així,
+i la llum infrarroja és més absorbida per l'hemoglobina saturada d'oxigen.
+Llavors, el que tenim és una màquina que sap quanta llum emet d'una banda
+i mesura a l'altre costat quanta llum ha rebut.
+I aquí ve una de les coses que és important per després,
+interpretant amb uns algoritmes que cada màquina són els seus,
+amb uns càlculs que cada fabricant s'ha tret de la màniga,
+en base a la diferència que hi ha entre el que he emès en una freqüència
+i el que he rebut d'aquesta freqüència,
+del menys de les dues freqüències de llum que hi ha a més,
+et dona un número que correspon a la saturació,
+quina quantitat de l'hemoglobina que hi ha dins la sang d'aquest pacient
+està agafant oxigen i quina part no.
+És a dir, tenim llum que travessa un teixit i la màquina fa màgia i et diu un número.
+I aquí comencem, anem aquí ara, ja anem a rajar de la tècnica,
+perquè la tècnica és molt ben parida, però té mancances,
+i les mancances aquestes.
+És important tenir-les clares, de fet, és gairebé més important saber
+quan te'n pots refiar i quan no.
+Llavors tenim els fabricants, ens han donat aquestes màquines tan ben parides,
+perquè ens han donat la tecnica, però també ens han donat la màquina,
+i hem de saber quan hem de refiar-la.
+I la màquina, si la fem bé, ens ha de donar la saturació d'oxigen.
+Però també passa una altra cosa.
+Al nostre cos, la sang no flueix de forma lineal, sinó que flueix de forma pulsativa.
+Tenim el cor que cada segon fa la seva contracció
+i empeny la sang en forma d'una ona.
+La sang arterial ve en forma d'ona.
+Sí que quan torna de forma venosa acostuma a ser més lineal,
+però no és així.
+La màquina ens mesura quina part de la sang que circula de forma pulsativa
+està saturada amb hemoglobina,
+és a dir, quants de les molècules d'hemoglobina porten oxigen,
+i alhora ens mesura cada quant arriba a aquesta onada.
+Per tant, en un mateix aparell tenim dues coses.
+Ens mesura una freqüència cardíaca,
+i alhora ens mesura quin percentatge d'aquesta hemoglobina ve saturada amb oxigen
+i quina no.
+Això és el que diu el puls i oximetri.
+Tenim aquestes dues coses, aquestes dues parts,
+el puls i l'oximetria.
+Si de cas ens dediquem ara una miqueta a parlar d'aquesta oximetria,
+realment si això que t'inventen ben perit,
+que ara pots comprar als xinos...
+Jo recordo el primer puls i oxímetre de butxaca que vaig comprar,
+vaig haver de comprar a l'eBay fa 10 anys.
+Ja era barat llavors, ara amb el Covid,
+ara penso que és que més puls i oximetria...
+Ens vénen pacients que el puls i oxímetre de casa,
+oh, Déu meu, terrible, estic a 94, oh, horrorós, no?
+Segur que tots anem viciats.
+Hi ha alguns que et venen a... que diuen que estan a 60 i dius,
+d'acord, llenci el puls i oxímetre, ho fàcieu bé.
+Perquè, com totes les màquines, té les seves mancances.
+I si us sembla, dediquem una estona a parlar de
+què ens afecta la mesura de la puls i oximetria
+i amb quines coses ens hem de fixar.
+Vinga, primera cosa que tothom se'ns ha dit
+del dret del revés i tal.
+El pintat d'ungles, les mal d'ungles.
+Terrible, si tens les ungles pintades, el saturador, no funciona.
+Doncs és veritat a mitges.
+És a dir, s'ha vist que la pintura d'ungles
+sí que pot disminuir la precisió de la puls i oxímetria,
+però no tots els colors, només els colors foscos.
+I tampoc és una cosa excessiva i tampoc és per tots els fabricants.
+Perquè, aniré insistint, cada fabricant
+té el seu programa, el seu algoritme, la seva forma de calcular
+aquesta diferència de la llum emesa a la llum rebuda
+a quina saturació correspon.
+Per tant, colors d'ungles especialment foscos,
+no te'n refiïs gaire.
+Hi ha la trampa aquesta que funciona d'aquella manera,
+perquè tampoc hauríem de fer-ho, però tots ho fem,
+que és girar el didal del saturador, girar-lo en 90 graus,
+és a dir, en comptes d'anar de l'ungle al pulpell del dit,
+que vagi de costat a costat.
+Perquè si no, atreveix la ungla pintada.
+Això d'aquella manera, perquè realment és tot el conjunt
+de la llum que arriba, llavors hi ha una part que serà absorbida.
+Però bueno, ens ho creiem i ja està.
+Una altra cosa que no és gaire sabuda i que penso que és important
+i que pot fer quedar bastant malament els fabricants,
+és que no només és el color de les ungles el que pot disminuir
+la precisió, és també el color de la pell.
+És a dir, a pells més fosques, com que l'absorció de la llum
+és diferent, a pells més fosques el que se sap és que se sobreestima
+la saturació.
+Per aquí hi ha un estudi que cita la traducció que diu que els pacients
+de raça negra tenen tres vegades més possibilitats de tenir una hipoxèmia
+que no considerarem perquè la lectura del pulsioximetre ens la dona
+més elevada del que tocaria.
+Pel que he llegit, no és molt gran, podríem estar parlant de l'ordre
+del 3 al 5%, però és clar, la decisió de posar oxigen moltes vegades
+depèn d'aquest 3 al 5%.
+Tu a un tio a 95% no li posaràs oxigen.
+Però al 92%, no ho sé.
+Però és que si et dona 92% no n'hi poses, però si està a 89% probablement sí.
+I a aquest senyor de raça negra pot ser que no li estiguis posant oxigen
+per culpa que t'està dient 92%.
+Motiu d'això?
+Doncs que els senyors fabricants, quan van fer els seus estudis
+de validació, feien servir voluntaris.
+I els voluntaris sempre són homes blancs de raça blanca de mitjan.
+La sort que tenim és que, com que això s'afecta pel color de la pell,
+les dones, que sempre estan infra-representades a tot arreu,
+el color de la pell el tenim si fan o fot igual,
+els homes i les dones de qualsevol raça.
+Però aquí tenim una mostra de racisme, d'aquest viatge intrínsec
+de moltes coses de la vida, que en aquest cas és un racisme
+que ningú s'esperava trobar, doncs ha sortit.
+Això s'ha vist molt amb el Covid, i amb el Covid sabem que l'oxigen era necessari,
+segurament hi hauria hagut molts pacients de raça negra
+que no se'ls ha posat oxigen quan potser l'haguessin necessitat,
+o se'ls ha posat més tard del que tocava.
+Això suposo que ve de si molts estudis es fan en països
+on el sistema sanitari no és públic,
+fa que gent de raça negra que potser tenen menys capacitat econòmica
+estan menys representats en els estudis.
+I això passa amb això i passa amb molts estudis de medicaments,
+que es dissenyen pensant que representen la població global,
+però a l'hora de la veritat no,
+perquè la gent amb menys capacitats econòmiques estan menys representats.
+I si això correspon a una raça o una no sé què,
+doncs clar, ja pot ser que els estiguem posant menys oxigen en un seu grup.
+Doncs aquest és un dels casos.
+Més coses que poden afectar la pulsiusimetria.
+Un altre que també ens han explicat, i aquest sisplau, aquest graveu-vos-ho,
+per favor, aquest sí que ha de quedar clar.
+Això mesura la saturació de l'hemoglobina en oxigen.
+Però ni totes les hemoglobines són normals,
+ni tot el gas que arriba al plasma és oxigen.
+Ens podem trobar, a causa habitualment de problemes amb els efectes secundaris
+de medicaments en l'entorn en què ens movem, però també hi ha altres causes,
+que l'hemoglobina no sigui una hemoglobina capaç de captar oxigen.
+Per aquí hi ha una cosa que diuen la sulfhemoglobina,
+que dius, no sé pas què és això.
+També això de l'HBAUC, que ens sembla que és una d'aquestes hemoglobines glicosilades,
+una d'aquestes coses estranyes, també es veu afectada.
+Ens podem trobar que, si per exemple tenim aquesta hemoglobina en un sofre
+que hi ha un envoltes porai, ens doni una saturació baixa.
+El nostre didal ens mesura una saturació baixa i diem, no sé què està passant.
+El cas més evident és la carboxi-hemoglobina.
+És a dir, l'hemoglobina pot ser normal, però tenim un gas diferent a l'oxigen
+que ha arribat al plasma, en aquest cas el monòxid de carboni, el CO.
+El monòxid de carboni li encanta l'hemoglobina i s'enganxa a l'hemoglobina i no es deixa anar.
+I com que els saturadors normals són incapaços de diferenciar una hemoglobina saturada d'oxigen
+d'una hemoglobina saturada de monòxid de carboni, tenim saturacions del 100%,
+perquè s'enganxa allà a l'hemoglobina el monòxid de carboni i no hi ha manera que es desenganxi.
+I el nostre saturador no ens diu cap mentida, ens diu aquesta hemoglobina està saturada,
+però està saturada de monòxid de carboni, no d'oxigen.
+Per tant, la víctima d'una intoxicació pel monòxid de carboni,
+el saturador marca un 100% preciós, però no porta oxigen, la hemoglobina porta el que sigui.
+Una part sí, evidentment, perquè si no estaria mort, i una altra part no.
+És a dir, amb un saturador normal no ens podem refiar del número que dóna
+en potencials víctimes d'una intoxicació pel monòxid de carboni.
+La més habitual en el nostre medi no són els incendis, que també, sinó les males combustions,
+de calderes, de brasers, d'allars de foc, de qualsevol cosa que cremi.
+Quina sort tenim? Doncs que tenim aparells nous, més moderns,
+que en comptes de fer servir dues freqüències de llum per llegir la oximetria, en fan servir vàries.
+I poden detectar d'aquesta manera no només l'hemoglobina saturada amb oxigen,
+sinó l'hemoglobina saturada amb altres coses.
+I ens poden dir quina carboxi-hemoglobina tenen, quina meta-hemoglobina,
+ara em sortirà la paraula a tu, meta-hemoglobinèmia,
+és a dir, quines hemoglobines ineficaces també tenim.
+El CEM de Catalunya, per exemple, fa servir els monitors còrpuls,
+que en la tecnologia és el màxim, que és un infernitalià, crec,
+que et dona la mesura de la saturació d'oxigen, la saturació de monòxid de carboni
+i la saturació de la meta-hemoglobina, el percentatge de meta-hemoglobina que tens al cel.
+Però en el cas aquest quedem-nos amb la idea aquesta.
+Monòxid de carboni, la saturació no val.
+El que deia la meta-hemoglobina, una tonteria, si ens trobem amb saturacions
+al voltant entre el 85-88%, que li fots oxigen i allò no es belluga,
+i es queda 85-88, 85-88, i després t'hi foten una mascareta de flux,
+i no puja, i no puja de cap manera, i sempre està a 85-88,
+potser el problema el tenim en que tenim una meta-hemoglobina donant voltes per allà
+que ens està alterant el resultat del nostre saturant.
+Més coses que ens poden complicar l'existència amb la pulsioximetria.
+La més habitual, especialment els que tenim la gran sort de viure a llocs on fa fresca,
+és la vasoconstricció.
+És a dir, tu perquè puguis detectar, amb un dit per exemple,
+puguis detectar la pulsioximetria necessites bàsicament que hi arribi sang,
+de forma pulsativa, perquè si no, no hi ha res a mesurar.
+I esclar, si fa fred, que tens una vasoconstricció perifèrica,
+doncs hi arriba poca sang, per això tenim els dits enrets, perquè hi arriba menys sang.
+Ja li podem posar el didàlia, que allà poc que mesurarà.
+També pot passar si la causa d'aquesta poca sang que arriba a les extremitats
+no és el fred, sinó qualsevol altra cosa que ho causa.
+Per exemple, un xoc, una hipotensió, una baixada del dèbit cardíac,
+farà que la nostra senyal pulsativa arterial sigui molt baixa.
+Després, quan parlem de la part de pulsi, explicarem alguna cosa d'aquestes també.
+També pot passar una cosa, això passarà en els llocs moderns que fan aquestes coses estranyes,
+si tenim algun malalt que no té un flux pulsatiu de sang,
+bàsicament porta un ECMO, del qual vam parlar a l'episodi interior,
+o porta un dispositiu ventricular de llarga durada, aquests tenen fluxos laminars,
+no són pulsatius, i realment el pulsioximetre no detectarà aquesta pulsació.
+Si la perfusió és bona, ens donarà un número, però esclar, la màquina es tornarà boja,
+aquí haig de donar un número i una pulsació, i aquí no hi ha cap pulsació,
+només donaria el número de la llum que arriba i la llum que no ve.
+Podríem trobar-nos amb alguna màquina que digui no sé de què va,
+i jo dic que això no va.
+Suposo que les màquines no són tan ruques, però a saber.
+I lligat amb el tema aquest de la baixa perfusió, de la baixa constricció i demés,
+entraríem també en on hem de posar els didals, que si és un didal val dit.
+Si un nom indica, didal, dit.
+Quin dit? Qualsevol. Sembla que el polsa, diuen que és el més precís.
+Bueno, qualsevol que tingui un flux rebonable.
+De fet, fa uns dies vam tenir un xicot que va venir per una congelació,
+una miqueta de congelació amb un dit, i una tonteria.
+Havíem de posar el didal de pulsioximetre en aquell dit,
+i tenia un puls bastant digne. Per tant, aquell dit estava relativament ben perfós.
+Si fots el didal allà, i aquell didal no dona res, doncs és que no està perfós.
+Però també hi ha altres sensors. Tenim sensors que podem posar als dits,
+però també els podem posar al palmell de la mà, per exemple, amb els nadons,
+si hem de fer un preducte a la mà dreta, que bàsicament és un sensor adhesiu,
+que en el cas de fer-se encarar tant l'emissor com el receptor,
+que quedin encarats l'un amb l'altre.
+Aquests els podem fer servir a les orelles, també.
+Si tenim algú que tenim dificultats per posar-li el pulsioximetre a la mà,
+doncs li podem enganxar a l'orella.
+I llavors hi ha altres sensors, un de front, és a dir,
+un sensor que té la llum lament, rebota per entendre'ns,
+això ho estic dient molt malament, però espero que s'entengui.
+La llum rebota contra la pell i és captat pel sensor del costat.
+Si en comptes de fer la transil·luminació, si en comptes que la llum travessa el teixit,
+el que fa és, m'ho diuen, retrodispersió. L'envia i el rep.
+Això és menys precís, però pot anar bé si la perfusió és més dolenta.
+Quines són de mà millor? Doncs no ho sabem.
+Perquè el nostre pacient en concret ens interessi.
+Més coses que ens interessen de la pulsioximetria estan per la mà.
+Hi ha una cosa, això és una xorrada, però com que surt aquí en el paperot la diré,
+que és que si et donen medicaments que modifiquen molt molt moltíssim el teu color,
+precisament el color intravascular, doncs es veurà alterat la mesura.
+Aquí parlen del blau de matiler, que això sí que alguna UCI fa servir alguna vegada
+quan està en una situació desesperada de vasoplegia que no poden resoldre amb vasopressors ordinaris.
+Hi ha altres colorants d'aquests, doncs et pots trobar que tinguis unes saturacions raríssimes
+perquè clar, el color canvia i l'absorció dels nostres emissors, doncs la màquina es fot un riu.
+I com a última cosa per comentar de la pulsioximetria,
+i aquesta també és important penso jo, i torna a anar en contra,
+en aquest cas no és culpa seva, torna a anar en contra dels fabricants,
+és que la precisió d'aquest càlcul que fan les seves màquines,
+clar, ells només l'han pogut verificar amb voluntaris.
+I tu a un voluntarissar el pots emprenyar una miqueta, però no el pots protegir molt.
+Ens trobem que les saturacions són bastant fiables en valors, diguem-ne, alts, en valors relativament normals.
+Però a partir de que, si us sona aquella corba que hem parlat de la dissociació de l'hemoglobina,
+a partir de que ho encem anar a la part baixa de la corba, que llavors es desploma brutalment,
+clar, aquí no hem agafat un voluntari a dir, ara li fotrem una pressió parcial d'oxigen de 40.
+Home, és molt justet 40, eh? No, però ara a més a més li fotrem de 20.
+Molt justet, això no ho pots fer.
+Les seves mesures en valors baixos de saturació d'oxigen són poc fiables.
+Quin valor per sota del qual no et refiaries?
+Bueno, el paper parla del 75%.
+Jo em quedaria amb que per sota del número aquell és un desastre, no saps quin és.
+Ja està. Per sota d'aquí ja hauries d'estar fent coses fa una estona, ja va estar.
+Vols dir, Albert, que si els fabricants haguessin fet estudis amb gent voluntària
+sotmesos a baixes pressions d'oxigen i haguessin pogut fer els seus càlculs,
+podríem tindre unes bones saturacions ara o no?
+Doncs la veritat no ho sé, però és que fins i tot per sota del 75,
+fins i tot aquells que deuen, no sé quines saturacions gasten els que se'n van a expedicions amb altitud,
+però vaja.
+Estava pensant en aquests, eh?
+Ara s'està adaptant, llavors ja no et val tampoc, no? Hauríem d'haver agafat els xerpes.
+Sí, no, no. Estava pensant en això, la gent que puja, no?
+Que te'n vas als Andes o te'n vagis on vulguis i puges a 5.000 metres o 6.000 metres
+i estàs sa però s'atures baixet.
+Però has d'estar, per aguantar això i no morir has d'estar adaptat.
+Sí, sí, sí.
+Llavors si ets un voluntari sa, però ets d'una població de voluntaris
+que no és representativa dels pacients que tindràs.
+És una miqueta...
+Sí, sí, sí.
+Agafem la gent i els asfixiem. Lleig, lleig.
+Sí, sí, no, no.
+No es pot fer, vaja, ja està.
+A partir d'aquí tot són extrapolacions.
+Aquí el que sí que es podria fer és amb malalts.
+És agafar i dir malalts de...
+Quan els tens a saturacions que et diu 60,
+dir, doncs, traiem-li una gasometria i ho mesurem.
+I ho portem, clar, logísticament és un infern per fer això.
+I a més a més no portaràs malalts a 60 perquè...
+Per tant, sapiguem això.
+I a més a més, a mesura que hi hagi un resultat de cert número,
+podríem fer servir aquesta referència del 75%,
+a mi no em sembla pas un número descabellat.
+A mesura que hi ha aquest número saps que estàs molt avall però no s'ha sortit.
+I el mateix ens passa si ens anem per sobre.
+És a dir, a partir del moment en què tota la nostra hemoglobina està saturada,
+la pressió parcial d'oxigen que hi ha a la sang no la podem saber.
+Si la dissucim de la hemoglobina, podem tenir una pressió parcial d'oxigen,
+en comptes de 100, que seria una pressió normal de 100 mil·limetres de mercut.
+La tenim a 1.000, seguirem saturant-se.
+I si la tenim a 10.000, no s'hi pot arribar però no és igual, seguirem al 100%.
+Això no seria un problema si no fos perquè la hiperòxia és la ziva.
+Per tant, sapiguem que 100% probablement tampoc sigui un número que ens interessi,
+perquè no sabem si estem passats.
+Quedar-nos amb un número al voltant del 95 és una bona idea.
+I sembla que és una bona idea, perquè hi ha diversos estudis que en donen moltes porai,
+sobretot en posaturada cardíaca.
+Sembla que és una bona idea quedar-se amb el 95-96 i no buscar més.
+Jugant amb aquest mateix principi, si tu has d'intubar algú que saps que necessitaràs,
+deixaràs el mal una estona amb amnia,
+però t'interessa anar molt amunt, per tant has d'arribar al 100% perquè saps que estaràs molt amunt.
+No saps on, però estaràs molt amunt.
+T'interessa justament per això, perquè la poca quantitat d'oxigen que tindràs en plasma,
+que tampoc és molta, però allà la tens, és una referència que et dona.
+Sé que he arribat a 100, sé que estic molt amunt, ara el meu malalt té més temps per resistir l'amnia.
+I això que acabo d'explicar ara ens porta a una altra qüestió que també és interessant,
+que és que el que jo veig amb el meu pulsioximetre m'està ensenyant el passat del meu pacient.
+Per què dic això?
+La saturació de l'oxigen de la sang que estic mesurant en aquell moment
+és la sang que s'ha oxigenat uns quants batecs enrere.
+Si recordem el circuit de la circulació sanguínia, tenim el circuit menor de la circulació pulmonar,
+el nostre hematia està a l'alveol, amb el següent batec se'n va a l'aurícula esquerra,
+amb el següent batec se'n va a l'entricula esquerra, amb el següent batec s'obre l'entricula esquerra
+i x batecs després que ha passat per l'alveol arriba a ser detectat pel nostre sensor.
+Per tant, en funció de la freqüència cardíaca del pacient,
+ens podem trobar que la mesura d'oximetria d'aquell moment correspon a uns quants segons enrere.
+Això vol dir, en el cas que explicava de la intubació,
+si jo veig un 94, aquest 94 és com tenia la saturació al meu pacient fa 4, 5, 6 segons.
+Si no faig res, baixarà durant els següents segons.
+Si faig alguna cosa al cap de 5, 6 segons, veuré el canvi.
+Això és un dels motius pel qual si intuem algú,
+això ho haurem d'explicar el dia que parlem de la intubació,
+si intuem algú i la saturació ens baixa, no hem d'esperar que estigui molt baixa,
+perquè vol dir que encara baixarà més després.
+Si recordeu de la coorba de dissociació de l'hemoglobina, cau de forma molt brusca a partir d'aquest punt d'inflexió,
+que és als 80 pocs.
+És a dir, 80 ja és un número en què ja s'està desplomant i la cosa va de mal.
+I em sembla que per la banda de l'oximetria jo ja he fotut un rotllo.
+Jo crec que aquí, la banda de l'oximetria, ja podríem acabar-ho.
+No sé si tens algun dubte.
+Si els nostres avions tenen algun dubte, envieu-ho a un grup de Telegram
+o ens ho envieu d'alguna manera i el contestarem en un altre episodi.
+Ok. Bé, doncs molt bé.
+I deixem la banda de l'oximetria, passem a la banda de la pulsi.
+La banda del puls, que és l'altra cosa que ens permet mesurar aquests aparells, els puls i oxímetres.
+He explicat que tinc un puls i oxímetre que vaig comprar a l'eBay fa molts anys.
+Aquest puls i oxímetre que tinc no tenia una representació gràfica de l'ona de puls.
+Tenia unes barretes que pujaven i baixaven
+en funció de la seva valoració, diguem-ne,
+anava a dir numèrica però no sé com dir-ho,
+de la seva valoració de la intensitat del puls era aquesta pujadeta i baixadeta.
+La majoria d'aparells moderns, fins i tot aquests de dit dels xinos,
+tenen una ona, aquesta n'hi diem l'ona platismogràfica.
+Aquesta ona el que mesura és aquesta pulsativitat de la sang que ve.
+Hi ha una línia basal, ve la ona pulsativa, puja i baixa.
+Cada vegada que el puls detecta un pic prou prominent ho considera un batec i els mesura.
+Com els mesura? Doncs no ho sé, la majoria d'emitors que tenim acostumen a fer una mitjana
+dels tres últims batecs, tant per la freqüència cardíaca com en aquest cas el puls perifèric.
+Si tens tres de seguits molt seguits, et donaran una freqüència molt alta.
+Si estan molt separats, perquè has tingut una pausa sinusal o el que sigui,
+o fas una mica de bradicàrdia, llavors això canvia.
+Això fa també que si tens una rítmia, la teva freqüència cardíaca mesurada pel puls i oxímetre
+sigui poc fiable, perquè n'hi ha pujant i baixant.
+No et pots quedar amb un número puntual, sinó que has d'agafar-te una idea global.
+Està a 130, 140, 120, 130, 140, 120, aquest tio va a 130, perquè més o menys és el número que ens queda.
+La forma d'aquesta ona platismogràfica, és a dir, de com puja i com baixa,
+ens dona una certa informació. De fet, mireu si ens dona informació que si la ona no és bona,
+si no tens una ona ben dibuixada, no et creus la saturació que t'està donant,
+perquè no tens clar que estiguis mesurant el que has de mesurar.
+Si la ona és bona, és a dir, tu veus un bon puls, saps que aquella persona està ben perfosa
+i com que baixa perfusió és un dels motius d'imprecisió de la mesura,
+doncs aquest l'elimines.
+Però si tens una ona platismogràfica molt dolenta, no saps què estàs mesurant.
+I això és una de les coses que ens ha de fer por quan tenim un malalt en mal estat.
+Si el teu saturador és incapaç de mesurar o la ona és dolentíssima,
+jo em preocuparia bastant poc de la saturació i em preocuparia bastant més de la perfusió d'aquest malalt.
+És una altra idea. La ona aquesta, dius, és que no sé quina saturació té,
+clar que em preocupa, evidentment que em preocupa, però no sé quina té.
+Jo el que sé és que tenim un problema de perfusió, perquè el meu saturador,
+a pesar d'haver-lo canviat d'allò, a pesar d'haver provat les 1.001,
+segueix mesurant una corba dolentíssima. Anem a resoldre el problema.
+El pulsosímetre no ho vam pensar per mesurar això, però també ens és útil.
+Amb això el que he fet és he fet una anàlisi de la forma de la ona,
+que és una altra de les coses que podem valorar en la pulsosimetria.
+Aquí hi ha una part també, no sé fins a quin punt això és molt, molt fiable,
+algunes de les coses que diré ara.
+Jo no hi tinc una fecega, en algunes sí, en d'altres no.
+Coses que sí que podem veure. L'amplitud, és a dir, com de gran és aquesta corba,
+aquest pic que puja i després baixa, com de gran és,
+quin volum hi ha a sota d'aquesta corba, de forma indirecta ens mesura
+quina quantitat de sang, quin volum sistòlic s'ha ejectat.
+Això, per exemple, és bastant divertit de veure quan tens, per exemple,
+un extracístole, que després de l'extracístole tens una pausa compensatòria,
+al següent batec veus com l'amplitud és molt més gran.
+Estem parlant de la corba del pulsioximetre. Per què és més gran?
+Al següent batec ha emès un volum més gran de sang i ha desplaçat un volum més gran de sang,
+perquè ha tingut més temps d'omplir-se l'aurícula i després ha passat més sang al ventricle
+i ha fet un volum sistòlic més gran. Té la seva gràcia.
+Veus això i dius mira, amplitud, amplitud.
+A més a més també és divertit de veure com des del batec que veus amb l'electro
+passa una mica de temps i es detecta en el pulsi.
+Una de les coses del retat.
+No té per què correspondre el batec que t'arriba, o sigui, la sang que t'arriba,
+no té per què ser la del batec que ha detectat el deixonsis electrocardiograma.
+Això també és nou.
+Aquí en el document, que jo us recomano que llegiu,
+és molt més ràpid llegir-lo que escoltar-nos, però bueno, tampoc és tan divertit.
+Hi ha diferents formes d'aquesta ona.
+La ona aquesta de pulsioximetria que us dic, la ona de pols, té la pujada de quan comença la sístole,
+és a dir, quan s'obre la vàlvula òrtica, comença a sortir tota la sang,
+i hi ha un moment de màxima pressió que és quan tota la sang està sortint.
+A partir d'aquí comença a créixer la pressió fins que es tanca la vàlvula òrtica
+i llavors acaba de caure del tot.
+Doncs quan s'obre la vàlvula és quan comença la pujada
+i quan es tanca ja està en la baixada i llavors és una muntanyeta que ve darrere.
+Jo el que he vist una vegada, vaig veure en el seu moment fa bastants anys,
+amb un aparell no molt precís, que no mesurava la forma de la corba,
+és una taquicàrdia ventricular de 200 i escaig, un pagès,
+i la màquina mesurava 100 de pols,
+perquè assumia que el segon pic que detectava
+corresponia a aquest pic que es fa quan es tanca la vàlvula.
+Ara ja la majoria de saturadors van amb la ONA, ens hi podríem fixar,
+però no està de més corroborar amb un pols perifèric
+que aquell número que t'està donant la maquineta
+correspon a la realitat que tu pots mesurar.
+En aquest cas era, segurament, la màquina interpretava aquesta segona pujadeta,
+com que no devia tenir temps, acabava de baixar del tot i ja arribava a la següent,
+no arribava a la línia basal, ho entenia com aquest pic diastòlic que se'n diu,
+que és el tancament de la vàlvula òrtica.
+Una corba normal és això, tens una pujada molt vertical,
+comença a baixar i abans d'arribar a baixar del tot
+tenim aquest segon pic petitet.
+I aquí hi ha diferents estudis que ens dibuixen diferents altres formes,
+altres formes d'aquesta ONA.
+Per exemple, ens diu que si està molt vasoconstrenyit aquest pacient
+tenim que el pic diastòlic, és a dir, aquí on se'ns tanca la vàlvula òrtica,
+està molt elevada respecte al pic sistòlic,
+és a dir, allà on arriba des que s'obre la vàlvula.
+És a dir, l'espai que queda entre els dos pics és molt petitet.
+A mi em sembla, aquí això jo no m'hi fixaria massa perquè realment a mi em costa veure-ho.
+Porto temps que amb els meus, quan estic a l'hospital,
+que tenim una central de monitorització, allà a la nit que estàs allà rebentat
+i veus les zones de puls i dels teus pacients,
+miro, a veure aquest, a veure aquest, i sóc incapaç de diferenciar una cosa de l'altra.
+Si algú és capaç de fer-ho i ens ho pot explicar bé, jo estaria encantat d'escoltar.
+I no ho sé, jo, per la meva banda, podria emmatar aquí.
+De tota la pulsi, em sembla que tot el que és, això ho podríem dir en pulsioximetria,
+tot el que necessites saber i més.
+Jo el meu pulsi portàtil sí que et fa una petita gràfica de puntets que pugen i que baixen,
+però no em dóna tanta informació, eh, el meu portàtil, eh.
+Això vol dir que fa temps que el tens.
+Sí, sí, sí, sí.
+Sí, sí, i cau a terra.
+Els models aquests que es compren als xinos.
+Sí, cau a terra, es desmunta, el torno a muntar i segueix funcionant.
+No ho sé.
+És resistent, és resistent.
+És resistent, sí.
+Bé, molt bé, no ho sé, aviam, això penso que sí que ens pot ajudar.
+Almenys sapiguer quan li podem fer cas, quan no li hem de fer cas.
+I si no ens agrada, doncs què podem fer, no? Per millorar-ho.
+Sí, senyor.
+Molt bé, doncs què et sembla? Continuem amb els altres apartats de l'episodi?
+Sí, ara parla tu, que jo he xerrat massa.
+Doncs tenim un altre, un dels apartats que volíem posar en el NEM pòdcast era el menys és més.
+I un dels exemples d'això era l'Essencial que tenim en el salutgencat.cat,
+que sabeu que n'hi ha, són totes aquestes accions ara que hi ha,
+ara, fa molts anys ja, de veure quines coses fem a nivell assistencial, que les fem de forma sistemàtica
+i que no hauríem de fer-les de forma sistemàtica.
+Hi ha això, l'Essencial, n'hi ha altres americanes que són el do not do, el choosing wisely i n'hi ha altres.
+L'altre dia vam parlar d'una Essencial relacionada amb el metamizoleee
+per la febre i el dolor, què és la febre i el dolor, de no donar-la de forma sistemàtica, el metamizoleee.
+I avui volia parlar també d'una altra Essencial que va relacionada amb les proves complementàries
+i concretament sobre la radiografia d'abdomen simple.
+I parla dels pacients que venen urgències amb dolor abdominal agut,
+de no fer de forma sistemàtica la típica placa d'abdomen que ens aporta poca informació.
+Sabem que els pacients amb dolor abdominal poden ser el 5-10% de tots els pacients que consulten amb un servei d'urgències
+i sabem que la radiografia d'abdomen simple té molt poca capacitat diagnòstica si tu no saps ja exactament què estàs buscant.
+És a dir, en poques vegades una radiografia d'abdomen ens farà canviar el diagnòstic o el tractament que li posem.
+A més a més, té el problema de la radiació.
+La radiació d'una radiografia d'abdomen és 35 vegades la que pugui fer una radiografia simple de tòrax.
+Per tant, si sabem que no ha de portar grans canvis en el diagnòstic i en el tractament,
+doncs potser que ho limitem una miqueta i no fem una radiografia d'abdomen a tot pacient que ve amb dolor abdominal.
+De fet, aquesta recomanació de l'Essencial es basa en les recomanacions de la Societat Catalana de Radiologia
+i de la Societat Catalana de Medicina d'Urgències i Emergències.
+Ens adiu amb les quatre ocasions en què sí que de forma sistemàtica està recomanat,
+perquè sí que et pot ajudar a saber què té el malalt o què li pots fer.
+I són en el malalt que ve per dolor abdominal legut i sospites una oclosió intestinal,
+o que sospites una perforació d'una víscera buida, o que té un còlic nefrític,
+i en casos també, pel que t'expliqui el malalt, que sospitis un cos estrany.
+En aquestes quatre ocasions, doncs sí que tranquil·lament pots demanar una radiografia simple d'abdomen i et pot ajudar.
+Amb la resta de situacions, no és que no la puguis demanar, però no està recomanat de forma sistemàtica.
+I això és la recomanació de l'Essencial que us volíem explicar en aquest episodi.
+La que l'abdomen menges més.
+Bé, i un altre apartat d'aquest episodi de l'EMPodCat és, com sempre, l'Urgent Mot.
+Si recordem, crec que va ser l'últim episodi, vam parlar d'una llista de fàrmacs
+que podríem millorar el nostre català per fer-ne gust, d'aquests fàrmacs.
+I ens quedaven quatre medicaments que teníem en el diccionari per repassar.
+I era un que no és que fem servir nosaltres precisament a urgències,
+però sí que hi ha pacients que el prenen i l'has d'escriure a la història clínica
+o l'has de tenir en compte en ocasions, i és el metotrexat.
+Moltes vegades en podíem dir de forma incorrecta el metotrexate,
+però correctament és metotrexat.
+Què més? També teníem l'undancetró, d'acord?
+En el medicament, els pacients que estan vomitant i tenen nàusees i volem tractar aquest problema,
+doncs el que hem de fer és prescriure i administrar un undancetró.
+I també per temes gàstrics, un inhibidor de la bomba de protons, per exemple, l'homapresola.
+De fet, tots aquests medicaments que acaben amb zola, Z-O-L-E,
+com el metamizoleee, el metronidazola, tots aquests acaben amb L-E,
+el mepresola, el metamizoleeea i el metronidazola.
+I després hi ha un medicament que fem servir per fer la paràlisi muscular,
+que fa paràlisi respiratòria, quan fem una intubació.
+Parlem del suc-xamatoni.
+El suc-xamatoni és la succinilcolina, el nom correcte.
+I de fet, hem de parlar, hem de deixar de fer servir la succinilcolina
+i fer servir el suc-xamatoni.
+I amb això és tot. Què et sembla, Albert?
+Suc-xamatoni, sí. O suc-sa, no sé si vols dir.
+Si et sona més fàcil, això és com dir xàbac.
+Si et sona més fàcil, això és com dir xavi o dir-li xavi.
+Correctament, hauríem de parlar de xavi en lloc de xavi,
+com la xocolata. No n'hauríem de dir xcolata, sinó que hauríem de dir xocolata.
+Doncs el suc-xamatoni, correctament, si vols, a més a més, pronunciar-ho de forma correcta,
+seria el suc-xamatoni.
+Molt bé.
+Veig aquí molta reminiscència francòfona, perquè l'home Prasole...
+És més, ho veus tu, d'origen més francès.
+No, no, ho és, ho és, és com ho escriuen.
+I de fet, el suc-xamatoni, els n'hi diuen suc-xamatonium.
+O sigui, el nom farmacèutic del medicament, els francesos en diuen suc-xamatoni?
+Suc-xamatonium, em sembla.
+Sí, sí, alguna vegada que hem tingut formulació francesa, dèiem suc-xamatonium.
+Molt bé, doncs això és el que acabàvem...
+Volíem acabar de repassar què eren aquests quatre medicaments.
+No sé si tu tenies, Albert, algun urgemmot per comentar.
+Mira, jo tinc un urgemmot i una altra cosa que vull comentar després.
+L'urgemmot, de fet, és a causa d'aquesta traducció.
+Del pulsi? És del pulsi, això?
+Sí.
+Sí, sí, quan escrivia això...
+Ja m'ho ha semblat, ja m'ho ha semblat, ja m'ha semblat que volies parlar d'això, digues.
+Aniria per aquí la cosa, sí, sí.
+Vaig escriure pulsàtil per traduir el pulsatile a anglès
+i m'ho marcava com una falta d'ortografia, el corrector automàtic.
+I vaig dient, eh, pots comptar el corrector automàtic, que has de saber que et diuen i tal.
+I no surt el diccionari pulsàtil.
+Ostres!
+No hi és. És pulsatiu.
+Has de canviar de diccionari. És pulsatiu?
+No, perdona, és el diccionari de la llengua catalana de l'Institut d'Estudis Catalans.
+Hòstia, és el Pompeu actual. No podem canviar aquest diccionari.
+O sigui que no és pulsàtil, és pulsatiu.
+El pulsatiu. Pulsatiu, eh?
+Pulsatiu, sí senyor. Un altre més, eh?
+Més friquis no podem ser.
+Pulsatiu, va, posa aquest...
+Però, escolta, jo avui no volia parlar de...
+Havia dit l'urgemmot, evidentment, però tinc una cosa...
+Si recordeu, fa uns quants episodis vaig parlar d'una cosa que es deia el projecte AINA,
+que és un projecte que ja existia abans, però en aquest cas la Generalitat de Catalunya el va reimpulsar...
+Per deixar la teva veu, no? Per la intel·ligència artificial, la teva veu en català i tot això, no?
+Exactament. És a dir, la gent gravava, i gravem, encara està obert.
+Especialment ens interessen veus de dones i variants dialectals que no siguin el català central.
+Per gravar àudios, validar-los, que això fa falta a tothom, a validar,
+perquè es necessiten, no recordo quantes vegades més de validar que de gravar.
+I això és un corpus d'entrenament perquè aquestes intel·ligències artificials puguin entendre el català i actuar en conseqüència.
+I per què dic això? Doncs perquè l'episodi anterior vaig decidir invertir un temps preciós de la meva vida
+en intentar fer una transcripció automàtica del que parlàvem.
+Que us podeu imaginar que transcriure una hora d'àudio, doncs evidentment no és una hora d'escriure, és bastant més.
+I és una feina ideal per a una intel·ligència artificial.
+Hi ha molts programes de transcripció d'àudio, hi ha aplicacions específices per transcriure àudios de pòdcast,
+però evidentment en català poca cosa.
+Fins ara. Hi ha un programari que es diu Whisper, que és una intel·ligència artificial,
+que tu li pots posar el corpus d'entrenament que t'interessa.
+Li vaig posar el corpus d'entrenament del català basat en el projecte Aina,
+és a dir, les veus de tots els que veu gravar coses han servit per entrenar aquesta intel·ligència artificial.
+I vaig treure la transcripció bastant digna, la veritat, de tot l'episodi interior.
+És cert que s'ha de repassar i que llençar-ho tal qual et pots trobar una sorpresa desagradable,
+però vaig pensar, si això és el que s'ha fet, sense tenir totes les hores que fan falta,
+i a més, compte amb aquesta intel·ligència artificial.
+Això de la transcripció, Albert, l'altre dia havia d'estar mirant un pòdcast d'un tema de simulació clínica,
+i és un pòdcast que durava una hora i mitja, i vaig veure que hi havia la transcripció de tot el que es deia,
+jo ho vaig veure en diferit, eh?
+I la veritat és que estava bé perquè volia veure si parlaven d'una cosa en concret,
+i com que tenia tota la transcripció, li vaig buscar les paraules clau,
+i clar, em deia, doncs mira, d'això en parlen en el minut 54 i 30 segons.
+I vaig poder anar directament allà on m'interessava sense haver d'escoltar tot el pòdcast.
+No sé si això que estàs explicant tu també podria servir per això o no,
+per identificar una part concreta que t'interessi.
+I tant, i per posar subtítols, per exemple.
+Pots fer servir per subtitular sense invertir moltes hores de la teva vida.
+Aquesta és la gràcia de les intel·ligències artificials, que treballin per tu.
+Fins ara hem estat treballant nosaltres per elles,
+ara seria interessant que alguna comencés a treballar per nosaltres.
+Vols dir que fàcilment podríem transcriure tot el que anem parlant
+i fer-ho en anglès o francès i així hi hauria més gent que ens el pogués escoltar o què?
+Això ja serien dues intel·ligències artificials, la de transcripció i la de traducció.
+I mira, softcatalà té el traductor automàtic català-anglès, o en cas català,
+que també és... passa amb tecnologia neuronal,
+tecnologia d'intel·ligència artificial, i Déu-n'hi-do, també Déu-n'hi-do.
+Jo per temes de traducció, normalment, a part del Google Translator normal i corrent que feien servir sempre,
+recomano el Dipple.
+Sí, però no hi és en català.
+Sí, clar, no hi és en català.
+Però si has de traduir text en anglès al català, o d'anglès a espanyol i espanyol a anglès,
+el Dipple ho fa força bé.
+És molt bo aquest també.
+Molt bé, Albert. Què més?
+Tancem la falca d'intel·ligències artificials.
+I ens faltava parlar... Ah, sí, d'algunes recomanacions,
+d'alguna cosa que haguéssim vist interessants.
+Jo havia estat mirant... És una ajuda que ens dona UpToDate,
+que és aquest llibre electrònic, aquesta guia llibre electrònic que tenim penjat en el Nougool i que hi podem tenir accés molta gent.
+Jo només us volia parlar, en l'UpToDate, els que tingueu ja accés fàcil i sabíeu com entrar-hi,
+hi ha una cosa que són uns gràfics, unes infografies que t'ajuden a fer diagnòstic diferencial.
+No en tenen moltes de moment, les van fent a poc a poc, però són infografies
+en les quals te comparen, per exemple, les característiques d'una faringitis vírica amb una faringitis estreptocòcica,
+una dermatitis per insurgència venosa d'una cel·lulitis,
+una bronquitis aguda d'una pneumònia, una pneumònia viral d'una bacteriana,
+o un vertigen perifèric o un vertigen central.
+I el que fa tafant és uns gràfics molt ben parits i amb tota la informació que puguis trobar tu en l'UpToDate
+t'ho posen així molt esquemàtic, amb una infografia molt ben feta i amb enllaços perquè vagis al text.
+I és una forma fàcil de llegir i que et quedi més en la memòria.
+I per accedir-hi, tu al buscador d'UpToDate normal i corrent li poses la paraula distinguishing,
+distingint o diferenciant, li poses en anglès distinguishing,
+i a sota d'això del buscador et dona diferents opcions,
+anar a buscar un tema, un capítol, un no sé què més, i al final buscar gràfics.
+Tu li poses al buscador distinguishing i busques només gràfics.
+Hi haurà els 10 més o menys que tenen fets fins al moment
+i que suposo que aniran ampliant a mesura que els vagin fent.
+I que a més, no sé, Albert, tu tenies alguna altra cosa per recomanar?
+Mira, la meva recomanació per aquest episodi és un lloc web, un lloc web de Suïssa.
+De fet, de la part francòfona de Suïssa, la Suïssa romanda, li diuen d'això.
+El lloc web es diu, ja ho veig aquí, que no m'equivoqui, es diu
+bruits.bruits.ch.ca
+Això és de l'associació suïssa romanda, l'associació suïssa francòfona de medicina d'urgències.
+Han creat aquesta pàgina, els joves d'aquesta associació han creat aquesta pàgina
+per fer el que fem nosaltres, l'educació al FUAMED.
+Educació mèdica oberta, d'accés obert a tot arreu, en qualsevol moment i de més.
+I tenen una pàgina web on van penjant un blog, on van penjant els articles d'allò que creuen en portugués.
+Tenen un pòdcast també en francès, la web és en francès, evidentment, també.
+I també tenen juguesques, els quiz aquests, que, per exemple, l'últim que he vist és
+qui s'ha de vacunar de la grip. I et posen allà diferents casos i tu dius,
+si l'has cagada et diu perquè ja l'has cagada i si l'encenes et diu perquè l'has cagada.
+Una miqueta de l'estil de les juguesques de l'Urgent Mod que pengem al grup de Telegram,
+que per cert avui no hem donat el resultat de cap.
+Hòstia, no me'n recordo quin era... Després quan editi, quan editi l'Urgent Mod,
+ja posaré la falca de la juguesca de l'Urgent Mod que anem penjant a l'episodi 9,
+perquè així els que no ens segueixin al Telegram, mal fet, si no ens seguiu, ho sàpiguen.
+Doncs no, no ens hem oblidat de la juguesca de l'Urgent Mod.
+De l'últim episodi, la juguesca de l'Urgent Mod que teníem, la definició era la següent.
+Dificultat o cessació del pas d'impulsos a través del sistema específic de conducció del cor.
+Donàvem les quatre opcions, bloqueig, bloc, bloqueig acabat amb X o blocatge.
+I la resposta correcta és blocatge.
+Va, i fem una altra juguesca de l'Urgent Mod per a aquest episodi, que és la següent.
+La definició diu, aparició en l'aurícula cardíaca de 100 transformadors d'impulsos que proporcionen uns 300 estímuls per minut.
+El nòdul no pot conduir els impulsos amb la mateixa rapidesa i la meitat o la quarta part resten blocats en aquesta zona.
+El diagnòstic és fet per electrocardiografia.
+Quatre opcions, com sempre.
+Flúter auricular, batec auricular, alateig auricular o fibrilaflúter auricular.
+Com sempre, si voleu saber la resposta de seguida us ho heu de mirar al grup de Telegram.
+I si no, donarem la resposta, si ens en recordem, en el proper episodi.
+Vinga, que hi hagi sort!
+Però això, bruitsdechoc.ch, el pòdcast també és interessant.
+A tu t'agradaria aquest perquè parlen dins els pòdcasts, tenen una sèrie, entre cometes,
+perquè tampoc són tants, que parlen dels mites de la medicina d'urgències.
+Ah, doncs ja li donarem cop d'ull.
+També és interessant.
+Quan explicaves això dels que fan els cuits aquests,
+se m'ha passat pel cap una recomanació que ens vas fer tu un dia,
+que era com anaven passant diferents arrítmies cardíaques greus
+i havies d'anar decidint quina desfibrilaves i quina no.
+Això sí.
+Te'n recordes d'aquesta?
+Sí.
+I això m'has recordat.
+M'has recordat.
+Si aneu a la nostra pàgina web, en pot.cat barra recomanacions, i són totes,
+i aquesta que estàs dient tu, Xavi, la tenim allà, ara no recordo el nom.
+Aquesta és de les que...
+Aquesta és xula, sí.
+Aquesta és per fer-la servir, els que tenim estudiants,
+aquesta és per fer-la servir amb els estudiants.
+Els hi fots a davant i els hi dius,
+mira noi, fins que no vegis això i no saltis de la cadira,
+tu no estàs fet per la feina, xato.
+I a veure, s'entrenin.
+Sí, sí, sí.
+I la gràcia d'aquest justament és que quan veus la fibril·lació ventricular
+i veus allà, aaaah, on és el botó?
+Serveix bàsicament per això.
+Exacte, molt bé, molt bé.
+Per posar-te nerviós mirant una pantalla.
+Sí, sí, aquesta manera xula, aquesta recomanació.
+Doncs molt bé, Albert, no sé si ens queda alguna cosa,
+ja hem fet molts apartats i hem parlat de moltes coses avui.
+Jo crec que si queda algú que ens escolta ja serà emperitori.
+Penso que només ens falta dir allò dels 50 seguidors que hi ha al Telegram.
+Sí, senyor.
+Al canal o del grup.
+El grup de Telegram ja som 50.
+Som uns quants, eh?
+Ja som 50, sí, sí.
+Uns quants, sí.
+I estaria bé que algú més portés coses, també, eh?
+Però bueno, ja anem penjant alguna coseta, ja.
+Electros, pengem electros, amics.
+Que jo els meus els tinc molt vistos, vull veure electros dels altres.
+Altres coses que no siguin electros també les podem posar, eh?
+Però ja sabeu que a mi em perd això.
+No, que després estàs una hora xerrant d'aquell electro
+i ja no xerrem de res més, Albert.
+Sí, sí.
+Perdoneu-me, sóc una mica...
+El trastorn obsessiu-compulsiu que hi fallem.
+No ho sé, ho deixem aquí, Albert?
+Vinga, va, tanquem la paradeta.
+Vinga, fins la propera.
+Que vagi bé.
+He afegit aquí un petit trosset sobre la intel·ligència artificial.
+I de fet aquest tros d'àudio que escolteu a partir d'ara
+està tractat també amb una intel·ligència artificial.
+Ja ens direu a veure què us sembla.
+Si no us interessa ja ho podeu posar aquí.
+Vinga, que vagi bé.
+I ja que parlem d'intel·ligències artificials,
+deixa'm fer una falca friki, va, que en tinc unes quantes.
+A tothom li deu sonar el chat GPT,
+que ha estat de moda les últimes setmanes.
+És una intel·ligència artificial conversacional
+en què tu li demanes coses i ella et contesta.
+Chat GPT està basat en...
+Bé, és una empresa OpenAI,
+és la versió 3, aviat sortirà a la quadra.
+Realment jo l'he provat.
+L'administrador de la meva instància, Mastodon,
+és un friki i té muntat un robotet
+que tu li escrius allà el que vols
+i converses amb la intel·ligència artificial.
+I se'm va acudir preguntar-li una cosa que jo ja sabia.
+I a veure amb què em contestava.
+Li vaig dir, escolta'm, intel·ligència artificial,
+quina és la pressió que ha de tenir un neumont d'apunament
+d'un túpem de tràquil?
+I la intel·ligència artificial no es talla un pèl i diu,
+entre 10 i 20 centímetres d'aigua.
+I ho ben dit, eh?
+El paio conversa superbé.
+I el pressiu ha de ser entre 10 i 20 centímetres d'aigua.
+No és entre 10 i 20, és entre 20 i 30.
+I vam mantenir una conversa.
+Jo li vaig agafar i li vaig dir, escolta'm,
+d'on ho has tret això?
+D'una pàgina web de la Universitat de Barcelona.
+Molt bé, fem una conversa.
+Passa amb l'enllaç de la web.
+L'enllaç de la web és example.com.
+És que home, m'estàs trobant, xaval.
+El tio és capaç de conversar.
+Vaig quedar francament impressionat.
+Dic, hòstia, la conversa boníssima.
+La informació és un tronyo, però la conversa boníssima.
+Això l'intel·ligència artificial,
+però diguem-ho amb això que he dit del whisper,
+que el whisper m'ha impressionat realment.
+Aquesta transcripció,
+és a dir, és capaç de detectar la veu de 3 persones diferents,
+que érem 3 en aquella metòdica,
+cadascuna amb la seva tonalitat, el seu accent i tal.
+A més a més amb llenguatge complex,
+perquè és llenguatge que no és d'ús comú.
+I compte, eh?
+Que la va clavar.
+Després t'apareix el xat GPT aquest,
+que conversa de conya,
+i et posa unes troles que...
+Vull dir que no ens passi res
+amb les intel·ligències artificials de futur.
+Ja ho has de fer tu.

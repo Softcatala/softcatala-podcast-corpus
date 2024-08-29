@@ -1,11 +1,11 @@
-El pòdcast d'urgències i emergències mèdiques en català.
-Hola, benvingudes a un nou episodi de l'EMpodcat,
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMPodCat,
 el pòdcast d'urgències i emergències mèdiques en català.
 Aquest pòdcast el produïm en Xavi Basurto, des de l'Empordà.
 Hola, bon dia, Xavi.
 Hola, bon dia.
 Sí, des d'aquí... des de Figueres, al costat de l'Hospital de Figueres.
-Aquí fem l'EMpodcat gironí.
+Aquí fem l'EMPodCat gironí.
 Ben tocat per la tramuntana, quan en fa.
 En Xavi té un blog que és urgem.cat,
 i @urgemcat a diferents xarxes socials.
@@ -40,7 +40,7 @@ per tant les recomanacions que havíem de fer a partir de ja
 en el Codi IAM a Catalunya.
 Hi ha algunes novetats, algunes coses diferents,
 que aprofitant que vam fer una sessió a l'hospital per recordar-les,
-doncs ho fem aquí a l'EMpodcat i així se'n pot fer una miqueta més de difusió.
+doncs ho fem aquí a l'EMPodCat i així se'n pot fer una miqueta més de difusió.
 Si d'aquí quatre dies surt un altre tríptic,
 doncs, no sé, en farem una petita ressenya.
 Com ho vols fer això, Xavi?
@@ -610,7 +610,7 @@ recomanacions d'aquestes que expliquem...
 Jo penso que les dues o tres que hem fet
 eren de l'Essencial també.
 Sí, sí, n'haurem de buscar alguna d'una altra banda, perquè estem
-tirant molt de casa. 
+tirant molt de casa.
 Bueno, mira, si tenim algú aquí al costat de casa, que són
 l'Agència de Qualitat i Avaluació
 Sanitària, l'AQUAS, que són
@@ -627,7 +627,7 @@ pel pròxim episodi, que no són catalanes.
 Doncs va, ara ens tocaria
 la següent secció, la que més m'agrada,
 la secció lletraferida
-de l'EMpodcat, que són els urgents mots,
+de l'EMPodCat, que són els urgents mots,
 que si no recordo malament,
 Xavi, teníem a mitges
 una llista d'objectes,
@@ -657,7 +657,7 @@ o altres coses,
 és una llitera de cullera, aquella que se separa
 amb dues estructures
 així llargues, això és
-la llitera de cullera. 
+la llitera de cullera.
 Això, deixa'm, abuelo cebolleta,
 això no s'havia vist al país fins que va arribar
 el "plan nacional de ambulàncias de la Cruz Roja"
@@ -669,7 +669,7 @@ Ah sí? Ostres.
 Abans d'això no existia això.
 Quan va arribar, això va ser
 una de les modernitats terrorífiques
-de l'època. 
+de l'època.
 Tothom volia fer-ho servir.
 Companys, els que us en recordeu d'això,
 tenim una edat.
@@ -710,7 +710,7 @@ Porta'm un equip de suero. Doncs és el degotador.
 Que hi ha un tub que va amb
 amb un... no? La part de sota
 s'enxufa en el sèrum
-Després hi ha una... 
+Després hi ha una...
 Càmera de goteig...
 Exacte, una zona transparent que veus
 com va baixant la gota a gota,
@@ -723,9 +723,9 @@ I va penjat d'un pal
 no d'un pal de suero, sinó
 d'un suport de degotador.
 Aquesta... aquesta... uf!
-Què? 
+Què?
 Uf! Uf! Aquesta no crec que coli, eh?
-No colarà? 
+No colarà?
 Va, provarem, vinga, va. Com que sofraja ho tenim superat ja,
 ara provarem el suport de degotador, a veure
 amb quina cara em miren.
@@ -808,7 +808,7 @@ No ens entendrà, vamos, ni Pompeu Fabra
 ens entén, eh, ja, però...
 Bueno, sofraja tampoc, però bueno, entre la clofa
 i la sofraja...
-Molt bé, molt bé, l'apuntarem, l'apuntarem, sí. 
+Molt bé, molt bé, l'apuntarem, l'apuntarem, sí.
 Escolta'm, sempre faig servir aquesta secció
 per explicar les meves batalletes
 de friquis informàtiques
@@ -816,7 +816,7 @@ i de tecnologia i demès.
 Havia parlat ja del software,
 aquell de transcripció, o no encara?
 Havies dit alguna cosa, sí, però no sé
-fins a quin punt està això ara. 
+fins a quin punt està això ara.
 Doncs, estic transcrivint
 tots els pòdcasts enrere
 i si aneu a algun
@@ -840,7 +840,7 @@ transcrits tots els episodis, potser serà
 de tres anys, perquè és lent
 del cagar, però qui sap, potser
 contribuïm a que les màquines,
-des de l'EMpodcat, contribuirem una petita
+des de l'EMPodCat, contribuirem una petita
 part a que les màquines entenguin el català.
 En aquest cas, que l'escriguin,
 que el transcriguin, que també està bé.
@@ -852,7 +852,7 @@ De fet, no és un PDF, les tinc transcrites
 en un text, sí, sí, amb caràcters llatins, si, si.
 I això es pot transformar
 en un arxiu així de
-lectura fàcil, en un PDF, o no? 
+lectura fàcil, en un PDF, o no?
 Sí, es pot fer, es pot
 transcriure, sí, sí. El fitxer és
 un fitxer de text pla
@@ -1081,7 +1081,7 @@ tombaré segur, eh? Perquè aquí t'apreten
 El beginner es pot fer
 Sí, sí, molts electros d'aquests
 de Smith o
-Amal Matú i tots aquests Ostres, ffff... 
+Amal Matú i tots aquests Ostres, ffff...
 N'hi ha alguns de molt dur
 Veuen coses que jo ni...
 no sé, no sabria ni imaginar-me
