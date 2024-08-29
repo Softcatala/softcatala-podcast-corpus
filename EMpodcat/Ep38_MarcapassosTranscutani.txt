@@ -1,0 +1,684 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Bon dia i bona hora amb un nou episodi de l'EMPodCat. Aquest és l'episodi número 38, el segon de la quarta temporada.
+I bé, com sabeu, l'EMPodCat és un espai perquè puguem conversar sobre urgències i emergències sanitàries,
+produït per l'equip habitual multidisciplinari, multicèntric, per un costat tenim l'Albert.
+Hola Albert, presenta't per si hi ha algú que ens escolta per primera vegada i ens ha de conèixer.
+Hola, bon dia. Jo sóc l'Albert Om, soc infermer d'urgències i emergències a l'Hospital de Cerdanya i al SEM del territori.
+Tinc aquest lloc web que es diu emermedpirineus.cat, punt EU, com preferiu.
+Fa poc que hem tornat de vacances, tant el Xavi com jo. Ens hem saltat un mes de programa, però venim frescos, està bé això.
+I aquest que us està parlant és en Xavi, que també t'hauràs de presentar, no?
+Sí. Soc en Xavi Basurto, que sóc metge d'urgències a l'Hospital de Figueres
+i també extrahospitalàriament a la base del SEM.
+I ens podeu llegir alguna cosa que anem publicant de tant en tant a urgem.cat, que és un blog, i també ens podem seguir a X.
+L'Albert ens ha preparat el tema principal de l'episodi d'avui,
+que ben segur que alguna vegada ens hi hem trobat o ens hi trobarem.
+I sobretot va dels problemes que podem tindre en la utilització del marcapassos, no?
+Això ho podreu llegir amb més profunditat a una entrada al meu blog.
+Ho vaig decidir fer perquè en algun dels molts pòdcasts que escolto va sortir un concepte que no coneixia, interessant,
+que era la falsa captura elèctrica, complexe fantasma, que després explicaré.
+Ve d'un estudi senzillot, petitet més que senzillot, que feia bastanta angúnia.
+Angúnia què vols dir? Un estudi que faci angúnia? Què vol dir això?
+L'angúnia pels resultats que donaven. Era d'un servei extrahospitalari americà,
+una anàlisi retrospectiva de vuitanta i escaig mil casos que van tenir, entenc que tots eren de suport vital a l'avançat, tot i que no ho especifica.
+Vuitanta mil? Vuitanta mil?
+Espera, espera, espera. De vuitanta mil serveis vam veure que n'havien fet vint-i-tres que van fer servir el marcapassos transcutani.
+Per tant, vol dir que si de més de vuitanta mil serveis només hi ha vint-i-tres marcapassos,
+queda clar que feien servir un marcapassos transcutani és un d'aquests esdeveniments HALO, High Acuity, Low Occurrence, això que en català...
+El cago, no?
+Els cago. Els casos d'alta gravetat ocasional.
+Perquè, clar, de vuitanta, no sé quants mil incidents, vint-i-tres vagin amb marcapassos, doncs...
+Home, així, amb simple vista, a mi em sembla que nosaltres ho fem servir més sovint, no?
+Perquè vuitanta mil, evidentment, jo no els he fet mai i no els faré mai, però l'he fet servir alguna vegada, el marcapassos transcutani.
+Tu has dit alguna vegada, jo ara no sé quants anys porto ja, anant amb aparells que poden fer-se servir de marcapassos,
+i quan pensava, dic, hòstia, és que no me'n recordo realment de l'últim que vaig fer, és que ja arriba un moment en què et dubto si n'he fet mai algun.
+Perquè amb tant temps, dius, com pot ser que no me'n recordi?
+Ja, ja, ja.
+Me'n recordo d'alguna crico, me'n recordo d'algun part fora d'on toca, me'n recordo de coses que també són CAGOs, però d'aquest no.
+No sé, suposo que també és una qüestió que et toqui més o menys, però sí que el que és real és que es fa molt poc.
+Quin país era això?
+Estats Units. Només 23 amb uns vuitanta, no sé quants mil serveis.
+I d'aquests 23, quan ho van revisar a posteriori, només n'hi havia 4, 4 de 23,
+que els autors de l'estudi estiguessin convençuts que hi havia captura elèctrica, que és el que parlarem després.
+Els altres 19 estaven convençuts que no hi havia captura elèctrica i en tots 23 els paramèdics asseguraven que hi havia pols palpable.
+Això fot molta angúnia, perquè si posem 23 i resulta que 4 de cada 5 no funciona, és tremendo. Dels 23, em sembla que no va sobreviure ningú.
+Evidentment, sempre podem dir que és culpa seva, que ho han fet malament, però són números molt escandalosos com per pensar que no ens pot passar a nosaltres.
+O sigui, la majoria es va demostrar que no hi havia captura mecànica, és a dir, que no era efectiu, i els paramèdics estaven convençuts que sí?
+És això el que dius?
+Sí, diguem-ho així.
+Més endavant parlaré de la captura elèctrica i captura mecànica, però la qüestió és que en tots 23 els paramèdics van afirmar que hi havia pols.
+I a revisió posteriori, els autors de l'estudi van estar mirant els registres electrocardiogràfics
+i per ells, en 19 registres electrocardiogràfics, no hi havia ni tan sols captura elèctrica.
+Això en parlaré després, si no hi ha captura elèctrica no hi pot haver cap captura mecànica.
+El tens compartit aquest estudi en el teu blog per poder-lo llegir?
+Sí, tot això està al blog, i de fet a les notes de l'episodi hi ha una presentació senzillota amb els punts destacables d'això.
+Per parlar d'això de la falsa captura, el primer que hem d'explicar és el marcapassos transcutani,
+perquè si no sempre ens passa allò que anem de coses molt estrambòtiques, molt estranyes, i després resulta que el bàsic no ens ho sabem.
+Això del marcapassos transcutani, quan l'hem de fer servir?
+El marcapassos és un instrument mèdic que el que fa és donar una freqüència cardíaca al cor.
+Per tant, l'hem de fer servir bàsicament quan tenim una bradicàrdia, és a dir, quan el cor va ben a poc a poc.
+I aquest transcutani només l'hem de fer servir si ens trobem en una situació
+en què aquesta bradicàrdia, aquesta freqüència lenta del cor, en genera símptomes que a més a més són greus.
+Si algú va a 40 i l'únic que et diu és que està cansat, doncs potser necessitarà un marcapassos, però no el transcutani, no en el context de l'emergència.
+Si a una persona que el cor li va a 27 i té un glasgow baix o té dolor toràcic, doncs evidentment aquest podria necessitar un marcapassos.
+I per què dic podria?
+Doncs perquè a part de tenir la bradicàrdia simptomàtica greu, també hem de tenir un fracàs o no poder fer la teràpia farmacològica.
+Hi ha teràpies farmacològiques, que segur que ens pots explicar tu algun dia, però si les atropines no funcionen, en un bloqueig de tercer grau no funcionaran,
+si no pots posar una perfusió a l'aleudrina o si fer adrenalina amb les múltiples facetes possibles,
+els microbolus, la perfusió aquesta a raig o una bomba, doncs no les pots fer o no funcionen.
+Mira, el primer EMPodcas que vam fer amb en Jose, que era aquell...
+si no se'n recordeu aneu a escoltar-lo perquè és una forma interessant d'aprendre,
+que era una aturada cardíaca que la van treure i sortia amb una bradicàrdia,
+li van posar un marcapassos transcutani perquè una aturada cardíaca amb una sospita de síndrome coronari agut,
+posar-li una perfusió d'adrenalina o d'isoprenalina amb el risc arritmogènic i el d'augment de consum d'oxigen miocardíac no ve gaire de gust,
+espanta una miqueta i es va optar pel marcapassos transcutani.
+A més ja el tenien sedat, analgesiat i intubat.
+Exacte, que la indicació és la bradicàrdia simptomàtica amb símptomes d'una certa entitat,
+dolor toràcic, les pèrdues de coneixement, baix nivell de consciència, mala perfusió, un malalt que fot mala pinta
+i a més a més no li podem o no funcionen les teràpies farmacològiques.
+Per fer això, els serveis d'urgència i a l'extrahospitalària,
+tenim aquests aparells, els monitors desfibril·ladors moderns, pràcticament tots tenen l'opció de fer marcapassos
+i ho fan a través d'uns pegats que són gairebé sempre, són els mateixos pegats que per desfibrilar
+Com a detall respecte a la desfibril·lació, és que gairebé tots els aparells,
+en algun moment de la seva configuració et demanaran que a més a més tinguis posats els elèctrodes per fer el monitoratge electrocardiogràfic.
+És a dir, el cable de teràpia, que són els pegats, faran teràpia, però el monitoratge que necessites per assegurar que la teràpia funciona
+o que el monitor necessita saber per executar la teràpia, ho faràs amb els cables i els elèctrodes normals de pla frontal, el vermell, el groc i el verd i el negre.
+Perquè amb els pegats ja te dona el traçat electrocardiogràfic, no?
+Si has de fer-ho a demanda, que és un dels modes que veurem després, l'aparell necessita...
+Deixa'm dir-ho al revés. No tots els aparells poden funcionar només amb els pegats.
+Llavors, una forma d'assegurar que no la caguem és posar els cables amb els elèctrodes i ens assegurem que en tots els casos ens funcionarà.
+En mode fiea no necessiten tenir lectura, per tant, poden funcionar només amb els pegats de teràpia, però alguns aparells ho fan, d'altres no,
+i en el mode de demanda necessiten detectar el ritme cardíac del pacient i, per tant, si estan fent teràpia, en el moment que et dispara no està fent la lectura.
+Això ens pot generar algun mal de cap. Per tant, quan muntem el marcapassos transcutani, engeguem la màquina,
+posem els cables de monitoratge amb els seus elèctrodes i posem els elèctrodes de teràpia, els pegats.
+Els pegats.
+Aquests pegats es poden posar en la posició anterolateral típica de desfibril·lació.
+A la presentació aquesta que teniu a les notes de l'episodi, ja veureu un dibuix en què surten les dues posicions possibles,
+l'anterolateral, que és la típica de desfibril·lació, és a dir, un pegat el posarem per sota la clavícula
+i l'angle inferior esquerre d'aquest pegat aniria a la posició on hi ha V1, paraesternal dret,
+i el lateral ens quedaria al mig de l'axil·la, de la línia axil·lar diguéssim, a l'alçada de V6.
+V6 encara el podríem enganxar just a sota.
+Aquesta seria la posició anterolateral, que és la típica que fem servir perquè és la que és accessible en pacients que estan en decúbit.
+La que podem fer un cop tenim els pegats posats després de desfibril·lar,
+tornant al cas aquest que ens explicava el Jose, persona que l'han desfibril·lada, l'han reanimat, i després necessita un marcapassos, tens els pegats posats.
+Però aquesta no és la millor posició per aconseguir que funcioni.
+La millor posició per aconseguir que funcioni és la posició que es diu anteroposterior, que també és una posició alternativa de desfibril·lació,
+quan parlem algun dia de la desfibril·lació dual, això també sortirà.
+El que fem en aquest cas és posar un dels pegats a la cara anterior. Per fer-nos una idea, si us en recordeu, de com vam parlar dels electros,
+a V3 i V4 hi va el pegat aquest.
+I el pegat posterior l'hem de posar sota l'escàpula paravertebral.
+Aquest funciona molt millor, veiem taxes de captura molt més altes, funciona molt millor que l'anterolateral, però és que clar, hem de girar al pacient.
+M'ha cridat l'atenció la poca captura que té l'anterolateral, que només capturi un 42%...
+Sí, això que fas referència és a la diapo aquesta, que és d'un estudi que ens diu que la captura en homes de la posició anterolateral
+només ha estat funcional en un 35% i en les dones d'un 60%.
+Sí, és que inclús amb les dues versions, o sigui, homes, dones i anteroposterior i anterolateral,
+em sembla que hi ha poca captura, no?
+Correcte. De fet, pensa que venim de l'estudi aquest que diu que de 23... Aquests són molt millors.
+Clar, clar. I pensa que aquest estudi suposo que deu estar fet en condicions ideals, etcètera, etcètera.
+Potser no en condicions ideals perquè és observacional, però està fet en unes condicions bastant més civilitzades que l'extrahospitalari.
+El motiu d'això de la captura, els que tingueu la imatge davant, ho veureu, ja us les descric,
+la idea és que la corrent elèctrica, igual que passa amb la desfibril·lació, exactament el mateix principi,
+és a dir, la corrent elèctrica ha de passar per el màxim possible de miocardi per estimular-lo.
+Llavors, en l'anterolateral, el vector elèctric sí que passa des de dalt l'aurícula fins al baix del ventricle esquerre,
+seguint aquesta direcció, però hi ha més distància, hi ha més pulmó entre mig, de manera que també hi ha més resistència. Per tant, segurament necessitaràs més intensitat.
+A més a més, l'anterolateral pensem que no va en línia recta, sinó que agafa una miqueta de corba.
+Segur que una part de l'electricitat se n'anava per la capa superficial i, per tant, no passa pel miocardi.
+En l'anteroposterior, i més en aquesta posició que he dit, dels dos elèctrodes posats a l'hemitòrax esquerre,
+la corrent elèctrica, primera, hi ha només un trosset de pulmó darrere,
+i la descàrrega elèctrica va de davant a darrere, o de darrere a davant, és igual, això és irrellevant, i agafa molta més massa de miocardi.
+De fet, si fos el cas, per exemple, aquí estic pensant en algú que tingués una mama prominent, si fos el cas que hem de posar el pegat anterior una miqueta més avall,
+per evitar que gran part de la corrent elèctrica, com que està més avall, se'n vagi cap al diafragma, el que hem de fer és pujar una miqueta el pegat posterior,
+de manera que el vector elèctric enganxi el màxim possible el miocardi.
+Tenim la màquina, tenim els pegats posats, ara què podem fer amb aquesta màquina?
+Aquesta màquina ens permet fer dos modes de marcapassos. El primer mode, que és el més habitual, és el que se'n diu a demanda.
+Nosaltres programem el marcapassos i si la màquina detecta que la freqüència cardíaca és inferior al que nosaltres volem, dispararà.
+Si és superior, la màquina s'inhibeix i no dispara.
+També tenim l'opció de fer-ho fixe, ens és igual la freqüència del pacient, nosaltres dispararem cada quan estigui estigui establert. Si volem una freqüència de 60, cada segon estarem disparant.
+Els que tinguem un corpuls3, i altres monitors també ho fan, hi ha una altra mode que es diu overdrive, fins on sé que aquest mode és per guanyar control sobre taquicàrdia,
+és a dir, pujar la freqüència de la taquicàrdia i llavors guanyes el control i pots baixar-ho,
+no tinc cap experiència, si algú ho ha provat mai i sap per què serveix i li ha funcionat o no, és igual que ens ho vingui a explicar.
+Pel marcapassos, estem amb els modes aquests, fixe o a demanda. A demanda acostuma a ser el més habitual.
+Si veiem que no sensa bé o que sensa més del que tocaria, per exemple, el QRS i la T, els detecta cada un com un batec independent, potser sí que hauríem d'anar a fixe.
+Però en principi hauríem de pensar que amb el mode a demanda hauríem de funcionar sempre.
+L'altra cosa que configurem és la freqüència. Quina freqüència volem que li bategui el cor a aquesta persona.
+Si és un adult, 60 acostuma a ser un bon número, un nen, doncs probablement hauràs de pujar més. El que creguis oportú per aquella morfologia, edat, d'aquella persona.
+I l'altre factor que potser és el més important és la intensitat.
+Quanta electricitat hem de disparar perquè aquesta intenció terapèutica del marcapassos, és a dir, provocar la contracció del cor, funcioni.
+I aquí us faig un espòiler, és molt poc habitual que intensitats per sota de 85 mil·liamperes funcionin.
+En aquest estudi, cap dels 23 van aconseguir captura elèctrica per sota de 90 mil·liamperes.
+Per tant, ens recomanes començar per quants mil·liamperes?
+Aquí hi ha de tot. A més a més es barregen a vegades les recomanacions dels marcapassos externs, no transcutanis, els epicardíacs o els venosos que tenen l'estimulador a fora.
+Alguns et diuen de començar molt a poc a poc, de dos en dos, i començar de zero cap amunt.
+Si jo us dic ara comenceu a 80 directament, algú dirà "això no és el que diuen les guies", i té raó.
+Bastantes de les guies que he llegit acostumen a dir-nos d'anar pujant mica en mica. Però aquest mica en mica segurament és el que jo aniria a la idea.
+No t'estiguis un minut a 10 a veure què fa. Comença a 10, un batec, no t'agrada, vés a 20. I vés pujant amb una certa celeritat.
+Jo segurament a 10 no començaria, perquè té molt poc sentit, però la idea és pujar ràpid.
+Però si dius que per sota de 85 és molt difícil que capti algú, jo començaria ja a 85, no? O 90, no?
+Jo no et dic que no, però això no és el que està escrit. Si ningú m'està mirant, doncs començaria a 50, 60 i aniria pujant.
+Que passa aquí? si tens aquest malalt amb unes condicions de consciència relativament bones,
+no és el mateix fotre-li 10 mil·liamperes que probablement ni ho noti,
+que fotre-li 50, que la contracció ja és considerable. I fotre-li 100, això fa mal, i farà molt mal.
+Que és una de les coses que li hem de dir. Al pacient quan se li diu, si està en condicions d'entendre-ho, que se li farà aquesta teràpia,
+doncs se li ha de dir que se li posaran analgèsics suficients perquè això no ho noti, perquè això fa mal.
+Cada màquina funciona de la seva manera. Totes les màquines tenen un botó, quan has programat tot això, que dius comença,
+o bé, ho tens tot a punt i comença a funcionar quan li puges el milliamperatge, és el cas del corpuls3.
+El corpuls3 quan està a 0 no dispara. Quan li comences a pujar l'amperatge comença a disparar.
+També tenen un botó de pausa, que tu prems el botó de pausa, no s'esborra res de la teva configuració,
+i durant el període de temps que està pausat veus el ritme del pacient, és a dir, el ritme que tenia sense marcapassos,
+i tens l'opció de parar, quan dius ara paro del tot el marcapassos, que llavors perds la configuració.
+Tots els aparells ho tenen, heu de saber en el vostre com funciona.
+I ara ve el punt clau de tot el que vull explicar avui.
+Engegar el marcapassos no vol dir que generi batec eficaç.
+Engegar el marcapassos no vol dir que generi batec eficaç.
+I ho tornaré a repetir una tercera vegada. Que engeguis el marcapassos no vol dir que tinguis un batec eficaç.
+Ha quedat clar això? Això és molt important.
+Quan engegues el marcapassos, de cop i volta l'electro comença a fer coses rares i la persona comença a tenir contraccions, comença a bellugar-se.
+En cap circumstància això sol implica que el marcapassos està funcionant i aquesta persona té la freqüència que tu li has demanat al marcapassos que obtingui.
+I per què dic això?
+Perquè en el moment que nosaltres comencem a disparar el marcapassos, especialment quan la intensitat és alta, el nostre aparell assenyalarà la descàrrega elèctrica.
+I per qüestions que no arribo a entendre el tot, m'he quedat amb que és una qüestió tècnica de les màquines,
+en el moment en què aquesta màquina dispara es genera el que alguns han anomenat un complexe fantasma
+i es genera una senyal espúria molt gran que es pot confondre amb un QRS.
+En moltes guies et diu comprovi que en el registre electrocardiogràfic, comprovi que hi ha un QRS.
+Per QRS nosaltres ens imaginem aquesta espícula que puja o baixa en funció de la derivació i relativament estreta.
+Dons això ens pot passar només amb la descàrrega del marcapassos.
+No només això, després aquesta senyal espúria, que és una qüestió tècnica,
+de fet la casa PhysioControl va haver de fer una nota dient compte que el que moltes vegades es veu després de l'espícula del marcapassos és una senyal espúria.
+No us en refieu d'això.
+Nosaltres podem veure el que ens pot semblar un QRS, perquè tenim el senyal que ha disparat el marcapassos,
+que això acostuma a ser una línia vertical super estreta, molt dreta,
+i de seguida veus una senyal elèctrica molt vertical cap avall o cap amunt i que després torna cap a la línia isoelèctrica.
+I no sempre s'acaba la línia isoelèctrica, sinó que a vegades va en direcció contrària, perquè ha baixat primer, després puja una miqueta i després torna a la isoelèctrica.
+De forma que si la descàrrega és molt gran, et pot fer pensar que no només hi ha un QRS, sinó que darrere un QRS hi ha una mica de T.
+Això n'hi diuen un complexe fantasma, que aquests autors d'aquest estudi retrospectiu-observacional van descriure,
+i a les diapos de la presentació hi ha un diagrama que van fer tot xulo, posen el complexe fantasma i posen la màscara del fantasma de l'òpera.
+La màscara del fantasma de l'òpera té mitja cara que baixa cap avall i després mitja cara que puja cap amunt i deixa un tros de cara visible.
+Ara fa uns dies vaig escriure a la gent de les Guies Clíniques del SEM justament en el seu procediment de marcapassos,
+especifiquen comprovar que veiem un QRS en el registre electrocardiogràfic i comprovar el pols.
+Els vaig dir, hòstia, afegim-hi si us plau darrere que comprovem que tenim un QRS seguit d'una onda T.
+Per què l'onda T és important? Nosaltres volem que es despolaritzin els miòcits, que els miòcits facin la seva feina.
+Quan es despolaritzen, com sé que s'ha despolaritzat? Cony, perquè es repolaritza després.
+Un complexe QRS veritable anirà seguit d'una T veritable.
+En aquesta mateixa infografia veureu la diferència que ells dibuixen, que no té per què ser sempre la mateixa.
+El QRS veritable segurament tindrà alguna aberració, tindrà alguna mena de RR prima.
+No serà recte, perquè la conducció elèctrica que s'ha produït amb el marcapassos seguirà el camí que pugui,
+per tant hi haurà una mena de bloqueig de branca. I a més a més a darrere tindrà una onda T evident.
+Venim del... Engegar el marcapassos no vol dir que tinguem batec eficaç,
+i quan mirem el monitor ens podem trobar que ens ho sembli i que no ho sigui.
+A mi se m'acut, amb això que expliques, jo començo amb uns mil·liamperes que pràcticament sé segur que no hi haurà captura,
+i així ja veuré aquesta espícula inicial del marcapassos seguit d'un QRS així tonto com una falsa captura,
+i vaig augmentant la intensitat fins que vegi que aquesta falsa captura es converteix en una morfologia totalment diferent.
+Quan vegi que canvia molt aquesta morfologia després de l'espícula, em pot orientar que això... com a un primera indici que està captant.
+Pot ser això una utilitat o no?
+Ho afegiria com una cosa més.
+De fet, com puc saber que realment la teràpia que estic interadministrant funciona?
+Com comprovo jo que realment tinc una captura?
+A les guies et diuen que miris el pols, després parlarem del pols.
+A l'entrada vaig parlar de tota una sèrie de mètodes, coses que podem fer per garantir que hi ha una captura,
+elèctrica primer i mecànica després, és a dir, per assegurar que tinguem un Batec eficaç.
+Hi ha diferents coses que ens poden ajudar. A la conclusió que he arribat és que una sola no me'n refio.
+Vull una suma de vàries, perquè una sola em pot donar errors, en algunes més que d'altres.
+Una que no es diu gaire, perquè realment té molta utilitat, és la corba del pulsi.
+Fas el monitoratge d'un pacient, el monitores, li poses les elèctrodes, però també li poses el pulsioxímetre.
+I a la pantalla del teu monitor poses la corba pletismogràfica, la corba del pulsi.
+Si tens una corba pletismogràfica creïble, i aquí el tema és el creïble,
+quan vam parlar de la pulsioximetria en no sé quin episodi, doncs dèiem que la corba ha de ser una pujada, una baixada,
+que a vegades la baixada és dicròtica, té una altra pujadeta, i ha de ser discernible una baixada de la següent.
+Si tens una corba que és... Pfff... Doncs no te'n pots refiar, aquí passa exactament el mateix.
+Si nosaltres tenim una corba pletismogràfica amb unes ones molt marcades a la freqüència del nostre marcapassos,
+caram, podem estar molt segurs que hi ha realment un batec.
+I he dit molt segurs perquè en un altre dels pòdcasts que escolto, els de l'EMCrit, sortia un senyor que va dir
+hòstia, em vaig trobar amb un tio que li vaig posar el didal, i jo veia el pulsioxímetre que anava a la freqüència del meu marcapassos.
+Però després resulta que quan li miràvem el pols no el tenia. I va passar a tenir pols, en el moment que es va modificar la forma de fer la teràpia.
+En aquest cas, no sé si recordo que va passar anterior o posterior, ara no n'estic segur.
+És a dir, no és garantia al 100%, però jo si veig una corba pletismogràfica
+a la mateixa freqüència que el meu monitoratge electrocardiogràfic, pots estar bastant segur. 100%? Potser no. Necessitaries afegir-ne un altre.
+Jo sempre m'agradaria afegir-ne com a mínim dues per estar bastant segurs.
+Una altra que també és bastant digna: la capnografia.
+Si tu has mesurat una capnografia basal abans de la teràpia, i aquí ja he fet l'advertència, si has mesurat abans,
+en el moment en què engeguis la teràpia, tu podràs veure si augmenta.
+La capnografia ens mesura moltes coses, una de les quals és el cabal cardíac.
+El cabal cardíac és el producte de la freqüència cardíaca per el volum sistòlic.
+Si nosaltres augmentem la freqüència cardíaca, doncs evidentment el cabal cardíac pujarà. I per tant, la nostra capnografia, el nostre CO2 espirat, ha de pujar.
+És igual que sigui intubat, que sigui amb el sensor no invasiu.
+Si jo tinc una línia de CO2 espirat de 20 i engego la teràpia i puja a 40, hi ha hagut un canvi molt evident.
+Si a això hi afegeixo el meu pulsi, que tinc una bona corba,
+puc estar bastant segur que aquella teràpia està funcionant i aquella persona, en comptes d'anar als seus 25 batecs per minut, doncs va als 60, que jo he programat.
+Una altra que també s'ha demostrat eficaç, tot i que afegeix una complexitat considerable i és bastant operador-dependent, és l'ecografia.
+A la diapo hi ha un clip de l'Ultrasound of the Week, un d'aquests llocs web que he recomanat alguna vegada,
+en què es veu una ecografia transtoràcica d'un pacient i com van augmentant la intensitat.
+I es veu com a partir de certa intensitat, algun batec comença a conduir i més endavant condueixen tots.
+Tu estàs mirant amb la sonda i veus que batega un cop cada tres segons.
+Vas pujant la intensitat i de cop i volta passa a bategar un cop cada segon. Estàs veient el cor com es belluga.
+Aquest vídeo es veu molt escandalós, però en algun altre que està publicat per alguna altra banda
+veus una motilitat cardíaca tan pobra, que el dubte és si realment està bategant.
+Tan si és en marcapassos com sense, perquè és tan pobra la funció cardíaca que costa de veure.
+En el cas de l'ecografia, si ho veus, pots estar bastant segur, però ja sabem que l'ecografia és molt operador-dependent.
+També, depenent d'on tinguem posats els pegats de teràpia, ens trobarem que fer l'ecografia ens pot ser més o menys difícil.
+Si vols fer una apical quatre càmeres que es fa a l'axil·la i tens el pegat de marcapassos allà, no podràs, hauràs de buscar una altra finestra, que potser no és la bona.
+Això també em fa pensar que el que ens pot ajudar molt és, per exemple, aquest vídeo que ens has posat ara,
+que comences amb una intensitat baixa, mires com batega el cor a l'eco, vas pujant la intensitat i tu vas veient com canvia la teva imatge ecogràfica.
+El moment en què veus que realment canvia i que cada segon fa un batec, dius, hòstia, a partir d'aquest moment ja sé que a 70 capta.
+El que et deia abans, que tu si veus el marcapassos i veus la ona posterior a l'espícula, canvia a partir de 70, dius, hòstia, a partir d'aquí...
+O sigui, veure una progressió, igual que la capnografia, si veus que abans de començar té una CO2 de 30 i a partir de 70 puja el doble,
+aquest canvi és el que em sembla a mi fàcil, perquè això de dir, fas un eco i dius, a mi m'ha passat, de dir, hòstia, no sé si està bategant
+o aquest pobre home té una funció sistòlica pèssima i no sé si això és un batec efectiu o no és un batec efectiu, no ho sé, es belluga però no sé ben bé què collons està fent.
+Si veus la diferència entre l'abans i el després d'augmentar la intensitat, crec que ens pot ajudar bastant.
+I no només això, sinó més endavant.
+Que jo tingui una intensitat que condueixi ara, de fet, si veig que 70 condueix, fot-li 80,
+puja una miqueta més per assegurar que no passi res entre mig, jo què sé, que ara el belluguem una miqueta, el senyor esternuda, el que sigui i perdis la captura.
+Però és que hem de pensar que a mesura que va passant el temps les condicions van empitjorant, els pegats s'assequen,
+el que sigui ens pot fer que en qualsevol moment aquesta captura mecànica que tenim que funcioni es perdi.
+Llavors, el que dius tu del canvi, si jo tinc més o menys clar què és el que estic veient i veig un canvi,
+doncs amb totes aquestes eines que tinc de les comprovacions, puc veure que aquesta persona ha perdut la seva captura i ara està en unes circumstàncies complexes.
+Llavors, altres mètodes que a mi no m'agraden tant i dic que no m'agraden tant, a pesar que estan molt publicitats.
+El pols. Aquest és el que surt a les guies. Miri el pols per comprovar l'efectivitat de la teràpia.
+En aquest estudi, 23 tenien pols, i només 4 segurament el tenien de veritat.
+Per tant, no ens ho podem creure.
+Estratègia. Com més distal sigui aquest pols, més distal del lloc de la descàrrega, diguéssim, més creïble.
+Hi ha vídeos de gent fent-se el marcapassos a ells, voluntaris fent-se el marcapassos, n'hi han la tira.
+Casualment, pocs arriben a 80 o 90 mil·liamperes.
+Jo en tinc un aquí d'un senyor que fa pinta de rus, que arriben a 60-70. Al tio se'l veu tranquil, però fot una cara una miqueta estranyota.
+El que sí que es veu és com té unes contractions musculars bastant intenses, i això és el que ens pot fer confondre quan prenem el pols,
+perquè s'està bellugant, està fent uns espasmes que es belluguen.
+Si això ho mirem a dalt del coll, justament el coll és molt a prop del tòrax, per tant aquest espasme el notarem.
+Si ho mirem al costat esquerre, que és el costat que més es contreu, que és on més intensitat elèctrica rep, doncs es bellugarà més que el dret.
+ El femoral és més lluny. Llavors, un pols femoral me'l crec més que un radial esquerre, o que un caròtid.
+Jo prenent el pols en tindria prou? No.
+Però si tinc un pols, a la radial dreta, i tinc una corba de pulsi bastant digna, tinc dues coses, m'ho començo a creure.
+El nivell de consciència, com una mesura de la perfusió, una altra cosa.
+Tinc una persona que no respon a estímuls, li començo a fotre la teràpia i es comença a despertar.
+Està bé, no? Aquesta persona ha millorat la perfusió. Però és que, clar, cada segon li estem fotent una descarrega elèctrica, que fa mal.
+Si no l'hem sedat correctament, que segurament quan començarem no l'haurem sedat correctament perquè altra feina tenim, aquesta persona potser comença a estar més receptiva.
+És creïble? Home, només amb això no. Perquè aquesta persona pot estar responent a l'estímul dolorós que tu li estàs provocant.
+No responia res i ara va responent perquè li estàs fotent cada segon i l'estàs enrampant i la persona aquesta té aquest estímul dolorós que fa que en respongui.
+Jo no em quedaria, només, amb el nivell de consciència.
+I si no millora el nivell de consciència, potser que l'has sedat i analgesiat bé o excessivament
+i té bona perfusió cerebral, però el tens totalment anestesiat l'home aquest.
+Que tant de bo fos el cas. Li estàs fotent una teràpia que és dolorosa i no la nota.
+Per tant, el nivell de consciència no és una eina que puguem fer servir de forma fiable per determinar si realment la teràpia està funcionant.
+La pressió arterial passa exactament el mateix. Clar, si tinguéssim una pressió arterial invasiva, que cada batec en genera una ona, doncs el mateix que el pulsi.
+ Si jo veig una ona dicròtica super ben feta i al mateix ritme, estrany serà que el cor d'aquesta persona no estigui batecant aquesta freqüència.
+Però no tenim pressions arterials invasives. Anem amb pressions arterials ocilomètriques mesurades amb un braçal.
+Estaràs afectat per una contracció muscular cada segon, si va a 60.
+Per tant, refiar-te que la pressió aquella que estàs veient...Si us en recordeu el cas del Jose, justament sortien aquestes coses.
+La pressió arterial d'aquest pacient, que estava amb baixa freqüència i pressions baixes, doncs li va pujar la freqüència, evidentment, i les pressions.
+La pressió sola no ens ajuda. La pressió més la detecció d'un pols, més no sé què, doncs tot això ens porta cap a creure que està funcionant.
+I he deixat pel final l'electrocardiograma.
+El que comentaves tu, si jo veig un... si tu veus... si tu veus el QRS,
+Què ens passa? Quan veus complexes QRS, a vegades et flipes.
+En les diferents coses que he anat trobant, veus tota una sèrie de traçats que a vegades dubtes.
+I aquí a les diàpos n'hi ha uns quants.
+Per exemple, el que tinc ara endavant, que es veu un traçat, que es veu una espícula de marcapassos, amb un QRS que a D2 i D3 és negatiu, a D1 és positiu,
+bastant amplot, que en l'empit de pujada no és recta, sinó que té una marca, i just darrere hi ha una onda T molt gran i després torna a la isoelèctrica.
+I jo veig aquest i dic, home, això està capturant.
+Això és un QRS d'un bloqueig de branca amb una onda T correctament discordant. Jo veig això i dic, eh, això està conduint.
+Sí.
+Si a sobre, a sota, m'hi poses una corba de pulsi, podré estar molt segur que... això.
+En aquest cas és un dibuix que és bastant visible i crida bastant l'atenció.
+Més dibuixos.
+Es veu una espícula de marcapassos molt ben parida, el que estigueu veient la següent diapositiva és la imatge a la dreta,
+seguit d'un QRS que se'n va cap amunt, molt per sobre de l'espícula, baixa cap avall, baixa per sota de l'isoelèctrica i torna.
+L'empit de caiguda és molt vertical i el que ni podríem dir la onda T és com molt suau i de seguida torna.
+Difícil dir que captura.
+Al costat esquerre, una altra de les coses molt importants a veure quan mirem l'elèctro.
+Tenim totes les espícules de marcapassos seguits d'una imatge que pretén ser un QRS molt estret
+ i entremig veiem un altre complex. Diferent.
+I que a més a més resulta que en aquest cas el nostre monitor ha detectat com a complex nadiu del pacient.
+Té una marca dient: he detectat un QRS i no és de la meva màquina.
+Si hi ha un ritme subjacent al nostre de marcapassos és molt probable que la teva teràpia no està funcionant.
+Si hi ha un ritme per sota discernible, el ritme propi del pacient,
+per sota de les teves descàrregues elèctriques, és molt probable que no estigui fent una captura correcta.
+Pot ser que el tinguis a demanda, no? Si el tens a demanda si que pots ser que vegis que està una estona ell bategant el seu ritme elèctric normal
+El que vull dir és, si estàs veient que cada 3 segons, per dir una cosa, tens un complex QRS nadiu del pacient, probablement no estàs conduint.
+Un altre dibuix, per exemple, en què es veu justament això que estic dient.
+Tenim preactivació marcapassos, 3 complexes a l'esquerra, cada no sé quants segons, una burrada,
+perquè hi ha una burrada de quadrets entremig,
+i quan vas mirant tot el traçat d'espícules de marcapassos seguits del que pretén ser un QRS,
+entremig vas veient que això sembla un QRS i mires un tros enllà i en veus un altre.
+I allà amagat, entremig de l'espícula de marcapassos i del suposat QRS, veus una cosa estranya, un artefacte. Això què és?
+Això segurament és un complex natiu del pacient.
+Que, evidentment, si tenim un pulsioxímetre, la corba és digna,
+i veus que la freqüència del pulsioxímetre no va al ritme que tu li has marcat al marcapassos, és evident que la teva teràpia no està funcionant.
+Ara he posat un dibuix, que és D2, D3 i vF, a 100 mil·liamperes d'intensitat, fixe a 80 pulsacions,
+i es veu un espícula de marcapassos seguit d'un complex que pretén ser un QRS que se'n va cap amunt una barbaritat,
+estret, i si ens fixem en aquest dibuix veiem que hi ha alguns d'aquests que baixen completament rectes, d'altres que s'eixampla el QRS,
+els que baixen completament rectes tornen a la isoelèctrica, els que s'obren una mica veus que fan un bonyet a prop de l'isoelèctrica.
+Perquè veiem com és difícil veure-ho amb l'electrocardiograma. Tu veus els complexes així de lluny i els veus tots iguals.
+Llavors t'hi has de començar a fixar i dius no, no, no, no, no són tots iguals.
+Però són tan grans, en aquest cas per aquesta qüestió de potència, són tan grans que t'enganyen a la vista.
+El que comentaves tu de poso el marcapassos, miro el QRS i miro quan canvia, evidentment.
+Però aquest, per exemple, veure que ha canviat, si jo no hagués descrit que hi ha uns complexes d'una mena i d'una altra,
+és molt fàcil que vegis això i diguis, és que no en tinc ni idea si està conduint o no.
+I en aquest traçat hi ha espícules de marcapassos que condueixen i d'altres que no.
+Probablement aquesta persona necessitaria que li pugéssim a 110 o 120.
+Em sembla que és a partir de 120 i hi ha alguna màquina que et diu que no pot.
+L'electro ens ajuda? sí ens ajuda, però compte,
+perquè és molt fàcil veure's enganyat... si només tens electro no tens garantia que allò estigui conduint.
+Insisteixo, espícula de marcapassos seguit d'un complex que pretén ser un QRS molt estret,
+que de seguida torna a la isoelèctrica encara que no sigui en una forma totalment plana, malfieu-vos-en.
+Si a més a més veieu el ritme basal del pacient entremig i l'aneu veient més o menys a la freqüència que tenia abans d'iniciar la teràpia, doncs malfieu-vos-en.
+I encara més enllà, encara que tingui complex QRS clavat, és amplot, puja una T fantàsticament visible que després torna a la isoelèctrica.
+ Això implica que els miòcits s'han despolaritzat, però que els miòcits es despolaritzin no implica que el batec hagi estat efectiu.
+Implica que els miòcits s'han despolaritzat. És el que necessitem perquè el cor bategui. Però no és condició única.
+El cor ha d'estar en condicions de bategar, pel motiu que sigui. Tens un tamponament cardíac, per exemple,
+que la capacitat d'ejecció que tens és limitadíssima, tu tindràs una captura elèctrica, sí,
+i segurament tindràs una ejectió però incapaç de proporcionar suficientment volum sistòlic perquè arribi als llocs.
+No ens hem de quedar només amb l'electro, insisteixo molt, i pensar que ja tenim el problema resolt.
+En aquesta imatge prèvia que ens ensenyes sí que a sota hi ha una corba pletismogràfica,
+que jo diria que va en sintonia amb la freqüència cardíaca del...
+A mi si em preguntes diré, cony, aquest està bé. A aquest tio, el marcapassos fa que estigui perfonent tal com Déu mana.
+Per tant, a aquesta persona la teràpia li està anant de conya.
+Però jo em puc posar una altra i, hòstia, hi ha estones que captura, estones que no...
+La idea que vull transmetre és el que he repetit tres vegades.
+Engegar el marcapassos no implica tenir un batec cardíac eficaç.
+Ens hem d'assegurar, un cop hem engegat el marcapassos, transcutani. De fet tots els marcapassos, però vaja, el transcutani que és el que ens ocupa,
+ens hem d'assegurar, mitjançant tots aquests altres mètodes que hem anat comentant, que realment ens funciona.
+I si no ens funciona, què hem de fer? Ah, caram, doncs ara hem d'anar a resoldre els problemes.
+Si tenim una posició anterolateral dels pegats, doncs ens hauríem d'anar a una posteroanterior. Pujar més la potència si s'escau.
+Mirar què és el que pot ser que estigui provocant que en aquella persona no tinguem un batec efectiu, encara que tinguem una captura elèctrica.
+En aquest cas, mirar l'eco no fos cas que tingués un apuntament cardíac. El que sigui que se'ns acudeixi, que pugui estar causant que allò no ens funcioni.
+I si al final resulta que no funciona de cap manera, doncs la vida és així, de vegades les coses no funcionen.
+Però no ens quedem en el cas d'aquests pobres paramèdics americans que 23 de 23 creien que tenia pols, però només 4 podien ser que el tinguessin de veritat.
+Bé, de comprovar si aquest pols és efectiu o no se m'acudeix un altre sistema.
+T'escolto
+Que ja ho fem servir amb les aturades cardíaques. És mirar el pols catoridi o femoral, per exemple, amb una eco.
+Sí, sí, un doppler.
+No només amb el pols, sinó senzillament posar el transductor a sobre la femoral, per exemple.
+Dic la femoral pel mateix motiu que dius tu de mirar el pols a distància d'on fas l'estímul mecànic extern.
+I posar el transductor sobre la femoral i veure si tu tens pols allà al doppler, si dius, hòstia,
+va a freqüència 60, que jo és el que he marcat el marcapassos. En principi hauria de ser efectiu aquest...
+Sí, però compte, hi ha l'artefacte de la contracció muscular.
+Sí, però jo no veuria...
+És a dir, cada segon tindràs un artefacte produït per la contracció.
+ Si tu estàs veient... Per exemple, tu tens la contracció muscular ara
+i el doppler color el veus no en el moment en què hi ha la contracció, sinó una miqueta després, això és un batec efectiu.
+Ens passa amb la corba de pulsi, per exemple. Quan tens un senyor monitorat, tu veus el batec i la corba de pulsi arriba centèssimes després.
+O si veus que tens pols venós i arterial simultàniament, ostres, compte, torna a ser el mateix.
+Jo no em refiaria només d'això. És una eina de mesurar el pols igual... Segurament és millor que mesurar-lo manualment.
+Però si hem dit que del pols no ens en podem refiar, jo no em refiaria només d'això.
+Tot i que no he trobat enlloc que algú hagi estudiat això.
+La comprovació de pols mitjançant doppler amb el marcapassos trascutani no ho he trobat enlloc.
+Si algú en fa d'aquests, com a mínim, a propòsit d'un cas es podria publicar.
+Jo t'ho dic perquè ara no recordo exactament si a les guies d'RCP,
+suposo que sí, no? Que diu que t'ajudis amb l'ecografia, perquè
+ la percepció de si el pacient té pols central o no, ja de base és difícil, doncs imagina't amb unes condicions més...
+A part que si el pacient està amb una sistòlica de 7, és molt fàcil que no palpis pols, però si tu poses el transductor
+i cada segon veus passar un flux de sang per dins l'artèria, encara que tu no palpis, doncs pots pensar que el senyor...
+És bastant indicatiu. De totes maneres, tenint un ecògraf, en aquest cas és operadordepenent.
+A mi em dónes un ecògraf per mirar un pols, això t'ho sé fer.
+A mi em dónes un ecògraf per fer-te un ecocardio i miraré la màquina i diré això que com collons va.
+En el meu cas, podria atrevir-me a mesurar un pols amb doppler color, per exemple,
+però en el teu cas, que controles més, segurament potser et seria més útil mirar la funció cardíaca directament, no passar necessàriament pel pols perifèric.
+Però el que dius és perfectament raonable. Si hem dit que un mètode de mirar-ho és el pols, doncs per què no mirar el pols amb eco?
+Sí, però penso per exemple, en un pacient que imagina't que l'estic estimulant a 120 mil·liamperes.
+Clar, això fot unes batzegades en el tòrax importants. Si tu, a sobre, estàs intentant allà, amb el transductor,
+just on la massa muscular del pectoral t'està fotent unes hòsties, mantenir el transductor ben posadet i veure-ho bé, si no ets un expert ecografista,
+també és complicat, potser és més fàcil anar-te'n a la femoral i veure què tal fa.
+Probablement.
+No sé què seria millor. Una tècnica més o una estratègia més per si tens dubtes,
+posar-li el transductor en algun lloc i veure si la sang corre per dins les artèries o no.
+Mira, això els propers que tingueu algun marcapassos ja esteu tardant a mirar-ho amb l'eco i publicar-ho com a propòsit d'un cas,
+perquè no he trobat res escrit d'això, de mirar-ho amb el doppler perifèric.
+Molt bé.
+Doncs ja està. Insisteixo per no sé quina vegada repetir el mateix. Engegar el marcapassos transcutani no és garantia de tenir un batec eficaç.
+ Ho hem de comprovar.
+Molt bé, Albert. Sembla molt interessant. De fet, això m'arriba una miqueta tard perquè jo diria que fa un mes o així vam tindre un cas
+i també vam tindre molts dubtes, molts dubtes. De fet, vam arribar a l'hospital de referència amb la isoprenalina
+i amb el marcapassos extern posat perquè no sabia si el marcapassos estava funcionant o no estava funcionant.
+I al final, entre isoprenalines i embolades de 20 micrograms d'adrenalina,
+ho vam portar viu fins a destinació.
+I a més a més no sabia tot això que ens has explicat avui
+i ens les vam veure, a part que el pacient estava inestable, hipotens, va fer una aturada cardíaca,
+estava en un lloc difícil, el vam haver de treure amb els bombers amb una grua per fora al balcó.
+Quin merder!
+Són d'aquelles que dius, què més pot passar?
+Però bé, si haguéssim tingut totes aquestes dallonses hagués pogut tindre més clar si el marcapassos me'n podia refiar o no me'n podia refiar.
+Com que no me'n podia refiar perquè no ho veia clar, la isoprenalina, l'adrenalina... i no li vam posar més coses perquè no se'ns van... no sé...
+No n'hi ha gaires més, eh?
+Ja, ja, però...
+De fet, el marcapassos transcutani funciona, sí, però no sempre.
+Sí, sí, clar, potser encara que ho facis perfecte i t'ho miris ben mirat, suposo que hi ha vegades que per més que t'hi esforcis...
+Només el fet que tinguéssiu dubtes ja és positiu, perquè...
+Bé, sí, sí, no ens vam quedar tranquils veient l'espícula elèctrica i tal, no estàvem convençuts, gens convençuts.
+En aquest estudi, per exemple, expliquen diferents, no? És a dir, són paramèdics...
+Sí, sí, tenen les coses molt clares i molt...
+Són gent de fiar, és a dir, els seus... O sigui, les persones que els tenen llogats es refien d'aquesta gent.
+I més d'un, arribar a l'hospital, parar el marcapassos a veure quin era el ritme subjacent d'aquesta persona que els paramèdics asseguraven que tenia pols
+per veure que estava amb asistòlia.
+Sí, sí. En aquest moment t'ajuda bastant el capnògraf,
+que no sé si a Cerdanya us passa, però a nosaltres també ens falla bastant sovint el capnògraf, però és una eina que ens ajuda bastant.
+De capnografia no hem de parlar, eh? Perquè és una eina massa ben parida i alhora...
+Hòstia, a vegades et comença a girar el cervell i ja no saps què pensar perquè et complica la vida...
+En fi, un altre tema, no en tenim prou de temes per parlar.  Escolta, si sabeu alguna cosa de capnografia, veniu-nos-ho a explicar, carai!
+Això anava a dir jo ara. Tindrà premi aquesta persona que ens vingui a explicar això?
+Tothom que ens ve a explicar coses té premi.
+ Molt bé, Albert. Doncs, si et sembla,
+continuem amb la resta de seccions de l'episodi d'avui, et sembla, Albert?
+Sí, sí, endavant.
+Jo us havia preparat un Menys és Més que torna a ser de la campanya Choosing Wisely,
+Triant sàviament, que és una campanya americana,
+i d'aquesta hi ha una iniciativa complementària que ja n'hem parlat alguna vegada, que és el Things we do for no reason,
+coses que fem sense un motiu. Les fem per tradició, perquè sempre s'ha fet,
+ i ho continuem fent, però realment s'ha demostrat que t'ho has de plantejar, com a mínim parlar-ho,
+i qüestionar-t'ho si realment en aquell pacient concret serveix o no serveix.
+Totes aquestes campanyes, totes aquestes recomanacions, no són mai blanc o negre.
+No estem dient mai, mai, mai feu això perquè no serveix mai. No.
+És senzillament que quan tu estiguis plantejant de posar qualsevol tractament d'aquests que hem parlat en el Menys és Més,
+t'ho qüestionis, perquè no sempre són efectives. Fer-ho sistemàticament és el que és erroni.
+T'has de plantejar si en aquest cas concret, en aquest pacient concret, i en aquestes situacions, realment se'n beneficia el pacient.
+Si tu creus que sí, fes-ho, però no de forma sistemàtica.
+Aleshores, en aquesta iniciativa que volia comentar-vos, parla sobre el tractament amb antitèrmics de la febre
+en pacients que ingresses o que tens urgències per una infecció.
+No estem parlant de febres, d'hipertèrmies, relacionades amb altres causes que no siguin la infecció.
+Un cop de calor, una hipertèrmia maligna relacionada amb qualsevol anestèsic de quiròfan,
+o una síndrome maligna per un neurolèptic, per un haloperidol, una risperidona, i tot això. No, no.
+Estem parlant de febres de causes infeccioses, que sabem que ho podem veure en el 25% dels pacients pediàtrics hospitalitzats per alguna infecció faran febre.
+Només un 25?
+Sí.
+Ara m'he quedat sorprès.
+Sí, i una tercera part. O sigui, un de cada tres, un de cada quatre dels pacients que ingressem,
+potser sí que en el moment que ingressen a urgències sí que tenen febre, però després, quan estan hospitalitzats,
+els has posat el primer antitèrmic i els has posat antibiòtic, és possible que quedin afebrils.
+La pràctica habitual és que amb tots aquests que ingresses per una pneumònia, una pielonefritis o pel que sigui,
+els hi pautis un antitèrmic cada quatre o sis hores pel tractament de la febre,
+independentment que aquesta febre vagi acompanyada d'altres simptomatologies, mal de cap, artromiàlgies, etcètera.
+Per què considerem normalment que el tractament de la febre és necessari en aquests tipus de pacients?
+Doncs perquè evidentment, i és correcte pensar això, que el fet de posar-li un paracetamol, per exemple,
+ li trauràs al pacient, a part de la febre, li trauràs el mal de cap, els calfreds, la sudoració, les artromiàlgies, les miàlgies, tot això. 
+Això és fantàstic. També ho fem perquè moltes vegades creiem que la febre, per si mateixa, és perjudicial. 
+Aquesta fòbia a la febre, això també ho pensem.
+I creure que també treure la febre i tal, això ajuda directament a resoldre la infecció. 
+A part que sí que és veritat que el fet de tindre febre doncs augmentes la demanda metabòlica del cor, dels pulmons,
+tu estàs a 38 de febre, 39, 40, el teu metabolisme està augmentat, aleshores sí que a nivell cardiovascular tens més necessitats.
+Aleshores al treure la febre pots pensar correctament que estàs disminuint el metabolisme del pacient i si és un pacient
+cardiòpata o que té algun problema i d'inestabilitat important, doncs hi estàs traient aquest extra que li està demanant la febre.
+Tot això són els motius pels quals normalment tractem la febre.
+Hi ha raons per les quals no seria del tot adequat tractar la febre.
+ Per exemple, la febre no simplement és beneficiosa perquè perjudica als bacteris,
+és a dir, la febre per si mateix enlenteix la replicació dels bacteris patògens.
+A més a més, potencia l'activitat dels antibiòtics i a més a més la febre per si mateixa potencia l'activitat del sistema immunitari. 
+Aumenta la mobilitat dels leucòcits, augmenta l'activitat fagocítica i la proliferació de les cèl·lules T. 
+Hi ha estudis tot i que són observacionals, alguns casos i controls, algunes cohorts retrospectives, 
+que ens diuen que en pacients ingressats per infeccions greus, una peritonitis bacteriana espontània, una pneumònia,
+els pacients que feien una resposta febril documentada, tenen una millor supervivència que aquells pacients que es mantenen afebrils. 
+També pacients en UCI, es va demostrar que a mesura que la temperatura d'ingrés a la UCI és més alta, la mortalitat va disminuint. 
+O sigui que la febre no té per què ser perjudicial, sinó que hi ha estudis que ens poden indicar que en alguns casos,
+per l'efecte sobre els bacteris, sobre els antibiòtics i el sistema immunitari, és beneficiosa la febre. 
+M'apunto tot això, per quan vingui algú, sobretot amb canalla, és que fa 10 segons que té febre, dir-li que li va molt bé la febre. Cosa que les iaies sabien, eh?
+Sí, sí. És una resposta de l'hipotàlem que no té per què ser perjudicial.
+De fet, tenim la consciència, això que us deia abans, de la febrefòbia, per dir ostres, està a 38 de febre, ràpid tractem-li.
+Doncs no, perquè no té per què ser perjudicial la febre.
+De fet, hi ha estudis, això que et dic jo, que no sembla que vagin a dir que la febre és perjudicial, sinó que fins i tot pot ser beneficiosa.
+Hi ha evidències més robustes que ens donen més confiança, en metaanàlisis, per exemple, del 2017,
+amb estudis observacionals i amb assajos aleatoritzats, amb això s'ha fet metanàlisi, amb 18.000 pacients ingressats en una UCI per una infecció,
+el fet de tractar-los amb antitèrmics versus no tractar aquesta febre no modifica en res la mortalitat hospitalària.
+És a dir que amb paràmetres robustos, de beneficis clínics importants, com és la mortalitat,
+el fet que tractis o no tractis la febre, la mortalitat hospitalària i la mortalitat dels 28 dies de pacients greus ingressats en una UCI no varia en res.
+I en nens també s'ha vist en metanàlisis d'assajos clínics que el fet de tractar la febre amb antitèrmics, 
+sigui quin sigui, paracetamol, ibuprofens, diclofenax, etc., no és eficaç, per exemple, en prevenir les convulsions febrils
+Prevenir-les. Sí que serveix per alleujar el malestar del nen, que no menja, que està irritable, tot això sí.
+Però, per exemple, en el cas concret d'aquest resultat, que és en convulsions febrils,
+en això no està demostrat que tractar el nen amb antitèrmics per una febre disminueixi el risc de fer unes convulsions febrils.
+A part, que si tu vols tractar aquesta febre, la tractaràs amb AINEs o la tractaràs amb paracetamol.
+I són fàrmacs i poden afectar a nivell renal, a nivell hepàtic, el sistema cardiovascular, hipertensió...
+És un fàrmac, i tots els fàrmacs tenen efectes adversos.
+I, a més a més, possiblement tens pacients a urgències, que els tens durant la nit, dormint tranquil·lament i plàcidament,
+doncs, si tens pautat mirar la temperatura cada 6 hores, tu el despertaràs,
+el metge l'haurà despertat abans per fer-li no sé què, després la infermera per no sé quantos,
+i a lo millor és un pacient que té 80 anys, i l'anem putejant durant la nit, doncs això ajudarà que el pacient tingui...
+Si no el deixes dormir la nit, fàcilment et farà un confusional, i a partir d'un confusional fàcilment te pot fer mil històries, mil complicacions, no?, 
+broncoaspiracions, caigudes, etcètera. Tot això requerirà intervencions, medicaments, augmentarà l'estat d'hospitalària,
+hi haurà errors mèdics, hi haurà polifarmàcia...
+Total, per una persona que estava dormint tranquil·lament, a 38 de febre, però és que està dormint tranquil·lament,
+no necessàriament es beneficia que li posem un antitèrmic. 
+Per tant, en aquesta recomanació, que m'he oblidat al principi de dir-vos que estava publicat,
+totes aquestes recomanacions del ChoosingWisely i del Things We Do for No Reason, 
+estan publicats en el Journal of Hospital Medicine. Aquesta és una recomanació del maig del 2020. 
+Quan està indicat, segons aquesta recomanació, tractar la febre? Doncs pel maneig dels símptomes acompanyants.
+Quan el pacient a resultes de la febre, tingui mal de cap, calfsred, sudoració, no sé què, 
+o el nen estigui irritable, no mengi, etcètera, tractem-ho. 
+I també els pacients que puguis pensar que té un compromís cardiocirculatori, cardiopulmonar, important,
+i que el fet que tingui febre no l'ajudarà perquè ja té un sistema cardiopulmonar una miqueta justet, doncs en aquest cas tractem-lo.
+Hem de pensar en la febre permissiva.
+Retirar els antitèrmics en aquells pacients mèdics que ingresses per una febre,
+però que no tenen cap complicació i que no tenen clínica acompanyant.
+La febre permissiva ajudarà que la infecció es resolgui més ràpid,
+menor risc d'infeccions adquirides a l'hospital, menys estada hospitalària, a part d'un estalvi econòmic significatiu
+Les recomanacions finals d'aquesta iniciativa és no prescriure fàrmacs antitèrmics com fem habitualment,
+una cosa és puntualment quan arriben a urgències, però després quan hi ha pautes l'ingrés, 
+no pautar-ho de forma condicionada de paracetamol, un gram endovenós si febre. 
+Hauríem d'afegir si febre i símptomes acompanyants.
+Si el pacient es desperta i es queixa que té mal de cap o moltes altres mialgies, etcètera, li posem un antitèrmic.
+Però només per l'únic objectiu de tractar una febre, no ho fem.
+Per tant, només hauríem de pautar antitèrmics per la febre per tractar els símptomes acompanyants
+o bé amb pacients que estan inestables o tenen una reserva cardiopulmonar límit
+i penses que li pots estalviar l'excés de demandes que li provoca la febre. 
+En aquest sí que els pots pautar només perquè no tinguin aquesta sobrecàrrega metabòlica de la febre. 
+Però per altres causes, per tractar només la febre en si, millor ens ho estalviem.
+Jo ara estic pensant com escriure l'ordre mèdica, perdó, la prescripció mèdica, perquè quan les infermeres ho llegim ho entenguem, 
+perquè és canviar totalment el paradigma, és agafar i dir si té febre m'és igual, si té febre i es troba malament me l'hi poses.
+Suposo que cada hospital ho pot fer diferent, jo puc fer la prescripció, puc posar-ho condicionat a la febre i després tinc un espai sempre d'observacions.
+Em refereixo a això, al condicionat aquest fer-li entendre a la infermera del pacient que el condicionat és:
+no només vull febre sinó que a més a més es trobi malament, això alguna ampolla aixecarà.
+És com deixar de prendre la temperatura a les 7 del matí.
+Si algú ha aconseguit al seu centre que a les plantes no prenguin la temperatura entre les 6 i 7 del matí, em trec el barret perquè és pràcticament impossible.
+Alguns hem aconseguit... Als d'observació els hi mirem entre  7 i 2 quarts de vuit, hem aconseguit endarrerir mitja hora, però costa.
+Això de fer-li entendre a la gent que la gent ha de dormir costa molt.
+Sí, potser si tens 30 anys i te desperten 3 cops a la nit no passa res,
+però amb la gent gran si ja no els deixes dormir a la nit perquè ara és un medicament, ara és un altre,
+ara ve el metge...  a les 24 hores aquella pacient està amb un síndrome confusional, per una cosa que potser te la pots estalviar.
+Si té febre a 38 però dorm plàcidament i el pacient no es queixa de mal de cap ni res, per què despertar-lo?
+És qüestió que la gent sàpiga que hi ha aquesta recomanació de Menys és Més
+i en cas de dubte dir segur que vols que si té febre li posem antitèrmic o ens esperem que el pacient ens ho demani perquè té mal de cap, saps?
+Si ens comuniquem entre nosaltres que estem, l'equip que estem treballant, seria més fàcil.
+Molt bé. 
+Això és molt fàcil de fer.
+Sempre, fer canvis al que s'ha fet tota la vida és super senzill de fer. Vinga, va, anem a l'UrgemMot.
+Tu, Albert, tenies... 
+Jo el que tinc... Jo t'haig de donar les gràcies, perquè gràcies a això de l'UrgemMot que fas a l'UrgemCat, al teu diccionari,
+dic bé moltes coses que abans deia malament. I avui, uns quants exemples.
+ Bé.
+Fem servir marcapassos en comptes de marcapas, sovint per tractar aquests blocatges,
+perquè moltes bradicàrdies d'aquestes tan extremes són blocatges del grau. 
+Sí.
+Ja no dic gasto cardíac, que ara ja dic cabal cardíac, que m'hi he fixat, que ho he dit, aquesta no m'he equivocat.
+Sí.
+El producte del volum sistòlic per la freqüència cardíaca. Lo del complex QRS, complex però no complexe.
+Sí que has veritat que hi ha complexes QRS que són complexos, oi?
+I ara aquí a algú li està a punt d'explotar el cap amb els plurals.
+Sí. Sí.
+Una cosa que jo sempre deia malament, que jo no havia parlat mai d'ondes quan parlava d'electrocardiogrames,
+sempre hi havia les ones i no, realment es poden dir ondes, cosa que a vegades et sorprèn una mica, però sí, l'onda T segueix un QRS.
+I aquest, que ja em surt sol, que són els elèctrodes, no els electrodes.
+Ara ja quan sento electrodes em sona malament, ara ja sempre dic elèctrode. I això del monitoratge, que això ja sona normal.
+I ara no només ho escric, sinó que sona normal. O sigui que molt bé, UrgemMut. Molt bé. Gràcies.
+A mi em sorprèn, de vegades.
+Em sorprenen les dues coses perquè veig de vegades a la vida normal, a la feina normal, d'escrits o de protocols, que ho escriuen coses malament,
+això del monitoratge i tot això, i em sorprèn que encara es faci malament, però al contrari també, de vegades sento parlar gent,
+o escrits, o el que sigui, que dic hòstia, molt bé que aquí han fet servir aquest terme, que potser és millor que un altre, que també és correcte,
+però han fet servir el recomanat pel TermCAT i gratament em sorprenc. És curiós.
+Va, tu què tens d'UrgemMots per avui? Amb què ens sorprendràs?
+Jo tenia... crec que no els hem parlat mai. He agafat el diccionari que tenim a Urgem.cat 
+i he escollit uns quants que em semblaven interessants.
+La sibilació. En podries dir sibilàncies, que és correcte, 
+però segons el TermCAT el terme més recomanat és una sibilació.  Sento sibilacions, aquí té una sibilació. 
+Després, quan parlem de fàrmacs, la semivida d'un fàrmac.
+També en podríem dir mitja vida, o vida mitjana, però no vida mitja.
+Vida mitja crec que és el terme que em sortiria més de forma espontània, la vida mitja d'un fàrmac, però això no és correcte. 
+La forma més correcta és la semivida d'un fàrmac.
+Després, aquells fàrmacs que acaben amb ZOLE, l'omeprazole, la metamizole, metronidazole,
+tots aquests acaben amb Z-O-L-E i sempre ens deixem la E final. Aquest sona estrany, eh?
+Jo l'escric, jo l'escric amb la E, i a més a més, com que això, el metamizole, el Nolotil,
+ja torna a haver-hi moguda i que a mitja Europa està prohibit i l'altra mitja la fotem anar com si fossin...
+Sí, sí, sí, tranquil·lament.
+A França està prohibit, llavors de tant en tant passen coses.
+Està bé, això. Què més? Relacionat amb el teu tema principal, és el ritme d'escapament,
+que jo sempre n'havia dit ritme d'escape, però és el ritme d'escapament.
+Aquest m'agrada, que és la micció per sobreeiximent. 
+És preciós, és preciós. Ja quan hi han ics pel mig, la cosa ja es torna... Sobreeiximent. 
+Sempre em podies dir rebosament, però no és correcte. En dius micció per sobreeiximent.
+I la letargia, el pacient que està així, molt apàtic, lent, una mica somnolent...
+No és una paraula esdrúixola, és una paraula plana i, per tant, n'hauríem de dir una letargia,
+que aquesta a mi em costa i l'hauré de sentir diverses vegades perquè el meu cervell ho entengui i ho assimili. I ja està. 
+Doncs jo m'apunto la micció per sobreeiximent. Aquesta la començaré a fer servir. Aquesta me l'apunto.
+I després, quan se'm queden mirant de què collons acaba dient aquest tio, mira la cançó dels 66 dels Amics de les Arts i fliparàs.
+Si no ho sabies dir el Xeix, prepara't.
+Sí. Què més? Ens faltaven les... 
+Va, les recomanacions. Toca.
+Mira, doncs jo us recomano el lloc web d'aquesta gent que han engegat això de la falsa captura elèctrica.
+Tenen un lloc web que es diu ems12lead.com, és en anglès. 
+Evidentment, 12lead és d'electrocardiografia.
+ El fundador d'això és un chief paramedic, o sigui, un paramèdic ja amb el cul pelat de treballar.
+Sembla que ja s'ha jubilat, que es diu Tom Bouthillet. Hi ha coses molt interessants d'electros.
+Està molt en casos clínics, i tenen molt d'això del que hem estat parlant avui de la falsa captura elèctrica. 
+Mireu-vos-el, que trobareu coses interessants allà. ems12lead.com
+Fantàstic. Molt bé.
+Doncs jo tenia... Avui també hem parlat un moment d'ecografia, tant per veure,
+així a grans trets, la funció ventricular, com veure si el pacient tenia pols central o pols perifèric,
+i volia recomanar l'aplicació del grup de la CAMFiC d'ecografia
+que té una aplicació que es diu EcoApp.
+És una aplicació que te la baixes al mòbil i te va explicant els principals talls ecogràfics
+que pots veure i si tens dubtes directament te'n vas en el dubte que tens, 
+te'n vas directament a la zona ecogràfica i te van ensenyant els quatre talls,
+les quatre imatges que has de veure del fetge, de la vesícula, etc.
+Jo ho trobo útil, o sigui, per mirar-t'ho a casa no, però en el moment que tinguis un dubte puntual de dir ostres, 
+no sé què és aquesta imatge que estic veient, és la correcta o no te'n recordis de com s'ha de veure el conducte biliar o el que sigui, 
+doncs és una aplicació molt bàsica, molt senzilla i penso que et pot ajudar bastant.
+EcoApp de la CAMFiC.
+Aquests són els mateixos que tenen un compte de Twitter superactiu també, que cada dos per tres pengen coses i fan cursos i tot això? 
+O són uns altres? No ho sé, ara hauríem de mirar-ho.
+Jo diria que sí, perquè de grups d'eco de la CAMFiC no deuen ser... no n'hi ha...
+Hi ha una colla de metges de família que fan ecografia, que estan molt actius al Twitter,
+i ara que tots els caps tenen ecògraf, gràcies a la Covid, doncs tots tenen ecògraf, doncs ara no fer-lo anar no té excusa.
+I a més també tenim a les unitats de suport vital, també tenim... crec que totes anem amb ecògraf, no?
+No, totes no.
+A Cerdanya no? 
+Totes no. Totes anirem. Amb el nou concurs tothom en tindrà. Fins ara...
+Ah, val. 
+Però sí, sí, els següents tots en tindrem. 
+Val, val. 
+I vídeolaringoscopi també, eh?
+Videolaringoscopi també.
+Això també n'haurem de parlar un dia, d'això. De laringoscopia i tal. Mare de Déu Senyor, no donem a l'abast, eh? No donem a l'abast.
+Necessitem algú que també ens vingui a explicar alguna cosa d'aquestes, no? De via aèria...
+Sí, sí, de via aèria. El que passa és que alguna cosa de via aèria dóna per una temporada sencera, eh? 
+Però fem petites píndoles, no? Avui només aquesta...
+ Sí. Píndoles, tenint en compte que cada episodi que fem no baixa de l'hora, que ens costa un horror mantenir-lo a l'hora.
+Una píndola serà llarga, segur.
+Va, vinga, anem acabant. Perquè estem aquí ja desvariant, com sempre.
+Què ens falta? 
+Dir adeu!
+Ah, val, val. 
+Recordar a tots els oients que tenim a aquest canal de Telegram. Som més de 100, ja. Anem posant cosetes.
+Ah, mira, una cosa que sí que no vaig pensar dir l'última vegada abans de tancar. Teníem un canal de YouTube que teníem mort de fàstic,
+però ara que Google Podcasts ha tancat, al final tots els pòdcasts també els tenim al YouTube. I ara mateix diria que ja hi són tots.
+I els anem publicant allà. Amb els que tenim en vídeo, doncs en vídeo. Els que només hem fet amb àudio, doncs amb àudio.
+Ja hi érem, però ho teníem mort. Ara ja podem dir que ens podeu escoltar a totes les plataformes de pòdcasting i també al YouTube.
+I convidar una vegada més, no?, encoratjar la gent que ens escolta i que tingui alguna expertesa o que domini algun tema en concret, 
+que ens ho faci saber tranquil·lament. I nosaltres encantats de convidar-lo i tenir una conversa aquí que tothom en surti beneficiat.
+I tant. I amb regalito. Exclusiu.
+I amb regalito. 
+Vinga, va!
+Val, Albert, doncs, moltes gràcies. Vinga.
+Que vagi molt bé la propera. Adéu.
+Fins la propera. Adéu.
