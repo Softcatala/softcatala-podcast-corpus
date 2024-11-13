@@ -1,0 +1,791 @@
+EMPodcat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMPodcat, el que fa 39 de la quarta temporada.
+Com sempre el perpetrem en Xavi des de l'Empordà i jo mateix, l'Albert Homs,
+aquest cop en un lloc estrany perquè no estic a la Cerdanya com habitualment, coses que passen en la vida familiar.
+Ara és quan el Xavi em dirà, explica on ens podem trobar.
+Jo tinc un lloc web que es diu EmermedPirineus, treballo a l'Hospital de Cerdanya i a l'Alfa 602,
+una ambulància de suport vital avançat del SEM al Pirineu català.
+I tu, Xavi, on et podem trobar?
+Jo encara estic al mateix lloc, com podeu veure, al mateix sofà.
+No és que sempre estigui al mateix sofà, però bé, estic allà mateix, a Figueres, a l'Alt Empordà.
+Soc metge d'urgències de l'Hospital de Figueres i també de la 606, de l'avançada de Figueres.
+I el Xavi ha dit que el podem veure al mateix sofà perquè aquest pòdcast també el gravarem en vídeo.
+Ja vam dir en l'episodi passat que tenim un canal de YouTube que el teníem mort de fàstic i l'hem tornat a activar
+i aquest el farem en vídeo i, sorpresa, no serem només, bé, els que esteu veient el vídeo ja heu vist que no som només nosaltres dos,
+que tenim una convidada que ja coneixeu de l'episodi 17.
+La convidada és la Laura Robles, metge geriatra que també treballa a l'Hospital de Figueres i al rescat de muntanya.
+Això com es diu ara? GRAE encara? Ara sou GEM, no?
+No, no, som a l'equip ERI1, que és l'equip de rescat i intervenció.
+Això.
+I jo pertanyo a l'ERI1, dels ERIs que hi ha. Soc a l'U, que és el que té la base a Cerdanyola.
+I també treballo a l'avançada de l'Alt Empordà, a la 606 i a l'Hospital de Figueres, a urgències.
+Ah, també estàs a l'Hospital de Figueres, val.
+Sí, amb tu, Xavi.
+Tot queda a casa. Bé, la qüestió és que la Laura va sentir que en l'episodi passat demanàvem a algú que ens vingués a explicar la capnografia
+i com que és un tema que ella controla, doncs és el tema d'aquest episodi, la capnografia.
+Però tu, Laura, ets experta en capnografia o...?
+No, però...
+Ah, no ets experta? Doncs així ens explica'ns què passa aquí.
+Jo quan escoltava l'episodi del Marcapassos sí que parlàvem de com la capnografia anava bé, per veure el batec i no,
+i vau dir, per cert, si a algú li interessa el tema, i clar, jo fa molts anys que estic molt interessada a la capno i clar, la faig servir contínuament,
+ i contínuament tinc dubtes que em vaig solucionant
+i no paro de fer-me xules, infografies perquè després, quan tinc el malalt connectat a la capno, de forma ràpida pugui solucionar aquest dubte.
+I he pensat que això potser us era útil a tots els altres que també feu capnografia a peu de pacients
+i vinc a compartir-ho, no per la gran expertesa, sinó per la capacitat que tinc de solucionar-me els problemes quan tinc un pacient connectat a la capno.
+Molt bé, molt bé.
+Això és medicina pràctica, no basada en l'evidència, sinó pràctica, que també està bé.
+Doncs va, comencem?
+Explica'ns què ens has preparat, Laura.
+Jo us vinc a ensenyar la infografia que jo porto a la butxaca.
+Bé, l'he tunejat una mica perquè us venia a veure els de l'EMPodcat i he pensat, tuneja això una mica, Laura Robles,
+i he endreçat la infografia perquè es veiés en una sola imatge. Que si voleu la compartim i us l'explico, bàsicament.
+Si, si, haurem de descriure molt bé, les imatges.
+Sí, sí, a més pensant que no tothom estarà veient-ho en vídeo, no? Hi haurà gent que, com jo, anirà conduint mentre ho escolta i ha de quedar menys o menys clar.
+Jo sempre que em faig una xule, a part de posar el nom i la data per saber de quan és i com és de moderna,
+sí que deixo posada d'on ho he tret, perquè si algú m'ensenya una altra per veure si la meva és més moderna o és d'una font més fiable o no.
+I l'última actualització l'he feta de l'Uptodate, però tot va començar perquè vaig anar a un curs amb la Susanna Simó.
+O sigui, jo quan vaig fer la residència vaig tenir la sort que era obligatòria i ruta per l'UCI en aquell temps
+i tota la meva referència que tenia de l'end tidal era un senyor intubat connectat a un respirador molt gros que costava molt d'entendre
+i una d'aquelles corbes era la corba deCO2. I sí que era útil i deia coses, però ja està.
+Llavors, de cop i volta canvien les coses i al món de les urgències apareix el capno... que pots posar-lo al pacient que està intubat i al que no està intubat.
+I això m'ho va explicar, en el primer curs que vaig anar m'ho va explicar la Susanna Simó
+i a més ho va explicar convençuda, emocionada, que vaig tornar i li vaig dir a la meva cap: compra'm un capno que ho petarem. I me'l va comprar.
+I ara al meu servei sóc la boja del capno.
+Això sí que és una novetat. Van comprar una cosa.
+Bé, vaig trigar lo meu.
+Llavors, la capnografia està molt bé, sense una base clínica no serveix de res
+i jo normalment quan em faig les xules, jo em faig la xule pensant que l'obriré i tindré un dubte davant del pacient.
+Llavors, això gros que veieu ara ho desgranarem a poquet a poquet.
+Jo quan m'obro la xule veig això i ho puc anar fent gran depenent del que m'interessi.
+Llavors, la capnografia hi ha diferents coses. Hi ha el capnograma que és l'ona, hi ha una xifra que és l'end tidal de CO2
+i la gràcia és que si tu tens end tidal de CO2 el teu pacient té A, té B i té C.
+De l'XABCDE amb el que treballem sempre, si tens un end tidal tens A, tens B i tens C.
+Què vol dir això? Que el teu pacient ventila, li entra l'aire, tens l'A conservada
+i la B perquè arriba l'aire fins a l'alvèol i és capaç de fer l'intercanvi gasós.
+Que a més a més aquest intercanvi gasós que fa aconsegueix arribar per la sang fins a les cèl·lules,
+gastar aquest oxigen a les cèl·lules, convertir-lo en CO2,
+tornar-lo a recuperar al torrent sanguini i tornar una altra vegada per tornar a gestionar aquest CO2.
+O sigui, el pacient ventila, té metabolisme cel·lular, transporta aquest CO2 perquè el que té és pols.
+Per tant, em permet veure si ventila bé i si això s'altera, em permetrà veure
+si canvia la freqüència respiratòria o si se m'obstrueix la via aèria o qualsevol cosa.
+El metabolisme cel·lular em permet veure si el meu pacient el tinc acidòtic o no i si el tinc en hiper o hipotèrmia.
+I a més a més, com que mira el transport, m'avisarà ràpid si el meu pacient s'atura o està en xoc.
+Tots són avantatges fins aquí.
+No sé si us he convençut, però jo aquí ja estava convençudíssima que l'eina era molt bona.
+A més a més, d'això que us he explicat ara, té moltes utilitats la capnografia.
+Però entre les utilitats que té, una de les que et permet és resoldre els problemes en el moment en què apareixen.
+Per què? Perquè quan tu tens un pacient monitorat, el pacient que li estem fent un procediment
+o el pacient que creiem que està crític, li tenim posats els cables de monitoratge,
+li tenim enganxat un pulsi i a sobre li hem posat un capno.
+Si el pacient està intubat, serà connectat al tub i si el pacient no està intubat seran unes ulleretes de capnografia no invasiva.
+Això vol dir que si hi ha alguna cosa que altera el nostre pacient,
+la freqüència cardíaca i el pulsi, mentre se n'adonen i t'ho transmeten, trigaràs un minut a adonar-te que aquell pacient
+o s'ha xocat o ha deixat de respirar o no té pols.
+En canvi, en el moment en què el pacient fa una apnea o en el moment en què desapareix l'end tidal, ho saps en aquell mateix moment.
+Per això és molt útil perquè et permet començar a resoldre problemes el segon següent que hagin passat.
+Sempre i quan estiguis mirant el capnògraf i el pacient. Si no estàs mirant, no.
+Si tens posada una alarma pesada, aquestes que salten els 30 segons, també t'emprenya bastant.
+Sí, això també. Llavors, sí que és important que entenguem una mica l'ona de capnografia.
+No sé si heu llegit el Petit Príncep, però us heu d'imaginar aquella imatge del Petit Príncep que explicava a la boa que s'havia menjat un elefant?
+Aquella forma és la forma del capnograma. Un capnograma normal té aquesta forma.
+I què implica el capnograma? La idea mental que hem de tenir clara és que tu el que estàs és mesurant el CO2 que el pacient exhala.
+Per tant, mentre el pacient està inhalant, no hi ha corba de capnògraf. Està fent la inspiració, no hi ha corba de capnògraf.
+En el moment en què un pacient comença l'aspiració, comença a fer-se l'ona de capnògraf.
+En el moment en què ha acabat l'espiració final i que comença la inhalació, aquell punt màxim més alt, allò és l'end tidalde CO2.
+És el màxim CO2 que ha exhalat el teu pacient al final de l'exhalació, és el CO2 que té.
+I llavors, com que comença a inspirar, baixa de cop el CO2 i per això s'acaba la corba.
+No sé si pels que m'esteu sentint ho heu pogut imaginar, però la idea és que si us imagineu la boa que s'ha menjat de l'elefant,
+en el moment que arriba del de tot del cap de l'elefant és quan ha deixat d'exhalar i allà comença la inspiració i baixa la corba.
+Entès això, vol dir que nosaltres veiem la forma que té aquesta ona, la freqüència que té aquesta ona
+i veiem al final aquest end tidaldel que és el valor de CO2 que té al final de leaspiració.
+I quan això s'altera, ens dona unes pistes del que està passant.
+Però quan això s'altera, el primer que hem de fer nosaltres és tornar a mirar el pacient i tornar a fer un XABCDE.
+Perquè tenim aquest costum de quan alguna cosa falla, comencem a mirar els aparells i a ficar coses,
+quan el primer que has de fer és mirar-te el pacient a veure si està convulsionant, el pacient està fibril·lant o ha deixat de respirar.
+Perquè amb la capno passa com amb qualsevol dels aparells que tenim per ajudar-nos a urgències, sigui l'eco, sigui el cardiocompressor.
+Estan de més a més i mai has de deixar la teva feina, que és la de mirar-te el pacient i fer l'XABCDE.
+T'ajuden, però quan aquesta feina la tens completada.
+Alguna cosa s'altera, primer torna a mirar el pacient i després te mires l'aparell aquest que tinguis entre mans en aquell moment.
+Això hi ha aquell acudit del malalt que ingressa a l'UCI, el veí li diu que quan senti un pito cridi perquè si no venen i t'aixafen i tal. És un acudit xorres.
+Ah, bueno.
+El deixem per un altre dia.
+El de "porqué me pega doctor", no?
+Exacte, sí.
+Llavors, tenint això en compte. Com que hem de veure la freqüència, la forma i l'end tidal, mirem un moment aquestes tres coses de forma ràpida per entendre-ho.
+Llavors, com que estàs veient l'ona però l'estàs veient en temps,
+evidentment cada ona és una respiració i les respiracions per minut és la freqüència respiratòria.
+El normal és que facis de 12 a 15.
+Si això és rítmic o arrítmic serà en funció de si el pacient està ventilat o està en ventilació espontània o de la patologia de base que tingui.
+Però sí que hem de tenir en compte que podem veure en la pantalla o en el paper o en el que sigui, ho podem veure a dues velocitats diferents.
+La velocitat habitual i a la que surt sempre és 12,5 mil·límetres per segon. I això et permet veure cada respiració en el moment.
+Quan això ho passes a més ràpid, et posa com juntes totes les ones i això és el que et diu la tendència.
+I això et serveix per veure si la tendència és a que pugi l'end tidalo a que baixi l'end tidal.
+Laura, aquests 25 mil·límetres per segon els selecciones tu o és l'alternativa que té els 12,5?
+Ho has de seleccionar tu. Normalment hi ha com una rodeta de configuració al costat dels capnògrafs i allà et diu vols veure el trend, o sigui, vols veure la tendència
+i ell sol te'l posa en ràpid perquè tu puguis veure aquesta tendència.
+Però de sortida sempre estaran a 12,5.
+Llavors això de la freqüència respiratòria està bé perquè nosaltres moltes vegades no ens n'adonem
+però el que valorem és esforç respiratori, no freqüència respiratòria.
+Llavors el que té un problema originari respiratori, l'asmàtic que no ventila bé, aquest de seguida veurem que està fent un esforç.
+Però el diabètic o el que ens està fracassant per acidòtic i aquest es posa amb una respiració molt ràpida però sense esforç i sense tiratge intercostal
+ens costarà molt més veure que ja no va 20 que va 28 perquè no estarà tirant d'esternocleido i probablement no el tenim despullat per veure l'intercostal.
+Per això és útil aquesta freqüència respiratòria.
+I aquesta ens la podem creure, no com la que mesurem... La que diu la màquina aquesta ens la podem creure. Quan la diu.
+Aquesta és la verídica, sí.
+L'altra cosa que hem dit és que valoràvem aquell angle final, no?
+La punta de tot de l'elefant, aquell angle final que és el valor de l'end tidal, o sigui, de la CO2 al final de l'espiració.
+Els valors normals és entre 35 o 45, o 5 mil·límetres de mercuri de diferència respecte al que et diu una determinació que hagis tingut en sang.
+Llavors, si això baixa se'n diu hipocàpnia i és quan està per sota de 35 i si això puja se'n diu hipercàpnia i és quan està per sobre de 45.
+Si estàs hipocàpnic i vol dir que tens poc CO2, vol dir que estàs hiperventilant.
+I si lo que estàs és amb un increment i amb una hipercàpnia, el que estàs és hipoventilant.
+Sobretot això ens va bé, a part de pensar en la hipoventilació com el fracàs respiratori, pensem també que ens permet veure metabolisme.
+Llavors, si tens un end tidal inferior a 29, és molt probable que el teu pacient tingui una acidosi metabòlica.
+I la literatura el que diu és que si tu tens un pacient amb criteris de sèpsia i tens un end tidal de menys de 25, segur que el tens amb acidosi metabòlica, els sèptics.
+Llavors, si tens un end tidal del de més de 32, segurament el teu pacient no tindrà una acidosi metabòlica.
+Això, els que no tenim analítica seca, sí que et pot ser molt útil, sobretot en extrahospitalària,
+que et pot donar idees de per què no t'estan funcionant unes drogues vasoactives o així,
+doncs potser això et dona la idea que el tens acidòtic i no hi has pensat i que potser amb bicarbonat t'arreglaràs alguna cosa.
+Si resulta que tens una disminució de l'end tidal exponencial en un o dos minuts, el primer que has de descartar és que li estigui baixant el cabal cardíac.
+Per tant, valora o que no se t'estigui parant o que no t'hagi fet un TEP o que no s'estigui xocant.
+En canvi, si la disminució és sobtada, però no zero, però ha baixat molt,
+una de dues, o se t'ha obstruït, vol dir que tindràs altes pressions a la via o t'està fugant,
+és a dir, que tindràs baixes pressions a la via, o que se t'ha petat el tub del pneumo si és que el tens intubat, per exemple.
+En canvi, si desapareix de cop i volta l'end tidal de CO2, el primer que has de fer és mirar-te el pacient, no fos cas que estigui en aturada
+ o que el tub s'hagi desconnectat, o que tingui una obstrucció total en aquell moment perquè li ha sortit el mocopadre i ara té una obstrucció total.
+Encara que no recordem les xifres, si l'end tidal està baixant, compte que està baixant cabal cardíac.
+Què passa? O està a punt de parar-se, o té un TEP, o té un xoc.
+Però si desapareix de cop i volta, assegura't primer que no s'ha parat, que no el tens fibril·lant, o que no s'ha desconnectat el tub.
+Llavors, si la disminució és sobtada, però no és de zero, sinó que encara rep, o està obstruït o està fugant,
+i si està obstruït, sí o sí, has de tenir alta pressió a la via. Si el pacient està intubat ja ho veuràs al ventilador, això, que també estarà sonant,
+que a la vegada que et sona perquè desapareix l'end tidal, t'estarà sonant perquè té altes pressions a la via.
+Laura, a l'aturada cardiorespiratòria la poses a dos llocs, quan desapareix la CO2 i quan hi ha disminució exponencial.
+Sí.
+Per què això?
+Sí, perquè un, per exemple, perquè si a tu et fibril·la o se't para de forma sobtada, desapareixerà i es quedarà a zero.
+Però a aquells que tot va bé i dius, hòstia, què passa?
+Que l'end tidal em baixa, que l'end tidal em baixa, vigila perquè potser va a 60, a 30, a 10, i el que fa és parar-se.
+Està fent una bradicàrdia extrema i està acabant... Per això, compte si està baixant, que no se t'estigui aturant en aquell moment.
+De fet, recordo un cas d'unes cures post-ressuscitació, de veure que se't tornarà a parar veient la caiguda.
+Com el que has dit tu: 40, 30, 20, 10. Has vist 15 segons abans que se't pararà
+És un avís que has de parar el cotxe, para, para el cotxe, que tenim problemes. Has guanyat uns segons per poder-te aixecar amb seguretat.
+Llavors, hem parlat de la freqüència, hem parlat de l'end tidal i l'altre que dèiem que era important eren les formes.
+Les formes, sí, que te les has de portar amb una xuleta.
+Sí que hi ha tres coses importants, que això sí que ho remarcarem, però d'ones típiques n'hi ha 12.
+Tu, la idea és que has de tenir quina és la forma normal i que si allò te canvia, què és el que pots fer.
+Però el més important és que si jo tinc ona i desapareix,
+el que haig de pensar és en el DOPES amb doble D, perquè haig d'actuar precoçment en cas que em desaparegui de forma sobtada una ona del capnògraf.
+Igual que hem dit que si baixava l'end tidal a 0, mira't el pacient, si resulta que el capnograma desapareix, pensa en el DOPES però amb doble D.
+Per què? Perquè la primera D és està Death? o sigui, descarta que no estigui en aturada cardiorespiratòria.
+Si el senyor no està en aturada, el DOPES que hem fet sempre tota la vida si és que el teu pacient va intubat,
+que no s'hagi desplaçat, que no estigui obstruït, que no hagi fet un pneumo, que no estigui fallant l'equip o que tingui l'estómac dilatat i necessitis posar-li la sonda nasogàstrica.
+Però la primera, sempre, quan desapareix sobtadament, és dir s'ha parat o no s'ha parat.
+Llavors, el que us deia de les formes, per entendre la forma, ara sí que us parlaré un moment d'on està la utilitat.
+No tant a memoritzar la forma, sinó perquè és útil i llavors entendrem per què els canvis d'ona de seguida ens ajuden. I ja està.
+I cadascú porti la seva butxaca, la xuleta que cregui que li funciona, perquè quan tingui el pacient connectat pugui interpretar els canvis de l'ona.
+A nivell de les utilitats, s'ha descrit que serveix per preveure esdeveniments en pacients que el tens estable però li vols fer alguna cosa,
+per comprovar la resposta a un tractament que ja li poses, per ajudar a fer diagnòstic diferencial
+i en el control de la RCP, que això està descrit a les guies des de fa 14 anys.
+Llavors, quan parlem de preveure esdeveniments en un pacient que està estable, bàsicament és perquè amb pacients que tu has deixat inconscients
+o pacients que ja estaven inconscients, et permet veure si segueixen ventilant bé.
+Sigui perquè li estàs fent un procediment o perquè és el pacient que ha convulsionat i el tens postcrític i s'està recuperant, per exemple,
+Et permet veure, en aquell pacient que tu penses que està estable, com que pots veure el dend tidal, pots veure si s'està posant acidòtic o no.
+Sobretot és útil en pacients diabètics, sí que és més sensible, i en nens amb gastroenteritis.
+Sí que els nens poden tenir mil infeccions, però en els nens amb gastroenteritis,
+els estudis que hi ha sí que diuen que és molt més sensible de dir ostres, si t'ha baixat l'end tidal, pensa que tens el nen amb una acidosi metabòlica per pèrdues.
+I és un indicador pronòstic en pacients amb sèpsia o xoc sèptic, que tu et penses que el teu pacient està estable però l'end tidales comença a alterar,
+pensa a veure si el volum, volum, volum que havies de fer i les drogues de forma precoç ho estàs fent com toca.
+Llavors, quan tu has posat un tractament, aquí sí que de totes les ones l'important és recordar-te que l'ona normal
+és la que hem dit que és com un rectangle però que té una punta més aixecada, recordant la boa que s'ha menjat l'elefant, aquella és la normal,
+i que quan aquesta ona es fa més estreta i es converteix en una espècie d'aleta de tauró, t'ha de fer pensar que el teu pacient el tens amb broncoespasme.
+Per què és important? Perquè si jo tinc el pacient amb broncoespasme i jo li estic fent tractament,
+amb la capnografia no invasiva, jo puc veure si va empitjorant o no amb el que jo li estic fent.
+Per tant, li començo a posar tractament i seré més o menys agressiva o em plantejaré ja de dir, ostres, anem preparant per intubar,
+que em claudicarà aquest asmàtic i puc estar preparada pel que hagi de passar amb el capnograma, no?
+Perquè veuré l'aleta de tauró, primer li canviarà la forma i veuré que està obstruït
+i a més a més veuré que cada vegada està més taquípneic o més hipopneic o va retenint CO2, que és el pitjor que ens pot passar amb un asmàtic.
+Per això penso que de les 12 ones de capnografia més útils i més famoses que hi ha, és important recordar aquesta de l'aleta de tauró.
+Tant per això, com el pacient que ja està amb broncoespasme i jo el començo a tractar, com el pacient que tinc intubat i no em pot explicar coses
+i jo li estic posant coses i de cop i volta, em canvia com si estigués fent un broncoespasme. Ostres, a veure si està fent una al·lèrgia d'alguna cosa que jo li he posat.
+Llavors li torno a fer l'XABCD per veure que no tingui senyals d'anafilaxi, que pot ser útil per això.
+I per ajudar el diagnòstic diferencial també. Bàsicament, moltes vegades un pacient amb un distrés respiratori,
+hi ha moltes causes i la clínica del distrés respiratori, quan el pacient està greu, és la mateixa.
+Tens un pacient que respira ràpid i fa mala cara i moltes vegades posem aquell fonendo i o sent silenci o al revés.
+Tens uns sorolls que dius, bé, és que aquest soroll podria ser tot. Podria ser un roncus, podria ser un crepitant, no sé ben bé què estic sentint.
+Llavors, si jo el que tinc és edema alvèolar, o sigui, si tinc l'alvèol ple d'aigua, el que m'alterarà serà el l'end tidal, però no la forma.
+Més o menys mantindrà aquella forma normal, però no farà bé l'intercanvi perquè l'alvèol està ple i no té lloc per fer l'intercanvi, que és el que passa, per exemple, amb l'asma cardíaca.
+Un senyor de 80 anys que no ha tingut un problema respiratori en sa vida i ara no t'està fent cap al·lèrgia,
+si sibila i la teva ona no és de tauró sinó que és una ona normal, pensa més en l'asma cardíaca,
+no li cardis en aquest el betaadrenèrgic perquè encara li faràs que el cor estigui amb més cabal cardíac.
+Per això és útil, per exemple.
+O l'obstrucció de la via aèria.
+L'obstrucció de la via aèria t'altera la forma, però no l'end tidal, perquè a tu el que et passa és que no t'acaba de sortir d'entrar bé l'aire, però tens l'alvèol alçat i t'està fent l'intercanvi.
+I si tens un TEP greu, per exemple, veuràs que com que la via està perfecta, la forma s'aguanta,
+però et baixa moltíssim l'end tidal. Per això és important aquest concepte.
+Com tinc l'ona? La tinc normal o la tinc com aleta de tauró? i tinc l'end tidal normal o el tinc alt o baix?
+I això davant del pacient, amb el que tu hagis trobat a l'exploració, t'ajudarà a prendre decisions terapèutiques.
+Jo amb això de l'ajuda al diagnòstic, aquí la capnografia m'agrada molt,
+perquè és una d'aquelles dades que moltes vegades van contra del teu error de fixació.
+Si
+Penso en l'avís de la cinc del matí  d'una persona que s'ofega. Això és un edema agut de pulmó. Cinc del matí, un edema agut de pulmó.
+És el que toca, sí.
+Però després arriba i li fots el capno i resulta que té una aleta de tauló tremenda.
+Compte, és l'eina aquesta que si fas l'error de fixació, que el fem tots, aquesta et pot obligar a sortir i dir: <<Ep, mira-t'ho bé, que això no va bé>>.
+Bàsicament perquè t'obre una finestra que tu no hi comptaves i de cop i volta t'obliga a mirar una cosa que tu no t'havies plantejat.
+I potser et pot treure d'aquell error, que parleu diverses vegades en el pòdcast d'això.
+Molt bé, molt bé. I això són les tres imatges aquestes que tens aquí a la pantalla o no?
+Si, la ideal és la de la boa que es menja l'elefant o la del rectangle amb el vèrtex dret més aixecat. Això és la ideal, però clar, el paper tot ho aguanta.
+Però aquesta és mentida, eh? La del barret de copa és mentida. Aquesta no hi és mai. S'hi acosta, però no hi és mai.
+Però no hi és mai. Clar, la vida real, allò està connectat amb un lloc que potser estàs en moviment, amb un senyor que també està en moviment,
+que si té un distress respiratori estarà distressat ell i l'equip, i no acaben de ser tan perfectes. Però sí que és veritat que si et mires,
+la base és molt més ampla de la que considerem normal i la diferència que hi ha entre els dos angles superiors no hi ha tanta diferència.
+En canvi, la d'obstrucció, la de l'aleta de tauró, sí que és veritat qua a tu el que et passa és que arriba un moment que ja no pots treure més aire, no?
+Per això s'ha d'escurçar de dalt, no? Per això és més curta la respiració i sobtada, no? Acaba de forma sobtada i ja està.
+I en canvi la fallada cardíaca, vol intentar guardar una mica aquesta de barret de copa,
+però clar, com que té l'alvèol ple de líquid i no està fent bé l'intercanvi, intenta més o menys mantenir la forma, però l'end tidal baixa moltíssim, no?
+Perquè no ets capaç d'extreure tant CO2.
+I veig que l'obstrucció no diferencia entre un MPOC o un asmàtic.
+No, diu obstrucció i punt.
+Després parlarem un moment de l'emfisema, que clar, l'emfisema implica que tens una destrucció de l'alvèol.
+Això ja, a nivell anecdòtic us ho explico al final, que sí que està escrit a la xule,
+però bàsicament jo penso que aquesta obstrucció de l'aleta de tauró és útil en el context de dir
+ostres, no havia pensat que aquest senyor potser està fent una broncoconstricció per a alguna cosa, no?
+Potser està fent una al·lèrgia o jo què sé, i per pensar-hi bàsicament, perquè això t'obliga, a part de mirar-te això,
+a fer tot l'XABCD i veure que no tingui cap exantema, que no s'estigui xocant.
+És això que deia l'Albert una mica, que et fa mirar cap a una altra banda i obrir no només el que estaves tu fixat.
+I el que sí que està ja definit des de fa més de 14 anys, que són les guies,
+les primeres guies que va sortir, que la capnografia ajudava durant l'RCP, són les guies del 2010.
+Llavors, el que ajuda a fer una RCP ben feta i el que salva les vides és fer unes compressions de qualitat,
+reconèixer ràpidament l'aturada, avisar per demanar ajuda, desfibril·lar ràpidament i fer compressions de qualitat.
+Aquestes són les quatre coses per poder salvar un senyor fent una RCP.
+Però sí que és veritat que tenim una sèrie d'aparells que ens poden ajudar.
+Per exemple, quan intubem, ens ajuda a saber si el tub està en situació correcta.
+Sí que és veritat que, clar, no és el mateix que quan intubes un senyor que tu l'has sedat per intubar-lo, que de seguida els end tidals són bons perquè el senyor està respirant bé,
+que no quan tu l'intubes i l'end tidal que estàs veient és el fruit de fer unes compressions toràciques.
+Però sí que ens diu si les compressions són de qualitat, perquè si tens uns end tidals entre 10 i 20 mil·límetres de mercuri, vol dir que estàs fent unes bones compressions.
+Si són inferiors a 10, has de canviar el reanimador o la tècnica, però alguna cosa no està funcionant bé.
+Recordeu que unes compressions humanes ben fetes no tenen diferència de pronòstic amb un cardiocompressor.
+L'única diferència és que el cardiocompressor no es mou de lloc i no es cansa i el reanimador sí.
+Però si tu amb l'end tidal de CO2 vas comprovant que el reanimador no estigui cansat,
+li estàs proporcionant unes compressions de qualitat iguals que les que li podria fer el cardiocompressor.
+També quan portem el cardiocompressor i se'ns mou de lloc i les compressions no són òptimes, de seguida veurem que l'end tidal baixa.
+Una pregunta, com que amb la tornada cardiorespiratòria tant li pots posar un dispositiu d'aquests supraglòtics
+o una intubació endotraqueal, el capnògraf el pots posar igualment amb un I-gel, per exemple?
+Sí, sí, sí, sense cap problema.
+I tindries la mateixa corba i el mateix end tidal de CO2 que si estiguis ben intubat, amb el pneumotaponament i tot això?
+L'I-gel ben col·locat, en principi les ventilacions han de ser òptimes, l'únic que no tens és aïllada la via aèria.
+Això vol dir que si estàs ventilant molt ràpid, que és una de les errades que fem tot sovint,
+perquè també estem nerviosos nosaltres i li embolem un litre i mig cada vegada que fem anar el valor ressuscitador,
+això pot fer que vomiti i si vomita no tens aïllada la via aèria.
+Però en principi, amb un dispositiu supraglòtic col·locat en el seu lloc,
+tu estaries fent arribar l'oxigen també bé i l'end tidal el recolliries bé.
+Perquè pensa que en el no intubat li recollim l'end tidal sortint del nas.
+El que no tens és la via aèria aïllada. No són equivalents, però sí que durant la reanimació cardiopulmonar tu el que has de fer són unes ventilacions correctes.
+I si amb un supraglòtic fas unes ventilacions correctes i no perds el temps de deixar de fer compressions
+per fer una intubació perfecta, ja estàs fent una millor RCP avançada en aquell pacient.
+Què passa si estem fent tant bé la reanimació cardiopulmonar?
+Doncs que a vegades la reanimació cardiopulmonar reanima. I com ens podem adonar que t'ha reanimat?
+Doncs que de cop i volta l'end tidal puja moltíssim.
+No és que estigui entre 10 i 20, sinó que fa una pujada sobtada aquest end tidal, que es veu claríssimament en el capnograma.
+Si això passa, tu no has de parar a veure si el pacient té pols. Tu has de seguir els teus dos minuts.
+I quan arribin els dos minuts, comprova si té pols.
+És més probable que quan acabin aquests dos minuts, si ha fet una pujada molt gran de l'end tidal de CO2,
+sigui perquè ha recuperat la circulació espontània, i te n'adonaràs quan toqui comprovar-lo, però no es para abans.
+Això és un dels problemes que a vegades, quan sí que posem molts complements a les coses que fem habitualment,
+aquestes coses ens poden fer perdre una mica les coses ben fetes.
+El que és bo és fer les compressions quan toca i no parar ni interrompre-les, si les estàs fent bé, abans dels dos minuts per comprovar el pols.
+Fins que no arribi el moment de comprovar-ho, no es comprova.
+Sí que és veritat que durant l'RCP l'end tidal pot canviar.
+Per exemple, tu estàs fent compressions correctes, poses una adrenalina i pot disminuir momentàniament l'end tidal de CO2, però de seguida torna a millorar.
+Això normalment és per la vasoconstricció que li has fet, potser.
+O ja portes més de 20 minuts fent reanimació avançada, decideixes que poses el bicarbonat
+i això pot fer un augment transitori de l'end tidal de CO2 perquè el bicarbonat no és res més que CO2 amb aigua.
+Llavors sí que pot augmentar, però el diferenciaràs d'un ROSC perquè el ROSC es manté i dura més.
+I a més l'augment és super més gran que el que puguis tenir perquè en un moment donat li passi un bicarbonat per vena.
+I sí que és veritat que l'end tidal és un indicador més fiable que el pacient té pols que no comprovar si té pols.
+Perquè evidentment tu estàs ventilant i deixes de fer compressions i el pacient segueix tenint ona de capno, aquest pacient té A, té B i té C.
+Llavors, en allò que dèiem que a vegades per tenir les coses molt monitorades o molt instrumentalitzades podien fer mal,
+això sí que passa, que no ho he explicat, quan el pacient el monitorem amb capno perquè estem fent una sedació, per exemple, amb keta.
+Això pot donar lloc a que en un moment donat el pacient es dissocii i no acabi de ventilar bé
+i que de forma massa precoç comencem a embolar-li mil cc d'aire nosaltres mateixos provoquem que pugui vomitar.
+Vull dir, ho estem monitorant, ho controlem, però no hem de ser locos de seguida que falta un complex a posar-nos allà a fer embolades superiors a les que necessita el pacient.
+Vols dir que potser senzillament faria una apnea de 15 segons i no passa res i per evitar això exagerarem una miqueta,
+comencem a ventilar amb pressió positiva i encara ens farà un vomit i això, no?
+Sí, sí, sí.
+O sigui, amb el sobre monitoratge, no? De vegades hem d'anar amb compte.
+Això és l'important de saber per què estàs monitorant les coses, no? I del context clínic on t'estàs fent les coses.
+Per això la importància de les dues coses.
+Ara que dèiem això del monitoratge excessiu, precisament de capnografia vaig llegir un estudi que deia
+que no hi havia diferència en la sedació de la gent que havia d'anar a colonoscòpies en fer servir capno o no.
+Clar, si te'ls mires segurament no necessites moltes coses. Si no te'ls mires les ajudes serveixen.
+Aquests que van a fer-se la colonoscòpia venen sense menjar, venen amb l'estómac buit.
+Sí, i tens tot el personal necessari, no? Està tot super ben controlat.
+El que estàs, sedo-analgesiant amb keta al mig de no sé on, perquè li has de posar a lloc tu un os, perquè si no, no el pots ficar a la camilla si no l'alinees el cos.
+Com que estaràs més hiperalerta i molt més estressat, doncs a lo millor seràs més hiperreactiu, no? A l'hora de...
+Passa que, com sempre, el paper tot ho aguanta i quan t'hi trobes en situació, no?
+És important això, no?, que el control clínic mai supera qualsevol digitalització o instrumentalització que puguem afegir-hi.
+Fer un incís a una cosa de les ones, aquesta, això és el que es diu el curare cleft, no? Això és com el tall aquest.
+És perquè tu, en principi, tens el pacient intubat, el tens poc relaxat i ell ha intentat fer una respiració.
+O sigui, sí que és veritat que la causa més freqüent és que vagi poc relaxat, però vol dir que el pacient està tirant del ventilador.
+El primer, plantegem-nos si és que el tenim amb prou flux.
+Flux vol dir si té prou volum o prou freqüència respiratòria, perquè moltes vegades nosaltres intubem algú perquè està molt taquipneic
+i aquell cos humà estava respirant 42 vegades per minut, l'analgesiem, el sedem, el relaxem, el connectem a una màquina i el posem a 12 respiracions per minut.
+I a lo millor hem calculat el volum per quilos, però clar, amb 12 per minut no arriba a tot el flux que necessitaria.
+Per tant, pensem sempre, és veritat, que no el tinguem despert i plantegem-nos que necessiti que el relaxem,
+però plantegem-nos també que els paràmetres els tinguem ben posats tant en volum com en freqüència respiratòria,
+perquè com que tots els catalans fan o 50 quilos o 70 quilos o 100, potser depenent de quin pes fas, ho hem calculat i ens hem quedat una mica curts.
+Això del curare cleft que fa referència a la Laura, pels que estigueu escoltant el pòdcast, si recordeu la forma aquesta que deia de la boa menjant-se l'elefant,
+quan parla d'això del curare cleft és que a mig llom de l'elefant hi ha una baixada, és l'intent de la persona per intentar inspirar,
+que si arriba a entrar prou aire s'acaba el capnograma i en comença un de nou immediatament després, i si no arriba només has vist això.
+ I realment és un... Jo això ho he vist, i sense això no te n'adones que la persona comença a tirar a ell.
+Realment perquè, clar, si és el que fem tots quan fem la seqüència ràpida d'intubació, sí que tu el relaxes amb el que decideixis,
+sí que és veritat que la sedo-analgèsia la portem en perfusió i de seguida hi pensem i l'ajustem a les tensions i al pes i el que sigui,
+i el relaxant te'n recordes quan torna a tirar el pacient de la màquina.
+Això us volia dir, i llavors, la imatge de l'aleta de tauró, aquesta és la de l'obstrucció, la del broncoespasme,
+l'aleta de tauró vol dir que si ens imaginem el que dèiem del barret de copa, que el punt més alt el té a dalt a la dreta,
+l'aleta de tauró sí que la pujada és cap a la dreta.
+Quan ens passa al revés, quan tenim l'aleta de tauró però l'end tidal màxim el tenim al principi del plató,
+o sigui, el primer que fa és arribar a l'end tidal màxim i després baixa, pensem que el pacient el que té és un emfisema, és a dir, que aquí ja tenim destrossat l'alvèol.
+Tu quan tens obstruït tens problemes per treure aquest end tidal, però quan està destruït ja comences amb l'end tidal alt des de l'inici,
+i l'emfisema és més que una destrucció, sí que estan fets malbé els alvèols.
+Si en algun moment veieu una aleta de tauró que no us acaba de quadrar perquè va com al revés, el teu pacient potser és un emfisema de base.
+I això et pot donar pistes per decidir coses.
+I ja està, bàsicament la infografia que us deixo, però jo,
+si us n'heu adonat, tota l'estona quan parlem de la freqüència o quan parlem de l'end tidal o quan parlem de la forma,
+tu pots veure una forma però per decidir un diagnòstic, a part de lo clínic, has de valorar l'end tidal i la freqüència.
+Llavors, a dins de la mateixa infografia hi ha un lloc que és el de primers auxilis, on directament de l'up-to-date ja hi ha com un resum
+on quan tu veus determinat tipus d'ona ja et va dient, mira com té la saturació o mira com té l'end tidal i això te dona pistes de quina és la patologia que t'està provocant això.
+I ja està. Gràcies per haver-me deixat venir a explicar la meva caixa d'eines per sobreviure a la capnografia d'emergència.
+Una pregunta, Laura. Una pregunta i un comentari.
+Digues.
+La pregunta és, en el cas del marcapassos extern, vam dir a l'altre episodi que el capnògraf ens ajudaria molt.
+Sí.
+Això ho veurem perquè... Com, en què es pot ajudar la capnografia en això?
+Si no ho vaig entendre malament mentre ens ho explicàveu l'altre dia, que crec que vau ser superclars,
+el concepte és que tu potser et pensis que el teu marcapassos està fent un estímul elèctric però que allò no es tradueixi en un estímul mecànic.
+Llavors, aquell estímul mecànic implica...
+Que passa més sovint del que ens pensem.
+Sí. Aquell estímul mecànic, el que implica és que jo estic fent que un volum sistòlic surti i que per tant rulin, tot d'hematies pel teu metabolisme,
+arribin a les cèl·lules i retornin.
+Si us en recordeu quan parlàvem de com era d'important que vèiem a la vegada el monitor i podíem veure el saturador
+i podíem veure el capnograf, que és el que us estic posant ara, si el batec realment és efectiu i mecànicament treu volum del cor i arriba a tot arreu,
+jo tindré una ona de capno coincidint amb aquell batec.
+De pulsi, de pulsi.
+Ai, de pulsi, perdó.
+I amb el capno el que veurem és passar d'una ona a 20 a una ona a 40.
+De CO2 màxim.
+De CO2 espirat.
+Clar, perquè quan hem parlat dels end tidals dèiem que quan l'end tidal et disminueix, pensa que el teu pacient es pot estar xocant
+o que alguna cosa està passant perquè tu t'has fet l'ona però no t'acaba d'arribar prou end tidal. Això vol dir que no hi ha prou flux de sang.
+Això és l'exemple claríssim.
+Tu tens el pacient que sí que té pols però està en bradicàrdia i en el moment que això augmenta i tens un batec comme il-faut,
+t'augmenta molt l'end tidal perquè t'està arribant molta sang a les cèl·lules.
+Per tant, interpreto que si miressis la tendència de la capnografia en els últims cinc minuts o el que sigui, veuries que de cop i volta
+ fa una rampa molt bèstia. Si comença a captar el marcapassos,
+Cap amunt, sí.
+Hauries de veure claríssimament que a la pendent del gràfic aquell de la tendència hi ha un moment que puja molt, o no?
+Sí, però jo crec que això et passarà quan tots els batecs capten.
+Ja, ja.
+Mentre és aquell moment d'impàs com entre mig, que només en capta un de cada dos, un de cada tres,
+encara no serà... si tu tot allò ho ajuntes, en canvi, en el moment en què cada batec és efectiu,
+perquè el fet de tenir el pulsi i el capno t'ajuda a posar-lo als mil·livolts que toca, ostres, doncs sí que t'ha d'augmentar l'end tidal.
+Jo vull fer el comentari que en el capnògraf, si tens el pacient superhipercàpnic,
+en el monitor si la corba de capno sobrepassa la pantalla del monitor, es converteix en blanca.
+L'ona de capno és negra, no?, si no ho recordo malament. És fosca, és negra, no?
+Doncs no em preguntis per què, però si sobrepassa el sostre de la pantalla,
+no em preguntis per què, però a mi em va passar que no vèiem l'onda de capno, i dèiem, hòstia, què està passant?
+I en canvi el número sí que em deia, no sé, 100 de CO2, i no vèiem l'onda de capno,
+i és perquè quan pujava sí que fa una línia, però després desapareixia i no vèiem l'onda fosca,
+i és perquè quan se surt de la pantalla és blanc, i no veus la marca negra, l'ombra negra de tota la corba del capno.
+Això ho fa el Corpuls 3. Hi ha altres monitors que com que és de color,
+no se´, tots els monitors General Electric que tenim, els Dash, la corba de capno la fa groga i el fons és negre.
+Tu veuràs la corba groga que desapareix de pantalla, que se'n va cap amunt, però tu veuràs tota la...
+La continues veient groga.
+Sí, sí. Mira, això és una de les coses a comentar a la gent de Corpuls, per què han decidit fer això.
+Jo m'imagino que és bicolor per diferenciar d'alguna manera... jo crec que és més una cagada que no pas una ajuda.
+Estic amb tu, és a dir, que veus això i no...
+I es pot augmentar molt el registre, però hi ha un topall màxim, no recordo, em sembla que és 80, a partir del qual ja no pots pujar més.
+Que jo...
+No, que jo de totes les ones de capno, la que més sovint em trobo,
+si veieu la info, la de baix a l'esquerra, que fa com... O sigui, tu t'imagines l'ona de capno normal, però la baixada fa com escaleta, saps?
+Va fent com una escaleta. Això són les oscil·lacions del ritme cardíac.
+I això la primera vegada que et passa no entens res, perquè l'end tidal et quadra, la freqüència respiratòria et quadra, l'ona més o menys,
+Com no? El que té la ment dius... Però sí, jo diria que això és un barret de copa comme il faut.
+No entenc per què la banda dreta del barret de copa és com una escaleta.
+I això ja està descrit i pot ser normal, o bé t'has de plantejar si l'estàs hipoventilant o hiperventilant, que això ho sabràs per la freqüència respiratòria que tingui.
+Però és com el moviment del cor que causa ejecció de petits volums i va com sortint així en punts suspensius.
+Doncs ara, mira, aprofitant això que dius, m'ha anat molt bé, perquè jo ara vull explicar les cagades que no he fet jo, que sempre les han fet els altres, aquestes no les he fet mai jo.
+Ai, me queda només una cosa per explicar-vos, que és just de l'última guàrdia més a més, que portàvem un pacient en aturada cardiorespiratòria recuperada.
+El senyor intubat, sedat, ben adaptat al ventilador, i de cop i volta ens comença a fer una taqui-ventri, i era com, és de cardiovertir o no és de cardiovertir?
+L'end tidal no es va ni moure, per tant era una taqui-ventri amb pols ben tolerada i li vam ficar l'amiodarona.
+Perquè també penses, ostres, el cor aquest l'acabo de tornar a engegar, no tinc gens de ganes de tornar-li a fer un reset amb un xispasso.
+Llavors, si el pacient està xocat, evidentment, tu maltractes l'arrítmia, tant com l'arrítmia te maltracta el pacient, no?
+L'arrítmia xoca el pacient, tu xoques l'arrítmia. Això en l'intubat ho pots saber amb l'end tidal.
+Si tu veus aquesta imatge, clar, en el pacient intubat que no et pot explicar res, i l'end tidal és normal, i si sí, vam esperar allò en apnea
+els que anaven dins de la cabina, i va fer una salva de set complexos i va tornar a posar-se en sinusal i vam dir, d'acord.
+Però ens va servir per això, no? Per donar-nos pistes de dir, d'acord no està xocat perquè l'end tidal es manté.
+Doncs va, la meva llista de cagades d'altres.
+Jo quan explicava això del capno als col·legues, jo els hi deia sempre de posar el sensor el més a prop possible del tub,
+per assegurar que si es desconnecta es desconnecti el més a prop.
+Cagada. Quan el pacient treu porqueria, i sempre treuen porqueria,
+depèn de quin tipus de capnògraf tinguis, els del Corpuls3, per exemple, allò s'omple de porqueria i allà ja no hi ha res a fer, ja l'has de canviar.
+Llavors ara ho faig al revés, poso el filtre i poso el sensor a sobre.
+Que, bé, això era la típica cosa, no? El típic raonament que no sempre, perquè sigui plausible, és el més adequat.
+No. perquè... Tots allò, estudi a doble cec que ningú té ni idea, decidim entre tots que mentre més a prop del pacient el posis, millor.
+I no et canvia l'end tidal, et filtra porqueria, però no et filtra les molècules de CO2 el filtre.
+Jo també ho havia fet al revés fins que algú m'ho va explicar, Albert.
+Les oscil·lacions aquestes cardiogèniques, això també ha donat algun mal de cap en RCP, amb el Corpuls3.
+El Corpuls3 té els sensors directament connectats al connector transparent que va directament al tub. Això seria un mainstream.
+Llavors n'hi ha d'altres, els DASH, per exemple, els monitors que tinc a l'hospital, o el Lifepack 15 o el 12, que havíem tingut abans, que el gas se l'emporten.
+Aquests ja porten un filtre, se l'emporten a la màquina i ho llegeix la màquina. Com més lluny està el sensor del flux de gas, menys es veuen, no?
+Però amb el Corpuls3, jo ho he vist diverses vegades ja quan reviso el servei,
+que tu fas l'última exhalació, com que no entra aire, el CO2 queda allà dins la càpsula.
+I simplement va baixant cada vegada que tu estàs fent el massatge. Vas fent moure aire cap a fora, que després entra...
+Es desplaça molt poquet i vas veient com va baixant l'escaleta aquesta que dius.
+Que després, el moment que fas la primera insuflació, això ja està, ja desapareix. I ja hi tornem.
+Aquesta és una tonteria, però que algun que altre maldecap ha donat.
+Bàsicament perquè no entens res del que passa, no?
+Exacte. Dius, hòstia, això...
+Després, aquesta sí que no és meva, però és rellevant. Això ho vaig sentir a l'Emcrit i crec que és important explicar-ho, això.
+No puc parlar per tots els monitors, però el número que ens dona l'ETCO2 és el número que hi ha just abans del que baixi cap avall.
+Quan parlaves de la corba de l'emfisematós, l'ETCO2 que et donarà no té per què ser el més alt, sinó simplement el que ve...
+No, serà de l'altre. Ell llegeix, perquè es diu end tidal, o sigui, end tidal vol dir al final de l'espiració.
+Per tant, en el moment que ell detecta que el pacient comença a inspirar, et diu, sàpigues que l'end tidal abans d'aquesta inspiració era aquest.
+Potser ho he explicat malament jo, eh?
+No, no, ho has explicat molt bé.
+Sempre és quan comença la inspiració, per tant et diu, l'end tidal és el final de l'espiració.
+El que passa és que l'emfisema serà més baix que el pre tidal que no te'l mesura, però que tu el veus allà amb la corba.
+I això també passa en l'aturada.
+Això ho deien, ja ho dic, aquest de l'Emcrit que és un...
+No l'hem recomanat perquè ja no és lliure, però és un senyor, Scott Weingart, que és un influencer de les xarxes socials de malalt crític,
+perquè enmig de la RCP les corbes no són mai perfectes. I la Capno tampoc ho és.
+I si anem amb capnos molt baixes encara costa més de veure, per molt que ampliïs tu la pantalla.
+No t'has de quedar amb el número, com ens has comentat tu, 10, 20 són números que són rellevants per prendre decisions.
+No t'has de quedar amb el número que et dóna la màquina, sinó has d'anar a mirar a la corba a quina alçada t'arriba.
+Tu pots tenir un... que et digui 10, després vas a mirar la corba i la major part de la corba arriba per sobre de 10.
+Pot arribar a 15 o 20.
+Però sí que és veritat que si allò marca 10, canvia el reanimador. O sigui, si està per sota de 10...
+Jo em refereixo que no és tant en el número que diu la màquina, sinó en el número al que arriba a la corba, que no té per què ser el mateix.
+Si és el mateix, collonut, tu hauries de mirar la corba.
+Si no,... què és l'altra...
+És una altra de les cagades i aquesta si que és meva.
+Depèn de quina escala hagis posat en el teu monitor,  pots tenir un tio intubat amb unes capnos de 3 o de 5, perquè està parat,
+però depèn de quina alçada hagi posat l'escala ets incapaç de veure la corba.
+I allò que dèiem de l'excés de monitoratge, no?
+O sigui, la comprovació d'intubació, el gold standard és la capnografia.
+Però si està parat no tens...
+Però si, algú ha d'estar fent compressions. Si algú no fa compressions...
+Exacte.
+Que de fet, la gràcia del capno és que et serveix per estar el mínim temps possible interrompent també les compressions, no?
+Perquè a la que tu has vist passar el tubo per entre les cordes ja poden tornar a començar
+i si sincrònicament amb això jo ja tinc una corba, tranquils tots, ja podem seguir fent les compressions.
+I ara no pareu fins aquí dos minuts, que ara està intubat, saps?
+Sí, sí. Doncs, jo d'aquesta cagada el que he après és que quan treballes amb end-tidals que són baixos, fer l'escala el més petita possible,
+perquè em pugui marcar doncs corbes de 5 o de 7, que és misèria, ja ho sabem, però que almenys no te'n vagis amb la idea que el tub no està a lloc i sí que ho estigui.
+Que l'altra cagada també, és al contrari.
+Tu pots ventilar i veure corba de capno, però a la següent és més baixa
+i a la següent és més baixa i arribes a la quarta o la cinquena i resulta que ja ha desaparegut.
+De fet, ara recordo que vaig llegir una iniciativa que era No Trace Wrong Place, que és no hi ha dibuix a lloc equivocat,
+que et diuen que si has de mirar fins a la cinquena o la setena ventilació per estar segur que ets a lloc.
+Si a la cinquena ventilació tens una corba de capno tal i com Déu mana, ets a lloc.
+Bé, ara diuen 7.
+Ha de ser com Déu mana perquè si el CO2 espirat està per tota l'orofaringe, com si diguéssim.
+Llavors, de forma errònia, et pots creure que com que estàs veient... Però clar, a la que ventiles una mica més ja veus que no tens end-tidal.
+Però ve d'això, que en un inici com que el tens diluït per la hipofaringe et pot donar error
+I si intubes esofàgic i s'ha fotut dues coca-coles, doncs tindràs una capno que fliparàs.
+No tinc clar si el font-picant altera la capnografia o no, això ja no t'ho sé dir.
+Això no ho sé, totes les begudes carbòniques segur, que porten CO2.
+No sé si és el mateix CO2.
+No ho sé, de la meva llista de cagades amb la capno, segur que en tinc més. Ara o...
+També hem tingut ecerts, el que deies de l'acidosi.
+Jo recordo el cas d'una noia que li vam posar les ulleres de capno no invasiu i va sortir 5 el primer.
+I què ha passat, què ha passat, què ha passat? I va resultar que era una cetoacidosi diabètica, una noia inconscient, vaja, tota una història.
+I una de les primeres coses que ens va fer, pum, va ser que aquesta capno tan baixa,
+que potser haguéssim trigat una miqueta més a decidir que teníem algun problema.
+Això són coses que jo crec que t'ajuden sobretot si treballes en un lloc on potser els trasllats o el pacient el tens fora de l'hospital molta estona.
+Tu estàs molta estona decidint coses amb un crític sense proves complementàries més enllà de les que tens al teu abast allà.
+A l'hospital de seguida ja tens la primera gaso, però en allà no ho tens. I llavors te n'adones que poses unes drogues vasoactives que no funcionen i no entens per què.
+Si per quilos de pes ja estàs posant bé com toca la perfusió, doncs potser, ostres,
+no ens hem fixat, és veritat, està acidòtic, doncs li haurem de posar bicarbonat a veure si aconseguim que les drogues vasoactives facin efecte.
+Són eines que en un moment donat et poden ajudar.
+Això és com d'usuària base, que jo no vull fer pas d'experta perquè...
+Això és el meu dia a dia, jo vaig omplint la xuleta a mesura que tinc problemes.
+I una altra cosa que també vull comentar, els monitors DASH, aquests que tinc a l'empresa, poden anar amb sensor no invasiu, però evidentment no en tenim.
+El teu cap te'n va comprar, però jo no he aconseguit convèncer el meu, llavors es complica una miqueta.
+Una cosa que sí que es pot fer, però és dolent perquè llavors resols el problema amb una sabata i una espardenya i ja tires endavant, és agafar el sensor i posar-lo dins de la mascareta d'oxigen.
+Clar, amb això tens una freqüència respiratòria i poca cosa més, però tens una freqüència respiratòria.
+I un canvi, o sigui, no te pots creure el número final d'end-tidal, però sí les variacions.
+Exacte. I l'última, va. A nosaltres no ens afecta gaire, però al bloc operatori sí.
+Hi ha ulleres nassals, per fer monitoratge no invasiu del CO2, que tenen dues sortides.
+Una que va a l'oxigen, que surt per un nariu, i per l'altra hi ha el sensor de capno.
+És a dir, que et pots trobar que les ulleres nassals, que tens un tub a cada un dels narius,
+si es desplacen et pots trobar que no li estiguis posant oxigen, o que no estiguis mesurant capno.
+Això, en principi, a nosaltres no ens passa perquè no fem servir aquests sensors, però que ho tinguem present.
+Perquè ens podem trobar alguna vegada, amb un ensurt d'aquests tontos, de he posat ulleres nasals i la satu no puja. Bé, és que si estàs fotent oxigen als ulls, és un altre tema.
+Molt bé, Laura. No sé si ens has de comentar alguna cosa més.
+No, que gràcies, eh, per deixar-me venir una altra vegada.
+Sempre ets benvinguda. De fet, et vols quedar? Tenim les altres seccions. Si et vols quedar...
+Bè, ara que ens falta, Albert? Què hem de continuar amb el...?
+Ara toca el Menys és Més, a veure quines coses de menys hem de fer.
+En aquest episodi de l'EMPodcat tornem a casa i parlem d'una iniciativa de l'Essencial,
+que és el metamizole en el tractament de la febre i del dolor agut.
+Però, els que teniu memòria, el més memòria que jo, recordareu que això fa un any i mig, aquesta recomanació ja en vam parlar,
+que pacients amb febre o dolor agut no es recomana el tractament amb metamizole com a primera elecció.
+I per què ho repetim, això?
+Ho repetim perquè el 6 de setembre del 2024 l'Agència Espanyola del Medicament va fer una publicació, una nota de seguretat, parlant del metamizole.
+I això ve perquè fa uns quants mesos a Finlàndia es van notificar alguns casos d'agranulocitosi relacionats amb el metamizole.
+Aleshores, l'Agència Finlandesa va demanar a l'Agència Europea del Medicament que fessin una revisió sobre la seguretat d'aquest medicament.
+I això, van començar a fer aquesta revisió el juny del 2024 i ara l'han acabat.
+I han conclòs que el benefici dels medicaments que contenen metamizole supera els riscs amb les indicacions que estan autoritzades.
+Però, recorden que hem d'estar alerta per identificar signes i símptomes, que el pacient pugui fer una de les complicacions que pot ser mortal, que és lagranulocitosi.
+I a més a més, hi havia el dubte de si per temes genètics podria ser que algun tipus de població,
+algun tipus d'ètnia o genètica específica podria estar relacionada amb més risc de fer agranulocitosi.
+I això també ens diuen en aquesta revisió que no hi ha cap mena d'evidència ni que confirmi ni que descarti, que hi hagi poblacions amb més risc que unes altres.
+Ens recorden que lagranulocitosi, tot i que és molt poc freqüent, però pot ser mortal,
+no depèn de la dosi administrada, pot aparèixer en qualsevol moment, inclús després de finalitzar el tractament amb Metamizole.
+Inclús en pacients que han pres durant el temps que sigui, prèviament el metamizole, sense complicacions.
+I ens recorden els símptomes que hem de nosaltres d'estar alerta quan veiem un pacient que té alguns símptomes d'aquest i pren metamizole,
+de dir, ep! aquí ens hem d'assegurar que el pacient tingui un hemograma normal.
+És a dir, qualsevol pacient que vingui amb febre, amb calfreds i amb problemes a les mucoses,
+és a dir, que tingui dolor a la mucosa nasal, a la boca, a la gola, a nivell genital i a nivell anal,
+problemes en les mucoses, amb dolor, doncs pot ser un indici que aquest pacient està neutropènic.
+Aleshores, si pren metamizole, doncs estàs obligat a fer-li un hemograma per veure quants neutròfils té.
+Clar, el metamizole, com que també et treu el dolor i te pot treure la febre, doncs hi ha el perill d'aquests pacients, si fan una agranulocitosi, tardis en veure-ho.
+Per tant, fixem-nos-hi, preguntem-ho molt específicament i preguntem pel tema de les mucoses.
+Hem de fer l'hemograma i no l'hauríem d'administrar en pacients que hagin tingut episodis de agranulocitosi prèvia amb el metamizole
+ o amb qualsevol pirazolones d'aquest tipus ni en pacients que tinguin qualsevol alteració de la funció del moll d'os o malalties del sistema hematopoietic.
+Pacients amb leucèmies, limfomes, amb síndromes mieloproliferatius i tot això, no hauríem d'utilitzar el metamizole.
+La conclusió final que ens dona l'Agència Espanyola del Medicament és que el benefici del metamizole supera els riscos en les indicacions que està indicada
+i ens reforça en la importància de fer una detecció precoç dels símptomes de agranulocitosi per disminuir el risc d'aquestes complicacions.
+No sé, Albert, si m'he explicat o com ho veus.
+Sí, sabem que podem seguir donant el Nolotil, però jo em quedo amb el perquè?.
+Tenim coses que van millor i que tenen menys efectes secundaris, encara que els riscos no siguin tan grans com ens pensàvem.
+I sabeu si afecta més els nens o els adults?
+Perquè jo sí que recordo quan vaig rotar per pediatria, fa relativament poc, que se'n parlava que hi va haver un cas de agranulocitosi per dos dosis, vull dir.
+No, a l'Essencial parlen que s'ha de donar la mínima dosi eficaç a una durada la més curta possible, com a màxim set dies,
+i contraindicat en el tercer trimestre de gestació i en la lactància.
+I precaució en pacients immunodeprimits, amb molta comorbiditat, en persones d'edat avançada, gestants i infants.
+Tots els que venen a urgències, no?
+El tema dels infants no sé si és que tenen més risc de agranulocitosi o no sé exactament el per què.
+O sigui, el metamizole està comercialitzat i aprovat a Europa des del 1922.
+Fa 100 anys que es consumeix això a Europa i hi ha, em sembla que eren 19 països a Europa en el qual està comercialitzat.
+No a tots, però només a Europa són 19 països. És un fàrmac que es fa servir molt.
+A Espanya està comercialitzat des de fa 50 anys.
+Però sí que ara, als últims anys, s'havia com duplicat el consum de metamizole.
+No sé si era perquè han comercialitzat unes presentacions que van amb gotes i això és més fàcil de prendre.
+I a més a més, també havia augmentat el consum en gent de més de 65 anys.
+Però sí que des del 2012 al 2017 el consum a Catalunya, perquè això ho va mirar el CatSalut, s'havia duplicat.
+Pel que sí que totes les complicacions aquestes són entre una i deu per cada deu milions de dosis o per cada no sé quant.
+És molt poc, però clar...
+Si en dones el doble, es dupliquen.
+Exacte, es multiplica la gent que ho pren i tot això aniran apareixent casos.
+I com ens diuen, l'Essencial no és el tractament de primera elecció.
+No vol dir que estigui incorrecte, però que no és el de la primera elecció.
+Per tant, si amb un paracetamol, amb un ibuprofen o amb un naproxen en tens prou, no hi afegeixis el metamizole.
+Però jo crec que com a la cultura urgenciòloga en general, almenys al meu entorn, està codificat com dexketoprofèn, no.
+El dexketoprofèn, dolent. El nolotil no fa res. No és nefrotòxic, no és hepatotòxic, el nolotil és el bo...
+Si no t'abaixa la tensió, ja està.
+Sí, no ho sé.
+La revisió que es va fer ara era només una revisió centrada en el tema de lagranulocitosi, que és una neutropènia de menys de 500 neutròfils.
+Però també has d'anar amb compte que les complicacions són la hipotensió greu i l'anafilaxi.
+Són les tres complicacions que es poden donar així de forma aguda al metamizole.
+Que per cert, en la recomanació de l'Essencial, que això ve de la Generalitat i aquestes històries, en el document parlen de metamizole.
+No sé per què no li posen la E final. No sé si el Termcat encara no ho havia normalitzat o per què.
+M'ha cridat l'atenció, no ho sé.
+Som uns Pere Punyetes, eh?
+I l'UrgemMot no els hi ha dit res d'això, eh? No els hi ha enviat un tuit l'UrgemMot?
+No, però això ho firma...
+Mira, doncs ho farem
+ Els hi direm.
+Aprofitarem que fem soroll per aquesta banda i ho direm...
+Gent, ja ho sabeu, el metamizole es pot seguir donant però no en primera elecció, i ja està.
+Amb compte.
+Això no ha canviat.
+Exacte.
+I l'altra recomanació és alerta amb gent que pren metamizole,
+que si venen amb febre i amb problemes en les mucoses d'on sigui, fem-li un hemograma per veure com estan els neutròfils.
+Sempre.
+I ho diu l'Essencial quant de temps després de deixar-ho de prendre encara pots fer-ho?
+No ho recordo.
+Sé que diuen que després de prendre-ho encara ho pots fer-ho, però no sé si fa una setmana i estàs fora de risc, no ho sé això.
+No recordo haver-ho llegit. Però bé, penjarem els documents a l'EMPodcat per qui vulgui acabar de mirar-s'ho.
+Molt bé, doncs va, ara toca l'UrgemMot.
+Tu tens, Laura, tu tens algun UrgemMot per comentar-nos?
+Home, no m'heu avisat, no m'heu avisat perquè jo...
+Escolta, recordeu que per Sant Jordi em vaig agenciar un llibre que es deia Ensenya'm la llengua,
+que és aquest que ensenyaré ara aquí a la pantalla, és el llibre del doctor Antoni Beltran.
+Sí.
+Me'l vaig llegint molt de tant en tant, sobretot per recuperar la llengua dels avis,
+perquè els nostres avis tenien un vocabulari molt extens amb el tema de la salut,
+que nosaltres hem anat tornant cada vegada més culte i per tant anant perdent el popular, oi?
+Jo tenia la llista de, com que l'autor ho té distribuït per sistemes, doncs ja tenia una llista de locucions relacionades amb la cardiologia.
+Però anem molt passats de temps i ho deixaré per un altre mes.
+El que sí que us puc dir és que qui tingui interès en aquest llibre i no l'hagi comprat encara, si et fas voluntari per la llengua en l'àmbit de la salut, te'l regalen, tu.
+Ah, sí?
+Sí, sí.
+És això de tindre una parella lingüística i aquestes històries?
+Correcte. El voluntari, és a dir, el que parla català, bé, tots parlen català perquè si no no pots conversar, oi no?
+Però diguéssim, el que és el voluntari li toca aquest llibre i el que és l'aprenent li toca la guia de la conversa en català en sanitat.
+Escolta, jo, dues falques. El llibre de l'Antoni Beltran, Ensenya'm la llengua i el voluntariat per la llengua.
+Guaita, tot junt aquí, eh? Aprofiteu, llibre gratis.
+Molt bé
+ Va, Xavi, a veure què tens tu.
+Sí, jo tinc només dos termes. Un és la torticoli.
+Torticoli.
+No ho hagués dit mai així, eh? És que així sembla un plat de tortel·linis, no?
+Bona aquesta.
+Uns torticoli al pesto.
+Hòstia, li treus la S i a sobre li canvies l'accent. Torticoli.
+Sí, és que s'escriu tal com sona, torticoli.
+Jo sempre n'havia dit torticolis, no? Jo sempre hi posava una S al final.
+Però ja deu venir del llatí, no? Del coll torçat, no? Torticoli. No? Deu ser això?
+Suposo.
+Sí, és una inclinació del cap i del coll per causes musculars, normalment per temes d'estrès i aquestes coses. Abans em deien que era un cop d'aire.
+És gran, això, eh? És molt gran, això. És molt gran.
+Per favor. Però cop d'aire infinitament millor que torticoli.
+I de fet, escolta'm, tu n'havies dit torticolis perquè aquí, jo que sóc del Bages, originari del Bages, en diem tortícolis. Els del Bages parlem estrany, també.
+En castellà es diu torticolis.
+Clar, en castellà porta accent. Tortícolis.
+Això, doncs una castellanització devia ser.
+Torticoli. Cop d'aire.
+Molt bé. Cop d'aire, cop d'aire, ja està. Tinc un cop d'aire, ja està. M'encanta, m'encanta.
+El que passa és que el cop d'aire et pot donar altres símptomes, no?
+Et pot donar una paràlisi facial, una torticoli... No ho sé. És més genèric. És la causa. I això és l'efecte, eh? La torticoli.
+No sé com encara estem vius vivint a l'Empordà, eh, Xavi? Perquè...
+Sí, sí, sí. Va, i una altra que és una mica més dallonses és el flux i el fluix. Flux i fluix.
+No sé si sabeu la diferència. Per exemple, la cànula nasal d'alt flux, o el flux inspiratori, o el flex aspiratori, o el flux forçat,
+tot això són moviments... La definició és això, eh? Moviment incessant en una direcció determinada.
+I s'escriu flux. F-L-U-X. Però es pronuncia acabat amb C-S. Flux.
+A diferència del fluix, que és acabat amb I-X, que això parla d'un líquid. I és una secreció abundant, normal o patològica, d'un líquid.
+Per tant, quan parlem de líquids segur que hem de parlar de fluix.
+Hòstia, hòstia.
+Què passa? Què passa?
+És que ara estic pensant... Això ho escrivia com a flux acabat amb E.
+No, el fluxe no existeix. 
+Una altra cagada. Uf, per favor, per favor, suspès.
+Jo això ho veig difícil, Xavi. O sigui, el monitoratge i la sofraja els he comprat, eh? Però el flux i el fluix...
+El flux és quan una cosa va en una sola direcció incessant més o menys. Flux inspiratori, la cànula nasal d'alt flux. Però no fluxe. Fluxe no...
+No existeix.
+Ara, si és un líquid, no sé, el fluix vaginal, la leucorrea, o fluix menstrual, no sé,
+o fluix hepàtic que surt, la bilis, no sé què, doncs això és fluix, amb I-X final.
+És una parida, però almenys no posem fluxe.
+I la fluixera existeix o no?
+La fluixera...
+La fluixera, que és una causa de consulta a urgències.
+Aquí és l'adjectiu d'estar fluix, no? De no estar fort. Al contrari. Molt bé.
+Hòstia, aquesta, com diu la Laura, aquesta és difícil, eh? Aquesta...
+Aquesta és de nota, eh? Aquesta és de nota.
+Provaré de comprar-la, també, va. A veure si cola, també.
+Nosaltres, Albert, hem sentit en directe, em sembla que ja ho vaig explicar un dia,
+a un hospital de referència, i que el que ens contestava ens parlava que agaféssim l'abaixallengües per mirar l'amígdala... i no sé què. 
+I nosaltres, una mica més i vam caure a terra...
+De l'emoció!
+Aquest senyor l'hem de convidar.
+Abaixa llengües, sí, sí.
+També l'he fet servir alguna vegada, eh? Amb canalla, a més a més.
+Ah, veus? I ho has fet...
+Així, la canalla, com que són una esponja, si els descol·loques, és que... Què m'acaba de dir, aquest tio?
+Sí, sí, sí. Molt bé, molt bé.
+Doncs, escolta, amb l'UrgemMot ja el tenim. Ara ens tocarien les recomanacions.
+Ho començo jo, per exemple?
+Mira, aquí vam començar recomanant coses clíniques 
+i després de les coses clíniques hem passat a recomanar llibres, que tenen a veure amb l'ofici, i d'altres que no.
+Doncs, ja ara, en comptes de recomanar una cosa, recomanaré un procés. Intento explicar-me.
+Això és un metge d'urgències anglès que se'n va anar a fer un fellow, se'n va anar un any al Sydney HEMS, a l'helicòpter de Sydney.
+Si no el conegui, el Sydney HEMS és una mena de referent d'organització tal com Déu mana, almenys des del meu punt de vista.
+I el tio aquest va estar un any allà i va fer un projecte de millora de la qualitat. I em va semblar molt interessant i intento explicar-ho.
+I és una recomanació perquè això ho podeu trobar-ho. Posarem l'enllaç a les notes.
+El lloc web on està això es diu Pondermed, que és el lloc web d'aquest senyor.
+Però jo el que us vull parlar és d'una cosa en concret que ha fet. A ell li diuen els snippets del Coffee and Cases i intento explicar-ho, va.
+Aquesta organització té una cultura de qualitat bastant establerta i tenen de forma mensual les trobades de morbiditat i mortalitat,
+tenen tota una seqüència formativa molt seriosa.
+Llavors el que fan cada dia, cada dia a les 10 del matí, a una de les bases que tenen, la més gran i les altres es connecten per internet,
+fan una cosa que anima el Coffee and Cases.
+Durant l'esmorzar discuteixen casos recents que hagin tingut.
+M'agrada una cosa diària que puguis discutir. Això a mi em sembla meritori.
+També diu bastant del nivell de...
+De la sobrecàrrega assistencial que tenen ells.
+Sí, exacte. Segur que no hi poden ser-hi tots.
+I aquest xicot es va fixar que era molt interessant el que parlaven, perquè com que eren converses disteses, com hem fet nosaltres aquí parlant de la capno,
+que jo vaig fer això malament, jo vaig fer això bé, i s'aprenien moltes coses. I de fet, dins aquesta cultura de qualitat, s'anotaven aquestes coses.
+Hi havia un registre, un dels metges responsables del servei, que estava allà, prenent nota d'aquelles coses que semblaven útils.
+I l'home aquest, Robert Lloyd es diu, el que ha fet és una base de dades amb les píndoles que sortien en aquestes trobades del Coffee and Cases.
+I això és el que us recomano. És aquesta base de dades, que veureu que és molt lamentable estèticament.
+És una pàgina web en què poses la paraula clau que t'interessa i et diu quines píndoles hi ha sobre aquest tema.
+I les píndoles, què és? És una xuleta així com la Laura o és un text, o és una infografia?
+És un text curt. Per exemple: busques, no ho sé, OMI, infart oclusiu de miocardi.
+Tu busques aquí les píndoles de coneixement que se'ls han acudit en base a això.
+Llavors, quina és la gràcia d'això? La gràcia d'això no és tant aquesta base de dades, sinó que un cop ho tens posat en aquesta base de dades, el que pots fer.
+Tenint-ho en una base de dades, què han fet? Doncs mira, des de muntar uns enviaments automàtics a Twitter.
+7 o 8 píndoles d'aquestes que decideixen enviar-les al Twitter de forma... Aquesta setmana envio una i es fa automàtic.
+EN una de les bases tenen unes pantalles que són... El tauler d'anuncis és una pantalla digital.
+Doncs van tirant allà, les píndoles d'aquestes van sortint allà en bucle.
+Poses els fons de pantalla a l'ordinador, ho tens allà.
+Han fet juguesques en línia, doncs aprofitant el coneixement que s'ha generat amb aquestes píndoles, ja tens les preguntes per fer la juguesca.
+Ja us dic, no és tant el contingut, que és rellevant, perquè hi ha coses importants aquí.
+Aquests trucs que hem anat dient, per exemple, quan parlàvem de la capnografia,
+no és tant el contingut, sinó el fet de tenir en aquest format, en aquesta base de dades, tot l'aprofitament que pots fer després.
+Per això ho recomano més com a procés que no pas com a contingut.
+Em consta que algun dels eris del rescat de muntanya fan coses semblants a això.
+Dediquen algunes hores de tant en tant a formació.
+Sí, ho tenim estipulat.
+Doncs aprofitar aquesta feina que es fa i treure'n més rendiment. Una miqueta el que fem nosaltres aquí a l'EMPodcat.
+Tant el Xavi com jo tenim un blog on fem les nostres divagacions i després les venim a explicar aquí.
+Està bé, està bé. És una bona reutilització de tot el que vas fent.
+Això és la base d'un PLE del Personal Learning Environment.
+Tot el que tu vas aprenent i fent ho deixis en un format que després ho puguis anar compartint
+i recuperant i reciclant i canviant d'aspecte per poder optimitzar-lo i compartir-ho.
+Si voleu saber més d'aquest procés, el doctor aquest té una entrada de blog on explica el per què, el com i tot plegat.
+És interessant. No és agafar i.. aquest tio no va aterrar i va dir: ara faré això.
+Doncs Albert, podríem aprofitar igual que vam fer l'episodi passat i vam capturar la Laura,
+doncs que si algú que ens escolta té alguna eina d'aquestes ja muntades i algun sistema d'aprofitament d'una base de dades que vnm fer a poc a poc, que ens ho vinguin a explicar.
+Jo havia pensat d'aprofitar que tenim moltes hores ja d'àudio i tenim moltes entrades a bloc, tenim molta cosa feta. El  que no tenim són píndoles d'aquestes.
+Ens enrotllem com persianes de tot això que hem anat fent, doncs treure'n.
+No sé en quin format extreu-ho després, però tenir-ho. Em va fer pensar que es podria intentar aprofitar.
+Però això existeix perquè jo escolto l'EMPodcat a través de l'Ivoox i a vegades no em surt l'EMPodcat sencer, me surt només el Menys és Més.
+El Menys és Més el publiquem sempre abans com a format curt,
+que de fet es publica també l'àudio curt de dos minuts perquè es pugui compartir a través de WhatsApp i Telegram.
+Una altra opció és... Escolteu, oients, què voleu? 
+Us fotem en la tralla aquesta tota d'una tirada o voleu que us ho partim i us fem àudios dels segments i cadascú que trigui després el que vol sentir?
+Digueu-nos-ho, si no seguirem fent com sempre.
+Va, va. Escolta'm Albert, jo tinc una petita recomanació també.
+Era sobre una pàgina web que és el Sano y Salvo, sano-y-salvo.blogspot.com/
+i és una pàgina web del grup de treball de seguretat del pacient
+de la SEMFIC, de la Societat Espanyola de Medicina Familiar i Comunitària.
+Expliquen temes relacionats amb la seguretat del pacient.
+I això ve perquè en pocs dies, el 17 de setembre, és el Dia Mundial de la Seguretat del Pacient.
+Cada any és un tema diferent i aquest any parlen del tema dels diagnòstics.
+Dels diagnòstics mèdics, doncs, com hem de fer-ho per millorar la seguretat del pacient.
+Perquè sabem que un 16% dels errors evitables que tenim en els pacients estan relacionats amb el diagnòstic.
+Tant pel sobrediagnòstic com pels errors.
+I que seria qüestió de millorar els factors sistemàtics que ens provoquen aquests errors,
+tant sigui temes de comunicació entre el personal sanitari o comunicació amb el pacient,
+o la sobrecàrrega laboral, temes d'eficiències de treball dels equips,
+com també els temes cognitius, el tema dels biaixos cognitius, l'estrès, el cansament i tot això.
+Tot això ens porta moltes vegades a tindre errors de diagnòstic.
+I en el Sano y Salvo és l'article d'aquest mes que parlen sobre aquest tema, dels temes del diagnòstic i d'aquest dia, el 17 de setembre.
+I com que ens correspon ara aquest mes a això, doncs aprofitava i que la gent conegui, si no el coneixen encara, el Sano y Salvo.
+Que ho sabran després, perquè això es publicarà bastant més tard, el dia 17. Sano-y-salvo.blogspot.com. Molt bé.
+Ens l'apuntarem i el posarem a les notes de l'episodi.
+Crec que ja estem, no? Albert, Laura...
+Laura, vols dir l'última paraula o...?
+Donar-vos les gràcies per haver-me deixat venir a explicar les meves eines de fortuna.
+Les gràcies te les donem a tu, Laura.
+I tant. Si algú ho vol fer com la Laura, sapigueu que som molt bona gent i estem molt encantats de tenir-vos i regalet.
+Això anava a dir, me fareu un altre regal, no?
+Un cafè, un cafè.
+No, no, hem de renovar, perquè els regals anteriors els hem gastat tots i n'hem de fer de nous.
+Ja els farem diferents perquè qui participi més d'un cop en tingui dos.
+Doncs, escolta'm, recordar a tothom que estem a totes les plataformes de pòdcast, que si no hi som ens ho dieu i ens hi posarem.
+El canal de YouTube, recordar-ho. Ens comuniquem amb els oients al canal de Telegram.
+Tot i que ara el Telegram ha tingut aquí un incident amb el cap i tal, no sé com acabarà. Però ens seguim comunicant allà.
+I, de fet, potser m'agradaria insistir en el dels casos clínics,
+perquè va anar molt bé aquest que vam fer amb en Jose ja fa uns dies i seria interessant fer-ne un altre
+i ens agradaria que no fóssim nosaltres qui us els plantegéssim, sinó que fóssiu oients qui ens vinguéssiu a posar a prova i ens plantegéssiu els casos a nosaltres.
+No sé, igual com que ja estem fent coses en vídeo, potser ens podríem atrevir a fer una mena d'un streaming i fer-ho...
+que s'apunti qui vulgui, jo què sé, una bogeria d'aquestes de YouTuber cridaner o no sé, alguna cosa.
+Va, que vagi molt bé i ens veiem a la propera.
+Vinga, fins a la propera. Moltes gràcies a tothom.
+Vinga, gràcies nois. Adéu.
+Adéu, adéu.
+Xavi, aquest ja l'hem fet.
+Doncs jo m'ho he llegit així, amb molt de descobriment.

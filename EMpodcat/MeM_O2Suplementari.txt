@@ -1,0 +1,28 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+En aquest Menys és Més ens fem ressò d'una recomanació del Things We Do For No Reason,
+recordeu aquestes campanyes del Choosing Wisely,
+que fa referència a no suplementar amb oxigen aquells pacients que no ho necessitin.
+Està publicat al Journal of Hospital Medicine l'abril del 2020.
+Ens recomana a pacients amb malaltia aguda
+de no administrar oxigen suplementari si la saturació és per sobre del 92%.
+I si fem servir aquest oxigen, ens hauríem d'assegurar que la saturació no puja del 94% - 96%.
+En aquells pacients amb una sospita de síndrome coronari agut, només començarem l'oxigen suplementari si la saturació està per sota del 90%.
+I en aquells pacients que estiguin en risc de fer retenció de diòxid de carboni, la nostra saturació objectiu quedarà entre 88% i 92%.
+Evidentment, en aquells pacients en què l'oxigen sigui el tractament específic per la seva malaltia, com per exemple:
+ la intoxicació per monòxid de carboni, les patologies per descompressió, la cefalea en agrupaments o el pneumotòrax,
+en aquests, evidentment, que els hi hem d'administrar oxigen.
+Aquesta recomanació es basa en diferents publicacions.
+Ja algunes de molt antigues, les que parlen de l'ús d'oxigen en la síndrome coronària aguda,
+i algunes de més recents que han demostrat que mantenim oxigenacions conservadores,
+al voltant del 95%,
+s'obtenen millors resultats que mantenint saturacions més elevades a partir del 97%.
+Hi ha fins i tot el cas d'un estudi fet a França que es va haver d'interrompre prematurament per motius de seguretat.
+El grup liberal, el grup en què les saturacions eren més altes,
+va tenir pitjors resultats que el grup en què es mantenien unes saturacions conservadores al voltant d'aquest 95%.
+Hi ha molts més estudis, amb moltes patologies.
+Hem parlat de la síndrome coronària aguda,
+però també amb l'ictus, amb el traumatisme cranioencefàlic i l'anòxia post-aturada cardíaca,
+en què també s'ha vist que l'ús liberal d'oxigen, és a dir, buscant saturacions molt altes,
+es relaciona amb més mortalitat i esdeveniments adversos.
+Per tant, ja ho sabeu.
+Fem servir només l'oxigen suplementari si les saturacions estan per sota del 92% i quan l'apliquem intentem no passar d'aquest 94% - 96%.
