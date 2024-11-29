@@ -1,0 +1,2669 @@
+1
+00:00:04,500 --> 00:00:09,120
+EMPodCat, el podcast d'urgències i emergències mèdiques en català.
+
+2
+00:00:11,080 --> 00:00:16,200
+Hola, benvingudes a un nou episodi de l'EMPodCat, el 40, de la quarta temporada.
+
+3
+00:00:16,300 --> 00:00:20,700
+Com sempre, l'EMPodCat el fem tant en Xavi Basurto des de l'Empordà. Bon dia, Xavi.
+
+4
+00:00:20,760 --> 00:00:21,760
+Hola, bon dia. Com estàs?
+
+5
+00:00:21,880 --> 00:00:26,200
+Prou bé, avui a casa. Cosa estranya, últimament. I jo mateix, l'Albert Homs, des de Cerdanya.
+
+6
+00:00:26,480 --> 00:00:30,100
+@emermedpirineus a Twitter, tinc el blog que es diu emermedpirineus.
+
+7
+00:00:30,100 --> 00:00:35,540
+I treballo a l'Hospital de Cerdanya i a la base SEM del territori. I tu, Xavi, on et podem trobar?
+
+8
+00:00:35,620 --> 00:00:41,500
+Sí, jo estic físicament a l'Hospital de Figueres i a la 606 també de Figueres.
+
+9
+00:00:41,960 --> 00:00:50,600
+I per via web estem al blog urgem.cat i a Twitter, @urgem.cat.
+
+10
+00:00:50,960 --> 00:00:56,000
+Escolta'm, avui el tema el faràs tu, però jo abans et vull donar les gràcies.
+
+11
+00:00:56,080 --> 00:00:57,360
+Ah, mira que bé, per què? Què ha passat?
+
+12
+00:00:57,560 --> 00:01:03,480
+T'explico. Em sembla que és l'episodi 1 de l'EMPodCat,p arlàvem de l'anafilàxia. Anafilaxi, perdó.
+
+13
+00:01:03,600 --> 00:01:04,020
+Sí.
+
+14
+00:01:04,120 --> 00:01:08,670
+D'una entrada que havies fet tu. Doncs mira, una de les últimes guàrdies, justament un company de feina,
+
+15
+00:01:08,900 --> 00:01:15,700
+es va <i>xungar</i> molt d'una picada de vespa a la qual era al·lèrgic. I va anar molt bé haver fet aquest episodi.
+
+16
+00:01:15,720 --> 00:01:16,840
+Ahà, molt bé.
+
+17
+00:01:16,920 --> 00:01:24,280
+El que hem de posar l'adrenalina ràpid, no ens ha de fer por i tal, perquè hi va haver un moment que em vaig començar a posar molt tonto, insistint molt.
+
+18
+00:01:24,280 --> 00:01:28,400
+O sigui, primer corticoides i després l'adrenalina. I vaig començar a dir, voleu dir? Voleu dir?
+
+19
+00:01:28,820 --> 00:01:35,520
+Si no haguéssim insistit tant, no hauria anat tan bé. Espectacular, eh? Tres minuts d'adrenalina i escolta'm, ja, de la <i>xungada</i>, ja ningú se'n recordava.
+
+20
+00:01:35,900 --> 00:01:36,800
+Sí, sí, sí.
+
+21
+00:01:37,000 --> 00:01:43,420
+L'únic que salva la vida en aquest tema és l'adrenalina. L'altre és tractament adjuvant, simptomàtic.
+
+22
+00:01:43,580 --> 00:01:45,640
+Doncs l'individu aquest ens deu una cervesa.
+
+23
+00:01:45,860 --> 00:01:47,500
+Que ens faci uns likes.
+
+24
+00:01:48,560 --> 00:01:49,460
+Exacte.
+
+25
+00:01:49,580 --> 00:01:53,700
+Un parell de guàrdies abans vaig haver de posar una I-gel també, que també em va anar bé haver-ho gravat en el seu dia.
+
+26
+00:01:53,740 --> 00:01:57,840
+Però aquest és un altre tema. déu-n'hi-do les guàrdies que estem portant, vist que és temporada baixa.
+
+27
+00:01:57,940 --> 00:01:59,520
+Molt bé, molt bé. Molt bé, doncs me n'alegro.
+
+28
+00:01:59,580 --> 00:02:05,120
+Doncs bé, un cop fem l'agraïment, doncs vinga va, Xavi, comencem amb el tema d'avui, que potser no és molt sexy, però sí que és important.
+
+29
+00:02:08,780 --> 00:02:11,440
+Home, és sexy perquè parlarem de sexe, també.
+
+30
+00:02:11,520 --> 00:02:11,920
+Vaja!
+
+31
+00:02:12,020 --> 00:02:14,940
+Sí, clar. A urgències també hem de parlar de sexe.
+
+32
+00:02:15,180 --> 00:02:22,520
+Aleshores, sí, parlem del tema dels diagnòstics dels pacients amb VIH que veiem a urgències.
+
+33
+00:02:22,520 --> 00:02:28,320
+És a dir, de detecció precoç dels pacients seropositius per VIH.
+
+34
+00:02:28,400 --> 00:02:34,200
+Això és un tema que ja vam parlar a Urgem ja l'any 2018.
+
+35
+00:02:34,200 --> 00:02:40,700
+Ja vam fer una entrada que es deia VIH positiu, oportunitats perdudes a urgències.
+
+36
+00:02:40,700 --> 00:02:46,700
+I això era un tema perquè a Anglaterra ja s'estava movent que sempre que puguem,
+
+37
+00:02:46,700 --> 00:02:51,400
+qualsevol mínima oportunitat que veiem un pacient que, pel que sigui,
+
+38
+00:02:51,400 --> 00:02:58,100
+tingui algunes característiques determinades, no perdem l'oportunitat de demanar-li, fer-li un test de VIH.
+
+39
+00:02:58,400 --> 00:03:02,600
+Perquè hi ha molts pacients que no saben que són seropositius pel VIH.
+
+40
+00:03:02,600 --> 00:03:10,000
+Aleshores, ja vam fer una entrada explicant aquest tema de les oportunitats perdudes, del diagnòstic tardà i les seves conseqüències.
+
+41
+00:03:10,000 --> 00:03:16,600
+Aleshores, aquí parlàvem de deu malalties indicadores que si les veus a urgències,
+
+42
+00:03:16,600 --> 00:03:25,400
+doncs no t'ho pensis i demanes permís al pacient, un consentiment informat encara que sigui verbal, i li demanes un test de VIH.
+
+43
+00:03:25,400 --> 00:03:28,800
+Això ho vam fer el 2018. I després això s'ha anat movent.
+
+44
+00:03:28,800 --> 00:03:34,790
+I ara ja fa com un parell o tres d'anys que hi ha diverses iniciatives a nivell espanyol i a nivell català
+
+45
+00:03:34,790 --> 00:03:44,790
+que han fet molt bona feina i sembla que s'està complint l'objectiu que marca l'OMS i totes les entitats oficials que ens demanen.
+
+46
+00:03:44,790 --> 00:03:47,790
+Aleshores, faig una miqueta de resum del tema.
+
+47
+00:03:47,790 --> 00:03:53,290
+Sabem que el VIH provoca aproximadament un milió de morts a l'any actualment a tot el món.
+
+48
+00:03:53,690 --> 00:03:57,790
+A Catalunya tenim 33.000, 34.000 persones infectades.
+
+49
+00:03:58,200 --> 00:04:03,200
+I això representa una prevalença, en adults, del 0,45%.
+
+50
+00:04:03,200 --> 00:04:10,200
+Això té una incidència d'aproximadament 6 nous casos per cada 100.000 habitants i any.
+
+51
+00:04:10,200 --> 00:04:14,000
+Això el 2022 a Catalunya. 6 casos nous per 100.000 habitants i any.
+
+52
+00:04:14,000 --> 00:04:21,200
+Per tant, on estigueu treballant vosaltres, mireu quants habitants teniu de referència al vostre territori i calculeu.
+
+53
+00:04:21,200 --> 00:04:28,200
+Això abans de la pandèmia eren de 8, 8 i mig casos nous per 100.000 habitants i any,
+
+54
+00:04:28,200 --> 00:04:33,700
+I ara després de la pandèmia va baixar, però la tendència és que s'aproximi una altra vegada als nivells d'abans de la pandèmia.
+
+55
+00:04:34,400 --> 00:04:37,400
+Característiques d'aquestes persones que se'ls fa un diagnòstic?
+
+56
+00:04:37,400 --> 00:04:43,350
+Doncs el 83% d'aquests nous diagnòstics són homes. I l'edat mitjana amb què fem aquest diagnòstic són de 37 anys.
+
+57
+00:04:43,350 --> 00:04:44,700
+déu-n'hi-do, bastant joves.
+
+58
+00:04:44,700 --> 00:04:46,200
+Sí, són joves, sí, sí.
+
+59
+00:04:46,400 --> 00:04:51,200
+L'edat mitjana del diagnòstic de sida es fa bastant més tard, que són els 44 anys.
+
+60
+00:04:51,200 --> 00:04:54,200
+Els que ho fan, clar, els que arriben a aquest estadi.
+
+61
+00:04:54,200 --> 00:05:00,200
+El 59% d'aquests nous diagnòstics són persones nascudes fora de l'estat espanyol.
+
+62
+00:05:00,200 --> 00:05:07,500
+La taxa d'incidència en aquestes persones nascudes fora de l'estat espanyol és 5 vegades superior al dels que han nascut a l'estat espanyol.
+
+63
+00:05:07,700 --> 00:05:16,700
+Això calculat entre el període de 2010-2020. I la via de transmissió del VIH és la sexual en el 93% dels casos.
+
+64
+00:05:16,700 --> 00:05:25,000
+Suposo que en èpoques anteriors devia ser més l'ús de vies injectables de drogues, però ara és el 93% dels casos.
+
+65
+00:05:25,000 --> 00:05:28,000
+Té sentit perquè ara ja transmissió per sang...
+
+66
+00:05:28,100 --> 00:05:34,000
+Fins que no es torni a posar de moda alguna forma vinculada a l'ús de drogues, sembla que és el que tindrem.
+
+67
+00:05:34,000 --> 00:05:38,700
+De fet, el 60% dels casos es donen homes que tenen relacions sexuals amb homes.
+
+68
+00:05:38,700 --> 00:05:40,200
+Això vol dir que un 40% no.
+
+69
+00:05:40,200 --> 00:05:41,000
+Exacte.
+
+70
+00:05:41,000 --> 00:05:43,200
+Ens estem acostant a la meitat-meitat, no?
+
+71
+00:05:43,200 --> 00:05:48,000
+És veritat que la meitat de la població no són homes que tenen sexe amb homes, però déu-n'hi-do, eh?
+
+72
+00:05:48,200 --> 00:05:55,200
+Sí, sí sí. El problema és que hi ha un tant per cent de la població que desconeix el seu estat serològic.
+
+73
+00:05:55,200 --> 00:06:01,590
+En el món es calcula que és un 15% de les persones infectades que desconeixen aquest estat de seropositivitat.
+
+74
+00:06:01,590 --> 00:06:05,300
+A Espanya es calcula que és un 13% i a Catalunya és un 9%.
+
+75
+00:06:05,300 --> 00:06:07,340
+I a urgències, què passa a urgències?
+
+76
+00:06:07,340 --> 00:06:12,550
+Doncs a Europa es calcula que la prevalença d'infecció per VIH oculta,
+
+77
+00:06:12,550 --> 00:06:20,120
+és a dir, gent que ve a urgències i que no sap que té el VIH, es calcula que és del 0,48% en adults, eh? 0,48, és molt.
+
+78
+00:06:20,120 --> 00:06:24,110
+L'interval de confiança d'això va des del 0,13% a l'1%.
+
+79
+00:06:24,420 --> 00:06:29,700
+I els serveis d'urgències és el lloc del sistema sanitari on la prevalença és més alta.
+
+80
+00:06:29,760 --> 00:06:34,880
+Obert 24 -7 sense haver de demanar cita, és el lloc on va a parar tothom que no va al metge de normal.
+
+81
+00:06:34,900 --> 00:06:42,360
+Sí, gent jove, gent que és sana, no van mai a l'atenció primària, a no ser que et trenquis una cama i necessitis la baixa.
+
+82
+00:06:42,360 --> 00:06:45,380
+I llavors descobreixes que és el teu metge perquè fins llavors no ho sabies.
+
+83
+00:06:45,380 --> 00:06:48,000
+Sí, sí, sí, sí. Com ho sabies que no ho sé?
+
+84
+00:06:48,620 --> 00:06:54,300
+Aquesta gent mai va a l'atenció primària i l'únic recurs assistencial que fan servir és urgències.
+
+85
+00:06:54,320 --> 00:06:59,500
+Perquè quan els passa alguna cosa, tenen febre, tenen no sé quin problema, doncs ens venen a veure nosaltres.
+
+86
+00:06:59,720 --> 00:07:00,580
+Ho hem de tindre en compte això.
+
+87
+00:07:00,980 --> 00:07:01,360
+Què més?
+
+88
+00:07:01,940 --> 00:07:04,080
+Clar, són gent que desconeixen el seu estat.
+
+89
+00:07:04,540 --> 00:07:12,540
+La malaltia, lògicament, va progressant. Aleshores, els seus limfòcits, els limfòcits TCD4, van baixant.
+
+90
+00:07:12,920 --> 00:07:16,660
+I quan els diagnostiquem, ja els diagnostiquem en una fase que es diu diagnòstic tardà.
+
+91
+00:07:17,140 --> 00:07:21,960
+El 50% dels nous diagnòstics que fem són tardans. El 50%.
+
+92
+00:07:22,200 --> 00:07:27,720
+Tardà vol dir que té menys de 350 CD4 per microlitre.
+
+93
+00:07:28,360 --> 00:07:36,220
+A part del diagnòstic tardà, pots fer el diagnòstic de malaltia avançada. I això es defineix quan tens menys de 200 CD4 per microlitre.
+
+94
+00:07:36,460 --> 00:07:38,980
+I aquests són un 24% dels nous diagnòstics.
+
+95
+00:07:38,980 --> 00:07:40,100
+Això el 2022, eh?
+
+96
+00:07:40,280 --> 00:07:42,980
+Un 24% els fem diagnòstics amb malaltia avançada.
+
+97
+00:07:42,980 --> 00:07:44,640
+No tenen defenses ja, aquesta gent?
+
+98
+00:07:45,520 --> 00:07:49,860
+Quines característiques tenen aquests pacients que reben el diagnòstic de forma tardana?
+
+99
+00:07:50,280 --> 00:07:51,920
+Doncs el 62% de les dones.
+
+100
+00:07:51,920 --> 00:07:58,340
+Les dones, pel que sigui, no hi som tan atents. I pensem que, potser, una persona infectada per HIV,
+
+101
+00:07:58,340 --> 00:08:03,000
+per les activitats que fan o el que sigui, ha de ser un home i a l'home el diagnostiquem abans.
+
+102
+00:08:03,000 --> 00:08:07,000
+Però les dones les diagnostiquem tard, en un 62% de les vegades.
+
+103
+00:08:07,000 --> 00:08:12,650
+La gent entre 50 i 59 anys, aquesta dècada, també els diagnostiquem tard.
+
+104
+00:08:12,650 --> 00:08:18,790
+Perquè pensem que no té activitats de risc o el que sigui. I els diagnostiquem tard, bastant tard.
+
+105
+00:08:18,790 --> 00:08:21,290
+I la gent nascuda a l'estat espanyol.
+
+106
+00:08:21,290 --> 00:08:27,300
+La meva interpretació és que, potser, si et ve una persona d'algun lloc d'Àfrica, que la prevalència és molt alta,
+
+107
+00:08:27,300 --> 00:08:33,290
+tens més tendència que si ve per febre, diguis, ostres, no sé, un VIH, i li fas un test.
+
+108
+00:08:33,290 --> 00:08:36,290
+En canvi, una persona autòctona d'aquí, no hi penses tant.
+
+109
+00:08:36,290 --> 00:08:40,090
+Això és gairebé, en aquest cas concret, els prejudicis a la inversa.
+
+110
+00:08:40,290 --> 00:08:45,300
+Sí, són, no ho sé, idees que tenim fixades i que ens fan pensar malament.
+
+111
+00:08:45,300 --> 00:08:53,500
+Per a vies de transmissió, en homes i dones heterosexuals, es diagnostica més tard que les restes de vies de transmissió.
+
+112
+00:08:53,500 --> 00:08:59,500
+En canvi, en persones que s'injecten drogues o en homes que tenen relacions sexuals amb homes,
+
+113
+00:08:59,500 --> 00:09:06,500
+en aquests hi pensem més i demanem més proves i, per tant, es diagnostiquen abans, que no pas els homes i dones heterosexuals.
+
+114
+00:09:06,500 --> 00:09:14,500
+Doncs, un cop identificades aquestes característiques dels pacients en els quals, per desgràcia, fem un diagnòstic tardà,
+
+115
+00:09:14,500 --> 00:09:18,000
+parlem un moment de les conseqüències o implicacions d'aquest diagnòstic tardà.
+
+116
+00:09:18,000 --> 00:09:23,000
+Sabem que tenen un pitjor pronòstic per les complicacions i sabem que tenen una mortalitat més elevada.
+
+117
+00:09:23,000 --> 00:09:28,350
+De fet, aquelles persones amb un diagnòstic amb menys de 200 CD4
+
+118
+00:09:28,350 --> 00:09:32,000
+o que ja els diagnostiquem per alguna malaltia definitòria de SIDA,
+
+119
+00:09:32,000 --> 00:09:37,500
+sabem que tenen 5 vegades més mortalitat respecte a les persones que es diagnostiquen sense retard.
+
+120
+00:09:37,500 --> 00:09:39,500
+Per tant, pitjor pronòstic, més mortalitat.
+
+121
+00:09:39,500 --> 00:09:41,500
+És un problema també de salut pública.
+
+122
+00:09:41,500 --> 00:09:45,300
+Les persones que desconeixen que són seropositives pel VIH
+
+123
+00:09:45,300 --> 00:09:45,500
+tenen una taxa de transmissió d'aquesta malaltia a altres persones 3,5 vegades superior a les que coneixen el seu estat serològic.
+Les persones que desconeixen que són seropositives pel VIH
+
+124
+00:09:45,500 --> 00:09:52,300
+tenen una taxa de transmissió d'aquesta malaltia a altres persones 3,5 vegades superior a les que coneixen el seu estat serològic.
+
+125
+00:09:52,300 --> 00:09:55,800
+Per tant, és un problema de salut pública perquè la pandèmia s'estén.
+
+126
+00:09:55,800 --> 00:10:00,800
+I, a més a més, com a conseqüència de tot això, de les complicacions pronòstiques de la mortalitat
+
+127
+00:10:00,800 --> 00:10:06,000
+i que la pandèmia no es frena, el problema de salut pública, tot això provoca un augment de la despesa sanitària.
+
+128
+00:10:06,800 --> 00:10:10,300
+Què podríem fer per disminuir aquests diagnòstics tardans?
+
+129
+00:10:10,300 --> 00:10:14,800
+Aprofitar qualsevol oportunitat. Reduir la taxa d'oportunitats perdudes.
+
+130
+00:10:14,800 --> 00:10:21,300
+Sabem que, per exemple, a Catalunya, en els centres d'atenció primària, el diagnòstic del VIH és un diagnòstic oportunista.
+
+131
+00:10:21,300 --> 00:10:25,800
+És a dir, només quan ve una persona amb alguna malaltia indicadora, d'aquestes...
+
+132
+00:10:25,800 --> 00:10:30,800
+el <i>Ministerio de Sanidad</i> té un llistat de 30 patologies que poden estar relacionades amb el VIH.
+
+133
+00:10:30,800 --> 00:10:36,300
+Doncs si apareix alguna persona amb alguna d'aquestes patologies en el metge d'atenció primària, li demanarà un VIH.
+
+134
+00:10:36,300 --> 00:10:41,800
+O persones, per exemple, treballadores del sexe, o una persona que utilitza drogues per via injectable.
+
+135
+00:10:41,800 --> 00:10:44,800
+Doncs a aquestes persones, de forma oportunista, se'ls hi fa.
+
+136
+00:10:44,800 --> 00:10:50,000
+Però no es fa de forma sistemàtica. No hi ha un protocol de demanar una serologia per VIH
+
+137
+00:10:50,000 --> 00:10:54,000
+de forma sistemàtica en determinats grups, en determinades patologies.
+
+138
+00:10:54,000 --> 00:11:00,000
+Excepte en les gestants, en l'estudi, el diagnòstic diferencial d'una persona amb deteriorament cognitiu,
+
+139
+00:11:00,000 --> 00:11:04,300
+i amb migrants que venen de zones d'alta prevalença amb VIH
+
+140
+00:11:04,300 --> 00:11:09,500
+i que venen per primera vegada a consultes d'atenció primària i se'ls demana una primera analítica.
+
+141
+00:11:09,500 --> 00:11:12,500
+En aquestes ocasions, sí que se'ls demana un VIH.
+
+142
+00:11:12,500 --> 00:11:17,600
+Però no hi ha... A altres països, Estats Units, Anglaterra, França,
+
+143
+00:11:17,600 --> 00:11:22,200
+sí que de forma universal, per grups d'edat, de 18 als 65 anys,
+
+144
+00:11:22,200 --> 00:11:28,600
+sí que a tothom se'ls demana almenys una vegada un VIH, o persones de grups de risc cada 3 o 6 mesos.
+
+145
+00:11:28,600 --> 00:11:29,600
+Això aquí no es fa.
+
+146
+00:11:29,600 --> 00:11:33,200
+Tot i que en els estudis que s'han fet de demanar serologies de forma universal
+
+147
+00:11:33,200 --> 00:11:35,800
+ en els serveis d'urgències per fer estudis, per exemple,
+
+148
+00:11:35,800 --> 00:11:42,500
+és una prova que els pacients accepten en el 70% de les ocasions, no tenen cap problema en que els demanis un VIH.
+
+149
+00:11:42,500 --> 00:11:44,500
+Però és eficaç això? Fer-ho universal
+
+150
+00:11:44,500 --> 00:11:48,800
+Diguem eficient, perquè eficaç deu ser-ho perquè en trobes algun que no esperaves, però eficient deu ser molt poc eficient.
+
+151
+00:11:48,800 --> 00:11:49,600
+Es pot discutir. Pot discutir, d'acord.
+
+152
+00:11:49,600 --> 00:11:50,700
+Es pot discutir, d'acord.
+
+153
+00:11:50,700 --> 00:11:51,500
+I de fet, en parlarem.
+
+154
+00:11:51,500 --> 00:11:52,000
+Molt bé.
+
+155
+00:11:52,000 --> 00:11:57,000
+El 2020, per aconseguir això, disminuir les oportunitats perdudes,
+
+156
+00:11:57,000 --> 00:12:03,000
+es va fer un document de consens entre un grup d'infeccioses de la SEMES i un grup que es diu Grup d'Estudi de la Sida,
+
+157
+00:12:03,000 --> 00:12:10,000
+en el qual integraven o analitzaven aquelles 30 malalties que diu el Ministeri de Sanitat que estan relacionades amb el VIH,
+
+158
+00:12:10,000 --> 00:12:15,500
+quines d'aquestes 30 podrien determinar-se, identificar-se a urgències
+
+159
+00:12:15,500 --> 00:12:20,000
+i, per tant, demanar una serologia a aquestes persones que tenen una d'aquestes 30 malalties.
+
+160
+00:12:20,000 --> 00:12:25,000
+Doncs de totes aquestes, se'n van identificar 6 que seria aconsellable fer-ho.
+
+161
+00:12:25,000 --> 00:12:31,500
+Són les malalties de transmissió sexual, i faig un repàs per si hi ha alguna patologia que no hi pensem.
+
+162
+00:12:31,500 --> 00:12:36,300
+Una persona amb una uretritis, amb cervicitis, una malaltia inflamatòria pelviana,
+
+163
+00:12:36,300 --> 00:12:42,800
+una orquitis, epididimitis, proctitis, colitis, algun tipus d'enteritis,
+
+164
+00:12:42,800 --> 00:12:48,500
+símptomes que et puguin fer pensar que hi hagi una vulvovaginitis, berrugues anogenitals,
+
+165
+00:12:48,500 --> 00:12:55,500
+condilomes acuminats, i qualsevol úlcera genital, doncs són malalties de transmissió sexual.
+
+166
+00:12:55,500 --> 00:13:00,500
+El chemsex, és a dir, un ús intencionat de drogues,
+
+167
+00:13:00,500 --> 00:13:06,000
+normalment amb policonsum de drogues, per tenir relacions sexuals durant llargs períodes de temps.
+
+168
+00:13:06,000 --> 00:13:11,000
+Doncs tens una exposició a malalties de transmissió sexual perquè ho fas durant molt llarg temps,
+
+169
+00:13:11,000 --> 00:13:16,300
+segurament amb moltes parelles en el mateix moment, i a més a més sota un efecte de les drogues que a nivell mental,
+
+170
+00:13:16,300 --> 00:13:22,500
+doncs, potser no controles exactament si t'estàs protegint o no. Aleshores, és una de les raons per demanar un VIH.
+
+171
+00:13:22,500 --> 00:13:27,600
+Lògicament, la persona que et ve perquè ha tingut una exposició, perquè no hi ha hagut protecció,
+
+172
+00:13:27,600 --> 00:13:31,800
+o perquè s'ha punxat amb una agulla o no sé què, la profilaxi posa exposició.
+
+173
+00:13:31,800 --> 00:13:38,600
+La persona que t'explica una síndrome mononucleòsica, que et ve per febre, que té adenopaties, que té una faringitis,
+
+174
+00:13:38,600 --> 00:13:45,800
+que té miàlgies, algun tipus d'exantema, el que veuríem normalment en una mononucleosi infecciosa, en un Epstein-Barr o un citomegalovirus,
+
+175
+00:13:45,800 --> 00:13:50,300
+doncs, en aquestes persones també els hem de demanar un VIH.
+
+176
+00:13:50,300 --> 00:13:51,800
+Aquests són uns quants, eh?
+
+177
+00:13:51,800 --> 00:13:52,800
+Sí, són molts.
+
+178
+00:13:52,800 --> 00:13:59,800
+A no ser que vegis clar que és un influenza o és un coronavirus, o que puguis diagnosticar-ho a urgències,
+
+179
+00:13:59,800 --> 00:14:02,400
+si no tens una altra causa, doncs li hauries de demanar un VIH.
+
+180
+00:14:02,400 --> 00:14:09,800
+Perquè la primoinfecció pel VIH et dona un síndrome així, això, faringitis, febre, mal de coll, etc.
+
+181
+00:14:09,800 --> 00:14:11,200
+Després, la pneumònia.
+
+182
+00:14:11,200 --> 00:14:16,600
+Les pneumònies que veiem a urgències, pneumònies de pacients entre 18 i 65 anys,
+
+183
+00:14:16,600 --> 00:14:20,400
+i en una persona que no tingui una patologia, que predisposi a tenir pneumònies,
+
+184
+00:14:20,400 --> 00:14:26,400
+que no tingui bronquièctasis, que no estigui immunodeprimit per algun tractament antineoplàstic, corticoide, etc.
+
+185
+00:14:26,400 --> 00:14:30,800
+Doncs que diguis, i aquesta persona de 35 anys, per què fa aquesta pneumònia?
+
+186
+00:14:30,800 --> 00:14:35,800
+Doncs, si no hi ha cap causa especial i està dins d'aquest marge d'edat, s'hauria de demanar un VIH.
+
+187
+00:14:35,800 --> 00:14:38,600
+De fet, la majoria de pneumònies que veiem són en pacients grans, més grans de 65 anys.
+
+188
+00:14:39,800 --> 00:14:43,700
+De fet, entre 18 i 65 anys només són el 12% de les pneumònies que veiem.
+
+189
+00:14:43,700 --> 00:14:46,600
+Per tant, no seria tant número de VIHs que hem de demanar.
+
+190
+00:14:46,600 --> 00:14:50,300
+I després les persones amb un herpes zòster de menys de 65 anys,
+
+191
+00:14:50,300 --> 00:14:56,000
+i que no tinguin un factor de risc per fer un herpes, que no estiguin immunodeprimits per una altra raó, etc.
+
+192
+00:14:56,000 --> 00:15:01,400
+Doncs, si dius, per què aquesta persona de 50 anys ha fet un herpes? Doncs, demanar-li un VIH.
+
+193
+00:15:01,400 --> 00:15:06,800
+Això és el que hauríem de fer ja des de fa anys, perquè hi ha diferents programes
+
+194
+00:15:06,800 --> 00:15:11,400
+per aconseguir complir amb aquestes recomanacions d'aquest consens entre diverses societats.
+
+195
+00:15:11,400 --> 00:15:14,400
+Te'n sona alguna Albert, d'algunes d'aquestes iniciatives?
+
+196
+00:15:14,400 --> 00:15:21,800
+Home, he vist unes tasses i unes bosses que posen VIHgila, i el VI és amb l'H posada després de la I.
+
+197
+00:15:21,800 --> 00:15:23,200
+El VIH, molt bé.
+
+198
+00:15:23,200 --> 00:15:28,800
+El VIH, o sigui el VIHgila, és una iniciativa de la SOCMUE, que va començar el 2021.
+
+199
+00:15:28,800 --> 00:15:32,200
+A nivell espanyol també hi ha el Deja tu Huella, de la SEMES,
+
+200
+00:15:32,200 --> 00:15:39,500
+i que l'objectiu era això, intentar diagnosticar el màxim de persones possibles a urgències amb una VIH oculta.
+
+201
+00:15:39,500 --> 00:15:45,400
+Per fer això, necessitàvem que... ara vinc a respondre't Albert el que em preguntaves, que sigui econòmicament eficient.
+
+202
+00:15:45,400 --> 00:15:47,600
+Doncs hi ha estudis que ho han investigat,
+
+203
+00:15:47,600 --> 00:15:55,400
+i és eficient si aquest cribratge es fa en poblacions que sabem que tenen una prevalença del VIH superior al 0,1%.
+
+204
+00:15:55,400 --> 00:15:57,800
+I a això fàcilment s'hi arriba.
+
+205
+00:15:57,800 --> 00:16:03,000
+Amb els números que has dit abans, si pels que vénen a urgències estem al 0,48,
+
+206
+00:16:03,000 --> 00:16:06,300
+més, menys el que toqui, doncs ja ens hi costem bastant, això, eh?
+
+207
+00:16:06,300 --> 00:16:13,600
+Sí, hi estem a dins. Van calcular que es necessitaria una inversió de 20 milions d'euros durant 20 anys.
+
+208
+00:16:13,600 --> 00:16:19,200
+O sigui, són molts calés, però amb això evitaries 13.000 noves infeccions de VIH.
+
+209
+00:16:19,200 --> 00:16:23,700
+Amb el qual, reduiries molt la incidència i t'estalviaries,
+
+210
+00:16:23,700 --> 00:16:29,000
+alerta, tu has invertit 20 milions, però t'estalviaries 4.400 milions d'euros.
+
+211
+00:16:29,000 --> 00:16:33,500
+És a dir, per cada euro invertit t'estalviaries 224 d'euros.
+
+212
+00:16:33,500 --> 00:16:37,250
+Els que saben de finances aquesta la perseguirien, un rendiment important aquest.
+
+213
+00:16:37,250 --> 00:16:45,000
+Sí. El problema que no... Això m'ho estic imaginant jo, que com que és una inversió d'aquests 20 milions d'euros a llarg termini,
+
+214
+00:16:45,000 --> 00:16:49,500
+clar, a nivell polític veure el que ha de passar d'aquí 20 anys i fer una inversió,
+
+215
+00:16:49,500 --> 00:16:53,150
+doncs no tots els governs estan disposats a fer aquestes polítiques.
+
+216
+00:16:53,150 --> 00:16:56,800
+No em tibis de la llengua, eh? No em tibis de la llengua, estic a punt de saltar, eh?
+
+217
+00:16:57,500 --> 00:17:03,500
+Tu mateix, tu mateix, Albert. Eficient econòmicament ho és. I hi ha dades científiques que així ens ho expliquen.
+
+218
+00:17:03,500 --> 00:17:08,300
+Aleshores, per complir aquest document de consens i fer aquest cribratge, a part de ser eficient econòmicament, que està clar,
+
+219
+00:17:08,300 --> 00:17:13,700
+ ha de ser en patologies que veiem freqüentment a urgències, perquè si és una cosa que no veiem pràcticament mai,
+
+220
+00:17:13,700 --> 00:17:17,500
+mai, d'aquelles 30 malalties que hem dit, vol dir que la veiem no ens en recordarem que hem de demanar un VIH.
+
+221
+00:17:17,500 --> 00:17:24,800
+I a més a més, és igualment d'important que en el sistema on treballem cadascú de nosaltres hi hagi una estratègia pretest i posttest.
+
+222
+00:17:24,800 --> 00:17:26,800
+Una estratègia assegurada i que funcioni.
+
+223
+00:17:26,800 --> 00:17:33,600
+Tu no li pots demanar una serologia per VIH a una persona sense una sèrie de recomanacions prèvies a fer-li el test
+
+224
+00:17:33,600 --> 00:17:39,500
+i sense que el pacient se'n vagi cap a casa, perquè potser el test el tindrà al cap de dos dies, i...
+
+225
+00:17:39,500 --> 00:17:45,000
+hi ha d'haver un mecanisme intern en el servei d'urgències o a l'hospital perquè a la que surti positiu aquest diagnòstic,
+
+226
+00:17:45,000 --> 00:17:51,500
+s'avisi qui s'hagi d'avisar, als d'infeccioses, les infeccioses es posin en contacte amb aquesta persona, la citin a consultes externes,
+
+227
+00:17:51,500 --> 00:17:54,000
+se li faci tota l'analítica corresponent, se la visiti, i tal.
+
+228
+00:17:54,000 --> 00:17:59,200
+Tot això ha d'estar molt ben organitzat, perquè no pot ser que a una persona li demanis un VIH, surti positiu,
+
+229
+00:17:59,200 --> 00:18:03,500
+i la persona no se n'assabenti, o quan se n'assabenti no sàpiga què fer. Això ha d'estar organitzat.
+
+230
+00:18:04,300 --> 00:18:09,500
+Per tant, aquestes són les tres condicions, que siguin un motiu de consulta freqüent, que sigui eficient,
+
+231
+00:18:09,500 --> 00:18:15,100
+és a dir, que hi hagi la prevalença de superior a 0,1% i que hi hagi una estratègia muntada en l'hospital, en el servei d'urgències,
+
+232
+00:18:15,100 --> 00:18:19,500
+perquè els positius siguin identificats i siguin conduïts de forma correcta.
+
+233
+00:18:19,500 --> 00:18:24,800
+Aleshores, podríem fer una miqueta més, a part d'aquestes sis patologies, podríem fer una miqueta més.
+
+234
+00:18:24,800 --> 00:18:29,500
+Tu deies, Albert, si es podria fer a nivell universal a tothom, encara no.
+
+235
+00:18:29,500 --> 00:18:37,500
+Però, del gener del 2024, ja es va publicar a la revista d'<i>Enfermedades Infecciosas i Microbiologia Clínica</i>
+
+236
+00:18:37,500 --> 00:18:44,300
+un estudi per intentar ampliar una miqueta el catàleg de patologies que són indicadores de fer una serologia.
+
+237
+00:18:44,300 --> 00:18:47,500
+Aquest estudi es va generalitzar als resultats del programa VIHgila,
+
+238
+00:18:47,500 --> 00:18:52,000
+que es van analitzar les dades entre el 21 i el 23,
+
+239
+00:18:52,000 --> 00:18:59,500
+que es feien a 20 serveis d'urgències hospitalaris dels 55 que hi ha a Catalunya, és a dir, una tercera part.
+
+240
+00:18:59,500 --> 00:19:03,700
+Aquests 20 serveis d'urgències atenen el 70% de la població de Catalunya.
+
+241
+00:19:03,700 --> 00:19:04,500
+Els grans.
+
+242
+00:19:04,500 --> 00:19:07,500
+Exacte. És una mostra bastant significativa.
+
+243
+00:19:07,500 --> 00:19:13,700
+I aquesta gent van analitzar les dades i van identificar 6 noves patologies,
+
+244
+00:19:13,700 --> 00:19:18,500
+que les veiem a urgències, que tenen una prevalença superior al 0,1%
+
+245
+00:19:18,500 --> 00:19:25,200
+i aquestes 6 noves són qualsevol pacient que vingui a urgències procedent d'un país amb alta prevalença,
+
+246
+00:19:25,200 --> 00:19:34,000
+i alta prevalença vol dir més del 1%, i això són molts països, són com 40 països que tenen una prevalença d'aquestes magnituds.
+
+247
+00:19:34,000 --> 00:19:41,500
+Hi ha una pàgina web del Banc Mundial que hi ha un rànquing, el país amb més prevalença és Swazilàndia,
+
+248
+00:19:41,500 --> 00:19:47,700
+que està a Sud-àfrica, molts països africans, i hi ha alguns de Llatins, Caribenys,
+
+249
+00:19:47,700 --> 00:19:51,500
+molts d'aquests tenen prevalences de l'1 i del més de l'1%.
+
+250
+00:19:51,500 --> 00:19:55,300
+Per tant, si tu a urgències, pel motiu que sigui, veus una persona que ve d'aquests llocs,
+
+251
+00:19:55,300 --> 00:20:03,000
+assegura't que no li hagin fet ja un VIH anteriorment, perquè potser porta aquí vivint 20 anys i ja l'hi han fet, i si no l'hi han fet mai, doncs fes-li un VIH.
+
+252
+00:20:03,400 --> 00:20:10,000
+Pacient amb trombocitopènia, amb unes plaquetes baixes, i que no hi hagi un motiu evident per tindre unes plaquetes baixes,
+
+253
+00:20:10,100 --> 00:20:15,500
+qualsevol patologia o pacient que vingui amb una intoxicació per drogues d'abús, sigui per la via que sigui,
+
+254
+00:20:15,500 --> 00:20:20,400
+en aquestes persones també veiem que tenen una prevalença elevada de VIH.
+
+255
+00:20:20,400 --> 00:20:25,600
+Síndrome tòxica, una persona amb astènia, anorèxia, pèrdua de pes, d'etiologia que no la tens clara,
+
+256
+00:20:25,600 --> 00:20:32,300
+si veus que té una neoplàsia de pàncrees, ja tens la causa d'aquesta síndrome tòxica, però si no la tens clara, és un motiu de fer-ho.
+
+257
+00:20:32,300 --> 00:20:40,000
+Pacients amb alteració conductual, síndrome confusional, agitació, d'un motiu que no saps explicar-te ara a urgències,
+
+258
+00:20:40,000 --> 00:20:47,500
+no saps per què, no és un pacient diagnosticat previament per alguna patologia psiquiàtrica o ha tingut algun motiu claríssim o té una meningitis,
+
+259
+00:20:47,500 --> 00:20:52,500
+doncs si no té cap cosa d'aquestes clares que expliquin la seva conducta, doncs un VIH.
+
+260
+00:20:52,500 --> 00:20:58,500
+I una febre d'origen desconegut, que no sigui una febre de 24 hores, sense un motiu clar, una etiologia clara,
+
+261
+00:20:58,500 --> 00:21:05,500
+doncs en aquestes 6 altres patologies també han proposat els del VIHgila,
+
+262
+00:21:05,500 --> 00:21:09,700
+doncs ho proposen com a ampliar aquest document de consens.
+
+263
+00:21:09,700 --> 00:21:12,500
+Per tant, Albert, ja en tenim dotze d'aquestes patologies.
+
+264
+00:21:12,500 --> 00:21:17,000
+Amb això que acabes de dir, cada dia hauríem d'estar demanant serologies.
+
+265
+00:21:17,000 --> 00:21:21,500
+I segons quins serveis, sempre hauria d'haver-hi algú esperant resultat de serologia al servei.
+
+266
+00:21:21,500 --> 00:21:23,500
+Sí, però no cal que les demanis urgent.
+
+267
+00:21:23,500 --> 00:21:28,600
+Sé que hi ha serologies ràpides i n'hi ha que són el Western Blood i no sé què, però no les tens al mateix moment.
+
+268
+00:21:28,600 --> 00:21:35,500
+És que amb els síndromes confusionals, el consum de drogues, estrany és que no tinguis al servei algú que no tingui aquestes coses.
+
+269
+00:21:35,500 --> 00:21:38,300
+Home, no serà universal, però s'hi acostarà, eh?
+
+270
+00:21:38,300 --> 00:21:45,500
+Sí, doncs parlant d'universal, hi ha una tercera fase d'estratègies de cribratge universal a urgències.
+
+271
+00:21:45,500 --> 00:21:50,500
+No és excepcional. Per exemple, a Anglaterra ja des del 2008, no a urgències,
+
+272
+00:21:50,500 --> 00:21:55,700
+però a les persones que van al CAP per primera vegada i no els ha fet mai un VIH
+
+273
+00:21:55,700 --> 00:22:00,500
+i venen al Regne Unit de llocs on la prevalença és superior al 0,2%,
+
+274
+00:22:00,500 --> 00:22:03,000
+a atenció primària, ja se'ls fa de forma universal.
+
+275
+00:22:03,000 --> 00:22:10,300
+A França, des del 2009, a tota la població entre 15 i 70 anys han de tindre, almenys una vegada a la vida, un VIH.
+
+276
+00:22:10,300 --> 00:22:16,400
+I als Estats Units, des del 2013, el CDC ja recomana a tots els pacients entre 13 i 64 anys,
+
+277
+00:22:16,400 --> 00:22:19,500
+sense cap patologia especial, se'ls faci un VIH almenys una vegada.
+
+278
+00:22:19,500 --> 00:22:23,500
+I a partir d'aquí, doncs ja fa un parell d'anys
+
+279
+00:22:23,500 --> 00:22:29,000
+es va publicar un estudi a <i>Emergencias</i> el 2022,
+
+280
+00:22:29,000 --> 00:22:35,000
+que tenia aquest objectiu, analitzar si el cribratge universal a urgències és eficient o no és eficient.
+
+281
+00:22:35,000 --> 00:22:42,100
+Entenent com a eficient, el que veiéssim que és superior al 0,1% de la població, en la gent que els hi fem una prova universal.
+
+282
+00:22:42,300 --> 00:22:49,000
+Aleshores es va fer una revisió sistemàtica. Van buscar moltes bases de dades, a Medline, a la Cochrane, a Embase,
+
+283
+00:22:49,000 --> 00:22:54,100
+van buscar estudis publicats els últims 5 anys que haguessin fet això, haguessin analitzat
+
+284
+00:22:54,100 --> 00:23:00,500
+quina és la prevalença de VIH en un servei d'urgències quan demanem serologies de forma universal.
+
+285
+00:23:00,500 --> 00:23:05,000
+Es van identificar 273 articles que tenien aquesta finalitat.
+
+286
+00:23:05,000 --> 00:23:08,000
+Finalment, que complissin els criteris d'inclusió eren 12,
+
+287
+00:23:08,000 --> 00:23:13,000
+i entre aquests 12 es van analitzar 103.000 mostres
+
+288
+00:23:13,000 --> 00:23:17,700
+i en els quals es va obtenir 652 nous diagnòstics de VIH.
+
+289
+00:23:17,700 --> 00:23:23,700
+D'aquests 12 estudis eren d'Europa, 3 eren espanyols i em sembla que només n'hi havia un africà.
+
+290
+00:23:23,700 --> 00:23:27,700
+Quan analitzen de forma separada, fan subgrups i a nivell europeu,
+
+291
+00:23:27,700 --> 00:23:33,000
+la prevalença de VIH amb aquest cribratge universal era del 0,48.
+
+292
+00:23:33,000 --> 00:23:37,500
+Per això us he dit abans que la prevalença a nivells d'urgències és del 0,48.
+
+293
+00:23:37,500 --> 00:23:45,700
+Com que és una patologia poc freqüent, dic que 0,48 però té un interval important i va de 0,13 fins a 1,03.
+
+294
+00:23:45,700 --> 00:23:51,000
+Però fins i tot, en els pitjors dels casos, que s'aproximi a 0,13 és superior a 0,1.
+
+295
+00:23:51,000 --> 00:23:55,500
+Per tant, és econòmicament eficient fer un cribratge universal de VIH a urgències.
+
+296
+00:23:55,500 --> 00:24:00,500
+D'aquests 12 estudis, n'hi ha 3 d'espanyols, dos de Madrid i un de l'Hospital de Mataró.
+
+297
+00:24:00,500 --> 00:24:04,200
+Si algú ens està escoltant i treballa al servei d'urgències a Mataró, que ens ho expliqui, si us plau.
+
+298
+00:24:04,200 --> 00:24:08,500
+Tots ells, fent aquest cribratge universal, tenen unes prevalences
+
+299
+00:24:08,500 --> 00:24:15,000
+que almenys econòmicament justificava invertir aquest euro per després estalviar-te en 224.
+
+300
+00:24:15,000 --> 00:24:18,500
+Per tant, jo no sé cap on aniran les coses, i ja acabo, Albert.
+
+301
+00:24:18,500 --> 00:24:24,000
+Vam començar amb res, veient el que feien fora a Europa.
+
+302
+00:24:24,000 --> 00:24:28,700
+Després vam fer un document de consens amb 6 patologies per identificar-les a urgències.
+
+303
+00:24:28,700 --> 00:24:33,400
+Ara sembla, el gener del 2024, que se'n proposen 6 més.
+
+304
+00:24:33,400 --> 00:24:37,400
+Aviam si fan un document de consens i les aproven. Ja seran 12.
+
+305
+00:24:37,400 --> 00:24:40,400
+I, possiblement, al futur serà fer un...
+
+306
+00:24:40,400 --> 00:24:46,000
+En tots aquests..  En aquesta revisió sistemàtica, la majoria era universal, però per franges d'edat.
+
+307
+00:24:46,000 --> 00:24:50,600
+És a dir, el nen de 5 anys que ve perquè s'ha trencat un braç, no entrava en aquest cribratge universal.
+
+308
+00:24:50,600 --> 00:24:57,400
+Normalment... Dels diferents estudis que hi ha, normalment eren per franges d'edat. És a dir, entre els 15 anys i els 70 anys.
+
+309
+00:24:57,400 --> 00:25:03,400
+Si ho fem així, és eficient. Per tant, potser és possible que, al futur, quan veiem que aquestes 12
+
+310
+00:25:03,400 --> 00:25:08,300
+també funcionin, els polítics i els gestors i tot això s'animin a fer-ho a nivell universal,
+
+311
+00:25:08,300 --> 00:25:13,200
+perquè sabem que a urgències és del sistema sanitari on hi ha més prevalença.
+
+312
+00:25:13,200 --> 00:25:19,400
+Per tant, si volem estancar una miqueta la propagació del VIH a nivell mundial, europeu,
+
+313
+00:25:19,400 --> 00:25:23,400
+a nivell català, el lloc més eficient és a urgències. Què et sembla, Albert?
+
+314
+00:25:23,400 --> 00:25:25,400
+Jo no sé on anirem, però...
+
+315
+00:25:25,400 --> 00:25:26,700
+On anirem?
+
+316
+00:25:26,700 --> 00:25:30,900
+Saps què passa? Que aquesta és una malaltia que és fàcilment estigmatitzable i, a més a més,
+
+317
+00:25:30,900 --> 00:25:35,400
+afecta a grups que se'n van més enllà de l'home blanc heterosexual
+
+318
+00:25:35,400 --> 00:25:39,400
+de mitjana edat i, per tant, en el moment polític en què estem ara és fàcilment atacable.
+
+319
+00:25:39,400 --> 00:25:43,400
+I fer qualsevol cosa que no sigui bona pels homes blancs
+
+320
+00:25:43,400 --> 00:25:47,000
+heterosexuals de mitjana edat serà contestadíssima políticament.
+
+321
+00:25:47,000 --> 00:25:51,300
+I amb l'aversió que té l'administració a qualsevol conflicte i a qualsevol polèmica
+
+322
+00:25:51,300 --> 00:25:57,000
+doncs veig molt difícil que s'ampliï absolutament res i si s'amplia no serà gaire públic.
+
+323
+00:25:57,000 --> 00:26:01,600
+No sortirà el Departament de Sanitat dient que engeguen una campanya de cribratge massiu
+
+324
+00:26:01,600 --> 00:26:05,400
+de l'HIV perquè apareixeran els quatre galifardeus aquests
+
+325
+00:26:05,400 --> 00:26:10,300
+de les <i>ardillas</i> i altres individus dient que això és una malaltia de gais i de negres i que els bombin.
+
+326
+00:26:10,300 --> 00:26:15,400
+Res a veure amb sanitat això que acabo de dir ara, eh? Però per desgràcia a la vida ja sabem que les coses es creuen.
+
+327
+00:26:15,400 --> 00:26:19,300
+D'altra banda, pel que expliques, estem fent coses menys eficients que aquesta.
+
+328
+00:26:19,300 --> 00:26:20,400
+I tant, moltes.
+
+329
+00:26:20,400 --> 00:26:24,400
+I segurament un impacte en salut no tan gran com el que podríem obtenir si...
+
+330
+00:26:24,400 --> 00:26:28,900
+A efectes pràctics jo pensava a casa meva que amb aquestes incidències que estàs parlant,
+
+331
+00:26:28,900 --> 00:26:34,600
+nosaltres podríem estar detectant dos o tres casos l'any nous d'HIV que no sé on els donaríem sortida.
+
+332
+00:26:34,600 --> 00:26:37,900
+Hauré de preguntar com ho tenim muntat perquè diria que això no ho estem fent
+
+333
+00:26:37,900 --> 00:26:41,400
+i sobretot el que no tinc gens clar és quin circuit, sobretot pel positiu, no?
+
+334
+00:26:41,400 --> 00:26:46,600
+El que doni positiu, a veure on collons l'envies i com ho manegues perquè estàs generant mal de cap important.
+
+335
+00:26:46,600 --> 00:26:48,700
+Bé, mal de cap. Ja m'entens, vull dir.
+
+336
+00:26:48,700 --> 00:26:54,200
+Jo diria que tots els hospitals tenen consultes externes de medicina interna i normalment és on fan el seguiment.
+
+337
+00:26:54,200 --> 00:26:59,200
+Ho desconec, mira, ho preguntaré. Una altra cosa a preguntar. És interessant, eh? Parlant amb tu sempre surten coses a preguntar.
+
+338
+00:26:59,200 --> 00:27:04,700
+No sé si solucionem res, però <i>bueno</i>, almenys deixem la llavor que hi pensem més
+
+339
+00:27:04,700 --> 00:27:10,400
+i que tu, a la mínima, sospita el que se't passi pel cap que allò pugui tindre una relació
+
+340
+00:27:10,400 --> 00:27:14,200
+o que detectis una d'aquestes sis o fins i tot dotze patologies
+
+341
+00:27:14,200 --> 00:27:18,000
+No hi pensis i... Lògicament, recordo això, eh? Informar al pacient.
+
+342
+00:27:18,000 --> 00:27:23,000
+No cal un consentiment firmat escrit, però sí que consentiment verbal
+
+343
+00:27:23,000 --> 00:27:28,400
+i sobretot després deixar constància escrita en la història clínica. Això és indispensable, eh?
+
+344
+00:27:28,400 --> 00:27:32,400
+Demanar-li al pacient i deixar-ho escrit a la història clínica que li has demanat i que t'ha donat permís.
+
+345
+00:27:32,400 --> 00:27:35,900
+ Cosa que no fas quan demanes un colesterol, per exemple.
+
+346
+00:27:35,900 --> 00:27:45,400
+Sí, fem moltes coses que tenen més repercussió per la vida immediata del pacient i moltes vegades no demanem consentiment ni verbal ni escrit, eh?  Això...
+
+347
+00:27:45,400 --> 00:27:47,000
+Això és indicatiu d'alguna cosa.
+
+348
+00:27:47,000 --> 00:27:54,400
+Però vaja, jo ho veig factible de fer-ho universal perquè és fer un clic més en la petició d'analítica
+
+349
+00:27:54,400 --> 00:28:00,800
+i anar-li a explicar al malalt que quan ja li has explicat deu vegades ja aniràs més ràpid i aniràs sense problemes  i potser ja li dones un
+
+350
+00:28:00,800 --> 00:28:07,400
+ fulletó informatiu i l'hi expliques i vull dir que no és la feina que això ens hauria de provocar a urgències.
+
+351
+00:28:07,400 --> 00:28:14,400
+Trobo poques excuses per no fer-ho de forma sistemàtica a la majoria de pacients. Com a mínim aquestes 12 patologies.
+
+352
+00:28:14,400 --> 00:28:19,400
+Perquè que diagnostiquem una persona de VIH i després t'adonis que
+
+353
+00:28:19,400 --> 00:28:23,000
+ha vingut tres vegades a urgències en els últims tres anys i alguna d'aquestes vegades
+
+354
+00:28:23,000 --> 00:28:29,400
+per alguna malaltia de transmissió sexual o alguna malaltia que per nassos li haguessis hagut de demanar un VIH, hòstia, sap greu, eh?
+
+355
+00:28:29,400 --> 00:28:33,400
+Sí, sí. Oportunitat perduda i més problemes generats a posteriori.
+
+356
+00:28:33,400 --> 00:28:34,700
+Clar, clar. Ja està, Albert.
+
+357
+00:28:34,700 --> 00:28:35,200
+Molt bé.
+
+358
+00:28:35,200 --> 00:28:38,100
+D'aquí tres anys en tornem a parlar i veurem com ha canviat la situació.
+
+359
+00:28:38,100 --> 00:28:41,700
+A veure, a veure, a veure si políticament estem en millors condicions que les que veig ara.
+
+360
+00:28:41,700 --> 00:28:43,200
+Va, canviem de secció.
+
+361
+00:28:43,200 --> 00:28:44,700
+Va, anem al menys és més.
+
+362
+00:28:48,300 --> 00:28:52,700
+Mira, jo continuant amb la meva saga de guàrdies merdoses de l'últim mes.
+
+363
+00:28:52,700 --> 00:28:53,100
+Sí.
+
+364
+00:28:53,100 --> 00:29:00,800
+En un dels últims dies em vaig veure sondant un bon home de 90 molts anys per una febre d'origen desconegut. A veure si era urinària o no. Bé, una merda.
+
+365
+00:29:00,800 --> 00:29:05,600
+O sigui, un home amb experiència, no? Anaves a sondar un home amb experiència? Que era la primera vegada que el sondaven, o què?
+
+366
+00:29:05,600 --> 00:29:06,100
+I tant.
+
+367
+00:29:06,100 --> 00:29:07,100
+Hòstia.
+
+368
+00:29:07,100 --> 00:29:10,100
+I, <i>bueno</i>, un drama, un drama.
+
+369
+00:29:10,100 --> 00:29:17,000
+O sigui, a les xerrades d'orientació universitària et deien que faries una feina humanitària fent infermeria, i tant, i tant.
+
+370
+00:29:17,100 --> 00:29:17,600
+Sí.
+
+371
+00:29:17,600 --> 00:29:19,800
+I dic, això no pot ser. Això que estic fent no pot estar bé.
+
+372
+00:29:19,800 --> 00:29:21,300
+Home, què vas fer? A veure, explica'ns-ho.
+
+373
+00:29:21,300 --> 00:29:28,400
+Si et sembla.. sondar un home de 99 anys que no hi era tot, doncs, comprendràs que no em sentís especialment bé, oi?
+
+374
+00:29:28,400 --> 00:29:35,400
+I he estat buscant a veure si trobava alguna cosa del menys és més i, escolta'm, no sembla que hi hagi cap menys és més que digui que això no s'hagi de fer.
+
+375
+00:29:35,400 --> 00:29:38,100
+Alternatives per no sondar-lo via uretral, o què?
+
+376
+00:29:38,100 --> 00:29:45,000
+Doncs, tampoc. Tampoc he trobat res, amb la qual cosa no em puc sentir millor. Segueixo pensant que soc un salvatge fent coses que no toquen.
+
+377
+00:29:45,000 --> 00:29:49,500
+I, clar, no és un menys és més que pugui explicar. Però en tinc un altre. En tinc un altre.
+
+378
+00:29:49,500 --> 00:29:51,600
+Ah, anava a dir, fins aquí el menys és més?
+
+379
+00:29:51,600 --> 00:29:52,800
+No, no. En tinc un altre.
+
+380
+00:29:52,800 --> 00:29:53,300
+Val.
+
+381
+00:29:53,300 --> 00:29:59,600
+Segons com és com antic, però aquest que tinc és una recomanació del 2020.
+
+382
+00:29:59,600 --> 00:30:03,450
+Té quatre anys. No és pas tan antiga. Però el que explica sí que és relativament antic, no?
+
+383
+00:30:03,450 --> 00:30:09,900
+I té a veure amb l'ús d'oxigen suplementari, l'aportació d'oxigen en pacients sense hipoxèmia.
+
+384
+00:30:10,100 --> 00:30:14,800
+Els que més o menys  heu seguit la història dels infarts sabeu que
+
+385
+00:30:14,800 --> 00:30:22,100
+hi havia un acrònim que es deia MONA, morfina, oxigen, nitroglicerina, aspirina, que està circulant des de fa 20 anys.
+
+386
+00:30:22,100 --> 00:30:26,500
+I ara la O del MONA, doncs ara ja només és si tens saturacions per sota, no sé quan.
+
+387
+00:30:26,500 --> 00:30:30,600
+Doncs, bàsicament és el mateix, però ampliat a tot l'espectre.
+
+388
+00:30:30,600 --> 00:30:35,600
+Sabem que l'hiperòxia, l'ús d'oxigen excessiu, és lesiu pels nostres pacients.
+
+389
+00:30:35,600 --> 00:30:41,100
+Alhora també sabem que estar hipòxic, és a dir, que els teus teixits no tinguin oxigen, és un gran problema,
+
+390
+00:30:41,100 --> 00:30:46,600
+i de fet és una de les grans lluites de la medicina intensiva i de la medicina d'urgències, és aconseguir que el teixit no estigui hipòxic.
+
+391
+00:30:46,600 --> 00:30:49,800
+Doncs bé, com sempre hem d'estar entre mig, ni massa ni massa poc.
+
+392
+00:30:49,800 --> 00:30:55,600
+Si tenim gent amb saturacions per sobre d'un cert número, no té sentit posar-los oxigen.
+
+393
+00:30:55,600 --> 00:30:59,600
+I si tenim gent per sota, és quan els hi hem de posar, però no passar-nos d'aquesta saturació.
+
+394
+00:30:59,600 --> 00:31:06,100
+El que ens diu aquesta recomanació és que en persones que estan malaltes agudes,
+
+395
+00:31:06,100 --> 00:31:11,100
+no hem d'administrar oxigen si la saturació està per sobre del 92%.
+
+396
+00:31:11,100 --> 00:31:16,700
+I si afegim oxigen, la saturació objectiu no hauria de passar del 94 al 96. 95%.
+
+397
+00:31:16,700 --> 00:31:17,400
+ Ja n'hi ha prou.
+
+398
+00:31:17,400 --> 00:31:20,100
+Si poses l'oxigen i estàs al 99, baixa'l.
+
+399
+00:31:20,100 --> 00:31:25,000
+Si el pacient al qual li hem d'afegir és un MPOC, és d'aquests que és potencialment retenidor,
+
+400
+00:31:25,000 --> 00:31:31,100
+doncs ens hauríem de moure amb objectius de saturació entre 88, 92, al voltant d'aquest número.
+
+401
+00:31:31,100 --> 00:31:33,100
+Intentar no passar d'aquest 90.
+
+402
+00:31:33,100 --> 00:31:34,500
+No passar de 92, val.
+
+403
+00:31:34,500 --> 00:31:39,100
+Això aplica sempre i quan no estiguem amb pacients que el seu tractament és oxigen.
+
+404
+00:31:39,100 --> 00:31:45,100
+Intoxicació per monòxid de carboni, o el pneumotòrax. Un dia podem parlar de l'oxigen amb el pneumotòrax.
+
+405
+00:31:45,100 --> 00:31:50,600
+Si tens una embòlia gasosa, si tens una cefalea amb agrupaments, una anèmia d'aquestes falciformes,
+
+406
+00:31:50,600 --> 00:31:56,600
+doncs evidentment, a aquests que l'oxigen és tractament específic per aquesta patologia, doncs s'ha de posar.
+
+407
+00:31:56,600 --> 00:32:03,600
+Aquí estem parlant de l'oxigen no com a tractament específic, sinó com adjuvant per evitar aquesta situació d'hipoxèmia que puguin tenir.
+
+408
+00:32:03,600 --> 00:32:05,600
+Sí, el maneig de l'hipoxèmia.
+
+409
+00:32:05,600 --> 00:32:07,400
+D'acord? És la recomanació.
+
+410
+00:32:07,400 --> 00:32:12,600
+No posem oxigen suplementari en gent que està amb saturacions per sobre 92,
+
+411
+00:32:12,600 --> 00:32:17,100
+ i si el posem no ens passem d'aquest 94-96%.
+
+412
+00:32:17,100 --> 00:32:22,600
+En el cas dels infarts, ja et diuen a més a més que si tens una sospita de síndrome coronari agut,
+
+413
+00:32:22,600 --> 00:32:27,600
+només comencis l'oxigen suplementari si estàs per sota del 90%, és a dir, encara més avall.
+
+414
+00:32:27,600 --> 00:32:34,600
+Això es basa evidentment en estudis, els primers van ser aquests de l'infart, saturacions per sobre 90 no hi ha cap milloria.
+
+415
+00:32:34,600 --> 00:32:37,600
+N'hi ha un parell de relativament recents, en general,
+
+416
+00:32:37,600 --> 00:32:43,400
+a la UCI, i un es va haver de parar perquè els que estaven en el que n'hi deien teràpia liberal,
+
+417
+00:32:43,400 --> 00:32:49,800
+o sigui, les dues branques, la branca d'ús restrictiu d'oxigen, és a dir, no posar-lo si no estava per sota de... vejam que ho trobi...
+
+418
+00:32:49,800 --> 00:32:55,600
+Un era el conservador, diguéssim, que era mantenir l'oxigenació entre aquest 95
+
+419
+00:32:55,600 --> 00:32:58,900
+i l'altre, que era el d'ús liberal, que era mantenir-lo una miqueta més alt.
+
+420
+00:32:58,900 --> 00:33:05,100
+Doncs van haver-lo de parar perquè l'ús liberal, que era més alt d'aquest 95%, anava en pitjor i el van parar prematurament.
+
+421
+00:33:05,100 --> 00:33:08,500
+És evident que la hiperòxia és dolenta, i amb aquests números que he dit,
+
+422
+00:33:08,500 --> 00:33:13,300
+que és aquesta recomanació, si està en més de 92 no en posis,
+
+423
+00:33:13,300 --> 00:33:18,100
+i si poses oxigen suplementari i no passis d'aquest 94-96, aquí estem bé.
+
+424
+00:33:18,100 --> 00:33:21,300
+Escolta'm, Albert, ens has explicat d'on ve aquest menys és més?
+
+425
+00:33:21,300 --> 00:33:22,600
+No ho he explicat.
+
+426
+00:33:22,600 --> 00:33:28,900
+Perquè clar, això no sé si t'ho estàs inventant, o ve d'algú, d'alguna societat que ho ha analitzat i...
+
+427
+00:33:28,900 --> 00:33:30,000
+ On ho podem trobar, això?
+
+428
+00:33:30,000 --> 00:33:33,200
+Gràcies, gràcies, per portar-me al corral com tocava.
+
+429
+00:33:33,200 --> 00:33:38,700
+És una iniciativa del <i>Choosing Wisely</i>, del <i>Things We Do For No Reason</i>, i està publicat,
+
+430
+00:33:38,700 --> 00:33:44,600
+sorprenentment, al <i>Journal of Hospital Medicine</i>. Et sona aquest? No sé si et sona aquesta revista, Xavi.
+
+431
+00:33:44,600 --> 00:33:48,900
+Sí, sí, no sé per què a cada episodi en parlem. Ens haurem de pagar aquesta gent, eh, al final.
+
+432
+00:33:48,900 --> 00:33:50,200
+Potser sí.
+
+433
+00:33:50,800 --> 00:33:56,600
+Doncs això, eh, iniciativa del <i>Things We Do For No Reason,</i> l'article el posarem en PDF, en algun lloc.
+
+434
+00:33:56,600 --> 00:34:00,000
+Es diu <i>Supplemental Oxygen for Patients Without Hypoxemia</i>.
+
+435
+00:34:00,000 --> 00:34:01,800
+De quan és això?
+
+436
+00:34:01,800 --> 00:34:04,700
+Aquesta és del 2020, però això ja fa molt temps que se sap.
+
+437
+00:34:04,700 --> 00:34:11,100
+Els primers estudis de l'ús d'oxigen en l'infart, doncs, comencen als setantes i no recordo a partir de...
+
+438
+00:34:11,100 --> 00:34:14,500
+Però el 2020, jo ho considero... 2020 és actual.
+
+439
+00:34:14,500 --> 00:34:20,700
+Sí, 2020 és actual, però l'oxigen amb l'infart de miocardi, osti, una dècada, i més.
+
+440
+00:34:20,700 --> 00:34:26,300
+ Ara m'has fet pensar que, no sé quin dia era aquesta setmana, vaig anar a buscar un codi IAM, en un centre d'atenció primària,
+
+441
+00:34:26,300 --> 00:34:33,000
+i recordo que des que vam entrar, que vam pujar l'ambulància, li vaig haver de treure l'oxigen tres vegades tranquil·lament,
+
+442
+00:34:33,000 --> 00:34:39,000
+perquè jo l'hi treia i algú l'hi tornava a posar, i al final, ja no sé si vaig agafar la mascareta i la vaig tirar,
+
+443
+00:34:39,000 --> 00:34:45,500
+ però era constant. Era... el senyor saturava, no sé, a 91, i li anaven posant oxigen i nosaltres l'anàvem traient.
+
+444
+00:34:45,500 --> 00:34:48,200
+ I així ens vam estar fins que vam aconseguir marxar.
+
+445
+00:34:48,200 --> 00:34:49,200
+La MONA ha fet molt mal.
+
+446
+00:34:49,200 --> 00:34:53,400
+No hi ha una consciència encara plena de...  que no és necessari, no?
+
+447
+00:34:53,400 --> 00:34:56,350
+La regla mnemotècnica aquesta de la MONA va servir, però ara ja no serveix.
+
+448
+00:34:56,350 --> 00:35:04,000
+De fet, és que de la MONA queda la A de l'aspirina, la M deixem-ho estar, la O ha caigut, i la N... meh!
+
+449
+00:35:04,000 --> 00:35:06,200
+Bé, mira, tot va canviant.
+
+450
+00:35:06,200 --> 00:35:09,200
+Doncs aquest és el menys d'aquest episodi.
+
+451
+00:35:09,200 --> 00:35:12,000
+ Molt bé. Què més? Què més? Aviam...
+
+452
+00:35:13,900 --> 00:35:18,200
+Mira, ara l'UrgemMot, i els nostres oients ara escoltaran una cosa.
+
+453
+00:35:18,200 --> 00:35:23,500
+No tinc aquesta... No, la part de dalt dels turmells, si agafes una línia de 45 graus,
+
+454
+00:35:23,500 --> 00:35:30,000
+o si l'escocell aquest de... O sigui, el que seria la part... La part interna...
+
+455
+00:35:30,000 --> 00:35:34,200
+Si el turmell fos el colze... La part oposada del colze. Això...
+
+456
+00:35:34,200 --> 00:35:37,200
+Això ja ho hem comentat algun cop. Sí, ho vam buscar.
+
+457
+00:35:37,200 --> 00:35:40,200
+Crec que era la part interna del colze el que vam preguntar.
+
+458
+00:35:40,200 --> 00:35:45,700
+Sí, i tenia nom i no el recordo. I és el mateix nom que té la part posterior del genoll.
+
+459
+00:35:45,700 --> 00:35:49,500
+Algú sap com es diu això? Astràgal? No. Astràgal! No, no, no.
+
+460
+00:35:49,500 --> 00:35:53,300
+No, Astràgal és un nou signe de l'horòscop. Hola, sóc Astràgal. No, no, no.
+
+461
+00:35:53,300 --> 00:35:57,500
+No té res a veure. Algú sap això com es diu? No, després ho buscarem perquè...
+
+462
+00:35:57,500 --> 00:36:03,200
+Sí que era allò que deien quan esternudis quan la Covid, aquesta paraula es feia sovint. Sí, que posa't aquesta...
+
+463
+00:36:03,200 --> 00:36:09,200
+No exactament el colze, perquè si et posa el colze davant de la boca és que hi ha hagut un problema...
+
+464
+00:36:09,200 --> 00:36:11,200
+Un tros d'àudio d'un programa de ràdio
+
+465
+00:36:12,700 --> 00:36:19,000
+que potser a algú li sonarà alguna de les paraules que surten aquí, perquè són les paraules de l'UrgemMot.
+
+466
+00:36:19,000 --> 00:36:22,000
+Moltes aquestes paraules de l'UrgemMot que han anat sortint fins ara.
+
+467
+00:36:22,000 --> 00:36:26,700
+ La sofraja. La sofraja. La sofraja. La sofraja
+
+468
+00:36:26,700 --> 00:36:31,000
+Paraula de cinquè nivell de... Això és cinquè nivell del Gran dictat.
+
+469
+00:36:31,200 --> 00:36:34,700
+La sofraja. La sofraja del braç o de la cama, clar. És la oposada al genoll.
+
+470
+00:36:34,700 --> 00:36:37,900
+La sofraja <i>power</i> que de tant en tant surt per aquí.
+
+471
+00:36:37,900 --> 00:36:43,700
+Però el turmell... Hi ha una tercera sofraja. El turmell no té plec.
+
+472
+00:36:43,700 --> 00:36:49,700
+És el taló, no? El taló, mira, un moment. El turmell no té plec.
+
+473
+00:36:49,700 --> 00:36:54,200
+Això és l'empenya. No, abans de l'empenya! Quan comença a fer-se...
+
+474
+00:36:54,200 --> 00:36:58,300
+Els que no sapigueu quin programa és, el programa de la competència de RAC1, amb els Òscars.
+
+475
+00:36:58,300 --> 00:37:05,200
+Programa humorístic, podríem dir, programa d'actualitat? Doncs això. No som els únics que fem servir sofraja.
+
+476
+00:37:05,200 --> 00:37:10,700
+Noies, eh? No, de fet, és la part del cos que tenim tots, però si se'n diu la sofraja universal. No tots.
+
+477
+00:37:11,200 --> 00:37:17,000
+Fa molta gràcia, quan estàs escoltant, caminant, corrents, o no sé què, fent esport, i es posen a parlar algú de la sofraja,
+
+478
+00:37:17,000 --> 00:37:21,600
+hòstia, pares i dius que han dit sofraja? Estan parlant de veritat de la sofraja? És molt curiós.
+
+479
+00:37:21,600 --> 00:37:24,700
+De fet ara mateix qualsevol paraula en català que no sigui senzilla.
+
+480
+00:37:24,700 --> 00:37:28,700
+Però en aquest episodi, jo sí que tinc alguna coseta de l'UrgemMot.
+
+481
+00:37:28,700 --> 00:37:34,000
+Per fi engego amb aquest llibre que ja he ensenyat unes quantes vegades, el d'Ensenya'm la Llengua de l'Antoni Beltrán.
+
+482
+00:37:34,000 --> 00:37:34,250
+Si
+
+483
+00:37:34,250 --> 00:37:38,400
+Porto amenaçant que explicaré alguna cosa. Doncs mira, potser ara em toca parlar d'aquest.
+
+484
+00:37:38,400 --> 00:37:45,200
+ Ja recordeu les vegades que us l'he explicat aquest llibre, que està distribuït com per sistemes. El que parlaré d'avui és de paraules relacionades...
+
+485
+00:37:45,200 --> 00:37:51,200
+De fet, més que paraules, tinc paraules però també tinc frases fetes relacionades amb el sistema cardiovascular.
+
+486
+00:37:51,200 --> 00:37:55,200
+A mi m'ha agradat un parell de paraules. Mira, m'ha fet molta gràcia una que anomenen el cobriment de cor.
+
+487
+00:37:55,200 --> 00:38:00,300
+No em sona d'haver-ho sentit, això que tinc avis... ara ja no els tinc, però els meus avis ja venien d'antic.
+
+488
+00:38:00,300 --> 00:38:04,300
+Que el cobriment de cor no deixa de ser un desmai, una pèrdua del coneixement...
+
+489
+00:38:04,300 --> 00:38:07,300
+ Això sí que s'ha ben perdut. Tu ho has sentit alguna vegada, això?
+
+490
+00:38:07,300 --> 00:38:09,300
+Ah, no és un infart o una síndrome coronària?
+
+491
+00:38:09,300 --> 00:38:13,300
+No, no, no, no. Defalliment, desmai, pèrdua dels sentits.
+
+492
+00:38:13,300 --> 00:38:19,600
+L'atac de cor sí que és el infart, oi? L'altre, el coragre, aquesta sí que l'he sentit alguna vegada,
+
+493
+00:38:19,600 --> 00:38:25,900
+que té poc a veure amb el cor, simplement n'hi diuen coragre perquè és aquesta sensació de malestar abdominal... estomacal més aviat, no?,
+
+494
+00:38:25,900 --> 00:38:28,300
+com que està per aquella zona. Doncs per això el coragre.
+
+495
+00:38:28,300 --> 00:38:28,600
+Sí.
+
+496
+00:38:28,600 --> 00:38:31,300
+I, escolta, una sorpresa que m'he trobat llegint el llibre
+
+497
+00:38:31,300 --> 00:38:37,300
+i que espero que algun dels nostres oients de les illes ens confirmi si això existeix o no, que són els baticors.
+
+498
+00:38:37,300 --> 00:38:38,400
+baticor?
+
+499
+00:38:38,400 --> 00:38:39,300
+Alguna idea?
+
+500
+00:38:39,300 --> 00:38:41,600
+No sé, les palpitacions?
+
+501
+00:38:41,600 --> 00:38:45,800
+Sí. Doncs mira, aquí ho diu ocasionar ensurts o esglais a algú.
+
+502
+00:38:45,800 --> 00:38:50,400
+I la frase d'exemple que posa diu no convé provocar baticors a la mare que està delicada.
+
+503
+00:38:50,600 --> 00:38:54,600
+I, evidentment, també els baticors també els pots considerar com una palpitació, com molt bé has dit.
+
+504
+00:38:54,600 --> 00:38:56,000
+No sé, no l'havia sentit mai.
+
+505
+00:38:56,000 --> 00:38:57,600
+No, jo aquest segur, no, aquest no
+
+506
+00:38:57,600 --> 00:39:05,000
+Escolta'm, m'encanten paraules d'altres dialectes, són fantàstiques. Els de les illes, companys, digueu-nos si el feu servir.
+
+507
+00:39:05,000 --> 00:39:07,000
+Si no el feu servir, feu-lo servir, que està molt guai.
+
+508
+00:39:07,000 --> 00:39:08,400
+baticor, baticor, eh?
+
+509
+00:39:08,400 --> 00:39:12,400
+I amb això de l'ús de les frases fetes, aquí l'autor, l'Antoni Beltràn,
+
+510
+00:39:12,400 --> 00:39:17,000
+té un tros de text, així que va afegint en aquest, que m'ha agradat molt. Va, us el llegeixo, diu:
+
+511
+00:39:17,000 --> 00:39:24,000
+Vivim amb l'ai al cor. Quan cal fem el cor fort, hi actuem de tot cor, encara que algunes vegades ens pot quedar el cor encongit, com en un puny.
+
+512
+00:39:24,000 --> 00:39:27,600
+És difícil en un paràgraf posar tantes vegades la paraula cor.
+
+513
+00:39:27,600 --> 00:39:28,400
+Molt guai, molt bé.
+
+514
+00:39:28,400 --> 00:39:31,000
+I unes quantes frases fetes en català.
+
+515
+00:39:31,000 --> 00:39:32,000
+Està molt bé, Albert.
+
+516
+00:39:32,000 --> 00:39:35,600
+Això de viure amb l'ai al cor també últimament ens passa sovint, oi?
+
+517
+00:39:35,600 --> 00:39:37,000
+Molt bé, m'ha agradat molt, m'ha agradat molt.
+
+518
+00:39:37,000 --> 00:39:41,900
+Va, la meva contribució a que no es perdin mots en català. I tu què tens, Xavi, per aquest episodi?
+
+519
+00:39:41,900 --> 00:39:49,000
+He aprofitat que estava repassant i preparant-me el tema del cribratge del VIH a urgències,
+
+520
+00:39:49,000 --> 00:39:54,800
+i he anat fent recull d'algunes paraules o termes en català que possiblement hagués dit malament,
+
+521
+00:39:54,800 --> 00:39:58,200
+o encara  segueixo dient malament, però bé, us les detallo.
+
+522
+00:39:58,200 --> 00:40:03,000
+Jo hagués dit consell... abans de fer una serologia, abans i després,
+
+523
+00:40:03,000 --> 00:40:08,300
+jo hagués dit que s'ha de fer un consell en el pacient, no? Doncs el terme correcte és aconsellament.
+
+524
+00:40:08,300 --> 00:40:12,500
+Aconsellament pretest i aconsellament posttest, en lloc del consell.
+
+525
+00:40:12,500 --> 00:40:14,000
+No se m'hagués acudit mai, això.
+
+526
+00:40:14,000 --> 00:40:19,500
+ Sí, és un aconsellament. En castellà ho tradueixen com assessoria, i és això, no?
+
+527
+00:40:19,500 --> 00:40:25,500
+Quan intentes ajudar, orientar, assessorar, a nivell emocional, a nivell informatiu, una persona
+
+528
+00:40:25,500 --> 00:40:31,000
+que té una situació difícil, per això, és un aconsellament, en lloc de consell.
+
+529
+00:40:31,000 --> 00:40:37,000
+Què més? Jo hagués dit <i>carga</i> viral, pacient, no?, que fas una analítica, fas uns CD4s i
+
+530
+00:40:37,000 --> 00:40:40,500
+li demanes, jo hagués dit la <i>carga</i> viral, és la càrrega viral 
+
+531
+00:40:40,500 --> 00:40:45,000
+o càrrega vírica. Les dues formes són correctes, però no és <i>carga</i>, és càrrega.
+
+532
+00:40:45,000 --> 00:40:50,500
+Entre malalties de transmissió sexual i infecció de transmissió sexual. 
+
+533
+00:40:50,500 --> 00:40:57,000
+En el TermCat te posen com a la paraula principal, la preferida del TermCat, és malaltia de transmissió sexual.
+
+534
+00:40:57,000 --> 00:41:03,500
+Com a sinònim complementari, correctament, i no hi ha cap problema, i és perfectament útil, etcètera,
+
+535
+00:41:03,500 --> 00:41:10,000
+és la infecció, infecció de transmissió sexual. Però si has d'escollir una o l'altra, i t'és igual, doncs, fer servir la malaltia de transmissió sexual.
+
+536
+00:41:10,000 --> 00:41:15,000
+Què més? Tant el període que va entre que t'infectes i que és detectable la malaltia, 
+
+537
+00:41:15,000 --> 00:41:21,000
+a través de serologies, per exemple, és el període de seroconversió, que també el podem dir període finestra.
+
+538
+00:41:21,000 --> 00:41:27,500
+I després hi ha el període, la primera manifestació que tu tens un cop infectes pel VIH
+
+539
+00:41:27,500 --> 00:41:35,000
+i per altres virus, tens una fase aguda d'aquesta infecció, que és el que hem explicat abans de la síndrome mononucleòsica, que és la primoinfecció.
+
+540
+00:41:35,000 --> 00:41:37,000
+El terme correcte és primoinfecció.
+
+541
+00:41:37,000 --> 00:41:44,000
+També és correcte, i registrat en el TermCat, etcètera, però és un sinònim complementari. És la fase aguda de la infecció pel VIH. 
+
+542
+00:41:44,000 --> 00:41:48,000
+Si és un text molt formal, etcètera, posa primoinfecció. 
+
+543
+00:41:48,000 --> 00:41:50,000
+És preferit pels que ja hi entenen més. 
+
+544
+00:41:50,000 --> 00:41:53,300
+I després una cosa que ja sabem tots és la...
+
+545
+00:41:53,300 --> 00:41:59,500
+quan tens una infecció sistèmica que afecta de forma important el teu organisme, tens una sèpsia.
+
+546
+00:41:59,500 --> 00:42:04,400
+No tens una <i>sèpsis</i>. <i>Sèpsis</i> és en castellà. A casa nostra tenim una sèpsia. 
+
+547
+00:42:04,400 --> 00:42:09,500
+I ja està, Albert, això és relacionat una miqueta amb el món de les infeccioses i del món del VIH.
+
+548
+00:42:09,500 --> 00:42:11,500
+Molt bé. La sèpsia.
+
+549
+00:42:11,500 --> 00:42:12,500
+El codi sèpsia. 
+
+550
+00:42:12,500 --> 00:42:13,500
+Sí senyor.
+
+551
+00:42:13,500 --> 00:42:17,000
+N'hem de parlar també algun altre dia de tot això. Sempre ens surten coses.
+
+552
+00:42:17,000 --> 00:42:21,600
+Segur que hi ha algú que ens està escoltant que és el coordinador, el representant
+
+553
+00:42:21,600 --> 00:42:24,500
+o el responsable del codi sèpsia del seu servei d'urgències, 
+
+554
+00:42:24,500 --> 00:42:30,000
+doncs que ens enviï un whatsapp, un tweet o el que sigui i el convidem que ens ho expliqui.
+
+555
+00:42:30,000 --> 00:42:32,400
+ Si no n'hem parlat encara de la sèpsia és per culpa seva. 
+
+556
+00:42:32,400 --> 00:42:33,000
+Exacte.
+
+557
+00:42:33,000 --> 00:42:35,500
+Vinga va, doncs ara toquen les recomanacions.
+
+558
+00:42:37,000 --> 00:42:41,000
+Toquen recomanacions. Tens tu alguna cosa? 
+
+559
+00:42:41,000 --> 00:42:47,500
+Sí, tinc una cosa i estic content perquè... no sé massa bé com hi vaig arribar... Bé sí, sí que me'n recordo quan vaig arribar al <i>pajaro</i> aquest.
+
+560
+00:42:47,500 --> 00:42:53,000
+I... Ostres, he après coses. Només et diré que el seu canal de YouTube me l'he menjat tot. 
+
+561
+00:42:53,000 --> 00:42:59,600
+Mira, és un individu americà de nom desconegut que es fa dir <i>The Vascular Guy</i>
+
+562
+00:42:59,600 --> 00:43:02,100
+el tio de les vies, ho podríem traduir aquí. 
+
+563
+00:43:02,100 --> 00:43:07,100
+Vaig arribar-hi a través del pòdcast de l'Emcrit, que n'hem parlat una vegada, tot i que no l'hem recomanat.
+
+564
+00:43:07,100 --> 00:43:14,100
+I és un individu que entenc que de formació inicial deu ser infermera, que tot el seu tema és de l'accés vascular.
+
+565
+00:43:14,100 --> 00:43:18,100
+Té un canal de YouTube, té un Instagram, té TikTok i no sé què més té.
+
+566
+00:43:18,100 --> 00:43:23,100
+I ja us dic, jo m'he menjat tot el seu canal de YouTube amb vídeos força interessants de l'accés vascular.
+
+567
+00:43:23,100 --> 00:43:29,600
+Des de l'accés vascular eco-guiat, com ja hem fet alguna vegada, però també doncs, vies de totes les dimensions
+
+568
+00:43:29,700 --> 00:43:35,600
+i una miqueta les cures que s'han de tenir. He pres coses, eh? I estic aplicant alguna de les coses que he vist.
+
+569
+00:43:35,600 --> 00:43:38,200
+M'ha agradat. The Vascular Guy. 
+
+570
+00:43:38,200 --> 00:43:41,600
+Molt bé, molt bé. Interessant. Li donarem un cop d'ull.
+
+571
+00:43:41,600 --> 00:43:46,600
+Explico jo el que m'he trobat que em sembla interessant? 
+
+572
+00:43:46,600 --> 00:43:48,600
+Home, i tant, sisplau. 
+
+573
+00:43:48,600 --> 00:43:52,400
+Hi ha un blog, que el tinc entre els meus blogs que de tant en tant busco, 
+
+574
+00:43:52,400 --> 00:43:57,900
+que és el blog del Biblioteca Virtual Sanitària d'Extremadura, que es diu <i>Píldoras</i>.
+
+575
+00:43:57,900 --> 00:44:04,200
+I us ho explico perquè hi havia un tema que quan el vaig veure me'l vaig guardar, perquè em va semblar interessant explicar-lo.
+
+576
+00:44:04,200 --> 00:44:11,800
+I és que vam fer una publicació que es diu <i>Actualitzación 2024 de la Lista</i> on no publicar en <i>Cíencias de la Salud</i>.
+
+577
+00:44:11,800 --> 00:44:14,100
+Com, com, com? On no publicar? 
+
+578
+00:44:14,100 --> 00:44:14,600
+Exacte. 
+
+579
+00:44:14,600 --> 00:44:15,300
+Hòstia.
+
+580
+00:44:15,300 --> 00:44:17,000
+Què, què, què passa? 
+
+581
+00:44:17,000 --> 00:44:21,100
+Això em sona a titular <i>clickbait</i>, no? <i>Los diez mejores</i> no sé què.
+
+582
+00:44:21,100 --> 00:44:22,400
+Sí. 
+
+583
+00:44:22,400 --> 00:44:27,000
+Que aquí és gairebé a l'inrevés. Els 10 llocs on no has de publicar. Bona, aquesta.
+
+584
+00:44:27,000 --> 00:44:31,400
+Exacte. Hi ha moltes revistes que són fraudulentes, que es diuen revistes depredadores.
+
+585
+00:44:31,400 --> 00:44:32,050
+Hòstia, i tant. 
+
+586
+00:44:32,050 --> 00:44:37,100
+Que l'únic que fan és dir-te... d'aquestes d'open access, etcètera, que et diuen
+
+587
+00:44:37,100 --> 00:44:44,300
+mira, nosaltres som una revista que no sé què, que tenim un comitè editorial, que fem una valoració per experts, 
+
+588
+00:44:44,300 --> 00:44:48,700
+i si ens envies el teu article, no sé què, doncs te'l publicarem, etcètera, etcètera. 
+
+589
+00:44:48,700 --> 00:44:56,100
+I tu mires la revista, mires el títol i dius, hòstia, això... International, Emergency no sé què. 
+
+590
+00:44:56,100 --> 00:44:57,800
+I dius, hòstia, doncs està bé.
+
+591
+00:44:57,800 --> 00:45:03,900
+Se't pot ocórrer enviar-los el teu manuscrit de la recerca que hagis fet a urgències en aquesta revista.
+
+592
+00:45:03,900 --> 00:45:07,000
+Els hi pagaràs 1.000 euros i t'ho publicaran.
+
+593
+00:45:07,000 --> 00:45:15,000
+Però és una revista que no està indexada a cap lloc, i no en trauràs res perquè no et servirà de res, perquè no és una revista científica, és un frau.
+
+594
+00:45:15,000 --> 00:45:21,000
+Però ho pinten molt bé i t'ho disfressen molt bé i és fàcil caure-hi de quatre potes.
+
+595
+00:45:21,200 --> 00:45:27,500
+Això ho han fet els de la Biblioteca de la Universitat de València.
+
+596
+00:45:27,600 --> 00:45:29,450
+Són els que han fet aquesta recopilació.
+
+597
+00:45:29,450 --> 00:45:36,600
+És a dir, hi ha diferents webs i diferents registres a nivell mundial d'aquestes revistes fraudulentes, no?
+
+598
+00:45:36,600 --> 00:45:42,600
+Aleshores, ells han agafat aquestes diverses fonts d'informació i han fet una base de dades conjunta 
+
+599
+00:45:42,600 --> 00:45:45,600
+on hi ha un simple buscador que es diu...
+
+600
+00:45:45,600 --> 00:45:51,000
+El títol d'aquesta eina de cerca diu Potencials Fraus Editorials en Revistes de la Salut. 
+
+601
+00:45:51,000 --> 00:45:56,700
+I tens un cercador i tu li dius Hòstia, aviam si publico en aquesta revista que he trobat al Google 
+
+602
+00:45:56,700 --> 00:46:00,600
+que és d'urgències: international, emergency... No sé què. 
+
+603
+00:46:00,600 --> 00:46:06,600
+Busca-la abans en aquest buscador perquè si t'apareix en aquest buscador vol dir que és una revista fraudulenta. 
+
+604
+00:46:06,600 --> 00:46:13,400
+Primer per això i perquè després si t'apareix un article publicat aquí, doncs llegeix-te'l amb molta cura o no te'l llegeixis
+
+605
+00:46:13,400 --> 00:46:19,300
+perquè són revistes que no tenen revisions externes, no fan una revisió per experts del que la gent envia.
+
+606
+00:46:19,300 --> 00:46:23,600
+Senzillament ho publiquen en aquesta... cosa i que et cobren 1.000 euros.
+
+607
+00:46:23,600 --> 00:46:30,100
+Per tant, com a lector, si per casualitat vas a una revista d'aquestes doncs no et llegeixis l'article. 
+
+608
+00:46:30,100 --> 00:46:32,850
+I els títols d'aquestes revistes són... te'l colen, eh?
+
+609
+00:46:32,850 --> 00:46:37,200
+Vull dir hi ha una que es diu <i>Archive of Emergency Medicine and Critical Care</i>,
+
+610
+00:46:37,200 --> 00:46:44,800
+Australian Journal of Emergency Management, Emergency Medicine and Healthcare, vull dir que són noms que diries... té bona pinta aquest nom.
+
+611
+00:46:44,800 --> 00:46:51,600
+Ja està, han fet una feina d'ajudar-nos tant com per enviar coses per publicar com per llegir-les.
+
+612
+00:46:51,600 --> 00:46:57,200
+No feu cas de qualsevol cosa que estigui publicada en aquestes revistes fraudulentes.
+
+613
+00:46:57,200 --> 00:47:01,600
+Ara m'ha entrat una... dins el meu estat depressiu habitual. Ara encara m'he deprimit més,
+
+614
+00:47:01,600 --> 00:47:09,000
+perquè com a humans que som, tu has dit no llegiu aquesta revista,  o sigui està a la llista, doncs no la llegiré.
+
+615
+00:47:09,000 --> 00:47:13,000
+Però les intel·ligències artificials que estan menjant-s'ho tot
+
+616
+00:47:13,000 --> 00:47:17,800
+ara mateix, estan devorant tot el que poden llegir, això s'ho menjaran amb patates.
+
+617
+00:47:17,800 --> 00:47:19,000
+Sí, vols dir que quan...
+
+618
+00:47:19,000 --> 00:47:20,500
+Ja estem patint... 
+
+619
+00:47:20,500 --> 00:47:21,400
+Sí, ja t'entenc, ja.
+
+620
+00:47:21,400 --> 00:47:23,200
+Estem patint la tira de...
+
+621
+00:47:23,200 --> 00:47:27,000
+És que ara em ve al cap un pàjaro, no sé si parlar-ne d'aquest tio, no sé si val la pena.
+
+622
+00:47:27,000 --> 00:47:31,500
+Un pope de la infectologia de Marsella, ja n'he parlat alguna vegada,
+
+623
+00:47:31,600 --> 00:47:36,200
+que li estan retractant articles publicats a punta pala. 
+
+624
+00:47:36,200 --> 00:47:39,200
+No sé si li havien retractat més d'un centenar ara mateix.
+
+625
+00:47:39,200 --> 00:47:44,200
+Ha sortit un escàndol de, no sé si el rector d'una universitat a les Espanyes, no sé si Salamanca o no sé on,
+
+626
+00:47:44,200 --> 00:47:47,600
+que també li estan trobant merda per avorrir.
+
+627
+00:47:47,600 --> 00:47:54,800
+Quan dic merda em refereixo a publicacions que no tenen cap sentit, coses que vulneren el que és l'ètica de la investigació científica.
+
+628
+00:47:54,800 --> 00:48:02,300
+Això està passant amb humans i ara que contínuament vas a internet i només trobes pàgines que dius, hòstia...
+
+629
+00:48:02,300 --> 00:48:07,000
+M'he passat tres minuts llegint això, total, això ho ha fet una màquina, perquè total no m'està explicant res.
+
+630
+00:48:07,000 --> 00:48:09,000
+Que ho han escrit amb xatGPT i ho han ficat aquí.
+
+631
+00:48:09,000 --> 00:48:13,400
+Com que hi arribes via d'un cercador, ja ho fan perquè el cercador ho trobi.
+
+632
+00:48:13,400 --> 00:48:21,000
+Estem acumulant una quantitat de merda inútil que contribuirà només a generar dany.
+
+633
+00:48:21,000 --> 00:48:23,000
+Això de la intel·ligència artificial és un merder.
+
+634
+00:48:23,000 --> 00:48:28,300
+Mira que la fem servir i en traiem ús, però això em fa molta por, perquè aquests articles estan a més a més en accés obert, 
+
+635
+00:48:28,300 --> 00:48:31,800
+o sigui que a sobre no estan vulnerant cap copyright, que no hi ha problemes.
+
+636
+00:48:31,800 --> 00:48:39,000
+Ells poden vulnerar el copyright que els hi doni la gana. Tu no baixis un article de l'SciHub que estàs piratejant, però ells no, ells es poden baixar...
+
+637
+00:48:39,000 --> 00:48:43,000
+No deuen haver descarregat tota la base de dades de l'SciHub, vegades.
+
+638
+00:48:43,000 --> 00:48:45,000
+Bueno, ja està, ja està, prou, prou.
+
+639
+00:48:47,000 --> 00:48:53,000
+No, i a més a més, tot el que tu puguis demanar-li, no?, de consultes que puguis fer,
+
+640
+00:48:53,000 --> 00:49:00,400
+a algun xat GPT d'aquests, la informació també la treu d'aquestes revistes. Has de saber a qui està consultant.
+
+641
+00:49:00,400 --> 00:49:05,600
+I jo que a vegades em plantejo això que has escrit aquí al blog, vols dir que no podries agafar i enviar-ho a algun lloc?
+
+642
+00:49:05,600 --> 00:49:12,200
+I penso que no val la pena, perquè total és una tonteria, i això. Hòstia, veient les merdes que fot la gent, posat a fotre merdes que sigui la meva no?
+
+643
+00:49:12,200 --> 00:49:17,300
+Sí, sí. Bé, tu, per qui li pugui servir, que ho tingui en compte, que aquestes revistes existeixen
+
+644
+00:49:17,300 --> 00:49:23,600
+i que són fàcils d'identificar, perquè els de València ens han fet un portal d'identificació super fàcil i super ràpid.
+
+645
+00:49:23,600 --> 00:49:25,900
+Molt bé. Doncs escolta, ja podem anar acabant. 
+
+646
+00:49:25,900 --> 00:49:30,600
+Vam demanar al principi de temporada als oients que voldrien que parléssim, això, 
+
+647
+00:49:30,600 --> 00:49:35,800
+i va sortir, bé, vam suggerir la possibilitat de fer alguna lectura crítica d'algun article científics
+
+648
+00:49:35,800 --> 00:49:39,600
+ara que estàvem parlant d'ètica i d'investigació i això.
+
+649
+00:49:39,600 --> 00:49:43,600
+Escolta'm, posarem el grup de Telegram, que no ho hem dit al principi, però tenim un grup de Telegram,
+
+650
+00:49:43,600 --> 00:49:50,600
+posarem al grup de Telegram, busquem una data i proposem un article, i ho fem obert als oients, què et sembla?
+
+651
+00:49:50,600 --> 00:49:51,400
+Em sembla molt bé.
+
+652
+00:49:51,400 --> 00:49:57,100
+Fem un club de lectura, que fem un article, proposem i diem, guaita, data tal, farem lectura crítica d'aquest article,
+
+653
+00:49:57,100 --> 00:50:03,600
+en podem atrevir fins i tot a fer-ho com estem fent ara, ho estem gravant en vídeo, també, ja veurem si es publica en vídeo, m'imagino que no val la pena,
+
+654
+00:50:03,600 --> 00:50:09,100
+i ho provem i que se'ns apuntin, i fem una lectura crítica, doncs fem un journal club, ho provem, o què?
+
+655
+00:50:09,100 --> 00:50:12,200
+A mi em sembla bé. Cada setmana, cada mes no, eh, perquè... 
+
+656
+00:50:12,200 --> 00:50:15,100
+No, no, no, fem un i fem la prova, i després ja en parlarem.
+
+657
+00:50:15,100 --> 00:50:17,300
+Hauré de deixar una feina per fer-ne un altre.
+
+658
+00:50:17,300 --> 00:50:20,400
+Aquesta cobraries poc, eh, ja t'ho asseguro. 
+
+659
+00:50:20,400 --> 00:50:20,900
+Ja. 
+
+660
+00:50:20,900 --> 00:50:22,900
+La cobraries en negatiu.
+
+661
+00:50:22,900 --> 00:50:25,600
+Però sí, està molt guai, sí, sí, està bé, em sembla interessant. 
+
+662
+00:50:25,600 --> 00:50:31,600
+Doncs va, qui tingui interès, el grup de Telegram. Proposarem allà l'article a llegir i buscarem una data.
+
+663
+00:50:31,600 --> 00:50:32,000
+Molt bé. 
+
+664
+00:50:32,000 --> 00:50:34,300
+Doncs ja tanquem la paradeta, no? 
+
+665
+00:50:34,300 --> 00:50:36,200
+Si, home si, deixem que la gent descansi.
+
+666
+00:50:36,200 --> 00:50:38,400
+Vinga, apa, que vagi molt bé companys. 
+
+667
+00:50:38,400 --> 00:50:41,600
+Ens veiem al proper episodi. Adeu.
+

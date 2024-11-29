@@ -1,0 +1,667 @@
+# Exported by Aegisub 3.2.2
+EMPodCat, el podcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMPodCat, el 40, de la quarta temporada.
+Com sempre, l'EMPodCat el fem tant en Xavi Basurto des de l'Empordà. Bon dia, Xavi.
+Hola, bon dia. Com estàs?
+Prou bé, avui a casa. Cosa estranya, últimament. I jo mateix, l'Albert Homs, des de Cerdanya.
+@emermedpirineus a Twitter, tinc el blog que es diu emermedpirineus.
+I treballo a l'Hospital de Cerdanya i a la base SEM del territori. I tu, Xavi, on et podem trobar?
+Sí, jo estic físicament a l'Hospital de Figueres i a la 606 també de Figueres.
+I per via web estem al blog urgem.cat i a Twitter, @urgem.cat.
+Escolta'm, avui el tema el faràs tu, però jo abans et vull donar les gràcies.
+Ah, mira que bé, per què? Què ha passat?
+T'explico. Em sembla que és l'episodi 1 de l'EMPodCat,p arlàvem de l'anafilàxia. Anafilaxi, perdó.
+Sí.
+D'una entrada que havies fet tu. Doncs mira, una de les últimes guàrdies, justament un company de feina,
+es va xungar molt d'una picada de vespa a la qual era al·lèrgic. I va anar molt bé haver fet aquest episodi.
+Ahà, molt bé.
+El que hem de posar l'adrenalina ràpid, no ens ha de fer por i tal, perquè hi va haver un moment que em vaig començar a posar molt tonto, insistint molt.
+O sigui, primer corticoides i després l'adrenalina. I vaig començar a dir, voleu dir? Voleu dir?
+Si no haguéssim insistit tant, no hauria anat tan bé. Espectacular, eh? Tres minuts d'adrenalina i escolta'm, ja, de la xungada, ja ningú se'n recordava.
+Sí, sí, sí.
+L'únic que salva la vida en aquest tema és l'adrenalina. L'altre és tractament adjuvant, simptomàtic.
+Doncs l'individu aquest ens deu una cervesa.
+Que ens faci uns likes.
+Exacte.
+Un parell de guàrdies abans vaig haver de posar una I-gel també, que també em va anar bé haver-ho gravat en el seu dia.
+Però aquest és un altre tema. déu-n'hi-do les guàrdies que estem portant, vist que és temporada baixa.
+Molt bé, molt bé. Molt bé, doncs me n'alegro.
+Doncs bé, un cop fem l'agraïment, doncs vinga va, Xavi, comencem amb el tema d'avui, que potser no és molt sexy, però sí que és important.
+Home, és sexy perquè parlarem de sexe, també.
+Vaja!
+Sí, clar. A urgències també hem de parlar de sexe.
+Aleshores, sí, parlem del tema dels diagnòstics dels pacients amb VIH que veiem a urgències.
+És a dir, de detecció precoç dels pacients seropositius per VIH.
+Això és un tema que ja vam parlar a Urgem ja l'any 2018.
+Ja vam fer una entrada que es deia VIH positiu, oportunitats perdudes a urgències.
+I això era un tema perquè a Anglaterra ja s'estava movent que sempre que puguem,
+qualsevol mínima oportunitat que veiem un pacient que, pel que sigui,
+tingui algunes característiques determinades, no perdem l'oportunitat de demanar-li, fer-li un test de VIH.
+Perquè hi ha molts pacients que no saben que són seropositius pel VIH.
+Aleshores, ja vam fer una entrada explicant aquest tema de les oportunitats perdudes, del diagnòstic tardà i les seves conseqüències.
+Aleshores, aquí parlàvem de deu malalties indicadores que si les veus a urgències,
+doncs no t'ho pensis i demanes permís al pacient, un consentiment informat encara que sigui verbal, i li demanes un test de VIH.
+Això ho vam fer el 2018. I després això s'ha anat movent.
+I ara ja fa com un parell o tres d'anys que hi ha diverses iniciatives a nivell espanyol i a nivell català
+que han fet molt bona feina i sembla que s'està complint l'objectiu que marca l'OMS i totes les entitats oficials que ens demanen.
+Aleshores, faig una miqueta de resum del tema.
+Sabem que el VIH provoca aproximadament un milió de morts a l'any actualment a tot el món.
+A Catalunya tenim 33.000, 34.000 persones infectades.
+I això representa una prevalença, en adults, del 0,45%.
+Això té una incidència d'aproximadament 6 nous casos per cada 100.000 habitants i any.
+Això el 2022 a Catalunya. 6 casos nous per 100.000 habitants i any.
+Per tant, on estigueu treballant vosaltres, mireu quants habitants teniu de referència al vostre territori i calculeu.
+Això abans de la pandèmia eren de 8, 8 i mig casos nous per 100.000 habitants i any,
+I ara després de la pandèmia va baixar, però la tendència és que s'aproximi una altra vegada als nivells d'abans de la pandèmia.
+Característiques d'aquestes persones que se'ls fa un diagnòstic?
+Doncs el 83% d'aquests nous diagnòstics són homes. I l'edat mitjana amb què fem aquest diagnòstic són de 37 anys.
+déu-n'hi-do, bastant joves.
+Sí, són joves, sí, sí.
+L'edat mitjana del diagnòstic de sida es fa bastant més tard, que són els 44 anys.
+Els que ho fan, clar, els que arriben a aquest estadi.
+El 59% d'aquests nous diagnòstics són persones nascudes fora de l'estat espanyol.
+La taxa d'incidència en aquestes persones nascudes fora de l'estat espanyol és 5 vegades superior al dels que han nascut a l'estat espanyol.
+Això calculat entre el període de 2010-2020. I la via de transmissió del VIH és la sexual en el 93% dels casos.
+Suposo que en èpoques anteriors devia ser més l'ús de vies injectables de drogues, però ara és el 93% dels casos.
+Té sentit perquè ara ja transmissió per sang...
+Fins que no es torni a posar de moda alguna forma vinculada a l'ús de drogues, sembla que és el que tindrem.
+De fet, el 60% dels casos es donen homes que tenen relacions sexuals amb homes.
+Això vol dir que un 40% no.
+Exacte.
+Ens estem acostant a la meitat-meitat, no?
+És veritat que la meitat de la població no són homes que tenen sexe amb homes, però déu-n'hi-do, eh?
+Sí, sí sí. El problema és que hi ha un tant per cent de la població que desconeix el seu estat serològic.
+En el món es calcula que és un 15% de les persones infectades que desconeixen aquest estat de seropositivitat.
+A Espanya es calcula que és un 13% i a Catalunya és un 9%.
+I a urgències, què passa a urgències?
+Doncs a Europa es calcula que la prevalença d'infecció per VIH oculta,
+és a dir, gent que ve a urgències i que no sap que té el VIH, es calcula que és del 0,48% en adults, eh? 0,48, és molt.
+L'interval de confiança d'això va des del 0,13% a l'1%.
+I els serveis d'urgències és el lloc del sistema sanitari on la prevalença és més alta.
+Obert 24 -7 sense haver de demanar cita, és el lloc on va a parar tothom que no va al metge de normal.
+Sí, gent jove, gent que és sana, no van mai a l'atenció primària, a no ser que et trenquis una cama i necessitis la baixa.
+I llavors descobreixes que és el teu metge perquè fins llavors no ho sabies.
+Sí, sí, sí, sí. Com ho sabies que no ho sé?
+Aquesta gent mai va a l'atenció primària i l'únic recurs assistencial que fan servir és urgències.
+Perquè quan els passa alguna cosa, tenen febre, tenen no sé quin problema, doncs ens venen a veure nosaltres.
+Ho hem de tindre en compte això.
+Què més?
+Clar, són gent que desconeixen el seu estat.
+La malaltia, lògicament, va progressant. Aleshores, els seus limfòcits, els limfòcits TCD4, van baixant.
+I quan els diagnostiquem, ja els diagnostiquem en una fase que es diu diagnòstic tardà.
+El 50% dels nous diagnòstics que fem són tardans. El 50%.
+Tardà vol dir que té menys de 350 CD4 per microlitre.
+A part del diagnòstic tardà, pots fer el diagnòstic de malaltia avançada. I això es defineix quan tens menys de 200 CD4 per microlitre.
+I aquests són un 24% dels nous diagnòstics.
+Això el 2022, eh?
+Un 24% els fem diagnòstics amb malaltia avançada.
+No tenen defenses ja, aquesta gent?
+Quines característiques tenen aquests pacients que reben el diagnòstic de forma tardana?
+Doncs el 62% de les dones.
+Les dones, pel que sigui, no hi som tan atents. I pensem que, potser, una persona infectada per HIV,
+per les activitats que fan o el que sigui, ha de ser un home i a l'home el diagnostiquem abans.
+Però les dones les diagnostiquem tard, en un 62% de les vegades.
+La gent entre 50 i 59 anys, aquesta dècada, també els diagnostiquem tard.
+Perquè pensem que no té activitats de risc o el que sigui. I els diagnostiquem tard, bastant tard.
+I la gent nascuda a l'estat espanyol.
+La meva interpretació és que, potser, si et ve una persona d'algun lloc d'Àfrica, que la prevalència és molt alta,
+tens més tendència que si ve per febre, diguis, ostres, no sé, un VIH, i li fas un test.
+En canvi, una persona autòctona d'aquí, no hi penses tant.
+Això és gairebé, en aquest cas concret, els prejudicis a la inversa.
+Sí, són, no ho sé, idees que tenim fixades i que ens fan pensar malament.
+Per a vies de transmissió, en homes i dones heterosexuals, es diagnostica més tard que les restes de vies de transmissió.
+En canvi, en persones que s'injecten drogues o en homes que tenen relacions sexuals amb homes,
+en aquests hi pensem més i demanem més proves i, per tant, es diagnostiquen abans, que no pas els homes i dones heterosexuals.
+Doncs, un cop identificades aquestes característiques dels pacients en els quals, per desgràcia, fem un diagnòstic tardà,
+parlem un moment de les conseqüències o implicacions d'aquest diagnòstic tardà.
+Sabem que tenen un pitjor pronòstic per les complicacions i sabem que tenen una mortalitat més elevada.
+De fet, aquelles persones amb un diagnòstic amb menys de 200 CD4
+o que ja els diagnostiquem per alguna malaltia definitòria de SIDA,
+sabem que tenen 5 vegades més mortalitat respecte a les persones que es diagnostiquen sense retard.
+Per tant, pitjor pronòstic, més mortalitat.
+És un problema també de salut pública.
+Les persones que desconeixen que són seropositives pel VIH
+tenen una taxa de transmissió d'aquesta malaltia a altres persones 3,5 vegades superior a les que coneixen el seu estat serològic.
+Per tant, és un problema de salut pública perquè la pandèmia s'estén.
+I, a més a més, com a conseqüència de tot això, de les complicacions pronòstiques de la mortalitat
+i que la pandèmia no es frena, el problema de salut pública, tot això provoca un augment de la despesa sanitària.
+Què podríem fer per disminuir aquests diagnòstics tardans?
+Aprofitar qualsevol oportunitat. Reduir la taxa d'oportunitats perdudes.
+Sabem que, per exemple, a Catalunya, en els centres d'atenció primària, el diagnòstic del VIH és un diagnòstic oportunista.
+És a dir, només quan ve una persona amb alguna malaltia indicadora, d'aquestes...
+el Ministerio de Sanidad té un llistat de 30 patologies que poden estar relacionades amb el VIH.
+Doncs si apareix alguna persona amb alguna d'aquestes patologies en el metge d'atenció primària, li demanarà un VIH.
+O persones, per exemple, treballadores del sexe, o una persona que utilitza drogues per via injectable.
+Doncs a aquestes persones, de forma oportunista, se'ls hi fa.
+Però no es fa de forma sistemàtica. No hi ha un protocol de demanar una serologia per VIH
+de forma sistemàtica en determinats grups, en determinades patologies.
+Excepte en les gestants, en l'estudi, el diagnòstic diferencial d'una persona amb deteriorament cognitiu,
+i amb migrants que venen de zones d'alta prevalença amb VIH
+i que venen per primera vegada a consultes d'atenció primària i se'ls demana una primera analítica.
+En aquestes ocasions, sí que se'ls demana un VIH.
+Però no hi ha... A altres països, Estats Units, Anglaterra, França,
+sí que de forma universal, per grups d'edat, de 18 als 65 anys,
+sí que a tothom se'ls demana almenys una vegada un VIH, o persones de grups de risc cada 3 o 6 mesos.
+Això aquí no es fa.
+Tot i que en els estudis que s'han fet de demanar serologies de forma universal
+ en els serveis d'urgències per fer estudis, per exemple,
+és una prova que els pacients accepten en el 70% de les ocasions, no tenen cap problema en que els demanis un VIH.
+Però és eficaç això? Fer-ho universal
+Diguem eficient, perquè eficaç deu ser-ho perquè en trobes algun que no esperaves, però eficient deu ser molt poc eficient.
+Es pot discutir. Pot discutir, d'acord.
+Es pot discutir, d'acord.
+I de fet, en parlarem.
+Molt bé.
+El 2020, per aconseguir això, disminuir les oportunitats perdudes,
+es va fer un document de consens entre un grup d'infeccioses de la SEMES i un grup que es diu Grup d'Estudi de la Sida,
+en el qual integraven o analitzaven aquelles 30 malalties que diu el Ministeri de Sanitat que estan relacionades amb el VIH,
+quines d'aquestes 30 podrien determinar-se, identificar-se a urgències
+i, per tant, demanar una serologia a aquestes persones que tenen una d'aquestes 30 malalties.
+Doncs de totes aquestes, se'n van identificar 6 que seria aconsellable fer-ho.
+Són les malalties de transmissió sexual, i faig un repàs per si hi ha alguna patologia que no hi pensem.
+Una persona amb una uretritis, amb cervicitis, una malaltia inflamatòria pelviana,
+una orquitis, epididimitis, proctitis, colitis, algun tipus d'enteritis,
+símptomes que et puguin fer pensar que hi hagi una vulvovaginitis, berrugues anogenitals,
+condilomes acuminats, i qualsevol úlcera genital, doncs són malalties de transmissió sexual.
+El chemsex, és a dir, un ús intencionat de drogues,
+normalment amb policonsum de drogues, per tenir relacions sexuals durant llargs períodes de temps.
+Doncs tens una exposició a malalties de transmissió sexual perquè ho fas durant molt llarg temps,
+segurament amb moltes parelles en el mateix moment, i a més a més sota un efecte de les drogues que a nivell mental,
+doncs, potser no controles exactament si t'estàs protegint o no. Aleshores, és una de les raons per demanar un VIH.
+Lògicament, la persona que et ve perquè ha tingut una exposició, perquè no hi ha hagut protecció,
+o perquè s'ha punxat amb una agulla o no sé què, la profilaxi posa exposició.
+La persona que t'explica una síndrome mononucleòsica, que et ve per febre, que té adenopaties, que té una faringitis,
+que té miàlgies, algun tipus d'exantema, el que veuríem normalment en una mononucleosi infecciosa, en un Epstein-Barr o un citomegalovirus,
+doncs, en aquestes persones també els hem de demanar un VIH.
+Aquests són uns quants, eh?
+Sí, són molts.
+A no ser que vegis clar que és un influenza o és un coronavirus, o que puguis diagnosticar-ho a urgències,
+si no tens una altra causa, doncs li hauries de demanar un VIH.
+Perquè la primoinfecció pel VIH et dona un síndrome així, això, faringitis, febre, mal de coll, etc.
+Després, la pneumònia.
+Les pneumònies que veiem a urgències, pneumònies de pacients entre 18 i 65 anys,
+i en una persona que no tingui una patologia, que predisposi a tenir pneumònies,
+que no tingui bronquièctasis, que no estigui immunodeprimit per algun tractament antineoplàstic, corticoide, etc.
+Doncs que diguis, i aquesta persona de 35 anys, per què fa aquesta pneumònia?
+Doncs, si no hi ha cap causa especial i està dins d'aquest marge d'edat, s'hauria de demanar un VIH.
+De fet, la majoria de pneumònies que veiem són en pacients grans, més grans de 65 anys.
+De fet, entre 18 i 65 anys només són el 12% de les pneumònies que veiem.
+Per tant, no seria tant número de VIHs que hem de demanar.
+I després les persones amb un herpes zòster de menys de 65 anys,
+i que no tinguin un factor de risc per fer un herpes, que no estiguin immunodeprimits per una altra raó, etc.
+Doncs, si dius, per què aquesta persona de 50 anys ha fet un herpes? Doncs, demanar-li un VIH.
+Això és el que hauríem de fer ja des de fa anys, perquè hi ha diferents programes
+per aconseguir complir amb aquestes recomanacions d'aquest consens entre diverses societats.
+Te'n sona alguna Albert, d'algunes d'aquestes iniciatives?
+Home, he vist unes tasses i unes bosses que posen VIHgila, i el VI és amb l'H posada després de la I.
+El VIH, molt bé.
+El VIH, o sigui el VIHgila, és una iniciativa de la SOCMUE, que va començar el 2021.
+A nivell espanyol també hi ha el Deja tu Huella, de la SEMES,
+i que l'objectiu era això, intentar diagnosticar el màxim de persones possibles a urgències amb una VIH oculta.
+Per fer això, necessitàvem que... ara vinc a respondre't Albert el que em preguntaves, que sigui econòmicament eficient.
+Doncs hi ha estudis que ho han investigat,
+i és eficient si aquest cribratge es fa en poblacions que sabem que tenen una prevalença del VIH superior al 0,1%.
+I a això fàcilment s'hi arriba.
+Amb els números que has dit abans, si pels que vénen a urgències estem al 0,48,
+més, menys el que toqui, doncs ja ens hi costem bastant, això, eh?
+Sí, hi estem a dins. Van calcular que es necessitaria una inversió de 20 milions d'euros durant 20 anys.
+O sigui, són molts calés, però amb això evitaries 13.000 noves infeccions de VIH.
+Amb el qual, reduiries molt la incidència i t'estalviaries,
+alerta, tu has invertit 20 milions, però t'estalviaries 4.400 milions d'euros.
+És a dir, per cada euro invertit t'estalviaries 224 d'euros.
+Els que saben de finances aquesta la perseguirien, un rendiment important aquest.
+Sí. El problema que no... Això m'ho estic imaginant jo, que com que és una inversió d'aquests 20 milions d'euros a llarg termini,
+clar, a nivell polític veure el que ha de passar d'aquí 20 anys i fer una inversió,
+doncs no tots els governs estan disposats a fer aquestes polítiques.
+No em tibis de la llengua, eh? No em tibis de la llengua, estic a punt de saltar, eh?
+Tu mateix, tu mateix, Albert. Eficient econòmicament ho és. I hi ha dades científiques que així ens ho expliquen.
+Aleshores, per complir aquest document de consens i fer aquest cribratge, a part de ser eficient econòmicament, que està clar,
+ ha de ser en patologies que veiem freqüentment a urgències, perquè si és una cosa que no veiem pràcticament mai,
+mai, d'aquelles 30 malalties que hem dit, vol dir que la veiem no ens en recordarem que hem de demanar un VIH.
+I a més a més, és igualment d'important que en el sistema on treballem cadascú de nosaltres hi hagi una estratègia pretest i posttest.
+Una estratègia assegurada i que funcioni.
+Tu no li pots demanar una serologia per VIH a una persona sense una sèrie de recomanacions prèvies a fer-li el test
+i sense que el pacient se'n vagi cap a casa, perquè potser el test el tindrà al cap de dos dies, i...
+hi ha d'haver un mecanisme intern en el servei d'urgències o a l'hospital perquè a la que surti positiu aquest diagnòstic,
+s'avisi qui s'hagi d'avisar, als d'infeccioses, les infeccioses es posin en contacte amb aquesta persona, la citin a consultes externes,
+se li faci tota l'analítica corresponent, se la visiti, i tal.
+Tot això ha d'estar molt ben organitzat, perquè no pot ser que a una persona li demanis un VIH, surti positiu,
+i la persona no se n'assabenti, o quan se n'assabenti no sàpiga què fer. Això ha d'estar organitzat.
+Per tant, aquestes són les tres condicions, que siguin un motiu de consulta freqüent, que sigui eficient,
+és a dir, que hi hagi la prevalença de superior a 0,1% i que hi hagi una estratègia muntada en l'hospital, en el servei d'urgències,
+perquè els positius siguin identificats i siguin conduïts de forma correcta.
+Aleshores, podríem fer una miqueta més, a part d'aquestes sis patologies, podríem fer una miqueta més.
+Tu deies, Albert, si es podria fer a nivell universal a tothom, encara no.
+Però, del gener del 2024, ja es va publicar a la revista d'Enfermedades Infecciosas i Microbiologia Clínica
+un estudi per intentar ampliar una miqueta el catàleg de patologies que són indicadores de fer una serologia.
+Aquest estudi es va generalitzar als resultats del programa VIHgila,
+que es van analitzar les dades entre el 21 i el 23,
+que es feien a 20 serveis d'urgències hospitalaris dels 55 que hi ha a Catalunya, és a dir, una tercera part.
+Aquests 20 serveis d'urgències atenen el 70% de la població de Catalunya.
+Els grans.
+Exacte. És una mostra bastant significativa.
+I aquesta gent van analitzar les dades i van identificar 6 noves patologies,
+que les veiem a urgències, que tenen una prevalença superior al 0,1%
+i aquestes 6 noves són qualsevol pacient que vingui a urgències procedent d'un país amb alta prevalença,
+i alta prevalença vol dir més del 1%, i això són molts països, són com 40 països que tenen una prevalença d'aquestes magnituds.
+Hi ha una pàgina web del Banc Mundial que hi ha un rànquing, el país amb més prevalença és Swazilàndia,
+que està a Sud-àfrica, molts països africans, i hi ha alguns de Llatins, Caribenys,
+molts d'aquests tenen prevalences de l'1 i del més de l'1%.
+Per tant, si tu a urgències, pel motiu que sigui, veus una persona que ve d'aquests llocs,
+assegura't que no li hagin fet ja un VIH anteriorment, perquè potser porta aquí vivint 20 anys i ja l'hi han fet, i si no l'hi han fet mai, doncs fes-li un VIH.
+Pacient amb trombocitopènia, amb unes plaquetes baixes, i que no hi hagi un motiu evident per tindre unes plaquetes baixes,
+qualsevol patologia o pacient que vingui amb una intoxicació per drogues d'abús, sigui per la via que sigui,
+en aquestes persones també veiem que tenen una prevalença elevada de VIH.
+Síndrome tòxica, una persona amb astènia, anorèxia, pèrdua de pes, d'etiologia que no la tens clara,
+si veus que té una neoplàsia de pàncrees, ja tens la causa d'aquesta síndrome tòxica, però si no la tens clara, és un motiu de fer-ho.
+Pacients amb alteració conductual, síndrome confusional, agitació, d'un motiu que no saps explicar-te ara a urgències,
+no saps per què, no és un pacient diagnosticat previament per alguna patologia psiquiàtrica o ha tingut algun motiu claríssim o té una meningitis,
+doncs si no té cap cosa d'aquestes clares que expliquin la seva conducta, doncs un VIH.
+I una febre d'origen desconegut, que no sigui una febre de 24 hores, sense un motiu clar, una etiologia clara,
+doncs en aquestes 6 altres patologies també han proposat els del VIHgila,
+doncs ho proposen com a ampliar aquest document de consens.
+Per tant, Albert, ja en tenim dotze d'aquestes patologies.
+Amb això que acabes de dir, cada dia hauríem d'estar demanant serologies.
+I segons quins serveis, sempre hauria d'haver-hi algú esperant resultat de serologia al servei.
+Sí, però no cal que les demanis urgent.
+Sé que hi ha serologies ràpides i n'hi ha que són el Western Blood i no sé què, però no les tens al mateix moment.
+És que amb els síndromes confusionals, el consum de drogues, estrany és que no tinguis al servei algú que no tingui aquestes coses.
+Home, no serà universal, però s'hi acostarà, eh?
+Sí, doncs parlant d'universal, hi ha una tercera fase d'estratègies de cribratge universal a urgències.
+No és excepcional. Per exemple, a Anglaterra ja des del 2008, no a urgències,
+però a les persones que van al CAP per primera vegada i no els ha fet mai un VIH
+i venen al Regne Unit de llocs on la prevalença és superior al 0,2%,
+a atenció primària, ja se'ls fa de forma universal.
+A França, des del 2009, a tota la població entre 15 i 70 anys han de tindre, almenys una vegada a la vida, un VIH.
+I als Estats Units, des del 2013, el CDC ja recomana a tots els pacients entre 13 i 64 anys,
+sense cap patologia especial, se'ls faci un VIH almenys una vegada.
+I a partir d'aquí, doncs ja fa un parell d'anys
+es va publicar un estudi a Emergencias el 2022,
+que tenia aquest objectiu, analitzar si el cribratge universal a urgències és eficient o no és eficient.
+Entenent com a eficient, el que veiéssim que és superior al 0,1% de la població, en la gent que els hi fem una prova universal.
+Aleshores es va fer una revisió sistemàtica. Van buscar moltes bases de dades, a Medline, a la Cochrane, a Embase,
+van buscar estudis publicats els últims 5 anys que haguessin fet això, haguessin analitzat
+quina és la prevalença de VIH en un servei d'urgències quan demanem serologies de forma universal.
+Es van identificar 273 articles que tenien aquesta finalitat.
+Finalment, que complissin els criteris d'inclusió eren 12,
+i entre aquests 12 es van analitzar 103.000 mostres
+i en els quals es va obtenir 652 nous diagnòstics de VIH.
+D'aquests 12 estudis eren d'Europa, 3 eren espanyols i em sembla que només n'hi havia un africà.
+Quan analitzen de forma separada, fan subgrups i a nivell europeu,
+la prevalença de VIH amb aquest cribratge universal era del 0,48.
+Per això us he dit abans que la prevalença a nivells d'urgències és del 0,48.
+Com que és una patologia poc freqüent, dic que 0,48 però té un interval important i va de 0,13 fins a 1,03.
+Però fins i tot, en els pitjors dels casos, que s'aproximi a 0,13 és superior a 0,1.
+Per tant, és econòmicament eficient fer un cribratge universal de VIH a urgències.
+D'aquests 12 estudis, n'hi ha 3 d'espanyols, dos de Madrid i un de l'Hospital de Mataró.
+Si algú ens està escoltant i treballa al servei d'urgències a Mataró, que ens ho expliqui, si us plau.
+Tots ells, fent aquest cribratge universal, tenen unes prevalences
+que almenys econòmicament justificava invertir aquest euro per després estalviar-te en 224.
+Per tant, jo no sé cap on aniran les coses, i ja acabo, Albert.
+Vam començar amb res, veient el que feien fora a Europa.
+Després vam fer un document de consens amb 6 patologies per identificar-les a urgències.
+Ara sembla, el gener del 2024, que se'n proposen 6 més.
+Aviam si fan un document de consens i les aproven. Ja seran 12.
+I, possiblement, al futur serà fer un...
+En tots aquests..  En aquesta revisió sistemàtica, la majoria era universal, però per franges d'edat.
+És a dir, el nen de 5 anys que ve perquè s'ha trencat un braç, no entrava en aquest cribratge universal.
+Normalment... Dels diferents estudis que hi ha, normalment eren per franges d'edat. És a dir, entre els 15 anys i els 70 anys.
+Si ho fem així, és eficient. Per tant, potser és possible que, al futur, quan veiem que aquestes 12
+també funcionin, els polítics i els gestors i tot això s'animin a fer-ho a nivell universal,
+perquè sabem que a urgències és del sistema sanitari on hi ha més prevalença.
+Per tant, si volem estancar una miqueta la propagació del VIH a nivell mundial, europeu,
+a nivell català, el lloc més eficient és a urgències. Què et sembla, Albert?
+Jo no sé on anirem, però...
+On anirem?
+Saps què passa? Que aquesta és una malaltia que és fàcilment estigmatitzable i, a més a més,
+afecta a grups que se'n van més enllà de l'home blanc heterosexual
+de mitjana edat i, per tant, en el moment polític en què estem ara és fàcilment atacable.
+I fer qualsevol cosa que no sigui bona pels homes blancs
+heterosexuals de mitjana edat serà contestadíssima políticament.
+I amb l'aversió que té l'administració a qualsevol conflicte i a qualsevol polèmica
+doncs veig molt difícil que s'ampliï absolutament res i si s'amplia no serà gaire públic.
+No sortirà el Departament de Sanitat dient que engeguen una campanya de cribratge massiu
+de l'HIV perquè apareixeran els quatre galifardeus aquests
+de les ardillas i altres individus dient que això és una malaltia de gais i de negres i que els bombin.
+Res a veure amb sanitat això que acabo de dir ara, eh? Però per desgràcia a la vida ja sabem que les coses es creuen.
+D'altra banda, pel que expliques, estem fent coses menys eficients que aquesta.
+I tant, moltes.
+I segurament un impacte en salut no tan gran com el que podríem obtenir si...
+A efectes pràctics jo pensava a casa meva que amb aquestes incidències que estàs parlant,
+nosaltres podríem estar detectant dos o tres casos l'any nous d'HIV que no sé on els donaríem sortida.
+Hauré de preguntar com ho tenim muntat perquè diria que això no ho estem fent
+i sobretot el que no tinc gens clar és quin circuit, sobretot pel positiu, no?
+El que doni positiu, a veure on collons l'envies i com ho manegues perquè estàs generant mal de cap important.
+Bé, mal de cap. Ja m'entens, vull dir.
+Jo diria que tots els hospitals tenen consultes externes de medicina interna i normalment és on fan el seguiment.
+Ho desconec, mira, ho preguntaré. Una altra cosa a preguntar. És interessant, eh? Parlant amb tu sempre surten coses a preguntar.
+No sé si solucionem res, però bueno, almenys deixem la llavor que hi pensem més
+i que tu, a la mínima, sospita el que se't passi pel cap que allò pugui tindre una relació
+o que detectis una d'aquestes sis o fins i tot dotze patologies
+No hi pensis i... Lògicament, recordo això, eh? Informar al pacient.
+No cal un consentiment firmat escrit, però sí que consentiment verbal
+i sobretot després deixar constància escrita en la història clínica. Això és indispensable, eh?
+Demanar-li al pacient i deixar-ho escrit a la història clínica que li has demanat i que t'ha donat permís.
+ Cosa que no fas quan demanes un colesterol, per exemple.
+Sí, fem moltes coses que tenen més repercussió per la vida immediata del pacient i moltes vegades no demanem consentiment ni verbal ni escrit, eh?  Això...
+Això és indicatiu d'alguna cosa.
+Però vaja, jo ho veig factible de fer-ho universal perquè és fer un clic més en la petició d'analítica
+i anar-li a explicar al malalt que quan ja li has explicat deu vegades ja aniràs més ràpid i aniràs sense problemes  i potser ja li dones un
+ fulletó informatiu i l'hi expliques i vull dir que no és la feina que això ens hauria de provocar a urgències.
+Trobo poques excuses per no fer-ho de forma sistemàtica a la majoria de pacients. Com a mínim aquestes 12 patologies.
+Perquè que diagnostiquem una persona de VIH i després t'adonis que
+ha vingut tres vegades a urgències en els últims tres anys i alguna d'aquestes vegades
+per alguna malaltia de transmissió sexual o alguna malaltia que per nassos li haguessis hagut de demanar un VIH, hòstia, sap greu, eh?
+Sí, sí. Oportunitat perduda i més problemes generats a posteriori.
+Clar, clar. Ja està, Albert.
+Molt bé.
+D'aquí tres anys en tornem a parlar i veurem com ha canviat la situació.
+A veure, a veure, a veure si políticament estem en millors condicions que les que veig ara.
+Va, canviem de secció.
+Va, anem al menys és més.
+Mira, jo continuant amb la meva saga de guàrdies merdoses de l'últim mes.
+Sí.
+En un dels últims dies em vaig veure sondant un bon home de 90 molts anys per una febre d'origen desconegut. A veure si era urinària o no. Bé, una merda.
+O sigui, un home amb experiència, no? Anaves a sondar un home amb experiència? Que era la primera vegada que el sondaven, o què?
+I tant.
+Hòstia.
+I, bueno, un drama, un drama.
+O sigui, a les xerrades d'orientació universitària et deien que faries una feina humanitària fent infermeria, i tant, i tant.
+Sí.
+I dic, això no pot ser. Això que estic fent no pot estar bé.
+Home, què vas fer? A veure, explica'ns-ho.
+Si et sembla.. sondar un home de 99 anys que no hi era tot, doncs, comprendràs que no em sentís especialment bé, oi?
+I he estat buscant a veure si trobava alguna cosa del menys és més i, escolta'm, no sembla que hi hagi cap menys és més que digui que això no s'hagi de fer.
+Alternatives per no sondar-lo via uretral, o què?
+Doncs, tampoc. Tampoc he trobat res, amb la qual cosa no em puc sentir millor. Segueixo pensant que soc un salvatge fent coses que no toquen.
+I, clar, no és un menys és més que pugui explicar. Però en tinc un altre. En tinc un altre.
+Ah, anava a dir, fins aquí el menys és més?
+No, no. En tinc un altre.
+Val.
+Segons com és com antic, però aquest que tinc és una recomanació del 2020.
+Té quatre anys. No és pas tan antiga. Però el que explica sí que és relativament antic, no?
+I té a veure amb l'ús d'oxigen suplementari, l'aportació d'oxigen en pacients sense hipoxèmia.
+Els que més o menys  heu seguit la història dels infarts sabeu que
+hi havia un acrònim que es deia MONA, morfina, oxigen, nitroglicerina, aspirina, que està circulant des de fa 20 anys.
+I ara la O del MONA, doncs ara ja només és si tens saturacions per sota, no sé quan.
+Doncs, bàsicament és el mateix, però ampliat a tot l'espectre.
+Sabem que l'hiperòxia, l'ús d'oxigen excessiu, és lesiu pels nostres pacients.
+Alhora també sabem que estar hipòxic, és a dir, que els teus teixits no tinguin oxigen, és un gran problema,
+i de fet és una de les grans lluites de la medicina intensiva i de la medicina d'urgències, és aconseguir que el teixit no estigui hipòxic.
+Doncs bé, com sempre hem d'estar entre mig, ni massa ni massa poc.
+Si tenim gent amb saturacions per sobre d'un cert número, no té sentit posar-los oxigen.
+I si tenim gent per sota, és quan els hi hem de posar, però no passar-nos d'aquesta saturació.
+El que ens diu aquesta recomanació és que en persones que estan malaltes agudes,
+no hem d'administrar oxigen si la saturació està per sobre del 92%.
+I si afegim oxigen, la saturació objectiu no hauria de passar del 94 al 96. 95%.
+ Ja n'hi ha prou.
+Si poses l'oxigen i estàs al 99, baixa'l.
+Si el pacient al qual li hem d'afegir és un MPOC, és d'aquests que és potencialment retenidor,
+doncs ens hauríem de moure amb objectius de saturació entre 88, 92, al voltant d'aquest número.
+Intentar no passar d'aquest 90.
+No passar de 92, val.
+Això aplica sempre i quan no estiguem amb pacients que el seu tractament és oxigen.
+Intoxicació per monòxid de carboni, o el pneumotòrax. Un dia podem parlar de l'oxigen amb el pneumotòrax.
+Si tens una embòlia gasosa, si tens una cefalea amb agrupaments, una anèmia d'aquestes falciformes,
+doncs evidentment, a aquests que l'oxigen és tractament específic per aquesta patologia, doncs s'ha de posar.
+Aquí estem parlant de l'oxigen no com a tractament específic, sinó com adjuvant per evitar aquesta situació d'hipoxèmia que puguin tenir.
+Sí, el maneig de l'hipoxèmia.
+D'acord? És la recomanació.
+No posem oxigen suplementari en gent que està amb saturacions per sobre 92,
+ i si el posem no ens passem d'aquest 94-96%.
+En el cas dels infarts, ja et diuen a més a més que si tens una sospita de síndrome coronari agut,
+només comencis l'oxigen suplementari si estàs per sota del 90%, és a dir, encara més avall.
+Això es basa evidentment en estudis, els primers van ser aquests de l'infart, saturacions per sobre 90 no hi ha cap milloria.
+N'hi ha un parell de relativament recents, en general,
+a la UCI, i un es va haver de parar perquè els que estaven en el que n'hi deien teràpia liberal,
+o sigui, les dues branques, la branca d'ús restrictiu d'oxigen, és a dir, no posar-lo si no estava per sota de... vejam que ho trobi...
+Un era el conservador, diguéssim, que era mantenir l'oxigenació entre aquest 95
+i l'altre, que era el d'ús liberal, que era mantenir-lo una miqueta més alt.
+Doncs van haver-lo de parar perquè l'ús liberal, que era més alt d'aquest 95%, anava en pitjor i el van parar prematurament.
+És evident que la hiperòxia és dolenta, i amb aquests números que he dit,
+que és aquesta recomanació, si està en més de 92 no en posis,
+i si poses oxigen suplementari i no passis d'aquest 94-96, aquí estem bé.
+Escolta'm, Albert, ens has explicat d'on ve aquest menys és més?
+No ho he explicat.
+Perquè clar, això no sé si t'ho estàs inventant, o ve d'algú, d'alguna societat que ho ha analitzat i...
+ On ho podem trobar, això?
+Gràcies, gràcies, per portar-me al corral com tocava.
+És una iniciativa del Choosing Wisely, del Things We Do For No Reason, i està publicat,
+sorprenentment, al Journal of Hospital Medicine. Et sona aquest? No sé si et sona aquesta revista, Xavi.
+Sí, sí, no sé per què a cada episodi en parlem. Ens haurem de pagar aquesta gent, eh, al final.
+Potser sí.
+Doncs això, eh, iniciativa del Things We Do For No Reason, l'article el posarem en PDF, en algun lloc.
+Es diu Supplemental Oxygen for Patients Without Hypoxemia.
+De quan és això?
+Aquesta és del 2020, però això ja fa molt temps que se sap.
+Els primers estudis de l'ús d'oxigen en l'infart, doncs, comencen als setantes i no recordo a partir de...
+Però el 2020, jo ho considero... 2020 és actual.
+Sí, 2020 és actual, però l'oxigen amb l'infart de miocardi, osti, una dècada, i més.
+ Ara m'has fet pensar que, no sé quin dia era aquesta setmana, vaig anar a buscar un codi IAM, en un centre d'atenció primària,
+i recordo que des que vam entrar, que vam pujar l'ambulància, li vaig haver de treure l'oxigen tres vegades tranquil·lament,
+perquè jo l'hi treia i algú l'hi tornava a posar, i al final, ja no sé si vaig agafar la mascareta i la vaig tirar,
+ però era constant. Era... el senyor saturava, no sé, a 91, i li anaven posant oxigen i nosaltres l'anàvem traient.
+ I així ens vam estar fins que vam aconseguir marxar.
+La MONA ha fet molt mal.
+No hi ha una consciència encara plena de...  que no és necessari, no?
+La regla mnemotècnica aquesta de la MONA va servir, però ara ja no serveix.
+De fet, és que de la MONA queda la A de l'aspirina, la M deixem-ho estar, la O ha caigut, i la N... meh!
+Bé, mira, tot va canviant.
+Doncs aquest és el menys d'aquest episodi.
+ Molt bé. Què més? Què més? Aviam...
+Mira, ara l'UrgemMot, i els nostres oients ara escoltaran una cosa.
+No tinc aquesta... No, la part de dalt dels turmells, si agafes una línia de 45 graus,
+o si l'escocell aquest de... O sigui, el que seria la part... La part interna...
+Si el turmell fos el colze... La part oposada del colze. Això...
+Això ja ho hem comentat algun cop. Sí, ho vam buscar.
+Crec que era la part interna del colze el que vam preguntar.
+Sí, i tenia nom i no el recordo. I és el mateix nom que té la part posterior del genoll.
+Algú sap com es diu això? Astràgal? No. Astràgal! No, no, no.
+No, Astràgal és un nou signe de l'horòscop. Hola, sóc Astràgal. No, no, no.
+No té res a veure. Algú sap això com es diu? No, després ho buscarem perquè...
+Sí que era allò que deien quan esternudis quan la Covid, aquesta paraula es feia sovint. Sí, que posa't aquesta...
+No exactament el colze, perquè si et posa el colze davant de la boca és que hi ha hagut un problema...
+Un tros d'àudio d'un programa de ràdio
+que potser a algú li sonarà alguna de les paraules que surten aquí, perquè són les paraules de l'UrgemMot.
+Moltes aquestes paraules de l'UrgemMot que han anat sortint fins ara.
+ La sofraja. La sofraja. La sofraja. La sofraja
+Paraula de cinquè nivell de... Això és cinquè nivell del Gran dictat.
+La sofraja. La sofraja del braç o de la cama, clar. És la oposada al genoll.
+La sofraja power que de tant en tant surt per aquí.
+Però el turmell... Hi ha una tercera sofraja. El turmell no té plec.
+És el taló, no? El taló, mira, un moment. El turmell no té plec.
+Això és l'empenya. No, abans de l'empenya! Quan comença a fer-se...
+Els que no sapigueu quin programa és, el programa de la competència de RAC1, amb els Òscars.
+Programa humorístic, podríem dir, programa d'actualitat? Doncs això. No som els únics que fem servir sofraja.
+Noies, eh? No, de fet, és la part del cos que tenim tots, però si se'n diu la sofraja universal. No tots.
+Fa molta gràcia, quan estàs escoltant, caminant, corrents, o no sé què, fent esport, i es posen a parlar algú de la sofraja,
+hòstia, pares i dius que han dit sofraja? Estan parlant de veritat de la sofraja? És molt curiós.
+De fet ara mateix qualsevol paraula en català que no sigui senzilla.
+Però en aquest episodi, jo sí que tinc alguna coseta de l'UrgemMot.
+Per fi engego amb aquest llibre que ja he ensenyat unes quantes vegades, el d'Ensenya'm la Llengua de l'Antoni Beltrán.
+Si
+Porto amenaçant que explicaré alguna cosa. Doncs mira, potser ara em toca parlar d'aquest.
+ Ja recordeu les vegades que us l'he explicat aquest llibre, que està distribuït com per sistemes. El que parlaré d'avui és de paraules relacionades...
+De fet, més que paraules, tinc paraules però també tinc frases fetes relacionades amb el sistema cardiovascular.
+A mi m'ha agradat un parell de paraules. Mira, m'ha fet molta gràcia una que anomenen el cobriment de cor.
+No em sona d'haver-ho sentit, això que tinc avis... ara ja no els tinc, però els meus avis ja venien d'antic.
+Que el cobriment de cor no deixa de ser un desmai, una pèrdua del coneixement...
+ Això sí que s'ha ben perdut. Tu ho has sentit alguna vegada, això?
+Ah, no és un infart o una síndrome coronària?
+No, no, no, no. Defalliment, desmai, pèrdua dels sentits.
+L'atac de cor sí que és el infart, oi? L'altre, el coragre, aquesta sí que l'he sentit alguna vegada,
+que té poc a veure amb el cor, simplement n'hi diuen coragre perquè és aquesta sensació de malestar abdominal... estomacal més aviat, no?,
+com que està per aquella zona. Doncs per això el coragre.
+Sí.
+I, escolta, una sorpresa que m'he trobat llegint el llibre
+i que espero que algun dels nostres oients de les illes ens confirmi si això existeix o no, que són els baticors.
+baticor?
+Alguna idea?
+No sé, les palpitacions?
+Sí. Doncs mira, aquí ho diu ocasionar ensurts o esglais a algú.
+I la frase d'exemple que posa diu no convé provocar baticors a la mare que està delicada.
+I, evidentment, també els baticors també els pots considerar com una palpitació, com molt bé has dit.
+No sé, no l'havia sentit mai.
+No, jo aquest segur, no, aquest no
+Escolta'm, m'encanten paraules d'altres dialectes, són fantàstiques. Els de les illes, companys, digueu-nos si el feu servir.
+Si no el feu servir, feu-lo servir, que està molt guai.
+baticor, baticor, eh?
+I amb això de l'ús de les frases fetes, aquí l'autor, l'Antoni Beltràn,
+té un tros de text, així que va afegint en aquest, que m'ha agradat molt. Va, us el llegeixo, diu:
+Vivim amb l'ai al cor. Quan cal fem el cor fort, hi actuem de tot cor, encara que algunes vegades ens pot quedar el cor encongit, com en un puny.
+És difícil en un paràgraf posar tantes vegades la paraula cor.
+Molt guai, molt bé.
+I unes quantes frases fetes en català.
+Està molt bé, Albert.
+Això de viure amb l'ai al cor també últimament ens passa sovint, oi?
+Molt bé, m'ha agradat molt, m'ha agradat molt.
+Va, la meva contribució a que no es perdin mots en català. I tu què tens, Xavi, per aquest episodi?
+He aprofitat que estava repassant i preparant-me el tema del cribratge del VIH a urgències,
+i he anat fent recull d'algunes paraules o termes en català que possiblement hagués dit malament,
+o encara  segueixo dient malament, però bé, us les detallo.
+Jo hagués dit consell... abans de fer una serologia, abans i després,
+jo hagués dit que s'ha de fer un consell en el pacient, no? Doncs el terme correcte és aconsellament.
+Aconsellament pretest i aconsellament posttest, en lloc del consell.
+No se m'hagués acudit mai, això.
+ Sí, és un aconsellament. En castellà ho tradueixen com assessoria, i és això, no?
+Quan intentes ajudar, orientar, assessorar, a nivell emocional, a nivell informatiu, una persona
+que té una situació difícil, per això, és un aconsellament, en lloc de consell.
+Què més? Jo hagués dit carga viral, pacient, no?, que fas una analítica, fas uns CD4s i
+li demanes, jo hagués dit la carga viral, és la càrrega viral 
+o càrrega vírica. Les dues formes són correctes, però no és carga, és càrrega.
+Entre malalties de transmissió sexual i infecció de transmissió sexual. 
+En el TermCat te posen com a la paraula principal, la preferida del TermCat, és malaltia de transmissió sexual.
+Com a sinònim complementari, correctament, i no hi ha cap problema, i és perfectament útil, etcètera,
+és la infecció, infecció de transmissió sexual. Però si has d'escollir una o l'altra, i t'és igual, doncs, fer servir la malaltia de transmissió sexual.
+Què més? Tant el període que va entre que t'infectes i que és detectable la malaltia, 
+a través de serologies, per exemple, és el període de seroconversió, que també el podem dir període finestra.
+I després hi ha el període, la primera manifestació que tu tens un cop infectes pel VIH
+i per altres virus, tens una fase aguda d'aquesta infecció, que és el que hem explicat abans de la síndrome mononucleòsica, que és la primoinfecció.
+El terme correcte és primoinfecció.
+També és correcte, i registrat en el TermCat, etcètera, però és un sinònim complementari. És la fase aguda de la infecció pel VIH. 
+Si és un text molt formal, etcètera, posa primoinfecció. 
+És preferit pels que ja hi entenen més. 
+I després una cosa que ja sabem tots és la...
+quan tens una infecció sistèmica que afecta de forma important el teu organisme, tens una sèpsia.
+No tens una sèpsis. Sèpsis és en castellà. A casa nostra tenim una sèpsia. 
+I ja està, Albert, això és relacionat una miqueta amb el món de les infeccioses i del món del VIH.
+Molt bé. La sèpsia.
+El codi sèpsia. 
+Sí senyor.
+N'hem de parlar també algun altre dia de tot això. Sempre ens surten coses.
+Segur que hi ha algú que ens està escoltant que és el coordinador, el representant
+o el responsable del codi sèpsia del seu servei d'urgències, 
+doncs que ens enviï un whatsapp, un tweet o el que sigui i el convidem que ens ho expliqui.
+ Si no n'hem parlat encara de la sèpsia és per culpa seva. 
+Exacte.
+Vinga va, doncs ara toquen les recomanacions.
+Toquen recomanacions. Tens tu alguna cosa? 
+Sí, tinc una cosa i estic content perquè... no sé massa bé com hi vaig arribar... Bé sí, sí que me'n recordo quan vaig arribar al pajaro aquest.
+I... Ostres, he après coses. Només et diré que el seu canal de YouTube me l'he menjat tot. 
+Mira, és un individu americà de nom desconegut que es fa dir The Vascular Guy
+el tio de les vies, ho podríem traduir aquí. 
+Vaig arribar-hi a través del pòdcast de l'Emcrit, que n'hem parlat una vegada, tot i que no l'hem recomanat.
+I és un individu que entenc que de formació inicial deu ser infermera, que tot el seu tema és de l'accés vascular.
+Té un canal de YouTube, té un Instagram, té TikTok i no sé què més té.
+I ja us dic, jo m'he menjat tot el seu canal de YouTube amb vídeos força interessants de l'accés vascular.
+Des de l'accés vascular eco-guiat, com ja hem fet alguna vegada, però també doncs, vies de totes les dimensions
+i una miqueta les cures que s'han de tenir. He pres coses, eh? I estic aplicant alguna de les coses que he vist.
+M'ha agradat. The Vascular Guy. 
+Molt bé, molt bé. Interessant. Li donarem un cop d'ull.
+Explico jo el que m'he trobat que em sembla interessant? 
+Home, i tant, sisplau. 
+Hi ha un blog, que el tinc entre els meus blogs que de tant en tant busco, 
+que és el blog del Biblioteca Virtual Sanitària d'Extremadura, que es diu Píldoras.
+I us ho explico perquè hi havia un tema que quan el vaig veure me'l vaig guardar, perquè em va semblar interessant explicar-lo.
+I és que vam fer una publicació que es diu Actualitzación 2024 de la Lista on no publicar en Cíencias de la Salud.
+Com, com, com? On no publicar? 
+Exacte. 
+Hòstia.
+Què, què, què passa? 
+Això em sona a titular clickbait, no? Los diez mejores no sé què.
+Sí. 
+Que aquí és gairebé a l'inrevés. Els 10 llocs on no has de publicar. Bona, aquesta.
+Exacte. Hi ha moltes revistes que són fraudulentes, que es diuen revistes depredadores.
+Hòstia, i tant. 
+Que l'únic que fan és dir-te... d'aquestes d'open access, etcètera, que et diuen
+mira, nosaltres som una revista que no sé què, que tenim un comitè editorial, que fem una valoració per experts, 
+i si ens envies el teu article, no sé què, doncs te'l publicarem, etcètera, etcètera. 
+I tu mires la revista, mires el títol i dius, hòstia, això... International, Emergency no sé què. 
+I dius, hòstia, doncs està bé.
+Se't pot ocórrer enviar-los el teu manuscrit de la recerca que hagis fet a urgències en aquesta revista.
+Els hi pagaràs 1.000 euros i t'ho publicaran.
+Però és una revista que no està indexada a cap lloc, i no en trauràs res perquè no et servirà de res, perquè no és una revista científica, és un frau.
+Però ho pinten molt bé i t'ho disfressen molt bé i és fàcil caure-hi de quatre potes.
+Això ho han fet els de la Biblioteca de la Universitat de València.
+Són els que han fet aquesta recopilació.
+És a dir, hi ha diferents webs i diferents registres a nivell mundial d'aquestes revistes fraudulentes, no?
+Aleshores, ells han agafat aquestes diverses fonts d'informació i han fet una base de dades conjunta 
+on hi ha un simple buscador que es diu...
+El títol d'aquesta eina de cerca diu Potencials Fraus Editorials en Revistes de la Salut. 
+I tens un cercador i tu li dius Hòstia, aviam si publico en aquesta revista que he trobat al Google 
+que és d'urgències: international, emergency... No sé què. 
+Busca-la abans en aquest buscador perquè si t'apareix en aquest buscador vol dir que és una revista fraudulenta. 
+Primer per això i perquè després si t'apareix un article publicat aquí, doncs llegeix-te'l amb molta cura o no te'l llegeixis
+perquè són revistes que no tenen revisions externes, no fan una revisió per experts del que la gent envia.
+Senzillament ho publiquen en aquesta... cosa i que et cobren 1.000 euros.
+Per tant, com a lector, si per casualitat vas a una revista d'aquestes doncs no et llegeixis l'article. 
+I els títols d'aquestes revistes són... te'l colen, eh?
+Vull dir hi ha una que es diu Archive of Emergency Medicine and Critical Care,
+Australian Journal of Emergency Management, Emergency Medicine and Healthcare, vull dir que són noms que diries... té bona pinta aquest nom.
+Ja està, han fet una feina d'ajudar-nos tant com per enviar coses per publicar com per llegir-les.
+No feu cas de qualsevol cosa que estigui publicada en aquestes revistes fraudulentes.
+Ara m'ha entrat una... dins el meu estat depressiu habitual. Ara encara m'he deprimit més,
+perquè com a humans que som, tu has dit no llegiu aquesta revista,  o sigui està a la llista, doncs no la llegiré.
+Però les intel·ligències artificials que estan menjant-s'ho tot
+ara mateix, estan devorant tot el que poden llegir, això s'ho menjaran amb patates.
+Sí, vols dir que quan...
+Ja estem patint... 
+Sí, ja t'entenc, ja.
+Estem patint la tira de...
+És que ara em ve al cap un pàjaro, no sé si parlar-ne d'aquest tio, no sé si val la pena.
+Un pope de la infectologia de Marsella, ja n'he parlat alguna vegada,
+que li estan retractant articles publicats a punta pala. 
+No sé si li havien retractat més d'un centenar ara mateix.
+Ha sortit un escàndol de, no sé si el rector d'una universitat a les Espanyes, no sé si Salamanca o no sé on,
+que també li estan trobant merda per avorrir.
+Quan dic merda em refereixo a publicacions que no tenen cap sentit, coses que vulneren el que és l'ètica de la investigació científica.
+Això està passant amb humans i ara que contínuament vas a internet i només trobes pàgines que dius, hòstia...
+M'he passat tres minuts llegint això, total, això ho ha fet una màquina, perquè total no m'està explicant res.
+Que ho han escrit amb xatGPT i ho han ficat aquí.
+Com que hi arribes via d'un cercador, ja ho fan perquè el cercador ho trobi.
+Estem acumulant una quantitat de merda inútil que contribuirà només a generar dany.
+Això de la intel·ligència artificial és un merder.
+Mira que la fem servir i en traiem ús, però això em fa molta por, perquè aquests articles estan a més a més en accés obert, 
+o sigui que a sobre no estan vulnerant cap copyright, que no hi ha problemes.
+Ells poden vulnerar el copyright que els hi doni la gana. Tu no baixis un article de l'SciHub que estàs piratejant, però ells no, ells es poden baixar...
+No deuen haver descarregat tota la base de dades de l'SciHub, vegades.
+Bueno, ja està, ja està, prou, prou.
+No, i a més a més, tot el que tu puguis demanar-li, no?, de consultes que puguis fer,
+a algun xat GPT d'aquests, la informació també la treu d'aquestes revistes. Has de saber a qui està consultant.
+I jo que a vegades em plantejo això que has escrit aquí al blog, vols dir que no podries agafar i enviar-ho a algun lloc?
+I penso que no val la pena, perquè total és una tonteria, i això. Hòstia, veient les merdes que fot la gent, posat a fotre merdes que sigui la meva no?
+Sí, sí. Bé, tu, per qui li pugui servir, que ho tingui en compte, que aquestes revistes existeixen
+i que són fàcils d'identificar, perquè els de València ens han fet un portal d'identificació super fàcil i super ràpid.
+Molt bé. Doncs escolta, ja podem anar acabant. 
+Vam demanar al principi de temporada als oients que voldrien que parléssim, això, 
+i va sortir, bé, vam suggerir la possibilitat de fer alguna lectura crítica d'algun article científics
+ara que estàvem parlant d'ètica i d'investigació i això.
+Escolta'm, posarem el grup de Telegram, que no ho hem dit al principi, però tenim un grup de Telegram,
+posarem al grup de Telegram, busquem una data i proposem un article, i ho fem obert als oients, què et sembla?
+Em sembla molt bé.
+Fem un club de lectura, que fem un article, proposem i diem, guaita, data tal, farem lectura crítica d'aquest article,
+en podem atrevir fins i tot a fer-ho com estem fent ara, ho estem gravant en vídeo, també, ja veurem si es publica en vídeo, m'imagino que no val la pena,
+i ho provem i que se'ns apuntin, i fem una lectura crítica, doncs fem un journal club, ho provem, o què?
+A mi em sembla bé. Cada setmana, cada mes no, eh, perquè... 
+No, no, no, fem un i fem la prova, i després ja en parlarem.
+Hauré de deixar una feina per fer-ne un altre.
+Aquesta cobraries poc, eh, ja t'ho asseguro. 
+Ja. 
+La cobraries en negatiu.
+Però sí, està molt guai, sí, sí, està bé, em sembla interessant. 
+Doncs va, qui tingui interès, el grup de Telegram. Proposarem allà l'article a llegir i buscarem una data.
+Molt bé. 
+Doncs ja tanquem la paradeta, no? 
+Si, home si, deixem que la gent descansi.
+Vinga, apa, que vagi molt bé companys. 
+Ens veiem al proper episodi. Adeu.

@@ -1,0 +1,96 @@
+1
+00:00:02,200 --> 00:00:06,400
+Menys és més, la secció de bones pràctiques de l'EMPodCat
+
+2
+00:00:07,400 --> 00:00:11,200
+El Menys és més d'aquest episodi de l'EMPodCat és una recomanació de l'Essencial,
+
+3
+00:00:11,200 --> 00:00:16,800
+una recomanació originalment del juny del 2015 però actualitzada l'octubre del 24
+
+4
+00:00:17,000 --> 00:00:22,200
+i que parla sobre els AINEs en persones amb malaltia cardiovascular, renal crònica o hepàtica.
+
+5
+00:00:22,400 --> 00:00:29,200
+Ens recorden els efectes adversos, els efectes secundaris dels AINEs, sobretot en persones d'edat avançada i polimedicades.
+
+6
+00:00:29,400 --> 00:00:33,600
+En concret, en pacients amb risc cardiovascular o que ja tenen una malaltia cardiovascular establerta,
+
+7
+00:00:33,800 --> 00:00:37,800
+ens recorden el risc dels AINEs de desencadenar una insuficiència cardíaca,
+
+8
+00:00:38,000 --> 00:00:43,200
+de desencadenar esdeveniments isquèmics i d'incrementar la pressió arterial.
+
+9
+00:00:43,400 --> 00:00:51,200
+A nivell dels pacients amb malaltia renal crònica, ens recorden que els AINEs poden empitjorar o desencadenar un fracàs renal agut,
+
+10
+00:00:51,400 --> 00:00:57,400
+especialment en pacients hipovolèmics, en pacients fràgils, en pacients d'edat avançada o polimedicats.
+
+11
+00:00:57,600 --> 00:01:01,600
+I en pacients amb filtrat glomerular de menys de 30 mil·lilitres per minut.
+
+12
+00:01:01,600 --> 00:01:05,400
+I també especialment en aquelles persones que ja prenen prèviament un diürètic,
+
+13
+00:01:05,400 --> 00:01:09,400
+un IECA o un ARA2, i nosaltres li afegim ara un AINE.
+
+14
+00:01:09,600 --> 00:01:16,600
+I en pacients amb insuficiència hepàtica greu, ens recorden que els nivells plasmàtics poden estar augmentats per la hipovolèmia,
+
+15
+00:01:16,800 --> 00:01:21,400
+el metabolisme dels AINEs també per una afectació del citocrom P450,
+
+16
+00:01:21,600 --> 00:01:25,400
+i per la inhibició de la síntesi de prostaglandines que fan els AINEs,
+
+17
+00:01:25,400 --> 00:01:30,500
+poden empitjorar la hipertensió portal i el síndrome hepatorenal en aquest tipus de pacients.
+
+18
+00:01:30,700 --> 00:01:38,500
+Ens recorden que en els últims anys, del 20 al 22, la prescripció d'AINEs ha augmentat un 25% a Catalunya,
+
+19
+00:01:38,700 --> 00:01:46,500
+i que un 4,7% dels pacients que hem esmentat, els pacients amb risc cardiovascular, amb hepatopatia i insuficiència renal crònica,
+
+20
+00:01:46,600 --> 00:01:51,300
+aquests pacients, un 4,7%, tenen una prescripció activa d'AINE.
+
+21
+00:01:51,500 --> 00:01:57,000
+La recomanació final de l'Essencial és que en pacients amb malaltia cardiovascular o renal crònica o hepàtica crònica
+
+22
+00:01:57,000 --> 00:02:03,500
+no es recomana la prescripció d'antiinflamatoris no esteroidals, perquè suposa un risc que no compensa el benefici.
+
+23
+00:02:03,700 --> 00:02:08,300
+Ens recomanen utilitzar, en aquests casos, fàrmacs alternatius, com és el paracetamol,
+
+24
+00:02:08,500 --> 00:02:15,100
+o disminuir la dosi d'AINEs al màxim, o augmentar l'interval d'administració d'aquests fàrmacs.
+
