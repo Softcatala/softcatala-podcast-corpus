@@ -1,0 +1,817 @@
+EMpodcat, el pòdcast d'urgències i emergències mèdiques en Valencià.
+Benvinguts a l'EMpodcat, que com sabeu és un espai per conversar sobre urgències i emergències sanitàries
+i, com sempre, és un espai conduït per a un equip multidisciplinari i multicèntric.
+Aquest episodi que estem presentant avui és l'episodi 41. Per un costat tindrem l'Albert Homs, àlies emermedpirineus.
+Albert, digue'ns alguna cosa teva per si hi ha algú que encara no ens ha sentit mai i que et coneguin.
+M'agrada anar a buscar bolets, no sé si ho he dit, això. I aquest any ha estat molt bo.
+Molt bé.
+Jo sóc l'Albert Homs, sóc infermer de l'Hospital de Cerdanya, l'Hospital Transfronterer.
+Tinc un lloc web que es diu emermedpirineus.cat i a les xarxes socials estic a Twitter per aquest nom
+i a mastodont.cat també per el mateix nom.
+Molt bé, Albert.
+I jo mateix sóc en Xavi Basurto, que sóc metge d'urgències a l'Hospital de Figueres
+i també a la unitat del SEM avançada que tenim a Figueres, la 606.
+I ens podeu trobar publicacions que anem fent així quan tenim temps a urgem.cat
+i a Twitter també, a la xarxa X, urgem.cat.
+I Albert, avui aquest episodi 41, si no m'equivoco, de la tercera o quarta temporada?
+Quarta, quarta.
+Quarta temporada? Fantàstic.
+En aquest episodi tenim un tema interessant que ens explicaràs tu,
+molt relacionat sobretot amb pacients traumàtics,
+molta relació amb l'extrahospitalària, però també podem aplicar a qualsevol lloc on atenem un pacient traumàtic
+i fa referència als collars cervicals.
+Al pacient traumàtic que sospites alguna cosa a nivell de la columna cervical,
+quan els hi posem el collar cervical, quan els hi traiem, si cal posar-lo sempre, si no...
+És d'això, Albert, el que vols parlar avui?
+Sí, sí. Mira, de fet, deies que al teu blog hi poses coses quan tens temps.
+Sí.
+Doncs jo ja he acabat tots els temes que tinc publicats al blog, ja els hem explicat aquí a l'Empodcat.
+Però bé, tinc fetes coses que no he publicat, per vergonya,
+unes de les quals són les traduccions de la recomanació que faré avui,
+un lloc web i pòdcast que es diu Skeptics Guide to Emergency Medicine.
+I en tinc una que justament parla d'un estudi,
+en què les infermeres de triatge retiraven el collar cervical d'aquells pacients que arribaven a urgències,
+ja sigui per ambulància o per mitjans propis,
+retiraven o posaven en funció d'uns criteris, que és el que us vull explicar avui.
+El tema que jo li poso en això és la restricció de l'ús del collar ortopèdic en el pacient traumàtic.
+Surt la paraula restricció, o sigui que això és un tema, però gairebé podria ser un Menys és Més amb esteroides.
+Justament, també us recomanaré el lloc d'on ho he tret,
+i a sobre sentireu que només paro que repetir collar i en cap moment diré collarí,
+amb la qual cosa també anem a l'UrgemMot.
+Ni collarí ni collaret?
+Ni collarí ni collaret.
+Això ho saps tu perquè ho has escrit al teu diccionari de l'UrgemMot
+i jo simplement me'n faig ressò i intento aplicar-ho tant com puc.
+Sona una miqueta estranys, però collar ortopèdic o collar cervical.
+Perquè tu creus que en posem masses d'aquests collars cervicals?
+Perquè sempre ens havien dit que qualsevol pacient traumàtic, no?
+Si ha caigut, qui te diu que no té una lesió cervical?
+Creus que en posem masses o massa pocs? O quin és el problema?
+Crec que aquest serà l'episodi més polèmic de tots els que ho hem gravat.
+Sí, crec que se'n posen masses.
+No vull polemitzar massa, però és un paradigma d'aquests dels primers auxilis
+que fa una burrada d'anys que hi és i que no es pot moure de cap manera.
+De fet, la cosa és que tenim molts pacients traumàtics
+i, evidentment, molts es poden haver fet mal a les cervicals.
+Però hem de tenir present que posar un collarí no és innocu.
+El primer motiu pel qual no és innocu és perquè no sempre els posem bé.
+I aquí podria estendre'm i fer un passatge dels horrors
+de tots aquests collars cervicals mal posats que tots hem vist.
+Tenim exemples, els que vulgueu.
+Suposo que heu vist ambulàncies on els collars cervicals els posen tancats en ells mateixos,
+penjats de la barra d'aquella per agafar-se el sostre, per exemple.
+Sí.
+Malament. Això deforma el collar i, llavors, quan el vols posar, el collar està deformat i, per tant, no fa la feina que ha de fer.
+No s'adapta al pacient, sinó que força el pacient en una posició que no toca.
+Si ho veieu, això, malament.
+Després tenim collars de dues peces.
+Sí, correcte, sí, sí.
+Tenim collars de diferents talles, que llavors tu has de decidir la talla
+i no és senzill, a vegades, decidir la talla perquè tens gent amb el coll curt, que tots som com som.
+Després tenim els ajustables, que has de mesurar i ajustar i que quedin fixos, perquè si no prems els botons per ajustar-lo no queden fixos.
+Després hi ha els que la barbeta, amb la peça que tenen el mentó ve plegada i, per tant, l'has de desplegar
+i no serà ni el primer ni l'últim que hem vist que l'hi posen i no es desplega la peça.
+Ja et dic, és un passatge dels horrors de collars d'aquests mal posats.
+I si no el poses bé, doncs no fa la feina.
+Per tant, fer una cosa que no és innòcua i no fa la feina és perdre-hi.
+Potser aquí estaríem parlant una miqueta en relació a un menys és més.
+I tant.
+Coses que sempre hem fet i que sempre fem i que potser no té per què portar un benefici pels pacients.
+I no només si ho posem malament, si ho posem bé, també poden passar coses.
+Hi ha estudis fets d'això i aquest a mi em fa una certa angúnia.
+És amb els que tenen TCE amb lesions cerebrals, el fet de portar un collarí ben posat els augmenta la pressió intracranial.
+De fet, una de les mesures que hi ha per disminuir la pressió intracranial és afluixar els collars cervicals.
+També dificulta la gestió de la via aèria
+i si a aquesta persona li has de manipular la via aèria per algun motiu, ens referim sobretot a intubar, però no només.
+Tens això que et limita el moviment, per tant, et dificultala  laringoscòpia si l'has d'intubar, per exemple.
+És molt exagerat, però també passa. Les úlceres per decúbit, si tens algú que se li està clavant allò allà durant hores, doncs allò farà mal.
+És difícil que ho veiem nosaltres a urgències. Això serà un marrón que es trobaran després, però comencem nosaltres amb això.
+També veig la falsa seguretat que posant-li un collar cervical la columna està immobilitzada.
+De fet, el collar cervical immobilitza la flexo-extensió, però la rotació no gaire.
+Una altra cosa, aquest és l'exemple paradigmàtic de per què a vegades diem això del Menys és Més.
+Una persona que no té dolor cervical, tu li poses el collar i me'l deixes 3 hores amb aquest collar cervical posat, li farà mal al coll després.
+I s'emportarà imatge i li hauràs de posar analgèsics que potser no hagués necessitat si no li haguessis posat el collar.
+O sigui, no és innocu, aquest collar.
+I els beneficis que té, del que he llegit preparant-me per avui, els beneficis que té no estan tan demostrats.
+No està clar que el collar sigui millor que altres eines per limitar el moviment de columna.
+En tenim algunes altres eines per... limitar el moviment de la columna cervical?
+Mira, d'entrada, una que és molt interessant, quan s'ha de fer una extricació d'un cotxe,
+doncs el millor és que pugui sortir ell pels seus propis mitjans.
+S'ha vist que això és la manera en la qual ell belluga menys el coll. Es belluga tota la resta, però el coll no.
+Evidentment, l'eina principal és no ser uns bàrbars, bellugar-lo amb compte.
+Ara que la gent no es pensi que això que he dit, que s'ha de restringir l'ús de colar cervical,
+la gent pot agafar i començar a fer-los-hi fer tombarelles als pacients. No és això.
+Si
+El sac de buit és una eina que a mi em sembla meravellosa, ben posadet,
+el poses a dins i llavors el sac de buit l'adaptes al pacient en la posició que estigui més confortable
+generes el buit i queda empaquetat allà i no s'hauria de bellugar.
+I l'altre que tenim és l'immobilitzador de blocs, que tothom coneix per la dama d'Elx,
+que aquest és justament el que, si volguéssim fer una immobilització amb collar cervical ben feta,
+si ho féssim segons l'estàndard del socorrisme, doncs seria collar cervical i blocs laterals.
+Amb el sac de buit també pots limitar aquesta rotació.
+Fixa't que no he parlat de la taula espinal que ha estat durant molts anys, especialment en els països anglosaxons, ha estat com una mena de paradigma que han d'anar sempre amb un tauló espinal.
+Jo soc anti-tauló espinal, el tauló espinal per mi és una eina d'extricació, serveix per treure la gent d'allà on estigui, però no és una eina de transport.
+Posa-me'l en un sac de buit, si us plau.
+Sempre quan parlo amb gent de la zona metropolitana ens discutim perquè diuen home, però és que si és curt,
+jo com que els meus no són mai curts, sempre trigo molt,
+entre que els carreguem i els hi acabem traient el tauló espinal a algun lloc de l'hospital passa molta estona.
+Si algú és un màquina i col·loquen el pacient amb un tauló espinal i als 15 minuts ja l'ha tret del tauló espinal,
+allà a l'hospital, doncs bé, endavant.
+Però això és mentida, almenys a casa meva sempre és mentida.
+I....
+Digues, digues, perdona.
+Anava a dir, pel que dius que no tothom es beneficia de fer una immobilització amb un collar cervical,
+tenim alguna forma de saber quins pacients podríem saber del cert que sí que se'n beneficien?
+S'han fet coses i de fet és la meva opinió, evidentment, aquí som responsables de la nostra opinió, bé, a vegades, no sempre,
+però no és un invent. Hi ha un Joint Statement és a dir una...
+statement seria més aviat un posicionament, un posicionament conjunt d'una sèrie d'entitats americanes,
+l'Associació Americana de Metges de Sistemes d'Emergències Hospitalàries, el Col·legi Americà de Cirurgians i tal,
+parlen sempre de restricció de moviment cervical, no de collar específicament.
+ Ja es cuiden prou en salut, no només és el collar cervical i compte que no sempre és necessari el collar cervical.
+Tampoc està clar que una bona immobilització eviti les complicacions d'una potencial lesió cervical.
+M'explico. Nosaltres sempre hem cregut que si tu et fas mal a les cervicals, i després et belluguen, es pot augmentar aquest dany.
+Això no està demostrat estrictament.
+És molt plausible, i, evidentment, val la pena dir-ho, perquè si no apareixerà algun salvatge que els agafarà del cap i els arrossegarà,
+però no s'ha pogut demostrar que hi hagi aquesta relació, almenys en els pocs estudis que he llegit ara.
+Doncs, clar, tenim que són lesions que passen relativament poc.
+A pesar d'haver-hi molts malalts traumàtics, no hi ha moltes lesions cervicals,
+i, clar, si en tens pocs, a més a més que cadascú ha gestionat d'una manera o d'una altra, ens fa molt difícil fer un estudi que pugui demostrar això.
+Llavors, això ens fa plantejar això que deies de quan parlem dels menys i els més.
+Si tenim una intervenció que pot beneficiar els pocs pacients que tenen una lesió cervical, dels molts als que els hi posem,
+i que a sobre, a tots els pacients als que els hi posem, es poden generar uns efectes secundaris,
+aquests que hem comentat abans, les complicacions, clar, allò és pitjor remei que la malaltia? tu ho has de plantejar aquí, no?
+Comentaves si hi ha alguna manera de saber a quins no els servirà de res,
+ i, per tant, ja no val la pena fer-ho, i a quins, doncs, no sabem si els serà útil.
+O sigui, hi ha un grup que segur que no els serà útil, que no el necessitaran.
+Per tant, aquests ja no val la pena fer-ho. Els altres, doncs, davant d'aquesta plausibilitat que els podem fer iatrogènia amb la nostra manipulació,
+doncs, aquests té sentit seguir-los immobilitzant, però si ja tenim clar que hi ha un grup que no cal, doncs, aquests els estalviem.
+Sí, a mi me'n recorda això, un altre tema que vas explicar tu, que és lo de les regles d'Ottawa
+i tot això, no?, que hi ha un grup de pacients que no cal que els demanis una radiografia del turmell o del genoll
+per si pot tindre lesió, òssia o no. Hi ha un petit grup de pacients, o no tan petit, que ja saps que no li calen, per tant, no els hi facis.
+Això seria més o menys el mateix, no?, intentar localitzar quines característiques de pacient no els cal la immobilització.
+Els altres, com que no ho sabem si funciona o no funciona, no sé què, però clar, les conseqüències serien dolentes.
+Hòstia, és que si té una C3 comminuta, hòstia, no sé si funciona o no funciona el collar cervical, però...
+Li posarem, i tant que li posarem.
+Perquè les conseqüències, no és que diguis, és que li farà mal dos dies més, és que les conseqüències són muerte.
+Aquest és evident que el necessita.
+Però segurament hi ha un grup de pacients que podem dir, aquest segur que no ho necessita, per tant, no l'hi posis sistemàticament.
+I suposo que és el que pretenen aquestes coses que ens vols explicar, no?
+Sí, jo us vull parlar de dues eines de decisió, una justament l'han fet els mateixos de les regles d'Ottawa,
+que han trobat aquesta metodologia de crear aquestes eines de decisió, i n'han tret moltíssimes regles.
+La seva és la Canadian C-Spine Rule, no?, la regla canadienca de columna, i una altra que són els criteris NEXUS.
+Comencem, si de cas, pel aquest, el NEXUS. Aquest és una regla negativa, és a dir, ells assumeixen que tots els pacients necessitaran imatge,
+i aquí poso radiografia, però aquest meló no el vull obrir.
+Si algú té coneixement d'això, que ens ho vingui a explicar, perquè aquest sí que no el penso obrir.
+Ja n'he obert un avui, que ja Déu-n'hi-do, no val la pena obrir-ne més, no?
+Llavors, la regla NEXUS diu que tothom necessita imatge excepte si es compleixen tots els cinc criteris que diré ara.
+S'han de complir tots cinc, si no, s'ha de fer imatge.
+Estem parlant de necessitat de fer imatge, eh?
+Exacte. I diràs, home, però si estàvem parlant de collar, ara per què em véns tu a dir això de la imatge?
+Exacte, t'anava a dir això, sí.
+Clar, tu ara imagina't que és un pacient que ni li farem radiografies. Té sentit que l'immobilitzem?
+Un pacient que a l'hospital no li farem imatge i l'enviarem a casa.
+Home, doncs em sembla de calaix que algú... que no se li farà ni tan sols imatge, no necessita immobilització.
+No sé, si creieu que m'equivoco m'ho dieu, però és un sil·logisme que, hòstia, no veig sentit, no?
+Sí, sí, sembla coherent.
+I de fet, hi ha uns quants estudis que això que dic jo ara així, mig en broma, doncs ho expliquen millor.
+Si a un pacient no li demanaràs imatge i li donaràs l'alta, doncs no té sentit.
+I el compliment d'aquestes dues regles, doncs et garanteix que no tindran lesions.
+I les poques lesions que entren en aquell 0, no sé quants per cent, tampoc han generat un problema, després.
+Per tant, són regles que et donen una garantia que no tenen lesió les pots aplicar també aquí.
+Vinga, els cinc criteris aquests del NEXUS, recordeu, s'han de complir tots cinc per no necessitar radiografia.
+El primer és que no presenta dèficit neurològic. Aquest és evident, no? Si té un dèficit neurològic, compte.
+El següent és que no té dolor a la palpació de les apòfisis espinoses, eh?
+La línia central, quan ens toquem aquí la columna, els bonys que notem quan ens toquem darrere les cervicals.
+Que no té l'estat de consciència alterat, ells ho especifiquen amb que el Glasgow no sigui menys de 15 o que no estigui desorientat.
+I tots els nostres pacients amb demències, doncs evidentment, se'ls haurà de radiografiar, no ens el podrem refiar.
+També que no estigui intoxicat, bé, una miqueta lligam l'anterior, oi?
+Intoxicat de què? Doncs del que sigui. És a dir, que no hi sigui tot i que no tingui una lesió distractora.
+I això de lesió distractora va sortint, sovint en moltes coses, no?
+I, hòstia, a vegades costa de determinar què vol dir lesió distractora.
+Algú ho intenta concretar més, però ens hauríem de quedar amb una lesió que per la seva entitat
+genera un dolor superior a les altres o una atenció superior a les altres.
+Si t'amputes un braç, evidentment tens una lesió distractora més que de sobres com per que no te'n puguis refiar de la resta.
+Si t'has torçat un ungla, doncs no sé fins a quin punt és una lesió distractora aquesta, oi?
+Si compleix aquests cinc criteris, no necessita imatge.
+I fan aquesta afirmació perquè diuen que el valor predictiu negatiu és del 99,8%
+i la sensibilitat del 99%.
+I ara aquí és on jo et demano... Això m'ho pots explicar que jo ho entengui?
+Aviam, es pot explicar alguna cosa. D'entrada, et diria que...
+Bé, són números d'una magnitud rellevant. El 99% del que sigui, ja sembla tranquil·litzador.
+Aleshores, sensibilitat és senzillament la proporció de que pacients tinguin una prova positiva dintre de tots els malalts.
+Això ens ajuda molt poc.
+Una prova molt sensible, com és aquesta que és del 99%, m'ajuda quan la prova em surt negativa.
+Perquè si amb una prova molt sensible el test em surt negatiu, m'ajuda molt a descartar la malaltia.
+Per tant, si me dius que aquesta regla de predicció el pacient no té cap d'aquests criteris, per tant és una prova negativa,
+com que és una prova amb molta alta sensibilitat, la prova em surt negativa,
+jo el puc canviar cap a casa amb tota la tranquil·litat que no tindrà una lesió clínicament significativa a nivell cervical.
+Això és el que m'està dient la sensibilitat del 99%.
+L'altre és els valors predictius negatius i positius.
+També és 99,8. M'està dient que sempre que faci aquesta prova i em surti negativa,
+el 99,8% seran pacients que no tenen la malaltia.
+L'únic que en aquest paràmetre de valors predictius negatius i positius,
+estàs molt influenciat per la prevalença de la malaltia en aquella població on jo ho estaré aplicant.
+Per tant, els números seran diferents. El 99,8% te'l pots creure en la població,
+a la mostra que ells han fet l'estudi, però no en una altra.
+És a dir, si això m'ho estàs dient a una mostra de pacients reclutada extrahospitalària,
+doncs potser no és el mateix que a nivell ambulatori, que a nivell d'un servei d'urgències d'un comarcal,
+que a un servei d'urgències d'un hospital terciari o d'un centre especialitzat en trauma.
+La prevalença de lesió cervical en aquests diferents grups de pacients, la prevalença no és la mateixa.
+Per tant, no serà la mateixa que en aquest estudi.
+Per tant, el 99,8% és veritat en el seu estudi, però no és veritat a nivell de la UCI, per exemple.
+Per tant, fora d'aquest estudi, aquest 99,8% és difícil d'interpretar, o no és aplicable.
+Més enllà dels valors predictius negatius, hi ha una determinació, un paràmetre, que se'n diuen que són les raons de versemblança.
+Em sona perquè n'hem parlat.
+Crec que sí.
+Si calcules aquest paràmetre, que és una simple divisió entre la sensibilitat i l'especificitat,
+aquest sí que no està influenciat per la prevalença de la malaltia.
+I si l'estudi està ben fet, t'haurien de donar la sensibilitat i l'especificitat, i tu, amb una simple divisió,
+calcularies el likelihood ratio positiu i la raó de versemblança negativa.
+En aquest cas, si calcules la negativa, segurament et donarà 0,0 no sé què,
+que per tant serà molt baixa, i aquest paràmetre sí que el pots utilitzar sigui quina sigui la prevalença de la malaltia,
+si estàs a primària, extrahospitalària, o en un comarcal o en un centre de lesionats medul·lars, jo què sé.
+Per tant, aquí, amb aquesta informació que m'has donat tu, em faltarien dues coses.
+Coneixer la raó de versemblança negativa,
+tenint un valor predictiu negatiu del 99,8%, segurament em sortirà una raó de versemblança negativa també molt bona,
+i l'altra que necessitaria, això que m'has dit, és que em faltarien els intervals de confiança,
+perquè això pot tindre un interval de confiança molt estret, va la sensibilitat del 97 fins a 100,
+però podria ser que haguessin tingut una mostra de pacients molt petita, o que pacients amb lesió n'hi hagi molt pocs,
+per tant, la precisió del resultat seria molt àmplia, la precisió és molt inexacta.
+Aleshores, la sensibilitat, tu em dius que és del 99, però a la realitat podria anar entre el 80% i el 100%.
+Clar, si em dius que podria ser el 80%, m'estàs dient, hòstia,
+hi ha un 20% de pacients amb una lesió que aquesta prova els hi sortiria negativa, seria un fals negatiu.
+Hòstia, ja no estem parlant del 99%.
+Per tant, sempre que em diguis això, m'has de donar els intervals de confiança.
+Doncs sap greu, ara estava mirant a veure si els paperots que tinc els trobo,
+els hauria de buscar i em sembla que... Bé, ho deixarem com a deures.
+Queda clar que hem de fer lectura crítica de coses, eh?
+Perquè ja has vist que jo soc un entusiasta, i després potser resulta que no ho hem de ser tant.
+Moltes vegades això dels valors predictius tothom els fa servir, però no tothom té clar que serveix només per aquell estudi
+i que has de saber la prevalença que tens tu en el teu àmbit on treballes.
+I que, per tant, necessites un paràmetre més, que són les raons de versemblança.
+I sempre conèixer els intervals de confiança, perquè si no, no saps si el que m'estàs dient, si és molt precís o poc precís.
+I ja està. Són dues dades que l'estudi sí o sí te l'han de donar.
+Doncs m'hi fixaré per la propera en això que dius.
+Però bé, tenim clar que aquests números són molt bons.
+És a dir, si la persona compleix aquests cinc criteris per no necessitar imatge,
+i per tant no té cap sentit posar-li un collar cervical per immobilitzar-lo,
+doncs tenim aquests números que ens ajuden a creure que aquesta persona no tindrà lesió.
+El que passa és que que compleixin aquests cinc criteris només ens estalviaríem al voltant d'un 12% de les proves d'imatge.
+Al 88% restant els hauríem d'immobilitzar igualment.
+Són unes regles senzilles, crec que es poden aplicar de forma... no cal ser molt espavilat per aplicar-les,
+i un 10% de la gent ja no necessitaria que l'immobilitzéssim ni que els fessin radiografies, i per tant s'estalviaria la iatrogènia associada amb això.
+Anem a l'altra eina que us comentava. És la regla canadenca de la columna.
+Aquesta regla canadenca ja té d'entrada uns criteris d'exclusió.
+És a dir, ja no es pot aplicar si el pacient no està alerta, despert o fiable,
+si està hemodinàmicament inestable, si és menor de 16 anys,
+si té una paràlisi aguda, és a dir, si hi ha un dèficit neurològic nou, diguéssim,
+o si té una malaltia vertebral coneguda o una cirurgia de columna cervical prèvia.
+Hi ha uns criteris d'exclusió. Fixeu-vos que a la regla NEXUS no n'hi havia cap.
+Aquesta escala és una escala esgraonada i es basa en la presència de factors de risc,
+tant alts com baixos, i després en si pot moure o no.
+Per tant, anem a veure aquests criteris.
+El primer graó és si presenta algun criteri de alt risc.
+Si en presenta qualsevol dels tres que diré ara, no es pot descartar la lesió de columna i per tant s'ha d'immobilitzar. S'ha de fer la imatge que toqui.
+Els criteris d'alt risc són majors de 65 anys, que hagin tingut un mecanisme lesional perillós, que ara us explicaré,
+o que tinguin parestesies a les extremitats.
+Els mecanismes aquests lesionals perillosos ells els defineixen com una caiguda d'una alçada de més d'un metre, o 5 graons,
+una càrrega axial sobre el cap, doncs que et caigui alguna cosa sobre la closca o que tu et tiris de cap a algun lloc, per exemple,
+Sí, una piscina.
+Carreguis directament l'energia contra el cap. El cas de la piscina és l'exemple paradigmàtic, no?
+Sí.
+Que sigui un accident en un vehicle a alta velocitat, i aquí especifiquen més de 100 km per hora, o bé que el vehicle hagi bolcat o hi hagi hagut una ejecció.
+Hòstia, 100.
+Que suposo que aquests 100, si en comptes d'haver fet aquest estudi a pacients de Canadà, fa relativament pocs anys,
+l'haguessin fet abans dels cinturons de seguretat, per exemple, no crec que fossin aquests mateixos números.
+També un altre mecanisme perillós és l'ús de vehicles recreatius.
+Quads, motos de neu, aquests que foten el bròquil amb tota aquesta mena de bitxos, doncs aquest està considerat que és un mecanisme perillós.
+Sí. Puc fer una falca aquí?
+I tant.
+És que fa poc llegia, o vaig sentir per la ràdio, que a l'Institut Gutmann
+feien una miqueta d'alerta que estan veient moltes més lesions medul·lars a resultes de lesions en patinet.
+Ui, ui, el patinet, per favor.
+Que abans no passaven, lògicament, fa cinc anys no n'hi havien, i que sembla una bajanada que en patinet sí que pots caure i trencar-te un canell,
+però és que les hòsties en patinet també poden ser més importants,
+i cada vegada a la Gutmann arriben més pacients amb lesions medul·lars per accidents en patinet.
+Vull dir que potser aquí la regla canadenca no ho contemplava, que anar 25 km per hora en patinet també pot ser un factor del risc, no ho sé, ja està.
+Sí, sí, i per les lesions medul·lars i pel traumatisme cranioencefàlic.
+Sí, sí, sí.
+Això, i el següent mecanisme lesional perillós que ens expliquen és la col·lisió en bicicleta,
+ és a dir, tu vas amb bicicleta i col·lideixes contra un altre objecte d'una certa entitat,
+és a dir, no és que rellisca la bicicleta i caus a terra, és a dir, topes contra un...
+Un fanal, un vehicle o...
+Exacte, o et topen a tu.
+Aquests són els mecanismes lesionals perillosos.
+Per tant, si complim algun d'aquests mecanismes lesionals, tenim parestèsies i extremitats o més de 65 anys,
+no es pot descartar la lesió cervical, immobilitzar en el cas que estem parlant ara o imatge la que toqui.
+Si no hi ha aquests factors del risc, llavors ens anem al següent graó. El següent graó avalua si hi ha factors de baix risc.
+Un factor de baix risc és si ha caminat en algun moment des de l'accident.
+O bé, si el dolor cervical ha aparegut de forma diferida. Primer no en tenia i després en té.
+Hi ha absència de dolor a la línia mitja de la columna cervical, allò que explicava el criteri NEXUS, no?
+Si toques les apòfisis espinoses d eels cervicals, doncs si quan prems aquí no et fa mal, doncs això és un factor de baix risc.
+I l'últim és el que aniria a una col·lisió per encalç simple.
+És a dir, que... En un vehicle et colpegin per darrere, contra el teu, no?
+Aquí hi ha unes exclusions, és a dir, si et piquen per darrere però et projecten contra el trànsit que ve de cara, doncs llavors tens dues lesions.
+La que et foten l'hòstia per darrere més la que et fots tu l'hòstia per davant. Aquest, evidentment, no entra dins encalç simple.
+O bé, si el que et pica per darrere és un vehicle molt gros o que va molt de pressa o acabes bolcant.
+Aquí és la típica que tu vas amb el cotxe, frenes i ve un altre per darrere i et fot un ceballot.
+Això seria un factor de baix risc.
+Si no hi ha cap d'aquests factors de baix risc, no es pot descartar que hi hagi lesió de columna. Per tant, s'ha de fer la immobilització i la imatge.
+Hem passat al primer graó, que és que si hi ha factors d'alt risc, no es pot descartar, per tant,  immobilització i imatge.
+Si no hi ha cap factor de baix risc, doncs el mateix, immobilització i imatge.
+I l'últim graó és si és capaç de girar el coll de forma activa, és a dir, l'ha de bellugar ell, 45 graus a dreta i a esquerra.
+Fixeu-vos el que estic dient ja, eh? És a dir, és algú que ja li hem fet tot això i ara bellugui el coll.
+Els dogmàtics de la immobilització, doncs ara mateix ja els hi heu d'estar explotant el cap, oi?
+Hem fet els tres graons. No hi ha cap factor d'alt risc, hi ha algun dels factors de baix risc,
+i a sobre és capaç de girar el coll de forma activa, 45 graus a dreta i a esquerra, podem descartar la lesió de columna.
+I per tant, doncs no necessita imatge ni collar.
+Si no pot, doncs evidentment no es pot descartar i per tant s'ha de fer la imatge i la immobilització corresponent.
+Això és la regla canadenca de columna.
+Hem parlat de la NEXUS i hem parlat de la regla canadenca de columna. He dit primer la NEXUS i ara la columna.
+És millor la regla canadenca de columna que la NEXUS?
+Doncs llegint, té uns números similars, la canadenca de columna de la NEXUS,
+però amb aquest criteri esgraonat ens permetria reduir el número de radiografies, per tant d'immobilització, en un 40% dels pacients.
+I això ja no és el 10% d'abans.
+En aquest sí que tens números més precisos o no?
+Números n'hi ha, però és que falta que els tingui a mà, això és un altre. A veure, va, anem a mirar.
+Mira, de l'estudi de validació de la regla de columna feta per paramèdics, de l'any 2009, la sensibilitat era d'un 100%,
+en un interval de confiança del 95% anava del 74 al 100%.
+No sé aquests números què et diuen?
+Això vol dir que fora d'aquesta mostra de pacients que van fer servir ells per l'estudi, a la població real, el que passa realment a la població,
+el valor real pot ser qualsevol número dintre d'aquest interval que m'has donat.
+Per tant, en el pitjor dels casos, podria ser el 74%.
+Aleshores, vol dir que de tots els pacients que realment després es demostrarà que tenen una lesió,
+hi haurà un 26% de pacients que tu els donaràs com a bons, com a alta, sense immobilització,
+m'agradaria que aquest interval de confiança fos més ajustat al voltant del 99%.
+Tinc més números.
+Tinc una especificitat entre el 40 i el 45%. Ara podríem fer una raó de versemblança, no, amb això?
+Sí, correcte.
+Però si tens una prova que et diuen que és molt sensible, que és del 99% amb un interval de confiança que ja me l'has dit,
+per nassos l'especificitat serà més baixa.
+Per tant, és una prova que no serveix per diagnosticar una cosa, serveix per descartar-la, perquè té una sensibilitat alta.
+Però ja hem vist que a l'hora de la veritat no és tan alta.
+L'especificitat és per quan et surt positiva aquesta prova, jo confirmo la malaltia.
+Però en aquest cas ja m'estàs dient que és del 40 i pico per cent, o del 50 o del 60, és igual, és molt baixa l'especificitat.
+No me serveix de res.
+No, no, no.
+Aquí segurament si faig la raó de versemblança positiva em sortirà de dos. És molt poc.
+El que sí que tenen és un valor predictiu negatiu del 100% en un interval de confiança del 99 al 100,
+amb els seus càlculs, tant per metges com per paramèdics.
+Bé, em sobta que tinguin una sensibilitat que va del 74 al 100% i després... s'hauria de mirar.
+Alguns d'aquests estudis els tinc, llavors els compartirem al canal de Telegram per qui tingui interès.
+D'acord.
+Això, l'any següent, el 2010, es va fer una metaanàlisi,
+perquè també hi ha altra cosa que ens podríem plantejar si combinem les dues, no?
+Si agafem la NEXUS i la regla canadenca de columna, però bé, si heu vist, pels criteris d'exclusió, realment, si no estan juntes, pràcticament ho estan.
+En aquesta metaanàlisi van comparar 14 estudis, un era amb la regla canadenca de columna, que era de l'any anterior, evidentment,
+tres eren amb NEXUS i els altres, 10, eren estudis fets cadascun a casa seva, però que complien més o menys uns criteris semblants, no?
+Que eren aquests que tinguessin la mobilitat cervical conservada, hi hagués dèficit neurològic,
+que no estiguessin en un nivell de consciència alterant ni tinguessin lesió distractora,
+i en aquesta metaanàlisi, de tots aquests estudis, teníem uns valors predictius negatius,
+doncs d'això, un 99,8%, i una sensibilitat del 98, amb el que llegeixo aquí.
+Recordo d'haver vist a les taules d'aquesta metaanàlisi que el número de pacients era bastant alt,
+de l'ordre de 30 no sé quants mil, i els números de lesió cervical, que diríem són els falsos negatius,
+eren de l'ordre de molt poques desenes, en el total.
+És a dir, de 30 i escaig mil, quedaven molt poques desenes.
+I especificava per allà, clar, hauria de recordar exactament quin és cada estudi,
+que la magnitud de la lesió tampoc era necessari tractar-ho.
+És una de les coses que a mi, quan vaig llegir això, perquè ja heu vist que jo soc un entusiasta,
+però també estic amb tu, que compte, que aquí la podem cagar molt.
+Però resulta que quan ens trobem aplicant aquestes regles als falsos negatius que s'escapen d'aquí, doncs la seva gravetat és relativa.
+És a dir, si, tindran una lesió, però aquesta lesió no ha requerit d'intervenció, doncs per tant, aquí pots tranquil·litzar-te una miqueta més.
+Doncs això, això és el que volia explicar-vos, és això, és a dir, que tenim algunes eines...
+Una pregunta, una pregunta, Albert.
+Digues, digues, perdona.
+El fet de combinar aquestes dues eines ens estalviàvem...
+Ens ho has dit? Quants t'estalvies d'immobilitzar?
+La regla canadenca, un 40%.
+Amb la canadenca, un 40%.
+Sí, que de fet, clar, el que deies tu de la població és evident, que depèn d'on visquis serà diferent.
+Si estem en un lloc que hi ha molts accidents de bicicleta o d'esquí,
+probablement el malalt traumàtic no és igual que el malalt traumàtic
+d'un territori on hi ha molta gent gran i la majoria de malalts traumàtics són caigudes de pròpia alçada.
+Evidentment, aquest número de quanta gent que li podràs no fer la radiografia i, per tant, no immobilitzar és menor.
+I aquesta recomanació, això de quan és? el NEXUS i la regla canadenca aquesta, això ja està fa uns quants anys, no?
+El NEXUS és de finals del 90 i la regla canadenca de columna em sembla que és 2008-2009.
+Ja han passat bastants anys.
+I en aquests anys, o sigui, això que vam proposar aquesta gent fa 15 anys, encara es manté.
+No s'ha descartat.
+Si amb 15 anys d'aplicar això i molta gent ho està fent, no hi ha hagut conseqüències,
+especialment tenint en compte que això trenca un dogma, doncs em fa estar relativament tranquil que això és relativament segur.
+He estat buscant a veure si hi ha alguna metaanàlisi molt recent i no n'he trobat cap.
+Si algú la troba o la té o això que me la passi...
+A veure, tampoc he dedicat molts anys de la meva vida a això, és a dir, no soc expert.
+Però, de fet, són recomanacions que no sé si les estem aplicant de forma sistemàtica a tots els malalts traumàtics,
+tot i que fa 15 anys que sabem que aquestes recomanacions són vàlides,
+no les estem aplicant de forma sistemàtica.
+No. I aquí és on... O sigui, hi ha coses que són dogmes que són molt difícils de trencar.
+I aquí estem parlant de justament una cosa que s'ha fet durant decenis
+i que ha estat una regla gravada a foc que aplica tota mena de gent,
+des de gent amb un gran bagatge científic a gent que no en té cap de bagatge científic, i s'ha aplicat de forma dogmàtica, no?
+Em recorda, en certa manera, l'ús de l'adrenalina en l'aturada cardiorespiratòria.
+Que això ja en parlarem. L'adrenalina porta posant-se l'aturada cardiorespiratòria què, 50 anys?
+I comença a haver-hi una quantitat d'evidència raonable per pensar que l'ús de l'adrenalina en el ritme desfibril·lable,
+doncs potser no és tan bona com sembla.
+I cada vegada que s'ha intentat fer, recordo el cas, em sembla que era el Paramèdic 1, un estudi bastant ben fet d'això de l'ús de l'adrenalina,
+que van reclutar quatre agències d'extrahospitalària per fer l'estudi, i quan va ser el moment d'executar-lo, dues es van despenjar.
+Perquè no podia ser que a algú que amb aturada cardiorespiratòria amb ritme desfibril·lable no li posessin adrenalina.
+Perquè si fas un estudi clínic aleatoritzat, a la meitat els hi posaràs i a l'altra meitat no.
+Llavors, la institució aquesta que inicialment havia acceptat formar part de l'estudi va rebre prou pressions internes o externes o com fos com per no poder-ho fer.
+Doncs aquí estem en el mateix.
+Serà molt difícil generar evidència, a més a més tenir en compte, sobretot, la poca incidència de la lesió cervical dins el global del malalt traumàtic.
+Al principi ja he dit que això seria segurament l'episodi més polèmic que haurem fet fins ara.
+Sí.
+Mira, on sí que no hi ha polèmica amb això de la immobilització de la columna cervical, de fet de la columna, és en el trauma penetrant.
+Això sí que ja totes les recomanacions diuen que si tens trauma penetrant, especialment del coll, però bé, tens trauma penetrant en la columna, no s'ha d'immobilitzar.
+Necessitem altres coses, però immobilitzar no és necessari, és contraproduent.
+En totes les altres, i el trauma, que és la majoria, el trauma no penetrant,
+que immobilitzem sistemàticament a tothom, doncs jo penso, amb el que he llegit i amb aquests números que hem estat parlant,
+que si compleix alguna d'aquestes normes, el NEXUS o la regla canadenca de columna,
+jo estaria tranquil de no immobilitzar-los o de retirar la immobilització, com especificava l'estudi del qual vaig fer la traducció d'aquesta lectura crítica.
+Jo crec que és raonable no fer-ho servir.
+I ens estalviaríem, iatrogènia, temps i recursos en l'atenció a uns malalts que no necessitarien el que se'ls hi fa.
+Jo penso, Albert, que en general als sanitaris, no sé les altres professions, però als sanitaris ens costa molt canviar les coses que fem,
+tot i tenir evidències científiques molt clares, i de fet es calcula que més o menys tardem 10 anys
+des del moment en què es publiquen evidències suficients com per canviar o instaurar un nou tractament o un nou maneig dels pacients.
+Es tarda com uns 10 anys en què això es porti a la pràctica.
+Sigui una cosa nova o canviar una cosa que estem fent de fa anys i fer-la diferent.
+Per tant, aquí sí, portem 15 anys del NEXUS i de la regla canadenca, penso que encara estem dintre la normalitat.
+I potser el que faltaria és que, a part de tenir evidències científiques,
+que les institucions per les quals treballen realment facin protocols interns que ho defineixin de forma claríssima.
+El teu hospital on treballes, el teu servei d'emergències extrahospitalaris o per qui sigui,
+realment tingui uns protocols que diguin que si no compleix aquests criteris no cal que li posin un collar cervical
+i que el tècnic el pugui portar tranquil·lament a un servei d'urgències i que no li diguin res, perquè està claríssim que no el necessitava.
+Penso que deu faltar això, que les institucions es comprometin a tenir uns protocols adaptats a l'evidència científica,
+perquè si no és difícil que el professional de forma individual decideixi... que ja està bé, però clar, sempre té la por de dir hòstia,
+és que m'emportaré una bronca perquè no he posat un collar cervical quan aquí encara es posen, jo què sé.
+Justament això que acabes de dir ara és l'estudi aquest de la...
+De fet el vaig titular, espera a veure que ho trobi, perdoneu eh, això queda molt poc radiofònic, anar agafant i bellugant papers i això.
+Mira, el títol era "i el collarí", aquí encara no havia passat per l'UrgemMot, ho sento, i el collar se'n va anar gràcies a la infermera de triatge.
+I l'estudi justament és una institució en que comencen les seves infermeres a aplicar aquest protocol, se les forma,
+i les infermeres de triatge, doncs als seus pacients, el que toqui...
+Aquesta institució va decidir, evidentment va ser la institució, no feu res que la vostra empresa no us deixi, no fotem, apreteu la vostra empresa perquè alguna cosa canviï.
+Va, doncs això, no?
+A mi el que em raca bastant d'això és que el pes de la tradició és molt difícil de vèncer, molt, molt difícil de vèncer,
+i tinc la sensació que cada vegada ens costa més.
+Veient el retrocés, ja parlo globalment, eh?, però veient el retrocés que hi ha en moltes coses de societat, aquí també ens passa.
+Sí, sí, sí.
+Sóc perfectament conscient que si algú aplica aquestes normes, doncs, escolta'm, molt bé, molt bé, perquè justament ara encara segurament és més difícil que abans.
+Si algú dels nostres oients, al seu servei, apliquen, per exemple, la regla canadenca de la columna,
+o alguna cosa d'aquestes, i ens vol explicar com els hi va, i com ho han aconseguit, doncs, escolta'm, serem tot oïdes.
+Molt bé, Albert. Aviam si ens posem una mica les piles en aquest tema.
+Continuem, Albert, estàs tu, del tema del collar cervical, sí?
+Jo ja ho tinc tot dit. Ara ja em poso paraigües per quan m'arribin les hòsties.
+No, home, no, tio.
+Doncs, si et sembla, continuem pel Menys és Més.
+Endavant.
+Doncs mira, del Menys és Més, jo m'havia preparat un tema, una recomanació directament de l'essèncial,
+que ja sabeu que és una iniciativa que es publica a través del canal Salut de Gencat,
+i que fa, entre altres institucions, l'AQUAS, l'Agència d'Avaluació de Tecnologies Sanitàries de Catalunya,
+i, en aquest cas, ens parlen de la prescripció d'antiinflamatoris, d'AINEs,
+en pacients que tenen malaltia cardiovascular o persones amb patologia renal crònica o patologia hepàtica.
+Això és una recomanació de l'essèncial que ja existia el juny del 2015
+i que ara fa escassos dies, a l'octubre del 2024....
+Acaba de sortir.
+Es va actualitzar, i ens parlen que, clar, sabem que els AINEs tenen molts efectes secundaris,
+alguns són importants i que poden augmentar molt la comorbiditat i la mortalitat, sobretot en pacients d'edat avançada i polimedicats.
+I ens parlen que, per exemple, en els pacients que ja tenen risc cardiovascular o que tenen ja una malaltia cardiovascular establerta,
+pacients que en el seu moment van tindre un infart, per exemple, o van tindre un ictus,
+el fet de prescriure un AINE poden afavorir l'aparició o una descompensació de la insuficiència cardíaca,
+pel tema que els AINEs inhibeixen la síntesi de prostaglandines,
+i aquestes prostaglandines regulen una miqueta la perfusió renal, el filtrat renal,
+i tot això pot fer una retenció hidrosalina i ser un desencadenant d'una insuficiència cardíaca.
+A més a més, els AINEs incrementen el risc aterotrombòtic,
+és a dir, que per si mateixos ja poden augmentar el risc d'esdeveniments isquèmics en un pacient.
+I, a més a més, sabem que els AINEs augmenten la pressió arterial.
+Per tant, en malalts amb risc cardiovascular, que ja tenen una malaltia cardiovascular establerta, el fet d'afegir-hi un AINE
+ens pot facilitar la insuficiència cardíaca, ens pot facilitar que tinguin més esdeveniments isquèmics i un pitjor control de la tensió arterial.
+Per tant, en aquests pacients, alerta. I, sobretot, encara més, si són pacients d'edat avançada o polimedicats.
+Després, pels pacients que tenen malaltia renal crònica.
+Si els hi afegim un AINE, augmenta molt el risc que facin un fracàs renal agut. També pel tema de la inhibició de la síntesi de prostaglandines.
+Hi ha un grup de pacients que encara tenen més risc, que són aquells pacients que prenen algun antipertensiu, com és un ARA2 o un IECA,
+i que, a més a més, prenen un diürètic, i que tu, a urgències, li prescrius un AINE.
+L'associació d'aquest AINE amb un diurètic i amb un IECA o un ARA2, això té un nom.
+En anglès és el triple WAMI, això serà un nou UrgemMot. En català, correcte, seria l'efecte de triple impacte negatiu.
+Sona malament, eh?
+És condemna de fracàs renal agut molt probable.
+En aquests malalts que tenen insuficiència renal crònica, a part d'aquesta associació de tres fàrmacs,
+si estan hipovolèmics, o són pacients fràgils, o són pacients d'edat avançada, o pacients polimedicats, molt pitjor.
+I sapiguem que contraindicat els AINEs en pacients que tenen un filtre glomerular de menys de 30 ml per minut.
+I l'altre grup de malalts que aquest essèncial ens diu molt de compte amb els AINEs, són els pacients que tenen insuficiència hepàtica greu.
+Per exemple, els cirròtics són pacients que tenen una hipoalbuminèmia, i sabem que els AINEs van units a proteïnes.
+Aleshores, els cirròtics, que tenen poques proteïnes, augmentarà el nivell plasmàtic dels AINEs en sang. I per tant, és més fàcil que facin efectes secundaris.
+A més a més, sabem que els AINEs es metabolitzen al fetge a través del citocrom P450.
+Aleshores, aquests pacients que tenen insuficiència hepàtica, doncs el metabolisme dels AINEs no serà el mateix, i augmentarà també la seva concentració.
+I a més a més, els AINEs poden ser hepatotòxics directament.
+A més a més, molts d'aquests pacients amb cirrosi poden tenir hipertensió portal, un síndrome hepatorenal,
+i els AINEs, com hem dit abans, inhibeixen la síntesi de prostaglandines, i per tant, empitjorarà el filtratge glomerular.
+I per tant, el seu síndrome hepatorenal empitjorarà i això incrementa, per exemple, el risc de sagnat.
+Per tant, en pacients amb una malaltia hepàtica greu, els AINEs estan contraindicats.
+Si no tenen una hepatopatia greu i és lleu, el que s'hauria de fer és, si pots, no donar-los-hi. És la millor situació.
+Però, si no, disminuir la seva dosi a la mínima que sigui efectiva, o augmentar l'interval d'administració dels AINEs.
+I això, per què surt ara un essèncial?
+Doncs perquè veiem que des del 2020 al 2022 hi ha hagut un augment progressiu d'aquestes prescripcions d'AINEs.
+Augment del 25%. I, per tant, segurament hi haurà molts pacients amb risc cardiovascular,
+amb patologia renal crònica, hepatopatia crònica, que estan prenent AINEs.
+De fet, a Catalunya es calcula que són gairebé un 5% d'aquests pacients que no haurien de prendre AINEs i els estan prenent, un 5%.
+Això vol dir bastants milers de pacients que no els estem fent cap favor.
+I, per tant, la recomanació final d'aquest essèncial és que en pacients amb malaltia cardiovascular,
+amb malaltia renal crònica o hepatopatia greu, no es recomana la prescripció d'antiinflamatoris no esteroidals, els AINEs,
+perquè suposa un risc que no es compensa pel benefici que els hi pot aportar.
+I perquè en moltes ocasions tenim alternatives.
+I si no les tenim, el que us deia de disminuir la dosi al màxim o augmentar l'interval, amb el qual fem la prescripció.
+Escolta, dubte que em queda. Quan parlem de prescripció estem parlant de dosis úniques o estem parlant d'una prescripció d'una certa durada?
+Pel que he llegit jo no ho especificen. Jo tinc el concepte... depèn.
+Per exemple, en el malalt amb hepatopatia greu que et vingui a urgències i que sigui un cirròtic, zero d'AINEs,
+perquè sí que te'l pots trobar que una sola dosi inhibeixi la síntesi de prostaglandines i empitjores tot, la seva funció renal, sagnarà... Tindràs problemes.
+Els altres, una prescripció puntual en el malalt cardíac, doncs mal control de la tensió,
+però de desencadenar directament un infart, ho trobo més...
+Però no puntualitzen si és una dosi puntual. Jo penso que és més important, quan donem d'alta a un pacient amb aquestes característiques,
+no li prescriguis durant una setmana, deu dies, un antiinflamatori.
+Déu-n'hi-do. Aquesta em fa pensar que ara que no tenim metges de capçalera enlloc, aquesta és una de les feines que tenen.
+Poder conciliar tot això. Buf!
+Clar, clar. L'ideal seria que els pacients, per exemple, que nosaltres veiem urgències i això, doncs...
+Vagi a veure el metge de capçalera la setmana que ve, però potser el metge de capçalera no li donen visita de fins aquí 15 dies.
+Doncs clar, estaré amb un pacient amb una hepatopatia crònica o un pacient amb una insuficiència renal 15 dies prenent un AINE, saps?
+Això sí que és preocupant.
+Em sembla que aquest l'imprimiré i el deixaré allà, al teclat de l'ordinador dels metges.
+Bé, és qüestió de recordar-ho.
+Missatge subliminal.
+Sí, sí. Tampoc tenim unes alternatives molt...
+És el que anava a demanar. I si no podem fer AINEs, què podem fer servir?
+Aquí a l'essèncial també m'ha cridat l'atenció perquè, com a alternatives, em parlen de metamizole.
+Que vam dir justament que no.
+Clar, també inhibeix la síntesi de prostaglandines i això, no ho sé.
+I també em parla dels opioides dèbils, el famós tramadol, per exemple.
+Que tampoc hem de fer. El tramadon't.
+Clar, això en un pacient d'edat avançada, polimedicat i no sé què, vigila el que li dones perquè els opioides dèbils també fan molts efectes adversos.
+No és una alternativa molt simpàtica.
+Com a molt, prescriu el que realment ho necessita a les mínimes dosis. Ja sabem que, per exemple, de l'ibuprofèn són 400 mil·lígrams.
+En aquest pacient d'edat avançada, polimedicat o amb alguna de les tres patologies, cardíacs, renals o hepàtics, mai més de 400 mil·lígrams d'ibuprofèn.
+I si pots dir-li que s'ho prengui cada 12 hores, millor que cada 6 hores o cada 8.
+Molt bé. AINEs, amb compte en gent que té antecedents cardiovasculars, renals o hepàtics. Amb compte o no fer-los servir.
+Correcte. I si els fa servir, a les mínimes dosis possibles, als mínims dies possibles i allargar l'interval d'administració al màxim possible.
+I si no, paracetamol, que també és un bon analgèsic.
+Jo trobo que sí. Jo trobo que sí, que no se li dona la importància que té.
+I moltes vegades, per exemple, amb dolor lumbar mecànic, no està demostrat quin medicament és millor que un altre.
+Doncs, si és una persona amb aquestes característiques, li expliques que no li anirà millor un ibuprofèn que un paracetamol, però, per efectes secundaris, és millor un paracetamol que un ibuprofèn.
+Bé, Albert.
+Vinga.
+Què fem?
+Anem a l'UrgemMot, no?
+Tu tens alguna cosa? Jo en tinc uns quants, eh?
+Tinc... He fet un esforç per no dir collarí ni collaret, tot i que algun se m'ha escapat.
+Bé, bueno.
+Jo el que volia comentar... Mira, em vam convidar... La societat científica del DEMCAT,
+del Diccionari Enciclopèdic de Medicina, que em sembla que ja hem parlat alguna vegada, és on treus tu els UrgemMots habitualment, oi?
+Correcte, sí.
+Van fer una jornada de treball a l'Acadèmia de Ciències Mèdiques i em van convidar a explicar l'experiència lingüística del meu hospital,
+que, pels que ja m'heu anat sentint aquests 40 episodis anteriors, ja sabeu que és pintoresc, oi?
+És una jornada de treball... Estava pensada a veure què podia fer l'Acadèmia, específicament, per millorar l'ús de la llengua catalana.
+El que sí que puc dir és que surto d'aquesta reunió, d'haver parlat amb altra gent, perquè realment la situació del català a la sanitat és...
+No sé com expressar-ho. Gent, és molt preocupant.
+Molt preocupant.
+I, evidentment, si no ens hi posem, els que el parlem, no es resoldrà.
+Sapigueu que hi ha hagut això al DEMCAT, us recomanaria als que tingueu un interès...
+Per la llengua, els que l'estimeu i els que tingueu ganes que es segueixi parlant les dues o tres generacions següents,
+doncs us recomanaria que us vinculéssiu a alguna de les moltes iniciatives que hi ha per la seva defensa.
+Des de fer-vos socis d'aquesta... Si ja sou socis de l'Acadèmia de Ciències Mèdiques, per alguna altra societat científica,
+fer-vos socis de la societat del DEMCAT, que, per cert, ara canviarà el nom, ja no recordo quin nom van dir que es posarien,
+perquè ja només van al diccionari, si no aniran a la promoció de la llengua catalana.
+Ah, sí?
+Doncs és gratuït fer-se soci quan ja ets soci de l'Acadèmia.
+O, si no, hi ha un grup de Telegram que es diu Salut pel Català,
+on justament hi som força centenars de persones preocupades per l'ús de la llengua en sanitat i es plantegen diferents alternatives.
+Res, ja està, només això, eh? El català és cosa de tots. Teva, també.
+Molt bé Albert. Home, nosaltres posem el nostre granet de sorra.
+Home, la sofraja ha passat del no res a existir. Nosaltres ja fem, però hem de fer més.
+Sí, sí, sí, la sofraja ha passat a RAC1, als programes més escoltats del RAC1. Més que l'EMPodCat.
+Bastant més, segur.
+Què més? Mira, els del TermCat van publicant diferents coses cada dos per tres, diferents reculls,
+i ara, al mes de setembre, van publicar un diccionari de terminologia dels aparells sanitaris.
+És publicat conjuntament pel TermCat, el Departament de Salut, i en col·laboració, també, amb la Societat Catalana del Diccionari Enciclopèdic de Medicina.
+I n'he fet un resum, bé, un resum....
+N'he seleccionat els que fan referència a aparells, estris que fem servir a urgències.
+Els he reunit, i us els comento així per sobre.
+Alguns ja els hem comentat en algun dels altres 40 episodis.
+D'entrada, podríem parlar del monitor, el corpuls que portem molts a les ambulàncies.
+Correctament, és un monitor. Sí? Correcte Un monitor clínic. Es diu monitor clínic.
+Això és la forma més correcta, eh?
+També podem parlar de monitor cardiorespiratori o un monitor de constants vitals. O un monitor multiparamètric.
+Totes són sinònims correctes.
+El que el TermCat, el Departament de Salut i tots aquests diuen que és el preferit, la forma més correcta és monitor clínic.
+Després, l'aparell que posem en el dit dels pacients per veure la saturació de l'oxihemoglobina i tot això,
+podem dir de forma incorrecta saturador, saturòmetre i mil coses diferents, però el terme correcte és el pulsioxímetre.
+Pulsioxímetre.
+Bé, quan al pacient li costa respirar una mica, posem oxigenoteràpia.
+Una de les opcions és les ulleres nasals o cànules nasals. Els dos termes són correctes.
+El terme preferit pel TermCat són les ulleres nasals. 
+Si el pacient necessita alguna cosa més que les ulleres nasals, necessitarà una màscara d'oxigenoteràpia, que la que fem servir més habitualment es diu màscara Venturi.
+No mascareta, eh? Màscara.
+Màscara Venturi, sí.
+I si el pacient ja s'ofega una miqueta més, farem servir una màscara amb reservori.
+No en diuen màscara d'alta concentració, ni una monaghan, ni altres terminologies.
+Saps de què estic parlant, no?
+La típica màscara amb un reservori, que diem que la concentració que respira el pacient gairebé es podria acostar al 100%,  doncs això és màscara amb reservori. 
+Mira, aquest està molt ben trobat, perquè és molt descriptiu. Així com ens queixem que sovint tenim nomenclatura complexa.
+Bé, fins i tot el monitor clínic, per exemple, doncs el monitor clínic no m'agrada tant com aquesta, una màscara amb reservori.
+És molt explícita. 
+És molt descriptiva del que estàs veient, exacte.
+I l'altre que també és molt descriptiva i que fem malament és el respirador manual.
+És que més descriptiu que això no hi és, no?
+Doncs no surt enlloc correctament escrit, ho diuen de moltes formes diferents,
+que si bossa auto-inflable amb una màscara o ambú, és un respirador manual. 
+Un sinònim sí que seria ambu, sense accent a la U, perquè és una marca comercial. 
+És com si diguessis bambes, doncs és una marca comercial.
+I si ja no és manual, és un respirador. 
+No és un ventilador, és un altre terme que sortia en aquest diccionari, no és un ventilador,    
+perquè em sembla que en francès o en anglès és ventilator o ventilateur, però en català el terme correcte és un respirador.
+Ui, aquí tindré conflicte amb algun company que insisteix a dir-n'hi ventilador, ara ja ni puc dir respirador, d'acord? Hi haurà polèmica.
+Sí, sí, respirador, respirador.
+Què més? Altres estris o aparells que fem servir a urgències, per exemple, per fer una sutura necessites agafar l'agulla amb un porta,
+però la porta és per entrar i sortir d'un lloc.
+El terme correcte és porta-agulles, tot junt. Porta-agulles. Amb dues As juntes, porta-agulles.
+També crec que sempre en deia un otoscop per mirar el conducte auditiu extern i el timpà i tot això.
+És un otoscopi. em faltava la I aquesta final. Otoscopi, no otoscop.
+Què més? Coses que veiem ara, ho veiem a urgències i a tot arreu,
+les persones que tenen diabetis porten moltes vegades ara un aparell aquí, normalment en el braç,
+a sobre la pell enganxat, un disc. Això, saps com se'n diu, Albert? 
+Sembla que n'hi diuen Freestyle, que és la marca, però...
+Freestyle, ah, sí? 
+Em sembla que sí, que és la marca, no ho sé.
+Això me sona als que fan windsurf que fan skate i no sé què, no?
+Sí, sí, sí. Els que fan així amb la mà, eh? Que mouen els dits i tal. Sí, d'aquests en tinc a casa, sí.
+Doncs això, si és un pacient i porta aquest disc aquí en el braç, és un mesurador continu de glucosa. Més descriptiu impossible, eh? 
+Exacte, sí, sí, sí.
+I si vols, té una sigla que és el MCG. Mesurador continu de glucosa. MCG.
+Justament d'això, no tant del mesurador sinó del que ve, el mesurador que es connecta amb bombes d'insulina, aquesta de vida ultracurta,
+Això, si trobem algú que ens ho pugui explicar, perquè això ve, i no trigarem gaires anys, ja que la majoria de diabètics tipus 1 jovenets,
+Sí, sí.
+Bé, no deixa de ser un pàncreas artificial. I aquí tindrem, nosaltres, tindrem clients que ens vindran amb això.
+Sí, en saben molt per això, ells, d'això.
+Sí, sí, sí, sí.
+El mateix pacient et diu, no, tranquil, que ja la paro, no sé què, que això és una fallada de bateria, això és un fallada de no sé què.
+Sí, sí.
+Gràcies per explicar-m'ho perquè no en tinc ni idea.
+Això és al què em refereixo. Ens hem de refiar el que diuen els pacients, però saber una miqueta de què parlem també acostuma a ser útil.
+I estaria bé saber-ho perquè si el pacient te'l trobes mig estabornit no t'ho podràs explicar, clar.
+Si algun dels oients en sap d'això o sap d'algú que en sàpiga que ens ho digui, a veure si podrem parlar d'aquest...
+anava a dir d'aquest aparell, no, d'aquests aparells, perquè el mesurador continu de glucosa,has de prémer botons, és l'altre, el que és més complicat.
+Algun més, Albert. Pacients que necessiten una broncodilatació, si no fas nebulitzat necessites fer unes inhalacions,
+i saps que moltes vegades fem servir aquelles ampolles de plàstic perquè els pacients ho facin bé?
+Doncs això és una cambra, és una cambra d'inhalació, no és una càmera...
+Aquest ja ha sortit i me'n recordo.
+Sí, és una cambra d'inhalació, perquè jo també m'hi he dit alguna vegada, una càmera espaiadora o espaciadora o el que sigui,
+però no, és una cambra d'inhalació, i normalment ho fas servir, o sigui, tu tens la cambra d'inhalació i al sistema hi poses, per exemple, un salbutamol,
+que vagi amb un: terme: inhalador de cartutx pressuritzat, també és molt descriptiu, no? Un inhalador de cartutx pressuritzat.
+Això també és un altre món, eh?
+Sí, sí, també hi ha molts tipus diferents ja, que no saps quin...
+Algun més, va, per mirar la tensió, aquest també ja l'havíem dit alguna vegada, 
+l'aparell que fem servir per mirar la tensió, tu vas fer un episodi només de mirar la tensió.
+Sí.
+És l'esfígmo-manòmetre. Jo sempre dic esfíngo, però és esfígmo, esfígmo-manòmetre.
+Esfígmo... Osti tu.
+Aquest és el terme més recomanat, el TermCat ens dona com a sinònim complementari un tensiòmetre.
+No m'agrada tant, eh?
+No t'agrada tant.
+Bé, a nivell col·loquial, entre nosaltres, en podem dir tranquil·lament tensiòmetre,
+però si has de fer un document una mica més formal, pots posar esfígmo-manòmetre.
+I al pacient, moltes vegades que li posem una via, li haurem de posar un medicament,
+moltes vegades farem servir un degotador, que és aquest tub que en un extrem superior hi ha el flascó amb el medicament que hem d'administrar,
+després hi ha un espai que veus tu que baixa gota a gota la velocitat que a tu et sembli, tens una vàlvula manual per regular aquest gota a gota...
+Tot això se'n diu degotador.
+També en podríem dir sistema d'infusió contínua, però més correcte és un degotador.
+I descriptiu.
+Sí, exacte, molt bé.
+I això ho pengem al pal de degotador.
+Pal de degotador es deia? no me'n recordo, sé que es deia...
+Sí, sí, sí, jo me'n recordo, me'n recordo, sí, sí, sí.
+Ah, i entre bomba d'infusió i bomba de perfusió. El TermCat ens recomana que fem servir més, d'infusió, bomba d'infusió.
+De perfusió també és correcte, però el recomanat és d'infusió.
+Molt bé.
+I tu fas servir aquella goma de silicona elàstica per posar vies, Albert?
+Cada dia que treballo. Per què altra cosa no sé, però vies me'n foto un fart, tu.
+I què li dius al pacient? Si no la tens, li dius al teu company, passa'm un... què?
+Smarck.
+D'on t'ho has tret això que es diu smarck?
+Tota la vida s'ha fet així.
+D'on t'ho has tret, Albert?
+D'acord, si mires el TermCat et dirà, home, el que estàs demanant és un compressor, o un compressor venós, o un torniquet.
+Són els tres termes que el TermCat ens diu per aquesta goma elàstica per fer una compressió normalment al braç,
+per facilitar posar una via de forma més ràpida i més eficient i més no sé què. El terme més recomanat és compressor.
+L'ésser maligne que habita en mi ja preveu rialles, amb aquesta paraula.
+Home, l'altre, perquè l'hem sentit tota la vida, però tampoc és una paraula molt normal.
+Gens.
+Un smarck. Què m'està dient aquest?
+També és descriptiu aquest, eh?
+Sí, sí, un compressor.
+Mira, i justament una de les coses que al final no he acabat de comprar, perquè no em ve de gust comprar coses que són de la feina,
+n'hi havia un que, en comptes de ser la goma plana, era com una mena de goma cilíndrica,
+com les gomes de lligar les lones dels camions, però protegida amb un plàstic que quedava més maco i tal,
+que tu ho lligaves a la part d'alta del braç i llavors el rodaves cap aval, de manera que munyies el braç i tal.
+I alguns deien que anava molt bé, no ho he arribat a servir mai, no puc opinar.
+No és una boa, això?
+La boa era un altre invent que era com una mena de xurro de piscina més elàstic, el lligaves al voltant i immobilitzaves el cap de la gent per fer maniobres d'extricació de vehicles.
+Ah, sí, sí, sí.
+I ja no se n'ha parlat mai més, d'això.
+Em sonava que d'aquest estri així ens deien, d'aquest compressor...
+Potser també n'hi havien dit boa, d'això, no ho sé, no ho sé.
+Va, segur que tenim algun oient que ha fet servir alguna cosa d'aquestes, perquè d'oients apassionats de coses estranyes segur que en tenim. Si algú ho ha fet servir, que ens ho expliqui, va.
+Això tenim la Jordina, que un dia ens va explicar el tema de les hemorràgies, del torniquet...
+Ella en sap molt, d'això, i a les xarxes socials ens ho dirà, com es diu aquest aparell que estàvem parlant ara.
+Molt bé.
+I l'últim, eh, ja, no m'enrotllo més.
+Els aparells que cada vegada tenim més són els aparells electrònics que et poden fer una analítica bàsica al costat del pacient.
+Això són analitzadors a prop del pacient. Analitzador prop del pacient.
+D'aquests en portarem a les ambulàncies, eh? Al proper concurs ni hi van, sí, sí. Ambulàncies avançades del SEM.
+Sí, sí, per això ho deia.
+Saps quin trobo a faltar, jo?
+Quin?
+Passarem de la tecnologia aeroespacial dels analitzadors prop del pacient, a un estri que es fa servir als camps de futbol de quarta regional, que són els baiards.
+Sí.
+Les lliteres aquestes plegables, o no, que van amb bastons i una lona, eh? Baiard.
+D'aquest també n'havíem parlat en algun episodi, sí, sí.
+Sí, sí. Això és d'una altra època, eh?
+Molt bé, molt bé, molt bé. Escolta, m'agrada molt, a mi aquesta secció sempre ric molt, eh? Sempre surten coses...
+Fan gràcia. Sí, sí, sí.
+Sí, sí. Va, anem a les recomanacions?
+Anem a les recomanacions.
+Tu tenies alguna cosa, Albert?
+Sí, això que he traduït, que ha estat l'excusa per parlar del tema dels collars cervicals, 
+això és un dels molts episodis de pòdcast que han gravat a aquest lloc web, 
+que es diu The Skeptic's Guide to Emergency Medicine Guia escèptica per la medicina d'urgències. 
+És un recurs veterà,aporten 400 no sé quants episodis. 
+És un pòdcast però té lloc web on hi ha moltes notes, realment. El seu creador, que és el canadenc, el doctor Ken Milne, 
+ho treballa molt perquè publica l'àudio del pòdcast, que acostumen a ser gravacions que fa amb un altre persona que és el que presenta l'estudi. 
+Parlen una miqueta del contingut de l'estudi i després fan una lectura crítica d'aquestes dures, de passar un llistat de comprovació a veure si l'estudi és bo o no és bo i això. 
+I de fet el seu lema, aquest t'agradarà, el seu objectiu és reduir el temps que passa des que genera l'evidència fins que s'aplica a la pràctica clínica
+ de 10 anys a només un fent servir el poder de les xarxes socials. 
+Ah, bé, sí, sí. 
+Jo el segueixo molt, de fet feia unes juguesques i tal que qui l'encertava donava premi, tinc un premi seu que em va enviar des del Canadà, imagina't. 
+Sí, molt guai. 
+Ara ja no ho fa, Igual se n'ha acabat els quartos. 
+La veritat és que és un recurs molt interessant, no només pels que els interessa l'evidència científica i una miqueta els temes acadèmics,
+sinó també fins i tot per seguir l'evolució de la pràctica clínica. 
+Ells t'expliquen estudis molt rellevants per a la pràctica clínica d'urgències. 
+Jo us el recomano, The Skeptic's Guide to Emergency Medicine. El lloc web és thesgem.com 
+Fantàstic, Albert, molt bé. 
+Jo tenia, Albert, una recomanació que és un sistema de formació mèdica continuada per tindre reconeixements amb crèdits de formació.
+I és a través de portals de formació online, per exemple, UpToDate
+o, per exemple, un altre, que no sé si n'hem parlat alguna vegada, que és Dynamed. 
+Els dos són molt similars i tothom que treballa en centres públics té accés a UpToDate. 
+Per tant, moltes de les persones que ens poden escoltar tenen accés a UpToDate. 
+Doncs tots aquests sistemes et poden reconèixer crèdits de formació.
+Crèdits de formació que després tu pots presentar per temes de currículum, carrera professional, etc.
+El sistema funciona que cada vegada que visites aquestes eines, si entres a través del teu nom d'usuari i contrasenya,
+reconeix que ets tu i tu fas una cerca, busques no sé què, llegeixes un capítol, llegeixes un altre...
+Aleshores, tu quan acabes aquesta sessió o cada X temps, li pots dir, baixa'm un certificat de formació.
+Aleshores, ell ha reconegut els llocs que has visitat d'aquest portal, et fa un parell de preguntes,
+de dir si t'ha servit el que has vist i si ho podràs aplicar a la pràctica clínica, em sembla que només te demana això,
+i després et baixa un certificat amb el que has estat fent.
+Tu aquest certificat, que te l'has de baixar amb uns crèdits que es diuen AMA-PRA, Category 1,
+hi ha diferents sistemes, però tu has d'escollir aquest, l'AMA-PRA, Category 1,
+aleshores et baixarà un certificat i això et diria que només serveix per metges,
+perquè hi ha un conveni del Consejo Professional... Médico Español de la Organización Médica Colegial, crec que es diu així,
+pel qual reconeixen aquests crèdits internacionals.
+Aleshores, el certificat que t'ha baixat el UpToDate o Dynamed, els hi envies a la pàgina web del Consejo Profesional Médico Español d'Acreditació de Formació Mèdica Continuada,
+i al cap d'una setmana, deu dies, t'envien un certificat amb els crèdits de formació convalidats al sistema espanyol,
+i tu això ho pots fer servir per posar-ho al teu currículum com per carrera professional, i a qualsevol lloc que et demanin, si tens crèdits de formació,
+pel que sigui, doncs aquests són igual de vàlids, igual que t'anessis a fer un curs a Barcelona, o online, o lo que sigui.
+I que potser és una eina que molta gent no coneix i no fa servir, i que si realment tens la disponibilitat aquestes eines i les fas servir,
+no costa res, cada període de temps, baixar-te els certificats i pujar-los al Consejo Profesional,
+i a poc a poc aniràs fent crèdits de formació continuada que pots utilitzar.
+I ja està Albert. Això era la meva recomanació d'aquest episodi.
+Tots aquests enllaços els posarem a les notes de l'episodi, perquè si ho has de buscar et pots tornar una miqueta mico, eh?
+És interessant, perquè això és gratis, tu.
+Sí, i això és una feina que fas, l'únic que has de fer és baixar-te el PDF i penjar-lo en un altre lloc, i ja està, és una feina que ja has fet.
+És un reconeixement de mèrits, no? És a dir, si et dediques temps a formar-te, encara que sigui de forma informal, 
+encara haurem de preguntar com hem de fer nosaltres perquè donin crèdits per escoltar-nos.
+Ostres, ara que estaves dient això se m'ha acorregut el mateix, he pensat, hauríem de nosaltres també donar, no?,
+a la gent que ens escolta i està una hora allà escoltant les nostres barbaritats.
+Una hora, o més, eh, Xavi?
+Perquè no et vull dir l'estona que portem gravant, i nosaltres intentem mantenir-nos en una hora,
+però després tinc una feinada a passar la tisora quan edito, que Déu-n'hi-do, eh?
+I avui em sembla que ens passarem de llarg d'una hora.
+Bé, ho deixem aquí, Albert, o què?
+Vinga, va, tanquem la paradeta.
+No hem dit al principi que sempre recomanem aquests pòdcasts que els pots escoltar a qualsevol...
+eina on te pots escoltar pòdcasts, Spotify, i a tots els registres de pòdcasts,
+ens podeu escoltar, i a Telegram, i la xarxa X, i no sé, un més, Albert.
+Si no hi som, ens ho dieu que ens hi posarem. Ara que tothom marxa d'X i se'n va a Blue Sky, o com... Estem a Mastodont, això sí,
+però a Blue Sky, no ho sé, ja veurem si hi anem o no. A TikTok no hi som, no sé si hi serem, ganes cap ni una.
+A YouTube, alguna cosa podem veure a YouTube?
+A YouTube tenim coses. Vaig una miqueta tard perquè encara tinc el capítol 39 per penjar, perquè és que no em dóna la vida, tu, no em dóna la vida.
+Anem fent.
+Tenim pendent de decidir... Bé, de fet, hem decidit abans, el Xavi, que no us proposarem
+de quin article parlarem en l'episodi que farem de lectura crítica d'articles, sinó que el que ell vol i el que jo vull els farem tots dos.
+Fantàstic, molt bé, Albert.
+Llavors ja mirarem com ho fem, perquè potser aquest el fem en públic. En públic vull dir que hi participeu els oients i això.
+En públic i en directe.
+També, mira, per què no, què collons?
+Alguna cosa se'ns acudirà. Aquest sí que s'allargarà, ja t'ho asseguro.
+Molt bé, Albert.
+Volia dir una cosa del canal Telegram, ja hem passat dels 112 usuaris, ara ja som 115 o 116.
+Dels 112, un número interessant per nosaltres, ja l'hem passat. Faltes tu, que ens escoltes i no t'has subscrit encara al canal de Telegram.
+Doncs va, fins al següent episodi, tothom. Moltes gràcies.
+Ens veiem el mes vinent.
+Per cert, necessitaré ulleres, no sé si ho havia dit, que m'estic fotent vell i necessito ulleres.

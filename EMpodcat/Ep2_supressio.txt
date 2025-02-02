@@ -1,0 +1,399 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Salut, benvingudes i benvinguts al pòdcast d'urgències i emergències mèdiques en català.
+Com sempre, els dos còmplices habituals d'aquest pòdcast som en Xavier Basurto. Hola, bon dia, Xavi.
+Hola, bon dia des de Figueres i des del blog d'Urgem.cat i de Can Twitter, @UrgemCat.
+I l'altre còmplice necessari sóc jo mateix, l'Albert Homs, des de la plana ceretana,
+que sóc a emermedpirineus.eu o .cat, com vulgueu, el meu blog,
+i @emermedpirineus a la casa de l'Ocellet Blau.
+I si em busqueu al fedivers és @emermedpirineus@mastodont.cat.
+I per aquest segon episodi tenim un parell de temes, com sempre. També tindrem recomanacions i avui estrenem secció nova, que ja l'escoltareu.
+Per al primer tema tenim una entrada del blog d'UrgemCat, de ja fa uns mesos, que parla dels pacients immunodeprimits.
+Xavi, per què és important això d'identificar els pacients immunodeprimits?
+Bé, a nosaltres ens va cridar l'atenció perquè sempre és molt fàcil
+en qualsevol pacient que ve a urgències i que t'està dient que està en tractament amb algun tipus de quimioteràpia,
+et ve al cap directament que té un risc d'estar immunodeprimit i per tant ja has de pensar en una sèrie de coses.
+Però vèiem que hi havia molts malalts que no eren aquest típic malalt fàcil de reconèixer,
+sinó que hi havia molts altres tipus d'immunodepressions que també és important
+senzillament reconèixer-los i posar-los a l'etiqueta per tindre'ls presents
+per si has de fer alguna cosa especial i que no són tan evidents.
+Aleshores, a partir d'aquí se'ns va ocórrer dir anem a fer un petit resum, un esquema amb quatre notes 
+perquè no se'ns passi per alt algun malalt d'aquest tipus i així tenir-los una miqueta més identificats.
+I és senzillament això, no és res molt específic, molt tècnic
+ sobre la fisiopatologia del malalt immunodeprimit ni res de tot això.
+És senzillament aprendre a posar directament i identificar el malalt que té algun trastorn que pot afectar la seva immunitat.
+Per què és important això?
+Doncs perquè el malalt immunodeprimit té més risc d'algunes malalties o alguns problemes de salut.
+Per exemple, de tenir una bacterièmia i amb una infecció, si fas una bacterièmia, té més risc de mortalitat 
+o té més risc d'algunes malalties concretes, per exemple, la endocarditis infecciosa
+O de tindre infeccions per germans multiresistents o per infeccions per fongs o malalties oportunistes
+o malalties, no sé, la pneumònia del malalt que està intubat, que està ventilat, tenen més risc de fer algunes malalties.
+I també tenen més risc d'algunes malalties més comunes, tenen més mal pronòstic.
+Per exemple, una diarrea aguda, que en una persona sense cap problema de la immunitat no té cap conflicte ni cap problema especial,
+doncs un malalt immunodeprimit ho has de tindre en compte.
+Un malalt amb una infecció, amb una cel·lulitis, si està immunodeprimit, també té més mal pronòstic.
+Una pielonefritis, el mateix.
+Per tant, hi ha malalties comunes, normals, que veiem cada dia a urgències, que en un malalt immunodeprimit tenen més mal pronòstic.
+Per tant, és important identificar-los tots, aquests pacients, no només el que et diu ell que fa una setmana que va fer l'última tanda de quimio.
+És important també, a part que tenen risc d'altres malalties, pitjor pronòstic, 
+la seva clínica, quan tenen una malaltia infecciosa, la seva clínica algunes vegades no sempre és típica.
+Per exemple, pots tenir un malalt sèptic, amb una sépsia, però, per exemple, que no faci febre o que inclús estigui una mica hipotèrmic.
+Això ho fan els malalts immunodeprimits o que són malalts que, per exemple, la seva resposta inflamatòria
+a una infecció és diferent a un malalt que té tot el seu sistema immunitari al 100%
+o el focus sèptic també pot ser diferent. Un malalt neutropènic farà, per exemple, més infeccions
+de mucoses, orals i de colitis que no pas un malalt que tingui una immunitat perfecta.
+O, per exemple, proves complementàries. Per exemple, un malalt immunodeprimit amb una pneumònia 
+és possible que faci menys resposta inflamatòria i no vegis tu la condensació a la radiografia
+hi sigui, però no la veus perquè no té prou neutrofils com per fer allà un amuntegament de pus i que tu el vegis en la radiografia.
+Per tant, la clínica, les manifestacions, també poden ser diferents. I el maneig clínic, el que t'afecta a tu que has de fer, també és diferent.
+En un malalt immunodeprimit, l'elecció de l'antibiòtic que faci servir serà un o serà un altre,  en funció 
+de per què està immunodeprimit, quan fa que ha fet l'última químio, per exemple.
+La decisió d'ingrés o d'alta també és diferent en un malalt que no té aquest problema d'immunodepressió o del que sigui.
+Mesures d'aillament. Per exemple, en molts malalts, en les guies de pràctica clínica, ja directament, o en les guies de decisió clínica, 
+als malalts immunodeprimits moltes vegades ja els exclouen d'aquestes guies.
+Per tant, potser la decisió d'antibiòtic o no...
+No ens podem basar moltes vegades en les guies que fem servir cada dia.
+I per això, per totes aquestes coses, l'augment de risc d'algunes malalties, l'augment del mal pronòstic,
+els canvis en les manifestacions clíniques o les decisions nostres del maneig clínic són diferents en aquests malalts.
+Per tot això, en quins malalts ens hem de concentrar i dir, fixem-nos en aquests malalts?
+Els que ja coneixem sempre, que no tindrem cap problema, són els malalts que prenen 
+fàrmacs immunosupressors, sobretot, per exemple, els que eviten el rebuig del trasplantament, no?
+Per exemple, no sé, la ciclosporina, el tacrolimus, etcètera. Medicaments per evitar el rebuig, això ja ho veuràs directament
+i no tindràs cap problema.
+Però, per exemple, malalts que prenen anticossos monoclonals, per exemple, per les artritis reumatoidees, per les psoriasis, no?
+Que prenen infliximab, adalimubab, el rituximab, tots aquests medicaments anticossos monoclonals,
+potser no ho tens associat molt directament a que alteren la immunitat.
+Per exemple, malalts que prenen corticoides a dosis elevades,
+o que no són tan elevades, però són durant més de dos, tres, quatre setmanes,
+doncs aquests malalts també estan immunodeprimits, d'acord?
+Evidentment, els pacients que prenen antineoplàstics, la ciclofosfamida, el clorambucil, tots aquests seran fàcils d'identificar.
+Un altre tipus de pacient que veurem a urgències i que també pot estar immunodeprimit, o ho has de tenir en compte,
+són, per exemple, pacients o persones que tenen diabetis mellitus, especialment el tipus 1,
+o pacients amb diàlisi renal, també tenen algun tipus d'immunodepressió, o pacients cirròtics, amb una cirrosi hepàtica,
+o pacients malnodrits, malalties amb alguna neoplàsia activa, els limfomes de Hodgkin, les leucèmies, el mieloma múltiple,
+o malaltia amb tumor sòlid, aquestes persones també estan immunodeprimides.
+Malalties autoimmunes, pacients que tenen un lupus o, per exemple, tenen una artritis reumatoide, 
+també poden tindre totes aquestes complicacions i manifestacions atípiques d'un pacient immunodeprimit.
+Algunes etapes de la vida també condicionen alguna alteració de la immunitat.
+Per exemple, una persona, una dona gestant, pot tindre, per exemple, un augment de la gravetat o la severitat d'algunes malalties concretes,
+per exemple, la grip, en una persona gestant, pot ser una miqueta més important, més greu, entre cometes,
+que una persona que no està embarassada.
+O, per exemple, les embarassades, si fan una malària, pot ser més severa que una persona que no està gestant.
+O una hepatitis E, o un xarampió, o un herpes simple.
+Les persones d'edat avançada, els ancians, els vells, sigui perquè prenen molts medicaments, perquè tenen...
+Pot ser que estigui funcionalment una mica tocat.
+Per la raó que sigui, les persones grans, els vells, també tenen alguna alteració de la immunitat que condiciona tot el que hem dit abans.
+O, senzillament, un estrès emocional important també et pot alterar la immunitat.
+Altre tipus de pacients, el pacient neutropènic, sigui per la causa que estigui neutropènic, si té menys de 500 neutròfils per mil·lilitre, també altera la immunitat.
+Pacients amb una infecció pel virus de la immunodeficiència humana, el VIH, que tinguin menys de 250 CD4, també està immunodeprimit.
+Pacients, per exemple, això no hi pensem moltes vegades, un pacient amb una esplenectomia o amb una anesplènia,
+sigui causes congènites adquirides, també tenen més risc de fer infeccions per gèrmens encapsulats, el pneumococ, el meningococ.
+Pacients amb transfusions sanguínies, pacients amb radioteràpies,
+pacients, lògicament, amb una immunodeficiència congènita o adquirida,
+i pacients amb algunes manifestacions, amb algunes malalties rares, amb una síndrome de goodpasture, que tenen dèficit d'anticossos.
+Tots aquests tipus de característiques de persones, dels malalts, totes aquestes ens poden condicionar que el pacient estigui immunodeprimit.
+I, per tant, hem de tenir en compte identificar-los, posar-los ja una etiqueta per estar una miqueta alerta,
+perquè poden fer infeccions diferents, infeccions normals, però amb un pitjor pronòstic,
+o amb unes manifestacions clíniques diferents, i, per tant, hem de prendre. unes decisions clíniques diferents.
+ I és senzillament això, tindre els que no veiem de forma clara i fàcil, doncs, identificar-los.
+I això és el que volíem transmetre en l'entrada que vam publicar a Urgem.
+Ara, després d'haver llegit l'entrada i ara, a més a més, escoltant-te, és evident, n'hi ha alguns
+que, com sempre, n'hi ha alguns que seran evidents, venen amb un cartell de neó que diu, estic immunodeprimit.
+Però n'hi ha uns altres, jo pensant en aquests que es prenen corticoides de forma no crònica, però sí d'un episodi relativament llarg, 
+que els has de considerar, però potser no ho estan d'immunodeprimits, perquè potser no han pres prou corticoides encara.
+Hi ha alguna mena de marcador que puguis dir, està immunodeprimit, segur, o sempre has de jugar amb aquesta sospita?
+Jo penso que un marcador que tu puguis veure, sobretot a nivell d'urgències, és a dir,
+ràpid i que tinguis accessible a tot arreu, no hi és, per exemple, només se m'acut, per exemple, el malalt neutropènic, no?
+Si tu fas un hemograma i surten que té 200 total, 200 neutròfils en total, doncs aquesta persona, lògicament, ja veuràs que està immunodeprimida.
+Però la resta, així, ràpidament, no recordo cap cosa que jo pugui saber en qualsevol tipus de malalt,
+saber si està immunodeprimit, deprimit o no, a part de la seva anamnesi i una analítica bàsica per veure si està neutropènic o no.
+La resta de malalts, pel que hem dit, pels antecedents, si és un cirròtic, si és diabètic, si està prenent antineoplàstics, 
+si està prenent immunodepressors, però no tenim, no és, jo no conec
+una cosa que puguin demanar-li a tots els malalts per tal d'identificar-los de forma ràpida a urgències.
+És sobretot pensar una miqueta en la història clínica i parlar amb el malalt
+intentar consultar la seva història clínica electrònica per veure si identifiques algun tret que t'ho faci pensar. I ja està.
+Doncs mira, això és l'art de la medicina, no tot és ciència, també hi ha una miqueta d'art, trobar-ho. I escolta'm...
+Exacte. 
+D'acord, és important perquè són diferents i perquè ens poden passar les infeccions, podem no detectar-les
+i llavors quan acabin mostrant-se, si és que s'arriben a mostrar, doncs ja ha passat massa temps i demès.
+Però a part de identificar-los per la part aquesta no demorar el tractament, hi ha alguna altra diferència?
+És a dir, les persones que són immunodeprimides es tracten... El tractament mèdic per la infecció que puguin presentar és diferent del que una persona que és immunocompetent?
+Sí. Depenent del tipus d'immunodepressió que tingui, per exemple,
+depenent del tipus de quimioterapia que faci o el problema que tingui,
+has de pensar que serà per algun tipus de germen o per algun altre. 
+Per exemple, si jo sé que un pacient o un nano jove per algun accident es va haver d'operar
+perquè tenia un hematoma de la melsa i va fer una esplenectomia, jo sé que té més risc de fer infeccions pel neumococ, pel meningococ,
+aleshoes si té un focus sèptic pulmonar o neurològic, jo he de pensar quin tipus de germen és
+i per tant ja li posaré l'antibiòtic una mica... Com a mínim pensant en aquests gèrmens.
+Depenent també, per exemple, no tots els malalts... la immunodepressió no sempre és blanc o negre,
+vull dir que hi ha gradacions, no?
+Depenent, per exemple, de les dosis de corticoides que prenguis, pots estar més o menys immunodeprimit
+i en funció d'això tindràs més risc de fer algunes malalties o en faràs algunes altres.
+I que cada malalt, en funció de la causa que li provoqui la immunitat. I si això li provoca una immunitat molt greu o menys,
+farà infeccions per un tipus de germen o per un altre, o en una localització o en una altra.
+Vull dir que sí que és diferent, clar.
+Molt bé.
+No sé si hi ha alguna cosa més que haguem de comentar dels immunodeprimits ara mateix. Jo diria que, com sempre, les vostres entrades són molt complertes
+i jo tinc la sensació que hi ha... Quin missatge creus que hauria de quedar de la detecció i l'atenció a l'immunodeprimit?
+Jo penso que és senzillament fixar-nos en... No fixar-nos únicament en el malalt neoplàstic i que pren fàrmacs antineoplàstics
+i pensar que hi ha altres tipus de pacients que potser de vegades no ho tens en compte i que també poden estar immunodeprimits.
+És senzillament això.
+Molt bé. Doncs, si et sembla, passem a l'altre tema, que és el tema del qual jo us volia parlar.
+Jo us volia parlar d'una cosa que vaig veure en un tuit en el seu dia i vaig investigar una miqueta més.
+És la regla dels 45, que és la forma de recordar-te d'això.
+Bàsicament és referent a la via intraòssia.
+Suposo que pràcticament tothom ara mateix té en la seva ambulància, en el seu servei, la intraòssia de pistola, la EZIO,
+Easy IO en anglès. El nom també està ben trobat.
+Aquesta es pot posar a tots els llocs on es pot posar una via intraòssia.
+I un dels llocs, que et recomanen, és el cap humeral.
+No sé si ho heu fet mai, però la primera vegada fa angúnia. La primera vegada que poses una intraòssia fa angúnia sempre.
+I al cap humeral, doncs, també.
+No entraré a per què és millor una que l'altra. Això penso que, de fet, potser potser un dia podríem parlar només d'intraòssia, perquè hi ha temes aquí per avorrir.
+La qüestió és que si has de posar aquesta intraòssia al cap humeral, doncs, has de posar-la on toca.
+Llavors, la regla dels 45 et permet recordar-te'n.
+Regla dels 45, per què?
+Doncs, mira, perquè necessites primer l'agulla de 45. mil·límetres, que és l'agulla groga, l'agulla d'adult o d'obès.
+Les agulles aquestes d'intraòssia del EZIO veureu que tenen unes marquetes negres a l'agulla que corresponen a mig centímetre cada marqueta.
+Doncs la 45 té set... té menys marques perquè, clar, als extrems no n'hi ha.
+O sigui, primer 45, la longitud de l'agulla, 45 mil·límetres.
+Llavors, el següent 45 és com hem d'ubicar la persona primer i la nostra agulla per punxar. 
+El segon 45 seria rotar el braç, rotació interna del braç, a 45 graus. 
+Manera fàcil de fer això? Doncs agafar el braç i posar-li damunt la panxa. 
+Li poses l'avantbraç damunt la panxa i ja tens el cap humeral rotat 45 graus internament.
+Que no pots posar el braç damunt la panxa? Doncs simplement gires la mà cap a baix, al lateral,
+la mà estirada al costat del cos i rotada lleugerament cap a darrere.
+És a dir, que el dit gros busqui el terra. Amb això ja fem la rotació interna del cap humeral.
+Un altre 45 és com has d'orientar l'agulla. De fet, són dos 45 com has d'orientar l'agulla. 
+Un 45 és apuntar l'agulla, poses damunt del cap humeral i apuntes l'agulla mirant cap al peu, és a dir, que són 45 graus respecte a l'eix...
+longitudinal, seria aquest? No ho sé. L'eix de respecte el terra.
+I l'altre 45 graus és: has d'apuntar a 45 graus respecte al terra, a 45 graus respecte a l'eix sagital
+És a dir, tu agafaràs l'agulla... Ara faig una cosa tan radiofònica com moure les mans com si estigués fent anar jo la pistola,
+si no ho esteu veient, doncs difícilment ho entendreu. 
+Hi ha uns dibuixets a l'entrada que ho expliquen, que es veu més bé. 
+I de fet, hi ha també enllacat un vídeo on es veu clarament, un vídeo de la casa comercial on es veu clarament com fer-ho. 
+És a dir, tu agafes la teva pistola i l'orientes de manera que entres a 45 graus respecte al terra 
+i a 45 graus respecte al senyor, diguéssim, a la víctima. i a 45 graus respecte al terra.
+Penetres la pell sense necessitat d'engegar la pistola i un cop has arribat al cap humeral, apretes la pistola, bum, fins que entra.
+I l'entres, doncs... com que és bastant llarga, però clar, el cap humeral també és bastant llarg.
+L'entraries fins que notessis o un altre topall o que ja has arribat a la pell.
+Avantatges de l'humeral, ja he dit que n'hi ha diversos, però no els explicaré ara.
+Ara bé, això, després, vosaltres vau posar un tuit, un piulet, en el seu moment, que és important de recordar.
+La intraòssia al cap humeral va molt bé, superràpida, tal, però clar, està en una posició en què és molt fàcil que la caguem i la perdem.
+Manera de perdre-la.
+Una és que quan rotes el malalt, la intraòssia toqui el terra,
+quan rotes per mobilitzar-lo, toqui el terra, toqui la camilla o el que sigui, llavors la doblis i salti.
+Manera d'evitar això? Una manera és posar l'apòsit que ja et ve, que hi ha uns apòsits que ja venen amb el kit de l'agulla,
+que això fixa bastant millor l'agulla que només simplement el fet de deixar-la inserida,
+que de fet amb la intraòssia aquesta l'hi ha jo i n'hi ha prou, ja queda fixa, no? Però amb aquest apòsit ho millores.
+També podries agafar una mascareta d'ambuú i encintar-la damunt de l'agulla, de manera que sigui la mascareta la que s'emporti la tracció.
+Aquesta és una, i l'altra que hi ha és al mobilitzar el braç. I aquest és el tuit que vau posar vosaltres.
+És a dir, si nosaltres mobilitzem el braç del malalt, depèn de com el mobilitzem, doblarem l'agulla i acabarà saltant del cap humeral.
+Manera d'evitar això?
+En el tuit que posàveu vosaltres és un vídeo de la gent de l'helicòpter de Sydney, i l'ho expliquen bastant bé,
+també el posarem a les notes de l'episodi, en què bàsicament és: has de portar sempre, el dit polze del malalt ha d'estar mirant sempre,
+o sigui, no pot estar mirant amunt. És a dir, així com la senyal aquella que tot va bé és el dit polze mirant amunt. aquí ha de ser sempre al revés. El dit polze mirant avall. 
+Si fas això, ja no fas mai la rotació del cap humeral que fa saltar l'agulla.
+Sempre que moguis... Podeu mirar el vídeo, és molt més explicatiu que no pas ara aquí jo perdent temps a explicant-vos-ho.
+Heu de procurar sempre que el dit polze miri avall. Això, per exemple, on ens pot passar? 
+Doncs en un moment que li hem posat el LUCAS a algú que li està fent massatge el cardiocompressor mecànic 
+i el volem desplaçar, clar, hem de moure una miqueta els braços per poder posar el LUCAS
+i després li hem de posar el braç amb les mans lligades al cardiocompressor per poder-lo desplaçar.
+Hem de vigilar que la mà no se'ns giri cap a l'exterior. Llavors, per això sempre buscar el dit polze mirant avall.
+Doncs això és la regla dels 45. Agulla de 45, rotació interna del braç 45 graus
+i 45 graus d'orientació de l'agulla tant en l'eix longitudinal com en l'eix sagital. 
+Molt bé, Albert.
+Escolta'm, una pregunta. No és directament relacionada amb els 45,
+però a mi se m'acut preguntar-me, bé, em pregunto
+hi ha alguna diferència entre l'húmer dret o l'esquerra
+o tant li fa un que l'altre o el que tinguem més accessibilitat?
+Et sona que hi hagi alguna decisió a prendre amb això o no?
+No em consta. No, no crec que hi hagi cap diferència.
+T'haig de dir que un vídeo que hi ha molt xulo en què es veu la infusió de contrast per una via intraòssia està fet 
+a l'húmer esquerre, diria jo,
+que si no falla la memòria, l'húmer esquerre és el que no té, el costat esquerre és el que no té subclàvia?
+Bé, ara m'estic embolicant, quasi millor callo perquè no ficar-me en un jardí.
+Jo crec que no hi ha diferència d'un costat a l'altre.
+Molt bé, molt bé.
+Molt bé, i aquí acabem els dos temes que teníem per avui.
+I ara anirem a la secció nova que us presentarem avui.
+Aquesta secció es diu UrgemMot i és una secció que ha fet la gent d'Urgem, com el seu nom indica.
+Xavi, explica'ns d'on ve això, va.
+Sí, doncs des d'Urgem ens vam adonar que en català
+tenim molta tendència a adoptar termes col·loquials o tècnics
+relacionats amb l'assistència sanitària, a utilitzar termes adoptats del castellà, de l'anglès, del francès
+i poder deixem una miqueta de banda termes que genuïnament eren més catalans
+i que es feien servir aquí fàcilment fa molts anys, es feien servir de forma quotidiana.
+I aleshores ens vam proposar intentar-los recollir per tal de, no sé si els podem tornar a incloure, utilitzar de forma normal, d'acord?
+Tot i que ara, quan els sents, ens criden molt l'atenció i ens semblen que són coses rares,
+però això ja ho hem fet des de fa molts anys en la vida habitual i normal.
+Ja sé que normalment no es fa servir mai la paraula atzucac, però tampoc 
+ara et peta el cervell cada vegada que sents algú que diu alguna cosa sobre un atzucac, 
+i al principi que ho vas sentir les primeres vegades no sabies ni de què t'estaven parlant.
+El mateix passa amb termes mèdics de cada dia.
+Bàsicament el que fem a la metodologia és repassar, intentar de fer-ho de forma sistemàtica,
+del principi al final, hi ha el TermCat, té diferents diccionaris
+i té uns diccionaris de medicina, de ciències de la salut, 
+i aleshores el que, bé, des de fa, just vam començar ara al març de l'any passat,
+doncs des de l'A fins a, intentarem arribar fins a la Z, d'anar repassant tots els termes que hi ha en el diccionari,
+puguin tenir... La condició és que siguin termes que fem servir 
+o que hi hagi possibilitat de fer-los servir a nivell de medicina d'urgències.
+Evidentment, trobarem molts termes que fem servir malament, però que són termes que potser no farà servir mai a nivell d'urgències.
+Per tant, aquests termes ja no els anem seleccionant, sinó només seleccionem aquells termes que probablement,
+en algun moment o altre, els puguem fer servir a urgències.
+I termes que seleccionem també aquells termes que pensem, nosaltres de forma subjectiva, que els diem malament,
+que la majoria de la gent els diem malament.
+Per tant, els termes que ja els diem de forma correcta, aquests ja no els seleccionem perquè no ens aportaran res, ja ho fem bé, per tant, perfecte.
+Els termes que no farem servir mai a urgències, tampoc els seleccionem.
+I aleshores, cada mes, bé, cada mes no, de forma periòdica, els anem penjant.
+A través del Twitter, sobretot, i amb el hashtag, amb l'etiqueta d'UrgemMot.
+I després, els anem recopilant, estem fent com un recull de termes
+que anem penjant en el blog d'Urgem.cat, doncs allà anem fent el nostre diccionari particular.
+I bàsicament és això, seguint les recomanacions del TermCat.
+Aleshores, per exemple, el mes de gener i el mes de febrer, podíem parlar, vam fer una selecció,
+i per exemple us puc comentar el terme de la variça.
+Jo sempre n'he dit, doncs, un variu o una vàriça,
+una vàriça que l'escrivia amb un accent a l'a, doncs, de forma correcta, és una variça.
+Sí, mira, jo abans de llegir això, jo tenia varius, ara tinc varices. És una cosa divertida.
+Mira, doncs, hauràs d'anar...
+He canviat de diagnòstic, ara, tu.
+Hauràs d'anar al teu metge de capçalera que t'ho torni a mirar.
+Termes, per exemple, inclús veiem termes que li posem un gènere equivocat, no?
+Per exemple, després de per sota l'epidermis ve el derma, no ve la dermis, d'acord?
+O quan tens un IAM i tardes moltes hores a arribar a la taula d'hemodinàmica,
+doncs li hauries de fer una fibrinòlisi, no una fibrinòlisis, no, d'acord?
+Una fibrinòlisi, o amb una luxació, amb una luxació... amb un esquinç del turmell,
+doncs has de mirar que els mal·lèols estiguin correctes. Els mal·lèols amb el·la geminada i amb un accent obert a la E.
+O, per exemple, la fibril·lació auricular, doncs no és paroxística, és paroxismal.
+Són petites coses que, bé, que les hem anat adoptant de...
+de llengües estrangeres i que, bé, les diem de forma incorrecta.
+Per exemple, quan a un pacient li posem un gota a gota, que es pot dir de forma incorrecta,
+doncs li estem posant un sèrum, no? Li posem un suero, no?
+Però, en canvi, per exemple, no li estem fent una sèrumteràpia o sueroteràpia o fluidoteràpia.
+En lloc d'això hem de parlar que al pacient li estem posant una seroteràpia, d'acord? Li estem posant un sèrum a través d'una seroteràpia.
+O les fractures, no? Per exemple, la fractura que sempre li han dit una fractura espiroidal, doncs no és espiroidal, és una fractura espiroide.
+O la fractura dels nens, no? La fractura de bambú i de no sé què, doncs és més correcta la fractura de rebava.
+Aquí, per exemple, us dic, per exemple, el TermCat,
+hi ha molts termes que ells els identifiquen com a correctes però com en diuen sinònims complementaris, d'acord?
+És a dir, són termes que també són correctes però que només són correctes en algun context particular, concret.
+Per tant, Estableixen com una categoria, no? Per exemple, la fractura de rebava també és correcta dir fractura de bambú,
+però el TermCat estableix com a més correcta dir una fractura de rebava, d'ús més generalitzat i d'ús més en tots els contextos.
+Després, fractura de canya verda en lloc de tija verda.
+A la llengua, sota la llengua tenim un tel, que es podria dir també el fre de la llengua, però és més correcte, és més adequat dir-ne tel de la llengua.
+O, per exemple, el nistagmus. Sempre anem dient nistagmus, però hauríem de dir, el terme correcte és nistagme.
+O, per exemple, a un pacient traumàtic que li fas un TAC per veure si té fractures a nivell facial,
+sempre has de mirar que no hi hagi fractures del terra de l'òrbita.
+Sempre n'hem dit terra de l'òrbita. Però el terme correcte seria el sòl de l'òrbita.
+O, pacients amb un flegmó dental, has de mirar que el terra de la boca estigui correcta, que no estigui empastat.
+El que has de mirar és el sòl de la boca. El sòl de l'òrbita, el sòl de la boca.
+O, per exemple, amb un dolor, amb un esquinç del turmell, has de mirar que l'empenya del peu estigui correcta, que no li faci mal.
+Aquesta, quan la diguis, això de l'empenya... Encara la buscaran ara.
+Sí, però és bonic. A mi m'agrada. L'empeine, allò de forma col·loquial, sempre necessita l'empeine, no?
+Però si es diu empenya, a mi m'agrada el terme.
+I jo penso que si els anem fent servir així, amb una mica d'insistència,
+jo penso que ens adaptarem molt ràpid i en quatre dies sentiràs empeine i diràs empenya.
+És una empenya. No té més...
+O el terme que vam parlar en un post... en un pòdcast nostre, que vam parlar de l'anafilaxi,
+doncs sempre en podríem dir anafilaxia, anafilaxis, acabat amb S.
+doncs el terme correcte és anafilaxi, sense l'a final, sense l's final, anafilaxi, o reacció anafilàctica.
+Són petites coses, de vegades són qüestions de gènere masculí-femení, o d'algun accent,
+de vegades són petites coses, però és el que fa que a part d'intentar parlar el català una miqueta millor,
+i més si són coses que has d'escriure en un informe i tens temps i no vas saturat
+perquè vas a 200 per hora visitant, si tens un moment de pensar, ostres, com es deia això, i és molt fàcil de consultar.
+ Nosaltres bàsicament consultem el diccionari de medicina del TermCat,
+que això ho poses al Google TermCat, diccionari de medicina, i ja ho tens allà,
+i si no, el diccionari enciclopèdic, el DIEC, que és el normatiu català,
+o en l'Optimot, en el Google poseu Optimot,
+i allà, si teniu algun dubte, poseu la paraula que, i si és correcta, sortirà allà. Si no és correcta, és que no surt.
+A les notes de l'episodi posarem tots aquests enllaços que ha dit el Xavi ara.
+També hi posarem el resum dels UrgemMots que ens ha explicat ell, i aquesta secció n'anirem parlant, perquè sortiran parauletes divertides.
+I ara passem a les recomanacions.
+Com sempre, cadascú de nosaltres n'aporta una.
+A mi m'agradaria parlar d'un curs on-line, d'un d'aquests MOOC, els cursos aquests massius en línia, gratuïts.
+És un curs en anglès, que es diu Airway Matters, que és un curs de gestió de via aèria.
+Simplement és espectacular. Evidentment, has de saber anglès, si no, malament.
+Jo ja fa, no sé quant de temps, just avui he entrat a mirar a veure alguna cosa més per explicar-vos,
+però ja em deia que ja havia passat el temps que podia fer-lo.
+És un curs d'unes vint hores que el plantegen a fer en 5 setmanes, 4 hores per setmana.
+És gratuït, però si vols el corresponent títol o vols accedir-hi sempre llavors has de pagar
+però l'accés al curs és gratuït i si tu el fas en aquest període de 5 setmanes que et diuen, el pots anar fent.
+com tots els cursos MOOC aquest és una barreja de text, de vídeo d'àudios i demès
+I és un curs de gestió de via aèria que jo l'he trobat espectacular, tot està a l'última
+parlen de coses que tot just fa poc que s'han publicat. Moltíssima...
+Clar, és un curs anglès, pel que tot el tema de la seguretat del pacient està super clavat. Hi ha moltíssims factors d'aquests... Com en diuen d'això? 
+D'aprenentatges no tècnics. Tot el tema aquest de gestió d'equips, de comunicació
+molt, molt, molt interessant
+hi ha també una part, que és una cosa que toquem molt poc, tota una part del tema de la traquetomia que és... Realment ho toquem bastant poc
+Mireu-vos-el, realment és molt interessant.
+Ara estic mirant aquí el que plantegen:  via aèria segura, factors humans ergonòmics, anatomia de la via aèria. Fins aquí res estrany.
+L'avaluació de la via aèria, això també té el seu interès, i dealing with emergencies com gestionar les emergències els no puc intubar, no puc oxigenar
+Jo, la veritat, el vaig fer i va valdre molt la pena és dels cursos que més m'ha agradat de fer
+La pega és que és en anglès si no sabeu anglès, doncs malament.
+I Albert, recordes si parlava també de la ventilació, per exemple invasiva i no invasiva
+o tot és a nivell de ventilació del malalt o de la intubació i de la ventilació del malalt intubat?
+Això és única i exclusivament via aèria, de ventilació no parlen res.
+De fet, no sé per què em pensava que quan va venir el Covid em pensava que hi havia afegit alguna cosa del Covid i veig ara que no hi és
+o sigui, o m'ho vaig imaginar o ho van posar i ho van treure després
+I és molt llarg de fer o no, requereix moltes... Recordes si et va posar moltes hores de fer-lo o no?
+Bé, ells parlen d'això, cinc setmanes, quatre hores, jo em sembla que ho vaig liquidar en un parell de setmanes.
+A veure, ho has d'anar fent, però no em va semblar...
+A més a més, el vaig trobar superinteressant, clar, potser és perquè el tema m'interessa, però fluïa molt ràpid, la veritat.
+Val la pena, val la pena. Mireu-vos-el perquè val la pena.
+Molt bé, doncs ho farem.
+I què ens recomanes tu, Xavi? 
+Jo us recomano...
+Fa temps que vam fer un apunt, també sobre...
+Vam tindre un... De fet, la majoria d'apunts que fem a Urgem, ve d'experiències que tenim.
+i que intentem després donar-hi, pensar-hi, vejam què podem fer per solucionar-ho. 
+I va ser un cas d'un gran cremat que vam tindre aquí a Figueres, 
+que lògicament, entre que estàs a... 
+Va ser a l'extrahospitalària, i entre que estàs allà, en el merder que hi ha molta gent
+implicada i molt de moviment i molt de complexitat de gestió que si ve l'Hotel, que si ve...
+És difícil fer una avaluació una miqueta precisa de la superfície corporal cremada,
+amb la qual cosa això et condiciona que, si el trasllades a un hospital de tercer nivell,
+o demanes que vingui l'Hotel perquè ha d'anar directament a Barcelona,
+o la quantitat de sèrums que li posis. Per calcular la gravetat del cremat,
+doncs necessites calcular la superfície corporal cremada, de primer grau, de segon grau, de tercer grau...
+Aleshores, sí que recordo que ho vam intentar calcular i així ho vam transmetre
+i recordo al cap d'uns dies que vam accedir a l'informe de Vall d'Hebron
+i el que havien calculat ells, no tenia res a veure amb el que nosaltres havíem pogut calcular. sobre el terreny. 
+Ja s'entén que hi ha d'haver-hi una diferència per les diferències només de disponibilitat d'exposició del malalt i del que sigui.
+Però, clar, ens va cridar molt l'atenció de la diferència de càlcul, de l'estimació.
+Aleshores, vam trobar una eina, és una APP que es diu e-burn
+b-u-r-n
+que és una app d'un hospital francès que es dedica bastant o exclusivament al malalt cremat
+i aleshores van fer una aplicació que et permet calcular exactament la superfície corporal cremada.
+És una app que l'obres i et demana l'edat, el pes i no sé si alguna dada més del malalt
+i et surt un ninot dibuixat a tota la pantalla
+i tu amb el dit vas dibuixant sobre el ninot que et surt en el mòbil,
+vas dibuixant exactament les zones que tu tens el malalt a sobre la llitera,
+vas mirant i dius aquí té el colze cremat, té el palmell de la mà cremada o només un tros del palmell
+té l'esquena tal i a cadascun li vas posant això és de primer grau, això és de segon grau, això és de tercer grau,
+amb el que et permet fer un dibuix molt precís, molt precís de cada una de les cremades que el pacient té.
+I com que tu li dibuixes, ell et diu per el que has dibuixat tu
+aquest pacient té un 35% de la superfície corporal cremada
+del qual un 20% és de primer grau, un altre 30% és de segon grau i un 60% és de tercer grau
+i amb això ja pots comunicar-t'ho a CECOS exactament 
+i donar-li una informació molt més precisa de com està el teu malalt
+i a més a més aquesta app, en funció de la superfície que tu li has dibuixat,
+que també pot ser diferent, hi ha un dibuix que és un nen petit o un adult,
+ja et diu els líquids que li has de posar, perquè com que li has posat l'edat, el pes i no sé què més,
+doncs l'app ja et diu, la primera hora, les primeres 8 hores, li hauries de passar
+500 de no sé què i els sèrums que li hagis de posar també t'ho diu.
+Però bé, la principal utilitat que jo li veig és que et permet dibuixar
+amb molta, molta, molta precisió la superfície corporal cremada total
+i quin tant per cent és de primer grau, segon grau i tercer grau.
+I és molt fàcil d'utilitzar i la teniu accessible per Android i per Apple de forma gratuïta.
+Utilitzeu-la perquè realment és útil.
+Doncs potser l'hauríem de fer accessible també a les tauletes, a les estacions clíniques de les tauletes del SEM,
+ja que també tenen un inot dibuixat, doncs podríem aprofitar.
+Exacte, sí, sí.
+Molt bé, interessant.
+Això, aquesta aplicació, per això encara disminuirà més les nostres capacitats matemàtiques, eh?
+Ni sumarem nous, ara ja, després d'això.
+Bé, però ara, com que ja tenim un xip que ens han implantat, això ja ho solucionarem.
+També tens raó.
+Molt bé, i fins aquí aquest segon episodi del pòdcast d'urgències i emergències en català.
+Si us ha agradat, no us oblideu de marcar el m'agrada a l'aplicació amb el que l'escolteu
+o en qualsevol dels múltiples llocs on tenim penjats els àudios.
+Ens trobem en el següent episodi.
+Molt bé, doncs moltes gràcies i molt contents nosaltres també d'estar un pòdcast més amb vosaltres.
+Fins la propera.

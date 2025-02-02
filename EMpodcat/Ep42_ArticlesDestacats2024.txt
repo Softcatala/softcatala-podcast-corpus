@@ -1,0 +1,666 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Bon dia, benvingudes a un nou episodi de l'EMPodCat, el 42 de la quarta temporada.
+Amb aquest episodi tancarem l'any 2024.
+I per aquest últim episodi de l'any tenim un tema que és un resum anual que el Xavi ens explicarà.
+Hem de fer les presentacions. Primer, jo sóc l'Albert Homs,
+sóc infermer del Servei d'Urgències de l'Hospital de Cerdanya, el transfronterer, aquest que som trilingües, i al SEM, doncs en una unitat concertada del SEM.
+També tinc un blog, que és l'emermedpirineus.cat, i em trobareu a Mastodon i a X, o Twitter, amb el mateix nom.
+I a l'altra banda, una mica més a l'est del Principat de Catalunya, hi ha en Xavi. Hola, bon dia, Xavi.
+Bon dia, què tal? Sí, jo sóc en Xavi Basurto i sóc metge a Urgències de l'Hospital de Figueres.
+I sí, tenim una pàgina web, un blog, que és urgem.cat i també a X.
+I aquestes xarxes també ens podeu trobar per Urgem.
+Ja sabeu que aquest pòdcast el podeu escoltar a totes les plataformes on s'escoltin pòdcasts. Si no hi som, ens ho dieu, que ens hi posarem.
+A Spotify també hi som, al YouTube... I també tenim un grup de Telegram,
+on interactuem una miqueta amb vosaltres, els oients, que ens escolteu i ens aguanteu les nostres...
+Mira, les nostres errades, per exemple. Ja haig de fer una petita fe d'erates de l'últim pòdcast, que ja vaig dir que seria el més polèmic i hem tingut alguna interacció.
+Jo vaig dir que no veia enlloc a les guies del SEM un procediment d'immobilització cervical.
+Bé, això és cert, no hi ha a les guies clíniques del SEM de Catalunya un procediment específic de l'immobilització cervical,
+però sí que si ens anem al tríptic del Codi Politrauma, del Codi PPT, hi ha un requadre que ens parla dels criteris d'immobilització complerta de columna vertebral.
+Deixant de banda les faltes d'ortografia, que ja sabeu que són uns perepunyetes, hi ha uns criteris de quan s'ha d'immobilitzar,
+que si us els mireu són una barreja dels criteris NEXUS que vam parlar i de la regla canadenca de columna.
+I ens parla que si hi ha aquests criteris, doncs evidentment hem d'immobilitzar i s'ha de posar el matalàs de buit fins a fer la transferència.
+En cas de dubte, sempre immobilitzar.
+Us els puc llegir aquests criteris d'immobilització, però gairebé prefereixo que aneu a mirar les notes de l'episodi,
+on hi haurà la imatge, o que busqueu el tríptic del Codi Politrauma on trobareu això.
+També recordar-vos que jo parlava específicament del collar cervical, però què hem de pensar que el paquet d'immobilització no és només el collar cervical.
+Amb el collar cervical ens quedem curts i sense collar cervical també podem fer coses.
+No vaig pensar dir-ho, però hi ha alguns llocs d'Austràlia on tenen collars cervicals, però tous,
+que l'únic que serveixen és per posar una nota que diu C-spine not cleared  No s'ha avaluat la columna cervical.
+Bé, un cop tot això, jo crec que podem anar cap al tema. Xavi, va, explica'ns de què ens vols parlar.
+Jo aquest episodi, ja que estem a desembre, volia fer un resum, una síntesi,
+dels estudis publicats que poden tenir més importància i més impacte en la salut
+i en el maneig que nosaltres podem fer dels pacients que ens venen a veure a urgències.
+Això té la seva complexitat, perquè no és tan fàcil ni evident poder fer una selecció de tots aquests estudis.
+I per què ho dic?
+Perquè és una quantitat molt elevada d'articles que es publiquen cada any.
+Només per posar un exemple, l'Hospital del Mar publica com 100 articles anualment en revistes que estan indexades.
+I el 40% d'aquests, per tant 40 o 50 articles, en revistes que, estan al primer quartil,
+és a dir, un 25% de les revistes on hi ha els articles més citats.
+Això només a l'Hospital del Mar. Al voltant tenim Can Ruti, Vall d'Hebron, tenim Sant Pau, tenim el Clínic,
+Bellvitge, una mica més avall tenim Tarragona, hi ha l'Arnau de Vilanova, hi ha el Trueta,
+segurament que me'n deixo algun més d'aquests grossos, però fàcilment ja en tenim 10 d'aquests grans hospitals
+que poden publicar tranquil·lament 100 articles en revistes indexades en bases de dades bibliogràfiques reconegudes.
+Això només a Catalunya. Doncs imagineu-vos a nivell de tota Europa i a nivell de tot el món.
+La quantitat de publicacions són grandioses.
+En una altra dimensió, per exemple, si mirem les bases de dades bibliogràfiques,
+parlem de Medline, que és la principal base de dades que veiem a PubMed, es publiquen 1,3 milions d'articles anualment.
+Una altra base de dades bibliogràfiques, Embase, que té un àmbit més europeu, més o menys un milió d'articles anualment
+van apareixent en les revistes que estan indexades en aquestes bases de dades.
+I n'hi ha moltes més, hi ha la Cochrane, hi ha el Web of Science, Scopus, Sinal, Lilacs, de Sud-amèrica,
+en moltes d'aquestes hi ha un tant per cent de solapament.
+ Entre Embase i Medline se solapen, jo què sé, un 40 o un 50 per cent de les revistes.
+Per tant, no és que se vagin sumant, però tenim moltes bases de dades,
+per tant, si anem sumant bases de dades bibliogràfiques, al cap de l'any estem parlant de, no ho sé, 10 milions d'articles
+científics que parlen sobre salut, per dir una estimació grollera, és molta quantitat.
+Aleshores, poder fer una síntesi d'això és complicat.
+Aleshores, què podem utilitzar?
+Doncs, igual que hi ha revistes on es publiquen estudis originals, un assaig clínic, una revisió sistemàtica,
+un estudi de cohorts, tot això ho publiquem en revistes científiques, que sí que hi ha un filtre, perquè hi ha uns experts que llegeixen el que has escrit
+i te fan esmenes i tu respons les esmenes i si al final els hi sembla ho publiquen i si no els hi sembla, no ho publiquen.
+Per tant, hi ha un filtre. Però és un filtre que es posa en ells. Cada revista es posa els seus filtres i els seus experts que llegeixen i filtren.
+Per tant, hi pot haver un biaix tranquil·lament, perquè ells poden dir: no, no, aquest estudi està molt bé i tal, però no és el que ens interessa a nosaltres ara publicar.
+Per tant, està molt esbiaixat el que es publica en una revista.
+Cosa què fa de gran importància que ens queixem i que els hi fem notar tots els biaixos.
+I això va a compte de la infrarepresentació històrica de les dones en tot el que és literatura científica.
+ Exacte.
+En tots els vessants.
+Les dones, i per exemple, la gen gran, els vells, els ancians, tots aquests estan molt poc representats en els estudis directament i després en les publicacions.
+Aleshores, sí que hi ha organismes o bases de dades secundàries, que en diuen, que sí que el que fan és intentar fer un cribatge de tot el que es va publicant.
+Lògicament, amb tots aquests milions d'articles i milers i milers de revistes científiques que hi ha, doncs el cribratge no és sistemàtic, no és universal.
+Per exemple, una que veurem és del New England, seleccionen 150 revistes, les que ells consideren millors de tot el món,
+150 revistes que abarquin tota la salut de les persones i a partir d'aquí fan un doble filtre.
+Hi ha uns experts que són científics, que saben de fer lectura crítica
+i revisa que aquell estudi sigui metodològicament correcte, que no hi hagi... o els biaixos que hi hagi siguin mínims.
+Per tant, que hi hagi un nivell d'evidència, una certesa, una confiança del que t'estan explicant, que és el que realment passa a la vida real.
+Un cop això et passa aquest filtre, aquests articles seleccionats, ho passen a altres professionals que són més clínics,
+que potser no hi entenem tant de metodologia ni d'investigació, però són més clínics i, per tant, passen aquests estudis
+i aquesta gent clínica diu això està molt bé, m'heu dit que està molt bé, però a la pràctica clínica això no és viable, no és pràctic.
+Per tant, molt bé que estigui molt bé l'estudi, però no és pràctic.
+Per tant, aquest estudi, sigui perquè els investigadors, els metodòlegs diuen que no és correcte o perquè els clínics diuen que no és rellevant clínicament,
+el 90%, per no dir més, de tot el que es publica, no és útil, no és rellevant o no és vàlid.
+Per tant, no caldria ni que es publiqués.
+Aleshores, aquestes revistes secundàries, aquestes bases de dades secundàries, el que fan és això, un doble filtre i el que ells consideren vàlid i rellevant,
+fan un petit resum d'aquell estudi i després te fan un comentari d'ells, dient que aquest estudi està bé, no sé què, té aquestes limitacions,
+per tant, el nivell d'evidència seria moderat i això que ens diuen ho podem aplicar a la pràctica clínica.
+Te fan un resum de les 3, 4, 5 o 10 pàgines que té l'article, doncs et fan un resum una pàgina.
+I amb una sola revista et resumeixen 150 revistes que es publiquen, que t'hauries de llegir tu tots aquests milers d'articles.
+Si aquesta gent cobren, jo patiria per la feina.
+ Per què?
+És molt probable que no cobrin, perquè tota la indústria editorial aquí només cobren dos,
+però aquí nosaltres som incapaços de llegir un milió d'articles anuals, però hi ha màquines que t'ho poden fer.
+Home, sí, però... que t'ho poden llegir, ja ho sé, però...
+També s'inventen coses, també, també.
+Clar, clar, la intel·ligència artificial, com diuen els experts, al·lucina.
+Per tant, sempre t'has de mirar que el que t'estigui dient la intel·ligència artificial realment sigui allò.
+Bé, doncs el que he fet és això, és anar a buscar aquestes bases de dades secundàries. Aviam què ens deien.
+N'he revisat algunes. Per exemple, una bona font d'informació així filtrada, que són similars, és UpToDate i Dynamed.
+Són llibres electrònics, online, dividit en temes.
+A cada tema hi ha una sèrie d'experts que el que fan és revisar la bibliografia, que es va publicant, i van filtrant
+sobre el seu tema responsable, s'ho revisen i diuen, tot això no, i d'aquest més només ens quedem amb aquest estudi.
+Aleshores, tant un com l'altre tenen unes seccions on van posant totes les novetats,
+tots els articles que es van publicant que a ells els sembla interessant.
+I de tots aquests, en seleccionen uns quants que en diuen articles que probablement faran canviar la pràctica clínica.
+I jo m'he centrat en aquests. He buscat només aquests, aquests que diuen. Aquests articles, pensem nosaltres que realment ens obligaran a canviar alguna cosa de la pràctica clínica.
+I això ho he mirat en UpToDate i en Dynamed. Entres a UpToDate i a Dynamed i te'n vas a la secció d'actualitzacions i de Practice Changing Updates
+i allà ho trobaràs llistat. I l'únic que he fet és, que això sí que és un biaix que puc haver tingut jo, és anar seleccionant
+de tota aquesta llista d'articles quins es podien aplicar a urgències.
+Hi ha un altre, per exemple, que és l'ACP Journal Club, que és de l'American College of Physicians, o sigui, del Col·legi Americà de Metges,
+que és un journal club, un club de lectura crítica, que fan això, un doble filtre, filtren les 120 revistes principals que es publiquen a tot el món,
+hi ha uns experts que són de la Universitat de McMaster, que valoren si l'article és metodològicament correcte o no,
+i, quan un cop està això fet, tenen una xarxa, que suposo que deu ser de voluntaris, de 3.600 professionals a tot el món,
+que els hi arriben aquests articles ja filtrats i diuen, sí, això a la pràctica de clínica és útil o això no.
+Doncs tot això d'aquí ells ho van publicant a l'ACP Journal Club i ho classifiquen per especialitats, llavors tu vas a veure la d'urgències,
+la de càrdio, la de neumo, la de no sé què, i mires quins articles ells han seleccionat.
+I després hi ha el Journal Watch del New England Journal of Medicine.
+Compte, eh? New England, això, aquest què és? És la primera publicació de Medicina? O, si no és la primera, de les 10 primeres?
+Sí, sí, hi ha 4 o 5 que són les més importants, no? Però sí, el New England és de les grosses.
+Aquests revisen 150 revistes i seleccionen. I després també he agafat una secció de la Cochrane, que també fan una secció de respostes clíniques.
+De les revisions sistemàtiques Cochrane que ells publiquen, seleccionen les que poden ser més útils per als pacients,
+les que estan actualitzades i uns altres criteris que tenen i n fan una resposta, bé, em fan un resum.
+En lloc de tenir les 150 pàgines, em fan un resum en mitja pàgina.
+Em sembla que en tinc com una desena d'articles seleccionats i si vols, Albert, si vols, faig un esment de cada un d'ells i dic de què van
+i quina és la recomanació que ens dona la revista secundària o les conclusions a les quals arriba l'estudi
+i després que cadascú, si algun d'aquests els sembla interessant, com que en el bloc ja hi haurà l'enllaç d'aquest article
+o del resum de la revista secundària, que cliqui i que vagi a llegir exactament quina dosi era aquell medicament que era beneficiós per fer no sé què.
+Perquè si no estaríem aquí ara dues hores parlant de tots aquests estudis. Et sembla bé, Albert?
+Va, sóc tot oïdes, t'escolto.
+El primer era, parlàvem de la... sedació pediàtrica, quan has de fer algun procediment dolorós, per exemple, a urgències,
+si cal o no cal preoxigenar els nens abans o durant la sedació.
+I això és un article de l'Annals of Emergency Medicine del 2024. És un estudi retrospectiu, no és un assaig clínic,
+és un estudi retrospectiu multicèntric que analitzen 85.000 sedacions pediàtriques durant el 2020 i el 2023.
+I van veure que en un 51% de les vegades es va fer oxigenació abans del procediment i en un 60% en qualsevol moment del procediment abans i durant.
+I van veure que no hi havia diferències pel que fa a les complicacions o a les necessitats d'intervenir
+per solucionar algun problema de la via aèria, de la ventilació, de la circulació o de qualsevol altra cosa.
+Per tant, els resultats, posessis oxigen abans o durant o no posar-lo en cap moment, a no ser que sigui absolutament necessari perquè dius, ep, està dessaturant,
+doncs posar-lo així de forma preventiva en una sedació per fer un procediment amb un nen a nivell de pediatria no té cap utilitat.
+Inclús, se sap que de vegades si poses oxigen pots emmascarar el que estigui hipoventilant i ho vegis més tard,
+pots estressar una miqueta el nen perquè al posar-li l'oxigen i el soroll i no sé què, de vegades es posen més nerviosos i no aporta cap benefici.
+Per tant, la recomanació era, amb nens sotmesos a una sedació per un procediment, es recomana no fer servir una preoxigenació.
+Diferències entre nens i adults, eh? Amb els adults segurament no diria el mateix, especialment si tenen malalties cròniques. Va, vinga, una altra.
+Antibiótics. Antibiótics en la prevenció de la pneumònia associada al respirador, en pacients que tenen una lesió cerebral aguda.
+Cal posar-li un antibiòtic o no cal posar-li un antibiòtic?
+Doncs això és una publicació del Lancet Respiratory Medicine del 2024.
+Això sí que és un assaig clínic, aleatoritzat, multicèntric, amb un cegament doble que el comparaven amb placebo,
+de posar antibiòtic o no posar antibiòtic per prevenir una pneumònia en els pacients intubats per una lesió cerebral aguda.
+Les conclusions d'això és que posar ceftriaxona, dos grams endovenosos comparat amb placebo, és a dir, no posar antibiòtic,
+sí que redueix el fet que facin una pneumònia associada al respirador i passes d'un 32% a un 14%.
+Per tant, la reducció és significativa i la mortalitat també disminueix, del 25% al 15%.
+Déu-n'hi-do, és la meitat això.
+Amb uns efectes adversos similars.
+Per tant, ens recomanen que en pacients adults amb una lesió cerebral aguda
+i entenen lesió cerebral aguda, tant TC moderat, TC greu o ictus, que requereixin intubació, ventilació mecànica,
+en aquests, recomanen una dosi única de dos grams de ceftriaxona endovenosa dins de les primeres 12 hores posteriors a la intubació.
+És com l'antibiòtic aquest que es posa intraoperatori durant les intervencions quirúrgiques. En fas un i no en fas més.
+Exacte, sí, sí, sí. I no costa. Tampoc ho has de fer en el moment. Tens 12 hores per fer-ho, això.
+Per tant, quan ho tens tot controlat, pensar-hi, posar-li una ceftriaxona.
+Què més? Què fem en les hemorràgies cerebrals que estan amb anticoagulants directes,
+inhibidors del factor 10: apixaban, edoxaban, ribaroxaban.
+Això és del New England Journal of Medicine, també del 2024.
+És un assaig clínic que es diu ANEXA-1, assaig clínic multicèntric, aleatoritzat, en aquest cas sense cegament, amb 530 participants,
+en el qual es va fer servir dues coses.
+L'experiment és utilitzar l'andexanet, que és com l'antídot d'aquest factor inhibidor de la coagulació.
+Jo no el coneixo i no sé si, per exemple, en el meu hospital el tenim, però sí que apareix a l'Agència Espanyola del Medicament,
+per tant, interpreto que està comercialitzat i que es pot adquirir. No sé si el coneixeu o si l'heu fet servir.
+Jo sé que és molt car, molt, molt car.
+Tu saps que és molt car?
+No et sé dir ni el preu ni si en tinc o no, però que és molt car, ho sé.
+Doncs, amb aquest andexanet, sí que aconsegueixen estabilitzar una miqueta l'hemorràgia, d'un 67% a un 53%,
+comparat a si ho fas servir al complex protrombínic que fem servir habitualment.
+Per tant, sí que controla una miqueta més que no segueixi avançant l'hemorràgia, l'hemorràgia cerebral,
+però també s'associa amb un risc trombòtic important d'ictus isquèmic i d'infart de miocardi,
+amb una diferència també significativa, el 10,3% amb andexanet i només del 5,6% utilitzant el complex protrombínic.
+I un altre variable de resultat és que la mortalitat i els resultats funcionals del pacient als 30 dies són similars.
+Per tant, aquí sí que és millor per controlar l'hemorràgia l'andexanet, però s'ha d'administrar en funció del risc d'hemorràgia que té el pacient
+i del risc trombòtic que té el pacient.
+I després en funció dels protocols locals i la disponibilitat que en tinguem.
+Però no és sempre, sempre qualsevol que tingui una hemorràgia cerebral i prengui apixaban, posar-li.
+Si és un pacient que té molt risc hemorràgic i l'hemorràgia és molt important, doncs sí.
+Però si no, li estàs posant un medicament que gairebé fa el doble de risc trombòtic de fer una isquèmia cerebral, un infart cerebral o un infart de miocardi.
+Per tant, posem-lo, però vigilem a qui l'hi posem.
+A part que això és comparat amb els complexos protrombínics, que nosaltres tenim el Beriplex, però hi ha l'Octaplex i no sé,
+que també valen una burrada però clar, a diferència de l'andexanet que només et serveix per aquests medicaments nous, l'altre et serveix per altres...
+O sigui, és probable que la teva empresa, com és el meu cas, que en comprem poquet, no hi ha cosa més emprenyadora que comprar-ne poc i que caduqui.
+Tenim dues coses que fan el mateix i és probable que, no sé, si tenim andexanet després d'això és probable que el deixem de tenir.
+És possible, és possible.
+Va, això és tret d'UpToDate. De Dynamed, només remarcar un esprai nasal d'adrenalina.
+Ep!
+La mateixa adrenalina que estem fent servir en l'anafilaxi, el xoc anafilàctic,
+que després ja receptem un autoinjectable d'adrenalina que la gent té a casa i no sé què,
+doncs el mateix que poden tenir a casa amb l'injectable intramuscular, doncs ara existeix en esprai nasal.
+Sigui pel que sigui, per picades d'insectes, per aliments o per medicaments.
+Si fan una al·lèrgia greu, saben que per gent de més de 30 quilos poden fer servir l'esprai nasal d'adrenalina.
+I es pot repetir al cap de 5 minuts, si no has millorat,
+es poden posar en el mateix nariu una altra dosi d'aquest esprai nasal d'adrenalina i...
+Com bé ja sabran els pacients, quan els passa això, el primer que han de fer és demanar ajuda.
+És molt interessant, això de l'esprai nasal.
+Exacte. Existeix i està, almenys per l'Agència Europea del Medicament i tot això, ja està comercialitzat.
+Si ho prescrivim, no sé si a les farmàcies els hi donen o no, però en principi sí.
+Interessant, interessant.
+Va bé perquè si a algú li fa por punxar-lo, hòstia, això pot impressionar algú. Posar-te un esprai al nas és menys aprensiu, no?
+Qui més qui menys tots ens hem posat algun esprai quan estàvem congestionats de nas, no?
+Exacte.
+Home, als Estats Units tenen la naloxona en esprai que la porta la poli.
+Ah sí? No ho sabia.
+Sí, sí. Hi ha departaments de policia que porten la naloxona en esprai i també la fan anar com caramels.
+Ah, està bé això.
+M'agrada, m'agrada. esprai nasal d'adrenalina.
+A urgències tenim altres recursos, eh? Però...
+Home, si hem de fer servir un esprai nasal a urgències d'adrenalina, alguna cosa no estem fent bé.
+Bé, no ho sé. Què més? Va, una altra revista secundària que es dedica a això és l'ACP Journal Club, que hem dit abans,
+que és l'American College of Physicians, que publica aquests resums en la revista Annals of Internal Medicine.
+I n'he escollit algunes, per exemple, en pacients amb una sèpsia o un xoc sèptic.
+Què els hi posem? L'antibiòtic així de forma ràpida, Una perfusió en menys de dues hores?
+O de forma continuada, o més de dues hores? És a dir, fem una infusió prolongada o intermitent?
+Doncs tenim un article publicat al JAMA del juny del 24,
+que és una revisió sistemàtica que acaba amb una meta-anàlisi que inclou 18 assajos clínics aleatoritzats
+amb 9.108 pacients adults inclosos que tenien sèpsia o un xoc sèptic.
+I aleshores la cosa era, en una meitat els hi posaven un betalactàmic, sigui meropenem, o la piperacil·lina-tazobactam,
+o amoxici-clavulàmic, o ceftriaxona, en menys de dues hores, o en més de dues hores, o de forma contínua.
+I van veure que hi havia una reducció de la mortalitat als 90 dies en la pauta d'infusió perllongada.
+Per tant, la recomanació és que en pacients amb sèpsia o un xoc sèptic, intentar fer una infusió de diverses hores per reduir la mortalitat als 90 dies.
+Una altra bomba en el florero de l'UCI. No en tenen prou que ara sobre la bomba de l'antibiòtic.
+Sí, això afectarà més a nivell de semicrític, més que d'urgències, però bé,
+si moltes vegades tenim pacients d'urgències pendents que vagin al seu destí definitiu,
+doncs sàpigues que si li pots passar l'antibiòtic, el betalactàmic, de forma més perllongada, doncs és possible que disminueixi la mortalitat.
+Bé, un altre corticosteroides en la pneumònia adquirida en la comunitat, que estiguin en xoc, pacients xocats, pneumònies greus.
+Doncs això tenim un Lancet Respiratory Medicine, també del 2024, és un assaig clínic aleatoritzat, multicèntric,
+a 34 centres francesos, amb un cegament doble i gairebé 650 pacients inclosos.
+I ens diuen que en pacients amb una pneumònia greu, que tenen un xoc sèptic o una insuficiència respiratòria,
+una hidrocortisona en una embolada de 50 mil·ligrams cada 6 hores,
+més fludrocortisona en comprimits de 50 micrograms al dia, durant 7 dies,
+comparat amb no posar totes aquestes cortisones, doncs disminueix la mortalitat als 90 dies de forma significativa, amb un NNT de 8.
+Déu-n'hi-do, això està molt bé, eh?
+Amb un interval que va de 5 a 28, és a dir, que cada 8 pacients que tractem d'aquesta manera, hi ha un pacient menys que és mor.
+Per tant, pensar-hi, en les pneumònies greus, greus, hidrocortisona, més fludrocortisona.
+Més sobre corticoesteroides, en les pneumònies severes, també, Critical Care Medicine de 2024,
+hi ha una guia de pràctica clínica, que ara el 2024 s'ha actualitzat.
+És una guia feta per 22 membres de la Society of Critical Care Medicine, i que també ens parlen dels corticoides,
+que disminueixen la mortalitat hospitalària en pacients amb pneumònia greu.
+I, probablement, també redueixen la necessitat de ventilació mecànica invasiva en pacients hospitalitzats per una pneumònia,
+comparat amb no posar aquestes corticoides. Sí que augmenta una miqueta les hiperglicèmies, però tenim una solució fàcil normalment d'aquestes hiperglicèmies.
+Per tant, pensar-hi. Similar a l'anterior, que eren pneumònies greus amb xoc sèptic,
+doncs aquestes pneumònies severes que ingressen i tal, doncs pensar en els corticoides.
+Aquests corticoides van i venen, eh?
+Tenim èpoques que s'han de posar, després surten coses que et diuen que no, després tornen a venir.
+Suposo que hi deu tenir molt a veure quins pacients et trobes en les teves mostres. Cada vegada tenim gent més gran i...
+Sí, això és el que té la ciència, no? Que mai podem dir les coses al 100% segures.
+Que per més nivell d'evidència, sempre hem d'estar disponibles que aparegui un nou estudi que superi l'anterior, que sigui més ben fet,
+o senzillament que canviï una miqueta el tipus de mostra de pacients, i que potser la recomanació canviï una miqueta.
+Pot passar.
+Quan parles d'això d'evidència amb gent que no és del ram mèdic, s'espanten.
+Parles amb físics o químics, la seva determinació de validesa és molt més fiable que la nostra.
+Nosaltres considerem que un 95% de fiabilitat de que el que dius és cert ja ho donem per bo,
+i ells treballen amb 99,9%, per dir que la variabilitat estadística és per sota d'aquesta misèria.
+Els dius, no, nosaltres si estiguem un 5% equivocats ens està bé. I es posen les mans al cap.
+Sí, sí, clar, nosaltres treballem amb una incertesa molt, molt alta, no?
+Perquè hi ha molts factors que alteren la realitat, siguin factors de comportaments, tant dels pacients com dels professionals, no sé, hi ha molta variabilitat.
+I en una patologia greu intervenen, no sé, deu equips diferents de professionals sanitaris.
+Vull dir, les possibilitats de que les coses es vagin complicant i variant, al final treure una conclusió d'això és complicat.
+Sí, hi ha altres camps de la ciència que són més exactes i més precisos. Nosaltres ens hem de conformar amb el que tenim.
+Va, una altra cosa.
+Què fem amb els pacients amb disminució de nivell de consciència per una intoxicació aguda per drogues vàries?
+Els intubem o no els intubem per protegir la via aèria?
+Doncs tenim un JAMA del 2023. He agafat els últims 14-15 mesos, eh? No he agafat només els del 2024.
+Per això veureu que he de tant en tant dic algun estudi que és del 2023
+És un assaig clínic, aleatoritzat, multicèntric, 20 serveis d'urgències i una UCI a França també, amb 225 participants, amb una edat mitjana de 33 anys.
+I sí que hi havia un benefici del fet de no fer una intubació en el pacient que té un Glasgow per sota de 9,
+en els pacients que tenen una intoxicació aguda per drogues, normalment per alcohol,
+doncs sí que la mortalitat hospitalària, la variable conjunta era mort hospitalària o estada a la UCI
+i estada hospitalària en general, doncs tot això sí que el grup que se'ls va fer una intubació més retardada
+i esperem, esperem, a veure què passa, tots aquests variables de resultat milloraven.
+I sí que hi havia una disminució dels esdeveniments adversos en els pacients que retardaves o evitaves la intubació.
+Per tant, en funció d'aquest estudi, sí que es recomana que en pacients amb intoxicacions agudes,
+amb disminució de nivell de consciència, en Glasgow de menys de 9, i que per tant podries començar a plantejar si l'intubo o no l'intubo,
+doncs fer una estratègia conservadora, conservadora de: esperem a intubar-lo i veurem què passa.
+I això disminueix els ingressos, la UCI i les necessitats de ventilació mecànica, comparat amb intubar-lo ja allò en Glasgow 8.
+Glasgow 8, intubate.
+Glasgow 8, intubate.
+N'hem parlat alguna vegada i no sempre és així, eh?
+Podem esperar una miqueta.
+Analgèsia amb ketamina o morfina?
+Això és un American Journal of Emergency Medicine del 2024.
+És una revisió sistemàtica que inclou 15 assajos clínics aleatoritzats de diversos països,
+Estats Units, d'Iran, Aràbia Saudita, Israel, Malàisia, amb 1.700 pacients inclosos.
+I ens expliquen, bé, una dosi baixa de ketamina... dosi baixa de ketamina, he revisat una miqueta els estudis que havien inclòs
+i interpreten que és 0,3 mil·ligram-quilo de ketamina, per exemple, 20 mil·ligrams en un pacient de 70 quilos,
+doncs té un efecte analgèsic igual a una dosi estàndard de morfina.
+I dosi estàndard de morfina, en aquests estudis, es consideraven 0,1 mil·ligram-quilo, per exemple, 7 mil·ligrams en un pacient de 70 quilos.
+o sigui, té un efecte analgèsic similar però té un efecte, la ketamina, més ràpida i dura menys
+amb menys efectes adversos que la morfina per tant, no és descabellat i de fet ja ho fem servir moltes vegades
+la ketamina, doncs, per fer una analgèsia equianalgèsica que la morfina, més ràpida que després dura menys, si això t'interessa i amb menys efectes adversos
+Doncs espera't que aviat no veiem ketamina intranasal també, eh?
+També.
+Que hi ha estudis de ketamina nebulitzada que funciona raonablement bé. A veure el resum de l'any que ve, a veure què surt.
+Després, un parell de transfusions de concentrats d'hematies. Què fem?
+Els posem d'una forma conservadora o la mínima anèmia l'hi posem?
+Doncs hi ha un article del JAMA del 2023 del novembre i és una actualització
+d'una guia nord-americana de l'Association for Advancement of Blood Biotherapies
+i ens intenten dir a partir de quins nivells d'hemoglobina és necessari transfondre amb concentrats d'hematies als pacients.
+I les conclusions finals són que en pacients adults hospitalitzats i estables hemodinàmicament
+la recomanació és fer una indicació restrictiva de transfusió d'hematies. És a dir, esperar que l'hemoglobina estigui per sota de 7 grams per decilitre.
+I el mateix, 7 grams per decilitre en els pacients hematològics o oncològics
+i en pacients ingressats pendents de cirurgia ortopèdica o patologia cardiovascular,
+a aquests els hi podem posar la sang una miqueta abans, quan estigui l'hemoglobina per sota de 8.
+Per tant, en pacients estables, ingressats o pacients hematològics esperem que l'hemoglobina baixi per sota de 7.
+En pacients que se'ls ha de fer cirurgia ortopèdica o que tenen cardiopatia, en aquests, quan l'hemoglobina estigui per sota de 8
+li posem la transfusió de sang que considerem
+I bé, això, menys reaccions adverses i més econòmic i és igual de segur
+La guia aquesta ens comparar fer una estratègia restrictiva o una estratègia més liberal en funció de cada professional,
+doncs l'estratègia restrictiva és igual de segura, igual de beneficiosa, però amb menys efectes adversos i més econòmica.
+De la revista secundària del New England, del journal Watch, aquesta també ens parla d'unes transfusions de concentrats d'hematies en les lesions cerebrals agudes.
+És un assaig clínic aleatoritzat multicèntric de 72 unitats de cures intensives a 22 països, 850 participants, és l'estudi TRAIN
+i ens diuen que l'administració de concentrats d'hematies menys restrictiva, és a dir, aquí és el contrari,
+quan l'hemoglobina estigui per sota de 9 en lloc de per sota de 7, en pacients que tenen una lesió cerebral aguda,
+sigui traumàtica, sigui una hemorràgia subaracnoidal o una hemorràgia intracerebral, millora el pronòstic als 90 dies.
+Per tant, aquí sí, no? Aquesta gent que tenen aquestes hemorràgies traumàtiques o no traumàtiques, no hem d'esperar tant a posar-li, no ser tan restrictius.
+I quan estigui l'hemoglobina per sota de 9, ja posar-li sang.
+El següent és el mateix amb un infart d'agut de miocardi en un pacient que té una anèmia.
+Això és un Annals Internal Medicine del 2024, és una subanàlisi d'un subgrup que ja havíem pre-especificat en l'estudi MIND,
+que l'estudi MIND és un assaig clínic aleatoritzat, multicèntric, a 133 centres d'Estats Units, amb 3.500 pacients inclosos.
+I ens diuen que un infart d'agut de miocardi transfondre quan l'hemoglobina està per sota de 9, redueix el risc de mortalitat i de re-infart als 30 dies,
+comparat amb fer-ho quan l'hemoglobina està més baixa, quan està per sota de 8 o està per sobre de 7.
+Per tant, aquí també, igual que hem dit abans en les lesions cerebrals agudes, en l'infart d'agut de miocardi, potser no cal ser tan restrictiu.
+Quan l'hemoglobina estigui per sota de 9, ja li podem començar a posar sang.
+Això seria una miqueta com dir que si el teu problema és únicament l'anèmia, si triguem a posar-te la sang o posem la sang quan estàs més fotut, vas millor,
+però si el teu problema és una altra cosa, hauríem de tractar l'anèmia abans, perquè segurament ja tens molts mals de caps, com per sobre de preocupar-te de l'anèmia.
+Correcte, sí, sí. Podríem dir-ho així.
+Pancreatitis aguda i rínger lactat. Què els hi fem?
+Quina seroteràpia els hi fem a aquests pacients que tenen una pancreatitis aguda?
+Doncs hi ha un American Journal of Gastroenterology del desembre del 23.
+És un estudi observacional, no és un assaig clínic, perquè està pendent que es publiqui l'estudi Waterland, que sí que és un assaig clínic aleatoritzat,
+però en aquesta revista publiquen aquest estudi observacional, prospectiu, de 22 centres amb 1.000 pacients inclosos de pancreatitis aguda.
+I ens diuen que l'administració de rínger lactat en pacients amb pancreatitis aguda durant les primeres 24 hores,
+en lloc d'una solució salina normal, o fisiològic normal, utilitzant el rínger lactat, millora el pronòstic de la malaltia.
+El rínger lactat no deixa de ser un sèrum balancejat, igual que fem servir altres, algunes marques més diferents,
+però el rínger lactat el pots fer servir i sembla que millora el pronòstic.
+Però últimament hi ha un patró, que el sèrum fisiològic normal cada vegada es considera més anormal.
+Sí, amb les seves limitacions i no tenim una evidència molt certa,
+i segurament puntualitzar-ho en funció de cada patologia i en funció de la gravetat de cada pacient.
+Va, intubació d'emergència, normalment fem una preoxigenació. Doncs no està clar com l'hem de fer.
+Si no fas la preoxigenació abans d'intubar, revisa què fas, eh?
+Sí, però es pot fer de moltes maneres.
+Correcte.
+Aquí hi ha un New England Journal of Medicine del 2024, que és un assaig clínic multicèntric
+de 24 serveis d'urgències i de cures intensives dels Estats Units amb 1.300 participants.
+I ens diu que la preoxigenació l'hauríem de fer amb ventilació no invasiva, no amb un ventimask,
+ni amb una alta concentració, ni amb unes ulleres nassals, ni amb un alt flux, sinó que amb no invasiva.
+Durant la intubació, redueix del 18% al 9% el risc de fer una hipoxèmia greu.
+És a dir, que el pacient, durant aquest període de la inducció i la intubació, faci saturacions per sota de 85
+durant la inducció o fins i tot durant dos minuts després de la intubació que et faci aquestes hipoxèmies greus, fent servir una no invasiva.
+No ens parlen de si realment al final el pacient es mor més o passa més dies a la UCI o es complica més, no sé què.
+Sí que l'ensurt de la hipoxèmia greu, els redueixes a una meitat.
+Què més? Un d'interessant és tenir evidències de què passa amb els pacients d'edat avançada que passen tota la nit d'urgències pendent d'ingressar.
+Jo no sé si en els hospitals de la gent que ens està escoltant, si passa o no passa.
+No, no, què dius, home, per favor.
+Es podria donar el cas...
+Sí, sí, sí.
+Es podria donar el cas que al cap de l'any si féssim un recompte,
+veuríem uns quants pacients de més de 75 anys que s'han passat fins  aels 8 del matí o més enllà
+pendents d'un ingrés que s'ha demanat a les 8 del vespre o a les 11 de la nit.
+El compte de Twitter d'urgències de l'Hospital del Mar cada dia...
+Fan un resum, sí.
+Sí, sí.
+Sí, sí, és veritat. Doncs hi ha un JAMA Internal Medicine, del 2023.  Evidentment amb això no es pot fer un assaig clínic.
+No? Vols dir que un comitè d'ètica no permetria que tinguessis gent aparcada tota la nit en un passadís? Carai, quines coses, eh?
+Podrien fer-ho perquè és el que es fa habitualment. Per tant, no sé per què hauríem de...
+I els podries preguntar als pacients si volen ser inclosos en un estudi clínic que és o puges a planta o et quedes 24 hores en un passadís. Quines coses, eh? Osti...
+Aviam, aviam què dirien? Això és un estudi de cohorts prospectiu, 1.600 participants.
+És a França, també. Amb pacients de 86 anys de mitjana. I les conclusions són clares, no?
+Amb pacients de més de 75 anys, quedar-se tota la nit a urgències, pendent d'ingrés a planta, augmenta la mortalitat i augmenten els efectes adversos
+i l'estada final a l'hospital t'augmentarà, en comparació amb els pacients que ingressen abans de les 12 de la nit.
+I, fins i tot, el pronòstic encara és pitjor perquè estem parlant de pacients de més de 75 anys en general.
+Però els pacients que, a més a més, tenen una afectació per fer les seves activitats bàsiques de la vida diària,
+en aquests, tots aquests paràmetres de mortalitat, efectes adversos i estada hospitalària, encara és molt pitjor.
+No ho diguem gaire fort, que si ho fem algú de Madrid decidirà que els pacients vells no ingressin sempre a partir de les 8 del matí, mai abans.
+Sí, sí, sí. O podrien decidir que no cal ni que vinguin a l'hospital.
+És el que van decidir en el seu dia, sí.
+Va, ens en queden dos o tres i ja estic, eh?
+Els pacients amb migranya que venen a urgències, podem fer servir dexametasona com analgèsic per la migranya,
+però no quedava clar si 16 mil·ligrams o 4 mil·ligrams.
+I a la revista Neurology del 23, de l'any passat, hi ha un assaig clínic aleatoritzat,
+amb un cegament doble, 200 participants, i ens diuen que utilitzar 16 mil·ligrams no és millor que utilitzar-ne 4.
+En aquest estudi vam fer servir la metaclopramida més dexametasona. Uns quants van fer 16 mil·ligrams i uns quants van fer 4 mil·ligrams.
+I a les dues hores el tant per cent de millora o desaparició del dolor era igual 16 que 4 mil·ligrams.
+Per tant, com que no porta beneficis, fem servir els de 4 mil·ligrams i així ens podem estalviar algun efecte advers de posar-li més dosis de dexametasona.
+I de l'última revista secundària són les respostes clíniques de la Cochrane.
+Hi ha una que ens parla que si són necessaris o no els corticoides en les infeccions agudes per un herpes zòster.
+És una revisió sistemàtica del 23 amb 5 assajos clínics randomitzats i inclosos i un total de gairebé 800 participants.
+I ens diuen que l'administració de corticoides en pacients de qualsevol edat amb una infecció aguda per un herpes zòster
+no aporta canvis clínics significatius comparats amb posar-li un placebo pel que fa a la prevenció de la neuràlgia postherpètica
+ni al dolor, ni a efectes adversos, ni a la qualitat de vida dels pacients.  Per tant, no calen els corticoides en un herpes zòster.
+Què més? Anticoagulants orals directes, aquests nous anticoagulants, en les trombosis venoses proximals i/o embolisme pulmonar.
+És una revisió sistemàtica de la Cochrane del 23 amb 10 assajos clínics aleatoritzats inclosos que ens diuen que els
+anticoagulants directes no demostren una diferència significativa en l'eficàcia, és a dir, en la prevenció
+d'un embolisme pulmonar recurrent, de TVP proximal i de mortalitat per totes les causes,
+ni en temes de seguretat d'hemorràgies greus, en comparació amb fer l'anticoagulació convencional que podem fer amb els inhibidors de la vitamina K.
+Tot això en pacients amb TVP proximal o embòlia pulmonar.
+Per tant, no hi ha diferències significatives entre els anticoagulants directes i els antivitamina K o l'anticoagulació
+que fem estàndard habitualment en aquests pacients amb TVP proximals o embòlies pulmonars.
+L'últim que us volia explicar és una revisió sistemàtica de la Cochrane del 23,
+amb 34 assajos clínics i 5.200 lactants inclosos.
+Parlen del benefici de fer servir la solució salina hipertònica en els nadons que tenen una bronquiolitis.
+I ens diuen que la solució salina hipertònica nebulitzada, redueix el risc d'hospitalització i l'estada hospitalària.
+I en general millora lleument la gravetat clínica del lactant que té una bronquiolitis aguda.
+I és un tractament segur que sí que té alguns efectes adversos i algunes petites complicacions fàcilment solucionables.
+I per tant sí que ens recomanen aquesta revisió sistemàtica de la Cochrane ennadons amb bronquiolitis pots fer servir una solució salina hipertònica.
+Això, el salí hipertònic aquest, va i ve també.
+L'has vist entrar i sortir moltes vegades del llistat de...
+Moltes no ho sé, però...
+Et sona, no?
+Em sona, em sona. No serà el primer dia que la poso ni el primer dia que la deixo de posar tampoc.
+Sí, que et diuen, per què, per què? Això no es posa ja...
+Però ara es torna a posar. És una miqueta com l'estilsona, no? Que estilsona, dexa, dexa, estilsona
+i quan ja t'has acostumat amb una, després ve el següent. En fi.
+És el que hem dit abans, eh? Passa quan les recomanacions venen d'estudis observacionals, un estudi de pocs pacients,
+estudis que és fàcil que el següent estudi que es faci les conclusions siguin diferents.
+Per això cada dos per tres va canviant perquè fem les coses en base a un nivell d'evidència moltes vegades insuficient.
+ I de fet, és el que volia dir al principi, que milions d'articles publicats cada any
+i no hi ha un allau d'assajos clínics aleatoritzats i super ben fets sobre què hem de fer i què no hem de fer i què hem de deixar de fer a nivell d'urgències.
+No hi és això. Potser en altres especialitats sí, perquè a urgències tot el que fem moltes vegades és agafar coses d'altres especialitats i aplicar-lo a urgències.
+No anem sobrats de ciència.
+N'hem de fer més.
+N'hem de fer més.
+ Cosa que ens porta a la següent secció que diu que hem de fer menys.
+Més ciència i menys...
+I menys coses que no hem de fer.
+I menys pràctiques absurdes.
+Exacte.
+Va, què tenies pensat, Albert?
+Jo en porto una de les SEMES, de la Societad Española de Medicina de Urgencias y Emergencias.
+El Ministerio de Sanidad del Reino de España fa 7 o 8 anys va perseguir les societats científiques
+perquè fessin les seves recomanacions del Do Not Do, del No Hacer.
+Si
+I la SEMES van respondre i en van llençar 5.
+I m'he quedat amb una que, mira, llegint-la pensava, doncs no ho fem tan malament, que és la recomanació de no fer gasometries arterials a tot pacient que ve per a dispnea.
+Sí, d'acord.
+Que llavors mires i et diuen, quan s'ha de fer una gasometria arterial?
+Doncs bé, la gasometria arterial hem de fer només, segons diuen aquests documents de les SEMES, del Do Not Do,
+només hauríem de fer la gasometria arterial en pacients que tinguin una malaltia pulmonar obstructiva crònica,
+amb una exacerbació moderada o greu, que tinguin saturacions baixes i/o sospita d'hipercàpnia.
+I si la necessites per decidir si comences la ventilació no invasiva o no.
+Aquí dubto perquè penso que la ventilació mecànica no invasiva ja l'hauríem de decidir més per criteris clínics.
+Però, en fi, si tens una insuficiència cardíaca greu, diu que és una indicació de gasometria arterial,
+i en l'asma només l'hem de fer si tenim una crisi greu o de risc vital,
+si hi ha una mala resposta al tractament, o pacients que a pesar d'oxigen no puguis superar saturacions del 90%.
+És a dir, estem parlant de gasometries amb gent que venen bastant, bastant ofegats.
+Per què no les hem de fer sistemàticament a tothom?
+Doncs perquè és una tècnica invasiva que fa mal, com que fas mal a la gent a vegades els agafen coses i es desmaneguen una mica,
+pots cascar els nervis, pots fer un hematoma i si ara la cosa és una desgràcia, doncs pot ser una isquèmia distal.
+Jo no ho he vist mai això de la isquèmia distal, d'hematomes uns quants n'he fet.
+O sigui, només en aquestes tres indicacions.
+En l'MPOC reaguditzat, que tingui uns criteris o que vulguis saber si és candidat a fer ventilació mecànica no invasiva.
+Què més? En la insuficiència cardíaca, que vegis que està apurat, i en l'asmàtic, que estigui greu o que no respongui al tractament.
+Sí, sí. En certa manera em quedo amb la idea que la gasometria arterial ens servirà...
+en gran mesura per veure la pressió parcial de diòxid de carboni.
+Tenim una mesura bastant digna de la pressió parcial d'oxigen en sang, que és el pulsioxímetre,
+i penso que amb això podem funcionar en la majoria dels casos, i potser, doncs això. Només en aquests que la cosa pinta malament,
+doncs puguis necessitar alguna confirmació d'aquesta oxigenació per la gasometria arterial.
+Ara estava pensant en les pneumònies. Una pneumònia que no saturi bé, que? no li fem una gasometria?
+Doncs mira, aquí tens molta raó, perquè a més hi ha un d'aquests índexs per decidir si ingresses o no ingresses ningú per la pneumònia,
+que em sembla que es basa en una PaO2. Algú s'hauria de... mira, tenim feina.
+Companys que us agrada investigar, si és que algú ens escolta, es podria mirar de canviar aquest índex
+i en comptes de fer servir una PaO2 de gasometria arterial, fer servir una saturació perifèrica d'oxigen?
+Pensa que la saturació d'oxigen, quan baixes més de 90, que realment l'oxigen en sang sigui superior a 60 o no, ja no ho pots assegurar-ho tant.
+Com que no té aquella forma...
+Sí, la S sigmoide, sí, sí.
+Exacte.
+Que en funció del teu pH, doncs...
+Clar, si satures 97, estàs segur que estàs amb uns nivells d'oxigen en sang bé,
+però si estàs amb una saturació de 93 o 92 o 90, potser l'oxigen en sang són 55 o 50.
+Interessant. Potser aquest Menys és Més no està tan clar com algun dels altres que hem dit.
+Potser sí, però hi ha alguns casos, per exemple, la pneumònia, com que potser a la pneumònia hi ha interpretes que no té per què retindre CO2,
+ja sé que està dessaturant i que satura 85 o menys de 90, per tant, ja sé que està amb insuficiència respiratòria.
+A més a més, segurament estarà a 32 respiracions per minut. De què em treu una gasometria?
+No ho sé. Potser veure que està acidòtic? No ho sé. Però això pots fer-ho amb un equilibri venós.
+Exacte, sí, sí. La gràcia de l'arterial és només l'oxigenació i, en certa manera, tot i que potser no tant, la PCO2.
+Queda dit, es indicacions de gasometria arterial només en aquests casos que hem dit.
+La malaltia pulmonar obstructiva crònica, que vingui per una exacerbació moderada o greu, amb saturacions baixes o sospita d'hipercàpnia,
+si és necessària per iniciar o controlar la ventilació mecànica no invasiva,
+en la insuficiència cardíaca aguda greu i en l'asma només existeixen signes de crisi greu, risc vital,
+una mala resposta al tractament o pacients amb saturació que no es poden mantenir per sobre del 90% a pesar de l'oxigen que els hi poses.
+Fantàstic, Albert, molt bé.
+I fins aquí el Menys és Més.
+Passem a la següent secció, anem a l'UrgemMot?
+Anem a l'UrgemMot, avui tinc coses, tinc coses.
+Mira, vaig llegir l'altre dia un article, em sembla que era el Segre o la Manyana, un d'aquests diaris de la província de Lleida,
+en què sortia un senyor que escrivia i parlava del omeprazole, acabat amb e.
+Ah, sí? Ho deien així? Sí?
+Sí, sí, parlava... Ara no recordo com anava, perquè em vaig pensar, aquest ve a vendre les seves coses naturals, però escrivia omeprazole acabat amb e.
+Vaig pensar, mira, això l'hi has de dir al Xavi, que estarà content.
+Molt bé, molt bé, molt bé.
+Mira, jo tinc coses a explicar, perquè he estat preparant-me per avui, i pensava, quins mots puc dir,
+i llegint el llibre aquell de l'Ensenya'm la Llengua, de com en català ens havíem i ens referim encara, molts dels que parlen català, a coses de salut,
+ara m'he llegit el capítol de l'aparell respiratori, i tinc unes quantes paraules que em fa gràcia compartir amb vosaltres.
+Justament perquè ara és l'hivern i agafem galipàndries, de tant en tant, de moment encara me n'he escapat,
+però no crec que trigui a agafar la primera de la temporada,
+una galipàndria d'aquestes que pot fer que faci alguna flegma, que m'enrogolli.
+Enrogollar, no sé, això, a cada país li canviem les vocals,
+el que sí que he tingut és allò de la rautija que havíem parlat en algun altre episodi, aquesta sensació, aquest fregar d'aquí de la laringe,
+de la laringe, o es veu que a alguns lloc en diuen canyó d'això, o gargamella,
+que això de gargamella, doncs mira, jo sovint amb els meus fills m'haig d'esgargamellar bastant perquè em facin cas, bé, ara ja no tant, però en el seu moment havia costat.
+Però és que clar, això de la gargamella, per referir-nos a aquesta via aèria superior, també es veu que s'hi diuen carcabós, carcanyó, gargalló.
+Sí.
+Déu-n'hi-do.
+Bé, en fi, escolta, no sé quantes paraules en català, de les maques, de les que m'agraden molt a mi,
+i, que mira, alguna d'aquestes les començaré a posar a la història clínica.
+Ara que la sofraja ja la coneix tothom al meu servei, em buscaré alguna altra, a veure, què tal.
+ Ah, espera, espera, no, me'n deixo una, aquesta és infantil meva.
+No us ho penso explicar però que sapigueu que en alguns moments de la vida, la canalla, hem fet torraines i hem fet muntanya amunt.
+I aquí us ho deixo perquè us imagineu què vol dir això.
+Torraines? Ah, hem fet torraines.
+Jo ja estic, Xavi, va, a veure tu què tens.
+Jo havia fet una, ara que aquests dies estem amb la tema de la marató de 3CAT,
+que va sobre malalties respiratòries, com molt bé sabeu.
+I els del TermCat, que cada dos per tres publiquen alguna revisió de temes, no?
+I ara van publicar un diccionari de terminologia de les malalties respiratòries.
+Aleshores, jo me l'he mirat i he anat seleccionant aquells termes que en la vida d'urgències és possible que puguem llegir, escriure o parlar.
+Per exemple, n'hi ha alguns que ja havíem dit, com el bronquíol, no parlem de bronquiol, sinó que és el bronquíol pulmonar.
+L'alvèol, l'alvèol pulmonar, les bronquièctasi, amb un accent obert a la E i sense l'S final, això ja ho havíem dit.
+Els... anava a dir joves, i potser no són tan joves, persones que van amb un cigarret electrònic, és un vaporejador.
+Correctament, és un cigarret electrònic, però també en podem dir vaporejador.
+Vaporejador? Osti, quina cosa més .
+ Sí, els nois joves en diuen un vaper, però correctament és el pacient que utilitza un vaporejador.
+Un altre invent per fer-nos mal, hòsties, que no parem de trobar merdes, eh?
+El verb és vaporejar.
+Vaporejar.
+Sí. L'aparell és un cigarret electrònic o vaporejador. I serveix per vaporejar.
+A algú si que l'hauríem de vaporejar, ben vaporejat.
+Això està de moda i ara sembla que això és molt sa o menys perjudicial, no ho sé.
+No em facis parlar, no em facis parlar que estic de rucades fins al moño, ja.
+Hi ha una cosa que en castellà es diu junt, la tosferina. La tosferina en castellà va escrit junt.
+En català és tos-ferina.
+Ah, mira
+I hi ha dos sinònims que jo no havia sentit mai. Una, que és la distenta, o sigui, tos ferina, o distenta. La distenta no l'havia sentit mai.
+Jo tampoc.
+I després sí que es pot dir pertussis, que és el bitxo que fa la tos ferina, doncs pertussis.
+La vacuna DTP, diftèria, tètanus, pertussis.
+Exacte. Només ho deia perquè en castellà va junt, tosferina, en català va separat, tos ferina.
+Un altre que també m'ha creat l'atenció, perquè jo ho feia malament, quan parles d'un pacient amb una hipertensió arterial pulmonar,
+les sigles d'això, jo sempre havia posat HTP, la correcta és hipertensió arterial pulmonar, és HAP.
+Un altre que també m'ha cridat l'atenció, que un sinònim de grip és influenza. Ja sabem que el virus es diu influenza virus, A, B o C
+però que la grip tingués un sinònim que directament es pogués dir tinc una influenza, doncs jo no ho sabia.
+Els aparells que fan servir els pacients per autoadministrar-se el salbutamol, per exemple, és l'inhalador de cartutx pressuritzat, això ja ho havíem dit un dia.
+Sí, em sembla que va ser l'episodi anterior.
+O poden fer servir aquests que són com rodons per fer servir una càpsula que té una pols, aquests són inhaladors de pols seca.
+Malalties autoimmunitàries és millor que dir malalties autoimmunes.
+La forma més correcta és autoimmunitària. Autoimmune és correcte, però si pots fer-ho, posa autoimmunitària.
+Autoimmunitària?
+Després una altra cosa, que no sé si és una cosa meva o no, és la tuberculosi, que les sigles és T-B, no T-B-C.
+T-B-C és en castellà i jo sempre l'he escrit i crec que sempre he llegit T-B-C.
+Però el TermCat diu que la sigla de la tuberculosi és T-B.
+Jo amb això de la tuberculosi... és que cada vegada que sento la paraula tuberculosi em ve una cançoneta al cap.
+Sí, sí, a mi també.
+És que algun dia la cagarem de mala manera, en fi.
+No, home!
+Què més? Algun que ja havíem dit és el virus respiratori sincicial, enlloc de sincitial,
+amb aquesta T, en català no hi és, és virus respiratori sincicial.
+Hi ha uns sinònims que són bastant similars però el terme preferit pel TermCat,
+tots són correctes i el principal és que decidim un terme que tothom sàpiga del que estem parlant, però si estàs escrivint un informe
+o un certificat o una cosa una mica més oficial doncs posis virus respiratori sincicial
+I hi ha un dubte que no he esbrinat; tu que parlaves abans del pacient asmàtic que ve,
+que el veus malament i que no respon al tractament i que satura per sota del 90 i tal és difícil fer-ho però li hem de fer un peak flow.
+Aleshores no he trobat la traducció al català de peak flow, no ho sé.
+Una traducció literal que es fa servir és el cabal de punta,
+que això es fa servir, pel que he llegit jo, en temes d'hidrologia subterrània
+no ho sé, no sé si es podria dir mesurador de cabal màxim... estem mesurant el flux espiratori màxim
+però l'aparell que fem servir tampoc no sé exactament com traduir-ho, no sé
+fem-li un què? fem-li un... mesurem-li el cabal màxim? cabal de punta, sona molt estrany, no?
+Cabal de punta... no ho veig, eh?
+Sona estrany, poder tampoc té una traducció...
+Jo ho deixo, si a algú se li acut o algú sap o algú esbrina doncs que ens ho comuniqui per alguna via.
+A veure, també si tenim temps i ens recordem els preguntarem la gent del TermCat
+o l'Optimot o algun d'aquests que vetllen per això.
+Sí, sí, fan bastant cas, s'ho miren i normalment responen.
+Molt bé. Doncs va, anem a les recomanacions.
+La meva recomanació per aquest episodi inicialment era una i després m'he recordat que en tenia una altra d'exactament igual que no havia comentat.
+Algun d'aquests molts que segueixo recomanava una pàgina web que es diu radiologymasterclass.co.uk
+que és un lloc web també estèticament una miqueta dels norantes.
+que bàsicament és una pàgina per aprendre, per estudiar radiologia.
+té una part així de cursos, que tu pots apuntar-te a algun curs d'aquests en línia que deuen tenir, que pagues pels crèdits,
+però tenen també tutorials, galeries amb imatges i també tenen alguna juguesca.
+Me l'he mirat i aquest el tinc apuntat per mirar-me els tutorials de radiologia de tòrax.
+Tenen també de TCs, de tomografies computades de cervell i d'altres,
+però aquest de la placa de tòrax em feia una certa gràcia mirar-me'l.
+I després mirava aquest i dic, home, però tu en tenies un altre i resulta que no l'havia comentat, que és la Radiopèdia.
+És si fa o no fa el mateix, aquest és més FOAMED, és a dir, és més creat per comunitat.
+De fet, alguna vegada per les meves entrades al blog he fet servir alguna de les seves imatges, perquè tenen llicències més lliures que aquests altres, crec.
+Llavors tenim aquests dos que fan el mateix, el Radiologia Masterclass i el Radiopaedia.org,
+que també el mateix, i tenen els seus cursos, tenen les seves juguesques i tenen també...
+En aquest cas potser la Radiopèdia no té tutorials, però sí que tens imatges que expliquen el que hi ha darrere.
+I alguns articles que t'expliquen coses. En fi, dues pàgines web per el tema de radiologia...
+Bé, diagnòstic per la imatge, va, deixem-ho així, perquè quan dius radiologia se t'enfaden, perquè fan més coses.
+Molt bé, Albert, molt útil, molt bé.
+Jo us he portat una recomanació i una petició, també, perquè tinc unes necessitats formatives i m'agradaria que algú em donés un cop de mà.
+La recomanació és sobre intel·ligència artificial. Això no sé si ja hem parlat alguna vegada, Albert.
+Fa temps que ho tenim en cartera, perquè volem provar coses...
+Sí, hauríem de començar a dir alguna cosa.
+Sí.
+Jo només vull fer dues cosetes senzilles i fàcils, que són dues xorrades, però que penso que et poden ajudar.
+Són del xat GPT. És possible que algú faci un xat GPT monogràfic de temes.
+És a dir, tu fas un xat GPT de pagament i aleshores tu pots posar-li totes les fonts d'informació, pots posar-li documents
+i dir-li al xat GPT quan jo et faci una pregunta, les respostes me les treus d'aquestes fonts d'informació o d'aquests documents que jo t'estic posant aquí,
+i després compartir aquest xat GPT i fer-lo públic. 
+Hi ha un xat GPT que és de l'Ernesto Barrera, que és un metge de família de... 
+no sé si treballa ben bé a Madrid-Madrid o a l'àrea de Madrid i que es dedica des de fa molts i molts anys
+a fer temes de cerca bibliogràfica, lectura crítica i  medicina basada en l'evidència. 
+I aleshores pots buscar-ho a l'Ernesto Barrera i te'l pots enllaçar amb el seu...
+No sé si necessites tu tindre un xat GPT de pagament.
+Diria que no. 
+No ho sé.
+I aleshores és un xat GPT que tu li fas preguntes sobre temes relacionats amb medicina basada en l'evidència, de cerca bibliogràfic,a lectura crítica, investigació, etc.
+I com un xat GPT. Fas una pregunta i li dius respon-me en català, amb el que vulguis, 
+i fes-me una llista o fes-me unes columnes o fes-me el que vulguis
+i ell t'explica com fer una cerca bibliogràfica a PubMed a Medline, al que sigui,
+què són els mesh, com combinar els mesh què són els troncaments i què són els operadors booleans
+i tot el que vulguis saber sobre medicina basada en l'evidència, lectura crítica i etc. 
+Tots aquests dubtes que puguis tindre, doncs...
+sabem que la intel·ligència artificial té cert perill que al·lucini i que s'inventi les coses, fins que això no canvi d'aquí un temps.
+Sempre hem d'estar en alerta amb això.
+I l'altre molt similar és d'un investigador, crec que és peruà, que és el Josuán Barbosa. 
+Els dos els pots trobar si entres a Google Acadèmic, tant en Ernesto Barrera com en Josuán Barbosa. 
+Busques en el Google Acadèmic el seu perfil d'investigador i veureu que tenen quantitat d'estudis publicats. 
+I aquest el que té és també un xat GPT que es diu Consultor Académico de Ensayos Clínicos
+Diu Ensayos Clínicos, però te pot servir... és per quan tu tinguis algun dubte si estàs intentant fer algun projecte de recerca
+o tens un dubte més no sé, estàs fent una lectura crítica i no saps ben bé 
+si aquella forma d'estratificar els pacients per fer després l'aleatorització i tens dubtes de si això és correcte o no és correcte
+Doncs tu, a aquest xat GPT del Consultor Académico de Ensayos Clínicos clínicos, li dius quins sistemes d'aleatoritzar els pacients és el millor?
+I et fa tota una explicació. I això, i aquest sistema factorial o no sé què, en què consisteix?
+I t'ho explica en funció de les fonts que aquesta persona ha decidit que són les més... 
+que poden ser esbiaixades, evidentment, però tens menys risc que això el xat GPT ho vagi a consultar a la revista el magazine de salut...
+Les revistes aquelles que deies a l'episodi anterior o a l'altre, no? Les revistes aquestes... 
+Les depredadores.
+Exactament. Sí, s.
+Per exemple, sí, sí, que clar, el xat GPT segurament no discrimina entre una cosa i una altra, per més intel·ligent que sigui,
+però si algú ha fet un filtre i ha dit les respostes que surtin d'aquestes fonts d'informació, doncs està molt bé.
+No crec que sigui al 100% fiable, perquè segurament també pot consultar altres coses,
+però si es limita bastant amb això i saps del que estàs preguntant, et pot ajudar.
+Aleshores, d'anar fent un projecte de recerca, osti, m'han dit d'anar fent no sé què, doncs si tens dubtes per... no? 
+O li pots dir, dona'm un guió de com s'ha de començar un projecte de recerca.
+I et donarà un guió perfecte de com començar a plantejar un projecte de recerca.
+I després cada un apartat li dius, i com elaboro els objectius d'un projecte de recerca
+Els objectius principals o no sé què, els objectius específics...
+I tu li vas preguntant punt per punt com s'ha de fer un projecte de recerca, per exemple. És una altra utilitat. 
+Ara que dius això de GPTs personalitzats, m'ha fet pensar que jo també en tinc un parell.
+Els dos són de l'Elena Plaza, la Mas que Urgencias y Emergencias, que he recomanat ja fa molts episodis,
+i justament, això mateix que dius té un que es diu RCP-GPT. Suposo que hi té pujades les guies d'RCP i tu li pots preguntar el que creguis oportú.
+No hi he jugat gaire, mira. Amb això que has fet, ara igual hi dedicaré algunes estones. En té un altre també que és de farmacologia.
+Jo aquest també, el d'RCP-GPT, també el tinc, però ara m'has fet recordar que el tinc aquí una mica abandonat, sí.
+No l'he investigat gaire, aquest.
+Molt bé, interessant, interessant proposta. I què és el dubte que tenies? Va.
+No tinc un dubte, tinc una necessitat formativa sobre ventilació mecànica no invasiva.
+No trobo mai el temps d'anar-me'n a no sé on a formar-me o acabar de polir els detalls que necessito
+i volia saber si algú em podria recomanar algun curs o algun sistema de formació online
+per poder fer jo des de casa sobre ventilació mecànica no invasiva prehospitalària i hospitalària.
+ Si algú sap d'alguna cosa, ens podria fer aquesta recomanació, si us plau. 
+Nosaltres, justament, estem fent una ara en línia de no sé qui, es pagat per l'empresa i quan haguem fet la fase prevencial, li t'explicaré. A veure què tal.
+Val, o sigui, fer una part online i l'altra presencial, eh?
+ Sí, sí, sí. Ja t'explicaré com ha anat, però si algú altre dels nostres oients n'ha fet algun, sap d'algun recurs que ens ho expliqui.
+El canal de Telegram el tenim justament per això, perquè ens expliqueu coses vosaltres. A nosaltres ja en sentiu cada mes.
+I si no, per la xarxa X o per la que sigui, ens digueu alguna cosa.  Molt bé, Albert, no sé si ens quedava alguna cosa per fer. 
+Ens queda acordar dates per fer allò de la lectura crítica, ens queden coses pendents a nosaltres, però per comentar als oients, doncs no... 
+No sé com ens fem
+Sempre deixem coses obertes, no tanquem mai res. Vinga, va, que vagi molt bé.
+Vinga, adéu-siau a tothom. Adéu.
+I resulta que en aquest llibre, diu que a Puigcerdà diuen una paraula que  les meves fonts ceretanes em diuen que no existeix, això d'enxarmullar.
+Què vol dir això?
+Que ara ja no recordo ni per què venia a cuentu. Aquesta la trauré.
