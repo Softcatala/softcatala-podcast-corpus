@@ -1,0 +1,728 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Bon dia a tothom, bon dia a tots els oients.
+Avui és l'episodi número 43, de la quarta temporada de l'EMPodCat,
+que, com sabeu, és un pòdcast que fem gent diversa, de diferents llocs, on intentem fer una miqueta de divulgació,
+parlem de les nostres coses relacionades amb el tema de les emergències i urgències sanitàries, intrahospitalàries i extrahospitalàries.
+I avui, com cada episodi, excepte aquells episodis en què tenim algun convidat
+que ens ve a parlar d'algun tema encara més interessant,
+doncs com cada episodi, a l'altre costat del fil tenim l'Albert.
+Hola, Albert, bon dia.
+Hola, bon dia.
+Presenta't una miqueta, presenta't una miqueta.
+Em presento, jo sóc l'Albert Homs, sóc infermer del Servei d'Urgències de l'Hospital de Cerdanya
+i també de la base SEM del Territori.
+També tinc un blog, que és emermedpirineus.cat, l'emergència mèdica al Pirineu,
+i de resultes de fer el blog hem fet aquest pòdcast amb en Xavi, que ara et toca presentar-te tu, Xavi.
+Sí, jo sóc en Xavi Basurto, sóc metge d'Urgències i estic en el Servei d'Urgències de l'Hospital de Figueres i a la base SEM, a la 606 de Figueres.
+I escrivim coses en el blog que tenim, que és urgem.cat.
+Això ja ho sabeu la majoria de vosaltres. Què més ens falta dir, Albert?
+Que estem a totes les plataformes de pòdcast, que tenim el grup de Telegram, on amb els oients interactuem, i que tenim pendent de...
+No tenim data encara, perquè jo no tinc el meu calendari anual. Estem gravant el 23 de gener i encara no tinc el meu calendari de l'any.
+I no tenim data per fer un programa que volem gravar específicament de lectura crítica d'articles científics.
+Jo en triaré un i el Xavi en triarà un altre i ens agradaria que hi participéssiu els oients també.
+Però encara no tenim data, per tant encara no us podem convocar.
+Estigueu atents al grup de Telegram, que espero que properament puguem triar aquesta data i llavors puguem fer aquesta lectura crítica, pot ser interessant.
+Doncs pendent de tenir una data per fer una lectura crítica interessant de literatura científica en el món de les urgències i les emergències.
+Avui l'Albert ens ve a explicar un tema molt interessant que veiem molt recurrentment, en molts pacients i que és el pacient que està en xoc.
+És així, Albert? Ens vols explicar aquesta situació que no és fàcil de tindre un bon maneig? Explica'ns alguna cosa, va.
+De fet, no és fàcil perquè en si el xoc no és fàcil.
+Vaig traduir en el seu dia un onepagerICU, és un recurs que vam recomanar.
+Hi ha un metge, el doctor Nick Mark, que va fent infografies resums de temes força interessants
+i en tenia un del xoc indiferenciat i vaig pensar que seria interessant traduir-lo al català i el vaig traduir.
+Ara no us explicaré estrictament aquesta infografia, però la faré servir una miqueta com a guió per parlar del xoc.
+Els que heu anat seguint els nostres 40 i escaig episodis sabeu que de tant en tant parlem de qüestions bàsiques.
+Hem parlat de la pulsioximetria, hem parlat de la pressió, doncs aquest és un altre.
+Si sabeu molt bé què és la capacitat de transport d'oxigen i coneixeu tota una sèrie de paràmetres d'hemodinàmica,
+doncs probablement aquest episodi us quedarà molt curt.
+Sempre està bé repassar, encara que siguin coses bàsiques, per més que en sàpigues, sempre està bé, no? A mi em serveix.
+Sí, sí, sempre surt alguna cosa que no sabies.
+Bé, per parlar una miqueta del xoc, el que potser hauríem de començar parlant és una miqueta de fisiologia bàsica per entendre el que vindrà després.
+Si entenem una miqueta aquesta fisiologia, entendre després què serà el xoc pot ser més senzill.
+Mireu, l'evolució ens ha portat als humans i a la majoria d'espècies vives del planeta,
+a tenir un metabolisme cel·lular que necessita fer servir tota mena de molècules i ens ha portat a fer aquest metabolisme en base a l'oxigen.
+El Xavi m'està mirant estrany ara perquè pensa, hòstia, si comencem així això s'allargarà tres dies.
+Estàs començant per l'inici de la vida al planeta, no? Per parlar del xoc. Això està bé.
+Bé, de fet començo a parlar després del gran oxidació, però això és una altra història.
+Bé, la qüestió és que les nostres cèl·lules necessitem fer aquest metabolisme i fem servir una molècula que és l'ATP, si algú li sona.
+No té res a veure amb el tenis, no, això de l'ATP?
+No té res a veure amb el tenis, no, és l'adenosina trifosfat.
+Bé, la qüestió és que l'evolució ens ha portat a fer tot aquest metabolisme per obtenir aquests ATP fent servir oxigen.
+Totes les molècules orgàniques les podem oxidar, els lípids, els glúcids, les proteïnes, els alcohols,
+els podem metabolitzar i convertir-los en aquesta molècula ATP.
+El metabolisme de l'oxigen és molt eficient en això, és a dir, cremem totes aquestes molècules per obtenir l'ATP
+i quan cremem alguna cosa, doncs sempre el que obtenim és un producte a rebuig que sempre serà aigua i diòxid de carboni.
+Aquest és el metabolisme més eficient però abans d'aquest n'hi havia un altre i he fet encara es manté que és un metabolisme menys eficient però que no necessita d'oxigen.
+Aquest metabolisme anaeròbic, perquè no necessita oxigen, també degrada molècules, sobretot en aquest cas glúcids
+i per altres vies arribes també a degradar lípids, però això és una altra història.
+ I aquí el producte de rebuig que ens interessa és el lactat.
+El diòxid de carboni es comporta com un àcid, a efectes pràctics. I el lactat també.
+Per què dic això de l'àcid? Doncs perquè tot aquest metabolisme que us estic explicant necessita d'un entorn que sigui adequat perquè totes les reaccions químiques funcionin.
+I aquest entorn ha de ser estable en quant a la seva acidesa, en quant al seu pH.
+Per tant, si nosaltres en aquest entorn hi anem afegint més àcid, doncs les reaccions químiques no funcionaran gaire bé.
+Fins aquí la fisiologia bàsica cel·lular.
+Tenim clar que necessitem aquest oxigen per fer el metabolisme tal i com Déu mana.
+Necessitem que arribi l'oxigen a tots els teixits. Quan ets una sola cèl·lula enmig d'un mar, l'oxigen el tens a la vora.
+Però quan tenim grups grans de cèl·lules, entitats pluricel·lulars, les que estan al mig no estan en contacte amb l'exterior.
+A l'exterior sí que tenim oxigen, però ha d'arribar a totes les cèl·lules.
+Llavors l'evolució ens ha portat als éssers pluricel·lulars a desenvolupar una capacitat de transport.
+Un sistema cardiovascular que ens permet traslladar tot aquest oxigen, també totes les altres substàncies que necessitem,
+però com que totes les altres substàncies tenim magatzem de sobres doncs no ens preocupen. Ens preocupa l'oxigen que no en tenim gaire de magatzem.
+Ja ens comencem a acostar al que és el xoc.
+Aquí ja estem parlant que necessitem un sistema cardiovascular per fer arribar aquest oxigen als teixits.
+Bé doncs, la definició senzilla de xoc és una diferència, unes demandes d'oxigen dels teixits superiors a les que el sistema cardiovascular els hi pot entregar.
+És a dir, els nostres teixits passen de funcionar amb el seu metabolisme ben parit, l'aeròbic, el de l'oxigen,
+a començar a haver de funcionar amb metabolismes que no fan servir l'oxigen, molt menys eficients.
+I que, com que són molt menys eficients, dificulten el seu funcionament fins a arribar a impedir el funcionament normal de la cèl·lula i a produir la seva mort si això s'allarga en el temps.
+Per tant, definició de xoc, la senzilla, és demanda d'oxigen superior a la capacitat d'entrega que tenim. Sí?
+Sí, correcte.
+Molt bé, doncs ara ha d'entrar un altre concepte, que és aquesta capacitat de fer arribar l'oxigen. El delivery d'oxigen, DO2.
+Per quí li soni, el DO2 aquest és una formuleta que ens diu quan oxigen al nostre organisme pot traslladar els teixits.
+Que sapigueu que els humans anem sobradíssims de capacitat de transport d'oxigen.
+Les nostres demandes d'oxigen, especialment les basals, són molt inferiors a la capacitat que tenim de proporcionar-ne als teixits.
+Com més vells ens fem, més curta es va fent aquesta diferència. Com més entrenats estem, més ample és aquesta diferència.
+Jo us llegeixo una miqueta la fórmula perquè hi surten uns conceptes que haurem d'anar detallant per entendre més d'això del xoc.
+La fórmula ens diu que el DO2, la capacitat d'entrega d'oxigen en els teixits després,
+és el producte del cabal cardíac, que si algú se'n recorda és la freqüència cardíaca pel volum sistòlic,
+és a dir, quantes vegades batega el cor per quanta sang és capaç d'ejectar en cada batec, doncs aquest és un dels dos factors d'aquesta multiplicació.
+Tenim d'una banda el cabal cardíac i de l'altra tenim la quantitat d'oxigen que pot transportar el líquid transportador, en aquest cas la sang,
+que té dues parts, la part que podem transportar dins la hemoglobina dels hematies i la part que podem transportar dissolta en el plasma.
+El component dels hematies és bàsicament una constant per la quantitat d'hemoglobina que tenim i també per la saturació d'oxigen d'aquesta hemoglobina,
+és a dir, quanta d'aquesta hemoglobina està saturada, està adherida a les molècules d'oxigen.
+I també hi ha un altre factor que en pressions ambientals normals no té gaire valor, que és la quantitat d'oxigen dissolta en el plasma.
+És la pressió parcial d'oxigen multiplicat per una constant que és... 0,03. Una solemne misèria.
+L'oxigen, en circumstàncies normals, només es transporta per la hemoglobina.
+Però si agafem aquest individu, el posem en una càmera hiperbàrica, li fotem una pressió ambiental d'una burrada d'atmosferes,
+doncs aquesta persona podria transportar prou oxigen dissolt en el plasma que no necessitaria ni un sol hematia.
+Perquè és que realment la quantitat d'oxigen que necessitem és molt baixa.
+Es necessita al voltant de 250 mil·lilitres d'oxigen per minut per mantenir el nostre metabolisme cel·lular basal.
+Una persona que no estigui fent res, consumeix només un quart de litre d'oxigen pur per minut.
+Anem molt sobrats. De fet, l'hemoglobina és una molècula que té quatre grups heme, que poden captar una molècula d'oxigen cada grup.
+Doncs realment només en gastem un d'aquests quatre, en circumstàncies normals. És a dir, anem sobradíssims.
+Abans has comentat un tema relacionat amb l'edat, menys capacitat de transport d'oxigen amb l'edat.
+Suposo que això, per la fórmula, només deu dependre del cabal cardíac,
+perquè l'hemoglobina i la saturació i la pressió d'oxigen en l'aire, això no s'altera especialment.
+Si no tens una malaltia, no.
+Una persona d'edat avançada si està sana, si disminueix la seva capacitat de transportar oxigen,
+deu ser perquè el seu cor ja no és capaç de bategar amb la mateixa intensitat.
+Correcte. De fet, és una multiplicació amb dos factors, en funció de com s'alteri cadascun dels factors.
+En el cas dels vells, el problema que tenim és que el factor del cabal cardíac. té una freqüència cardíaca i no pot augmentar tant com quan ets jove.
+La freqüència cardíaca màxima és 220 menys l'edat, o una cosa així, no recordo ara el càlcul.
+Aquí vas veient que no pots arribar més amunt. L'altre ja dependrà de moltes altres coses, però realment si és el que dius tu.
+Dins aquesta multiplicació el factor que per edat s'afectarà més, crec, és el del cabal cardíac.
+Si algú que ens escolta creu que això que estem dient és incorrecte, estic absolutament disposat a corregir-me, l'únic que cal que és que vingui i ens ho expliqui bé.
+Jo sóc un pobre desgraciat que l'únic que faig és llegir molt, però de saber-ne no en sé pas tant.
+Molt bé, molt bé.
+Estàvem amb això que anem molt sobrats.
+I de fet, anar tan sobrats d'aquesta capacitat de transport d'oxigen és realment el principal problema que tenim amb això del xoc.
+Perquè durant molt temps, podem tenir una situació en què les nostres cèl·lules, la demanda és superior a l'oferta, però som capaços d'augmentar-la.
+Si ara en comptes de 250, necessito 300, puc augmentar una miqueta la meva capacitat de transport, augmentant el cabal cardíac, bàsicament, i no adonar-me'n.
+I, de fet, perquè s'entengui, m'agradaria explicar-vos dues o tres coses que no són xoc, però que comparteixen elements, i això ens ajuda potser a entendre una miqueta més de què estic parlant.
+Jo n'hi dic això situacions anàlogues al xoc, perquè no podem dir que siguin un xoc, però et fan pensar que alguna cosa s'assembla.
+Per exemple, l'exercici extenuant. Si et fots a córrer com un boig, doncs arriba un moment que has de parar.
+La teva capacitat de transportar oxigen als músculs, bàsicament, perquè és qui consumeix aquí, doncs no dones més.
+Quan has arribat a la teva freqüència cardíaca màxima, quan la teva fracció d'ejecció ja no es pot augmentar, la teva hemoglobina no la pots augmentar, perquè això necessita dies,
+tot això, doncs ja no pots ofertar més. I els teus músculs comencen a treballar amb anaeròbic, comencen a generar molt lactat,
+comencen a treballar pitjor, i arriba un moment que has de parar. No pots més.
+Clar, això no és un xoc, perquè la teva demanda s'aturarà en un moment en què l'oferta ja no arriba.
+És anàleg al xoc en el sentit que portem la nostra capacitat de transport a l'extrem màxim. Ja no podem augmentar més l'oferta i, per tant, començarem a acumular lactat.
+Acumulant lactat, doncs es farà la nostra acidosi, els nostres músculs començaran a funcionar pitjor i tot això
+Aquesta és una idea. No és un xoc, per què? Doncs perquè parem, i ja està. I com que parem, doncs no ens passa res més, no?
+Parlàvem també, en la formuleta aquesta, de la saturació d'oxigen.
+Si a l'entorn en el que estem, hi ha menys oxigen del compte, quan dic menys, vull dir menys, però no massa menys,
+perquè si no n'hi ha cap, doncs en tres minuts estarem transportant zero oxigen, les nostres cèl·lules començaran a patir totes i en misèria de temps estarem morts.
+Però si estem en una situació d'un nivell relativament baix d'oxigen, doncs ens trobarem en el mateix.
+Tenim una capacitat de transport enorme, però si no hi ha oxigen disponible, no el podem transportar.
+És l'accident aquest típic de les sitges industrials.
+Els treballadors baixen a sota la sitja i es posen a treballar allà, van consumint aquest oxigen, o bé hi ha menys oxigen allà,
+és una sitja de vi, per exemple, doncs hi haurà un fermentat molt important i poca quantitat d'oxigen.
+Aquesta persona, si comença a tenir mal de cap, es comença a trobar estrany, diu hòstia, hòstia, hòstia, i surt, no morirà, però si es queda sota la sitja acabarà morint.
+I aquest és un xoc, però la capacitat cardiovascular no està afectada.
+Per tant, el separarem una miqueta perquè el xoc és una pila de etiologies diferents que ens porten en aquesta situació i cada una s'ha de tractar diferent.
+Aquí, realment, el nostre cos no és el problema. El nostre cos està perfecte. El problema és l'entorn.
+I una cosa semblant ens passa quan ens intoxiquem amb monòxid de carboni.
+El monòxid de carboni el que fa és desplaçar l'oxigen. És a dir, l'oxigen en tenim de disponible, però el monòxid de carboni s'enganxa a l'hemoglobina i d'allà no surt.
+I com que transportem bàsicament a través de l'hemoglobina, doncs a les nostres cèl·lules no els hi arribarà oxigen.
+En aquest cas, el cabal cardíac és collonut, però la nostra capacitat de transport està afectada perquè disposem de menys hemoglobina disponible per transportar.
+O el cas del cianur, de l'àcid cianhídric si és en un incendi, que el que fa aquesta substància és s'enganxa a la mitocòndria,
+que és la part de la cèl·lula que genera totes aquestes reaccions químiques per obtenir l'ATP, s'enganxarà a la mitocòndria i d'allà no sortirà.
+A les cèl·lules els arribarà l'oxigen, però la cèl·lula és incapaç de fer-lo servir.
+El pacient tindrà els mateixos símptomes d'un xoc, però la seva capacitat de transport no està afectada.
+Són situacions anàlogues al xoc, que es comporten de forma molt semblant, però que no entrarien en aquesta definició de xoc de la capacitat de transportar l'oxigen és inferior a la demanda que hi ha.
+Aquí m'ha vingut al cap el tema de la cambra hiperbàrica, que segurament el que fa és augmentar la quantitat d'oxigen que hi ha perquè li arribi als teixits en lloc de...
+que ja està saturada l'hemoglobina per monòxid de carboni, per exemple,
+però si estàs en un ambient amb una alta pressió d'oxigen, aquest oxigen deu anar a dissolt amb el plasma i t'arriba als teixits.
+De fet, estaria bé que algun savi de la medicina hiperbàrica que em consta que al país tenim gent molt, molt sàvia d'aquest tema,
+doncs ens ho vingui a explicar, perquè realment és un tema molt interessant.
+Fins aquí tota la qüestió fisiològica.
+La part que ve ara potser per mi és la més important, que és, molt bé, ja sabem què és el xoc, però com ho veiem, com es presenta un xoc.
+Per mi és una part molt complexa i reflecteix la realitat del xoc.
+La realitat del xoc és que és un quadre sindròmic molt igual per a moltes etiologies
+Tenim una quantitat de causes enorme que ens porten a aquesta situació de xoc, aquesta situació de dèficit d'oxigen als teixits per incapacitat de transport.
+Ens podem trobar que tingui un inici subtil, que és la immensa majoria de vegades, que comença a poc a poc o que tingui un inici abrupte.
+Potser el cas de xoc més extrem és l'aturada cardíaca. L'aturada cardíaca, la capacitat de transport la passa a zero en un moment.
+Per tant, els teixits començaran a patir aquesta situació al segon zero.
+Passes d'estar bé, estar completament inconscient i deixar de respirar perquè ja no tens capacitat muscular, etcètera.
+Aquest és el cas extrem. És tan extrem que no podem considerar ni xoc.
+Un hemorràgia exsanguinant també és molt abrupte i ens porta a un xoc hipovolèmic, que és una de les causes de xoc, molt ràpid, i aquest el veurem.
+Però la majoria comencen de forma molt més subtil. I aquí, per mi, és on la caguem molt.
+Perquè com més temps passa el cos en aquesta situació de manca d'oxigen, més pateixen les cèl·lules, més cèl·lules moren, més difícil és de tornar.
+Per tant, el xoc és una situació temps-dependent. Quan abans el detectem, abans el podrem tractar, abans el podrem reconduir, les nostres cèl·lules patiran menys i tenim més possibilitat de supervivència.
+Com més tard el detectem, menys possibilitat de supervivència. O sigui, el xoc té una mortalitat molt gran. I com més tard l'agafes, més mortalitat. No acabo de dir cap bestiesa, oi, Xavi?
+No, no. És una patologia temps-dependent i per això s'inventen els codis i aquestes coses,
+perquè com més deixem el teu metabolisme amb aquestes vies poc eficients, més difícil serà de recuperar-lo d'allà on tots el trobem.
+Doncs ara el que ens interessa és ser capaços de detectar aquest xoc.
+Si sabem que com més temps trigues a detectar-ho, més mata, doncs el que ens interessa és detectar-ho l'abans possible.
+Hi ha unes quantes eines que ens poden ajudar, o tot el contrari.
+I m'explico.
+Els que comencen de forma subtil, també tenen una presentació subtil i de la majoria no te n'adones gaire.
+Per exemple, una de les primeres coses que probablement es notarà és l'oligúria, és a dir, una disminució de la producció d'orina.
+Però és que hi ha moltes coses que fan que orinis menys. De fet, primer, com a individu, te n'has d'adonar que orines menys.
+A més a més, si ho vol fer algú de forma externa, necessites mesurar-ho i ningú es mesura l'orina.
+I poca gent porta una sonda urinària que puguis observar externament si orina menys o no.
+I per fer-ho ben fet necessites 24 hores, també.
+Exacte. Per tant, aquest, que és un signe subtil, que comences a tenir problemes,
+Per què? Doncs perquè el ronyó, quan està mal perfos, treballa menys, per tant produeix menys orina.
+Bàsicament tot el que anirem veient és l'afectació de cada un dels òrgans.
+A més a més, és progressiva, anirem veient que van fracassant mica en mica. I com que és mica en mica, doncs a vegades costa adonar-se'n.
+Les alteracions analítiques, si tu fas una analítica i comences a veure que el fetge li puja una miqueta el no sé què,
+que li passa no sé que per allà, són molt subtils, pot ser qualsevol cosa, a més a més.
+També deu haver-hi el problema que, com que tenim molts mecanismes compensatoris,
+tu no te n'adones perquè el teu organisme ja té estratègies perquè no te n'adonis
+i puguis seguir amb la teva vida normal esperant que el problema inicial per art de màgia o per art de la ciència es millori.
+I, per tant, com que tu et vas compensant quan el teu cos ja no pot compensar-ho més, ja portes moltes hores en un dèficit i quan te n'adones és massa tard.
+I que, a més a més, la compensació també és progressiva.
+Tu vas compensant i no s'acaba de forma abrupta, habitualment, sinó que va fracassant també la compensació.
+Amb la qual cosa, és tot un procés que, a la part del final, tothom té claríssim que estàs xocat, però potser estaves xocat un dia abans i no s'havia vist.
+Un que és important, i aquest, com més experiència tens, segurament és un dels que més et crida l'atenció, però costa molt de discernir, és els canvis d'estat mental.
+Una pregunta a fer a la família, habitualment, és dir, el veu normal? Està més adormit? Està més estrany?
+És un canvi d'estat mental. No necessàriament cap a la somnolència, a vegades s'agiten.
+Es que trobo que fa uns dies no s'està quiet. Ep, aquí hi ha hagut un canvi d'estat mental.
+Ara m'estic recordant dels últims casos que hem tingut, perquè hem tingut 3 o 4 els últims mesos, de xocs que han arribat i és que els veus i dius, aquí passa alguna cosa.
+Clar, es fa molt difícil, perquè aquí passa alguna cosa, doncs també una persona que té una demència que fa 3 dies que beu menys,
+també tindrà un comportament una miqueta diferent al seu habitual.
+És el gran problema. Tot és molt subtil.
+D'aquí em ve al cap el tema del triangle pediàtric.
+Una cosa que fas és valorar el comportament, la interacció del nen amb el medi ambient, i ja deu ser per això,
+perquè una de les primeres alteracions que tens és això que dius tu, de l'alteració aquesta de l'estat mental, i després també forma part, no sé si ho parlaràs després, del Quick SOFA
+Una part és alteracions de l'estat mental. Per tant, hi ha un quadre amb això que dius tu,
+que una cosa que s'alterarà a principi és aquesta interacció que tu tens amb el que t'envolta, que no estarà normal si estàs xocat o pre-xocat.
+I el principal problema d'això és que necessites algú que ho avaluï.
+En l'avaluació pediàtrica és molt fàcil perquè els nens acostumen a tenir gent que se'n cuida i que els coneix molt bé i, per tant, poden dir si sí o si no.
+Si la persona que et ve és una persona que ningú coneix, que ve sol,
+doncs es fa molt difícil avaluar quin és l'estat mental normal d'aquesta persona.
+Em ve al cap un client que tenim que és un alcohòlic crònic, doncs que ens ve a veure cada dos per tres,
+al final ja el coneixes tu com a professional, però si aquesta persona ve un dia que no hi ets tu que el coneixes, el comportament d'aquesta persona és normal o no és normal?
+Sí, sí, sí.
+Potser fes esment que hi ha gent que s'agita molt i, en gran part, són pacients que han fet un brot psiquiàtric d'alguna mena, però a vegades no.
+Per tant, compte amb etiquetar gent que està agitada, que està agressiva, que té un comportament disruptiu,
+compte amb etiquetar-los de psiquiàtrics perquè potser et pots trobar una sorpresa i després ja vas tard.
+Deixa'm fer una puntualització, Albert, que amb la gent gran, amb els vells, poder el que s'agita
+vindrà abans a urgències perquè, lògicament, a la família li és més difícil tindre la persona a casa.
+En canvi, si la reacció del pacient és la hipoactivitat, potser aquest sí que arriba més tard perquè la família o el cuidador que tingui,
+potser no li crida tant l'atenció o no li impedeix que estiguis a casa fins més tard que dius
+ostres, realment avui no es desperten, no parlen, o sigui, els crida l'atenció més tard i vénen a urgències més tard.
+Sí, sí. La gran dificultat del xoc és la seva identificació. I ja aneu veient que estem donant tota una sèrie d'indicacions, cada una de les quals és menys específica que l'anterior.
+Una que també és rellevant, que ara que parlàvem de l'analítica, és la acidosi làctica.
+Si tu li fas una gasometria, ja sigui arterial o venosa, i tens una certa acidosi metabòlica i li mesures el lactat i és una miqueta alt,
+recordeu-vos aquest lactat que us explicava com a producte rebuig del metabolisme anaeròbic.
+Això és una indicació que alguna cosa passa. Vol dir que tens un xoc? Bé, home, si estàs molt avançat serà evident.
+Amb números subtils tampoc pots dir, ep. La gràcia és que aquí tenim un marcador, que és el lactat, que implica metabolisme anaeròbic.
+Que aquest sigui degut a una situació d'hipoperfusió, una situació en què els teixits reben menys oxigen del compte, no ho saps, però és una indicació. Allà queda.
+No us quedeu només amb que lactat alt és igual a xoc. El lactat alt té altres causes. De fet, els dos metabolismes coexisteixen.
+No tenim un interruptor que diu, ara vas anaeròbic, ara vas anaeròbic. Tenim els dos i un puja o baixa per diferents motius.
+El que jo us diria de fixar-nos-hi molt, molt, molt, són els canvis cutanis.
+I aquí dic canvis cutanis perquè ens interessarà veure la coloració de la pell i el temps d'omplerta capil·lar.
+Una de les coses que observarem és aquests canvis de coloració.
+Jo us diria d'anar a mirar fotos a internet d'una sèrie de... perquè també torna a ser molt subtil.
+I, a més a més, amb l'edat, que la nostra pell també es modifica, doncs també no és el mateix una criatura petita que saps que ha d'estar vermellet
+i que si el veus blanc dius, hòstia, aquí passa alguna cosa, que no pas algú de 70 anys, que a més a més et ve del carrer, que fa fred.
+Quin és el problema? Doncs que la nostra pell reacciona a l'ambient.
+Si fa fred, fem vasoconstricció, per tant, tendim a estar més blanquets.
+Si fa calor, tendim a vasodilatar per perdre temperatura, acostumem a suar i a estar més vermells.
+Això no té res a veure amb la nostra situació de perfusió dels teixits.
+El temps d'ompliment capil·lar és una eina que en el seu moment, fa molts anys, es considerava molt important, va perdre el seu carisma i després ha tornat a venir.
+El temps de reompliment capil·lar vol dir comprimir una estructura distal, normalment ho fem a la punta dels dits, però també ho podríem fer a l'orella,
+la comprimim durant uns segons, el temps just per esprémer tota la sang que hi ha, que quedi completament pàl·lid,
+i llavors observem el temps que triga a tornar a recuperar la coloració que tenia prèvia.
+Es considera que si triga més de 3 segons, tens un temps de reompliment capil·lar lent.
+És a dir, la capacitat del teu sistema cardiovascular de fer arribar sang en aquella zona està disminuïda.
+Si vols fer-ho ben fet, hauries d'agafar un vidre d'aquests de laboratori, d'aquests que fan servir per posar les mostres al microscopi i prémer.
+A efectes pràctics, nosaltres què fem? Pressionem damunt l'ungla, ho deixem que quedi completament pàl·lid i mirem el que triga el dit a tornar a la seva coloració normal.
+Si us ho proveu vosaltres ara, com imagino que molts estarem fent, doncs veureu que en un, dos segons ja torna.
+En canvi, si fots la mà sota l'aigua freda un parell o tres de minuts, quan la tinguis glaçada, prova de fer-ho. Ja veuràs que no tira.
+Jo el que faig és comparar la seva ungla amb la meva. Al mateix moment que pressiono la ungla seva, pressiono la meva,
+i veig si hi ha una diferència perquè tinc els dos dits un al costat de l'altre i veig si el meu reompliment capil·lar
+és immediat i l'altre dit que tinc al costat del pacient és evidentment més lent, penso que allà hi ha un problema, no?
+M'agrada, com a idea no és dolenta. No tens cronòmetre però tens a tu mateix. Està ben pensat això.
+Fixeu-vos que hem parlat de molts signes però no hem dit res de les constants biològiques. No hem dit res ni de la freqüència cardíaca ni de la pressió.
+I no hem dit res perquè són molt rellevants. De fet, moltes vegades es fa servir la pressió arterial baixa com a anàleg del xoc.
+I sí que és veritat que molts xocs acabaran amb pressió arterial baixa però potser ja va tard quan passa això.
+El nostre cos intentarà compensar aquesta hipoperfusió, aquesta manca d'oxigen als teixits,
+modificant la resposta cardiovascular i per tant ens canviarà tant la freqüència cardíaca com la freqüència respiratòria com la pressió arterial.
+ El que passa és que depèn de quin moment estiguem d'aquesta capacitat de compensació, ens trobarem que o pugen o baixen.
+Així com a idea general, si algú està amb una pressió arterial baixa, molt baixa,
+doncs gairebé podríem assegurar que està en xoc especialment si ho associem a qualsevol de les altres coses.
+Perquè si em mesuressin la pressió quan estic dormint profundament tinc una pressió relativament baixa.
+Però si estic en un estat mental lleugerament alterat i una pressió arterial baixa, home sembla que ho tenim una mica clar aquí, no?
+Però també puc estar compensant perfectament i tenir una freqüència cardíaca relativament alta, amb una pressió arterial relativament alta i puc estar xocat igual.
+Perquè el que estic fent és compensant.
+El que comentaves del triangle d'evolució pediàtrica, els nens la pressió arterial l'aguanten moltíssim.
+Un nen amb una pressió arterial més baixa que li toca per edat vas molt, molt tard. Ja pots córrer.
+Però fixeu-vos que pots estar xocat i no tenir la pressió arterial baixa.
+La freqüència respiratòria és un signe que ja n'hem parlat moltes vegades que es mira poc, però és molt rellevant aquí.
+Si tu estàs fent una acidosi làctica, és a dir, estàs acumulant lactat, el cos intentarà compensar l'acidosi i ha d'exhalar més diòxid de carboni.
+Per tant, la teva freqüència respiratòria augmentarà.
+Amb una acidosi normalment respires més de pressa i més profund.
+Després entraríem aquí amb les respiracions atàxiques i aquestes històries, però això ho deixem per un altre dia, els patrons respiratoris.
+O sigui, diries que saber la freqüència respiratòria que té el pacient de forma exacta seria molt important?
+Seria molt important. A més a més, l'única eina fiable que tenim per mesurar això, que és el capnògraf, et dona més informació,
+que és un diòxid de carboni exhalat que segurament serà més baix del que tocaria, que és una altra de les eines que podríem tenir per valorar això.
+Com que ja vam parlar amb el tema de la capnografia, quedar-te només amb el numeret, sense la resta de coses, hòstia, la pots cagar, eh?
+Sí, però passar-te un minut al costat del pacient mesurant la freqüència respiratòria de forma precisa, jo penso que també és molt important, eh?
+Sí, però tots sabem que és mentida, perquè ningú ho fa. Un minut és molt llarg.
+Sí.
+I és el motiu de fer-ho.
+De fet, quan tu te n'adones, probablement ja vas tard. Quan te n'adones és perquè estàs mirant i dius ui, aquest senyor respira de pressa.
+I que aquesta persona respiri de pressa vol dir que probablement ja estigui amb freqüències respiratòries per sobre de 30,
+o tingui una expansió toràcica evidentíssima, per tant està movent volums molt per sobre del seu normal.
+És molt important, fem-ho, mesurem una freqüència respiratòria de veritat, no fem el ridícul de dir que està a 16, com tots, que tots estan a 16.
+Fixeu-vos que no li dono tanta importància als constants biològiques, tot i que la tenen.
+I de fet, us introdueixo una eina de la qual m'agradaria parlar un dia només d'aquesta, que és l'índex de xoc.
+L'índex de xoc és una petita eina aritmètica ben simple, és una divisió entre la freqüència cardíaca i la pressió arterial sistòlica.
+És un tema al qual m'agradaria parlar pràcticament només d'això, perquè hi ha moltes variacions, hi ha molta cosa escrita i té un cert interès per ell mateix.
+La idea és que com més diferència hi ha entre la teva freqüència cardíaca i la teva pressió arterial sistòlica,
+és a dir, com més alta és la freqüència cardíaca respecte a la pressió arterial sistòlica, més possibilitats tens que tinguis un xoc.
+De fet, quan tu estàs amb una freqüència cardíaca alta, habitualment la teva pressió arterial sistòlica puja,
+perquè estàs amb una situació d'adrenèrgia, que el teu sistema fa que treballis més.
+Un número de tall que donen és 0,9. Per exemple, una freqüència cardíaca de 90 per una sistòlica de 100. Això seria 0,9.
+A partir de 0,9 la possibilitat que estiguis xocat és més alta. Fixeu-vos que dic la possibilitat, no dono garanties.
+El fet que tinguis un xoc índex de més de 0,9, que tinguis un xoc índex de 1 o de 1,5 no vol dir que estiguis xocat.
+Vol dir que podries tenir molts números a estar xocat. I segurament hi haurà algun número
+que et diran a partir d'aquí el 90 no sé quants per cent que tenen aquest índex de xoc realment tenen un xoc. És una eina que ens ha de servir per triar.
+Si jo tinc algú amb un índex de xoc de 1 amb 2, és una persona a la qual hi haurà de fer més cas que si no passa i té un índex de xoc de 0,5.
+Ja tenim eines que ens poden ajudar. Tenim aquesta del temps de reompliment capil·lar. Tenim aquesta de l'ús de l'índex de xoc.
+Pressions arterials molt baixes ens poden indicar que està xocat? Sí, però compte. No ens quedem només amb la idea que xoc és igual a pressió arterial baixa.
+Una altra eina que jo m'hi estic fixant molt i està pensada per al xoc sèptic,
+no sé fins a quin punt amb altres es pot fer servir, però és una eina també és el que n'hi diuen el mottling score,
+que seria l'escala de les livideses o de... en francès n'hi diuen marbrure, del marbre de les livideses.
+Això quan ho has vist una vegada ja no s'ha t'oblida, perquè us feu una idea que és una pell que és bàsicament pàl·lida i en comptes de ser totalment blanca,
+totalment marbre blanc, el que tenim és unes estructures, unes línies d'un color rosadet.
+No és que tota la pell estigui rosada, sinó que tu tens bàsicament un color molt blanc i amb unes estructures d'un color rosadet.
+Si heu vist mai algun cadàver, en funció del temps que porta el cadàver en aquella posició, els declius acumulen la sang que va baixant
+i té un color molt més rosat-lilos que no pas la part superior, que és molt més blanca.
+Doncs la idea del mottling score és que tu mires les cames i en funció de quanta part de l'extremitat inferior té livideses, li dones un número.
+El mottling score d'1 és que només la ròtula té aquest color del marbre blanc amb aquestes estructures reticulars més rosadetes.
+Aquest és un mottling score de 1. Pràcticament impossible d'avaluar, perquè la ròtula, si ho fixeu, és molt petita. A vegades faig l'omplerta capil·lar allà a veure què tal.
+El 2 ja agafa tot el genoll, el 3 agafa fins a mitja cama, més o menys, el 4 agafa tota la cama, i el 5 ja arriba fins a l'engonal.
+Si tu veus algú amb totes aquestes livideses, li pots donar aquest  mottling score de 1 a 5.
+Quan estic al triatge i em ve una ambulància molt sovint destapo els genolls. Si hi ha  mottling score, nivell 2 se'n va cap al box de reanimació, després ja ho veurem.
+Jo us he donat aquestes 3 eines. Tu ens has parlat del Quick SOFA, que és una eina una miqueta més complexa,
+o l'escala NEWS, o hi ha tota una sèrie d'eines que el que fan és, d'uns pocs signes, més les constants biològiques, et dona un numeret
+que et fa pensar que la persona estigui més o menys afectada.
+La gràcia d'aquestes escales és que et donen una sensibilitat i una especificitat diagnòstica.
+Diuen què pots esperar quan et donen el resultat i també et donen unes prediccions.
+Si tu tens una escala no sé quina amb un no sé quin número, la possibilitat de supervivència és no sé quina.
+En el cas del Mottling Score, per exemple, el Mottling Score de 5 em sembla que té una mortalitat del 80%.
+Tot això que us he explicat ara té el gran problema que això, si no ho veus, costa molt de fixar-t'hi després
+Per tant, tots els que tingueu poca experiència i ho estigueu estudiant, quan hi hagi algun pacient que presenti qualsevol d'aquests signes, que us els ensenyin i que us ho expliquin.
+Perquè això ho gravareu i ho tindreu més clar la propera vegada.
+ No sé si tu tens algun altre signe o símptoma que et faci pensar que una persona està en xoc, a part de tota aquesta...
+Fins ara mateix no se me... No.
+Sé que normalment totes aquestes eines, moltes vegades, són difícils d'interpretar, també, perquè poden estar afectades per mil històries.
+Que si la medicació que pugui prendre el pacient, o això de la pell pel fred que pugui fer, o pel temps que hagi passat a la intempèria, o mil històries.
+Si prens beta-blocadors no et pujarà la freqüència cardíaca, per tant el teu xoc índex no valdrà...
+Exacte.
+Necessitem moltes eines perquè segurament no n'hi ha cap que sigui la definitiva i la més vàlida i exacta per fer una predicció o per fer un cribratge.
+Jo penso que no deu estar inventat encara el sistema amb l'idoni. No sé si d'aquí un temps ho tindrem, però...
+Per les etiologies, diguem-ne, més cardiovasculars, hi ha unes eines per valorar la microperfusió perifèrica,
+que et permeten avaluar la microcirculació perifèrica, a veure si arriba sang a l'extrem dels teixits o no.
+Veurem, potser ja ho tindrem alguna eina que podrem fer servir, una mena de didal de pulsi o alguna cosa així, que et dirà, ups!
+De fet, no n'he parlat, també hi ha una altra eina que no me'n refio gens ni mica, potser perquè no en sé prou, que és l'índex de perfusió,
+que és una eina que els pulsioxímetres máximo t'ho donen. Fa un càlcul en base a la diferència de l'amplitud de l'ona que hi ha.
+Hi ha moltes eines després d'avaluació hemodinàmica que superen tot això que he explicat més simple i que no sempre estan a l'abast.
+Si tinguéssim una línia arterial, l'amplitud del pols, la diferència entre la sistòlica i la diastòlica, ens dona una idea de quin és el to vascular, per exemple.
+Tot això ja ens aniríem a avaluacions hemodinàmiques potser una miqueta més complexes i que no sempre tenim disponibles.
+I si les arribem a fer servir és que probablement ja hem tingut alguna sospita abans amb tota aquesta simptomatologia d'abans que ens diu, amb aquest potser que li posem una línia arterial i li fem no sé què.
+Bé, si us acut algun altre signe, alguna altra cosa que us faci pensar que una persona està xocada, que no n'haguem parlat, doncs digueu-nos-ho i en parlem un altre dia.
+Fins aquí la part, diguem-ne, més bàsica del xoc. Ara potser que anem a veure què podem fer-hi.
+I aquí el gran problema que tenim és que dotzenes de causes ens porten aquí. I antigament el xoc era per etiologia.
+Tu tenies un xoc hemorràgic si el que tenies era que perdies sang.
+Tenies un xoc sèptic si el que et produïa la vasodilatació era una infecció que s'havia estès a tot l'organisme.
+Clar, ens trobem amb una burrada de etiologies.  La part bona d'aquesta mena de classificació que saps l'etiologia, saps la causa i per tant la pots anar a tractar.
+Però ens trobem que mentre tractes la causa tu has de fer coses per intentar aturar aquesta situació de xoc o intentar almenys compensar-la.
+Això ha portat a fer diferents sistemes de classificació per fer més senzill el tractament del xoc.
+No de l'etiologia. Cada etiologia s'ha de tractar de la manera que toqui.
+Si tu tens una sèpsia d'origen abdominal hauràs de fer control del focus i antibiòtics. Això és el tractament de l'etiologia.
+Però si tens en aquest cas un xoc distributiu tu has d'ajudar a que es mantingui aquesta compensació.
+Dins aquest sistema de classificació n'hi ha dos.
+Podríem dir un i mig. perquè n'hi ha un que és una concentració de l'anterior, que el que ens fa és distribuir aquest xoc
+en la causa principal de la manca de perfusió als teixits.
+Les quatre causes d'aquesta classificació tetrapolar són, crec que és bastant conegut, el xoc cardiogènic, el xoc obstructiu, el xoc distributiu, el xoc hipovolèmic.
+Cadascun d'aquests quatre grans grups de xocs tenen moltes etiologies diferents, però es comporten d'una forma similar.
+I tots produeixen el mateix, aquesta hipoperfusió tissular, aquesta manca d'oxigen als teixits.
+A les notes de l'episodi posarem una sèrie d'infografies, una de les quals m'agrada molt,
+especialment als que tingueu formació bomberil, que l'han fet el Servei Mèdic dels Marins-Pompiers de Marsella,
+que el que fa és il·lustrar cada un d'aquests grups de xocs amb una infografia en què surt un bomber, un camió, la mànega i l'aigua,
+i ens ensenya cada un d'aquests xocs des d'un pensament bomberil.
+Deixeu-me que us parli una miqueta de cada un d'aquests quatre.
+Penso que cada un d'aquests dona més que de sobres per fer un episodi de quin és el tractament específic de cada un d'aquests grans grups de xoc.
+Jo faré només una miqueta de pinzellada i després ja anirem acabant perquè això se'ns està allargant molt.
+Home, algun ja vam fer, vam fer dos episodis del TEP.
+Correcte.
+I és una de les causes d'un xoc secundari a un TEP.
+Una de les etiologies del xoc obstructiu, que és una de les quatre classificacions de xoc que us he donat.
+Xoc obstructiu, què vol dir?
+Doncs mira, si anem a l'infografia dels bombers, el que veiem és que hi ha un roc xafant la mànega.
+Vol dir que la bomba funciona perfectament, el cor impulsa correctament, però és incapaç d'ejectar la sang, perquè hi ha alguna cosa que priva que tiri endavant.
+I per tant, de la mànega no surt aigua.
+Què ens produeix aquest xoc obstructiu?
+L'embòlia pulmonar d'una certa entitat, no una merdeta d'embòlia, sinó un senyor embòlia pulmonar,
+ens ho produeix el tamponament cardíac, que és a dir, que tinguem una ocupació del pericardi que impedeix que el cor s'expandeixi un cop s'ha contret,
+dona per un o dos episodis també.
+El pneumotòrax a tensió, causa de mort evitable.
+Si t'has punxat el pulmó i fa una mena de vàlvula que permet que entri aire a la cavitat pleural però no surti,
+cada vegada la cavitat pleural tindrà més espai i la resta d'estructures intratoràciques en tindran menys.
+Per tant, no arribarà la sang al cor, no ho podrà ejectar. És obstructiu perquè impedeix el moviment de la sang, en aquest cas.
+Tenim la hiperinsuflació dinàmica i aquest, no per el xoc, però aquest té mala bava, els asmàtics, és el cas habitual, inhalen, inhalen, inhalen, però no poden exhalar.
+Arribarà un moment que tindran els pulmons tan distesos que la pressió intratoràcica serà enorme i impediran el retorn, impediran l'ejecció.
+Això, cas de l'asmàtic també, però en la reanimació, si no te n'adones, li vas fotent a l'ambu, li vas fotent a la bossa i cada vegada vas inflant més, arriba un moment que no hi ha retorn.
+Et pots trobar en el cas que tinguis una asistòlia, el pacient està mort, parem, i la retracció dinàmica va exhalant,
+torni a haver-hi capacitat suficient i miraculosament el cor torni a funcionar perquè hi ha tornat a haver-hi retor venós suficient.
+La hiperinsuflació dinàmica és una cosa que hem d'anar amb compte perquè moltes vegades és iatrogènica nostra.
+Una altra que també té el seu interès, però ja no tant per la banda del xoc, és l'obstrucció del tracte de sortida, és a dir que tu tinguis alguna cosa que la sortida del ventricle esquerre t'impedeixi que surti la sang.
+Que tinguis una estenosi aòrtica terrorífica i que per algun motiu ja no deixa sortir més.
+Aquest seria el xoc obstructiu. Característiques del xoc obstructiu, què és el que podríem veure?
+Si ens anem als signes, clar, no surt sang cap a fora. Per tant, la pell no podrà estar vermella, no podrà estar calenta.
+L'omplerta capil·lar no podrà ser ràpida, perquè si no arriba sang no arribarà enlloc.
+Això per la banda de la pell. Per la banda retrògrada del cor, les venes, que la que ens interessa més és la jugular, que és el que potser hem de veure més, doncs probablement estigui engruixida,
+perquè la sang que està estancada per darrere del cor, com que no s'ejecta per davant, per darrere s'acumula.
+I si mirem el pols, si és palpable, doncs ens trobaríem que és molt dèbil.
+El batec costa molt de notar. I si hem quedat moltes vegades que el pols és una caca, doncs imagineu-vos aquí. Qui se'n refia, això?
+L'auscultació, doncs, depèn. Si tens un gran pneumotòrax, doncs probablement l'auscultació respiratòria, tinguis una hipofonesi del lloc, no sentis res del lloc on tens el pneumotòrax.
+Si tens un tamponament descriuen que els sons cardíacs se senten menys, però crec que això és més teòric que pràctic a l'hora de la veritat, pfttt.
+I si féssim servir l'ecògraf, i aquí dona per un altre episodi i no m'hi allargaré, perquè tot xoc ha d'anar amb ecografia darrere.
+ Si féssim servir l'ecografia, veuríem coses.
+Si fas una eco de la cama i veus que té un trombo de 3 parells de collons, doncs la sospita d'embòlia pulmonar és molt elevada.
+Si fas un ecocàrdio i veus un trombe movent-se entre el ventricle i l'aurícula dreta, també anem per embòlia.
+Si fas una eco pulmonar i tens d'un costat que no hi ha punt pulmó o no hi ha desplaçament de les pleures, doncs sospitaràs un pneumotòrax.
+El tamponament cardíac també serà fàcil de veure.
+Veuràs una gran acumulació del que sigui, ja sigui negre perquè és sang fresca o sigui alguna cosa rara allà i un ventricle que no sé què.
+Totes aquestes coses que estem dient, cada una dona per un episodi.
+Si hi ha algun expert en eco, volem sentir-lo, perquè jo no en sé gaire. Tu, Xavi, em sembla que la toques més, però no estaria de més que algú ens ho vingui a explicar.
+Sí, sí, sí.
+En el xoc obstructiu, tenim això.
+Tractament del xoc obstructiu, doncs n'haurem de parlar en algun episodi específicament, oi?
+Però bàsicament tractar la causa.
+Desobstruir, desobstruir.
+Està tapat, s'ha de destapar.
+Va, anem a un altre. Fem el cardiogènic.
+El cardiogènic, en la nostra infografia bomberil, vol dir que el camió de bombers, la bomba, fa figa.
+Si tu no tens una bomba que empenyi, per la mànega no sortirà aigua. Per molt ple que tinguis el dipòsit.
+Com en el cas anterior, què tindrem?
+Doncs, home, si no surt sang, tindrem els polsos dèbils, la pell freda, pàl·lida, l'omplerta capil·lar molt lenta, tot això.
+I el mateix de la vena jugular.
+La vena jugular també em sembla que és una d'aquestes coses que, si anéssim a mirar la seva especificitat i sensibilitat, faria bastanta pena.
+És una d'aquestes eines semiològiques de l'antiguitat que s'ha vist superadíssima, de nou, per l'ecografia.
+Aquí faríem un ecocàrdio i veuríem que el cor batega menys.
+Podria ser que bategués menys tot el cor, podria ser que bategués menys una de les parets del cor,
+cosa que ens hauria de fer pensar que no tinguem la causa principal del xoc cardiogènic, que és un infart de miocardi.
+Tens un tros de cor que no bomba bé, el cor no contrau bé, no ejecta bé.
+Si som bons amb el doppler, podríem mirar si es queda alguna vàlvula que fracassa, perquè, clar, si el cor es contrau bé,
+però les vàlvules que han de fer que quan va endavant no tornin enrere fan figa, doncs clar, si tirarà molta sang endavant,però  després tornarà enrere.
+I, de fet, els que teniu la sort o l'oportunitat de tenir malalts valvulòpates, és interessant perquè et trobes amb pacients que la seva capacitat de compensació és mínima.
+i si els puja la freqüència cardíaca per sobre de no sé quan, fracassa més la vàlvula i per tant el seu cabal cardíac passa a ser menor
+o gent que entren i surten de fibrilació auricular i quan entren en fibrilació auricular perden la contracció auricular i tal
+i hi ha moments que veus com entren el que em sembla que n'hi diuen els quadres de baix dèbit cardíac
+que veus com el pacient passa d'estar en una situació normal a com s'ha d'asseure, com està nerviós, com mira, com passa de tenir molta calor, tenir molt fred, a suar.
+Estan tan justos que passen de la situació normal a la situació de xoc en qüestió de pocs minuts.
+si teniu l'oportunitat de veure-ho fixeu-vos-hi que us cridarà l'atenció i veureu molts d'aquests signes subtils com van apareixent, si?
+Cardiogènic, queda més o menys clar? en la infografia el que han fet és ajuntar el cardiogènic i l'obstructiu perquè a efectes pràctics
+el problema és el mateix, és la bomba no tira, o no tira perquè és la bomba que fa figa, o no tira perquè no pot ejectar la sang perquè està tapat.
+ Dins aquest sistema de classificació trioular, en anglès n'hi diuen pump, pipes, tank que és bomba, canonades, dipòsit,
+o líquid si preferiu perquè potser s'entén més la idea de líquid.
+Perquè tant el cardiogènic com l'obstructiu es comporten d'una manera similar, no surt la sang del cor o perquè el cor fa figa o perquè no pot sortir
+Anem a un altre, el xoc hipovolèmic.
+El xoc hipovolèmic té moltes causes, potser la principal en alguns altres entorns és l'hemorràgic.
+En la infografia bomberil surt una mànega punxada i tota l'aigua per on surt?
+surt pel forat de la mànega, no per la llança, no per l'aixeta. Clar, si se'ns escapa per aquí no val els llocs on ha d'anar
+En un entorn bèl·lic o un entorn de molta violència, n'està ple, i de fet és una de les causes principals de mort evitable en el trauma.
+Ens en va parlar la Jordina en el seu dia del control de l'hemorràgia exsanguinant i tal.
+Però en tenim d'altres d'hipovolèmics, tenim totes les pèrdues líquides que hi puguin haver-hi sense pèrdua estrictament de sang.
+La cetoacidosi diabètica per exemple, que només foten que pixar, doncs arriba un moment que estan secs perquè surt molt més del que entra.
+Qui diu la cetoacidosi,  diu unes diarrees d'aquestes terrorífique,s i de fet probablement moltes d'aquestes morts infantils
+en països pobres tingui a veure amb les diarrees terrorífiques que els fan un xoc hipovolèmic a les criatures.
+Amb unes cremades d'aquestes enormes doncs perds moltíssim líquid la cremada, la pell no conté la pèrdua, especialment si ho deixes exposat.
+Tot això són altres causes de xoc hipovolèmic.
+L'exsanguinant al terra, aquesta és evident. Aquí no necessites veure el pacient per saber que allà tens un problema.
+Si arribes al lloc on vas i la sang surt per la porta, gairebé el diagnòstic de xoc hemorràgic està fet.
+Però si l'hemorràgia no és externa i és interna, doncs potser costarà més de veure.
+Què veurem? Si no hi ha prou volum de sang perquè l'estem perdent en una hemorràgia o perquè surt per una altra banda, no arribarà als teixits.
+Per tant, tornarem a tenir la pell freda, l'ompliment capil·lar lent, però a diferència dels xocs de fallada de bomba, no hi ha sang, no arriba.
+Per tant, aquestes venes del coll que havíem de mirar que estaven ingurgitades en l'altrea, aquí estaran buides.
+Torna a ser el mateix. Això té una especificitat i una sensibilitat bastant lamentable. No et pots quedar només amb això, has d'agafar tot el conjunt.
+Evidentment, si el problema que tenim és de pèrdua de sang sencera, doncs estarà pàl·lid. Un tio vermell com un pigot no tindrà una hemorràgia exsanguinant.
+Però si és una pèrdua de volum, per exemple, unes cagarrines d'aquestes terrorífiques, doncs el color no té per què ser especialment blanc.
+Aquí tornem a tenir un pols molt dèbil, però amb la poca fiabilitat del pols.
+Això perquè fa al hipovolèmic. Aquest també és bastant evident.
+I ens queda l'últim, que aquest és el que veiem més, i és el que és més subtil i és el que dona més pel sac.
+Que és el xoc que se'n diu distributiu.
+Què li passa al xoc distributiu? Doncs amb les nostres infografies bomberils, com que el xoc distributiu té diferents etiologies,
+el que ens trobem bàsicament és que les canonades es fan més grans del compte
+i tot el contingut de sang que abans teníem que cabia en unes canonades d'una determinada mida, ara és inferior a la mida de les canonades.
+En la infografia bomberil, en el xoc anafilàctic, surt que la mànega de cop i volta s'ha tornat molt més gran i tota la sang està on? A la mànega.
+I no surt per l'aixeta, perquè s'ha quedat tota a la mànega.
+El xoc anafilàctic és molt vasodilatador, per aixòen el  primer episodi o segon episodi, que parlàvem de l'adrenalina, perquè l'adrenalina què fa? Tancar.
+Sí.
+En el xoc sèptic el que tenim no és que se'ns hagi fotut gran la mànega, sinó que simplement la mànega perd per tot arreu. Se'ns escapa l'aigua cap a tot arreu.
+Tenim un altre que és el xoc neurogènic, que bàsicament el que ens fa és les ordres que reben la musculatura dels vasos sanguinis,
+si s'han de vasoconstrenyir o s'han de vasodilatar, si s'han de fer més petits o més grans no les reben, per tant es vasodilaten i a més a més no se li diu al cor
+bomba més de pressa noi que tenim un problema.
+I aquí entrem en un altre dels grans drames que és que els xocs comencen sent d'una sola causa,
+però en el moment en què es comença a estendre la situació d'hipoperfusió a tot arreu es tornen multicausals.
+El cas típic és el del xoc sèptic que és un xoc distributiu, que ara anirem una miqueta a les característiques del distributiu,
+però que arriba un moment en què també és cardiogènic perquè el cor ja no rep prou de sang i a partir d'aquí comença a bombar malament.
+En el cas aquest del xoc distributiu ens dona molt pel sac perquè en els moments inicials intentem compensar i tenim capacitat de compensar
+i ens trobarem que no estarem hipotensos en aquell moment, que mirarem el pols i serà un pols guapo.
+Potser quan anem a mirar la pressió arterial veurem que l'amplitud del pols és molt gran és a dir, que té una sistòlica, m'ho invento, de 16 i una diastòlica de 6
+Hi ha 10 de diferència, no és habitual això.  És un signe a tenir present que tenim un xoc, vasodilatador en aquest cas.
+La pell no té per què estar pàl·lida, hi estarà molt més endavant quan entrem en una situació d'hipotensió i tot això.
+El Mottling score inicial serà només el genoll, però més endavant potser és a tota la cama i la pell estarà calenta
+perquè clar, sang en tenim i capacitat de transportar-la en tenim, el que passa és que tenim les mànegues molt més dilatades i no ens arriba a tot arreu
+Aquest és el que veiem més, el xoc distributiu, bàsicament el sèptic i és el que ens està donant pel sac perquè és el que després ens trenca,
+Si no hi hagués el xoc distributiu sèptic doncs tots serien hipotensos en un moment o altre
+Anem molt passats de temps, jo penso que el tractament de cada un d'ells l'haurem de deixar per quan parlem de cada un dels xocs en particular.
+Quedem-nos amb la idea aquesta: el xoc comença amb signes molt subtils que avançaran més o menys de pressa en funció de l'etiologia,
+els signes que hem de fixar-nos és: pot ser que estigui o no hipotens, anem en aquest estat mental alterat,
+anem en aquesta manca de dèbit urinari, l'oligúria, aquesta acidosi làctica aquests canvis cutanis ens han de fer pensar que hi hagi aquest xoc.
+i ja està Xavi, parem aquí perquè això s'està allargant molt.
+Jo et diria d'afegir la importància de, per detectar el xoc, fer una avaluació contínua del pacient.
+Vull dir que tots aquests índexs i aquests signes i símptomes que veiem del pacient una sola vegada, moltes vegades no són significatius.
+I fer una avaluació continuada, cada 10 minuts anem a veure aquest pacient que no ho tinc clar o que hi ha alguna cosa que no em quadra,
+anar-li fent un NEWS cada 10 minuts o anem-li a mirar el reompliment capil·lar o anem-li a mirar la freqüència respiratòria.
+Mirem-nos-el 3 vegades seguides perquè si la tendència va empitjorant
+doncs sí que potser tardarem mitja hora a diagnosticar o a tenir clar que allò és un xoc i no tardarem 3 hores.
+Si no ens el mirem més al pacient, quan ja tens l'analítica, quan tens el lactat, quan tens el no sé què, han passat 1 hora i 3 hores
+i després el tornes a anar a veure i te'n dónes compte que realment ara sí que està hipotens que abans no estava, ara està no sé què.
+La importància crec de fer una avaluació continuada i repetida del pacient.
+Sí, sí, hauria de ser així perquè ja sabem que la realitat dels nostres serveis fa que no puguis estar per tots a tot arreu, no?
+Clar, el que ens agradaria és una fórmula màgica que el pacient al triatge i amb 4 preguntes.
+I amb un diagnòstic ràpid de peu de llit, fent un lactat sec o fent una cosa, ja ho tinguem solucionat.
+Però fins que això no ho tinguem, que poden passar unes quantes dècades, l'altra solució és estar una miqueta a sobre de l'evolució del malalt, almenys la primera hora, no ho sé.
+De fet, les eines aquestes de detecció, quan ho detecten, ja és evident. No millora el fet que tu estàs allà a sobre, no?
+Ara mateix l'única eina que tenim és aquesta avaluació contínua. En aquests casos més inicials, més subtils, és anar-s'hi fixant.
+Però per fixar-t'hi, clar, has de ser-hi.
+Molt bé, Xavi, va, anem a alguna altra cosa, que això es pot allargar molt.
+Doncs va, continuem amb l'episodi 43. Fem el menys és més.
+El menys és més d'aquest episodi, he trobat una cosa interessant, que potser d'entrada no ens sembla molt relacionat amb urgències, 
+però sí que té una implicació, penso, vital en urgències.
+És una recomanació de la sèrie de Things We Do For No Reason, i que està publicada en el Journal of Hospital Medicine l'abril del 24.
+És a dir, té menys d'un any que està publicat això, i parla de les altes hospitalàries abans del migdia.
+Doncs és una pràctica molt habitual, que veiem que per millorar el flux de pacients a nivell hospitalari fem aquesta eina per intentar reduir la congestió.
+Quan els serveis d'urgències estan a petar de gent, doncs una eina és facilitar que els pacients que estan pendents de pujar a planta puguin pujar.
+I per això el que es fa és prioritzar que les altes que es puguin donar aquell dia es puguin donar durant el matí i no s'esperi la tarda.
+Hem buidat una miqueta la planta durant el matí i a la tarda poden començar a pujar els pacients que tenim pendents d'ingressar a urgències.
+Això està molt bé, però aplica una sèrie de canvis.
+Per exemple, a nivell de planta hospitalària, si hem de prioritzar donar altes abans del migdia o abans de les 3,
+tindrem menys temps perquè els equips facin el pas de guàrdia, els de nit amb els de dia, 
+la comunicació entre professionals, com que s'ha d'anar per feina i s'han de donar aquestes altes, la comunicació pot ser pitjor.
+Segurament sessions clíniques de formació continuada o no es faran, o es faran més ràpid o d'alguna altra manera.
+Els residents no tindran tant de temps per fer aquestes sessions, no hi haurà tanta comunicació amb els adjunts perquè puguin anar a veure un pacient amb tranquil·litat
+i que el resident pugui explorar correctament el pacient perquè s'han d'anar a donar altes,
+o inclús, com que hem de prioritzar donar altes a aquells pacients que ja estan clínicament bé per marxar cap a casa,
+doncs poder l'acompanyament que fa l'adjunt amb el resident, com que són aquests pacients que estan gairebé donats d'alta, potser és menys atractiu i menys útil a nivell de l'aprenentatge del resident.
+Aleshores, això pot tenir un impacte sobre la qualitat assistencial? Doncs sí.
+Alguns estudis suggereixen que donar d'alta abans de les 12 pot disminuir el temps d'espera que els pacients estan esperant a urgències per pujar a dalt,
+i fins i tot a nivell dels pacients que estan hospitalitzats que es disminueix l'estada hospitalària.
+Però la majoria d'aquests estudis que ens demostren això no estan pensats o dissenyats per veure l'efecte concret i específic d'aquesta mesura
+que és prioritzar les altes que estan a punt de marxar, sinó que són estudis que, a més a més d'aquesta ordre de prioritzar aquests pacients, inclouen altres mesures.
+Per exemple, en aquells períodes de temps, per exemple el PIUC, tenen més personal assistencial, que facilita que es puguin donar les altes abans de migdia,
+hi ha sistemes perquè els pacients ja estiguin el dia abans preparats,
+tenen algun sistema per facilitar que les altes no costi tant fer-les o que el trasllat del pacient amb ambulància es faci més fàcilment.
+És tot un paquet de mesures. Els estudis que hi ha publicats són així. 
+A més a més, són estudis que es fan en un sol centre, i normalment es fan en centres de referència, on aquestes mesures adicionals sempre hi són presents.
+Si aconseguíssim, que hi ha estudis que ho fan això, de mirar exclusivament que només hi hagi la necessitat de donar l'alta hospitalària
+sense tota aquesta infraestructura que ens ajudi, els resultats no són tan bons.
+Fins i tot, alguns estudis demostren que, a nivell global, l'estada hospitalària s'allarga,
+perquè sí que prioritzem que els pacients que estan estables s'en vagin cap a casa,
+però els pacients que no hem atès les primeres hores del matí perquè ens hem hagut de dedicar als pacients que estan estables a punt de marxar,
+aquests pacients que no hem pogut atendre al principi, són els pacients que encara estan amb el tractament actiu, amb algun cert grau de gravetat o el que sigui,
+i són pacients que potser els visitem més ràpid, o ho deixem per demà, i són pacients que, al final, l'estada hospitalària,
+si agaféssim tot un any, i féssim una mitjana a tots els pacients, haurem allargat aquesta estada hospitalària.
+A més a més, allargant l'estada hospitalària, tot el que suposa, eh?, de més infeccions relacionades amb l'assistència sanitària, més efectes adversos...
+Una altra raó de les que hem vist que l'estada hospitalària s'allarga o no millora és perquè, en aquests períodes intensius que ens demanen que 
+donem altes precoces abans de migdia sí que ho fem, però a base d'incrementar la nostra intensitat laboral.
+Tot això són dies, setmanes, per exemple, del PIUC, que estem treballant de forma més intensa.
+Tot això va en contra de la nostra salut laboral, hi haurà més esgotament professional i això és poc sostenible.
+El que s'ha vist és que, en acabar aquests períodes intensius, continuem com estàvem abans i inclús s'allarguen les estades hospitalàries
+perquè el professional sanitari té un cert grau d'esgotament i no rendeix com podia rendir abans de fer aquest sobreesforç.
+Aleshores, què ens recomanen?
+Doncs recomanen que aquestes millores en el flux hospitalari dels pacients hna de ser unes mesures integrals,
+que no serveix de res la mesura simple de demanar als professionals sanitaris que anem una miqueta més ràpid 
+perquè els pacients surtin abans de migdia cap a casa, sinó que són necessàries aquestes mesures addicionals.
+Per exemple, la més evident seria disposar de més personal sanitari.
+I també ens recomanen que també hi ha alguns sistemes informàtics, matemàtics, estadístics, que si els disposéssim ens ajudarien a identificar
+en quins d'aquests pacients ens podem centrar perquè ràpidament li podrem donar l'alta i poder-ne una forma tan genèrica i tan inespecífica,
+que és dir, va, en aquestes tres setmanes intentem donar altes precoces.
+Hi hauria d'haver alguns models matemàtics que ens ajuden a seleccionar quins pacients i durant quins dies i durant quants dies hem de fer aquesta feina.
+És una idea atractiva sobre el paper, donar les altes abans de migdia,
+però com moltes pràctiques, moltes vegades poden acabar sent més un mal de cap que no pas una solució si no es gestiona correctament.
+I és un altre dels exemples de les coses que es fan sense cap prova que el que estem fent, el global, sigui beneficiós pel pacient.
+Escolta'm. Un dubte que m'ha vingut mentre t'escoltava, en aquest document, miren els resultats globals o només els del servei d'urgències?
+Això està centrat a nivell hospitalari.
+Es fa perquè el servei d'urgències està congestionat, però tot això que he dit que augmenta l'estada hospitalària,
+els professionals sanitaris tenen esgotament professional i tot això, és a planta.
+Clar, perquè a nosaltres, evidentment, ens interessa el nostre, però si resulta que ells tenen problemes perquè els treuen abans.
+És que jo estic pensant, li donen l'alta al migdia, ja, però això vol dir que els que ingressaran són tots els que hem tingut urgències durant la nit.
+El dany dels d'urgències ja estarà fet, si no proporciona cap millora...
+no sé si m'explico, que evidentment jo estic pensant que la gent es passarà només una nit.
+Cada vegada que llegeixo els de l'Hospital del Mar que veig senyor de 82 anys que porta 100 hores, clar, 100 hores, això són 4 dies.
+sí, és clar.
+És el que deies tu, fem moltes coses sense tenir massa evidència, clar, molt bé altes ràpid perquè poder pujar els que estan esperant llit segurament des de la nit anterior
+Sí, però tu dius, el mal ja està fet home sí, però no és el mateix això que t'hagis passat 12 hores a urgències
+i a la 1, a les 2 ja et pugen cap a planta que si no han donat aquestes altes no pujaràs a la 1 i a les 2 del mig i pujaràs a les 7 de la tarda o a les 8 de la tarda
+Ho entenc, és a dir, des de la perspectiva que així aconseguim que només passin una nit però ja sabem que una nit és una merda
+Sí, sí, evidentment
+És el pensament del que jo voldria a la realitat però clar, aquí és que ja anem a un altre nivell anem al nivell de més d'una nit
+I a més, això no ho he llegit, però s'hauria de veure si aquestes altes prioritzades, si aquests pacients reingressen via urgències, 
+més freqüentment que si no hi ha aquesta indicació de donar aquestes altes
+Potser seria un altre efecte advers d'aquesta mesura que crec que no està contemplada
+perquè ja deu ser més difícil d'estudiar, però que també ens repercuteix a urgències aquesta mesura que no està demostrat que per ella mateixa sigui realment beneficiosa
+si la gestió de l'hospital no posa totes aquestes mesures per fer que això es pugui fer de forma fàcil i de forma sostinguda i sense cremar els professionals sanitaris
+Jo aquí puc fer una falca, igual que abans explicava aquesta situació personal dels malalts valvulòpates
+malalts crònics que saben el que suposa passar la nit a urgències són molt més reticents a marxar a casa
+precisament pel fet de no voler tornar a passar per urgències, cosa que et fa plantejar molt seriosament si ho estàs fent bé o no.
+I clar, si no vol marxar, es resistirà més a marxar, entrarem en un cercle viciós, 
+de no em sento en condicions de marxar perquè tinc por d'haver de tornar a passar per aquí espero més temps, per tant faig el tap més gros.
+Sí, a més a més no m'he recordat de comentar que no està demostrat que a nivell de la satisfacció dels pacients, 
+aquestes altes prioritzades, el pacient surti de l'hospital amb més satisfacció de com els hem atès i com han estat allà.
+Bé, el Menys és més anterior també tenia algun dubte, aquest també en té algun altre, eh?
+Comencem a entrar en territori aquest més gris de tot.
+Molt bé.
+Va, fem l'UrgemMot?
+L'UrgemMot d'aquest episodi és un UrgemMot d'anatomia. Anatomia de la mà.
+Ah, mira.
+Ens trobem molt sovint, quan veiem que tenim un os trencat, sobretot els ossos del carp, pot ser que no escrivim correctament,
+com ens demana el TermCat, que escrivim de forma formal els ossos de les mà.
+Els repassem així uns ràpid, perquè n'hi ha molts.
+Abaix de tot, a la part més proximal, vaig de proximal a distal, tenim el radi i el cúbit.
+Si vols saber quin costat és quin? El polze és l'antena de la ràdio.
+Va, ok. Què més?
+La primera línia del carp, és la part més proximal.
+Si anem amb la posició anatòmica d'extern a intern, de radi cap a cúbit, tenim l'escafoide, sense la S, escafoide.
+després tenim el semilunar, i després tenim l'os piramidal i el pisiforme.
+Pisiforme de pis-cis, amb C o sense C?
+Sense C, és pis-ci.
+Pisiforme, molt bé.
+Després, per sobre l'escafoide tenim la segona línia del carp, tenim el trapezi, el trapezoide, l'os gros i el ganxut.
+Ganxut, això sembla el nom d'una colla castellera, els ganxuts d'algun lloc.
+Sí, el ganxut, que s'articula amb el cinquè metacarpià.
+I després, lògicament, tenim el primer metacarpià, el segon, el tercer, el quart i el cinquè.
+Després dels metacarpians, què tenim? Els dits.
+Cada un dels dits té tres ossos, excepte el primer dit.
+El terme preferit pel TermCat és la falange, que és la proximal, la falangina i la falangeta.
+Estic parlant de proximal a distal. La falange, la falangina, la falangeta.
+També li pots dir els sinònims de la proximal, la mitjana i la distal.
+I després tenim el nom dels dits, que pel TermCat, el terme preferit és el polze, que és el primer dit,
+el dit índex, el dit del mig, el dit anular i el dit auricular.
+Aquesta és la forma correcta o més formal d'anomenar els dits de la mà.
+Em sembla que no faré cas al TermCat i al cinquè dit no li diré auricular, li diré menovell.
+El menovell, també li pots dir menovell, sí, sí.
+Potser és menys formal, no? Si vols fer un protocol o alguna cosa més seriosa, més formal, recorda de dir-li auricular.
+I això és l'UrgemMot d'aquest episodi.
+Molt bé.
+Al bloc de l'EMPotCat i d'Urgem teniu una infografia, que si no us en recordeu, allà ho veureu perfectament.
+Perfecte. Doncs va, anem amb les recomanacions.
+Què tens tu, Albert?
+Jo us porto un lloc web. No sé si coneixeu Notion.
+Notion és una eina, anava a dir que per fer webs, però no és ben bé per fer webs, és per prendre notes, però és en línia.
+La qüestió és que d'algun d'aquests que segueixo dels electrocardiogrames,
+ha creat un lloc web senzillet, així, amb Notion, que es diu Introducció a l'angiografia coronària.
+Bé, en anglès, eh? Introduction to coronary angiography.
+És senzillot, però és molt bàsic i molt pràctic per fer-nos una idea, sobretot quan nosaltres portem pacients a hemodinàmica,
+que els fan cateterismes per destapar les artèries i això, doncs aquí t'expliquen com funciona, 
+des de les imatges que veus, com les fan, quines projeccions són, i hi ha uns quants vídeos de procediments, no?,
+el pas de la guia, com posar un stent, i tot això.
+És qüestions bàsiques d'angiografia coronària.
+A mi m'ha semblat interessant, sobretot per entendre la continuació dels nostres pacients. Nosaltres ens quedem en que està tapat aquí i s'ha de destapar, us ho recomano, crec que és fàcil d'entendre,
+i no pren massa temps, i entens una miqueta més bé què és el que fan després els d'hemodinàmica amb els pacients que els hi portem.
+I on  dius que això ho podem veure?
+Posaré l'enllaç a les notes, es diu intuitivecardiology.notion.site/angiography
+Molt bé, molt bé, Albert, molt interessant.
+Va, i tu què tens?
+Jo tenia una eina, un aplicatiu web, mira, aquí ens ajudarà amb el tema principal d'aquest episodi,
+que és identificar o saber quin tipus de xoc té el pacient, perquè és una eina que ens ajuda a fer diagnòstic diferencial del pacient,
+sigui un xoc o sigui el que sigui. I això ho fa amb una ajuda d'intel·ligència artificial.
+Home, una utilitat de la intel·ligència artificial. Molt bé, molt bé.
+És una ajuda, és una ajuda.
+El que fa és generar hipòtesis diagnòstiques en base a la informació que nosaltres li aportem.
+És desenvolupat per una sèrie d'investigadors d'una fundació que es diu Fundació 29 i es diu 29 perquè crec que és el 29 de febrer,
+que és el Dia Mundial de les Malalties Rares o Minoritàries, no sé exactament ara com l'hi hem de dir.
+Han triat el dia més rar de tots, veig. Està pensat, això, eh?
+Està pensat per això, sí.
+I sí que originalment estava pensat per ajudar a diagnosticar aquestes patologies, però s'ha estès a malalties més comunes i això ho fa mitjançant models de llenguatge.
+Utilitzen diferents models i han estat estudiant diferents eines i crec que el que vam veure que els anava millor era el llenguatge GPT-4 d'OpenAI.
+Això es fa en col·laboració amb l'Hospital Sant Joan de Déu i l'objectiu és donar un suport diagnòstic,
+és a dir, és una guia només per quan sigui necessari i t'ho deixen ben clar que això no substitueix el criteri mèdic.
+És una ajuda.
+El que fa és oferir-nos una llista de possibles diagnòstics,
+I, per tant, tens una llista per ordre del que la intel·ligència artificial considera en funció de la informació que tu li has donat,
+que hauria de ser la primera probabilitat, t'ho posa el número 1 de la llista
+i això et permet, si vas una mica perdut o no tens clar que el teu diagnòstic diferencial inclogui la patologia que realment té el teu pacient,
+fas ús d'aquesta eina que et donarà un llistat i et permetrà seguir un ordre,
+i centrar-nos primer en les causes que siguin més probables i, per tant, reduir el temps necessari per arribar al diagnòstic definitiu que sigui correcte.
+Ens pot ajudar a ser més eficients i més precisos.
+De fet, ells tenen un article que han fet per validar si aquesta eina funciona.
+I per a les malalties comunes, els resultats dels seus estudis ens diuen que en el 89% de les ocasions 
+que fem servir aquesta eina ens trobarem el diagnòstic correcte en les 5 primeres opcions que l'eina ens dona.
+I en el 55% de les vegades el primer diagnòstic que ens donaran ells serà el correcte.
+Per tant, sí que encara falta que es desenvolupi, que diuen que estan provant altres models de llenguatge i fer variacions, 
+però si tu vas una mica perdut o no tens clar el diagnòstic de veritat doncs utilitza'l, és una ajuda
+perquè potser tu no hi has pensat que aquella causa d'aquell xoc, no tens clar per què està xocat i no està infectat, 
+no ha perdut sang, no està anèmic no està no sé què, doncs potser no has pensat en el TEP, 
+doncs hi ha un 90% de possibilitats que en aquelles 5 opcions, ells et diguin que pensis en el TEP, per tant, si no se t'havia ocorregut allà ho veuràs
+Ja està, és una eina més que tenim per quan sigui necessari, 
+recordant les limitacions que té la intel·ligència artificial que ja les sabem tote,s la principal és les al·lucinacions que pot tindre. 
+L'acabo de provar ara, d'una banda em fa por, però de l'altra m'agrada. Obligarà a fer molt bé la història clínica i l'anamnesi.
+perquè clar, t'obligarà a entendre què et diuen els pacients i a descriure-ho i els hauràs d'explorar, o sigui, d'una banda això està bé
+sí, clar. 
+L'he provat ara i escolta'm no em desagrada, eh? L'hi he posat una nota de triatge:  tos i mocs de fa quatre dies, febre d'en fa dos
+de fa dos dies, perquè si li poso d'en fa dos es pensa que són dos anys, miàlgies i sensació de malestar general.
+I el primer diagnòstic que em dona és grip, refredat comú, bronquitis aguda, escolta'm
+En aquest cas, evidentment no ho faria servir però en aquell moment que li dones tres voltes i dius, hòstia, se m'escapa alguna cosa 
+no sé què collons li passa, no sé, aquesta clínica neurològica que no em quadra amb la tensió, no em quadra amb no sé què que dius, hòstia, hi ha alguna cosa que no quadra
+doncs posa-ho, si has fet una bona anamnesi, explosió física tens proves complementàries, tal, tota aquesta informació
+li pots posar aviam si en aquells primers cinc diagnòstics que et dona la màquina, n'apareix un que no hi havies pensat i dius, hòstia, sí, pot ser això
+Jo penso que és per anar-ho seguint i veure a mesura que vagin passant el temps, 
+si aquesta eina la van polint i finalment realment sigui útil per alguns casos. 
+Escolta'm, els metges comenceu-vos a inquietar una mica, eh?
+A buscar una altra feina
+Aquí el que estic veient és que l'important aquí acabarà sent obtenir una bona informació 
+i això... últimament la medicina cada vegada es mira menys als pacients i més a tot l'altre.
+Mira, potser us obligarà... Ens obligarà a tornar, perquè també ens està passant a la infermeria, potser ens obligarà a tornar a les bases de la professió. 
+M'agrada. Més pel que suposa que no pas pel que fa.
+Clar, hi ha coses que ja poden fer les màquines, per tant que les facin les màquines, no? 
+El que sigui comunicar-te, mirar i percebre coses subtils en el pacient, això és difícil que ho faci una màquina.
+Nosaltres ens dediquem a unes coses i les màquines que en facin unes a les altres, jo què sé.
+Ep, que ara mentre editava m'he adonat que en cap moment hem donat el nom d'aquesta eina que ens explica el Xavi.
+Es diu DX, de diagnòstic, dxgpt.app. Vinga, i tornem, anem acabant.
+Si a més a més ens escriuen l'informe mèdic, fan la prescripció i tal, això ja seria l'hòstia, eh?
+Jo no t'ho he dit alguna vegada? si fos conseller el primer que faria per intentar superar l'atzucac que queda en què estem de manca de professionals mèdics... 
+Què faries?
+Prohibir que els metges toquessin un teclat.
+Hòstia, jo firmo, eh? Si et presentes de conseller voto, eh? 
+Com que sóc molt radical... el que passa és Amnistia Internacional no em deixaria, us posaria un braçalet que cada vegada que t'acostessis a 3 centímetres d'un teclat t'enrampés. Hòstia!
+Que no el poguessis ni tocar. Jo crec que això seria la bomba. Però bé, no sóc conseller ni ho seré mai. Per tant, aquí ja està. 
+O sigui, preferies quan escrivíem amb bolígraf, eh? Els informes i les prescripcions mèdiques i tot això t'agradava quan ho fèiem amb boli.
+Era insuportable, però es tracta que no ho facis, eh?
+Això vol dir que hauries d'anar sempre amb algú darrere escrivint per tu? Doncs sí, vol dir això, però escolta'm, 
+no hi ha metges, doncs busquem que facin la feina de metges i no totes les altres coses que pot fer algú altre. 
+Però va, tu, que ja hem trigat molt. Escolta, anem acabant. 
+Ja hem fet totes les seccions, no? Jo penso que ja ens podem donar per acomiadats. 
+Només tornar a insistir que si hi ha gent que té un tema que hagi preparat,
+que hagi fet una sessió interessant o domini un tema concret o el que sigui i ens vol vindre aquí a explicar-nos-ho
+i fer una difusió més àmplia de la que pugui fer en el seu servei, per exemple, 
+us poseu en contacte amb nosaltres. per les múltiples vies que teniu
+i no hi haurà cap problema perquè vingueu i ens expliqueu coses molt interessants.
+Quedeu convidats. Que vagi molt bé, ens veiem a la propera.
+Gràcies als que ens heu escoltat fins aquí, perquè no sé com serà de llarg aquest episodi un cop l'hagi editat, però fa pinta que durarà estona.
+Bé, no passa res. Molt bé, doncs fins al proper episodi a tothom. Adéu-siau.

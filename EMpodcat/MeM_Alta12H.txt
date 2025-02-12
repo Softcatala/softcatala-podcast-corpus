@@ -1,0 +1,23 @@
+Menys és Més, la secció de bones pràctiques de l'Empotcat.
+El Menys és Més d'aquest episodi és una recomanació de la sèrie Things we do for no reason,
+que forma part del moviment Choosing Wisely, publicat al Journal of Hospital Medicine l'abril del 24.
+i ens parla sobre les altes hospitalàries abans de migdia.
+Aquestes altes, com a mesura per a millorar el flux hospitalari i alleugerir la congestió dels serveis d'urgències.
+Els autors destaquen que l'evidència existent sobre l'eficàcia d'aquesta intervenció és insuficient.
+Hi ha pocs estudis, els resultats són heterogenis i les conclusions són poc generalitzables als hospitals comarcals,
+perquè molts d'aquests estudis són unicèntrics i en hospitals de referència.
+Hi ha estudis que sugereixen que aquesta mesura pot no comportar millores significatives en la durada de l'estada global dels pacients en l'hospital.
+A més, la iniciativa pot augmentar les readmissions dels pacients donats alta,
+augmentar l'esgotament professional per a la sobrecarrega i la pressió durant aquests períodes
+i és una manca d'oportunitats docents, per exemple per als residents,
+on es faran durant aquests períodes menys sessions clíniques i les visites als pacients menys dedicades a la formació.
+Els estudis on es demostra el benefici d'aquesta intervenció incorporaven tot un reguitzell de mesures per a facilitar aquestes altes hospitalàries abans de migdia.
+Per exemple, augment dels professionals dedicats a les altes, a l'assistència dels pacients
+durant aquests períodes i ajudes en les tasques burocràtiques a l'alta.
+Als estudis on no hi havia totes aquestes co-intervencions, les altes hospitalàries abans de migdia no demostraven cap benefici concret.
+Recomanen no centrar-se només a aconseguir aquesta mesura arbitrària, sinó centrar-se en les necessitats individuals del pacient
+i en preparar i planificar amb temps aquestes altes.
+I, sobretot, ajudar-se de models matemàtics que tenen en compte moltes variables 
+i que ens poden ajudar a decidir quins pacients i quan podem donar-los d'alta hospitalària de forma segura.
+Per tant, cal qüestionar-se i replantejar-se aquestes altes hospitalàries abans de migdia com una eina
+per a descongestionar el servei d'urgències de forma eficient, segura i beneficiosa per als pacients.

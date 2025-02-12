@@ -1,0 +1,18 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+Per aquest Menys és Més us portem una iniciativa de la Sociedad Española de Medicina de Urgencias y Emergencias, la SEMES,
+a instàncies del Ministerio de Sanidad, que cap allà l'any 2018 va demanar a les societats científiques que fessin recomanacions de No Hacer
+recomanacions de no fer aquelles coses que no aporten valor o poden ser fins i tot lesives per al pacient.
+La SEMES en va fer cinc, i jo m'he quedat amb una que us explicaré ara, que és la recomanació de no fer gasometries arterials a tots els pacients amb dispnea.
+Estranyament, aquest és un Menys és Més que complim bastant bé, no pas com molts dels altres que us hem explicat fins ara.
+La gasometria arterial estaria només indicada en aquells pacients que compleixin els següents criteris:
+Tenir una malaltia pulmonar obstructiva crònica, que s'exacerbi de forma moderada o greu, amb saturacions baixes d'oxigen i/o la sospita d'una hipercàpnia,
+i també si és necessària per iniciar o controlar una ventilació mecànica no invasiva en aquests pacients.
+També està indicada en insuficiència cardíaca aguda greu o en l'asma si existeixen signes de crisi greu o de risc vital,
+una mala resposta al tractament o pacients en que a pesar de l'administració d'oxigen, no aconseguim saturacions per sobre del 90%.
+I per què hem d'evitar fer gasometries arterials de forma més lliberal?
+Bé, doncs perquè la gasometria arterial és una tècnica invasiva.
+Té els seus efectes adversos: l'hematoma a la zona, reaccions vasovagals quan els punxes i els hi fas molt mal,
+el dolor local i pots fer una lesió del nervi adjacent a l'artèria radial o bé una isquèmia distal si lesiones greument aquesta artèria.
+Hem de tenir en compte que la informació que ens proporciona la gasometria arterial no és pas massa diferent que combinar la informació que obtenim d'un pulsioxímetre i d'una gasometria venosa.
+Els valors de CO2 no són exactament els mateixos, però sí que són força equivalents.
+Per tant, seguint aquesta recomanació de la SEMES, no hem de fer gasometria arterial a tots els pacients que venen a urgències amb dispnea, només en aquells en què està indicada.
