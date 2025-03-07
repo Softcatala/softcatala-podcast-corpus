@@ -1,0 +1,507 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMPodCat, el que fa 44 de la quarta temporada.
+Com sempre, els perpetradors habituals, en Xavi Basurto, des de l'Empordà. Hola, bon dia, Xavi.
+Hola, bon dia, què tal? Com estàs?
+Avui molt atabalat, tu. Hem tingut una de problemes per poder començar a gravar, que encara estic esverat.
+Això és que el tècnic que tenim contractat el tenim de baixa.
+Sí, sí, és un becari.
+És un becari.
+Va, Xavi, vinga, dona les teves referències a les xarxes socials i tot això, va.
+Pels qui no ens heu sentit encara, sóc en Xavi Basurto, sóc metge d'urgències a l'Hospital de Figueres i també estic al SEM, a la 606 de Figueres.
+I per xarxes intentem publicar de tant en tant coses que ens semblen interessants, coses que veiem a urgències i que crec que ens cal repassar-ho.
+I tot això ho anem penjant a un blog que es diu Urgem.cat i aleshores també al Twitter i a alguna xarxa més pengem això i ho fem difusió i després aquí a l'EMPodCat.
+Jo sóc l'Albert Homs, em presento jo ara. Jo sóc l'Albert Homs, el tècnic. Sóc el tècnic, eh, i tinc un micròfon ronyós,  que el micro bo el té el Xavi, que té un Sennheiser, i jo tinc un Trunyaken.
+En fi, va, sóc l'Albert Homs, sóc infermer d'Urgències i Emergències, treballo a l'Hospital Transfronterer de Cerdanya.
+Tinc un blog que es diu emermedpirineus.cat. A xarxes socials també estic a mastodont.cat per emermedpirineus, a X.
+I del pòdcast, doncs, estem a l'Instagram, estem a X també, i estem a BlueSky, vaig decidir ocupar el lloc, i teòricament també estem a Mastodon, però és una miqueta complicat, això hi estic treballant.
+També estem a YouTube i a l'Spotify, i a tot arreu on hi hagi pòdcasts, i si no hi som ens ho dieu que ens hi posarem.
+Un cop fetes a les presentacions, que cada vegada són més rotllo, crec que les hauríem de deixar de fer ja, perquè, goita, si no es coneixen, jo què sé, se'n vagin a la pàgina EMPod.cat, que allà ja diu qui som.
+O que vagin al Telegram, que vagin al Telegram, no?
+Al grup de Telegram, 120 no sé quantes persones que estem allà apuntades, que fem una mena de comunitat, que ens aguanteu, no sé encara massa bé com.
+Jo crec que hi ha molta gent que té insomni i ens fa servir per dormir.
+Per això ja tenen el pòdcast de crims.
+Hòstia, però jo no sé si dormiria gaire tranquil, eh?
+A mi m'ho han dit, eh? Gent que com que parla així una miqueta pausat i no sé què, que hi ha gent que ho fa servir per dormir.
+En fi, va, vinga, per aquest episodi, que intentarem que sigui una miqueta més curt que l'anterior, mira que vaig passar la tisora, eh, però déu-n'hi-do com de llarg que va quedar.
+El Xavi ens explica una cosa interessant de la reanimació cardiopulmonar, pots compartir pantalla si vols, intentarem posar la presentació al YouTube, però ja veurem si ens en sortim o no.
+Doncs això és una presentació que hem fet recentment al servei d'urgències de l'Hospital de Figueres
+i va d'això, dels antídots, com i quins antídots hem de fer servir en casos greus, sigui amb risc vital o un pacient ja amb aturada cardíaca, secundàriament a una intoxicació.
+Aviam, això és un cas d'una intoxicació per un gripau, que és el gripau comú, que es diu bufo,
+i que està al Pirineu, a les illes, és el gripau més gros que hi ha, però és el gripau comú, no és una cosa especialment extraordinària.
+Jo en tenia un al jardí de casa.
+Ah, sí? D'aquest tamany, sí?
+Sí, sí, i no parava de fotre soroll tota la nit.
+Doncs poden ser perillosos, perquè treuen algun líquid no sé per on, que pot ser xungo,
+i aquest, ens explica el diari de Girona, el dia 19 de maig del 23, publiquen que hi havia un turista dels Països Baixos que el van trobar mort a Eivissa a conseqüència d'això.
+I la pregunta, a tu et sona quin antídot té aquest, el bufo?
+Ni idea.
+Et sona que faríem amb això?
+No. Preguntaria a Toxicologia a Madrid, trucaria a veure què em diuen.
+Mira, sí que hi ha un antídot concret, però després ja veuràs que l'última diapositiva de la presentació,
+una de les recomanacions bàsiques és que com que el tema de toxicologia és una cosa poc freqüent
+i que per tant és difícil que coneixem tota la patologia i tots els antídots i tota la farmacologia que hi ha respecte a això,
+una de les recomanacions és, en cas de dubte, sempre trucar en algun centre toxicològic o si tens algun expert al teu hospital, consultar.
+S'ha de consultar sempre això, totes aquestes patologies poc freqüents perquè és difícil dominar-les.
+Això ho veurem a l'última diapositiva.
+Aquest és normal que no ho sapiguem. Després ho veurem que li hem de donar a aquest del bufo
+I això?
+Això és una intoxicació... A mi em va passar una vegada, fa bastants anys, que vaig fer l'error que no s'ha de fer mai.
+Estàvem amb un pacient i parlant amb la infermera vam dir ostres, li hauríem de posar 20 de labetalol.
+20 de labetalol es va interpretar com a 20 CC i van ser 100 mil·ligrams.
+No m'expliquis per què, però el pacient no li va passar absolutament res.
+Però la cosa és que si per desgràcia passa alguna cosa així, jo us he posat aquestes quatre opcions.
+Tenim la insulina endovenosa a dosis altes, el glucagó endovenós, l'atropina endovenosa o l'emulsió lipídica.
+Ja sé que tampoc és una intoxicació molt freqüent, no?
+Per blocadors beta-adrenèrgics, però bé, ens hi podem trobar, no?
+Et sona alguna d'aquestes? Què faries tu?
+Per eliminació d'algunes coses, jo diria que pels beta-blocadors potser ens aniria bé el glucagó intravenós, tal vegada?
+Val. Doncs això ho veurem ara mateix.
+Tot això que explicarem ara ve d'un article... Bé, no un article.
+El Bulletí d'Antídots de Catalunya publica, em sembla que són tres números a l'any,
+i el del juny-setembre de l'any passat parla de l'actualització de l'ús d'antídots en els pacients amb aturada cardíaca o risc vital secundari a una intoxicació.
+Són dos articles, dues publicacions, perquè és bastant extens i ho van repartir en dos.
+I això és de l'Àngels Gispert, que és la cap del Servei d'Urgències del Trueta,
+que, si recordeu, l'episodi número no sé què de l'EMPodCat ens va vindre a explicar les intoxicacions per bolets i aquest tema.
+Aleshores, van publicar això i tot el que expliquen ve referenciat, bàsicament, d'un article del Circulation publicat el setembre del 23,
+que és l'actualització 2023 de l'American Heart Association per això, de l'actualització del maneig dels pacients amb aturada cardíaca o risc vital a conseqüència d'una intoxicació.
+Per tant, si tot això que explico ara teniu dubtes o no queda clar o el que sigui, aneu a aquest article i està tot explicat allà.
+Jo intento fer un resum.
+Les intoxicacions, que és una de les T d'alló de les 4H, les 4T o 5H o 5T, depenent de qui escoltis. Els tòxics...
+Doncs sí.
+Aleshores, només un minut, com que això és una guia...
+Aleshores, les guies donen recomanacions i cada recomanació va sempre acompanyada d'uns cognoms,
+que són el nivell d'evidència i el grau de recomanació pel qual es sustenta aquesta recomanació de la guia.
+En toxicologia és molt difícil tindre nivells d'evidència alts.
+Nivell d'evidència vol dir qualitat dels estudis, la validesa, el risc de biaix,
+i, en definitiva, la confiança que podem tindre que el que ens està explicant aquell estudi realment reflexa el que passa a la vida real.
+Doncs, com que hi ha poca incidència d'aquestes patologies, és difícil fer un assaig clínic aleatoritzat amb 300 persones.
+Perquè, no sé, imagina't, no? Intoxicacions aquestes pel tòxic aquest del gripau bufo són anècdotes, són casos aïllats, no pots fer un estudi, no sé, pots fer coses, no?
+Però el nivell d'evidència serà baix.
+Em sembla que el comitè d'ètica no deixarà fer un estudi que la meitat llepin un gripau i l'altre meitat no, crec que això no passaria.
+Es pot intentar, però, bé, millor que no.
+Això, igual ens passa moltes vegades també amb temes de reanimació cardiopulmonar i tal, doncs que, bé, fem coses perquè són biològicament plausibles
+i sembla que haurien d'anar bé, però moltes vegades no tenim un assaig clínic aleatoritzat que digui que això que estem fent amb reanimació normal funciona.
+Ho fem per això, però no perquè tinguem grans metaanàlisis d'assajos clínics aleatoritzats.
+Només ho dic això perquè, en funció del nivell d'evidència, es dona una força de recomanació,
+és a dir, els autors de la guia diuen si això que us estem dient es basa en tres assajos clínics ben fets,
+la força amb què nosaltres us donarem aquesta recomanació és classe 1, classe 2, classe 3.
+Com que quan vas llegint no te'n recordes del que era la classe 1, classe 2 i classe 3, perquè cada revista fa servir la seva classificació i hi ha 150 classificacions mundials sobre això,
+més o menys totes tenen la mateixa estructura, però són diferents, el que fan és que, quan llegeixes el text, et posen una frase que t'està indicant quina és la força de la recomanació.
+Per exemple, si és classe 1, és a dir, una recomanació forta, et diran això està recomanat o això està indicat, o això és útil, això és efectiu, això és beneficiós.
+Si és classe 2, és una força moderada, no et diran classe 2a, també t'ho diran, però et diran tal, tal, tal, tal, és raonable, o pot ser útil, o pot ser efectiu, o pot ser beneficiós.
+Si és classe 2b, et diran, podria ser considerat, podria ser útil, et posen aquesta forma de dir-te la recomanació, perquè a l'hora de llegir-ho vegis que o està recomanat, o és raonable, o pot ser raonable, i tu interpretes el que estàs llegint.
+No m'enrotllo més, perquè hi ha 7 o 8 diferents grups de fàrmacs o de tòxics, que és el que hem d'anar a parlar, que és l'important.
+Comencem amb les benzodiazepines, el diazepam, midazolam, clonazepam, el que vulguis. Què ens fan aquestes?
+Ens fan depressió del sistema nerviós central i pèrdua dels reflexos de protecció de la via aèria.
+Què hem de fer amb aquests?
+Sabem que l'antídot, no dic res de nou, és el flumazenil, però hem de saber que el flumazenil serveix per la depressió respiratòria o l'aturada respiratòria per intoxicació pura, per benzodiazepines.
+Això pot ser efectiu, és a dir, depressió respiratòria o aturada respiratòria. Depressió respiratòria, no depressió del sistema nerviós central.
+El pacient que ve somnolent perquè s'ha pres 20 diazepams i està somnolent i respira 12 per minut i satura 96, aquest no té una depressió respiratòria, no té una aturada respiratòria.
+El que hem de fer és monitorar la seva funció respiratòria i quan tingui depressió respiratòria fer servir el flumazenil.
+Perquè té més risc de convulsions i d'arrítmies que el que habitualment ens pensem, perquè moltes vegades ho fem una mica cegues,
+però les guies i tot això diuen molt clar que vigila amb el flumazenil perquè pots desencadenar una convulsió o arrítmies.
+Si el pacient ja té factors de risc de convulsionar o de fer arrítmies, si li poses el flumazenil, vigila.
+Si està indicat perquè és necessari perquè té una depressió respiratòria i si no fas alguna cosa acabarà fent una aturada respiratòria, lògicament te la jugues i risc-benefici li poses el flumazenil.
+Però posar-li perquè està somnolent i tu vols que estigui despert i parlant a urgències, doncs no.
+Si tenim una intoxicació combinada de benzodiazepines i opioides,
+doncs començarem per la naloxona i si la naloxona no ens funciona després ja faràs servir el flumazenil, però si has de triar un o l'altre, primer la naloxona, d'acord?
+Amb depressió respiratòria o aturada respiratòria per una intoxicació combinada d'això.
+Aquesta recomanació ens ho diuen que és raonable fer-ho així.
+Perquè és una recomanació 2A, no hi ha assajos clínics d'alta qualitat o una metaanàlisi d'assajos clínics ben fets.
+No està indicat el flumazenil, com he dit abans, amb depressió del sistema nerviós central o en aturada cardiorespiratòria ni en coma d'etiologia desconeguda.
+Això, i jo penso que ho fem sovint, pacient en coma, no sé què, doncs vinga, flumazenil.
+Si, home. És el còctel del coma, no?
+Exacte.
+Naloxona, anexate i glucosa
+Sí. Doncs vigilar molt amb el flumazenil o pensar-t'ho dues vegades, i no d'entrada.
+No és que no es pugui fer servir, però pensa-t'ho dues vegades perquè, si no saps per què està en coma, vés a saber què s'ha pres. Si s'ha pres 3 antiarrítmics i tu també li poses el flumazenil, 
+potser sí que després tindràs un ensurt i tindràs un pacient en coma perquè ara té una taquicàrdia ventricular sense pols. Vigilem.
+Jo recordo a un pacient psiquiàtric posar-li flumazenil, una bomba per anar-lo mantenint despert, feia mala cara, val més que s'adormi, que potser d'aquí sortirem a hòsties.
+Sí.
+En algun cas me'n recordo d'això.
+Sí, sí.
+Va, els blocadors beta-adrenèrgics. Metoprolol, labetalol, propanolol, el que sigui. Què ens fan aquests?
+En dosis tòxiques, hipotensió, bradicàrdia, disminució de la contractilitat cardíaca, arrítmies...
+I ara no me'n recordo, sé que està relacionat amb hipoglicèmia, no sé el mecanisme fisiopatològic, però està descrit.
+Aleshores, era el cas que he posat al principi de la intoxicació per labetalol.
+Doncs, si mirem la recomanació 1, la insulina a dosis altes amb vasopressors, bàsicament, noradrenalina. Per què posem insulina? Perquè té un efecte inotròpic.
+Ah, caram
+Augmenta el cabal cardíac. Però, clar, s'ha de posar unes dosis intenses, val?
+Hem de posar un bol d'una unitat per quilo endovenós. Això vol dir que, en una persona a pes estàndard, pot ser 70 unitats amb una embolada.
+Convencer a la infermera perquè et faci això et costarà, eh.
+Sí, jo ho sé. I després, una perfusió d'una unitat per quilo i hora. I anar augmentant progressivament fins que vagi millorant la hipotensió, fins a 8-10 unitats quilo-hora.
+Fes un càlcul ràpid i a mi me tocarien 700 unitats a l'hora.
+Déu n'hi do
+O sigui, és heavy. Sí.
+Torno a recordar que estem parlant de malalts intoxicats que estan en risc vital o que estan aturats.
+No estem parlant, hòstia, que m'he equivocat de dosi i li he posat tres vegades la dosi de labetalol que li correspon i sembla que ara té la tensió una miqueta més justa del normal i que va a 45 per minut.
+No, no. És una persona que està en risc vital. Vull dir que el tens xocat, amb xoc cardiogènic o està en periaturada.
+Però si poses tanta insulina suposo que hauràs de posar sucre.
+Sí, sí. Si està a menys de 200, a la columna de la dreta, els que ens esteu veient el vídeo, ja veureu que si està a menys de 200 de glicèmia, li hem de començar a posar sucre.
+25-50 grams en un bol, seguit d'una perfusió contínua també de 25 grams hora. 
+Començarem per vies perifèriques, a concentracions en sèrum glucosat del 50%, però clar, si hem de continuar així, on necessitarà una via central, perquè uns glucosats al 50%, 
+et pots quedar sense venes perifèriques al cap de poca estona. I tot i posar-li glucosa endovenosa en aquestes dosis, el 30% ens farà hipoglicèmies.
+ El 30% ens faran hipopotassèmies. I també ens faran hipomagnesèmies i hipofosfatèmies. 
+Per tant, és un pacient que ja el tenim xungo, molt inestable, perquè s'ha pres no sé quantes o li hem administrat dosis molt tòxiques de blocadors beta-adrenèrgics.
+Li hem de posar insulina a altes dosis, perquè té un efecte inotròpic, més vasopressors, la noradrenalina. I tot i això ens faran hipoglicèmies, hipopotassèmies, hipomagnesèmies, hipofosfatèmies.
+Són efectes secundaris que si els anem solucionant, tenim possibilitats que el pacient no se'ns mori.
+És un pacient que ha d'estar molt monitorat, perquè la glicèmia, potassi, magnesi i tot això s'ha d'anar controlant i s'ha d'anar contrarestant i solucionant.
+Què més podem fer amb aquest pacient?
+El glucagó, com tu havies dit Albert. El glucagó en una embolada i després en una perfusió contínua. En l'article del Circulation teniu una taula amb totes les dosis de tots els antídots.
+Alguns sí que en parlo, perquè em semblen curioses, aquestes de la insulina i tot això, però les més estàndards ja no en parlo.
+Per tant, el glucagó endovenós en una embolada i després en perfusió contínua. Això és per la bradicàrdia i per la hipotensió. La recomanació, ens diuen, és raonable fer-ho.
+També és raonable si tot i això, tot i posar-li la insulina, el vasopressor i el glucagó no va bé, el següent, per nivell d'evidència,
+seria començar a parlar amb el SEM, o ja hauries d'estar fent abans, perquè és un pacient que potser necessita ECMO. És raonable, segons el Circulation.
+L'atropina i el marcapassos, que potser ens sortiria fer-ho abans, és una recomanació 2B, pot ser raonable atropina i marcapassos.
+O sigui, que quan has fet les altres pots pensar a fer aquesta.
+Sí. O mentre esperes la PACA.
+Pels que no estigueu familiaritzats amb això de la PACA, és l'acrònim de Pacient d'Alta Complexitat.
+És l'ambulància que té el SEM específicament per fer trasllats de pacients amb mols aparells i molt complexes.
+Alguns potser l'heu vist, és una mena de camió així tot gros que circula pels nostres hospitals aquí a Catalunya. Vinga, seguim.
+O mentre esperes la PACA per fer l'ECMO o aquestes històries, mentre no tens la solució una mica més definitiva, o més... Intentes l'atropina, intentes marcapassos...
+I també l'hemodiàlisi i l'emulsió lipídica, no sé si en algunes ocasions o en algunes èpoques es recomanava,
+ però en aquesta actualització del 2023 ja diuen que l'emulsió lipídica en els blocadors beta-adrenèrgics no té beneficis.
+Molt bé.
+Si? Els blocadors beta-adrenèrgics?
+Sí, sí. Insulina, glucagó, que a més a més, si ja t'ha costat convèncer la infermera, buf, aquesta has de començar dient, no entendreu res del que farem ara, però hem de fer això.
+Sí. Bé, si ho hem escoltat tots algun dia i ho tenim una miqueta en algun lloc,
+Escrit. Sí, sí.
+Si, un protocol, el que sigui...
+Sí, sí, clar.
+tinguem tots el butlletí d'informació toxicològica que es va publicar l'any passat, ho tenim allà i ja està, i consultem.
+Llegeixi.
+I consultem, sí, sí.
+Bé, els blocadors del canal del calci, nifedipina, amlodipina, diltiazem, verapamil, què passa amb aquests?
+Doncs que en dosis tòxiques, doncs bradicàrdia, vasodilatació, disminució de la contractilitat cardíaca, hipotensió, i tot això acabarà amb un xoc cardiogènic.
+Quin tractament tenim, quins antídots o com hauria de anar això?
+Els vasopressors, la noradrenalina per la hipotensió, això està recomanat, dosis fins a 100 micrograms per minut, també són dosis altes.
+Què més? La insulina a dosis altes, també per la hipotensió, això també està recomanat, és una recomanació forta, la primera recomanació, les mateixes dosis que abans.
+El gluconat càlcic a dosi alta, intentar tindre un calci en sang que estigui gairebé al doble del límit superior de la normalitat del pacient.
+O sigui, aquí no busques analíticament, ja t'és igual. O sigui, vas a...
+Ha d'estar per sobre del límit de la normalitat.
+Aquí també hauràs d'avisar els del laboratori que quan vegin això no s'espantin.
+Què més? L'atropina per la bradicàrdia hemodinàmicament significativa, no una bradicàrdia de 45. Això és raonable, fer servir l'atropina.
+Si el tens amb xoc cardiogènic després d'haver fet tot això, després d'haver-li posat noradrenalina, insulina a dosis altes, el gluconat càlcic i l'atropina, i està amb xoc cardiogènic, 
+o fas alguna cosa més o el pacient se't mor, no? Per tant, és el moment de l'ECMO. I el marcapassos també diu que pot ser raonable. 
+Glucagó, blau de metilè i emulsió lipídica, que potser en algun moment es devia parlar que podien ser beneficiosos, aquesta actualització del 2023 ens diu que no és beneficiós.
+Què més? El pacient amb cocaïna.
+És un pacient que si s'ha passat tres pobles, vindrà taquicàrdic, amb hipertensió, amb vasoespasme coronari, hipertèrmia, agitació, 
+convulsions, alteracions a l'electro, taquicàrdies ventriculars, asistòlia i el que sigui. 
+Importantíssim, el suport bàsic en aquest pacient serien les benzodiazepines per control de la tensió arterial i l'agitació. Ens recomanen un, dos mil·lígrams cada tres, cinc minuts.
+Després, pel tema de la hipertèrmia, no hem fet cap pòdcast, eh? Eh que sí?
+Sí, sí, vam fer... Em sona l'episodi 13, no sé si és aquest, que parlaves... ens explicaves el cop de calor.
+Em sonava.
+Si algú vol saber com tractar una hipertèrmia, refredament extern per a hipertèrmia, que vagi a escoltar aquell.
+Farem enllaços, no? Al blog anem fent enllaços a nosaltres mateixos.
+Sí, sí, sí.
+Què més? La hipertèrmia.
+ Ens recomanen dos sistemes millors, és l'evaporació i la immersió. La immersió és una mica complicada en un pacient inestable,
+un pacient amb aturada cardiorespiratòria, perquè clar, l'has de tindre monitorat, etcètera. Posar-lo a dins d'una banyera...
+Em sembla que en vam parlar, no? Que si el capnògraf, que si no sé què, podríem arribar a fer-ho, però és bastant merder.
+ Per tant, la versió més factible és per evaporació, no? Fer-li perdre temperatura per evaporació. Per tant, despullar-lo, anar-lo ruixant amb esprai amb aigua i ventiladors, i fred ambiental...
+Si pots posar-li una miqueta de gel a les sofrajes i a les axil·les i tot això, doncs fantàstic. 
+Què més? Bicarbonat o lidocaïna per les arrítmies de complex ample, de QRS ample o amb aturada cardiorespiratòria, doncs, bicarbonat o lidocaïna.
+I si té espasme coronari o per una emergència hipertensiva, vasodilatadors.
+Nitro com a vasodilatador, imagino?
+Sí, sí.
+Nitroglicerina i això
+Sí, ens recomanen per les arrítmies també lidocaïna, de 1 a 1,5 mg per quilo, repetit cada 3-5 minuts, seguit després d'una perfusió contínua.
+No ens recomanen l'ús dels blocadors beta-adrenèrgics en aquests pacients intoxicats per cocaïna.
+Per la taquicàrdia, per la hipertensió, per tot això, no ens recomanen que fem servir labetalol, per exemple. Però llegint una miqueta més, no queda clar això. 
+Sembla que és un dogma que ve de fa molt temps i per alguna raó fisiopatològica semblava que els blocadors beta-adrenèrgics podrien anar malament en aquest tipus de pacients.
+Però és una cosa que algú ha experimentat i provat i tal, i no té cap problema especial. 
+Però sí que si llegeixes les guies i articles, no sé què, per decret no recomanen els blocadors beta-adrenèrgics.
+No ho sé. S'hauria d'investigar una miqueta més si algú té més ganes d'aprofundir en el tema, que ho faci i que ens ho expliqui. 
+Sí que està bastant clar que els antiarrítmics 1A i 1C, com la procaïnamida, la flecaïnida i la propafenona, no utilitzar-los. 
+La flecaïnida fàcilment la podríem utilitzar, perquè si ens ve un pacient d'aquest i després queda amb fibril·lació auricular, dius mira, és un pacient que no té cardiopatia estructural
+que fa poques hores que té la fibril·lació, anem-li a posar flecaïnida per revertir-lo a sinusal. La flecaïnida no la podríem posar, perquè tindríem ensurts.
+Va, intoxicacions per cianur.
+Home!
+Intoxicacions per fums d'incendis en espais tancats. Aquests pacients tindràs hipotensió, acidosi làctica, convulsions, coma i mort.
+Què és l'important?
+El que ens recomana la guia aquesta és administrar la hidroxicobalamina tan aviat com sigui possible en la primera sospita. És bàsic.
+El cianur fa que les mitocòndries de totes les cèl·lules del teu cos no puguin fer servir l'oxigen, per tant es queden en un estat anaeròbic i es moren.
+El cianur fa això i la hidroxicobalamina ho evita
+Sí, exacte.
+Per tant, tu pots tindre un pacient intoxicat per fum que dius sí, sí, jo ja l'estic ventilant amb el respirador manual, l'intubo, li poso oxigen amb una FiO2 del 100%, l'estic ventilant, oxigenant perfectament, sí, sí. 
+La seva hemoglobina estarà perfectament saturada d'oxigen, però les cèl·lules no poden fer servir ni un gram d'oxigen del que tu li estàs donant fins que no li posis de la hidroxicobalamina.
+Per tant, a la mínima sospita que aquell pacient, que normalment és un pacient greu, que pugui haver estat intoxicat per cianur, perquè hi havia, jo que sé, algun plàstic, alguna no sé què...
+Ara mateix que en un foc no hi hagi plàstic és ben estrany
+Sí. Qualsevol pacient una mica xungo intoxicat per fum, hidroxicobalamina.
+A més a més, és la vitamina B-no-sé-qué, la hidroxicobalamina, vull dir que no té efectes secundaris de res.
+Així com el flumazenil hem dit que havíem d'anar en compte, risc-benefici, etc. La hidroxicobalamina no passa res. Crec que després pixes de color més fosc i no sé què més, però no passa res.
+I si no li poses, i no li poses super ràpid, i t'esperes, no, primer l'intubem, no sé què, i després tot seguit li posem la... Tota aquesta estona, el pacient està ofegat i totes les seves cèl·lules no poden fer servir oxigen. Es morirà.
+I crec recordar que se n'havia de posar molta. Hi ha vials del Cyanokit, em sembla que és de 2 i mig i de 5
+Sí.
+I crec que dels vials de 2 i mig n'havies de posar dos. Ara em falla la memòria, això hauríem de mirar-ho
+No ho sé, no ho tinc en memòria, això, ara tampoc, jo.
+No recordo ara les dosis. Mira, tenim deures, ens ho mirem.
+Sí, però jo penso que amb el SEM ja ho portem bé, ara, eh. 
+Va. Si per algun motiu no tinguéssim la hidroxicobalamina, nitrit de sodi, que no ho sé si al meu servei d'urgències ho tenim, el nitrit de sodi. 
+A mi em sona a xino, eh?
+Sí, eh. Sé que és com un estabilitzador per evitar que la carn i alguns aliments es facin malbé, o sigui, es fa servir per conservar aliments,
+però amb l'estoc d'antídots que hi ha en els serveis d'urgències, no sé si ho tenim. Si no, la pàgina web aquesta de...
+La Red de Antídotos, eh?
+Exacte, allà hi ha una pàgina web, hi poses Red de Antídotos i et dirà el que necessites ho tens a Olot, ho tens a Puigcerdà, ho tens a no sé què, a quin hospital ho tens més a prop,
+perquè, clar, tots els antídots no els tenim a tot arreu, sinó que hi ha antídots que estan a les zones on epidemiològicament és més factible que tinguem, doncs, una intoxicació per, no sé, per la tora blava o per no sé què.
+Val, nitrit de sodi. I això acompanyat de tiosulfat sòdic, que desconec si ho tenim o no ho tenim, i això t'ho recomanen com acompanyant, addicional, la hidroxicobalamina o al nitrit de sodi.
+Posis un o no posis l'altre, ho acompanyes del tiosulfat sòdic. I oxigen al 100%.
+Acabo de mirar la hidroxicobalamina a les guíes del SEM. Són 70 mil·lígrams quilo, màxim 5 grams.
+Val, fantàstic.
+La vitamina B12 és la hidroxicobalamina, tu.
+B12, sí.
+Doncs això, l'important, que això ja ho sabíem, és administrar tan aviat com sigui possible a la primera sospita. 
+No t'has d'esperar a tindre un pH acidòtic o cap tipus de prova complementària, ni res de res. Si no l'hi poses ja, ja podem tancar la porta i marxar.
+Gairebé quan els bombers te'l treuen del lloc, gairebé ho hauries de tenir a punt de penjar.
+Sí, sí, si et diuen que estan traient un pacient inconscient d'un incendi, ja hauríem de tindre preparada el Cyanokit, perquè si et diuen que el treuen estirat, li haurien de posar. 
+Va, digoxina, o també el verí del gripau, del gripau bufo, que és el gripau comú, o el baladre, que és un arbust. 
+Tot això té la mateixa toxina, bé, molècules una miqueta diferents, però totes es tracten igual. 
+Per tant, si mai et ve algú que ha fet alguna història rara al·lucinògena amb el gripau, o ve molt intoxicat per digoxina, o s'ha fet una infusió amb les fulles del baladre,
+doncs vindrà amb clínica gastrointestinal, amb confusió, hiperpotassèmia, amb un blocatge auriculoventricular, amb taquicàrdies, fibril·lació, etc.
+En aquests, els anticossos, antidigoxina.
+Que no ho tenim a tots els serveis d'urgències, perquè crec que és molt car, i deu caducar cada dos per tres, però bé,
+si hem fet les primeres mesures de suport al pacient greu, i tenim molt clar que la intoxicació és per això, doncs hem de moure els recursos per tindre els anticossos antidigoxina.
+Si no, també és raonable per la bradicàrdia, l'atropina i el marcapassos, i per les arrítmies ventriculars secundàries també a la digoxina, la lidocaïna o la fenitoïna.
+Fenitoina? Hòstia.
+Sí.
+Una indicació estranya. Molt bé, molt bé.
+Sí. Val? recordar-ho El gripau i el baladre, que és poc freqüent, però pensar-hi. 
+Va, els anestèsics locals. Fas una infiltració i necessites altes dosis de bupivacaïna, lidocaïna, per fer una infiltració, per fer una anestèsia regional, etc. 
+I el pacient fa un efecte tòxic sistèmic, que normalment serà a nivell del sistema nerviós central, el més freqüent és en forma de convulsions, 
+però també pot ser una agitació, una síncope, disàrtria, confusió, mareig, o algun efecte cardíac. El més freqüent és la bradicàrdia.
+Doncs, en aquests casos, és l'emulsió lipídica al 20%, endovenosa. 
+Però recordar que en totes aquestes intoxicacions que estem parlant, el més important és el suport bàsic i vital inicial, que en aquest cas és sobretot pensar en la hipòxia i l'acidèmia. 
+Fer de tot el possible perquè el pacient no estigui hipòxic i no estigui acidòtic. 
+Li posaràs l'emulsió lipídica, però, per exemple, si et convulsiona, com que sabem que si convulsiones una estona és fàcil que estiguis una estona hipòxic i que, a més a més,
+si després et fan un equilibri, moltes vegades veiem que el pacient té un pH baix, per tant, si convulsiona ràpidament, benzodiazepines. 
+Si fa taquicàrdia de QRS ample, amb afectació hemodinàmica, bicarbonat sòdic.
+També, per corregir, ens anirà bé el bicarbonat sòdic si li fem un pH i està acidòtic, doncs el bicarbonat sòdic. 
+L'atropina per la bradicàrdia amb afectació hemodinàmica, i si tot i això, tot i haver fet tot el possible perquè el pacient no estigui hipòxic, no estigui acidòtic, 
+li has posat l'emulsió lipídica, li has posat benzodiazepines quan li ha calgut, bicarbonat sòdic quan ha calgut, i atropina, i tot això, el pacient està en xoc cardiogènic, refractàri a tot això que hem fet, doncs ECMO.
+Ja comences abans a trucar al SEM i a explicar la història, i aviam amb què et poden ajudar, d'acord? els anestèsics locals.
+La metahemoglobinèmia, això ho podem tindre amb fàrmacs, per exemple, la intoxicació amb nitroglicerina, nitrofurantoïna,
+l'òxid nitrós, tot el que siguin nitrats o nitrits, i també amb altres fàrmacs, la metoclopramida, la ciprofloxacina, la dapsona,
+que és un antimicrobià que es fa servir per la lepra, la malària, la toxoplasmosi, tot això, la dapsona. 
+Doncs en aquests casos trobaràs un pacient que té una cianosi extrema, cansat, dispneic, i tindràs una discordança entre la saturació d'hemoglobina, que et diu el pulsi
+i la que et diu la gasometria arterial que has demanat i tens el resultat, i dius, per què hi ha aquesta discordança i està cianòtic el pacient?
+Doncs investigues una miqueta i potser pots veure si té una metahemoglobinèmia. 
+Aleshores, faríem servir el blau de metilè. Això és recomanació grau 1, i grau 2b, és a dir, pot ser raonable en casos refractaris el blau de metilè, seria l'exsanguinotransfusió o l'oxigen hiperbàric.
+Aquí, això de l'òxid nitròs, compte que no sé com està ara, però els cartutxos aquests que es fan servir per inflar els pneumàtics de les bicicletes quan has punxat,
+n'hi ha de CO2 però també n'havien circulat d'òxid nitrós. I la gent anava al Decathlon a comprar-los i després se'ls fotien. Com que és el gas del riure, no? hihi, haha, doncs..
+Hòstia, no ho sabia això.
+Si, si. Em sembla que havia passat bastant, i aquí a Espanya no sé ara mateix si ja no en venen d'òxid nitrós o encara. Mira, si algú ho sap, si hi ha algun ciclista i...
+Sí, sí, jo n'he fet servir alguna vegada. I la pròxima vegada ja m'hi acostaré més, aviam si... No ho sé. Vale, vale, no ho sabia això jo. Fa gràcia.
+Què més? Intoxicació per opioides.
+Aquest és fàcil, home, aquest és fàcil.
+Aquest ho tenim tot molt clar. Morfina, el fentanil, la codeïna, la petidina, que és la meperidina, el tramadol, la heroïna...
+Tot això sabem que fa depressió del sistema nerviós central, depressió respiratòria, aturada respiratòria i aturada cardiorespiratòria. 
+Aleshores, primordial, primordial, és abans que s'aturi, sobretot, via aèria i ventilació.
+Però, a nivell de recomanació 1, recomanació forta, és que feu una reanimació cardiopulmonar d'alta qualitat per sobre de l'administració de naloxona.
+És a dir, no administrarem la naloxona abans de començar a fer una reanimació de qualitat. 
+Primer comences a fer la reanimació, i han passat aquests primers minuts, a vegades de desconcert, i la cosa ja estàs fent un RCP d'alta qualitat, doncs, després mires i dius, què més ens falta?
+De tòxic, ostres, ara és el moment de posar-li la naloxona. Per més clar que tinguis que el pacient s'ha aturat perquè s'hagi pres no sé quin opioide, doncs, lo principal és fer un RCP de qualitat. I, després, li posarem la naloxona.
+De la naloxona jo recordo haver vist ara fa poc, no sé si dir-ho perquè no tinc la referència ara, que l'administració a cegues de naloxona en una aturada cardiorespiratòria havia tingut millores estadístiques en algun estudi.
+El que clar, si això ho fas als Estats Units o Canadà on tenen el gran problema aquest de l'epidèmia dels opioides, aquí si que et pot funcionar bé, en altres llocs potser no, llavors no sé fins a quin punt aquesta informació que acabo de donar té rellevància o sentit
+No sé.
+Igual no ho hagués de dir perquè com que no tinc la referència igual estic donant informació que ens pertorbarà del que hem de fer, que és RCP, RCP, RCP i després ja si de cas ja...
+Perquè el que et mata dels opioides és que deixes de respirar, per tant hem de suplir això, lo altre ja ho resoldrem.
+Però això tardarà uns minuts en fer efecte, que són els minuts que tu has de fer la via aèria, la ventilació, les compressions toràciques, i tot el que calgui, 
+i quan això ja ho estiguis fent bé,  si som uns quants, algú ja estarà carregant la naloxona, i després li posarem. 
+Sí, sí.
+Pot ser que després d' administrar la naloxona et faci un edema agut de pulmó, que és una reacció adversa,
+no sé exactament el mecanisme pel qual fas l'edema agut de pulmó, que solen ser sobtats i greus, i que responen bé a la ventilació no invasiva. 
+I pensar que si l'opioide que s'ha pres és d'alguna formulació retard, i tot això, el pacient, si pel motiu que sigui, se'n vol anar del servei d'urgències,
+li has d'explicar que pot ser que al cap d'una estona torni a entrar en depressió respiratòria i es torni a parar, perquè la vida mitjana de la naloxona és menys que, potser, uns quants tramadols que s'ha pres.
+Intoxicacions per organofosforats, pesticides, o alguns fàrmacs, com la rivastigmina, la fisostigmina, la piridostigmina i la neostigmina. No són el més freqüent del món, però sí que hi ha pacients que els prenen.
+Els pacients que estan intoxicats per això faran síndrome parasimpàtica, amb afectaciódeal sistema nerviós central, amb convulsions, agitació i també són pacients que venen amb molta broncorrea, broncoespasme i bradicàrdics.
+A aquests pacients, imprescindible, és la descontaminació, gàstrica o cutània, o com sigui, la que sigui necessària, l'atropina, les benzodiazepines i la pralidoxima.
+L'atropina, immediata, és una recomanació forta i millora l'excitació que té del parasimpàtic.
+Per tant, millorarà la bradicàrdia, la broncorrea, el broncoespasme i també evitarà que puguis fer convulsions.
+No millora l'efecte dels organofosforats que fan afectació a la musculatura. Tot això l'atropina no ens ajudarà.
+En cas que sigui necessari, per una intoxicació greu pots necessitar fer una intubació orotraqueal, saber que en aquests casos, no pots fer servir el suxametoni, no pots fer servir la succinilcolina.
+Has de fer servir el rocuroni, perquè el suxametoni es metabolitza a través de les colinesterases i amb aquestes intoxicacions no pots fer servir aquests fàrmacs. Per tant, si l'hem de ventilar de forma invasiva, necessitem el rocuroni.
+Si convulsions, excitació, tot això, les benzodiazepines i després la pralidoxima.
+Aquí amb la descontaminació, això haurem de portar algun dia a algun d'aquests que tenim, amic de les coses de seguretat, perquè s'ha d'anar amb molt de compte els organofosforats aquests cutanis, també els pots respirar tu.
+No sé si era... Ara no recordo, em sembla que era a Japó, l'atac aquell que hi va haver-hi amb gas, 
+Sí
+que compte. Si alguna vegada tenim un sidral d'aquests, les atropines les gastarem totes, ja en podem tenir caixes senceres, i caurem. 
+Nosaltres haurem d'anar, disfressar-se i... Això ja buscarem algú que ens expliqui això de descontaminació i tot això, perquè té el seu què, eh? Compte amb aquests, eh?
+Els NBQs i els no sé què, no?
+Sí, sí, aquests, aquests. En el meu cas, que és rural, el que pot passar és que algun pagès s'ho foti per sobre.
+O que s'ho hagi... Bé, si és un intent suïcida que s'ho han begut, compte, perquè si ho vomita i tot això, està per allà, eh?
+ I que potser a tu després no t'agafi una miqueta de mal de closca o alguna cosa estranya. Compte amb aquesta descontaminació.
+Bé, amb totes, eh? Però aquesta en concret, aquesta me'n recordo.
+Molt bé Albert. Si algú ens sent i domina el tema, que ens posi contacte amb nosaltres.
+Què més? Va, ja estem acabant, eh?
+Els antagonistes dels canals del sodi, estem parlant dels antidepressius tricíclics, la carbamazepina, la flecaïnida, que la fem servir sovint,
+la lacosamida, que cada vegada se'n fa més ús, el topiramat, la venlafaxina, tot això són antagonistes del canal del sodi.
+Trobarem a un pacient que té un eixamplament del QRS, hipotensió, convulsions, arrítmies i aturada cardiorespiratòria.
+El tractament seria bicarbonat sòdic, 1 Molar.
+Començarem amb un bicarbonat hipertònic, que és l'1 Molar, per tractar el QRS eixamplat i la hipotensió.
+Començarem amb bols endovenosos i després, per titular la dosi, en funció de com vagi el QRS i com vagi la tensió, vas posant menys o més, o pots fer-ho amb una bomba d'infusió contínua.
+Haurem d'anar monitorant el sodi, com està el pH i el bicarbonat, i el potassi, perquè si anem posant molt bicarbonat podem trobar que el pacient estigui hipopotassèmic.
+I si és 1 Molar, compte amb les vies perquè si n'has de posar gaire igual t'has de començar a plantejar posar catèters llargs a alguna banda.
+Perfecte.
+Després la lidocaïna per la toxicitat cardíaca, si ens trobem que fa taquicàrdies i tal, la lidocaïna, i l'emulsió lipídica, en casos que siguin refractàries a tot això que hem fet, l'emulsió lipídica i l'ECMO.
+En casos de xoc cardiogènic, refractari al bicarbonat, la lidocaïna i l'emulsió lipídica, només ens queda, que si sembla que sí que pot ser beneficiós, doncs l'ECMO.
+Després tenim els simpaticomimètics, les amfetamines i els cannabinoides sintètics.
+Són pacients que et vindran taquicàrdics, hipertensos, agitats, amb convulsions, amb hipertèrmies, rabdomiòlisi, acidòtics, amb vasoespasme coronari, amb un takotsubo, amb arritmies, etc.
+Aquest és important que si necessiten contenció física, és important sempre fer-ho amb sedació, perquè pacients que estan en aquest estat hiperdinàmic amb les catecolamines pels núvols,
+si fem una contenció física poden tindre aturades cardíaques i morir-se.
+És que totes les contencions físiques haurien d'anar amb contenció farmacològica darrere. 
+És que no sé, no assumeixo una altra cosa, només el fet que ho vius justificaria que et tombem si t'hem de lligar.
+Sí, sí. Sí, sí.
+Sí, tant te recomanen les benzos, com un antipsicòtic, com la ketamina.
+Igualment, el tema de la hipertèrmia, com hem dit abans, amb la cocaïna. Si hi ha espasme coronari, els nitrats, i si té un xoc cardiogènic refractari, doncs ECMO.
+Maquinetes.
+I ja estem. Només recordar, és primordial, fonamental, les mesures inicials abans de l'administració dels antídots.
+Si tenim dubtes, que els hem de tindre, perquè moltes vegades no són patologies freqüents, doncs tindre un centre de toxicologia a qui poder demanar consell.
+Recordar que els bloqueadors beta-adrenèrgics i els del canal del calci, insulina a dosis altes, el bicarbonat per les arrítmies greus de la cocaïna i dels blocadors del canal del calci,
+en el cianur, la hidroxicobalamina, sense dubtar-ho i el més aviat possible, els anticossos antidigoxina per la digoxina i pels gripaus i pel baladre, l'emulsió lipídica pels anestèsics locals,
+i el flumazenil, recordar que serveix per la depressió respiratòria i no per la depressió del sistema nerviós central, perquè té riscos i té contraindicacionsque podem tenir un ensurt, perquè el risc finalment era més important que no pas el benefici.
+I amb això és tot el que volia repassar, Albert.
+Molt bé, molt bé, molt interessant. No en tens prou que tens un tio fotudíssim que a sobre has d'estrujar-te el cervell, maltractar les neurones amb tot això.
+Sí, això estaria bé tindre-ho on tinguem les guies o... perquè quan ho necessitis de veritat, si no ho tens apuntat i en una xuleta fàcil de consultar i molt clara,
+no és fàcil de decidir posar-li 70 unitats d'insulina en una embolada i després començar  el mateix cada hora, t'ho pensaràs molta estona i potser massa estona la que tardaràs en decidir-te.
+Sí, sí, sí. Hi ha feines que les has de tenir fetes abans. Aquesta n'és una.
+Sí.
+Molt bé, doncs escolta, antídots per l'aturada cardiorespiratòria, o periaturada cardiorespiratòria. Moltes gràcies, Xavi
+Doncs ara toca el menys és més, que jo us n'explicaré una altra, una nova recomanació de la SEMES. 
+Si recordeu, fa un parell o tres d'episodis que vam fer ja una recomanació  del No Hacer de la SEMES, de la Sociedad Española de Medicina de Urgencias, que era que no havíem de fer gasometries a tothom.
+Sí, que hi havia tres indicacions clares i ja està.
+Exactament, doncs jo us en porto un altre molt semblant que ens diu que no hem de col·locar una sonda nasogàstrica de forma rutinària a totes les hemorràgies digestives
+Per què és rellevant això? Això és rellevant perquè d'hemorràgia digestiva en tenim... En veiem, tinc aquí uns números que diu que a Espanya són 36.000 episodis a l'any, 80 cada 100.000 habitants.
+Crec que tots els serveis d'urgències del país algun que altre en tenen cada mes d'hemorràgia digestiva alta
+Hòstia, però nosaltres en veiem cada dia, eh? No sé què passa.
+Sí, sí, això n'hi ha sovint
+Per què és rellevant no posar la sonda nasogàstrica? El motiu principal és perquè poques vegades ens canvia el maneig del pacient.
+Tant si li posem la sonda com si no li posem, farem el mateix. Per tant, quina diferència hi ha en posar-li o no posar-li?
+Si li posem per veure si hi ha vòmit amb marro de cafè i no hi és tampoc ens ho creurem. Tampoc serveix per decidir si li farem una endoscòpia o no. Si ens creiem que té una hemorràgia digestiva necessitarà una endoscòpia.
+S'ha vist que no té cap impacte en els resultats finals, per tant si posar la sonda o no posar-la és igual, doncs no la posis, t'estalviaràs diners i t'estalviaràs mal de caps. 
+Uns quants mal de caps perquè fotre una sonda no és una cosa baladí. Pots fer mal, es pot aspirar... Si fos el cas que tingués unes varices esofàgiques, potser la podries liar molt.
+ Jo et diria Albert, que pot tenir un fals negatiu de dir, va, li poso la sonda nasogàstrica, aspiro, no surt sang
+ i dius, aquest pacient no deu tindre una hemorràgia digestiva i potser és que està sagnat al principi del duodè que tu no hi has arribat amb la sonda
+i allà pot tindre un sagnat actiu importantíssim i tu aspires i no reculls sang i al cap de quatre hores ja el tens amb un xoc hipovolèmic, vull dir que pots tindre un fals negatiu tranquil·lament.
+Per tant, si no ens aporta res, només ens aporta complicacions, doncs risc-benefici, no ho hem de fer.
+No hem de fer de forma sistemàtica i rutinària posar una sonda nasogàstrica a tothom qui vingui amb una hemorràgia digestiva alta.
+ Ara hem de convèncer els cirurgians, almenys en el meu cas costa molt, dir-los per què li hem de posar, si tot el farem el mateix, tant si li posem com si no li posem. Però això costa... 
+Sembla que si no veiem la sang no estem convençuts, no acabo de veure el motiu, però bé, aquí cadascú té les seves experiències amb això.
+i aquesta és la meva recomanació del Menys és Més. Bastant ràpida aquest cop.
+Molt bé, molt bé, molt bé.
+Després un altre dia, Albert, aviam si trobo una recomanació així d'alguna societat que ens parlin del test de sang oculta en femta en el pacient amb sospita d'hemorràgia digestiva.
+Perquè encara se segueix fent i no entenc per què es fa, però encara es fa.
+Ah, no és allò de tirar aigua oxigenada a veure si fa bombolletes?
+Això també ho pots fer-ho, però no sé, hi ha uns kits de sang oculta en femta que algú els fa servir encara, després de 20 anys que ho veig en el servei d'urgències i dic, per què? Què fa això en el servei d'urgències?
+Doncs no hi ha manera que algú agafi tot allò i ho tiri a les escombraries, no ho entenc.
+Aviam si un dia trobo un Essencial o una cosa d'aquestes, potser ja està, eh? i no m'hi he fixat, però ho buscarem també i en farem un Menys és més.
+Molt bé, Albert.
+Molt bé.
+Què més? Què va?
+Doncs va, després d'aquest Menys és Més, que avui hem anat de pressa, gairebé és increïble en aquest pòdcast ens costa anar de pressa.
+Mira, ara toca l'UrgemMot
+Sí.
+i jo estic molt content, Xavi, estic molt content
+Què t'ha passat? Què has vist ara?
+Els meus companys de feina ara riuran perquè ja no sóc l'únic que escric sofraja a casa.  Ara ja començo a tenir companys ja que ja estan...
+Molt bé.
+Els hi ha entrat el cuquet i ja comencen a escriure... Portem unes setmanes que ens fotem uns panxons de riure a veure qui la diu més grossa en català està bé, està divertit
+Molt bé, està guai.
+Aquesta és la part bona, la part dolenta és que l'altre dia em van enganxar, perquè van dir aquest segur que ho sap i em van dir, escolta, com es diu enjuague en català?
+i en aquell moment em vaig quedar tot, ostres? I bé, ho he buscat en aquest moment em vaig ofuscar, després evidentment que ho sabia.
+Un enjuague, enjuagarse és glopejar, cosa que fem tots cada dia quan ens rentem les dents, oi? que glopegem, i l'acte de glopejar és el glopeig, oi? 
+Però el que ens acostuma passar és que confonem l'enjuague amb el líquid que fem servir, i això en català es diu col·lutori.
+Has de fer servir un col·lutori per a glopejar.
+Exactament sí, sí, i així no cal enjuagarse res.
+Molt bé.
+Xavi, va, que tens algunes parauletes divertides per l'UrgemMot d'aquest episodi?
+Sí, havia fet un repàs del diccionari de l'UrgemMot que tenim a Urgem.cat
+i havia buscat paraules que tenim en el diccionari relacionades amb el tema principal d'avui que hem parlat dels antídots i tot això, vejam si hi havia alguna paraula que havíem de millorar.
+A part dels blocadors beta-adrenèrgics i els blocadors dels canals del calci, tot això, que no són bloquejants ni aquestes coses.
+Per exemple, parlar de quan fem una embolada d'algun fàrmac. La primera dosi és la dosi d'atac.
+Una dosi inicial, no sé què, també és correcte, però hauríem de dir de forma una miqueta més acadèmica o no sé què, dosi d'atac.
+Queda més agressiu, eh? Dosi d'atac
+De fet, si li estàs posant 100 unitats d'insulina en un bol, això sí que és una dosi d'atac.
+i tant, i tant, i tant
+És la definició de dosi d'atac.
+i tant, i tant
+Després, el que he dit abans de l'embolada, també en pots dir un bol però segons el TermCat és millor embolada i el que no és correcte és el bolus.
+Després, molts d'aquests pacients intoxicats fan convulsions i poden fer un estat epilèptic.
+Se sent molt habitualment l'estatus epilèptic. Doncs no, és l'estat epilèptic.
+Després, intoxicacions per amfetamina o metamfetamina és amb M. En castellà és anfetamina, és amb N. En català és amfetamina, amb una M.
+També hem dit que feien sialorrea i broncorrea i tot això. La hipersalivació aquesta és un ptialisme.
+El terme correcte és tialisme, amb P-T. P-T-I-A-L-I-S-M-E. Ptialisme.
+Hem de fer seroteràpia en lloc de sueroteràpia o serumteràpia. Hem dit que el tractament inicial de molts d'aquests pacients intoxicats, si estan hipotensos i tal, seroteràpia.
+Hem dit abans que hi havia determinats pacients que si necessitaven intubació no podíem fer servir la succinilcolina, però hem de dir millor el suxametoni. en lloc de la succinilcolina, que també és correcte, però millor suxametoni.
+I el pacient que ve així, que s'ha pres, no ho sé, cocaïna o el que sigui, ve que no para de parlar i està a verborrèic, el que té és una logorrea.
+No una gonorrea, sinó una logorrea.
+Logorrea. De base tinc logorrea.
+Doncs això és un afany irresistible de parlar.
+Afany irresistible de parlar... D'acord.
+Sí. Doncs aquests 4 o 5 termes relacionats amb l'episodi d'avui.
+Què més? Albert, va.
+Tenies alguna cosa, alguna recomanació tenies?
+Tinc una recomanació. Segurament quan hagi editat l'àudio i es publiqui aquest episodi, ja hauré publicat de l'episodi anterior que parlàvem del xoc us vaig fer referència a la metàfora bomberil del xoc, 
+Sí.
+Que eren uns dibuixets amb una il·lustració d'un bomber intentant apagar un incendi, i com els diferents tipus de xocs es podien interpretar en funció de les coses que li passaven a aquest pobre bomber mentre intentava apagar el foc.
+Doncs això, aquesta metàfora bomberil, és del, diguem-ne equip mèdic, el Service Mobile d'Urgences et Reanimation de la Brigada de Marins Pompiers de Marsella.
+És a dir, els bombers de Marsella no són sapeurs pompieurs, com tots els bombers francesos, sinó que són marins pompiers, bombers marins.
+Marins Pompiers?
+Sí, doncs, aquesta gent m'han donat permís per traduir les infografies de la metàfora bomberil, i suposo que ja les haureu vist, perquè ja les hauré publicat quan es publiqui aquest episodi.
+Jo el que us recomano és la seva pàgina web, que és smurbmpm.fr, és en francès. Tenen aquestes infografies, però tenen molts altres recursos educatius.
+De tant en tant fan, no recordo cada quan, fan els dijous, le jeudi de la Urgence, fan els dijous de les urgències, que fan webinars d'aquests que són interessants.
+És interessant, eh? Mireu-vos-el, smurbmpm.fr, perquè és un grupet de gent, són 40 metges, més de 6.000 sortides l'any, i la toquen bastant, aquesta gent, eh?
+Marsella, a més a més, és un territori una miqueta especial, per molts motius que ara no venen al cas, amb el qual tenen el cul pelat de treballar aquesta gent, i a sobre es dediquen a fer bastanta difusió i bastanta docència.
+ La brigada dels Marins Pompiers de Marsella, l'equip mèdic d'allà.
+Hem de tindre un nivell de francès, eh, per...
+Va, estem a l'època del xatGPT, tio. Si és per llegir, no hi ha cap problema. Si és per escoltar, no et dic que no, però...
+No, si dius que fan els webinars i no sé què més.
+Escolta'm, no serà tan terrible, eh? Bé que els hem d'aguantar quan venen a la Costa Brava, no? Almenys aprofitem, no aprofitem només les coses dolentes, aprofitem les bones, també.
+Vale, molt bé.
+Jo tenia aquest butlletí d'informació farmacoterapèutica del País Basc, que ho fa el Centro Vasco de Información de Medicamentos,
+el butlletí que també tenim el català, els bascos també fan el seu, i aquest, bueno, pues això ho fan un equip multidisciplinari, com el nostre pòdcast, 
+que hi participen els farmacòlegs d'atenció primària, els metges d'atenció primària, de pediatria i medicina interna, i el Departament de Salut i la Universitat del País Basc, i aquests fan ub butlletí.
+El butlletí que jo volia recordar és el número 4 del 2024 i és Donde buscar información sobre medicamentos?
+Tenim pocs recursos així ràpids per trobar informació. Val? I en aquest article, que són 9 pàgines, ja està bé llegir-te'l tot, perquè al principi t'expliquen d'on ve la informació,
+que si la piràmide 5S de Haines, que això no sé si n'hem parlat alguna vegada aquí, 
+No
+i te donen alguna sèrie d'eines, per exemple, UpToDate, Dynamed, alguns altres metacercadors com Access, que t'has de registrar però després l'accés és lliure.
+Bases de dades, la Cochrane, l'Epistemonikos, no sé si el coneixeu però és una base de dades molt interessant, és d'accés lliure, el Próspero també és d'accés lliure.
+I després a la pàgina 48, et dona una sèrie d'enllaços d'accés lliure, i t'ho van classificant, per exemple,
+això és el típic que mirem sempre, les fitxes tècniques de l'Agència Espanyola del Medicament, de l'Europea, de l'FDA,
+les fitxes tècniques del medicament, però després hi ha tot un reguitzell de butlletins farmacoterapèutics de tot arreu, 
+que si els de Navarra, el Servicio Cántabro, que si els valencians, que si els catalans, i tens tots els butlletins farmacoterapèutics que més o menys es publiquen a la península,
+I blocs, per exemple, el Comprimido, no sé, n'hi ha molts, el Therapeutics Letters, després hi ha fulles d'avaluació de medicament.
+Per exemple, l'Agència Espanyola del Medicament, potser fa un informe de posicionament sobre els nous anticoagulants, i te fan una revisió d'un tema concret.
+També tenim les guies NICE, l'Essencial, que recomanen per fer un ús racional dels medicaments, que vagis a l'Essencial.
+Quines guies de pràctica clínica ens poden donar informació sobre medicaments?
+Doncs el NICE, el SIGN, el Guia Salut, les de Fisterra, de farmacovigilància, els butlletins de farmacovigilància de l'Agència Espanyola, del País Basc,
+el PreEvid , uns serveis d'aquests de preguntes i respostes que no sé si ho havien comentat alguna vegada, que és el PreEvid.
+Sí, sí, de què n'havíem parlat en els primers episodis, sí, sí.
+crec que són murcians,
+Sí.
+i tenen un sistema que els sanitaris els fan preguntes a tres o quatre especialistes en cerca bibliogràfica i lectura crítica
+i ells fan una resposta, en base una miqueta científica, amb una lectura crítica del que han trobat, donen una resposta als sanitaris del Servei Públic de Múrcia en aquest cas. 
+I que més? Hi ha un apartat amb quatre o cinc recomanacions de fonts d'informació de fàrmacs i embaràs i lactància, de pediatria,
+i blogs i coses que ells han valorat i creuen que donen informació de qualitat,
+per exemple, coses que me sonen a mi del Rincón de Sísifo, El Comprimido, Rafael Lana, Sano y Salvo, El Primum Non Nocere,
+totes aquestes són blogs que més o menys ja els anem seguint, però que els tenim tots aquí recollits perquè el butlletí aquest del País Basc, consideren que donen bona informació sobre fàrmacs. 
+Una cosa que es pot fer és fer un cercador, a través de Google pots fer un cercador personalitzat.
+Com el que tens tu a la web, no?
+Exacte.
+Quan he vist això he pensat, hòstia, m'hauria de dedicar-m'hi una estona a agafar totes aquestes fonts que ens diu aquest butlletí d'informació i posar-les en un sol buscador.
+Si algú s'anima a fer això, és una miqueta de feina, però es pot fer. Estarem encantats que ens el vingui a presentar, el seu cercador personalitzat, que ens el vingui a explicar, i nosaltres en farem difusió.
+Ja està, Albert, això és el que tenia per compartir en aquest episodi d'avui.
+Molt bé. Doncs escolta, ja hem arribat al final de l'episodi 44.
+Sí, veus? No ha sigut tan...
+Bueno, bueno.
+Bueno, bueno...
+No vull dir quanta estona portem xerrant perquè també... La gent no us imagineu el que haig d'arribar a tallar cada vegada.
+Va, anem acabant. Moltes gràcies per haver-nos escoltat fins aquí.
+Com sempre, si feu servir reproductors que tenen el botonet, allò d'apretar m'agrada, polseu-lo. Si esteu al YouTube també feu-ho, lo del polze enlaire. Queda maco.
+Si teniu alguna cosa a explicar, si-us-plau, digueu-nos-ho. 
+Ens agrada molt sentir altra gent que no siguem nosaltres. I no sé què més dir. Grup de Telegram. Ens podeu parlar pel grup de Telegram, si voleu.
+Molt bé, Albert, ens veiem en el pròxim episodi.
+Vinga, que vagi molt bé.
+Adeu-siau, adeu.
+Apa, adéu.
+Ara quan es dit això de les amfetamines... el Walter White de Breaking Bad approves les amfetamines amb M. Però no me'n recordava del nom.
