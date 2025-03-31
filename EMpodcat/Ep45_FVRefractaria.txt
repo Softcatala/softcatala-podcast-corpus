@@ -1,0 +1,613 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvinguts i benvingudes a l'EMPodCat, que com sabeu és un espai per conversar sobre urgències i emergències sanitàries
+i un cop més el tenim conduït, aquest pòdcast, per un equip multidisciplinari i multicèntric
+que a un costat del fil tenim l'Albert Homs, que el coneixem també com a Emermedprineus.
+Hola Albert.
+Hola, bon dia.
+Presenta't, digue'ns alguna cosa perquè la gent que és la primera vegada que ens escolta sàpiga qui ets i a què et dediques.
+Sóc infermer d'urgències i emergències a l'Hospital Transfronterer de Cerdanya i a l'ambulància SEM del territori, com ja hem repetit quaranta no sé quantes vegades.
+I tens alguna xarxa social a la qual et seguim i tot això?
+Va, quina vols? Mastodon? Mastodont.cat?
+Mastodont.cat.
+@Emermedprineus@mastodont.cat, per exemple.
+I el blog, no?
+Sí, emermedprineus.cat de blog i després ens trobareu a tot arreu on fem el pòdcast a empod.cat.
+I a l'altre costat estic jo, que sóc en Xavi Basurto, del blog d'Urgem.cat i a Twitter també, @urgemcat.
+Sóc metge d'urgències de l'Hospital de Figueres i també a l'USVA que tenim a Figueres.
+Avui Albert, tu ens expliques un tema molt interessant, segurament deu ser un CAGO d'aquests que hem explicat alguna vegada, no?
+Doncs no és tan ocasional, eh?
+Home, ja ens explicaràs la incidència que teniu vosaltres.
+I després tenim les seccions habituals: la del Menys és Més, de les Recomanacions i dels UrgemMots.
+L'UrgemMot, molt divertida sempre, no sé com encara ens aguanten perquè al final ja estem fent massa friquis de la llengua, però bé.
+Bé, són dos minuts.
+Sempre diem que són dos i al final acaben sent deu, eh?
+D'acord. No sé, Albert, per mi ja podem començar, eh?
+Com sempre, primer haig de fer una miqueta de digressió per donar context.
+Això és una entrada que igual quan escolteu el pòdcast ja s'haurà publicat al meu blog i ve induïda per un cas que hi va haver a la meva unitat.
+No puc donar massa detalls a aquest cas en concret perquè no tenim permisos, però vaja, inspirat en el cas.
+Per posar-vos en situació esteu en una RCP avançada una persona jove, sense comorbiditats així grosses.
+RCP telefònica des del moment que detecten l'aturada, que és immediatament quan s'atura.
+el primer DEA que se li posa és ritme desfibril·lable i es comença a fer les desfibril·lacions i la RCP bàsica.
+Fins aquí, aquest és un dels que ha d'anar bé, no?
+Has dit, perdona, intrahospitalari o extrahospitalari has dit?
+Extrahospitalari, però en el fons tampoc és rellevant aquí en aquest cas, no?
+La qüestió és que tens aquest que dius, home, el veuen, comencen l'RCP, té ritme desfibril·lable, doncs de totes les aturades aquesta és la que sembla que ja tenim més números de sortir, oi?
+Molt bé, doncs continuem amb la RCP avançada, fem el nostre, però és que ja portem 15-20 minuts seguim amb ritme desfibril·lable.
+Cada dos minuts l'hem anat xispant, tenim una capnografia que prou bé, que puja d'aquells 10 que són els que hem de fer servir per decidir si tirem endavant o no.
+Hem anat posant les adrenes i l'amiodarona, però és que portem 20 minuts i seguim igual que al principi, què fem aquí?
+I aquest cas és el que dic que no és tan ocasional.
+Fem-ho una miqueta més dramàtic encara? Resulta que mentre li estem fent les compressions mossega el tub, se li posa la pell de gallina, les pupil·les no estan midriàtiques.
+Això que la persona mostri signes de vida durant la RCP potser és una miqueta més ocasional però tampoc és una anomalia.
+Diuen les guies allò de què serveix per la RCP? Doncs la desfibril·lació precoç i les compressions cardíaques de qualitat.
+Compressions cardíaques de qualitat que vol dir... ja ho sabeu tots, no?
+Baixar els 4-5 centímetres, el ritme entre 100 i 120, recuperar quan has deixat de comprimir per assegurar que s'omple, tot allò, tot això ho estem fent bé
+Sí, però escolta'm, aquests signes de vida suposo que no anaven acompanyats d'un ritme desfibril·lable.
+Sí senyor,en el moment que pares les compressions... És que ho fem tan bé lo de les compressions ja sigui manual o amb la màquina
+Osti, molt bé
+Perquè la màquina, si la poses bé fa bones compressions.
+De fet hi ha casos descrits de gent apartant-te, i dius, ja està, l'hem recuperat, parar la màquina o parar de fer compressions i tornar-lo a tenir en ritme desfibril·lable i deixar de fer aquests signes de vida.
+Quin és l'objectiu de l'RCP? L'objectiu de l'RCP és generar un cabal cardíac mínim per mantenir els òrgans en vida.
+Si fas una miqueta més d'un mínim, doncs potser a més a més dels òrgans en vida, potser hi ha un cabal suficient com perquè hi hagi activitat d'alguna altra mena que no sigui només la pura subsistència.
+Us he posat un panorama lleig. Qui s'atreveix a parar una reanimació d'algú amb bones capnos i ritme desfibril·lable? És fotut això, eh?
+I què va passar? Què vau fer?
+Què va passar? Va durar molt, el van xispar una infinitat de vegades, adrenes per un tubo i ja està. No puc explicar gran cosa més. Evidentment es va acabar malament, eh?
+Però clar, això m'ha fet pensar que no pot ser que tinguem això i ens quedem en aquest bucle, en aquest cicle infinit que no ens està funcionant.
+I això no se m'ha acudit a mi. Això és una cosa que fa molts anys que se'n parla i de fet té nom.
+D'això n'hi diuen a la fibril·lació ventricular refractària. Això no us ha passat mai a ningú?
+ Sí, sí.
+I de fet, si anem a mirar la definició que se'n fa d'això de la fibril·lació ventricular refractària, jo diria que pràcticament tothom en algun moment hi hem estat.
+Perquè consideren fibril·lació ventricular refractària, això depèn d'on ho llegeixis, aquelles reanimacions en les quals després de tres o cinc desfibril·lacions,
+per tant estem parlant de sis, deu minuts, depèn de com ho vulguis comptar, després d'administració de l'adrenalina i l'amiodarona.
+Doncs és fibril·lació ventricular refractària a partir d'aquestes tres o cinc desfibril·lacions, depèn de qui escoltis.
+I de tres o cinc desfibril·lacions en un RCP en fem moltes, que arribem fins aquí.
+Sí? Fins aquí? Anem bé?
+Sí, sí, sí, s'entén perfectament.
+Molt bé, tenim clar el problema. Tot i que això de refractari, hi ha com dos...
+Tot és refractari, perquè tu fas la RCP, desfibril·les i immediatament comences de nou les compressions. No mires si té un ritme compatible, si ha tornat al pols.
+I al cap de dos minuts tornes a mirar i torna a estar en fibril·lació ventricular. El que passa és que la persona des que tu l'has xispat fins als dos minuts següents que ho tornes a mirar, li poden haver passat dues coses.
+Una, que tu l'has xispat i no ha sortit de la fibril·lació ventricular i la segueix mantenint.
+La segueix mantenint perquè tu perfons prou el cor com perquè aquells miòcits segueixin amb prou oxigen i prou glucosa per seguir despolaritzant-se.
+Però l'altra opció que tens és que l'hagis tret de la fibril·lació ventricular, hagi tornat a un ritme compatible, però que al cap d'uns pocs segons torni a entrar en fibril·lació ventricular.
+Per a tu és exactament el mateix, perquè tu desfibril·les, fas maniobres, al cap de dos minuts tornes a tenir-lo en fibril·lació, però fisiològicament no és exactament el mateix.
+Ens podem trobar amb el que seria el refractari pur, és que tu el vas desfibril·lant i no hi ha manera que surti de la fibril·lació ventricular,
+o en aquest altre, que sí que surt, però torna a entrar. Això n'hi podríem dir fibril·lació ventricular recurrent.
+Que moltes vegades no te n'adonaràs, perquè si continues fent compressions tu no saps el que passa entre mig d'aquests dos minuts.
+Exactament. Tal com està ara, doncs no.
+Que si durés prou d'estona aquest ritme amb pols, doncs potser veuries aquella pujada de la capno, que ens diu que potser ha tornat la situació espontània, però si dura molt poquet no ho veuràs.
+Sí, sí.
+Per mi és una mica rellevant perquè et diu cap on has d'enfocar la teva energia al principi.
+Però com que total, se'ns fa molt difícil veure-ho, hauries de tenir algú mirant el monitor a veure si just entremig de tot l'artefacte de l'RCP veu alguna cosa que sembla un QRS.
+Però és fins i tot contraproduent, perquè si has de fer parar perquè veus alguna cosa, potser no és el que hauríem de fer. Les guies no diuen pas que haguem de fer això.
+Per tant, és rellevant, però efectes pràctics no serà massa diferent el que farem una cosa amb l'altra.
+Què podem fer? Va. Hi ha com dos grans estratègies aquí.
+Una és l'estratègia de mirar com entreguem l'electricitat per fer-ho millor, mirar com desfibril·lem, a veure què podem fer per desfibril·lar diferent.
+I l'altra és què podem fer perquè l'organisme disminueixi aquesta situació arritmogènica en la que està i de la que no podem sortir.
+Com que hi ha diferents estratègies dins de cada un d'aquests dos grans grups, anirem veient mica en mica cadascuna, i ens quedem amb la idea de veure quina creieu que es pot fer, quina creieu que funciona i quina creieu que no.
+Tenim primer les estratègies d'entrega d'electricitat.
+La desfibril·lació, què fem? Fem una descàrrega externa que va d'un punt d'entrada a un punt de sortida.
+Quan és bifàsic, el punt d'entrada i el punt de sortida són tots dos. És a dir, primer cap a una banda, després cap a l'altra. És irrellevant.
+Amb quin objectiu? amb l'objectiu de despolaritzar el màxim possible de cèl·lules musculars cardíaques,
+de manera que es quedin refractàries, que no es puguin tornar a despolaritzar soles,
+i llavors els marcapassos naturals, el node sinusal, el que sigui, doncs entra i a partir d'aquí torna a manar.  I es torna a posar ordre dins la contracció cardíaca. Aquest és l'objectiu de la desfibril·lació.
+Gairebé tothom, per no dir tothom, doncs posem els pegats en la posició que se'n diu anterolateral.
+Un pegat ha d'anar sota la clavícula dreta, més o menys paraesternal, i l'altre ha d'anar més o menys a la línia mitja axil·lar, doncs allà al cinquè espai intercostal, més o menys.
+Tots teniu més o menys al cap la posició. És cert que moltes vegades amb l'adrenalínics que anem, doncs ens trobem que no sempre estan ben posats.
+Quina és la idea d'aquests pegats? La idea és que quedi el màxim d'acord possible entre els dos pegats pels quals passarà la corrent elèctrica.
+Si posem el pegat axil·lar massa avall, doncs realment el corrent elèctric passarà per molt poc tros del cor.
+Si posem el pegat de la dreta, més que a la dreta, el posem gairebé damunt de l'estèrnum, doncs ens trobarem que hi ha una part de cor per la que no passarem.
+En aquesta posició anterolateral ens queda el cor al mig, però clar, va molt per la cara anterior i poc per la cara posterior.
+Primera estratègia que tenim, doncs canviar els pegats. En comptes de posar-los anterolateral, doncs el que hem de fer és posar-los en una altra posició.
+Està escrit de molt temps, i de fet si veu escoltar el capítol en què parlàvem de la falsa captura elèctrica del marcapassos,
+que dèiem que és més eficaç posar els pegats en la posició que es diu anteroposterior que no pas en l'anterolateral.
+Això se sap que per les cardioversions de les fibril·lacions auriculars també funciona així, i per al marcapassos també.
+És passar a la posició anteroposterior. Anteroposterior què vol dir? Un pegat el posarem allà on posaríem V3 en l'electro.
+Si no sabeu on va, tenim un episodi, no recordo quin, que parlem de com fer els electros. Aneu allà a escoltar-ho.
+I el pegat posterior, doncs posar-lo més o menys sota l'escàpula esquerra que seria més o menys allà on tenim V9, entre V8 i V9.
+O sigui que hem de moure els dos si els hem posat a anterolateral d'inici i els volem canviar, hem de moure els dos.
+Jo no els mouria, jo en posaria uns altres. I després veurem per què.
+Ah, d'acord.
+Però clar, hem de girar el pacient per fer això.
+Sí, sí, sí.
+I girar el pacient vol dir deixar de fer compressions.
+Dos segons, vaja.
+Sempre són més. Si no ho entrenem, sempre són més. I no ho entrenem. Ja us ho dic ara.
+No sé, si algú em diu, oh, jo ho entreno i no és d'un d'aquests friquis que, com els bombers que fan els concursos aquests de rebentar cotxes, que s'apunta als concursos d'RCP,
+ja m'estranyaria molt que cada dos guàrdies et dediquessis a fer un RCP i ara el giro i ara el tombo i ara faig no sé què.
+Si hi ha algú que ho fa, parleu amb mi, que jo vull fer-ho a casa, però no hi ha manera de tirar-ho endavant, eh? Com a molt dures un dia i del segon ja no pots.
+Primera estratègia, canvi de vector, se'n diu d'això.
+Vector, perquè és el vector per on passa l'electricitat. Passar d'anterolateral a anteroposterior. D'acord?
+Recordo fa molts anys haver vist que també es podia fer la desfibril·lació lateral-lateral. Un costat i l'altre del tòrax, doncs d'una banda a l'altra.
+No he trobat res escrit i la veritat és que veig poc sentit fisiològic a això.
+Hi ha molt aire entremig.
+Exacte. L'aire, què ens fa? L'aire genera impedància, genera resistència i per tant passa menys corrent.
+En l'anteroposterior hi ha molt menys aire perquè només hi ha el trosset de darrere del pulmó i hi ha molt més miocardi entremig dels dos pegats. Per tant, hi ha despolarització de més miòcits, oi?
+Primera estratègia, canvi de vector.
+Segona estratègia, i de la qual en trec les dades per afirmar això que acabo de dir fins ara, primera estratègia, canvi de vector.
+La segona estratègia se'n diu doble desfibril·lació seqüencial i és exactament el que diu el nom. És: dos desfibril·ladors disparant primer un i després l'altre.
+I per disparar dos desfibril·ladors necessites tenir dos parells de pegats. Un el tindrem en l'anterolateral i l'altre el tindrem en l'anteroposterior. Per això jo posaria uns pegats nous.
+A part de perquè trigues menys perquè no has de treure els vells i posar els nous i després allò que enganxen i no deixen d'enganxar, doncs passaríem a tenir aquesta configuració.
+Tindríem quatre pegats damunt del tòrax, anterolateral, anteroposterior. Si us heu fixat, on dèiem que va cada un, no es molesten entre ells. Queden a propet però no es molesten entre ells, oi?
+I la doble desfibril·lació vol dir que necessites dos aparells i els dispares seqüencialment, primer un i després l'altre. Quant de diferència? el més a prop que puguis. Pim-pam, pim-pam.
+De fet, diuen que ho faci la mateixa persona que premi els botons primer un i després l'altre. Després us explico perquè seqüencial i quins maldecaps té això.
+Hi ha un estudi que es diu el DOSE-VF, que estudia això, que es va publicar el 2022, crec,
+i resulta que fent la doble desfibril·lació tenien una supervivència hospitalària del 30%, versus el 13% de només l'anterolateral.
+Si només fèiem el canvi de vector, la supervivència que tenien en aquest estudi era del 21%, més que el 13% de l'anterolateral.
+Només el canvi de vector gairebé ens dobla la supervivència i la doble desfibril·lació ens més que la dobla.
+I de fet també un 13% de supervivència ja vol dir que aquests no eren dolents.
+O sigui, si quan tu determines que allò és una desfibril·lació ventricular refractària i disposessis en aquell moment dels dos desfibril·ladors,
+ja directament passaries a fer la doble desfibril·lació seqüencial, o abans passaries per fer el canvi de vectors?
+En l'estudi aquest del DOSE-VF el que et diuen és que l'ideal és fer doble desfibril·lació seqüencial, però com que hi ha tota una sèrie de dificultats que parlarem ara, doncs fes el que puguis.
+Si no pots fer la doble desfibril·lació, fes el canvi de vector.
+Jo si tinc dos aparells, i aquest és el primer problema, has de tenir dos aparells, doncs faria els dos, però has de tenir dos aparells. I per anar bé manual.
+No et serveix el DEA que porti la...
+Servir sí, et serviria, però clar, el DEA perquè pugui disparar primer l'has de deixar analitzar. I el temps d'anàlisi és temps que no està fent compressions.
+Estem en suport vital avançat. Qui decideix desfibril·lar o no desfibril·lar és el professional. Ets tu el cervell del DEA en aquest cas.
+Es pot fer, sí, clar. Tu poses el DEA i quan el DEA et diu descàrrega, indicada, retires i premi el botó,
+de fet més que un DEA hauria de ser un DESA, un semi-automàtic, ets tu qui prems el botó, que diria que són pràcticament tots ara.
+Llavors tu simplement prems els dos botons, del teu manual i del DEA.
+Però perds els cinc segons de l'anàlisi que fa el...
+Perds els segons de l'anàlisi, però dispares les dues vegades.
+Amb això el que es fa, doncs, és, com que tens dos vectors diferents d'electricitat, doncs despolaritzes tots els miòcits que queden dins d'aquell vector i despolaritzes tots els miòcits que queden dins l'altre.
+Per tant, tots queden despolaritzats. I llavors dones l'opció que entri el marcapassos natural.
+I el fet de fer-ho seqüencial i no simultàniament, quina raó té això?
+Mira, aquesta és bona.
+En una anàlisi secundària d'aquest estudi van veure que com més a prop es disparen les desfibril·lacions, més alta és la taxa de retorn a circulació espontània.
+Més a prop què vols dir?
+Doncs 100 mil·lisegons se'n recuperen més que en 500 mil·lisegons. Ara no recordo els números exactes, eh? Ho podeu anar a mirar a l'estudi.
+Sabent això, per què no ho fem alhora? Doncs perquè no hi ha cap fabricant de desfibril·ladors que garanteixi...
+Que no explotarà...
+Que no es farà malbé.
+D'acord.
+I això, per mi, és el principal hàndicap per fer-ho. Ara mateix, cap fabricant de desfibril·ladors et dirà, no, no, això està cobert.
+La màquina no se t'espatllarà per això. Tots se'n renten les mans. Diuen, això nosaltres no ens hi fiquem.
+Veient aquest estudi, veient que molta gent ho està fent ja, trobo estrany ja que no hi hagi cap fabricant de desfibril·ladors
+que d'entrada ja no tingui una màquina que directament puguis fer la doble desfibril·lació simultània.
+O sigui, que hi hagi un desfibril·lador que puguis posar quatre pegats i fer-ho simultàniament o seqüencialment, com vulguis tu.
+Exacte.
+També hi ha la dificultat que si tens un aparell que ha de fer dues descarregues doncs es menjarà la bateria el doble de ràpid.
+Segur que tecnològicament no és trivial, però se'm fa estrany que en un món capitalista competitiu no hi hagi cap empresa que s'hagi atrevit a fer això.
+Bé, suposo perquè amb les guies que normalment seguim no està recomanat encara, no?
+Encara no.
+I ja veurem si es recomanarà, perquè les guies ja sabem que sempre necessiten un nivell d'evidència molt alt i per fer l'evidència necessites estudiar-ho i tot això és un procés lent.
+Sí, sí. Els nivells d'evidència... Sí.
+Aquí podríem discutir, vas parlat molt bé a l'episodi interior dels nivells d'evidència a les guies
+i sabem que la desfibril·lació precoç i les compressions cardíaques de qualitat és nivell 1, però després gastem una burrada de temps en medicaments que és nivell 2B.
+Per nivell 2B també podríem afegir-hi això, perquè ja tenim un estudi aleatoritzat que ens diu que es pot fer. Però amb algunes coses costa més que amb d'altres, oi?
+Sí.
+Tenim la doble desfibril·lació seqüencial més que duplica la supervivència hospitalària, no el retorn de la circulació espontània.
+Ja sabem que tot això és una seqüència.
+Tu en reanimes uns quants, d'aquests, uns quants arriben a l'hospital i dels que arriben a l'hospital uns quants surten vius...
+ I d'aquests que surten vius uns quants surten amb bones condicions, que és el que mirem.
+D'un 13% o un 30%. Ja firmaria jo, eh?
+Sí, sí, tant.
+Però ja ho tenim, no? Doble desfibril·lació seqüencial a tot Déu i endavant, oi?
+Bé, ja hem dit això, té aquestes dificultats que no ho fan senzill.
+A mi em preocupa molt el tema de girar-los. De posar-li el pegat a darrere. Doncs això si no ho has entrenat...
+Però bé, després també fotem el cardiocompressor. L'únic que hauríem d'afegir és... Quan el gires, li fots el pegat.
+Això sí que si no ho entrenes, sortirà un xurro.
+I ho has d'entrenar amb tothom qui ho farà servir. És a dir, ho has d'entrenar amb el teu personal hospitalari, que tenen LUCAS, que el fan servir.
+Ho has d'entrenar amb tots els tècnics, tant els que fan avançada com els que fan bàsiques. Perquè no saps mai qui acabarà girant el pacient.
+Llavors hi ha feina a fer aquí. Molta feina.
+Una altra estratègia és tornar a l'antiga.
+Si estem parlant d'estratègies per millorar l'entrega d'electricitat, doncs una estratègia per millorar l'entrega d'electricitat és reduir el volum d'aire dins el tòrax perquè hi hagi menys resistència i s'entregui millor.
+És el que fèiem quan fotíem anar les pales. Si algú se'n recorda encara: tothom fora! Allà pressionaves amb les pales i li foties, no?
+Era un momentassu de poder, que ara hem fotut els pegats, que ara perd la gràcia.
+Llavors una possibilitat és tornar a repetir l'operació. Si no tens pales, doncs ho fas amb pegats.
+O bé et poses uns guants d'aquests que no t'enrampis i pressiones amb els guants contra els pegats, disminuint el volum, o agafes tovalloles i el mateix, prems mentre es dispara.
+Així recuperem la cosa, eh? el mascle alfa aquí es torna a sentir content. Podrà veure que si surt d'allà és perquè és ell que estava pressionant.
+Ho faig còmic, però és una possibilitat, eh?
+Disminueixes la resistència i per tant augmentes l'energia entregada.
+Però és un tema d'augmentar el contacte del pegat amb la pell? O és alguna cosa més?
+Això seria una cosa... Si tu has posat els pegats bé, ja no hauria de ser un problema. El que passa és que ja sabem que no sempre els posem bé.
+Tu estàs dient de treure l'aire dels pulmons?
+El que fas amb això és: en reduir el volum intratoràcic, redueixes el camí que ha de seguir l'electricitat, i l'estàs reduint a base d'eliminar aire, que és una de les coses que genera més resistència.
+No sé quin guany pots tenir fent això. Segur que és molt menor que el del canvi de vector. Però és un guany que tens.
+Aquest el que sí que és, és que és fàcil. Si tu has posat els pegats en anterolateral i segueixes fent, doncs pressionar és senzill.
+Aquest és més senzill de fer. Més immediat, si vols dir-ho així.
+Aquest ja el podem fer després de la tercera desfibril·lació, no?
+O a la primera, si vols.
+Bé, sí, sí.
+A sobre et poses en risc, no? És allò de... Igual m'enrampo, que és mentida, que no te'n rampes mai, però saps?
+No infravalorem el moment goril·la. El moment goril·la no s'ha d'infravalorar mai, que a vegades serveix.
+I dins el tema aquest d'entregar millor l'electricitat, i si en fotem més d'electricitat?
+Abans fotíem 360 Joules. D'acord que era monofàsic, és a dir, només anava en una direcció. Ara en fotem 200, anar i tornar.
+I si resulta que la doble desfibril·lació funciona perquè en comptes de 200 en fotem 400, doncs no he trobat enlloc que diguin això.
+I com que físicament no ho podem fer-ho, ja ni m'ho plantejo.
+No he trobat literatura que digui que desfibril·lant a més Joules d'aquests 200 es pugui obtenir millor recuperació o circulació espontània.
+Perquè de forma normal, més de 200 Joules bifàsic, no podem posar? Amb els desfibril·ladors que tenim?
+Jo no conec cap màquina bifàsica que doni més de 200.
+Potser n'hi ha alguna, i si algú ho sap i diu la màquina tal en dona 300. Doncs digueu-m'ho, però jo fins on sé no n'hi ha cap que superi aquests 200.
+Té sentit el que dèiem abans de les guies. És a dir, els desfibril·ladors segueixen el que diuen l'AHA i l'ERC i tota aquesta colla que posen guies. I si aquests diuen que 200, per què faré una màquina que me'n doni 300?
+Per tant, l'augment d'energia, potser, però és que no està escrit enlloc i no podem fer-ho, per tant, oblidem-ho.
+Fins aquí, jo penso, les idees per millorar l'entrega d'electricitat, per fer més eficaç la nostra desfibril·lació.
+Això aplicaria sobretot en la part refractària d'aquesta fibril·lació ventricular refractària. Si no el puc treure, és que la meva desfibril·lació no és eficaç. Per tant, amb tot això aumento l'eficàcia de la desfibril·lació.
+Què més podem fer?
+Ara la part que també serveix per la part refractària, però que potser serviria més per la part recurrent.
+I aquí el que hem de fer és modificar l'entorn en el qual aquest cor funciona. És la medicació antiarrítmica, bàsicament.
+Nosaltres fem servir amiodarona com a antiarrítmic. Només es posa en ritmes desfibril·lables després de la tercera desfibril·lació després d'haver posat l'adrenalina.
+Si hem posat l'amiodarona, els 300 primer i al cap de dues desfibril·lacions, els 150 extres, i seguim sense sortir, doncs sembla que l'amiodarona no ha pas funcionat.
+Dono per fet que tens una via, que la via funciona... Si se n'ha anat tot fora, doncs evidentment no li has posat l'amiodarona. No ha arribat on havia d'arribar.
+Doncs, i si en comptes de fer servir l'amiodarona, fem servir lidocaïna?
+Després de l'amiodarona, vols dir? O en lloc de l'amiodarona?
+Doncs mira, ara no recordo el nom de l'estudi, suposo que a l'entrada ja hi serà.
+Hi ha un estudi fet d'amiodarona versus lidocaïna versus placebo, i tant un com l'altre, tant l'amiodarona com lidocaïna van millor que el placebo, però no hi ha diferència entre lidocaïna i l'amiodarona.
+Per tant...
+El que tinguis més assequible o... Sí.
+El que sigui més senzill.
+El que estiguis més acostumat a fer.
+Com que l'amiodarona és el que diuen les guies que fem servir nosaltres, doncs fem servir tots l'amiodarona, dues ampolles i una ampolla.
+L'amiodarona, hi ha tota una història darrere, la que tenim al nostre país és una amiodarona que està diluïda amb no sé quina substància que tendeix a fer hipotensió,
+però hi ha amiodarones que estan diluïdes amb no sé quina altra substància que no fa hipotensió, llavors és tot un merder que no arribo a aclarir-me mai.
+No ho sabia, això que dius tu d'aquest diluent.
+Sí, hi ha presentacions d'amiodarona que no hipotensen. L'hipotensió no és de l'amiodarona, sinó que és d'aquest diluent que no recordo ara com es diu.
+La lidocaïna, si l'hem de posar, es faria un mil·ligram i mig per quilo, i en el cap de dues desfibril·lacions repetiríem la meitat, el mateix que fem amb l'amiodarona.
+Si fos la lidocaïna al 2% per 70 quilos, doncs serien 5 mil·lilitres de lidocaïna. Seria més o menys uns 100 mil·ligrams. Si ho has de repetir, faries dos i mig.
+Això ja no són ampolles senceres, eh? Això ja són mitges ampolles que ho compliquen una miqueta a l'hora de tot el merder.
+Evidentment, tot això que estic dient és fora guia. És un... bé, doncs noi, si no ho fem se'ns mor, per tant hem de fer alguna cosa.
+Una altra opció que hi ha, i amb això l'hi explotarà cap a algú quan ho senti, és fer servir esmolol.
+Diràs, a veure un moment, estic fotent adrenalina per una banda, per fer posar el to adrenèrgic, per augmentar la contractilitat, tot això,
+i m'estàs dient que li foti un beta-blocador, que fa tot el contrari, que frena? És de bojos, oi?
+Bé, doncs, aquí estem parlant que tenim un tio que està amb fibril·lació ventricular, un to adrenèrgic alt, i el que intentem amb l'esmolol és baixar aquest to adrenèrgic, especialment si és recurrent.
+Si ens està tornant a entrar vol dir que el medi on s'està movent el cor és molt arritmogènic. Per tant, baixem el to adrenèrgic.
+Això que sona contraproduent, hi ha bastants casos descrits que amb l'administració d'esmolol es treu el pacient d'aquesta situació.
+Continues tu amb les adrenalines i entre mig li vas posant l'esmolol...?
+Aquí hi arribarem després amb l'adrenalina. Acabem primer aquest.
+Si hem de fer esmolol, l'esmolol ve amb ampolles de 100 mg en 10 ml, que és el Brevibloc. Començaríem amb una dosi de 500 micrograms per quilo.
+Per un tio 70 quilos serien 3,5 més o menys d'aquesta ampolla de Brevibloc. I després amb una bomba.
+Ja hem afegit una bomba durant l'RCP. Ja la cosa es complica. Una bomba de fins a 100 micrograms/kilo/minut hi podríem arribar
+Això també s'hauria de comptar quan és, perquè els números ja els has d'haver fet abans. Si els has de fer aquí durant aquest merder, et sortirà un xurro com un piano.
+Hem dit lidocaïna és una opció, esmolol és una altra. Tot això ho tinc amb un interrogant posat, perquè pot funcionar o no. No hi ha una evidència gegantina que digui que funciona. Hi ha indicis.
+Dos altres medicaments que existeixen que també ens podrien plantejar de fer.
+Un és, si en comptes de tenir una fibril·lació ventricular tenim una taquicàrdia ventricular sense pols, s'ha vist que per les taquicàrdesa ventriculars ben tolerades, la procaïnamida funciona millor que molts altres antiarrítmics.
+Es podria intentar, però no he vist res que digui que la proca serveixi per la FV. Per tant, jo me l'estalviaria.
+I un altre que també s'ha fet servir moltes vegades és el sulfat de magnesi.
+Si tens un síndrome de QT llarg, que ho veuràs, quan després d'una torçada de puntes,
+que és aquesta taquicàrdia ventricular polimòrfica que té aquesta forma d'espiral, i quan el treus veus que té un QT llarg , això és una torçada de puntes, i aquest necessita magnesi.
+O, dins dels 4H4Ts, que una de les H és la hiper-hipotasèmia, hiper-hipomagnesèmia, llevat d'això, no s'ha vist que el sulfat de magnesi serveixi per res.
+Però és un d'aquests recursos, a vegades, com quan poses bicarbonat en una aturada de llarga durada. Fisiològicament plausible, i estàs en una situació catastròfica.
+Sí, sí.
+En aquest cas, el del sulfat magnesi, el que hi ha escrit és que no sembla que millori la supervivència administrar-lo fora d'aquests punts, si tens la torçada de puntes o tens la hipomagnesèmia.
+Si no ho saps, doncs sempre pots dir que com que no ho sabies ho fas perquè podria ser que funcionés.
+Però s'ha intentat, s'ha experimentat i fora d'aquestes indicacions no funciona.
+Hi ha estudis bastant antics, bastant bastant antics, ara no recordo les dates, que s'havia provat i no s'havia vist.
+Però els estudis que se'n vagin 30 o 40 anys enrere, ja saps que el nivell d'evidència científica que tenim ara probablement no el superarien, el nivell de requeriment, diguéssim, per poder-lo fer.
+Amb moltes coses encara estem lluitant per superar alguns d'aquests dogmes de fa 40 anys.
+Un d'aquests dogmes podria ser l'adrenalina.
+Hi ha un estudi, em sembla que és el paramèdic, ara no recordo si és el paramèdic 2, que van comparar adrenalina versus placebo, un estudi que es va fer extrahospitalàriament.
+Necessitaven, no recordo si eren 10.000 persones, que havien de fer 5.000 a cada banda per demostrar, en no sé quin percentatge, la diferència.
+Havien aconseguit reclutar no sé quantes agències de serveis d'emergències extrahospitalàries i a última hora un es va despenjar perquè van dir no pot ser que a algun dels nostres pacients no li posem adrenalina.
+Llavors van fer un estudi que el número de pacients reclutats ja estaven per sota dels necessaris
+i que demostraven que amb l'adrenalina es recuperava més circulació espontània, però el mateix número de pacients a l'alta hospitalària amb bona condició neurològica.
+És a dir, amb l'adrenalina reanimaves més però els deixaves pitjor. I això, en els moments actuals, crec que èticament no és acceptable.
+És un estudi que està underpowered, que té menys gent de la que hi hauria d'haver per arribar a una conclusió i s'hauria de repetir, totes aquestes coses.
+El motiu per qual l'adrenalina segurament ens funciona bé per recuperar més gent és que fas vasoconstricció.
+Al fer vasoconstricció millores la perfusió cardíaca, però també fas vasoconstricció cerebral i després el cervell es mor, perquè no li arriba sang. El cor ni arriba però el cervell no.
+I això no és el que volem. Justament l'RCP...
+Mira, frase que he llegit abans d'ahir. La reanimació cardiopulmonar no és tractament de res.
+No és tractament de res?
+Tu tens una aturada cardíaca, amb l'RCP el mantens viu, fins que arregles el problema. Però la reanimació cardiopulmonar no és tractament de res.
+I aquesta frase m'ha agradat molt. Perquè ens treu d'aquell moment de dir, quan fem RCP, si arribem a reanimar-lo ja està, tothom content. No, collons, no. Ara comences.
+Amb la RCP no arregles res, només mantens viu, no?
+Guanyes temps per intentar després solucionar el problema
+Exacte. És una miqueta canviar el focus. La RCP me'l manté viu i jo haig de resoldre el problema.
+Perdó, eh, per aquesta digressió.
+Estàvem amb l'adrena. Massa adrenalina, massa vasoconstricció i acabes amb el cervell mort.
+Per tant, jo no descarto que en un futur es redueixi o bé la dosi d'adrenalina o s'espaiïn els intèrvals.
+De fet, nosaltres aquí no hi estem acostumats en això, perquè ara que tindrem urgentòlegs potser començarà a canviar.
+Però a Estats Units, sobretot, no és l'únic lloc, però a Estats Units, sobretot, fan la RCP guiada per objectius hemodinàmics,
+que et posen un catèter arterial, normalment femoral, i només posen les adrenalines si la pressió diastòlica està per sota de 40.
+Si està per sota de 40 necessites adrenalina perquè està massa vasodilatat. Si està per sobre no la necessites, no la poses.
+Com tot això, l'evidència és dubtosa.
+A més, estem parlant d'una cosa mundial, en què les diferències de capacitats d'un sistema sanitari d'un país comparat amb un altre, són gairebé mig segle de diferència.
+Per tant, el que comentàvem de posar esmolol, doncs fent un ús més raonable de l'adrenalina, potser no entraríem en aquesta situació de fibril·lació ventricular refractària durant tanta estona.
+SI cada quatre minuts anem posant l'adrenalina, potser al final el problema que tenim és que ja n'hi ha massa.
+Sí, sí, sí. Té molta lògica.
+És l'únic que té, lògica, perquè l'evidència no, encara. Veurem què diuen les guies en el futur. Aquest estudi va fer bastant mal.
+Però fixa't en el detall. Aquest estudi, el paramedic 2, hi va haver agències que se'n van desdir simplement per una qüestió de dogma.
+Perquè els seus paramèdics deien m'estàs dient que a algú no li posaré adrenalina, que li posaré sèrum? No pot ser.
+Aquest t'ha semblat estrany, el de la reducció de l'adrenalina?
+No, jo ho veig molt lògic. Sí, té lògica, no sé.
+Aquest és lògic, oi? Doncs a veure tu si trobes la lògica en aquest altre que també està descrit.
+Perquè jo l'he llegit i ho entenc, però és que em sona a una altra dimensió.
+És un blocatge eco-guiat, com qui faria un blocatge per fer una anestèsia. De fet, és un blocatge anestèsic.
+És una ablació. Hem de fer una ablació...
+No, no. Blocatge anestèsic, eco-guiat, perquè si no és eco-guiat no l'hauries de fer, d'una cosa que es diu el gangli estrellat esquerra, el left stellate ganglion.
+Encara estic intentant saber què collons és això. Representa que, si ho he entès bé, i aquí ajuda'm, perquè és que jo no ho entenc del tot...
+No, no, jo tampoc sé on és això.
+De la manera que ho entenc és una estructura nerviosa dins tota l'estructura del sistema nerviós simpàtic, que si el podem anestesiar, el que ens fa és reduir aquest nivell d'excitació del sistema nerviós simpàtic.
+Per tant, ens redueix aquesta cosa arritmogènica, aquest nivell alt adrenèrgic que teníem.
+Això està més o menys al coll, al costat esquerre, a l'alçada de C6, i està per sota el tiroides i sota l'arteria caròtida, i s'ha d'entrar més o menys en un angle d'uns 45 graus posterior.
+Ara imagineu-vos enmig d'un RCP, gira-li el cap a la persona una mica, amb l'eco allà, entra una xeringa per sota la caròtide...
+Això jo crec que, si hem d'arribar aquí, hi ha tantes coses abans que hauríem d'haver fet bé i que no ho estem fent bé.
+Això és una americanada.
+Hem de buscar un altre sistema per disminuir el to simpàtic aquest.
+Però està escrit. Hi ha uns quants casos que ha sortit bé.
+Si algú ho ha vist mai, o sap d'algú que ho fa, o jo què sé, digueu-nos-ho. Jo és que quan llegia això pensava que això és més americà que una ranxera.
+Però això, aquesta és una altra opció per disminuir aquest nivell que comentava.
+Tenim aquestes dues grans estratègies que us he comentat, millorar l'entrega d'electricitat i disminuir aquest llindar arritmogènic.
+I m'he deixat pel final el que faran els de la zona metropolitana, que és portar-lo on facin ECMO-RCP.
+Però el mateix, l'RCP no resol res, doncs l'ECMO-RCP tampoc, però te'l manté viu mentre resols el problema.
+Tenim el nostre episodi número 20, especial ECMO i ECMO-RCP, amb el doctor Argudo, que ens ho explica allà.
+Gent que tenen una aturada cardíaca amb unes condicions com les que deia aquest cas hipotètic que us he plantejat al principi,
+són tributàries de posar-los amb la màquina ECMO que els hi substitueix la funció cardíaca i la funció pulmonar mentre es resol el problema que tinguin. Destapar l'artèria o el que sigui que s'hagi d'arreglar.
+Amb l'ECMO-RCP, garantim un dèbit cardíac enorme de 3-5 litres per minut i els òrgans es mantenen vius mentre reparem la cosa.
+Però hi hem d'arribar. Els temps de low flow que estàvem parlant amb el doctor Argudo és al voltant de 60 minuts. Temps de low flow és temps que tu estàs fent reanimació.
+60 minuts de RCP, quan arribem a aquesta situació de fibril·lació ventricular refractària, en portarem 15 o 20.
+Ens queden 40 minuts per treure'l d'on sigui, arribar a l'hospital on fan ECMO-RCP, Vall d'Hebron en fa, Bellvitge en fa, suposo que algú més en fa.
+Això només es pot fer si estàs a una distància raonable. Distància raonable en cotxe, però distància raonable des d'allà que passa.
+Si això t'ha passat en un quart pis, treure'l d'allà és un festival de l'humor, eh? Perquè l'estàs traient d'allà, pesi el que pesi, si és de 70 quilos, són 70 quilos. Respirador, la bomba d'oxigen, el monitor...
+Sí, i el compressor toràcic.
+13 quilos de compressor toràcic, i tant, me'l descuidava. Sense compressor toràcic ja no ho faràs, perquè si per treure'l trigues 10 minuts i no estàs fent maniobres, ja pots parar, ja s'ha acabat.
+Per tant, l'ECMO és un recurs per a aquells que el tenen disponible. Per mi és EL recurs.
+Tot això que hem parlat, si tens disponibilitat d'ECMO raonable, això és un més a més, perquè aniràs allà a fer-li això.
+Ni tu ni jo tenim accés a l'ECMO.
+De fet, m'atreviria a dir que dels 8 milions i mig de catalans que diuen que som, deuen tenir accés a l'ECMO segur 2 milions i potser 2 milions més.
+Però els altres 4 ens quedem sense això. De moment, a l'espera que més endavant potser canviï.
+I ja està.
+Si alguna vegada em passa que tinc un senyor 20 minuts d'RCP i que el tio segueix viu, que no m'atreveixo a donar-lo per mort, doncs plantejaré alguna d'aquestes moltes opcions que us he donat.
+No sé si alguna funcionarà o no, i si al final fem tot això i res no va...
+Perdut per perdut, no? Perdut per perdut i fas tot això que ens expliques.
+L'única cosa bona a l'RCP és que pitjor no pots estar.
+I una pregunta que ara no me'n recordo.
+Les guies que tenim ara de l'ERC ens diuen alguna cosa de la fibril·lació ventricular refractària o què ens diuen? Que anem a un centre a fer, a ECMO o...
+De fet, hi ha un lloc consideri ECMO. En aquells algoritmes que tens allà dibuixats, a baix a la dreta, cada 3-5 minuts administri adrenalina, tal tal i consideri ECMO.
+Específicament no parlen de la fibril·lació ventricular refractària com a tal. Això és una conseqüència del fer bé les compressions cardíaqu.es
+Perquè això si us imagineu quan fèiem 5-1, això estem parlant de fa més de 30 anys, ja us podeu imaginar quina merda de perfusió cardíaca obteníem,
+per tant que al cap de 10 minuts d'RCP tinguessis algú encara en fibril·lació ventricular era una anècdota pràcticament, ara no.
+Hi ha casos descrits de gent apartant els reanimadors que els fan l'RCP mentre els estan fent les compressions.,fotre la mà i intentar apartar-lo, de gent obrir els ulls.
+Vol dir que ho estem fent bé, vol dir que els estem donant un cabal cardíac raonable perquè encara mantinguin una capacitat cerebral, evidentment infranormal.
+Però jo crec que aquesta fibril·lació ventricular refractària és conseqüència justament de les bones RCPs que estem fent ara
+Potser tornem a l'antic també i tornem al cop precordial abans s'havia dit el cop precordial
+sí, sí, sí
+Mira, més que tornar a l'antic, jo m'estic imaginant i crec que no estem tan lluny d'això, una situació en què posarem màquina
+perquè el cardiocompressor no ha demostrat ser millor que les bones compressions manuals i he dit bones compressions manuals
+jo m'estic imaginant posar cardiocompressor, deixar-lo intubat o una laringía, és igual.
+Amb un dispositiu que es diu ITD, en podem parlar un altre dia, el que fa és deixar sortir l'aire però no el deixar entrar, de manera que va generant una pressió intratoràcica negativa, això et recluta volum venós,
+ i un sistema algorítmic del desfibril·lador que t'elimina l'artefacte de les compressions cardíaques i et llegeix el ritme per sota.
+I podem arribar a la situació en què simplement disparem la desfibril·lació just quan està comprimint el pistó del cardiocompressor sense parar les compressions en cap moment
+M'imagino una situació d'aquestes tot mecanitzat, tecnològicament molt complexa però m'agradaria veure què surt d'aquí. A veure què ens depara el futur
+Vejam si l'any que ve podem explicar-ho
+Hòstia, jo crec que l'any que ve no, eh? potser quan ens jubilem, potser ho podrem explicar
+Això en l'últim episodi de l'EMPodCat
+Hòstia, són molts anys, eh! de fer-lo.
+Molt bé, però escolta, jo ja he explicat tot el que venia a explicar-vos avui. Dubtes, preguntes, queixes, doncs al grup de Telegram que tenim. Doncs veniu allà a fotre'ns la canya que ja ens agrada.
+Aviam si algú ens pot explicar si pot aplicar alguna d'aquestes coses i si li ha anat bé o li ha anat malament i que ens ho expliquin.
+Doncs res, continuem amb la resta de seccions?
+Menys és més, vinga.
+Del menys és més, volia explicar un tema que va d'insomni en el pacient ingressat.
+És un article publicat com habitualment al Journal of Hospital Medicine
+al gener del 24, que forma part de la sèrie aquesta del Things We Do For No Reason
+i que parla d'això, de l'insomni agut en pacients hospitalitzats.
+Sabem que aquest insomni és un problema força freqüent.
+Un 50% dels pacients que estan hospitalitzats tenen alteracions del son durant aquest ingrés.
+Només un 50%?
+Sí, la meitat dels ingressats, sí.
+Només? Hòstia, jo és que crec que dormir a l'hospital és un acte heroic, eh?
+Sí, jo de vegades em sorprenc de la gent que és capaç de dormir allà al mig.
+I un 36% dels pacients ingressats que a casa seva, a nivell ambulatori, no tenen insomni, quan estan ingressats sí que els costa dormir.
+Aquest insomni en el pacient hospitalitzat és important perquè pot incidir en el temps de recuperar-te de la malaltia pel qual estàs ingressat,
+augmenta el risc de complicacions mèdiques i fins i tot pot augmentar la mortalitat, aquest insomni durant l'ingrés.
+I tenim una tendència a solucionar aquest tema amb fàrmacs.
+Tot i que fem servir molts fàrmacs per solucionar aquest problema agut, no hi ha cap fàrmac aprovat per la FDA, per exemple, pel tractament de l'insomni en els pacients hospitalitzats.
+I a més a més, els estudis que tenim, l'evidència científica, ens diu que tots aquests fàrmacs que podríem fer servir comporten més riscos que no pas beneficis.
+I per què fem servir aquest recurs que són els fàrmacs per tractar un insomni agut durant l'ingrés?
+Doncs perquè és una solució ràpida a un problema que normalment el tenim a les 12 de la nit que ens avisen perquè el pacient no pot dormir.
+Aleshores, una solució fàcil i ràpida és prescriure algun fàrmac d'aquests.
+Quins fàrmacs fem servir habitualment?
+Les benzodiazepines, diazepam, lorazepam, per exemple, o agonistes dels receptors de les benzodiazepines, per exemple, la zolpidona, el zolpidem,
+també la trazodona o antipsicòtics de segona generació, com per exemple la quetiapina.
+Sí que ens diuen que alguns fàrmacs d'aquests poden reduir el temps per a l'inici del son o disminuir els despertars o millorar el temps total de dormir,
+però tot això amb una sèrie de riscos associats que són considerables.
+Tenim estudis que, tot i el seu ús extensiu, no hi ha prou evidències que justifiquin el benefici d'això.
+Hi ha una revisió sistemàtica publicada al British Medical Journal el 2016 que incloïa 15 estudis amb 861 pacients en total
+i van concloure que no hi havia proves suficients que qualsevol d'aquests fàrmacs hipnòtics millorin la qualitat del son en els pacients hospitalitzats.
+I, a més a més, destaquen els riscos associats, que, per exemple, poden ser alteració de l'estat mental, deliri o deteriorament cognitiu,
+sobretot en els pacients geriàtrics, augment del risc de caigudes i de fractures, del zolpidem, per exemple, que augmenta quatre vegades els riscs de caigudes,
+incrementa la mortalitat i les complicacions mèdiques, sobretot, insistim, en les persones grans.
+També hi ha el tema de dependència i ús crònic no justificat, perquè sí que s'ha vist que el fet de fer servir aquests fàrmacs en insomni agut en el pacient ingressat, que no el prenia prèviament,
+doncs després veiem que a l'alta hospitalària se'n va amb alguna benzo, que prèviament el pacient no el prenia i que l'ha pres durant aquella setmana que ha estat ingressat perquè no podia dormir.
+Doncs això es converteix en un ús crònic per un motiu que, potser, quan ja estigui a casa seva i sense la malaltia que ha provocat l'ingrés, doncs no necessitarà cap medicament.
+I, a més a més, els costos sanitaris. A nivell dels Estats Units s'estima que són 10.000 milions de dòlars en efectes adversos i mortalitat associada a l'ús d'aquests hipnòtics.
+Per tant, té un cost econòmic significatiu.
+Aleshores, quines mesures podríem utilitzar per millorar l'insomni agut en el pacient hospitalitzat en lloc dels fàrmacs?
+Primer de tot, no anar a la solució més ràpida, que és el fàrmac, sinó intentar veure les causes.
+Quin és el problema?
+És el soroll, per exemple, és una de les causes més habituals.
+Les interrupcions nocturnes, tant siguin per mirar les constants vitals com per administrar medicació.
+Alarmes que tenim el pacient monitorat i sona una alarma que potser no estava totalment justificada.
+Altres causes, per exemple, molt habitual és que tingui un dolor que no estigui ben controlat.
+Per tant, fer una mica d'anamnesi, anar a veure el pacient i anar a veure si el tema és el soroll, les interrupcions, el dolor, o també pot ser un efecte advers d'alguna medicació que li estiguem administrant al pacient.
+No sé, potser l'estem nebulitzant amb salbutamol i el posem taquicàrdic, nerviós, tal, i és un efecte advers de la medicació.
+Per tant, revisar si aquesta medicació és absolutament necessària.
+O pot ser un síndrome d'abstinència per retirada de substàncies.
+Si el pacient el tenim ingressat i estava habituat a alcohol, a opioides, a benzodiazepines i li traiem,
+doncs potser aquesta síndrome d'abstinència que li provocarà ansietat i, no sé, un estat d'agitació, és una de les causes, no?
+I l'altra és la simple ansietat i estrès per estar hospitalitzat.
+Aleshores, si identifiquem alguna d'aquestes causes, intentem fer alguna cosa.
+Pel soroll, taps per les orelles, ja sé que no són efectius al 100%, però una miqueta de soroll de fons pots evitar.
+Ús d'antifaços, per disminuir la llum que potser hi ha dels monitors, i de, no sé, dels passadissos.
+Tindre protocols hospitalaris d'higiene del son, és a dir, reduir les interrupcions nocturnes que no siguin absolutament necessàries.
+Control de constants, de medicació, d'alarmes. Mesures ambientals, intentar disminuir la llum, tindre una temperatura adequada, o algun soroll el pots evitar, doncs evitar-lo.
+Hi ha una revisió que incloïa 13 estudis que demostraven, no?, que si el servei o l'hospital té un protocol d'higiene de son, es reduïa fins a un 50% l'ús d'hipnòtics.
+I també, a nivell de l'UCI, es reduïa la incidència de deliri utilitzant aquests protocols.
+Aleshores, si tot i fer tot això, aquestes mesures no farmacològiques, és inevitable, doncs els agonistes dels receptors de la melatonina poden ser una alternativa més segura.
+Hi ha alguns estudis que, tot i que l'evidència és limitada, ens passa el mateix que amb tot això que ens has explicat Albert de la fibril·lació refractària,
+són estudis limitats i que suggereixen que la melatonina pot millorar el son, reduir els despertars i augmentar la durada total del son.
+I a diferència de les benzodiazepines o altres hipnòtics, sí que veiem que el risc d'efectes adversos, sobretot de caigudes i deliri, és molt menor que amb els fàrmacs habituals.
+Per tant, per concloure, el Menys és Més seria reduir la indicació rutinària i sistemàtica 
+de fàrmacs en l'insomni agut de la persona que tenim urgències pendent d'ingressar l'endemà o pendent d'observació, el que sigui.
+Evitar prescriure aquests fàrmacs de forma sistemàtica. I, en lloc d'això, investigar les causes, prioritzar estratègies no farmacològiques
+i, en cas que sigui necessari un fàrmac, considerar com a primera opció la melatonina.
+Aquest és un tema importantíssim i crec que aquí infermeria...
+Jo normalment parlo molt malament dels metges, però això que estàs parlant no parla gaire bé de nosaltres tampoc. Ara en faré uns quants enemics entre el meu propi gremi.
+No pot ser que anem demanant pastilles per dormir pels nostres pacients quan no hem resolt tot l'altre. És així de senzill.
+No pot ser que el torn de matí, quan entri, s'enfadi molt perquè a algú no se li ha pres la temperatura a les 7. Si estava dormint, doncs ja li prendrem a les 8.
+I tota una altra pila de coses que, a nivell institucional, s'haurien de fer i no es fan.
+Fins i tot parlar nosaltres, que al nostre país, els canvis de torn del meu servei, allò és un galliner terrorífic. Sort que no canviem a les 7 del dematí.
+Jo crec que no li donem la importància que té a dormir bé. I mira que fem torns de nit la majoria de nosaltres.
+Sí, sí. I sabem que no dormir bé, sobretot si estàs amb una malaltia aguda i hospitalitzat,
+augmenta la recuperació de la malaltia en concret, augmenten els efectes adversos de deliri, de caigudes i de mortalitat, fins i tot.
+I això no ho veiem. El que m'emprenya més és la mala hòstia que tinc jo quan em llevo després d'haver treballat de nit, que no m'aguanto ni a mi mateix.
+Això els passa cada dia als nostres clients, tu. Al matí estan fets un nyap, com jo quan he treballat de nit.
+I teniu alguna eina, alguna cosa, per ajudar a que dormin sense fàrmacs o no? D'antifaços o taps a les orelles o...
+No, tenim taps. Antifaços no, tenim taps que podem robar els de la ressonància magnètica, però no els fem servir ni se'ns acudiria a passar... Bé, si som un galliner.
+Estaria interessant, sempre ho tinc al cap, de fer alguna cosa de recerca, de veure els nivells de soroll que tenim a dins d'urgències. 
+Tant pel descans dels pacients com per la capacitat de concentració i de mantenir l'estat de concentració i no despistar-nos dels professionals sanitaris.
+ Hi ha uns aparells que és un plafó lluminós amb una orella dibuixada, i l'orella surt en verd quan és menys de no sé quants decibels i es posa vermella quan puges de no sé quants decibels.
+Ah, sí? Ah.
+ Si ho tinguéssim posat estaria sempre vermell a casa meva. 
+La gent es pensaria que és el color normal de...
+Sí, sí, sí. Quan estigués verd algú diria hòstia, s'ha posat... 
+Alguna cosa passa!
+Està bé, bé, està bé, està bé.
+Doncs això és el menys és més, no sé...
+Vinga, anem al següent.
+Fem l'UrgemMot, tu tens alguna cosa?
+Mira, sí, sí.  Jo només en tinc una. 
+De tot el que hem anat gravant fins ara, em faig transcripcions que després les pujo perquè estiguin transcrits els vídeos de YouTube i les tenim com a transcripció.
+ La intenció va més enllà, és a dir, el fet que estigui transcrit permet que les intel·ligències artificials en facin ús, 
+i no és que m'agradi massa que algú es dediqui a merdejar, però com que per merdejar merdejaran igualment almenys que siguin català. 
+I vaig fent la transcripció i clar, tot sovint em trobo, doncs, les barbaritats que diem, que déu-n'hi-do, li fotem cada cop de peu el diccionari que en fi...
+ Sí, tant, sí, sí.
+I aquí, d'un que estic transcrivint ara, el del TEP, tu dius el tenecteplasa. I vaig dir com?
+I és en femení. tenecteplasa i l'alteplasa és femení. 
+L'Alteplasa, que és l'antic, ens confon perquè és l'apostrofada, però no perquè sigui masculí, sinó perquè és femení. És la tenecteplasa.
+Però segurament en fem moltes de pitjors, eh?
+Molt pitjors.
+N'has dit una molt...
+N'he dit una molt... sí, molt naïf. La Tenecteplasa. Ja està.
+N'hem dit de la mida d'un campanar.
+Sí, i tant.
+Aquesta mira, que ho sapiguem, és la tenecteplasa. Metalise pels amics, que al final és el que acabarem dient tots.
+Fantàstic, molt bé.
+De l'episodi anterior no el tens...
+Sí, sí, està transcrit. Si normalment ara els transcric, per exemple aquest que gravem avui, doncs es publicarà l'episodi i al cap de dos o tres dies ja el tindré transcrit.
+No, t'ho dic perquè a l'episodi passat, no recordo de què estava parlant, però vaig parlar de l'axil·la.
+I no recordo per què parlava de l'axil·la, però va ser dir la paraula axil·la i vaig pensar, hòstia, això m'ha sonat molt estrany.
+I ho he mirat i el terme recomanat pel TermCat és l'aixella.
+Molt més català que axil·la.
+Sí. L'axil·la el donen com a correcte, és un sinònim complementari.
+Per tant, és una alternativa, que és correcta, és normatiu, està acceptat. L'axil·la, amb ela geminada.
+És l'alternativa formal, no?
+Sí. El terme més propi català seria l'aixella. I a mi, no sé per què, em va sortir l'axil·la.
+I després em vaig quedar amb el dubte de dir, hòstia, no sé si això és un castellanisme total o no.
+Perquè clar, en castellà és l'axil·la.
+Doncs en català també és correcte axil·la, amb L·L, però el terme més correcte seria l'aixella.
+Que de forma totalment informal també podríem dir aleró.
+Però a nivell d'un informe mèdic o així ens quedaria malament dir-li que, no sé, que li has fet un punt de sutura o no sé per què parlava d'això.
+Podria ser com que parlàvem dels simpaticomimètics i no sé què, hi havia hipertèrmia i potser en algun moment vaig parlar de posar fred a les zones vasculars
+i no sé què, podria haver-hi això, ara que em surt, potser era això.
+Sí, és veritat, sí, sí, sí.
+Doncs això, l'aixella.
+Després teníem, tu quan fas una punció, això és una pregunta que et faig, quan fas una punció d'una vena, com en diries d'això?
+Ah, amigo.
+Ah.
+És per deixar posat el catèter o només per treure la sang?
+Punció transcutània d'una vena.
+Seria una venopunció, no?
+M'ho estàs dient en castellà, venopunció. 
+Vaja.
+Venopunción. En català és una veni, venipunció.
+Venipunció. Molt bé.
+Canviem una lletra i ja està, ja ho tenim en català. Una venipunció.
+I flebotomia no se'n diu d'això, no? 
+No ho he mirat. No sé si és correcte o no. 
+Perquè els americans que tenen tècnics per tot, els que treuen les analítiques, són els flebotomists, els que fan flebotomies.
+ La traducció del venipunció del TermCat és venipuncture. No és la flebotomia aquesta que dius tu.
+I me'n quedava una, la venipunció, l'aixella... Ah, sí.
+El tema d'anar registrant de forma sistemàtica i estructurada alguna tasca una miqueta complicada.
+Per exemple, no sé, preparant el material per fer una intubació, ventilació mecànica, tal, hauríem d'utilitzar una llista per veure que quan ja estiguem en el merder,
+doncs, haguem fet una comprovació prèvia que ho tenim tot preparat.
+Doncs, el terme que hauríem d'utilitzar, i això ha canviat ara, és una llista de control. 
+Llista de control.
+Normalment ho veus molt escrit checklist, així ens ha escrit en semianglès, però no, no hauríem de dir una llista de control. I ja està.
+Aquests són tres termes que volia, de l'UrgemMot, repassar o fer-ne una nota.
+Molt bé, molt bé. Haurem de tenir una llista de control quan fem el pòdcast per assegurar que ho tenim tot funcionant.
+Que no ens deixem res, que no ens deixem cap secció.
+Exacte. 
+Perquè la següent secció seria alguna recomanació?
+M'hauria agradat recomanar-vos una cosa, que és el llibre d'electrocardiografia del doctor Brugada,
+però encara no m'ha arribat a casa, per tant no us el puc recomanar encara. Quan m'arribi, doncs ja us l'explicaré. És un llibre d'electrocardiografia en català.
+I el tens demanat ja o el tens... Com t'ha d'arribar això? 
+N'he demanat dos, un per mi i un per regalar, a quí se'l mereixi.
+Molt bé.
+Però no m'ha arribat cap dels dos, o sigui que no puc recomanar-lo encara, quan arribi ja el recomanaré. 
+Però és un llibre de consulta o és un manual ràpid?
+És un manual, però ja l'explicaré quan el tingui, ja l'explicaré quan el tingui, escolta'm.
+És que ara m'has posat a... 
+Ah, ah, doncs goita.
+És que de fet em van contestar des de l'editorial que en Brugada, en Ramon Brugada havia dit que havia de tornar a la impremta el llibre, que s'havia de canviar no sé què.
+I ja arribarà. Quan arribi el recomanaré. Ara no el puc recomanar perquè no l'he tocat.
+D'acord, doncs ja està, ja ens ho explicaràs.
+Però sí que us recomanaré un altre recurs d'electrocardiografia, perquè és que no he parlat d'electrocardiogrames en cap moment d'aquest episodi i no pot ser, ja em coneixeu, no pot ser.
+I us recomanaré un lloc web en francès que es diu e-cardiogram, 
+que és el lloc web del professor Pierre Taboulet, que és un guru de l'electrocardiografia francès, i té un...  electrocardiograma d'A a Z. 
+Tens tot el que vulguis saber d'electrocardiografia ordenat alfabèticament, doncs ho tens aquí. Per estudiar és una eina bestial.
+És un lloc web, el va fer el 2011, dos milions de visites l'any, el senyor aquest fa formacions, 
+vull aconseguir que la meva empresa el llogui per fer una formació, però val calés i per tant, si val calés, costarà.
+I té uns quants vídeos també gravats al seu canal de YouTube, també té un manual d'electrocardiografia i tot això, però vaja.
+Jo el trobo una eina molt, molt interessant. e-cardiogram.com
+Un guió normal o guió baix? 
+Guió normal. e-cardiogram.com
+És en francès, però ei, li fots aquí al botó de dalt Google traduir i avall, ja ho tens amb el que vulguis. 
+Aquest deu ser col·lega de... Com has dit que es deia aquest?
+Taboulet?
+En Taboulet, Taboulet. Deu ser col·lega del Smith, Ammal Mattu i tots aquests o què?
+Doncs no sé fins a quin punt, eh? Suposo que tots es coneixen entre ells, oi? Però no em sona que tinguin una relació especial, tampoc.
+Doncs molt bé, va, ho investigarem. 
+Va, què tens tu per recomanar? 
+Mira, seguint amb el tema de la venipunció, jo estic suscrit en el butlletí... No sé exactament com se diu, eh?
+És un butlletí del Departament de Salut que parla de seguretat del pacient. I en el número 70 d'aquest butlletí, del març d'aquest any, del 25,
+com a tema d'actualitat, hi havia un article que es titula els incidents en l'extracció venosa de sang que poden afectar la seguretat dels pacients.
+Parlaven d'això, de les venipuncions per fer extraccions de sang. 
+És un estudi que fan els del Consorci Sanitari de Terrassa, el Departament de Qualitat i Seguretat del Pacient del Consorci Sanitari de Terrassa, 
+i és un estudi per veure a la pràctica assistencial normal, tenint una llista de control que defineixen com ha de ser el procediment aquest de forma correcta, reglada i tal,
+i feien un estudi per veure quin tant per cent de cada un d'aquests ítems de qualitat es fa bé o no es fa bé o com es fa. 
+Però, independentment que es fes més o menys bé, a mi em va interessar perquè donaven dues ajudes per a guiar-nos a qualsevol de nosaltres.
+Una infografia, que ja la penjarem en el blog, i un vídeo que fan una simulació que entra un pacient, que és una de les infermeres de l'estudi,
+ i una altra li fa una venipunció i simulen com hauria de ser una extracció de sang correctament.
+Jo no és la meva matèria habitualment de fer urgències, però ho he consultat amb infermeres d'urgències i m'han dit, sí, sí, Xavi, això ho pots explicar-ho a l'EMPodCat
+perquè realment s'ha de fer així i moltes vegades no ho fem així.
+Dic quatre pinzellades llegint la infografia just abans de l'extracció, durant l'extracció i després de l'extracció.
+Abans de l'extracció, fer una identificació activa del pacient,  amb cognoms i alguna altra informació, per exemple, data de naixement.
+Aquesta informació l'hem de tindre sempre. Preguntar-li al pacient com es diu vostè, tal, tal, i quan va néixer, i tot això, comprovar-ho amb alguna cosa, amb un DNI, una targeta sanitària, la història clínica,
+el braçalet d'identificació del pacient o així. Però necessitem dues dades del malalt, el nom i cognom i, per exemple, la data de naixement. I això comprovar-ho amb algun suport físic.
+Després etiquetar les mostres en vertical, i etiquetar-les just davant del pacient.
+No t'emportis els tubs, les etiquetes, i quan arribis al mostrador de no sé què, allà poses les etiquetes.
+La recomanació és que, davant del pacient, agafis l'etiqueta, comprovis que és el pacient, comprovis que les etiquetes són correcte,s del pacient i les etiquetis de forma vertical en el tub.
+Què més? Rentat de mans, ni que sigui amb alguna solució hidroalcohòlica, uns guants nets, preparar-ho tot abans.
+ El tema del torniquet, intentar, si pots no posar torniquet, doncs no posar-lo. I si el necessites, just quan comenci a entrar la sang al tub, treure el torniquet.
+No deixar-lo. I si el poguessis evitar, millor.
+I la zona que es recomanen és la sofraja del braç, que aquí en diuen la fossa cubital, i si no, l'alternativa seria el dors de la mà. Això abans de fer l'extracció.
+Durant l'extracció, això em diràs tu, Albert, si ho feu així o no ho feu així, utilitzar un sistema de buit amb un adaptador, 
+treure la sang directament amb una agulla i una xeringa no hauria de ser la forma habitual, si en casos excepcionals, doncs ho fas com puguis,
+però sempre intentar fer servir un adaptador i un sistema de buit.
+Sí, sí, un vacutainer. 
+Exacte, si tenim un vacutainer, doncs el vacutainer.
+I després, tots els tubs que necessitis, no els podem omplir a la babalà, sinó que té un ordre.
+Primer hauríem de fer els tubs d'hemocultiu, després el tub de citrat, després el tub sense anticoagulant, després el tub que porta heparina,
+després el tub d'EDTA, després el que porta un inhibidor de la glucòlisi, i després, si necessites fer una gasometria venosa, doncs després la gasometria venosa.
+Això és un merder, no he arribat a aclarir-me mai qui en va primer.
+Doncs en aquesta infografia veuràs això i ho veuràs molt clar.
+Després de l'extracció, hem de fer servir la regla del 1 més 4, és a dir, quan omples un tub de sang, has de fer una inversió dels tubs mínima, és a dir, amb suavitat, girar-la cap a un costat i cap a l'altre.
+I quan ja tinguis tots els tubs, s'han de girar quatre vegades, és a dir, no s'han de sacsejar, sinó que quan et surt la sang de la vena, 
+fas una inclinació suau cap un costat i l'altre, i després quan ja els tinguis tots, els inclines quatre vegades.
+I després, el que sí que feu habitualment és el tema de rebutjar l'agulla en els contenidors, això evidentment penso que tothom ho fa bé.
+I després recomanar-li al pacient que es pressioni durant cinc minuts, però sense doblegar el braç. 
+I que apretin.
+Que apretin cinc minuts sense doblegar el braç.
+I, no sé, deixarem l'enllaç de l'article, per si voleu llegir l'article, que hi ha la taula aquesta de control amb tots els ítems, i després hi ha la infografia, que està molt xula.
+Jo la penjaria a urgències perquè tothom ho faci de forma correcta i tothom de la mateixa manera, perquè ens estalviaríem coses d'aquestes, eh, d'hemòlisis de la sang,
+i que després el potassi et surt de la mostra hemolitzada, que als tubs es barreja l'anticoagulant d'un tub amb l'EDTA de l'altre i no sé què,
+i després passen coses: que no serveixen, contaminacions, identificacions erronis dels pacients, etiquetatges erronis...
+I teniu la infografia i el vídeo, que va amb un codi QR, que és un vídeo que dura dos o tres minuts i que em sembla bastant il·lustratiu.
+I ja està, això és el que vaig treure del butlletí aquest de seguretat del pacient.
+Us podeu subscriure i el rebreu de tant en tant i sempre hi ha alguna cosa interessant.
+Molt bé, perfecte, moltes gràcies, Xavi.
+Això és tot, no sé si ens queda la llista de control, no la tinc a la mà, però crec que no ens queda cap secció més, Albert.
+No, acomiadar-nos i emplaçar els nostres oients que ens diguin el que vulguin al grup de Telegram i, escolta'm, el mes que ve o següent, tindrem un altre episodi ben xulo.
+Molt bé, Albert, ens veiem al pròxim episodi amb tothom.
+Vinga, que vagi molt bé, adeu, bon dia.
+Adéu-siau.
+Per veure que quan ja estiguem en el fregat, doncs... Això del fregat també deu ser un castellanisme.
+Fa tota la pinta.
