@@ -10,8 +10,8 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Audio File: Ep37_SindromeRealimentacio.mp3
-Scroll Position: 585
-Active Line: 603
+Scroll Position: 351
+Active Line: 371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,15 +361,15 @@ Dialogue: 0,0:25:35.90,0:25:41.90,Xavier,,0,0,0,,Fem una restricció també de s
 Dialogue: 0,0:25:41.90,0:25:43.90,Xavier,,0,0,0,,Cautelosa vol dir hipocalòrica.
 Dialogue: 0,0:25:43.90,0:25:51.00,Xavier,,0,0,0,,Un pacient normal necessita que li posis tu una dieta de 30 kilocalories per quilo i dia.
 Dialogue: 0,0:25:51.00,0:25:55.00,Xavier,,0,0,0,,Si pesa 70 quilos, passaran 2.000, 2.100 calories al dia.
-Dialogue: 0,0:25:55.00,0:26:01.00,Xavier,,0,0,0,,Doncs en aquests pacients, en funció del risc que tenen de fer aquesta síndrome, li hauràs de reduir molt. 
+Dialogue: 0,0:25:55.00,0:26:01.00,Xavier,,0,0,0,,Doncs en aquests pacients, en funció del risc que tenen de fer aquesta síndrome, li hauràs de reduir molt.
 Dialogue: 0,0:26:01.00,0:26:08.00,Xavier,,0,0,0,,En lloc de 30 kilocalories per quilo i dia, el millor és de passar a 10 o a 5 kilocalories per quilo i dia.
 Dialogue: 0,0:26:08.00,0:26:14.60,Xavier,,0,0,0,,És molt poc. I progressivament, dia a dia, anar augmentant una miqueta l'aport calòric d'aquestes persones.
 Dialogue: 0,0:26:14.60,0:26:19.40,Albert,,0,0,0,,Això amb la dieta oral, a nivell hospitalari, pot ser molt complicat d'aconseguir,
-Dialogue: 0,0:26:19.40,0:26:23.40,Albert,,0,0,0,,perquè aquí, normalment, la dieta és marcar la creueta que diu dieta normal. 
+Dialogue: 0,0:26:19.40,0:26:23.40,Albert,,0,0,0,,perquè aquí, normalment, la dieta és marcar la creueta que diu dieta normal.
 Dialogue: 0,0:26:23.40,0:26:27.80,Albert,,0,0,0,,Aquí, una dieta hipocalòrica que sigui 5 o 6 vegades més hipocalòrica,
 Dialogue: 0,0:26:27.80,0:26:33.00,Albert,,0,0,0,,pot ser complicat fer-li entendre al personal d'infermeria que aquell {\i1}tio{\i0} el tens
 Dialogue: 0,0:26:33.00,0:26:37.30,Albert,,0,0,0,,menjant menys expressament, convèncer les infermeres aquí pot ser complicat .
-Dialogue: 0,0:26:37.30,0:26:41.30,Xavier,,0,0,0,,No, tu li dius mira, escolta l'episodi 37 de l'EMPodCat. 
+Dialogue: 0,0:26:37.30,0:26:41.30,Xavier,,0,0,0,,No, tu li dius mira, escolta l'episodi 37 de l'EMPodCat.
 Dialogue: 0,0:26:41.30,0:26:43.00,Albert,,0,0,0,,Allà ho explico.
 Dialogue: 0,0:26:43.00,0:26:45.70,Xavier,,0,0,0,,Això s'explica, ja sé que potser és difícil, però dient...
 Dialogue: 0,0:26:45.70,0:26:53.70,Xavier,,0,0,0,,i a més a més, potser veus un pacient cacèctic i no sé què, i a sobre tu vas i li pautes una dieta de 500 calories al dia.
@@ -390,13 +390,13 @@ Dialogue: 0,0:27:55.00,0:27:59.00,Xavier,,0,0,0,,La veritat és que no tinc expe
 Dialogue: 0,0:27:59.00,0:28:01.80,Xavier,,0,0,0,,ja posaré alguna taula que he trobat d'algun article
 Dialogue: 0,0:28:01.80,0:28:07.80,Xavier,,0,0,0,,de cada ió d'aquests, com l'hem de suplementar i quins són els nivells normals, quins són els nivells patològics.
 Dialogue: 0,0:28:07.80,0:28:11.80,Xavier,,0,0,0,,Si voleu ja ho pengem i ho deixem penjat en l'Urgem.
-Dialogue: 0,0:28:11.80,0:28:12.30,Albert,,0,0,0,,Molt bé. 
-Dialogue: 0,0:28:12.30,0:28:13.00,Xavier,,0,0,0,,Doncs ja està, Albert. 
+Dialogue: 0,0:28:11.80,0:28:12.30,Albert,,0,0,0,,Molt bé.
+Dialogue: 0,0:28:12.30,0:28:13.00,Xavier,,0,0,0,,Doncs ja està, Albert.
 Dialogue: 0,0:28:13.00,0:28:17.80,Albert,,0,0,0,,Moltes gràcies. Una altra d'aquestes coses que no t'esperes i al final resulta que has de fer poquet.
 Dialogue: 0,0:28:17.80,0:28:21.40,Albert,,0,0,0,,Una miqueta d'aquí, una miqueta d'allà i sobretot tenir els ulls ben oberts i fixar-t'hi molt.
-Dialogue: 0,0:28:21.40,0:28:22.20,Xavier,,0,0,0,,Està alerta.
+Dialogue: 0,0:28:21.40,0:28:22.20,Xavier,,0,0,0,,Estar alerta.
 Dialogue: 0,0:28:22.20,0:28:27.80,Albert,,0,0,0,,Això, en els nostre servei d'urgències on sempre podem dedicar tant temps a cada pacient com voldríem.
-Dialogue: 0,0:28:27.80,0:28:31.20,Xavier,,0,0,0,,Una altra cosa a tindre en compte. Hòstia, no parem. 
+Dialogue: 0,0:28:27.80,0:28:31.20,Xavier,,0,0,0,,Una altra cosa a tindre en compte. Hòstia, no parem.
 Dialogue: 0,0:28:31.20,0:28:32.80,Albert,,0,0,0,,No acabarem mai, eh?
 Dialogue: 0,0:28:32.80,0:28:35.80,Albert,,0,0,0,,Molt bé. Doncs escolta, va, anem a la següent secció.
 Dialogue: 0,0:28:39.40,0:28:40.50,Xavier,,0,0,0,,El menys es més, poder?
@@ -410,9 +410,9 @@ Dialogue: 0,0:29:14.20,0:29:21.70,Albert,,0,0,0,,D'on surt aquesta recomanació 
 Dialogue: 0,0:29:21.70,0:29:26.00,Albert,,0,0,0,,un motiu de visita molt freqüent a urgències, moltíssim.
 Dialogue: 0,0:29:26.20,0:29:31.80,Albert,,0,0,0,,I gairebé tothom acaba amb radiografies i la veritat és que la proporció de fractures rellevants que surten és molt baixa.
 Dialogue: 0,0:29:31.80,0:29:39.60,Albert,,0,0,0,,Llegeixo per aquí que menys d'un 15% en els casos del traumatisme de turmell la radiografia ens mostra una fractura i en el cas del genoll menys d'un 7%.
-Dialogue: 0,0:29:40.20,0:29:45.20,Albert,,0,0,0,,Si afegim que uns senyors canadencs molt macos s'han inventat les regles d'Ottawa 
+Dialogue: 0,0:29:40.20,0:29:45.20,Albert,,0,0,0,,Si afegim que uns senyors canadencs molt macos s'han inventat les regles d'Ottawa
 Dialogue: 0,0:29:45.20,0:29:50.20,Albert,,0,0,0,,per decidir si mereixen o no mereixen una prova diagnòstica, doncs tenim regles d'Ottawa
-Dialogue: 0,0:29:50.20,0:29:55.00,Albert,,0,0,0,,per la radiografia de genoll i regles d'Ottawa per el turmell-peu. 
+Dialogue: 0,0:29:50.20,0:29:55.00,Albert,,0,0,0,,per la radiografia de genoll i regles d'Ottawa per el turmell-peu.
 Dialogue: 0,0:29:55.00,0:30:00.20,Albert,,0,0,0,,I resulta que si apliquem aquestes regles d'Ottawa, que després les explico,
 Dialogue: 0,0:30:00.20,0:30:06.20,Albert,,0,0,0,,ens estalviaríem fer un terç de les radiografies de turmell i un 50% de les radiografies de genoll
 Dialogue: 0,0:30:06.20,0:30:10.20,Albert,,0,0,0,,amb l'estalvi econòmic i de temps que suposen no necessitar la radiografia.
@@ -426,7 +426,7 @@ Dialogue: 0,0:30:38.00,0:30:44.50,Albert,,0,0,0,,Per tant, la recomanació de l'
 Dialogue: 0,0:30:44.50,0:30:45.80,Albert,,0,0,0,,Què són les regles d'Ottawa?
 Dialogue: 0,0:30:45.80,0:30:53.20,Albert,,0,0,0,,Les regles d'Ottawa no són res més que preguntar-li al pacient una sèrie d'ítems i si els compleix o no els compleix, doncs toca una o l'altra.
 Dialogue: 0,0:30:53.20,0:31:00.20,Albert,,0,0,0,,Per la regla d'Ottawa de genoll necessitarem només radiografia si tenim una lesió aguda, per tant ha de ser alguna cosa recent,
-Dialogue: 0,0:31:00.20,0:31:02.60,Albert,,0,0,0,,i que compleixi un o més dels següents. 
+Dialogue: 0,0:31:00.20,0:31:02.60,Albert,,0,0,0,,i que compleixi un o més dels següents.
 Dialogue: 0,0:31:02.60,0:31:08.00,Albert,,0,0,0,,Tenir més de 55 anys, per tant, si tens una lesió aguda de genoll i més de 55 anys, radiografia.
 Dialogue: 0,0:31:08.00,0:31:14.80,Albert,,0,0,0,,Tens una lesió aguda de genoll i un dolor aïllat a la palpació de la ròtula o del cap peroneal, aquests també mereixen radiografia.
 Dialogue: 0,0:31:14.80,0:31:20.20,Albert,,0,0,0,,O bé tens una incapacitat de flexionar el genoll 90 graus, també  se't farà radiografia.
@@ -437,13 +437,13 @@ Dialogue: 0,0:31:33.70,0:31:37.10,Albert,,0,0,0,,i no pots caminar quatre passes
 Dialogue: 0,0:31:37.10,0:31:38.10,Xavier,,0,0,0,,Si
 Dialogue: 0,0:31:38.10,0:31:42.80,Albert,,0,0,0,,Si tens menys de 55 anys, si no tens dolor a la ròtula o al cap peroneal,
 Dialogue: 0,0:31:42.80,0:31:47.80,Albert,,0,0,0,,si pots flexionar el genoll 90 graus i pots caminar aquestes quatre passes, no necessites radiografia.
-Dialogue: 0,0:31:47.80,0:31:49.00,Albert,,0,0,0,,Això pel genoll. 
+Dialogue: 0,0:31:47.80,0:31:49.00,Albert,,0,0,0,,Això pel genoll.
 Dialogue: 0,0:31:49.00,0:31:52.10,Albert,,0,0,0,,Si ens anem al turmell-peu, doncs més o menys s'assemblen.
 Dialogue: 0,0:31:52.80,0:31:59.00,Albert,,0,0,0,,No aplicarà en cas de lesions cròniques o subagudes, serveix només pel turmell i tars,
 Dialogue: 0,0:31:59.00,0:32:05.60,Albert,,0,0,0,,no serveix ni pel taló ni per tot el que és estrictament el peu, pels metatarsians i els dit del peu.
 Dialogue: 0,0:32:05.60,0:32:11.60,Albert,,0,0,0,,I també el mateix, trauma tancat, no més de 55 anys i aquí ens afegeixen no menys de 6.
 Dialogue: 0,0:32:11.60,0:32:18.00,Albert,,0,0,0,,La radiografia de turmell és necessària si tenim dolor a la zona, ja sigui als mal·lèols o al tars,
-Dialogue: 0,0:32:18.00,0:32:23.60,Albert,,0,0,0,,i tenim la incapacitat de caminar les quatre passes o tenim dolor en el cas del turmell 
+Dialogue: 0,0:32:18.00,0:32:23.60,Albert,,0,0,0,,i tenim la incapacitat de caminar les quatre passes o tenim dolor en el cas del turmell
 Dialogue: 0,0:32:23.60,0:32:28.40,Albert,,0,0,0,,dels dos mal·lèols, l'extern, el peroneal o el tibial, l'intern,
 Dialogue: 0,0:32:28.40,0:32:34.60,Albert,,0,0,0,,o bé, en el cas del peu, si tenim dolor a la palpació a la base del cinquè metatarsià a la part externa
 Dialogue: 0,0:32:34.60,0:32:39.60,Albert,,0,0,0,,o a l'os escafoide a la part interna.  En aquests casos es farà la radiografia.
@@ -454,13 +454,13 @@ Dialogue: 0,0:32:53.40,0:32:54.00,Albert,,0,0,0,, Sí.
 Dialogue: 0,0:32:54.00,0:32:58.90,Xavier,,0,0,0,,I teniu una infografia penjada en el despatx de triatge de les regles aquestes d'Ottawa?
 Dialogue: 0,0:32:58.90,0:33:00.00,Albert,,0,0,0,,{\i1} Pasapalabra.{\i0}
 Dialogue: 0,0:33:00.00,0:33:02.00,Xavier,,0,0,0,,Doncs així nosaltres també.
-Dialogue: 0,0:33:02.00,0:33:09.10,Xavier,,0,0,0,,No, és curiós perquè són recomanacions serioses publicades per l'Essencial de fa deu anys gairebé, no? 
+Dialogue: 0,0:33:02.00,0:33:09.10,Xavier,,0,0,0,,No, és curiós perquè són recomanacions serioses publicades per l'Essencial de fa deu anys gairebé, no?
 Dialogue: 0,0:33:09.10,0:33:09.60,Albert,,0,0,0,,Sí, sí.
 Dialogue: 0,0:33:09.60,0:33:14.10,Xavier,,0,0,0,,I ves a saber que la quantitat de radiografies que continuem fent cada dia a tots els hospitals.
 Dialogue: 0,0:33:14.10,0:33:22.20,Albert,,0,0,0,,Aquesta és la recomanació de l'Essencial que té el suport del Col·legi de Radiòlegs, de la CAMFIC, de la Societat Catalana de Cirurgia Ortopèdica i és de l'any 2015.
 Dialogue: 0,0:33:22.20,0:33:25.90,Albert,,0,0,0,,Però les regles d'Ottawa, aquestes, són dels 90.
 Dialogue: 0,0:33:25.90,0:33:30.40,Albert,,0,0,0,,Afegeix-hi encara uns quants anys més de fer radiografies que no es necessitaven.
-Dialogue: 0,0:33:30.40,0:33:33.00,Xavier,,0,0,0,,Som un col·lectiu que ens costa molt... 
+Dialogue: 0,0:33:30.40,0:33:33.00,Xavier,,0,0,0,,Som un col·lectiu que ens costa molt...
 Dialogue: 0,0:33:33.00,0:33:38.40,Xavier,,0,0,0,,Hi ha algunes novetats, algunes evidències noves que no sé per què les introduïm superràpid
 Dialogue: 0,0:33:38.40,0:33:42.40,Xavier,,0,0,0,,i després n'hi ha altres que ens rellisquen, però que no vegis, eh?
 Dialogue: 0,0:33:42.40,0:33:48.00,Albert,,0,0,0,,A més amb l'agravant, que com que fas, generes una expectativa
@@ -470,11 +470,11 @@ Dialogue: 0,0:33:56.40,0:34:02.30,Albert,,0,0,0,,Esperem que quan surtin els pri
 Dialogue: 0,0:34:02.30,0:34:06.40,Xavier,,0,0,0,,Val.
 Dialogue: 0,0:34:06.40,0:34:12.40,Albert,,0,0,0,,Vinga, ja tenim el Menys és Més. Si algú té alguna cosa a comentar, doncs ja ho sabeu, al grup de Telegram que tenim,
 Dialogue: 0,0:34:12.40,0:34:18.00,Albert,,0,0,0,,doncs ens podeu explicar allà les vostres experiències i què us semblen aquestes recomanacions.
-Dialogue: 0,0:34:18.00,0:34:18.70,Xavier,,0,0,0,,Molt interessant. 
+Dialogue: 0,0:34:18.00,0:34:18.70,Xavier,,0,0,0,,Molt interessant.
 Dialogue: 0,0:34:18.70,0:34:20.40,Albert,,0,0,0,,Vinga, anem a la següent, Xavi?
 Dialogue: 0,0:34:22.60,0:34:24.60,Albert,,0,0,0,,De l'UrgemMot no tenia res.
 Dialogue: 0,0:34:24.60,0:34:30.60,Albert,,0,0,0,,Fins que he fet això del Menys és Més, hi ha resultat que sortia escafoide, en comptes de escafoides.
-Dialogue: 0,0:34:30.60,0:34:33.30,Albert,,0,0,0,,Una altra cosa que deia malament, apuntada a la llista, també. 
+Dialogue: 0,0:34:30.60,0:34:33.30,Albert,,0,0,0,,Una altra cosa que deia malament, apuntada a la llista, també.
 Dialogue: 0,0:34:33.30,0:34:35.60,Albert,,0,0,0,,No tenia res, però sí que volia comentar una cosa.
 Dialogue: 0,0:34:35.60,0:34:41.60,Albert,,0,0,0,,Estem gravant això el dia 27. Doncs mira, fa just una setmana, es van presentar les noves guies clíniques del SEM.
 Dialogue: 0,0:34:41.60,0:34:43.40,Albert,,0,0,0,,Parlarem, parlarem, perquè aquí hi ha tema.
@@ -487,30 +487,30 @@ Dialogue: 0,0:35:08.20,0:35:12.00,Albert,,0,0,0,,i que si detectem alguna cosa q
 Dialogue: 0,0:35:12.00,0:35:14.70,Albert,,0,0,0,,Res, només jo volia comentar això de l'UrgemMot, Xavi.
 Dialogue: 0,0:35:14.70,0:35:15.80,Xavier,,0,0,0,, Fantàstic.
 Dialogue: 0,0:35:16.00,0:35:21.20,Xavier,,0,0,0,,Jo tenia quatre termes que potser podríem canviar o millorar.
-Dialogue: 0,0:35:21.20,0:35:24.80,Xavier,,0,0,0,,Un és l'obstinació terapèutica. 
+Dialogue: 0,0:35:21.20,0:35:24.80,Xavier,,0,0,0,,Un és l'obstinació terapèutica.
 Dialogue: 0,0:35:24.80,0:35:30.60,Xavier,,0,0,0,,En lloc de parlar d'aferrisament terapèutic o encarnisament terapèutic,
-Dialogue: 0,0:35:30.80,0:35:35.40,Xavier,,0,0,0,,el terme correcte, segons el TermCat, és l'obstinació terapèutica. 
+Dialogue: 0,0:35:30.80,0:35:35.40,Xavier,,0,0,0,,el terme correcte, segons el TermCat, és l'obstinació terapèutica.
 Dialogue: 0,0:35:35.40,0:35:40.80,Albert,,0,0,0,,M'agrada. M'agrada perquè et gira el concepte cap a qui li toca.
-Dialogue: 0,0:35:40.80,0:35:44.40,Albert,,0,0,0,,Tu vols seguir, en aquest cas el professional, vols seguir el tractament. 
+Dialogue: 0,0:35:40.80,0:35:44.40,Albert,,0,0,0,,Tu vols seguir, en aquest cas el professional, vols seguir el tractament.
 Dialogue: 0,0:35:44.40,0:35:45.80,Xavier,,0,0,0,,Ah, sí, sí, ja sé.
 Dialogue: 0,0:35:45.80,0:35:49.80,Albert,,0,0,0,,El problema el centres a la persona on el té, en aquest cas és el que s'obstina a...
-Dialogue: 0,0:35:49.80,0:35:51.70,Xavier,,0,0,0,,Sí, sí, és el professional, sí, sí. 
-Dialogue: 0,0:35:51.80,0:35:52.35,Albert,,0,0,0,,M'agrada, m'agrada. 
+Dialogue: 0,0:35:49.80,0:35:51.70,Xavier,,0,0,0,,Sí, sí, és el professional, sí, sí.
+Dialogue: 0,0:35:51.80,0:35:52.35,Albert,,0,0,0,,M'agrada, m'agrada.
 Dialogue: 0,0:35:52.35,0:35:56.10,Xavier,,0,0,0,,En castellà sí que en diuen el {\i1}encarnizamiento terapéutico{\i0}, però...
 Dialogue: 0,0:35:56.10,0:36:00.10,Albert,,0,0,0,,En aquest cas es refereix a la conseqüència, però no a la causa.
 Dialogue: 0,0:36:00.10,0:36:00.60,Xavier,,0,0,0,,Sí.
 Dialogue: 0,0:36:00.60,0:36:01.80,Albert,,0,0,0,,Diguem-ho així. no?
-Dialogue: 0,0:36:01.80,0:36:09.00,Xavier,,0,0,0,,Sí, sí, sí. Què més? Hi havia un altre terme que té relació amb temes de recerca, que és l'avaluació d'experts. 
+Dialogue: 0,0:36:01.80,0:36:09.00,Xavier,,0,0,0,,Sí, sí, sí. Què més? Hi havia un altre terme que té relació amb temes de recerca, que és l'avaluació d'experts.
 Dialogue: 0,0:36:09.00,0:36:15.50,Xavier,,0,0,0,,Sempre que envies algun article original una editorial per intentar que la publiquin en una revista concreta,
 Dialogue: 0,0:36:15.50,0:36:20.10,Xavier,,0,0,0,, si és una revista una miqueta seriosa, el que faran serà una avaluació d'experts.
 Dialogue: 0,0:36:20.10,0:36:26.10,Xavier,,0,0,0,,Que en castellà en diuen {\i1}avaluación por pares{\i0} o per iguals, en anglès és el peer review,
-Dialogue: 0,0:36:26.10,0:36:29.00,Xavier,,0,0,0,,doncs en català és una avaluació d'experts. 
+Dialogue: 0,0:36:26.10,0:36:29.00,Xavier,,0,0,0,,doncs en català és una avaluació d'experts.
 Dialogue: 0,0:36:29.00,0:36:34.10,Xavier,,0,0,0,,Tu envies el teu manuscrit perquè sigui sotmès a una avaluació d'experts.
 Dialogue: 0,0:36:34.10,0:36:38.10,Albert,,0,0,0,,Això de l'avaluació d'experts penso que és una de les coses que és important.
 Dialogue: 0,0:36:38.10,0:36:40.10,Albert,,0,0,0,,No hauries de poder publicar el que et doni la gana.
 Dialogue: 0,0:36:40.10,0:36:45.40,Albert,,0,0,0,,Hi ha uns iguals, aquests experts, que són gent que és experta del tema que tu vols parlar,
 Dialogue: 0,0:36:45.40,0:36:50.90,Albert,,0,0,0,,que et pregunta, i els dubtes que té, te'ls demana, i tu estàs obligat a contestar-los per poder publicar.
-Dialogue: 0,0:36:50.90,0:36:58.40,Albert,,0,0,0,,No pots publicar el que et doni la gana. Aquesta gent et diran, de fet no t'ho diran a tu, li diran a l'editor de la revista si allò val la pena ser publicat o no. 
+Dialogue: 0,0:36:50.90,0:36:58.40,Albert,,0,0,0,,No pots publicar el que et doni la gana. Aquesta gent et diran, de fet no t'ho diran a tu, li diran a l'editor de la revista si allò val la pena ser publicat o no.
 Dialogue: 0,0:36:58.40,0:37:04.40,Albert,,0,0,0,,Ho dic perquè a vegades sembla que qualsevol pot dir el que li doni la gana i si és una revista peer reviewed,
 Dialogue: 0,0:37:04.40,0:37:10.10,Albert,,0,0,0,,una revista avaluada per experts, doncs és un dels primers graons de l'evidència científica.
 Dialogue: 0,0:37:10.10,0:37:14.40,Albert,,0,0,0,,El tema dels experts aquests, l'esforç que fan, com se'ls paga, i tot això,
@@ -533,19 +533,19 @@ Dialogue: 0,0:38:18.40,0:38:24.10,Xavier,,0,0,0,,Abocar adoll vol dir a raig de 
 Dialogue: 0,0:38:24.10,0:38:28.70,Xavier,,0,0,0,,A través d'un forat, a través d'un orifici, tirar-li líquid, això vol dir  adoll, a raig.
 Dialogue: 0,0:38:28.70,0:38:30.70,Xavier,,0,0,0,,Per tant, la síndrome d'adollament.
 Dialogue: 0,0:38:30.70,0:38:34.40,Xavier,,0,0,0,,I hi havia un altre que volia comentar. Aquest és molt senzill.
-Dialogue: 0,0:38:34.40,0:38:39.10,Xavier,,0,0,0,,És la síndrome del budell curt. En podríem dir de l'intestí curt. 
+Dialogue: 0,0:38:34.40,0:38:39.10,Xavier,,0,0,0,,És la síndrome del budell curt. En podríem dir de l'intestí curt.
 Dialogue: 0,0:38:39.10,0:38:46.90,Xavier,,0,0,0,,De fet, si no recordo malament, entre intestí i budell crec que el Termcat posa com a preferit intestí, en lloc de budell
 Dialogue: 0,0:38:46.90,0:38:52.90,Xavier,,0,0,0,,Però quan parlen de la síndrome del budell curt prefereixen dir-li budell curt que intestí curt.
 Dialogue: 0,0:38:52.90,0:38:57.60,Xavier,,0,0,0,,Que en castellà sí que parlen de la síndrome del {\i1}intestino corto{\i0},
 Dialogue: 0,0:38:57.60,0:39:00.70,Xavier,,0,0,0,,però en català n'hauríem de dir la síndrome del budell curt,
-Dialogue: 0,0:39:00.70,0:39:04.70,Xavier,,0,0,0,,relacionat com a un factor de risc de la síndrome de realimentació que hem parlat avui. 
+Dialogue: 0,0:39:00.70,0:39:04.70,Xavier,,0,0,0,,relacionat com a un factor de risc de la síndrome de realimentació que hem parlat avui.
 Dialogue: 0,0:39:04.70,0:39:05.90,Xavier,,0,0,0,,I ja està, Albert.
 Dialogue: 0,0:39:05.90,0:39:10.10,Albert,,0,0,0,,Molt bé. Síndrome d'adollament. Maco, maco. M'agrada, m'agrada.
 Dialogue: 0,0:39:10.10,0:39:15.70,Albert,,0,0,0,,Va, anem a l'última secció. L'última, anem acabant ja. La secció de recomanacions.
 Dialogue: 0,0:39:17.20,0:39:19.80,Albert,,0,0,0,,Justament m'ha anat molt bé això de l'obstinació terapèutica.
 Dialogue: 0,0:39:19.80,0:39:25.80,Albert,,0,0,0,,Normalment sempre recomanem coses clíniques, però portem una temporada que estem recomanant coses més variades, oi?
 Dialogue: 0,0:39:25.80,0:39:29.00,Albert,,0,0,0,,Que si la llengua, que si... En fi, altres coses.
-Dialogue: 0,0:39:29.00,0:39:33.40,Albert,,0,0,0,, Resulta que fa uns dies vaig llegir una carta, al Diario16 
+Dialogue: 0,0:39:29.00,0:39:33.40,Albert,,0,0,0,, Resulta que fa uns dies vaig llegir una carta, al Diario16
 Dialogue: 0,0:39:33.40,0:39:39.50,Albert,,0,0,0,,És una carta que la publica  el doctor Juan Gervás, que tu ens vas recomanar a una entrevista que va fer a YouTube fa un temps.
 Dialogue: 0,0:39:39.50,0:39:40.30,Xavier,,0,0,0,,Sí.
 Dialogue: 0,0:39:40.30,0:39:45.80,Albert,,0,0,0,,La carta no és estrictament seva, és una reescriptura d'un escrit d'un familiar d'una pacient que va morir de càncer
@@ -562,24 +562,24 @@ Dialogue: 0,0:40:31.40,0:40:34.40,Albert,,0,0,0,,{\i1}Los médicos precisan una 
 Dialogue: 0,0:40:34.40,0:40:40.20,Albert,,0,0,0,,{\i1}Un saber reconocer la inevitable muerte, ser conscientes de que los cuerpos encuentran la forma de morir,{\i0}
 Dialogue: 0,0:40:40.20,0:40:45.40,Albert,,0,0,0,,{\i1}y de que es fundamental evitar el encarnizamiento terapéutico y saber no hacer ante la muerte.{\i0}
 Dialogue: 0,0:40:45.40,0:40:47.40,Albert,,0,0,0,,{\i1}La inercia terapéutica intencional.{\i0}
-Dialogue: 0,0:40:47.40,0:40:50.20,Albert,,0,0,0,,Lliga amb això de l'obstinació terapèutica que dèiem abans. 
-Dialogue: 0,0:40:50.20,0:40:53.60,Albert,,0,0,0,,És cert, els d'urgències són potser els que menys hem de fer en cas d'això, 
+Dialogue: 0,0:40:47.40,0:40:50.20,Albert,,0,0,0,,Lliga amb això de l'obstinació terapèutica que dèiem abans.
+Dialogue: 0,0:40:50.20,0:40:53.60,Albert,,0,0,0,,És cert, els d'urgències són potser els que menys hem de fer en cas d'això,
 Dialogue: 0,0:40:53.60,0:40:59.40,Albert,,0,0,0,,perquè hem de prendre decisions molt de pressa, però crec que com a professionals sanitaris això ho hem de tenir aquí darrere.
 Dialogue: 0,0:40:59.40,0:41:02.40,Albert,,0,0,0,,Nosaltres no salvem la vida a ningú, tots morirem.
 Dialogue: 0,0:41:02.40,0:41:07.40,Albert,,0,0,0,,Simplement hem d'aconseguir que es mori la gent quan li toca, i no abans.
 Dialogue: 0,0:41:07.40,0:41:13.00,Albert,,0,0,0,,Apa, va, un moment llagrimeta. Jo ja he fet la meva recomanació. Explica'ns tu, a veure si en tens alguna de més alegre.
-Dialogue: 0,0:41:13.00,0:41:20.20,Xavier,,0,0,0,,Molt bé. No és que sigui alegre,  és un recurs que personalment vaig descobrir fa poc 
+Dialogue: 0,0:41:13.00,0:41:20.20,Xavier,,0,0,0,,Molt bé. No és que sigui alegre,  és un recurs que personalment vaig descobrir fa poc
 Dialogue: 0,0:41:20.20,0:41:23.40,Xavier,,0,0,0,,i vaig dir: això haig d'explicar-ho a l'EMPodCat.
 Dialogue: 0,0:41:23.40,0:41:31.40,Xavier,,0,0,0,,I és una pàgina web que és el bones.getthediagnosis.org
-Dialogue: 0,0:41:31.40,0:41:38.00,Xavier,,0,0,0,,I és una pàgina web que el va crear un tal Mark Hammer i en Guillermo González, 
+Dialogue: 0,0:41:31.40,0:41:38.00,Xavier,,0,0,0,,I és una pàgina web que el va crear un tal Mark Hammer i en Guillermo González,
 Dialogue: 0,0:41:38.00,0:41:45.40,Xavier,,0,0,0,,que són d'un institut de radiologia de la Universitat de Washington, a Saint Louis, als Estats Units.
-Dialogue: 0,0:41:45.40,0:41:51.60,Xavier,,0,0,0,,I és un repositori de radiografies esquelètiques a nivell pediàtric. 
+Dialogue: 0,0:41:45.40,0:41:51.60,Xavier,,0,0,0,,I és un repositori de radiografies esquelètiques a nivell pediàtric.
 Dialogue: 0,0:41:51.60,0:41:55.40,Xavier,,0,0,0,,I la utilitat que en podem treure a nivell d'urgències
 Dialogue: 0,0:41:55.40,0:42:00.60,Xavier,,0,0,0,,és quan tu demanis alguna radiografia perquè no compleix criteris d'Ottawa,
 Dialogue: 0,0:42:00.60,0:42:04.00,Xavier,,0,0,0,, del turmell i del genoll i d'aquestes coses que hem dit avui,
 Dialogue: 0,0:42:04.00,0:42:10.00,Xavier,,0,0,0,,i finalment decideixes fer-li la radiografia i de vegades amb els nens costa veure si allò està trencat
 Dialogue: 0,0:42:10.20,0:42:13.00,Xavier,,0,0,0,,si no està trencat pel cartílag de creixement i aquestes coses.
-Dialogue: 0,0:42:13.00,0:42:16.20,Xavier,,0,0,0,,Doncs en aquest repositori que es diu Normal Bones 
+Dialogue: 0,0:42:13.00,0:42:16.20,Xavier,,0,0,0,,Doncs en aquest repositori que es diu Normal Bones
 Dialogue: 0,0:42:16.20,0:42:21.00,Xavier,,0,0,0,,tens un repositori que va dels nens de 0 anys fins a 15 anys
 Dialogue: 0,0:42:21.00,0:42:24.80,Xavier,,0,0,0,,i després tens un exemple de radiografia normal de tot arreu,
 Dialogue: 0,0:42:24.80,0:42:31.40,Xavier,,0,0,0,,d'extremitat superior, a nivell cervical, a nivell toràcic, a nivell de pelvis i a nivell d'extremitats inferiors.
@@ -597,7 +597,7 @@ Dialogue: 0,0:43:07.90,0:43:13.50,Xavier,,0,0,0,,Jo vaig començar a mirar aques
 Dialogue: 0,0:43:13.50,0:43:19.20,Xavier,,0,0,0,,perquè a la mateixa pàgina sense tocar res ja veus totes les possibilitats i cliques a la que vulguis tu,
 Dialogue: 0,0:43:19.20,0:43:25.90,Xavier,,0,0,0,,ja veus la radiografia, un front, un perfil, ho compares amb la del teu pacient i problema solucionat. Molt senzill.
 Dialogue: 0,0:43:25.90,0:43:32.30,Albert,,0,0,0,,M'estic mirant la pàgina i els amics del disseny no hi aneu, us infartareu, perquè és d'una altra època.
-Dialogue: 0,0:43:32.30,0:43:35.90,Albert,,0,0,0,,Diu aquí veig Copyright 2012, jo hi fotria 10 anys menys també. 
+Dialogue: 0,0:43:32.30,0:43:35.90,Albert,,0,0,0,,Diu aquí veig Copyright 2012, jo hi fotria 10 anys menys també.
 Dialogue: 0,0:43:35.90,0:43:39.90,Xavier,,0,0,0,,És veritat, sí. Jo no m'hi fixo mai però ara que ho dius sí que és bastant bàsic.
 Dialogue: 0,0:43:39.90,0:43:44.40,Albert,,0,0,0,,Sí, sí. Però és una forma interessant de veure que no cal fer una gran floritura.
 Dialogue: 0,0:43:44.40,0:43:48.00,Albert,,0,0,0,,Aquí l'important és el contingut, vas, prems el botonet, se t'obre la imatge,
@@ -605,21 +605,21 @@ Dialogue: 0,0:43:48.00,0:43:50.40,Albert,,0,0,0,,veus la imatge que t'interessa 
 Dialogue: 0,0:43:50.40,0:43:55.40,Albert,,0,0,0,,I fàcil de buscar, no has d'anar a cal Google, només necessites aquest enllaç. Ràpid.
 Dialogue: 0,0:43:55.40,0:44:00.40,Albert,,0,0,0,,Molt bé. Doncs bones.getthediagnosis.org.
 Dialogue: 0,0:44:00.40,0:44:02.40,Albert,,0,0,0,,Hosti, el nom també està ben trobat, eh?
-Dialogue: 0,0:44:02.40,0:44:09.20,Albert,,0,0,0,,He mirat i només tenen això dels bones, eh? Les altres coses del getthediagnosis no hi ha res més, eh?  Aquí es va quedar mitges això, veig. 
+Dialogue: 0,0:44:02.40,0:44:09.20,Albert,,0,0,0,,He mirat i només tenen això dels bones, eh? Les altres coses del getthediagnosis no hi ha res més, eh?  Aquí es va quedar mitges això, veig.
 Dialogue: 0,0:44:09.20,0:44:13.70,Xavier,,0,0,0,,Es queden amb lesions òssees, i ja està. Sí, sí.
 Dialogue: 0,0:44:13.70,0:44:16.40,Albert,,0,0,0,,Doncs escolta'm, ja ho tenim tot fet, no?
 Dialogue: 0,0:44:16.40,0:44:19.60,Albert,,0,0,0,,Aquest tema d'avui molt interessant, inquietant com sempre.
-Dialogue: 0,0:44:19.60,0:44:25.10,Albert,,0,0,0,,Ser-ne una miqueta més conscients, identificar els pacients que tinguin risc i amb això ja guanyarem bastant. 
+Dialogue: 0,0:44:19.60,0:44:25.10,Albert,,0,0,0,,Ser-ne una miqueta més conscients, identificar els pacients que tinguin risc i amb això ja guanyarem bastant.
 Dialogue: 0,0:44:25.10,0:44:30.10,Albert,,0,0,0,,Doncs escolta, per la nostra banda res més, a veure si pel proper episodi ja podem fer l'especial aquell que teníem a mitges
 Dialogue: 0,0:44:30.10,0:44:32.40,Albert,,0,0,0,,i si no, doncs mira, un altre dia.
 Dialogue: 0,0:44:32.40,0:44:38.50,Albert,,0,0,0,,Recordar a tothom que tenim el grup de Telegram, que vam engegar allò dels casos, dels EmPodCas,
-Dialogue: 0,0:44:38.50,0:44:43.40,Albert,,0,0,0,,que aquells que tingueu algun cas que creieu que és rellevant o que us ha agradat o que voleu compartir, 
+Dialogue: 0,0:44:38.50,0:44:43.40,Albert,,0,0,0,,que aquells que tingueu algun cas que creieu que és rellevant o que us ha agradat o que voleu compartir,
 Dialogue: 0,0:44:43.40,0:44:46.20,Albert,,0,0,0,,doncs nosaltres podem fer el muntatge perquè tots n'aprenguem.
 Dialogue: 0,0:44:46.20,0:44:50.00,Albert,,0,0,0,,Si teniu algun tema que vulgueu explicar, doncs també som tot oïdes.
 Dialogue: 0,0:44:50.00,0:44:55.80,Xavier,,0,0,0,,Deixa'm recordar, més d'una vegada m'he trobat a urgències que els tècnics de transport sanitari me diuen:
 Dialogue: 0,0:44:55.80,0:44:58.40,Xavier,,0,0,0,,Xavi, l'altre dia vaig escoltar l'episodi de no sé què
 Dialogue: 0,0:44:58.40,0:45:02.40,Xavier,,0,0,0,,i no recordo que haguem fet algun tema específic de transport sanitari
-Dialogue: 0,0:45:02.40,0:45:09.00,Xavier,,0,0,0,,o haguem convidat algun tècnic a participar i que ens expliqui alguna cosa que necessitem conèixer. 
+Dialogue: 0,0:45:02.40,0:45:09.00,Xavier,,0,0,0,,o haguem convidat algun tècnic a participar i que ens expliqui alguna cosa que necessitem conèixer.
 Dialogue: 0,0:45:09.00,0:45:12.20,Xavier,,0,0,0,,Si ens esteu escoltant i teniu alguna cosa interessant
 Dialogue: 0,0:45:12.20,0:45:18.40,Xavier,,0,0,0,,i que ens vulgueu explicar podem organitzar un episodi dedicat a alguna temàtica d'aquest tipus, no Albert?
 Dialogue: 0,0:45:18.40,0:45:20.40,Albert,,0,0,0,,Sí, sí, de fet és bastant rellevant.
