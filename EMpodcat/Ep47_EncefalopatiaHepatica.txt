@@ -1,0 +1,386 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a un nou episodi de l'EMPodCat, el 47 de la quarta temporada. Com sempre el perpetrem amb Xavi Basurto des de l'Empordà. Hola, bon dia, Xavi.
+Hola, bon dia, com estem? Doncs sí, des de l'Empordà estem, no sé, des de urgem.cat i des de l'Hospital de Figueres i de la 606 també de Figueres.
+Veieu que anem de pressa, eh? Ja, això ho hem d'eliminar ràpid. Jo sóc l'Albert Homs,
+des de Cerdanya, a la Batllia, infermer d'urgències i emergències. Va, @emermedpirineus a diferents xarxes socials i també aquí a l'Hospital Transfronterer de Cerdanya.
+I un cop així amb aquesta pressa que ja ens caracteritza al principi, anem directes al tema, que avui el Xavi ens ha d'explicar una cosa interessant que jo veia més abans que ara, no ho sé. A veure, a veure què ens expliques, Xavi.
+Sí, és possible que ho veiéssim una miqueta més abans, però bé, ara per tant també tenim l'ocasió i està bé estar una miqueta preparat. I es tracta de l'encefalopatia hepàtica.
+Com sabeu, és una alteració neurològica, neuropsiquiàtrica, que és potencialment, a no ser que sigui molt greu, reversible
+i normalment, dic normalment, associada a una insuficiència hepàtica, però no és una condició indispensable. Després veurem per què.
+Clínicament és molt variable. Des de canvis mínims cognitius, de l'estat d'ànim o de memòria o de l'estat de l'humor o el que sigui, com estar molt greu i estuporós i comatós.
+No tenim molt clar, o sigui, hi han molts temes de patogènesi que no sabem per què funciona o per què apareix aquesta encefalopatia,
+però sí que sabem que és per una acumulació d'amoníac, que és una substància tòxica que s'acumula en el sistema arterial, sistema venós, i això travessa la barrera hematoencefàlica i afecta el sistema nerviós central.
+Segurament n'heu vist alguna vegada, i ara veurem quatre aspectes importants.
+D'on ve aquest amoníac? Es produeix normalment a l'intestí. Forma part del procés digestiu. Els bacteris del còlon i els enzims de la mucosa intestinal van descomponent les proteïnes ingerides i alliberen compostos nitrogenats.
+Aquests compostos nitrogenats es metabolitzen al llarg de tot el tracte gastrointestinal i generen amoníac. Aquest amoníac passa a la sang i d'aquí passa a la circulació sistèmica.
+La gràcia és que tota aquesta absorció d'amoníac es filtra a través del fetge, i és el fetge el que el metabolitza, el converteix en urea i l'elimina, i aquí no ha passat res.
+Però quan hi ha algun problema, doncs aquest amoníac no es metabolitza i s'acumula a la circulació sistèmica, travessa la barrera hematoencefàlica i afecta les neurones.
+Perquè això es produeixi, aquest metabolisme hepàtic de l'amoníac, són necessaris diferents aminoàcids i enzims que molts d'aquests depenen del zinc.
+I per tant, gent que tenen o malalties hepàtiques o desnutrició, tenen problemes per aquests aminoàcids o per aquests elements essencials del zinc, i per això no poden metabolitzar bé l'amoníac en el fetge.
+Jo he dit abans que normalment ho veiem l'encefalopatia hepàtica en gent que té insuficiència hepàtica, per exemple, el pacient cirròtic.
+Però algunes vegades podríem trobar un pacient que no té especialment alteració de la funció hepàtica, però sí que per algun problema té una derivació del sistema venós portal cap al sistema venós sistèmic, perquè hi han derivacions portosistèmiques.
+Això vol dir que llavors la sang que de l'abdomen aniria cap al fetge i es filtra allà, directament va al sistema venós i per tant no passa pel filtratge del fetge, no?
+Exacte, tot el que absorbim a nivell intestinal, per exemple l'amoníac, doncs hauria de passar tot el sistema porta cap al fetge i que es metabolitzi i que després ho eliminem, doncs se salta el filtre del fetge i va a parar a la circulació sistèmica.
+I aleshores, si és tòxic pel cervell, veuràs que el pacient té clínica neuropsiquiàtrica, com passa amb l'encefalopatia hepàtica.
+Per això no és una condició sine qua non tindre una cirrosi o tindre una insuficiència hepàtica molt important per tindre aquest problema, sinó que gent que per algun altre problema congènit o el que sigui,
+té aquestes derivacions portosistèmiques, també ens el podem trobar o també ho hem de sospitar-ho en un pacient que ve amb alguna alteració inespecífica del comportament, del nivell de consciència, deliri o alguna cosa estranya que no ens el quadra amb cap altra patologia.
+Normalment, el pronòstic, sobretot si és un pacient que té una insuficiència hepàtica i l'orientes com una encefalopatia, doncs el pronòstic és dolent, excepte que sigui un pacient candidat a trasplantament hepàtic.
+Però si no ho és, la supervivència a un any pot ser del 40% i la supervivència als tres anys pot ser del 20%.
+Déu-n'hi-do.
+Per què? Perquè normalment ja ho veiem amb gent amb insuficiència hepàtica greu, amb cirrosi, i que a lo millor ja no és candidata a trasplantament, i aquests, doncs al cap de tres anys és probable que s'hagin mort.
+Aleshores, primer sospitar-ho, però bé, abans de sospitar-ho, hauríem de tindre en compte que l'encefalopatia hepàtica la podem classificar, o l'hem de classificar, en vàries característiques.
+Primera, la causa. Hi ha la tipus A, la tipus B i la tipus C.
+La que veiem més és la relacionada amb la cirrosi, i també hi haurà cert component d'hipertensió portal i les derivacions aquestes que dèiem portosistèmiques, però és bàsicament la tipus C és la per insuficiència hepàtica crònica, cirrosi.
+La tipus A és la conseqüència d'una insuficiència hepàtica aguda. Per exemple, les intoxicacions que vam parlar un episodi sobre intoxicacions per bolets i aquestes coses.
+Síndrome hepatotòxica.
+Exacte, si ho veiem tard i no ho identifiquem, doncs el pacient tindrà una insuficiència hepàtica aguda greu i potser que no metabolitzi l'amoníac i el pacient estigui amb una encefalopatia.
+Això seria el tipus A. I el tipus B són les que estan provocades bàsicament per aquest problema de derivació portosistèmica, amb una funció hepàtica relativament preservada.
+Per tant, quan veiem un malalt que orientem com una encefalopatia hepàtica, hem de dir si és un tipus A, tipus B o tipus C.
+Una pregunta, quan parles d'aquesta derivació portosistèmica, estem parlant de malformacions, diguéssim, o estem parlant de... procedimental que li hem fet nosaltres un arreglo?
+Poden ser les dues coses, sí. D'aquests que els hi fan un TIPS, no? Una transjugular portosistèmic, eh, no sé què més. Que ja els hi fan una derivació terapèutica.
+Aquests també els hi pot passar, o potser que per algun motiu hagin tingut una trombosi portal, una trombosi de les venes intrahepàtiques o el que sigui,
+i aleshores augmenta la pressió portal i l'organisme desenvolupa una circulació col·lateral per fer un bypass del fetge i això fa una derivació portosistèmica.
+Vull dir que pot ser terapèutic o per problemes que ha tingut el pacient. Sí, sí.
+D'acord.
+Què més? Hem de classificar també en funció de la severitat.
+I per això hi han els criteris que se'n diuen de West Haven. Són els criteris que ens ajuden a veure si aquesta encefalopatia és més o menys important.
+D'aquí comencem, pot ser una encefalopatia que en diuen encoberta, que és mínima, que gairebé ens costa molt identificar-la clínicament,
+i aquí hi haurien dos nivells: la que en diuen mínima, l'encefalopatia hepàtica mínima, i la grau 1.
+La mínima són un pacient que, a no ser que li fem unes proves psicomètriques o neuropsicològiques, no ho sabrem mai que està ara mateix amb una encefalopatia hepàtica.
+Per tant, són gent que  pel motiu que sigui, perquè estan dins d'un estudi, o perquè pel que sigui se li està fent un cribratge i li fan unes proves psicomètriques,
+si li fan, sí que veuran que té algun problema amb el càlcul, un problema amb la memòria discret, però ni la família, ni el pacient, ni el clínic se'n pot donar adonar d'això. Això és el el mínima, o sigui, l'encefalopatia hepàtica mínima.
+Després tenim la grau 1, que són ja petits canvis cognitius, alguna alteració mínima de l'estat d'alerta o de l'estat d'ànim, més nerviós del normal,
+alguna lleu dificultat en mantenir l'atenció, algun míniam alteració del ritme del son, però són troballes clíniques que són molt poc reproduïbles.
+I a lo millor, si el pacient ve perquè la família diu que el veu així estrany, tu el vas a visitar, fas l'anamnesi, l'exploració física i dius, aquest senyor jo el veig perfecte.
+Per tant, són canvis subtils que a lo millor només veu la família o el pacient, però que tu com a clínic et costa veure. Això seria la grau 1.
+I després tenim l'encefalopatia hepàtica manifesta, que clínicament la pots veure. I aquesta és grau 2, la 3 i la 4.
+Les prèvies que hem fet eren la mínima i el grau 1, i ara, quan ja és l'encefalopatia hepàtica manifesta, ja tenim la que és grau 2, 3 i 4.
+I en principi no hauria de ser difícil diferenciar-les, perquè la 4 està clara, és un pacient que està en coma, que no respon a estímuls dolorosos. Per tant, la 4 és fàcil d'identificar.
+I entre la 2 i la 3 és la que podria haver-hi una miqueta de confusió.
+La 2 és un pacient letàrgic, molt apàtic, que té desorientació temporal, amb canvi de personalitat, de comportament una mica estrany, i és el primer, és en aquest estadi, en l'estadi 2, que el pacient té asterixi.
+Asterixi, Albert?
+Em sembla que aquesta ha sortit alguna vegada a l'UrgemMot. El flapping tremor, no?
+Sí, és el que en dèiem, el flapping, no? Després en parlarem perquè és un dels UrgemMots que havíem de comentar. Doncs això, és l'asterixi.
+L'esbatec aquest de les mans, dels dits de les mans o dels canells, posant els braços del pacient així estirats, els canells flexionats dorsalment,
+ i veus que els dits del pacient van fent com un esbatec, unes contraccions que queden així a mitges.
+Xavi, i...
+Digues, digues.
+A l'hora de mesurar-ho això, cal que tu li facis una empenta a la mà per veure si batega o directament li fas posar i ja mires si batega així?
+Li pots fer posar i si no li estires tu una miqueta, li obres una miqueta els dits i li tires una miqueta el canell enrere i després ell ho fa.
+D'acord.
+Això apareix en el grau 2. Per tant, si tu creus que té una encefalopatia hepàtica i no té asterixi, és que estem en un grau 1. Quan ja apareix l'asterixi és que estem en un grau 2.
+I després el grau 3, ja és un pacient similar a l'anterior, però molt més somnolent, estuporós, desorientat, a més a més del temporalment, com abans hem dit, desorientat en espai, i amb una alteració del comportament bastant important.
+I el 4 ja ho hem dit, no? Un pacient en coma.
+I després hem de decidir, més classificació, hem de decidir el curs temporal d'aquesta encefalopatia, perquè pot ser episòdica, recurrent o persistent.
+Episòdica és un episodi aïllat, que normalment, o gairebé sempre, té un factor desencadenant que el podem identificar. Que és el més freqüent, les episòdiques.
+Les recurrents són aquelles persones que tenen més d'un episodi en menys de sis mesos.
+I les persistents són pacients que tenen una encefalopatia hepàtica, que tenen una alteració del comportament que sempre està present,
+i en aquesta alteració del comportament a resultes de la intoxicació del sistema nerviós central per l'amoníac, doncs van fent episodis recurrents,
+episodis manifestos d'encefalopatia hepàtica, eh? Ell ja té persistentment una alteració del comportament i de tant en tant fa una baixada important del nivell de consciència o una alteració del comportament important, però mai està bé aquesta persona.
+Aquesta encefalopatia hepàtica persistent, associat amb una insuficiència hepàtica, és indicació de trasplantament.
+Hem de tindre clar, per tant, quan anem a transferir un pacient amb aquestes característiques o escrius l'informe mèdic, doncs procurar posar de què estem parlant.
+Estem parlant d'una encefalopatia hepàtica tipus C, de grau 2 i episòdica. Com a mínim hauríem de dir això.
+Després, vital i gairebé més important,
+penso que és el més important que hauríem de dir en aquest episodi parlant de l'encefalopatia hepàtica,
+és la importància transcendental de identificar els factors desencadenants d'aquest problema que té el pacient en aquest moment.
+Perquè en un 20 o un 30% de les vegades sí que serà impossible o no identificarem la causa, però un 70-80% sí.
+De què serveix saber que té alguna cosa si no la pots tractar?
+Sí, però moltes de les causes o els factors desencadenants són patologies o alteracions que les podem tractar, i a més a més fàcilment. Perquè no ha de ser una gran patologia que desestabilitzi aquesta funció del fetge.
+Per tant, les hem d'identificar perquè si les identifiquem i les tractem, l'encefalopatia millorarà.
+Si no les identifiquem i per tant no les tractem, per més que després li fem un altre tractament, si el pacient té no sé què i no li curem, el pacient no millorarà. Per tant, és indispensable.
+Quins són els factors o les patologies que inestabilitzen aquesta funció hepàtica i fa que s'acumuli més amoníac i més intoxicació al sistema nerviós central?
+Per exemple, molt freqüentment les infeccions.
+Quines? Molt freqüentment una peritonitis bacteriana espontània, les pneumònies, les infeccions urinàries i infeccions del sistema nerviós central.
+Per tant, en aquests pacients, sempre se'ls hi ha de fer alguna cosa, sigui l'anamnesi, sigui l'exploració física, o siguin les proves complementàries, 
+les bàsiques i indispensables perquè dintre d'una coherència puguem descartar una peritonitis bacteriana espontània.
+Per tant, aquest pacient, sempre sempre, a urgències li hauríem de fer una eco abdominal a peu de llit, per veure si té líquid lliure intraabdominal. I això ho sabem fer-ho tots, posar-li el transductor i veure que no té líquid.
+Si té líquid, després ja veurem, decidirem en funció de mil coses si l'hem de punxar o no l'hem de punxar i analitzar-lo, que seria la recomanació. Però com a mínim fer-li una eco i veure que no té líquid lliure.
+Si no amb una eco no veus líquid, necessites alguna cosa més que ulleres, eh?
+Sí. Home, si n'hi ha molt molt poc, evidentment no el veuràs, però una ascites...
+Però si n'hi ha molt molt poc, llavors potser segurament no t'has de plantejar si el punxes, no?
+Exacte, has de buscar una altra causa.
+Però vull dir que això hauria de ser imprescindible en tot pacient amb una encefalopatia hepàtica, no pot ingressar o no pot marxar d'urgències cap a no sé on, sense que se li hagi descartat la presència d'una ascites.
+Una placa de tòrax. També podries dir, no, és que si satura 99, respira 12 per minut, l'auscultació és perfecta i no té cap clínica de res de res respiratòria, 
+i a més a més també pots fer una eco per veure si hi ha algun indici d'alguna pneumònia o el que sigui, també es podria estalviar la placa de tòrax. 
+Però bé, podríem fer una placa de tòrax almenys per estar segurs de que almenys radiològicament no hi ha una pneumònia.
+Infeccions d'orina, és important en aquestes persones descartar-les.
+Amb una altra persona poder no és tan important, però aquí sí que és una causa freqüent de desencadenar l'encefalopatia,
+i encara que no tingui clínica urinària, que ho hem dit més d'una vegada a l'EMPodCat, no? Que les bacteriúries asimptomàtiques, que no cal ni demanar sediment, no cal demanar cultius, si no hi ha clínica.
+En aquest cas, a no ser que ja hagis identificat una altra causa, de dir, ostres, no, és que té una peritonitis bacteriana espontània, doncs si no l'has identificat, fes-li un sediment i un cultiu.
+I el mateix per descartar infeccions del sistema nerviós central. Evidentment no li farem una punció lumbar a tots els pacients, però per mínima que no tinguem un diagnòstic alternatiu, doncs és una possibilitat.
+I per tant, tens un pacient amb una alteració cognitiva o del comportament que no saps per què ve, és un motiu per descartar una infecció del sistema nerviós central.
+Deixaríem la punció lumbar per l'última, no? Suposo.
+Sí, exacte, en funció del risc i benefici, exacte. I de la clínica que tingui el malalt, clar.
+Aquí ens recomanen, no és que ho hagi trobat escrit en cap guia ni protocol específic, però sí que els internistes que es dediquen a les infeccions i els del PROA i tots aquests,
+sí que te recomanen en aquests casos d'encefalopatia hepàtica, demanar uns hemocultius en fred. És a dir, no cal esperar que el pacient tingui 38 de febre per fer un hemocultiu.
+Si tu veus l'encefalopatia hepàtica i així d'entrada no veus una causa desencadenant, fes-li uns hemocultius ja.
+Què més? A part de les infeccions. Una altra font important que desencadena l'encefalopatia és l'hemorràgia gastrointestinal.
+Tant sigui alta per varices o per problemes gàstrics, problemes intestinals o hemorràgies digestives baixes.
+És igual, qualsevol hemorràgia intestinal augmenta l'amoni en el budell, s'absorbeix, va a parar a la sang,
+Mira!
+i ja està.
+Això no m'havia acudit el per què. Clar, tota l'hemoglobina es degrada i l'hemoglobina és una proteïna, per tant, tots els nitrògens de l'hemoglobina cap dins. Sí, sí. Ah, mira, ostres.
+Exacte, sí, sí.
+Sí, després el fetge no filtra, tot aquell amoni el tindràs enganxat en els astròcits del cervell.
+Per tant, a tot pacient amb encefalopatia hepàtica que no tinguis una altra causa, s'han de descartar l'hemorràgia gastrointestinal. Per tant, gairebé tots aquests pacients hauríem de descartar la presència de melenes.
+Per tant, has de tindre una raó molt important per no haver fet un tacte rectal en aquest pacient. I és possible que això no ho fem de forma sistemàtica. 
+Per tant, tacte rectal o fes el que vulguis, però descarta melenes, descarta hematèmesi, descarta rectorràgies, descarta lo que vulguis. 
+Allò de mirar la sang en caques que deies tu, no sé quin episodi, no, eh? Hem de mirar que sigui melena, que hi hagi sang de veritat, no la merda aquella que et surt del, quan envies la merda al laboratori. 
+Exacte. Sí, sí. Això no hauria d'estar en el... Com a mínim a urgències no hi hauria de ser-hi aquesta eina.
+Què més? Alteracions hidroelectrolítiques. Per exemple, més freqüents relacionades amb això és la hiponatrèmia, que és un factor de risc independent per fer encefalopatia hepàtica en el pacient cirròtic. És una cosa a tenir molt en compte la hiponatrèmia. 
+Lògicament, a totes aquestes persones ja els hi farem una analítica i un sodi, un potassi, això ja li farem. Això és fàcil d'identificar. Però si ho identifiquem, alerta perquè això és un factor de risc importantíssim, la hiponatrèmia.
+També la hipopotasèmia, la deshidratació i l'alcalosi metabòlica. Aquestes alteracions hidroelectrolítiques estan molt relacionades com a desencadenants de l'encefalopatia hepàtica. La hiponatrèmia, la hipopotasèmia, l'alcalosi i la deshidratació.
+A més a més del mal que et poden fer ja cadascuna d'elles individualment, no?
+Exacte, sí, sí, sí. Què més? Ús excessiu de diürètics, perquè facilita que el pacient estigui deshidratat, ja acabem de dir que la deshidratació és un factor desencadenant, i també perquè molts diürètics, per no dir tots, alteren els electròlits. 
+Per tant, sodi, potassi, tot això poden estar alterats. Per tant, gent que pel motiu que sigui se'ls hi hagi augmentat la dosi de diürètics, podria ser la causa desencadenant.
+Com també ho podrien ser l'ús de benzodiazepines o de qualsevol sedant, i la de drogues recreatives.
+Per tant, en cas que no identifiquem cap causa desencadenant, uns tòxics en orina, que cada vegada ens diuen més que no els fem de forma sistemàtica i que tenen molts falsos positius, molts falsos negatius, etcètera.
+En aquesta persona que no sabem d'on li ve això, penso que estaria ben indicat demanar-ho.
+Altres causes desencadenants, el restrenyiment. Si tens restrenyiment, tots els productes de degradació dels nitrogenats i no sé què, l'amoni s'acumula a l'intestí i l'acabes absorbint si no l'expulses defecant.
+Per tant, el restrenyiment està molt molt relacionat amb l'encefalopatia hepàtica. 
+Què més? També la insuficiència renal, perquè si el filtratge glomerular disminueix, no s'eliminen els tòxics i hi ha més alteracions hidroelectrolítiques i fas més encefalopatia hepàtica.
+Després, si estàs començant o s'està desenvolupant al teu organisme un carcinoma hepatocel·lular, pues el desenvolupament d'aquest carcinoma també pot ser un desencadenant de l'encefalopatia.
+Després, sobretot en gent gran, bé, o que no sigui gran, la sarcopènia, la pèrdua de massa muscular, la musculatura actua com un sistema de desintoxicació una miqueta de l'amoni, i per tant, el fet de tindre molt poca massa muscular facilita que s'acumuli l'amoni.
+Hi ha alguns tipus de fàrmacs, com per exemple el valproat sòdic o els inhibidors de la bomba de protons, que també poden estar relacionats amb desencadenar l'encefalopatia hepàtica.
+El valproat i els IBP. 
+O sigui, que si tens alguna insuficiència hepàtica, donar-li omeprazole potser no és gaire bona idea, no?
+ No és bona idea, no. Els IBP en pacients amb cirrosi i amb ascites, s'ha vist que és un factor de risc per fer encefalopatia hepàtica.
+Què més? Dèficit de zinc, no sé si ara per quin motiu podríem tindre un dèficit de... ara no sé si es diu zinc o zenc.
+Aquestes persones, com que el zinc forma part d'un enzim que és la glutamina sintetasa i no sé què més que metabolitza l'amoni, doncs un dèficit d'aquest element també és un factor de risc.
+ I pacients diabètics que tenen una cirrosi per virus d'hepatitis C. Aquesta diabetes podria jugar un paper molt important com a desencadenant de l'encefalopatia hepàtica.
+Importantíssim és la infecció, l'hemorràgia, les alteracions hidroelectrolítiques, diürètics, benzos, el restrenyiment, la insuficiència renal. Si pensem amb això, haurem fet un gran favor al pacient.
+Són moltes coses, eh, que poden fer... o sigui, si tens una insuficiència hepàtica coneguda i comences a portar-te raro, ostres, l'estrany seria que no tinguessis... Bé, no seria fàcil de trobar, eh? Hauries de buscar bastant, veig.
+Sí, però són diagnòstics que o factors desencadenants que són relativament fàcils i que ho podem fer-ho a urgències i que ho hem de fer-ho a urgències.
+No és una cosa que necessitis fer una ressonància magnètica ni una biòpsia de no sé què.
+Tot ho podem fer-ho a urgències, més o menys amb les eines que tenim i tampoc és espectacularment dificultós.
+Què necessitem fer per fer això? Doncs una bona anamnesi.
+Parlar amb el pacient?
+Bé, sí, sí, amb el amb el pacient primer, i si el pacient no pot o no està capacitat, doncs família, acompanyants.
+Amb la família també?
+Sí, família o acompanyants, i si no hi són, trucar-los, o si viu amb una residència o no sé què.
+Trucar-los?
+Sí, es pot fer, es pot fer. Ara hi ha ara hi han telèfons, Albert.
+Quantes coses que s'han de fer en medicina, eh? Terrible això.
+No te'n recordes que a la pandèmia també parlàvem per telèfon amb les famílies i tot això?
+Sí, sí, de fet només parlàvem per telèfon, sí, sí, me'n recordo perfectament, sí, sí, sí.
+Ja estem acostumats i som destres fent aquesta cosa.
+Doncs sí, hem de fer anamnesi. L'anamnesi ens pot ajudar amb tres coses. Una, que és indispensable, que és ajudar-nos a fer el diagnòstic diferencial.
+Perquè, al principi hem dit que importantíssim d'aquest episodi, parlant de l'encefalopatia hepàtica, era identificar els desencadenants.
+Però l'altre encara més important és fer un diagnòstic diferencial, perquè el diagnòstic d'encefalopatia hepàtica és un diagnòstic d'exclusió.
+És a dir, tu quan et ve un pacient que et diu el pacient o la família o qui sigui, que té un problema hepàtic, que té una cirrosi i que el veuen malament, que el veuen somnolent, que està poc reactiu, que es passa el dia dormint, la idea és dir, té una encefalopatia hepàtica.
+Però no és correcte. Això hi hauries de pensar quan ja has descartat totes les altres causes d'alteració del sistema nerviós central.
+Per tant, en l'anamnesi hauries de pensar i preguntar, escolta'm, aquest pacient ha caigut? S'ha fet algun cop al cap recentment?
+Deixa'm fer una exploració neurològica o deixa'm preguntar quatre coses per veure si això no pot ser un ictus, si pot ser que una crisi epilèptica no convulsiva, per exemple, o pot ser que sigui una encefalitis, pot ser que sigui una meningitis, pot ser que tingui un abscés cerebral i per això està així somnolent.
+D'acord que té una hepatopatia i té insuficiència hepàtica i el que tu vulguis, però és que a lo millor el pobre home ara té una epilèpsia i està convulsionant i no ho veiem.
+Per tant, l'anamnesi és indispensable i molt útil perquè de forma grollera i fàcil puguem descartar molts diagnòstics diferencials.
+Quines coses, eh? L'anamnesi.
+Això també ho veurem després quan parlem de l'exploració física.
+Què dius ara? També se'ls ha de tocar?
+Sí, acostar-t'hi és bo també.
+L'anamnesi també ens pot ajudar pel que hem dit abans de la severitat de l'encefalopatia hepàtica, per saber si estem en un grau 1, 2, 3 o 4.
+Doncs preguntar, no? Ha tingut canvis d'humor? Està més irritable? Està més impacient? Té hiporèxia? Té inestabilitat a la marxa? Cau freqüentment? 
+Dorm de dia i de nit està despert? No sé, està intranquil? Està desorientat? Tot això ho fem preguntant al pacient i a qui sigui.
+I també l'anamnesi ens ha d'ajudar això que hem explicat abans dels factors desencadenants.
+Si pren més fàrmacs, si pel que sigui se li ha augmentat els diürètics o les benzos per dormir o pel que sigui se li ha donat un IBP,
+o pren més alcohol, o ha deixat de prendre alcohol, o ha tingut febre, calfreds. Això ja et fa pensar que pot tindre clínica infecciosa.
+O si ha tingut vòmits i diarrees, pensaràs, ostres, a veure si el desencadenant d'això ha sigut una deshidratació. I després a l'exploració aniràs a mirar la deshidratació.
+Preguntar si ha tingut melenes, rectorràgia, hematèmesi. A veure si el desencadenant serà una hemorràgia gastrointestinal. O restrenyiment. Va igual de sempre a fer caca com sempre o molt menys? Doncs això es pregunta.
+Per tant, l'anamnesi ens ha de servir per fer diagnòstic diferencial, per la severitat de l'encefalopatia i per buscar factors desencadenants.
+El mateix que l'exploració física. Quatre coses només.
+L'exploració física neurològica en aquest cas ha de ser molt important. I ha d'incloure veure si té tremolors, per exemple l'asterixi, veure si té alteració de l'equilibri i alteració de la marxa.
+Aquests pacients també de vegades també tenen hipertonia, hiperreflèxia i un Babinski positiu. Per tant, això ho hem de saber-ho i anar-ho a buscar.
+I lògicament utilitzar una escala per veure el nivell de consciència. Pots fer el Glasgow.
+Mirar si està taquipnèic, per exemple, i el que hem dit abans del tacte rectal per descartar hemorràgies digestives. En l'exploració física, entre moltes coses que pots fer, m'ha semblat important parlar d'aquestes quatre coses.
+Si algú no sap com fer el Glasgow, tenim un episodi que en parlem.
+Em pensava que deies si algú no sap com fer el tacte rectal.
+Bé, doncs... 
+Podríem fer, podríem fer un episodi, sí, també. Després la gent que ens està escoltant diran, aquests dos, aquests dos han perdut el senderi, eh?
+Ja fa dies.
+Què més volíem dir?
+Quatre coses del diagnòstic diferencial. Altres causes d'encefalopatia.
+Per exemple, les metabòliques, com pot ser una hipoglicèmia. Pots trobar el pacient en coma i dius, "Ostres, sí, és que és un cirròtic". Sí, serà un cirròtic, però és que ara té una glicèmia de 17.
+Com se't passi aquesta, és per fotre't cops cap contra la paret, eh? A la D de l'ABCD toca glucèmia.
+Al final no se'ns passarà perquè al cap d'una hora tindràs l'analítica i segur que hauràs demanat una glicèmia i estarà a 17. Però clar, el pacient haurà estat una hora amb les seves neurones sense metabolisme.
+Malament.
+Altres coses metabòliques, una cetoacidosi diabètica. Molts també tenen edema cerebral i poden estar amb alteració del nivell de consciència i en coma, si vols. Per tant, pensar-hi.
+La insuficiència respiratòria, tant la tipus 1 com la tipus 2. La hipoxèmica també et pot fer alteració del nivell de consciència, i sobretot la hipercàpnica, la insuficiència respiratòria tipus 2.
+Un pacient hipercàpnic estarà somnolent. Doncs, per tant, molt bé que tingui una cirrosi, però ara no té una encefalopatia hepàtica, sinó que el pacient té una insuficiència respiratòria hipercàpnica.
+I els pacients amb insuficiència renal també poden tindre encefalopatia per acumulació de tòxics a nivell arterial, venós i tal, perquè no s'eliminen.
+Després, també pots tindre encefalopaties per causes tòxiques.
+L'alcohol, per exemple, sigui una intoxicació alcohòlica aguda, sigui un delirium tremens, o sigui una encefalopatia de Wernicke, que són els que tenen dèficit de vitamina B1.
+D'això ja en vam parlar també un episodi, de les persones amb malnutrició, alcoholisme crònic, que tenen dèficits de vitamina B1 i que els hi donem de menjar o glucosa endovenosa o el que sigui, hem de vigilar amb aquests pacients,
+perquè si no ho identifiquem, doncs això es pot convertir en una psicosi de Korsakoff i això ja és crònic. I te queda el pacient amb dèficit de memòria i amb confabulacions, i el pacient està amb una psicosi de forma crònica.
+Per tant, hem de pensar-hi amb aquestes causes relacionades amb l'alcohol, per abús, per síndrome d'abstinència o per un Wernicke. I fàrmacs sedants, benzos que afecten el sistema nerviós central. Això ja ho hem dit. 
+Causes intracranials, causes estructurals. Pacient amb encefalitis, abscessos, meningitis, pacients amb traumatismes, tumors, neoplàsies cerebrals, amb ictus, sigui hemorràgic o isquèmic, subdural, o una epilèpsia no convulsiva.
+Causes estructurals neurològiques també poden ser motiu del pacient cirròtic et vingui amb una alteració del sistema nerviós central. S'ha de descartar això.
+També pacients amb apnea obstructiva del son. Això ho veig una mica més difícil de confondre perquè normalment el pacient porta molt temps que s'adorm durant el dia, no?
+Hauríem de veure per què avui, després de tres anys d'adormir-se durant el dia, ve avui a urgències a visitar-se. Però bé, hauríem de pensar-hi.
+I ara només quatre coses, perquè tampoc és que hi hagi molt, sobre el maneig d'aquesta patologia o d'aquesta condició.
+Hem dit, el més important, perquè el pacient millori, és encertar el diagnòstic. I un cop estem convençuts que allò és una encefalopatia hepàtica, buscar els desencadenants i tractar-los. Això és la clau.
+Què més podem fer? De tractament així bàsic, a més a més de tractar les causes desencadenants? Doncs reduir la càrrega del tòxic, l'amoníac en el cervell. Com ho farem això?
+Per exemple, amb la lactulosa, que el que fa és acidificar el budell, i això fa que disminueixi l'absorció a nivell sanguini d'aquest amoni. I a més a més, la lactulosa té un efecte laxant. Per tant, evites que s'absorbeixi i a més a més l'elimines.
+Per tant, la lactulosa es considera un tractament de primera línia. Sobretot en les encefalopaties hepàtiques que s'associen a la hiponatrèmia i també a les insuficiències hepàtiques lleus.
+La dosi que et trobaràs és molt variada, perquè com que la lactulosa no s'absorbeix, actua a nivell intestinal i després l'elimines, et pots trobar de dosis les que vulguis tu.
+Jo havia concretat i posat 25 ml de la lactulosa cada hora o cada dues hores fins a obtenir almenys dues deposicions toves o líquides. Per tant, si el pacient pot empassar, 25 ml cada dues hores fins que faci dues deposicions.
+I quan s'aconsegueixen aquestes dues o tres deposicions toves al dia, després vas reduint, en lloc de fer cada dues hores, fas aquests 25 ml tres vegades al dia, quatre vegades al dia, ho vas titulant fins que obtinguis aquest objectiu que és fer dos o tres deposicions al dia.
+Es pot administrar la lactulosa, si el pacient no pot tolerar, per exemple, amb sonda nasogàstrica. I si això no és possible, perquè tenim una encefalopatia hepàtica grau 3, grau 4,
+i per tant no pot empassar, és més perillós posar-li una sonda nasogàstrica, doncs també es pot posar amb ènemes.
+Ènemes de lactulosa, i la dosi també l'he trobat molt dispar, des de 700 ml de lactulosa barrejat amb 700 ml d'aigua, a dosis molt inferiors.
+Jo penso que és per això que dic, eh, que com que no s'absorbeix, a lo millor tant li fot que li posis 500 que 700 que el que sigui. Vull dir, tot lo que li posis al cap de 30 minuts ho haurà tret.
+Això, pregunta sobre els ènemes aquests, que és el que a infermeria ens interessa al final, només l'aplicaríem si no tolera la lactulosa oral o ho faríem sempre?
+Jo penso que és depèn de la severitat de l'encefalopatia hepàtica. Clar, si tinc un pacient en coma, evidentment no li donaré per via oral, ho farem tot per ènemes. Si pot empassar i tal, 25 ml de lactulosa, doncs cada hora.
+Jo a una persona que pot parlar i deglutir perfectament perquè té els reflexos de la via aèria conservats, li donaria via oral i punt. Tu dius de combinar els dos, sigui quin sigui?
+No, no dic de combinar-ho, dic saber quan, és a dir, amb un amb una persona en coma li faràs els ènemes, però clar, també serà un festival, eh? Perquè estan en coma, lo de dir-li "aguanti tant com pugui", això no funcionarà.
+I hauràs de fer-ho estirat, vull dir que és, és una situació de merda aquesta.
+Però no tens altra solució, eh?
+Si ho has de fer ho fas, això només faltaria.
+Si està comatós, no li podràs donar res, i posar-li una sonda nasogàstrica també té el seu risc de broncoaspiració. Per tant, sí o sí ha de funcionar els ènemes de lactulosa.
+Què més? també tenim la rifaximina, que és un antibiòtic que no s'absorbeix i que altera la microbiota del tub digestiu, i per tant, el que fa és reduir la producció d'amoníac.
+Actua diferent que la lactulosa, que hem dit que la lactulosa ajuda a que no s'absorbeixi i l'elimina, i la rifaximina redueix la producció d'amoníac. I es considera com una teràpia addicional a la lactulosa.
+Això és via oral. Si estàs amb una encefalopatia 3 i creus que pot empassar, a la lactulosa li pots associar la rifaximina. Si l'hem de posar, la rifaximina són 550 mg cada 12 hores.
+I també tenim el polietilenglicol, que és un laxant osmòtic, que és el que es fa servir o s'havia fet servir, ara es fan servir també altres coses, per les preparacions intestinals en les colonoscòpies.
+Això és per via oral o amb sonda nasogàstrica. Aquest és una miqueta més complicat perquè si s'ho ha de beure són 4 litres.
+I l'últim litre, tal qual entra, surt, en circumstàncies normals. Aquest sí que no absorbirà gran cosa. Aamoníac de l'intestí no n'absorbirà, no.
+No, no, això et curarà ràpid.
+I poca cosa més, eh? En aquests pacients, vigilar també el tema de la tiamina, de la vitamina B1, perquè molts pacients a lo millor estan malnodrits o tenen relació amb alcoholisme o el que sigui, tindreu-ho en compte.
+Evitar sedants, evitant les benzos, i una altra cosa important és retirar els diürètics. En pacient que tens amb encefalopatia i que ingressa, lo lògic seria que ingressessin tots, si prenen de base diürètics, els hi has de treure.
+Això tampoc és una recomanació que vegis escrita a les guies ni estudis científics i tal, però si parles amb els digestòlegs, si parles amb els hepatòlegs i tota aquesta gent, te diran que ingressin a planta, però que retiris tots els diürètics.
+Ja els hi tornaran a posar ells quan faci falta.
+Quan ja estigui recuperat de l'encefalopatia i tal, ja els hi tornaran a posar. Però la nostra feina és ingressar-los sense els seus diürètics de base.
+I jo penso que ja està. Resum final: l'encefalopatia hepàtica ès un diagnòstic d'exclusió. Primer cal descartar altres causes d'alteracions neurològiques, altres causes d'encefalopatia.
+Buscar els factors desencadenants, sobretot infeccions, hemorràgies. Aquestes quatre coses que hem dit de més a més, de fer uns hemocultius en fred, encara que no tingui febre, 
+el tacte rectal, la eco a peu de llit per la PBE, una placa de tòrax per la pneumònia i descartar infeccions urinàries.
+I classificar correctament o etiquetar aquesta encefalopatia. Si és de tipus A, B o C, si és de grau 1, 2, 3, 4, si és recurrent, episòdica o persistent, i el desencadenant.
+Això és el que hauríem de dir quan posem orientació diagnòstica: encefalopatia hepàtica tipus C, grau 2, recurrent i desencadenada per una ITU.
+I retirar el diürètic que prengui el pacient, i ja està. Si ho fem així, fantàstic.
+Molt bé. Jo al principi et deia això quan presentava el tema, que tinc la sensació que abans es veia més que ara, però no sé si fins a quin punt això és simplement una percepció meva. Mira, m'ha tocat així, no ho sé.
+Jo diria que alcohòlics deu haver-hi els mateixos. Dubto molt que hagi baixat perquè no tinc la sensació que el consum d'alcohol hagi disminuït.
+Però tinc la sensació que on no arriben tant a la situació aquesta de cirrosis avançada que després fan les encefalopaties, no ho sé. No acabo de tenir-ho clar.
+Igual és una percepció, igual ve algú i em diu, no, hi han els mateixos d'abans, simplement a tu t'han tocat menys. Que també podria ser.
+Sí, o potser es detecten abans amb una encefalopatia grau 1 i a lo millor ja van al metge de capçalera, i el metge de capçalera ja diu, "Ostres, doncs va, pren-te deu sobres de lactulosa avui i demà i em vens a veure", 
+i a lo millor les identifiquem molt abans que vinguin a urgències, ja primària ja ho identifiquen i ho tracten i aquí s'ha acabat tota la història. Pot ser que ho identifiquem abans.
+Pot ser, pot ser.
+Molt bé. Doncs, escolta'm, tema acabat, encefalopatia hepàtica. Quan els hi veiem que les mans els hi tremolen, compte amb aquestes mans que tremolen.
+Sí. Molt bé, va, Albert, continuem endavant, va.
+Ara toca el Menys és Més.
+Ara toca el Menys és Més.
+Doncs va, pel Menys és Més d'aquest episodi també n'he buscat un relacionat amb el tema. Així com en l'episodi anterior parlàvem del vertigen i en vam trobar un que deia unes coses.
+Per aquest Menys és Més he buscat un que tingués relació amb l'encefalopatia hepàtica. I he trobat una recomanació del Choosing Wisely Canada, que també la fan el Choosing Wisely Italy, no és d'un sol país.
+La del Choosing Wisely Canada són les cinc recomanacions que els metges i els pacients han de preguntar-se sobre hepatologia.
+La primera d'aquestes és que no s'ha de demanar un amoni en sèrum per diagnosticar o tractar l'encefalopatia hepàtica. I de fet, tu no ens has parlat en cap moment.
+Suposo que antigament devia haver-hi un nivell que devien dir, si l'amoni està per sobre o per sota d'això, doncs és o no és.
+I per les poques referències que donen en aquesta recomanació del Choosing Wisely, sembla que el fet de tenir molt o poc amoni en sang no afegeix res, perquè el problema no és l'amoni en sang, sinó l'amoni al cervell.
+I com que de la barrera hematoencefàlica en sabem ben poca cosa, doncs tu pots tenir relativament poc amoni en sang, però en canvi haver-ne acumulat molt al cervell, perquè tot ha passat, per exemple, o a la inversa, no?
+Que tinguis un amoni molt alt, però no ha travessat la barrera hematoencefàlica.
+Per tant, és una d'aquestes coses que no serveix de res. És un número que el tindràs, però no canviarà res del que tu hagis de fer. Per tant, no cal que el demanis.
+Això ens ho diu Choosing Wisely Canada i també ens ho diu el Choosing Wisely Italy, que em va fer gràcia això.
+El Choosing Wisely Italy em sembla que és una recomanació de la Societat de Patologia Clínica i Medicina de Laboratori. No ve dels hepatòlegs, encara ve d'uns altres.
+Això deu ser de fa temps, aquesta recomanació deu ser de fa temps, no?
+La del Choosing Wisely Canada és del 17, l'any 2017. O sigui, home, sí, fa fa dies, fa dies ja.
+Són coses que ja a lo millor, per això jo ja no ho he trobat a la informació que he trobat perquè deu fer anys que...
+La italiana és del setembre del 23, vull dir que també és més recent, però vaja, entenc que encara deu haver-hi algú que deu intentar tirar de mesurar l'amoni.
+Molt bé, molt bé.
+I també me n'he trobat una d'interessant, dins aquestes cinc que els metges i els pacients s'han de preguntar d'hepatologia del Choosing Wisely Canada.
+Aquesta crec que és rellevant per nosaltres, que diu que no hem de transfonde de forma rutinària plasma fresc, vitamina K o plaquetes
+per revertir els tests de coagulació anormals en pacients amb cirrosi abans de fer-los-hi, doncs, la paracentesi o una endoscòpia digestiva, o una endoscòpia d'aquestes per lligar les varices esofàgiques, o altres procediments menors.
+Clar, una de les coses que ens passen amb les hepatopaties és que els nostres factors de coagulació, o almenys els que mesurem, se'n van a fer punyetes. Llavors, clar, ens espantem molt.
+Llavors, llegint el per què, en algun dels estudis que suporten aquesta recomanació, a veure com ho diu això, perquè m'ha agradat la manera que ho deia.
+Ve a dir que els pacients, especialment els cirròtics, tenen un efecte de rebalancejament del seu sistema procoagulant i anticoagulant.
+És a dir, que tu veuràs uns números merdosos, però aquest pacient, a pesar de tenir els números merdosos, està amb un cert equilibri de l'anticoagulació i la procoagulació. 
+I que si tu actues sobre això, doncs l'estàs despirulant del seu equilibri precari.
+Sí, que amb la intenció de millorar-li o donar-li una miqueta de seguretat, a lo millor l'estem inestabilitzant.
+Procoagulant massa i després ens fa alguna trombosi.
+Perquè, clar, està en aquest equilibri, no? Doncs aquesta recomanació també m'ha semblat interessant. Per almenys és més, m'he quedat amb l'altre, no demanem amoni, però aquesta m'ha semblat interessant també.
+No transfondre de forma rutinària, basant-nos en aquests tests de coagulació anormals, perquè seran anormals, però el pacient està en un equilibri. Per tant, intentem no trencar-lo.
+Això penso que ho fem més d'una vegada, eh, això de veure una INR alterat i li has de fer la paracentesi i no sé què, i posar-li una vitamina K o així. 
+No ho veig com una cosa infreqüent, eh? Crec que si ens ho miréssim ho hauríem fet més d'una vegada, eh?
+Doncs, aquestes recomanacions d'hepatologia del Choosing Wisely diu que no s'ha de fer de forma rutinària.
+Evidentment, aquestes recomanacions són molt curtes i "digui'm vostè quan haig de fer-ho", costa de trobar, i a les referències que et posen són molt escasses, eh? 
+Suposo que aquesta gent van directes al gra i ho fan curtet. No com nosaltres que ens allarguem com una persiana.
+Però almenys no fer-ho de forma sistemàtica, que això és la recomanació.
+Almenys pensar-ho.
+Què més, què més ens diuen?
+Ja està, jo aquestes són les que us volia comentar. De fet, la del Menys és Més, la que ha sortit en aquests dos minutets del Menys és Més és no demanem amoni.
+De fet, també ara estic pensant que no tinc ni idea en la meva empresa com podem demanar un amoni amb sang.
+Sí, sí, jo tampoc ho sé, no ho sé.
+Em sembla que deu ser la recomanació del Menys és Més més inútil que hem fet fins ara. No demanis una cosa que no pots demanar.
+En fi. Vinga, va, triem-ne d'aquest jardí, Xavi. Anem als UrgemMots, va.
+Dels UrgemMots, jo tenia diversos temes relacionats amb aquest tema hepàtic.
+I un era el que ja l'hem comentat abans, que era el tema de l'asterixi. L'hauríem d'escriure i dir sense la essa final, és un asterixi.
+Però segons el Termcat, aquest terme no seria el preferit del Termcat, el que hauríem d'utilitzar en primera instància, sinó que el que hauríem de fer servir és tremolor d'esbatec.
+Oi, oi. Me'n recordo, eh? Preciós aquest. Ostres, ostres, i tant. Boníssima aquesta, el tremolor d'esbatec.
+Jo perfectament em sentiria molt còmode dient-ne asterixi, i si en algun moment has d'escriure algun document molt oficial i te'n recordes i li vols posar tremolor d'esbatec, quedaràs com un rei i te donaran la...
+L'hem de fer servir, Xavi, l'hem de fer servir. Home, és boníssima aquesta, l'hem de fer servir, per favor.
+Ja, però és que si dius això i ja em miren malament, no sé, eh?
+Home, no, no. No podem dir sofraja i no dir tremolor d'esbatec, ho sento. S'han de dir tots, tots o ningú aquí.
+Va, tremolor d'esbatec, va, m'has convençut.
+Què més? Alguna vegada pots haver sentit això que hem dit de les derivacions portosistèmiques i tal, alguna vegada erròniament pots dir o sentir-ne algun shunt.
+Evidentment, en català no en diem un shunt, sinó que és una derivació. Shunt és en anglès, i aquí tenim el terme de derivació.
+Hi ha el tema dels pacients que tenen una síndrome confusionària, és un deliri. Que de vegades en direm delirium, però el delirium és en anglès o en llatí. En català és un deliri.
+I quan els pacients estan amb molta son, que costa despertar-los, un son profund, que no s'acaba de despertar completament, en diem una letargia. No és una letàrgia, perquè no porta accent, sinó que és una letargia.
+I aquí és on de vegades fem errors de pronunciació d'algun terme, perquè de vegades no diferenciem entre la paraula aguda, plana i esdrúixola. Doncs aquesta és plana, és letargia.
+I la última que volia fer era, que ja l'hem dit abans, quan parlàvem del tractament del lactulosa, érem els ènemes.
+És un ènema, és una esdrúixola i porta un accent obert a la E, és un ènema. Normalment sempre havia dit un enema, pues no, és un ènema.
+I lavativa no es pot dir en català, lavativa?
+Lavativa també es pot dir, però el Termcat prefereix que en diguem ènema.
+M'agrada més lavativa.
+Ènema o lavativa, digue-li com vulguis.
+Això d'ènema queda massa seriós, home.
+Bé, en fi. Haurem de fer cas, no podem fer cas del que ens dona la gana i dels altres no.
+I després només em faltava el de la vitamina B1. Que en podem dir també tiamina, però el terme més correcte seria vitamina B1, en lloc de tiamina.
+Molt bé, molt bé. Doncs escolta'm, aquesta tiamina, vitamina B1, anem a les recomanacions d'aquest episodi.
+Mira, la meva, aquesta vegada no té res a veure amb l'encefalopatia hepàtica.
+Bé, molt bé.
+Mira, és un lloc web, a veure com explico això.
+És un lloc web francès, ja sabeu que França és un estat centralista, jacobí, més que el Regne d'Espanya. Doncs, a pesar d'això, tenen organitzacions territorials força interessants.
+I hi ha el que n'hi diuen les xarxes d'urgències, cada regió, cada departament, perdó, té la seva xarxa d'urgències.
+Normalment es troben per fer les seves activitats docents, investigadores i tot això, com qualsevol societat territorial, no? De les moltes que tenim, jo què sé,
+ l'Acadèmia de Ciències Mèdiques, doncs té les seves delegacions comarcals, per dir una cosa, no? Doncs alguna cosa per l'estil.
+I resulta que de quatre xarxes d'urgències d'aquesta, de diferents departaments de França, ara s'han ajuntat els de la regió de l'Auvernia, de Roine-Alps, 
+han ajuntat les seves i han creat una xarxa que es diu Urgences ARA, d'Auvernia, Roine i Alps.
+Aquí la gràcia és que tenen una pila de recomanacions i de formacions dins d'aquesta pàgina, que m'ha semblat, jo ho he estat mirant una miqueta i, ostres, m'ha agradat. Aquí hi ha estona a perdre també, eh?
+En la xarxa aquesta hi ha 13 SAMU, 55 equips de suport vital avançat, 79 serveis d'urgències, 8 milions d'habitants. Mira, 8 milions d'habitants, això és com Catalunya, pràcticament. Nou centres de trauma.
+Bé, ja et dic, no sé... Ara voldria mirar per dir-vos alguna, està organitzat, doncs, per diferents, això que n'hi diuen les fileres, no? Diferents, eh, temàtiques, i la de cardíaca, que és el que a mi m'interessa, doncs tenen els seus grups.
+el de cardiologia i el d'aturada cardíaca. Llavors tu vas a mirar, doncs et diuen, mira, d'aturada cardíaca tenim totes aquestes informacions, no? Allò que han publicat de recomanacions o de investigació. N'estic veient una ara davant meu,
+Fitxa pràctica de la doble desfibril·lació seqüencial, si us sona de l'episodi de la fibril·lació ventricular refractària, doncs aquests senyors ja han fet la seva infografia
+d'on s'han de posar els pegats i com s'ha de fer, i mira, que si un desfibril·lador manual i un DEA, que si dos desfibril·ladors manuals, bé, coses així.
+És en francès, eh, ja sabeu que a l'època del ChatGPT això no és un problema.
+Jo n'he trobat alguna que me la quedo per mi i miraré a veure si la puc traduir en algun moment, si em deixen, perquè m'ha semblat interessant.
+Vinga, jo ja estic, Xavi, ara què tens tu?
+Fantàstic, molt bé, Albert, molt interessant.
+Jo tenia, mira, seguint amb el mateix tema d'hepatologia o digestologia,
+hi ha la pàgina web de la Societat Catalana de Digestologia, scdigestologia.org, tenen un document que se'n diuen documents de posicionament.
+I el que fan és... Depèn de l'any, no? Hi han anys que han fet tres documents, hi han anys que n'han fet set o vuit, i alguns que només n'han fet dos.
+Es reuneixen, fan un grup que s'especialitza amb un tema i al cap d'uns mesos escriuen un document de posicionament, que diu, què pensa la Societat Catalana de Digestologia sobre l'hemorràgia digestiva baixa? 
+I et fan un breu resum sobre el maneig, el tractament, les complicacions i tot el que hauríem de fer amb l'hemorràgia digestiva baixa.
+Ho he descobert perquè fan un seminari online i els que han preparat aquest document l'expliquen. I després hi ha digestòlegs de tot Catalunya que ho escolten i després fan preguntes i no sé què.
+I això ho fan cada vegada que fan un document d'aquests, o no sé si ho fan per altres raons un cop al mes o es reuneixen així online. I jo vaig anar-hi perquè ens van avisar els digestòlegs de que feien sobre l'hemorràgia digestiva baixa i em va semblar interessant anar-hi.
+I a resultes d'això, vaig descobrir que hi havia aquesta pàgina web d'aquests documents de posicionament. Hi ha molts que a nivell d'urgències no ens interessen, perquè són patologies que no veiem a urgències o no les tractem.
+Però n'hi han algunes que sí, no? Com l'hemorràgia digestiva baixa, l'hemorràgia digestiva alta que no sigui deguda a hipertensió portal,
+temes que hem de tenir en compte de riscos, indicacions de colonoscòpia en pacients d'edat avançada, de colonoscòpia o de gastroscòpia.
+Entendre per què de vegades els digestòlegs ens diuen que no li volen fer una endoscòpia a una persona per determinats factors. Entendre el per què.
+També hi ha algun de insuficiència hepàtica aguda, malalties vasculars hepàtiques, d'hepatitis agudes, de pancreatitis. I hi han diversos temes que sí que ens afecten a urgències.
+Jo em vaig llegir atentament el de l'hemorràgia digestiva baixa i em va semblar interessant. I per tant, penso que la resta també ens pot servir com a font de consulta interessant per temes de digestologia.
+I fet per digestòlegs d'aquí i que segurament el maneig que ens expliquen és el que podem fer en aquí, depenent de l'hospital, si estàs en un comarcal o estàs en un hospital més gran o on estiguis. És interessant, crec.
+Jo, mira, ja me l'estic començant a mirar. Tinc un cert interès amb l'hemorràgia digestiva alta i la sonda nasogàstrica. Com ja havia sortit en algun Menys és Més antic, anirem a buscar-lo, a veure què diuen.
+Segur que es van escoltar el nostre pòdcast i ja ens van fer cas, Albert.
+ Em sembla que més aviat podria ser al revés, però d'acord. Compro.
+Doncs escolta'm, ja està, no? Ja hem acabat el tema aquest de l'encefalopatia hepàtica. Ens hem enrotllat com una persiana. Com fem habitualment, acabem aquí.
+Recordem als nostres oients, com sempre, que ens poden contactar al nostre grup de Telegram. Ja hem passat dels 120 i no sé quants.
+Fa unes setmanes vaig penjar una juguesca d'una tira de ritme d'un electro que va resultar que no era tan fàcil com jo em pensava i vaig acabar gravant un vídeo per explicar-ho.
+Si? i on és això? Ja ho has penjat o no?
+Està al grup de Telegram, sí, sí. Probablement, si no ho vas veure en el seu moment, ho tens bastant enrere ja, eh? Perquè fa unes quantes setmanes ja. Quan es publicarà aquest episodi, farà unes quantes setmanes que es va publicar això altre.
+Aniré bastant enrere, d'acord. Molt bé.
+Els oients que veu veure això, a veure si us sembla interessant i si voleu que en fem més.
+Molt bé, molt bé.
+I jo repeteixo lo mateix de sempre, que si hi ha algú que li sembla que té un tema interessant a explicar, si vol contactar amb nosaltres, de la forma, de vegades ja ens coneixeu perquè ens veiem als hospitals o ens veiem, o pel Telegram o per on sigui,
+ens ho dieu i parlem i concretem un dia i podeu gravar des de casa, no cal que us desplaceu. Amb una horeta que hi dediquem o tres quarts d'hora ho tenim fet.
+No ha vingut encara cap tècnic d'emergències sanitàries. 
+Això estaria molt bé.
+Escolta'm, segur que teniu coses interessants a explicar. Si deixeu que les expliquem els que no som tècnics, doncs, eh, després no us queixeu que diem barbaritats, que en diem unes quantes.
+Sí, sí, sí, esteu totalment convidats i i estem pendents que ens digueu alguna cosa.
+Molt bé. Vinga, va, família, ens veiem, que vagi molt bé.
+Vale, Albert.
+Apa, adéu.
+Ens veiem. Adéu.
+  Reba... Rebalance...  Rebalanceja... Eeeg Rebalance.... 
