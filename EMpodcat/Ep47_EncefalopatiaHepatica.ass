@@ -8,9 +8,10 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
+Export Encoding: South European (ISO-8859-3)
 Audio File: Ep47_EncefalopatiaHepatica.mp3
-Scroll Position: 365
-Active Line: 369
+Scroll Position: 337
+Active Line: 339
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,7 +116,7 @@ Dialogue: 0,0:12:09.82,0:12:20.10,Xavier,,0,0,0,,Si no les identifiquem i per ta
 Dialogue: 0,0:12:20.43,0:12:28.78,Xavier,,0,0,0,,Quins són els factors o les patologies que inestabilitzen aquesta funció hepàtica i fa que s'acumuli més amoníac i més intoxicació al sistema nerviós central?
 Dialogue: 0,0:12:28.99,0:12:30.88,Xavier,,0,0,0,,Per exemple, molt freqüentment les infeccions.
 Dialogue: 0,0:12:31.22,0:12:38.44,Xavier,,0,0,0,,Quines? Molt freqüentment una peritonitis bacteriana espontània, les pneumònies, les infeccions urinàries i infeccions del sistema nerviós central.
-Dialogue: 0,0:12:38.79,0:12:47.34,Xavier,,0,0,0,,Per tant, en aquests pacients, sempre se'ls hi ha de fer alguna cosa, sigui l'anamnesi, sigui l'exploració física, o siguin les proves complementàries, 
+Dialogue: 0,0:12:38.79,0:12:47.34,Xavier,,0,0,0,,Per tant, en aquests pacients, sempre se'ls hi ha de fer alguna cosa, sigui l'anamnesi, sigui l'exploració física, o siguin les proves complementàries,
 Dialogue: 0,0:12:47.45,0:12:55.39,Xavier,,0,0,0,,les bàsiques i indispensables perquè dintre d'una coherència puguem descartar una peritonitis bacteriana espontània.
 Dialogue: 0,0:12:55.39,0:13:06.73,Xavier,,0,0,0,,Per tant, aquest pacient, sempre sempre, a urgències li hauríem de fer una eco abdominal a peu de llit, per veure si té líquid lliure intraabdominal. I això ho sabem fer-ho tots, posar-li el transductor i veure que no té líquid.
 Dialogue: 0,0:13:06.87,0:13:17.11,Xavier,,0,0,0,,Si té líquid, després ja veurem, decidirem en funció de mil coses si l'hem de punxar o no l'hem de punxar i analitzar-lo, que seria la recomanació. Però com a mínim fer-li una eco i veure que no té líquid lliure.
@@ -124,8 +125,8 @@ Dialogue: 0,0:13:20.83,0:13:25.28,Xavier,,0,0,0,,Sí. Home, si n'hi ha molt molt
 Dialogue: 0,0:13:25.34,0:13:28.34,Albert,,0,0,0,,Però si n'hi ha molt molt poc, llavors potser segurament no t'has de plantejar si el punxes, no?
 Dialogue: 0,0:13:28.37,0:13:29.88,Xavier,,0,0,0,,Exacte, has de buscar una altra causa.
 Dialogue: 0,0:13:30.07,0:13:42.83,Xavier,,0,0,0,,Però vull dir que això hauria de ser imprescindible en tot pacient amb una encefalopatia hepàtica, no pot ingressar o no pot marxar d'urgències cap a no sé on, sense que se li hagi descartat la presència d'una ascites.
-Dialogue: 0,0:13:43.40,0:13:53.02,Xavier,,0,0,0,,Una placa de tòrax. També podries dir, no, és que si satura 99, respira 12 per minut, l'auscultació és perfecta i no té cap clínica de res de res respiratòria, 
-Dialogue: 0,0:13:53.08,0:14:00.91,Xavier,,0,0,0,,i a més a més també pots fer una eco per veure si hi ha algun indici d'alguna pneumònia o el que sigui, també es podria estalviar la placa de tòrax. 
+Dialogue: 0,0:13:43.40,0:13:53.02,Xavier,,0,0,0,,Una placa de tòrax. També podries dir, no, és que si satura 99, respira 12 per minut, l'auscultació és perfecta i no té cap clínica de res de res respiratòria,
+Dialogue: 0,0:13:53.08,0:14:00.91,Xavier,,0,0,0,,i a més a més també pots fer una eco per veure si hi ha algun indici d'alguna pneumònia o el que sigui, també es podria estalviar la placa de tòrax.
 Dialogue: 0,0:14:01.05,0:14:06.88,Xavier,,0,0,0,,Però bé, podríem fer una placa de tòrax almenys per estar segurs de que almenys radiològicament no hi ha una pneumònia.
 Dialogue: 0,0:14:06.88,0:14:10.62,Xavier,,0,0,0,,Infeccions d'orina, és important en aquestes persones descartar-les.
 Dialogue: 0,0:14:10.82,0:14:16.94,Xavier,,0,0,0,,Amb una altra persona poder no és tan important, però aquí sí que és una causa freqüent de desencadenar l'encefalopatia,
@@ -147,26 +148,26 @@ Dialogue: 0,0:15:50.59,0:15:58.77,Albert,,0,0,0,,Això no m'havia acudit el per 
 Dialogue: 0,0:15:58.94,0:15:59.80,Xavier,,0,0,0,,Exacte, sí, sí.
 Dialogue: 0,0:15:59.82,0:16:04.20,Xavier,,0,0,0,,Sí, després el fetge no filtra, tot aquell amoni el tindràs enganxat en els astròcits del cervell.
 Dialogue: 0,0:16:04.33,0:16:14.91,Xavier,,0,0,0,,Per tant, a tot pacient amb encefalopatia hepàtica que no tinguis una altra causa, s'han de descartar l'hemorràgia gastrointestinal. Per tant, gairebé tots aquests pacients hauríem de descartar la presència de melenes.
-Dialogue: 0,0:16:14.91,0:16:22.42,Xavier,,0,0,0,,Per tant, has de tindre una raó molt important per no haver fet un tacte rectal en aquest pacient. I és possible que això no ho fem de forma sistemàtica. 
-Dialogue: 0,0:16:22.60,0:16:30.96,Xavier,,0,0,0,,Per tant, tacte rectal o fes el que vulguis, però descarta melenes, descarta hematèmesi, descarta rectorràgies, descarta lo que vulguis. 
-Dialogue: 0,0:16:31.00,0:16:40.40,Albert,,0,0,0,,Allò de mirar la sang en caques que deies tu, no sé quin episodi, no, eh? Hem de mirar que sigui melena, que hi hagi sang de veritat, no la merda aquella que et surt del, quan envies la merda al laboratori. 
+Dialogue: 0,0:16:14.91,0:16:22.42,Xavier,,0,0,0,,Per tant, has de tindre una raó molt important per no haver fet un tacte rectal en aquest pacient. I és possible que això no ho fem de forma sistemàtica.
+Dialogue: 0,0:16:22.60,0:16:30.96,Xavier,,0,0,0,,Per tant, tacte rectal o fes el que vulguis, però descarta melenes, descarta hematèmesi, descarta rectorràgies, descarta lo que vulguis.
+Dialogue: 0,0:16:31.00,0:16:40.40,Albert,,0,0,0,,Allò de mirar la sang en caques que deies tu, no sé quin episodi, no, eh? Hem de mirar que sigui melena, que hi hagi sang de veritat, no la merda aquella que et surt del, quan envies la merda al laboratori.
 Dialogue: 0,0:16:40.40,0:16:45.40,Xavier,,0,0,0,,Exacte. Sí, sí. Això no hauria d'estar en el... Com a mínim a urgències no hi hauria de ser-hi aquesta eina.
-Dialogue: 0,0:16:45.40,0:16:57.96,Xavier,,0,0,0,,Què més? Alteracions hidroelectrolítiques. Per exemple, més freqüents relacionades amb això és la hiponatrèmia, que és un factor de risc independent per fer encefalopatia hepàtica en el pacient cirròtic. És una cosa a tenir molt en compte la hiponatrèmia. 
+Dialogue: 0,0:16:45.40,0:16:57.96,Xavier,,0,0,0,,Què més? Alteracions hidroelectrolítiques. Per exemple, més freqüents relacionades amb això és la hiponatrèmia, que és un factor de risc independent per fer encefalopatia hepàtica en el pacient cirròtic. És una cosa a tenir molt en compte la hiponatrèmia.
 Dialogue: 0,0:16:57.96,0:17:08.40,Xavier,,0,0,0,,Lògicament, a totes aquestes persones ja els hi farem una analítica i un sodi, un potassi, això ja li farem. Això és fàcil d'identificar. Però si ho identifiquem, alerta perquè això és un factor de risc importantíssim, la hiponatrèmia.
 Dialogue: 0,0:17:08.40,0:17:20.96,Xavier,,0,0,0,,També la hipopotasèmia, la deshidratació i l'alcalosi metabòlica. Aquestes alteracions hidroelectrolítiques estan molt relacionades com a desencadenants de l'encefalopatia hepàtica. La hiponatrèmia, la hipopotasèmia, l'alcalosi i la deshidratació.
 Dialogue: 0,0:17:20.96,0:17:23.84,Albert,,0,0,0,,A més a més del mal que et poden fer ja cadascuna d'elles individualment, no?
-Dialogue: 0,0:17:23.84,0:17:37.40,Xavier,,0,0,0,,Exacte, sí, sí, sí. Què més? Ús excessiu de diürètics, perquè facilita que el pacient estigui deshidratat, ja acabem de dir que la deshidratació és un factor desencadenant, i també perquè molts diürètics, per no dir tots, alteren els electròlits. 
+Dialogue: 0,0:17:23.84,0:17:37.40,Xavier,,0,0,0,,Exacte, sí, sí, sí. Què més? Ús excessiu de diürètics, perquè facilita que el pacient estigui deshidratat, ja acabem de dir que la deshidratació és un factor desencadenant, i també perquè molts diürètics, per no dir tots, alteren els electròlits.
 Dialogue: 0,0:17:37.40,0:17:45.64,Xavier,,0,0,0,,Per tant, sodi, potassi, tot això poden estar alterats. Per tant, gent que pel motiu que sigui se'ls hi hagi augmentat la dosi de diürètics, podria ser la causa desencadenant.
 Dialogue: 0,0:17:45.64,0:17:51.68,Xavier,,0,0,0,,Com també ho podrien ser l'ús de benzodiazepines o de qualsevol sedant, i la de drogues recreatives.
 Dialogue: 0,0:17:51.68,0:18:04.76,Xavier,,0,0,0,,Per tant, en cas que no identifiquem cap causa desencadenant, uns tòxics en orina, que cada vegada ens diuen més que no els fem de forma sistemàtica i que tenen molts falsos positius, molts falsos negatius, etcètera.
 Dialogue: 0,0:18:04.76,0:18:09.76,Xavier,,0,0,0,,En aquesta persona que no sabem d'on li ve això, penso que estaria ben indicat demanar-ho.
 Dialogue: 0,0:18:09.76,0:18:22.32,Xavier,,0,0,0,,Altres causes desencadenants, el restrenyiment. Si tens restrenyiment, tots els productes de degradació dels nitrogenats i no sé què, l'amoni s'acumula a l'intestí i l'acabes absorbint si no l'expulses defecant.
-Dialogue: 0,0:18:22.32,0:18:26.32,Xavier,,0,0,0,,Per tant, el restrenyiment està molt molt relacionat amb l'encefalopatia hepàtica. 
+Dialogue: 0,0:18:22.32,0:18:26.32,Xavier,,0,0,0,,Per tant, el restrenyiment està molt molt relacionat amb l'encefalopatia hepàtica.
 Dialogue: 0,0:18:26.32,0:18:37.40,Xavier,,0,0,0,,Què més? També la insuficiència renal, perquè si el filtratge glomerular disminueix, no s'eliminen els tòxics i hi ha més alteracions hidroelectrolítiques i fas més encefalopatia hepàtica.
 Dialogue: 0,0:18:37.40,0:18:46.40,Xavier,,0,0,0,,Després, si estàs començant o s'està desenvolupant al teu organisme un carcinoma hepatocel·lular, pues el desenvolupament d'aquest carcinoma també pot ser un desencadenant de l'encefalopatia.
 Dialogue: 0,0:18:46.40,0:19:01.48,Xavier,,0,0,0,,Després, sobretot en gent gran, bé, o que no sigui gran, la sarcopènia, la pèrdua de massa muscular, la musculatura actua com un sistema de desintoxicació una miqueta de l'amoni, i per tant, el fet de tindre molt poca massa muscular facilita que s'acumuli l'amoni.
 Dialogue: 0,0:19:01.48,0:19:11.48,Xavier,,0,0,0,,Hi ha alguns tipus de fàrmacs, com per exemple el valproat sòdic o els inhibidors de la bomba de protons, que també poden estar relacionats amb desencadenar l'encefalopatia hepàtica.
-Dialogue: 0,0:19:11.48,0:19:13.92,Xavier,,0,0,0,,El valproat i els IBP. 
+Dialogue: 0,0:19:11.48,0:19:13.92,Xavier,,0,0,0,,El valproat i els IBP.
 Dialogue: 0,0:19:13.92,0:19:20.08,Albert,,0,0,0,,O sigui, que si tens alguna insuficiència hepàtica, donar-li omeprazole potser no és gaire bona idea, no?
 Dialogue: 0,0:19:20.24,0:19:27.80,Xavier,,0,0,0,, No és bona idea, no. Els IBP en pacients amb cirrosi i amb ascites, s'ha vist que és un factor de risc per fer encefalopatia hepàtica.
 Dialogue: 0,0:19:27.80,0:19:35.84,Xavier,,0,0,0,,Què més? Dèficit de zinc, no sé si ara per quin motiu podríem tindre un dèficit de... ara no sé si es diu zinc o zenc.
@@ -202,7 +203,7 @@ Dialogue: 0,0:22:43.56,0:22:45.76,Xavier,,0,0,0,,Això també ho veurem després
 Dialogue: 0,0:22:45.86,0:22:47.57,Albert,,0,0,0,,Què dius ara? També se'ls ha de tocar?
 Dialogue: 0,0:22:48.64,0:22:50.01,Xavier,,0,0,0,,Sí, acostar-t'hi és bo també.
 Dialogue: 0,0:22:50.50,0:22:58.18,Xavier,,0,0,0,,L'anamnesi també ens pot ajudar pel que hem dit abans de la severitat de l'encefalopatia hepàtica, per saber si estem en un grau 1, 2, 3 o 4.
-Dialogue: 0,0:22:58.55,0:23:07.28,Xavier,,0,0,0,,Doncs preguntar, no? Ha tingut canvis d'humor? Està més irritable? Està més impacient? Té hiporèxia? Té inestabilitat a la marxa? Cau freqüentment? 
+Dialogue: 0,0:22:58.55,0:23:07.28,Xavier,,0,0,0,,Doncs preguntar, no? Ha tingut canvis d'humor? Està més irritable? Està més impacient? Té hiporèxia? Té inestabilitat a la marxa? Cau freqüentment?
 Dialogue: 0,0:23:07.28,0:23:14.21,Xavier,,0,0,0,,Dorm de dia i de nit està despert? No sé, està intranquil? Està desorientat? Tot això ho fem preguntant al pacient i a qui sigui.
 Dialogue: 0,0:23:14.79,0:23:18.68,Xavier,,0,0,0,,I també l'anamnesi ens ha d'ajudar això que hem explicat abans dels factors desencadenants.
 Dialogue: 0,0:23:18.81,0:23:26.56,Xavier,,0,0,0,,Si pren més fàrmacs, si pel que sigui se li ha augmentat els diürètics o les benzos per dormir o pel que sigui se li ha donat un IBP,
@@ -217,7 +218,7 @@ Dialogue: 0,0:24:20.21,0:24:24.24,Xavier,,0,0,0,,I lògicament utilitzar una esc
 Dialogue: 0,0:24:24.36,0:24:34.74,Xavier,,0,0,0,,Mirar si està taquipnèic, per exemple, i el que hem dit abans del tacte rectal per descartar hemorràgies digestives. En l'exploració física, entre moltes coses que pots fer, m'ha semblat important parlar d'aquestes quatre coses.
 Dialogue: 0,0:24:37.18,0:24:39.79,Albert,,0,0,0,,Si algú no sap com fer el Glasgow, tenim un episodi que en parlem.
 Dialogue: 0,0:24:40.72,0:24:43.60,Xavier,,0,0,0,,Em pensava que deies si algú no sap com fer el tacte rectal.
-Dialogue: 0,0:24:43.60,0:24:45.52,Albert,,0,0,0,,Bé, doncs... 
+Dialogue: 0,0:24:43.60,0:24:45.52,Albert,,0,0,0,,Bé, doncs...
 Dialogue: 0,0:24:45.52,0:24:55.84,Xavier,,0,0,0,,Podríem fer, podríem fer un episodi, sí, també. Després la gent que ens està escoltant diran, aquests dos, aquests dos han perdut el senderi, eh?
 Dialogue: 0,0:24:55.99,0:24:58.08,Albert,,0,0,0,,Ja fa dies.
 Dialogue: 0,0:24:58.36,0:24:59.68,Xavier,,0,0,0,,Què més volíem dir?
@@ -234,7 +235,7 @@ Dialogue: 0,0:26:03.87,0:26:07.28,Xavier,,0,0,0,,Després, també pots tindre en
 Dialogue: 0,0:26:07.35,0:26:16.80,Xavier,,0,0,0,,L'alcohol, per exemple, sigui una intoxicació alcohòlica aguda, sigui un delirium tremens, o sigui una encefalopatia de Wernicke, que són els que tenen dèficit de vitamina B1.
 Dialogue: 0,0:26:16.88,0:26:27.32,Xavier,,0,0,0,,D'això ja en vam parlar també un episodi, de les persones amb malnutrició, alcoholisme crònic, que tenen dèficits de vitamina B1 i que els hi donem de menjar o glucosa endovenosa o el que sigui, hem de vigilar amb aquests pacients,
 Dialogue: 0,0:26:27.32,0:26:40.00,Xavier,,0,0,0,,perquè si no ho identifiquem, doncs això es pot convertir en una psicosi de Korsakoff i això ja és crònic. I te queda el pacient amb dèficit de memòria i amb confabulacions, i el pacient està amb una psicosi de forma crònica.
-Dialogue: 0,0:26:40.00,0:26:50.28,Xavier,,0,0,0,,Per tant, hem de pensar-hi amb aquestes causes relacionades amb l'alcohol, per abús, per síndrome d'abstinència o per un Wernicke. I fàrmacs sedants, benzos que afecten el sistema nerviós central. Això ja ho hem dit. 
+Dialogue: 0,0:26:40.00,0:26:50.28,Xavier,,0,0,0,,Per tant, hem de pensar-hi amb aquestes causes relacionades amb l'alcohol, per abús, per síndrome d'abstinència o per un Wernicke. I fàrmacs sedants, benzos que afecten el sistema nerviós central. Això ja ho hem dit.
 Dialogue: 0,0:26:50.28,0:27:03.64,Xavier,,0,0,0,,Causes intracranials, causes estructurals. Pacient amb encefalitis, abscessos, meningitis, pacients amb traumatismes, tumors, neoplàsies cerebrals, amb ictus, sigui hemorràgic o isquèmic, subdural, o una epilèpsia no convulsiva.
 Dialogue: 0,0:27:04.05,0:27:11.21,Xavier,,0,0,0,,Causes estructurals neurològiques també poden ser motiu del pacient cirròtic et vingui amb una alteració del sistema nerviós central. S'ha de descartar això.
 Dialogue: 0,0:27:11.36,0:27:18.61,Xavier,,0,0,0,,També pacients amb apnea obstructiva del son. Això ho veig una mica més difícil de confondre perquè normalment el pacient porta molt temps que s'adorm durant el dia, no?
@@ -272,7 +273,7 @@ Dialogue: 0,0:32:02.59,0:32:15.34,Xavier,,0,0,0,,Això tampoc és una recomanaci
 Dialogue: 0,0:32:15.58,0:32:17.44,Albert,,0,0,0,,Ja els hi tornaran a posar ells quan faci falta.
 Dialogue: 0,0:32:17.44,0:32:26.44,Xavier,,0,0,0,,Quan ja estigui recuperat de l'encefalopatia i tal, ja els hi tornaran a posar. Però la nostra feina és ingressar-los sense els seus diürètics de base.
 Dialogue: 0,0:32:26.88,0:32:37.40,Xavier,,0,0,0,,I jo penso que ja està. Resum final: l'encefalopatia hepàtica ès un diagnòstic d'exclusió. Primer cal descartar altres causes d'alteracions neurològiques, altres causes d'encefalopatia.
-Dialogue: 0,0:32:37.62,0:32:47.20,Xavier,,0,0,0,,Buscar els factors desencadenants, sobretot infeccions, hemorràgies. Aquestes quatre coses que hem dit de més a més, de fer uns hemocultius en fred, encara que no tingui febre, 
+Dialogue: 0,0:32:37.62,0:32:47.20,Xavier,,0,0,0,,Buscar els factors desencadenants, sobretot infeccions, hemorràgies. Aquestes quatre coses que hem dit de més a més, de fer uns hemocultius en fred, encara que no tingui febre,
 Dialogue: 0,0:32:47.20,0:32:54.66,Xavier,,0,0,0,,el tacte rectal, la eco a peu de llit per la PBE, una placa de tòrax per la pneumònia i descartar infeccions urinàries.
 Dialogue: 0,0:32:54.66,0:33:05.36,Xavier,,0,0,0,,I classificar correctament o etiquetar aquesta encefalopatia. Si és de tipus A, B o C, si és de grau 1, 2, 3, 4, si és recurrent, episòdica o persistent, i el desencadenant.
 Dialogue: 0,0:33:05.60,0:33:13.85,Xavier,,0,0,0,,Això és el que hauríem de dir quan posem orientació diagnòstica: encefalopatia hepàtica tipus C, grau 2, recurrent i desencadenada per una ITU.
@@ -281,7 +282,7 @@ Dialogue: 0,0:33:18.54,0:33:28.28,Albert,,0,0,0,,Molt bé. Jo al principi et dei
 Dialogue: 0,0:33:28.32,0:33:33.48,Albert,,0,0,0,,Jo diria que alcohòlics deu haver-hi els mateixos. Dubto molt que hagi baixat perquè no tinc la sensació que el consum d'alcohol hagi disminuït.
 Dialogue: 0,0:33:33.80,0:33:41.91,Albert,,0,0,0,,Però tinc la sensació que on no arriben tant a la situació aquesta de cirrosis avançada que després fan les encefalopaties, no ho sé. No acabo de tenir-ho clar.
 Dialogue: 0,0:33:41.91,0:33:47.20,Albert,,0,0,0,,Igual és una percepció, igual ve algú i em diu, no, hi han els mateixos d'abans, simplement a tu t'han tocat menys. Que també podria ser.
-Dialogue: 0,0:33:47.24,0:34:00.16,Xavier,,0,0,0,,Sí, o potser es detecten abans amb una encefalopatia grau 1 i a lo millor ja van al metge de capçalera, i el metge de capçalera ja diu, "Ostres, doncs va, pren-te deu sobres de lactulosa avui i demà i em vens a veure", 
+Dialogue: 0,0:33:47.24,0:34:00.16,Xavier,,0,0,0,,Sí, o potser es detecten abans amb una encefalopatia grau 1 i a lo millor ja van al metge de capçalera, i el metge de capçalera ja diu, "Ostres, doncs va, pren-te deu sobres de lactulosa avui i demà i em vens a veure",
 Dialogue: 0,0:34:00.16,0:34:07.72,Xavier,,0,0,0,,i a lo millor les identifiquem molt abans que vinguin a urgències, ja primària ja ho identifiquen i ho tracten i aquí s'ha acabat tota la història. Pot ser que ho identifiquem abans.
 Dialogue: 0,0:34:07.83,0:34:08.36,Albert,,0,0,0,,Pot ser, pot ser.
 Dialogue: 0,0:34:08.46,0:34:15.56,Albert,,0,0,0,,Molt bé. Doncs, escolta'm, tema acabat, encefalopatia hepàtica. Quan els hi veiem que les mans els hi tremolen, compte amb aquestes mans que tremolen.
@@ -310,16 +311,16 @@ Dialogue: 0,0:36:25.16,0:36:37.72,Albert,,0,0,0,,per revertir els tests de coagu
 Dialogue: 0,0:36:37.84,0:36:45.94,Albert,,0,0,0,,Clar, una de les coses que ens passen amb les hepatopaties és que els nostres factors de coagulació, o almenys els que mesurem, se'n van a fer punyetes. Llavors, clar, ens espantem molt.
 Dialogue: 0,0:36:46.10,0:36:53.12,Albert,,0,0,0,,Llavors, llegint el per què, en algun dels estudis que suporten aquesta recomanació, a veure com ho diu això, perquè m'ha agradat la manera que ho deia.
 Dialogue: 0,0:36:53.60,0:37:00.16,Albert,,0,0,0,,Ve a dir que els pacients, especialment els cirròtics, tenen un efecte de rebalancejament del seu sistema procoagulant i anticoagulant.
-Dialogue: 0,0:37:00.20,0:37:07.24,Albert,,0,0,0,,És a dir, que tu veuràs uns números merdosos, però aquest pacient, a pesar de tenir els números merdosos, està amb un cert equilibri de l'anticoagulació i la procoagulació. 
+Dialogue: 0,0:37:00.20,0:37:07.24,Albert,,0,0,0,,És a dir, que tu veuràs uns números merdosos, però aquest pacient, a pesar de tenir els números merdosos, està amb un cert equilibri de l'anticoagulació i la procoagulació.
 Dialogue: 0,0:37:07.28,0:37:12.36,Albert,,0,0,0,,I que si tu actues sobre això, doncs l'estàs {\i1}despirulant{\i0} del seu equilibri precari.
 Dialogue: 0,0:37:12.24,0:37:18.28,Xavier,,0,0,0,,Sí, que amb la intenció de millorar-li o donar-li una miqueta de seguretat, a lo millor l'estem inestabilitzant.
 Dialogue: 0,0:37:18.32,0:37:20.48,Albert,,0,0,0,,Procoagulant massa i després ens fa alguna trombosi.
 Dialogue: 0,0:37:20.48,0:37:27.92,Albert,,0,0,0,,Perquè, clar, està en aquest equilibri, no? Doncs aquesta recomanació també m'ha semblat interessant. Per almenys és més, m'he quedat amb l'altre, no demanem amoni, però aquesta m'ha semblat interessant també.
 Dialogue: 0,0:37:28.32,0:37:36.60,Albert,,0,0,0,,No transfondre de forma rutinària, basant-nos en aquests tests de coagulació anormals, perquè seran anormals, però el pacient està en un equilibri. Per tant, intentem no trencar-lo.
-Dialogue: 0,0:37:36.64,0:37:45.48,Xavier,,0,0,0,,Això penso que ho fem més d'una vegada, eh, això de veure una INR alterat i li has de fer la paracentesi i no sé què, i posar-li una vitamina K o així. 
+Dialogue: 0,0:37:36.64,0:37:45.48,Xavier,,0,0,0,,Això penso que ho fem més d'una vegada, eh, això de veure una INR alterat i li has de fer la paracentesi i no sé què, i posar-li una vitamina K o així.
 Dialogue: 0,0:37:45.60,0:37:50.96,Xavier,,0,0,0,,No ho veig com una cosa infreqüent, eh? Crec que si ens ho miréssim ho hauríem fet més d'una vegada, eh?
 Dialogue: 0,0:37:51.12,0:37:57.52,Albert,,0,0,0,,Doncs, aquestes recomanacions d'hepatologia del {\i1}Choosing Wisely{\i0} diu que no s'ha de fer de forma rutinària.
-Dialogue: 0,0:37:57.53,0:38:04.28,Albert,,0,0,0,,Evidentment, aquestes recomanacions són molt curtes i "digui'm vostè quan haig de fer-ho", costa de trobar, i a les referències que et posen són molt escasses, eh? 
+Dialogue: 0,0:37:57.53,0:38:04.28,Albert,,0,0,0,,Evidentment, aquestes recomanacions són molt curtes i "digui'm vostè quan haig de fer-ho", costa de trobar, i a les referències que et posen són molt escasses, eh?
 Dialogue: 0,0:38:04.28,0:38:09.47,Albert,,0,0,0,,Suposo que aquesta gent van directes al gra i ho fan curtet. No com nosaltres que ens allarguem com una persiana.
 Dialogue: 0,0:38:09.47,0:38:12.68,Xavier,,0,0,0,,Però almenys no fer-ho de forma sistemàtica, que això és la recomanació.
 Dialogue: 0,0:38:12.79,0:38:13.65,Albert,,0,0,0,,Almenys pensar-ho.
@@ -360,8 +361,8 @@ Dialogue: 0,0:41:24.26,0:41:31.16,Albert,,0,0,0,,És un lloc web francès, ja sa
 Dialogue: 0,0:41:31.20,0:41:37.52,Albert,,0,0,0,,I hi ha el que n'hi diuen les xarxes d'urgències, cada regió, cada departament, perdó, té la seva xarxa d'urgències.
 Dialogue: 0,0:41:37.99,0:41:45.28,Albert,,0,0,0,,Normalment es troben per fer les seves activitats docents, investigadores i tot això, com qualsevol societat territorial, no? De les moltes que tenim, jo què sé,
 Dialogue: 0,0:41:45.28,0:41:50.71,Albert,,0,0,0,, l'Acadèmia de Ciències Mèdiques, doncs té les seves delegacions comarcals, per dir una cosa, no? Doncs alguna cosa per l'estil.
-Dialogue: 0,0:41:50.71,0:41:58.88,Albert,,0,0,0,,I resulta que de quatre xarxes d'urgències d'aquesta, de diferents departaments de França, ara s'han ajuntat els de la regió de l'Auvernia, de Roine-Alps, 
-Dialogue: 0,0:41:58.92,0:42:05.82,Albert,,0,0,0,,han ajuntat les seves i han creat una xarxa que es diu Urgences ARA, d'Auvernia, Roine i Alps.
+Dialogue: 0,0:41:50.71,0:41:58.88,Albert,,0,0,0,,I resulta que de quatre xarxes d'urgències d'aquestes, de diferents departaments de França, ara s'han ajuntat els de la regió de l'Alvèrnia, de Roine-Alps,
+Dialogue: 0,0:41:58.92,0:42:05.82,Albert,,0,0,0,,han ajuntat les seves i han creat una xarxa que es diu Urgences ARA, d'Alvèrnia, Roine i Alps.
 Dialogue: 0,0:42:05.82,0:42:16.37,Albert,,0,0,0,,Aquí la gràcia és que tenen una pila de recomanacions i de formacions dins d'aquesta pàgina, que m'ha semblat, jo ho he estat mirant una miqueta i, ostres, m'ha agradat. Aquí hi ha estona a perdre també, eh?
 Dialogue: 0,0:42:16.78,0:42:27.80,Albert,,0,0,0,,En la xarxa aquesta hi ha 13 SAMU, 55 equips de suport vital avançat, 79 serveis d'urgències, 8 milions d'habitants. Mira, 8 milions d'habitants, això és com Catalunya, pràcticament. Nou centres de trauma.
 Dialogue: 0,0:42:28.13,0:42:39.76,Albert,,0,0,0,,Bé, ja et dic, no sé... Ara voldria mirar per dir-vos alguna, està organitzat, doncs, per diferents, això que n'hi diuen les fileres, no? Diferents, eh, temàtiques, i la de cardíaca, que és el que a mi m'interessa, doncs tenen els seus grups.
@@ -375,7 +376,7 @@ Dialogue: 0,0:43:17.56,0:43:19.16,Xavier,,0,0,0,,Fantàstic, molt bé, Albert, m
 Dialogue: 0,0:43:19.53,0:43:24.90,Xavier,,0,0,0,,Jo tenia, mira, seguint amb el mateix tema d'hepatologia o digestologia,
 Dialogue: 0,0:43:25.24,0:43:35.40,Xavier,,0,0,0,,hi ha la pàgina web de la Societat Catalana de Digestologia, scdigestologia.org, tenen un document que se'n diuen documents de posicionament.
 Dialogue: 0,0:43:35.80,0:43:43.55,Xavier,,0,0,0,,I el que fan és... Depèn de l'any, no? Hi han anys que han fet tres documents, hi han anys que n'han fet set o vuit, i alguns que només n'han fet dos.
-Dialogue: 0,0:43:43.80,0:43:55.00,Xavier,,0,0,0,,Es reuneixen, fan un grup que s'especialitza amb un tema i al cap d'uns mesos escriuen un document de posicionament, que diu, què pensa la Societat Catalana de Digestologia sobre l'hemorràgia digestiva baixa? 
+Dialogue: 0,0:43:43.80,0:43:55.00,Xavier,,0,0,0,,Es reuneixen, fan un grup que s'especialitza amb un tema i al cap d'uns mesos escriuen un document de posicionament, que diu, què pensa la Societat Catalana de Digestologia sobre l'hemorràgia digestiva baixa?
 Dialogue: 0,0:43:55.04,0:44:01.99,Xavier,,0,0,0,,I et fan un breu resum sobre el maneig, el tractament, les complicacions i tot el que hauríem de fer amb l'hemorràgia digestiva baixa.
 Dialogue: 0,0:44:01.99,0:44:10.26,Xavier,,0,0,0,,Ho he descobert perquè fan un seminari online i els que han preparat aquest document l'expliquen. I després hi ha digestòlegs de tot Catalunya que ho escolten i després fan preguntes i no sé què.
 Dialogue: 0,0:44:10.72,0:44:22.60,Xavier,,0,0,0,,I això ho fan cada vegada que fan un document d'aquests, o no sé si ho fan per altres raons un cop al mes o es reuneixen així online. I jo vaig anar-hi perquè ens van avisar els digestòlegs de que feien sobre l'hemorràgia digestiva baixa i em va semblar interessant anar-hi.
@@ -399,7 +400,7 @@ Dialogue: 0,0:46:27.39,0:46:30.74,Albert,,0,0,0,,Els oients que veu veure això,
 Dialogue: 0,0:46:30.91,0:46:31.47,Xavier,,0,0,0,,Molt bé, molt bé.
 Dialogue: 0,0:46:31.78,0:46:44.64,Xavier,,0,0,0,,I jo repeteixo lo mateix de sempre, que si hi ha algú que li sembla que té un tema interessant a explicar, si vol contactar amb nosaltres, de la forma, de vegades ja ens coneixeu perquè ens veiem als hospitals o ens veiem, o pel Telegram o per on sigui,
 Dialogue: 0,0:46:44.76,0:46:53.96,Xavier,,0,0,0,,ens ho dieu i parlem i concretem un dia i podeu gravar des de casa, no cal que us desplaceu. Amb una horeta que hi dediquem o tres quarts d'hora ho tenim fet.
-Dialogue: 0,0:46:53.99,0:46:57.00,Albert,,0,0,0,,No ha vingut encara cap tècnic d'emergències sanitàries. 
+Dialogue: 0,0:46:53.99,0:46:57.00,Albert,,0,0,0,,No ha vingut encara cap tècnic d'emergències sanitàries.
 Dialogue: 0,0:46:57.16,0:46:57.88,Xavier,,0,0,0,,Això estaria molt bé.
 Dialogue: 0,0:46:58.00,0:47:06.60,Albert,,0,0,0,,Escolta'm, segur que teniu coses interessants a explicar. Si deixeu que les expliquem els que no som tècnics, doncs, eh, després no us queixeu que diem barbaritats, que en diem unes quantes.
 Dialogue: 0,0:47:06.61,0:47:11.58,Xavier,,0,0,0,,Sí, sí, sí, esteu totalment convidats i i estem pendents que ens digueu alguna cosa.
@@ -407,4 +408,4 @@ Dialogue: 0,0:47:11.89,0:47:15.00,Albert,,0,0,0,,Molt bé. Vinga, va, família, 
 Dialogue: 0,0:47:15.00,0:47:15.60,Xavier,,0,0,0,,{\i1}Vale{\i0}, Albert.
 Dialogue: 0,0:47:15.60,0:47:16.52,Albert,,0,0,0,,Apa, adéu.
 Dialogue: 0,0:47:16.59,0:47:17.83,Xavier,,0,0,0,,Ens veiem. Adéu.
-Dialogue: 0,0:47:19.37,0:47:24.26,Albert,,0,0,0,,  Reba... Rebalance...  Rebalanceja... Eeeg Rebalance.... 
+Dialogue: 0,0:47:19.37,0:47:24.26,Albert,,0,0,0,,Reba... Rebalance...  Rebalanceja... Eeeg Rebalance....
