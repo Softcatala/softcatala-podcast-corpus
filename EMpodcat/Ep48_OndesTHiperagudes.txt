@@ -1,0 +1,470 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Bon dia i bon hora a tothom, dels oients de l'EMPodCat. Presentem avui l'episodi número 48, que és l'últim episodi de la quarta temporada.
+Com sempre, som els mateixos habituals, tot i que ens agrada molt que de tant en tant ens ve algú a visitar i ens explica els seus temes preferits. Però avui estem l'Albert i jo.
+Albert, bon dia. Presenta't una miqueta per la gent que encara no ens coneix i que afortunadament ens sent per primera vegada.
+Bon dia. Jo sóc l'Albert Homs, sóc infermer d'urgències i emergències, ara mateix a l'Hospital de Cerdanya i a l'ambulància SEM del territori i tinc aquest lloc web, que és EmermedPirineus, i també a diferents xarxes socials també per aquest mateix nom.
+I tu, Xavi, va, ara t'has de presentar tu.
+Sí, sóc en Xavi Basurto i sóc metge d'urgències de l'Hospital de Figueres i també donem voltes per l'Alt Empordà i cap a Girona també amb la 606 del SEM.
+I quan tenim temps, algunes de les coses que expliquem aquí, abans les publiquem en format bloc a un bloc que es diu urgem.cat.
+I així també ens trobareu, sobretot a Twitter, a l'Instagram també, però és que no tinc temps de penjar-ho tot en allà. Bàsicament el bloc i el Twitter.
+Ah, i també ens podeu seguir, oi que tenim alguna xarxa social, Albert, que tu controles molt?
+Que tenim 100 i escaig seguidors ja.
+El grup de Telegram.
+El grup de Telegram.
+120 no sé quants, sí, que ens anem explicant coses allà. De fet, avui a les recomanacions n'hi ha alguna dels nostres oients en aquest grup.
+Ah, molt bé, molt bé. A finals d'aquesta temporada serem ja mil seguidors en el en el Telegram, Albert, no et preocupis.
+En dubto bastant, però bé, d'il·lusió també se'n viu.
+Molt bé. Va, avui, eh, parlarem de diversos... bé, les seccions de sempre i comencem com sempre amb el tema principal, que avui ens el presenta l'Albert.
+i que, com a novetat, ens parlaràs d'algun tema electrocardiogràfic, Albert?
+Gran novetat. Ja sabeu que...
+Sortirem tots cardiòlegs d'aquí, eh, ja.
+Cardiòlegs no ho sé, ja sabeu que tinc aquesta passió amb l'infart, amb la síndrome coronària aguda i l'electrocardiografia.
+Sí.
+I aquesta temporada no n'havíem parlat i no pot ser. O sigui, que no us n'escapeu. Aquest, com que va d'electros, també el tindrem en vídeo.
+Nosaltres, com sempre, com que sabem que la nostra plataforma és d'àudio, doncs intentarem descriure-la el millor possible, però a les notes de l'episodi tindreu la presentació que faré servir amb les imatges
+i a can YouTube o a l'Spotify, doncs hi penjarem el vídeo també, perquè els que ens vulgueu veure en vídeo, doncs a part de veure'ns les cares, jo mal afaitat aquest cop i constipat, com noteu per la veu, doncs també podreu veure la presentació aquesta amb les imatges que ens interessen.
+Molt bé. Fantàstic.
+[Música]
+Us comparteixo, abans de la presentació, us comparteixo la meva entrada al bloc, perquè això ho vaig escriure al bloc fa unes setmanes. Us vull parlar d'un altre... ehm...
+Patró?
+Gràcies.
+[riu]
+Us vull parlar d'un altre patró electrocardiogràfic d'infart agut de miocardi, ja sabeu que el paradigma que s'està fent servir ara l'hauríem de canviar, estem fent servir la síndrome coronària aguda amb elevació de l'ST,
+però els que ja fa temps que ens seguiu sabeu que a l'episodi 4 vam parlar d'una cosa que havia traduït que era els OMI, els occlusion myocardial infarction, que vam traduir per els infarts aguts de miocardi oclusiu, els IAMO.
+Que si recordeu totes les vegades que hem anat parlant és allò que no tots els infarts van amb elevació d'ST i no tota elevació de l'ST és un infart, oi?
+Bé, doncs aquest és un altre patró, és el patró que es diu de ondes T hiperagudes, en anglès respon a les sigles HATW, que és HyperAcute T-Wave, ona T hiperaguda.
+Trobareu a la presentació una imatge que és, diguem-ne, la seqüència temporal normal de canvis electrocardiogràfics quan se'ns oclueix una artèria.
+Quan s'oclueix una artèria, el primer que passa és que se'ns allarga el QT, la distància que va des del principi del complex QRS fins que s'acaba la onda T.
+Això és fàcil de dir, però si no saps quin QT tenies abans de tapar-se l'artèria, doncs no sabràs si s'ha allargat o no. A més, el QT teniu present que és allò que en funció de la freqüència cardíaca, doncs és més curt o és més llarg, i llavors s'ha de corregir i totes aquestes històries rares.
+És una cosa interessant de saber, però no ho veurem.
+Jo t'haig de confessar que no ho sabia això, eh? Que això que s'allargués el QT amb un infart al principi, que era la primera manifestació, no ho sabia.
+Això em sembla que se sap gràcies als gossos, que es dedicaven a putejar gossos en el seu moment i es va veure això, que quan els hi ocluïen l'artèria coronària al laboratori, doncs el primer que passava és que se'ls allargava el QT.
+Després, ja ve aquest, el que parlarem avui, que és aquesta onda T hiperaguda, i a partir d'aquí, aquesta onda T hiperaguda es va transformant en aquesta elevació de l'ST,
+que és el patró típic, que és el més habitual, n'hem parlat també de patró de l'elevació de l'ST, en els infarts aguts de miocardi, també no recordo ara quin capítol és de la tercera temporada, en vam parlar,
+i aquesta elevació de l'ST, doncs, anirà evolucionant.
+Si no ho resolem, doncs, començaran a aparèixer les ones Q, que vol dir que hi ha hagut ja necròsi al miocardi, i llavors, a mesura que va avançant, doncs, l'onda T es revertirà,
+passarà a negativitzar-se i quedarà l'infart establert, o bé, si ho resolem, doncs, tindrem un patró de Wellens, que se'n diu, que és un signe de reperfusió, no?
+Que tenim inicialment la onda T és bifàsica, és positiva i negativa i després es torna més negativa.
+Això haureu d'anar a les imatges, evidentment, per entendre-ho, però el Wellens també em sembla que hem parlat alguna vegada, sinó la meva entrada al bloc també ho tinc.
+Escolta'm, i aquesta seqüència temporal és qüestió de minuts, d'hores o és constant? Això, vull dir, jo sé que si veig que el QT s'allarga, sé que al cap de mitja hora,
+si és un infart, tindré una T hiperaguda i sé que al cap d'una hora l'elevació de l'ST i al cap de 48 hores la Q o no té perquè tindre un patró temporal fixe això?
+No és fixe i a més a més, els pacients no llegeixen els llibres de text, llavors cap pacient està obligat a seguir la seqüència tal i com deu mana.
+Pots començar directament amb elevació de l'ST o no passar de on de T hiperaguda.
+Sí que la on de T hiperaguda és estrany veure-la passades gaires hores de l'inici de la simptomatologia.
+També hem de pensar que la simptomatologia pot anar i venir. Tu pots estar tapat i anar-se tapant i destapant. Llavors, com que els pacients també s'expliquen tan bé sempre, oi?, doncs clar, ens trobem que és tot és molt variable.
+I tampoc nosaltres escoltem 100% bé, saps?
+No, no gaire sovint, no.
+Sí que quan apareixen ondes Q, ja hi ha necrosi miocardíaca.
+Això sí que ho hem de saber i això acostuma a passar a partir de l'hora ja pot començar a haver-hi ondes Q.
+Que això no vol dir que ja estigui tot mort, és a dir, quan hi ha ondes Q no és que no haguem de fer res. Pot haver-hi ondes Q i que no hi hagi res a fer i, per tant, no té sentit destapar, però si tenim ondes Q i encara hi ha elevació de l'ST vol dir que segurament encara queda alguna part de miocardi salvable.
+ I per tant, seria tributari de fer alguna cosa, encara que ja tinguem la una Q establerta, eh?
+Però vaja, la idea que tenim és que des de que es tapa, comencem amb l'allargament del QT, que no ens és útil. I després ve la ona T hiperaguda.
+Això vol dir que al principi, el primer que veurem és la ona T hiperaguda. Per tant, si és el primer que veurem, és molt precoç i com abans ho reconeixem, abans podrem començar a tractar i menys mort miocardíaca hi haurà.
+ Per tant, és important reconèixer aquest patró. Quin és el problema? Doncs, que està definit com el cul.
+Jo la definició que més m'ha agradat de les que he anat trobant, és la que he escrit al meu bloc, que diu que les ondes T hiperagudes són ondes T altes i grosses, més altes al seu pic i més amples a la base del que tocaria, desproporcionades respecte a la R o S precedent.
+I aquesta petita frase diu moltes coses, oi?
+Mira, us poso... us ho descriuré pels que ho esteu escoltant el pòdcast, us poso dos traços al costat que corresponen a V3 del mateix pacient, un amb simptomatologia i l'altre no.
+Pels que estigueu veient la imatge, és el de l'esquerra és amb circumstàncies normals, el de la dreta és amb simptomatologia, i el que veiem és que tenim un RS,
+doncs que la R fa uns sis quadrets d'alçada i la S uns cinc quadrets cap avall,
+això en el complex normal, després tenim un quadre gran, pues aquests 200 milisegons d'un ST pla i després tenim una onda T, doncs, com totes les ondes T, no?
+Que puja uns dos quadrets d'alçada i tenim uns tres quadrets d'empit de pujada i un quadret d'empit de baixada.
+Això seria un electro bastant normal, probablement d'algú d'una certa edat ja.
+A la dreta hi tenim el mateix pacient ja amb símptomes i el que veiem és que la R s'ha fet una mica més petita, en comptes de mesurar aquests sis quadrets, ara en fa només quatre,
+però el que sí que veiem és que aquesta T, que abans feia dos quadrets d'alçada, ara en fa sis o set i comença a pujar molt abans.
+Així que hem dit que hi havia un quadret gran, aquests 200 mil·lisegons, abans no comença a pujar la T, aquí és que comença pràcticament on acaba la S, en el punt J i creix molt més.
+És evident que la onda de la dreta, aquesta que diem que té una T tan enorme, aquesta és hiperaguda. És desproporcionadament gran respecte al QRS que el precedeix, aquest RS que veiem.
+És desproporcionadament gran i a més a més és molt més gran a la base, és... A mi m'agrada dir-ls-hi que són grosses, eh? Tot i que l'adjectiu gros té a veure amb volum, clar, aquí és una superfície, no? Però...
+Jo n'hi dic que són grosses. Hi ha gent que és gran i hi ha gent que és grossa, no? Doncs aquesta T és molt grossa.
+I una pregunta, és que no m'havia adonat d'això. El fet de que es digui hiperaguda, vol dir perquè apareix al principi de la clínica de l'infart?
+O és perquè la la T comença a créixer ja molt després de l'onda S del QRS?
+Doncs mira, jo crec, i és una creença, no en tinc proves, que és pel fet que es presenta molt aviat en la simptomatologia de l'infart, més que no pas per la forma.
+És que no sé, no havia vist això, que sí, que amb un electro normal la té, comença bastant més tard que aquesta hiperaguda, no? Que ja pots començar a veure que creix al final del QRS.
+Sí. I aquí el que és rellevant, és molt rellevant, és el tema de la proporcionalitat.
+Ara en la següent imatge que tinc es veu: a l'esquerra es veu una D.III, per exemple, que es veu un QRS, un RS petitet, que deu fer... la R fa dos quadrets i la S també fa dos,
+i en canvi tenim a darrere una T que ens en fa quatre d'alçada, eh? I el mateix, comença molt a prop del punt J i és molt ampla.
+Clar, la T d'abans hem dit que feia 7 mm d'alçada, aquí em fa només quatre, però és que el QRS, l'RS aquest és molt petit i la T és proporcionalment molt grossa.
+En canvi, a mà dreta tenim V3, el que veiem és un QRS enorme, tots són enormes, de fet aquest de V3, doncs se'ns menja... Tenim una part de V2 que se'ns ho menja i ens surt de la pantalla.
+I la T aquesta de V3 fa un centímetre d'alçada i també comença, com és V3, també comença molt a prop del punt J, que també ja està elevat un parell de mil·límetres o tres.
+Aquesta T és molt més grossa que la que hem vist abans, però la que és més petita de mida absoluta és la que és hiperaguda,
+mentre que la que és més gran de mida absoluta és, en aquest cas és una repolarització precoç, és normal, normal entre cometes per aquest pacient, és a dir, no és un síndrome coronari agut.
+És a dir, no és només la mida el que és rellevant. És la mida, però sobretot la proporció respecte al QRS precedent.
+Al complex...
+Exactament, sí.
+I també és la forma. La T habitualment, l'empit de baixada, és a dir, des del zenit del punt més alt fins que torna a l'elèctrica, és més dret que no pas l'empit de pujada.
+Aquí en una imatge que tinc, doncs es veu, a la dreta es veu unes zones T de hiperpotassèmia, que són molt grans, fan 15 mm d'alçada.
+És veritat que el QRS també doncs és bastant gran, hi ha una S de 20 mm pràcticament.
+Però aquestes, si et hi fixes, són a l'empit de baixada d'aquesta onda d'hiperpotassèmia és molt dret, és a dir, aquests 15 mm els fa amb un sol quadret petit, en canvi la pujada la fa amb tres o quatre quadrets de pujada.
+L'onda T habitualment puja progressivament i baixa de forma molt més abrupta.
+En canvi, si, per exemple, que fem una imatge a l'esquerra, el que es veu és que l'empit de baixada no és tan dret, no és tan abrupte i, per tant, l'onda T es torna com més simètrica.
+És molt gran, evidentment, respecte al QRS que la precedeix i a més a més és relativament simètrica. No és només la mida en proporció QRS, sinó també és una mica la forma respecte a la T normal.
+Val.
+Bé, això de les T's aquestes, se'n fa cas ara, fa... Tota aquesta moguda dels IAMOs, dels OMIs, doncs se'n fa molt cas, però això està escrit de fa molts anys.
+De la història de l'electrocardiografia, que potser algun dia en parlarem, comença a finals del segle XIX, però sobretot a principis del segle XX.
+Jo he trobat un parell d'articles, un del 34 i un del 47, que parlen d'aquestes T grosses.
+A mi... Clar, aquests articles a més estan escrits, doncs imagineu, fa un segle, us podeu imaginar una miqueta com estan escrits, és una descripció...
+Se'm fa difícil realment dir que quan descrivien això el que estaven veient era la mateixa onda T hiperaguda. Us podeu imaginar la qualitat tècnica d'un electrocardiograma de l'any 30.
+Que els feien encara amb les mans dins les galledes d'aigua salada. No m'atreveixo a dir que és el mateix.
+I de fet, en un altre article ja bastant més recent del 77, que hi posen ja imatges, que parlen d'aquestes ondes T i que a més a més ja fan referència que són molt precoces, que venen molt aviat,
+i aquest m'agrada perquè en aquest article hi ha l'electro basal i després els temps i com va canviant, no? I aquí el que vaig veient és que fan més pinta d'elevació de l'ST que no només d'onda T hiperaguda,
+perquè dins aquesta seqüència que us he explicat al principi, comencem per la T hiperaguda i després ens comença a venir l'elevació de l'ST. Fins aquí anem bé, no?
+Sí, sí, sí.
+Bé, a llavors, hem d'intentar objectivar això, perquè jo puc dir que una cosa és grossa, però a un altre no li semblarà.
+I aquí és on les coses comencen a complicar bastant. Quin alçada ha de tenir l'onda T hiperaguda?
+Doncs, ondes T de més de... Les ondes T habitualment es mouen entre 5 i 10 mm d'alçada. Si són gaire més grans, hem de pensar que és hiperagut, oi?
+Bé, aquí en la presentació, doncs veureu un electrocardiograma d'una persona que el seu primer electro és normal, és a dir, en un moment que no tenia dolor,
+i després com quan torna a tenir dolor, comença a créixer la T i es veu molt gran la diferència del primer al segon.
+Per tant, aquí ja tenim un primer aprenentatge, si tenim un electro basal, el canvi de la mida de l'ona T ens ha de fer sospitar molt.
+Però insisteixo amb que no hi ha una mida establerta. Ens fot, perquè quan busquem coses objectives, doncs, per la mida no la trobarem.
+Quan dic mida, em refereixo a l'alçada, eh? En aquest cas, eh, li diuen amplitud, però no m'agrada, jo diria l'alçada. Això d'amplitud és que no no m'acaba d'agradar.
+L'altra part que ja hem anat insistint és l'amplada. És a dir, hem dit que són molt més amples a la base del que els hi tocaria.
+Doncs, part d'aquesta amplada a la base s'aconsegueix a base d'estirar la part final de la T, de forma que se'ns allarga el QT.
+A la presentació hi ha d'un mateix pacient V2-V3, amb i sense la T hiperaguda. A l'esquerra hi ha la onda T normal i l'alçada, doncs, és 3 mm, en canvi, l'onda T hiperaguda és quatre, és a dir, ha canviat només 1 mm d'alçada.
+Estic veient V3, eh? És veritat que la R del QRS, doncs ha passat de 5 mm d'alçada a tres.
+Això és una cosa que també es veu sovint, com la R, a mesura que el miocardi pateix, doncs la R va disminuint de mida. És a dir, hi ha menys miòcits funcionant, menys miòcits que despolaritzen, per tant, l'onda és més petita.
+A l'onda T el que veiem és que el que se'ns ha allargat és la part final de la T. Ha crescut una miqueta d'alçada i s'ha allargat una mica la part final
+Això ens ho torna una mica més simètric, perquè llavors tant l'empit de pujada com de baixada són més suaus.
+El pic, el zenit no és tan punxegut, perquè s'ha anat disminuint l'empit de pujada i baixada, doncs, es torna més pla i l'amplada és més grossa.
+Al final, el que acaba determinant això és una miqueta la superfície que hi ha dins la T, per sota del traç de la T.
+Si nosaltres veiem una T que el QRS cap a dins, compte, eh?
+Compte perquè si el QRS cap a dins la T és molt probable que estiguem parlant d'una T hiperaguda, és a dir, no té sentit que un QRS sigui petitet i després tinguem una T molt grossa.
+Si hi ha molt pocs miòcits que despolaritzen, doncs no té sentit que després se'n repolaritzin molt més, oi?
+L'altra part que també ens interessa és aquesta de la morfologia que us deia.
+També a la presentació, doncs veureu una grafiqueta en que això que us comentava que l'empit de baixada es fa menys abrupte, doncs hi ha també un electro d'una mateixa persona en que he marcat com l'empit de pujada té un cert angle de...
+No massa dret, i en canvi l'empit de baixada és molt més dret i com a mesura que ens creix la T per la banda de darrere, doncs la T creix d'alçada, per tant, l'empit de pujada es fa una miqueta més dret
+i s'estira cap a la banda del final, llavors l'empit de baixada es fa no tan dret i el que ens acaba portant és sempre a aquest augment de superfície sota la corba.
+És aquest canvi de morfologia que us deia, es torna més simètrica, per què? Perquè se'ns allarga per la banda de darrere.
+I l'altra cosa que també ens podem trobar és que el punt J, és a dir, allà on acaba l'onda S i comença el segment ST, doncs que el segment ST comenci per sota de la línia isoelèctrica.
+I això, a la imatge que he posat a la presentació, aquest patró li hauria de sonar a algú perquè ja n'hem parlat també.
+Aquest és el patró de De Winter, que el que veiem és una T bastant simètrica, bastant alta,
+potser no és tan grossa com les altres T hiperagudes que us he anat ensenyant i que us he anat parlant, però és que comença per sota la línia isoelèctrica.
+Llavors, realment, si tu t'imaginessis aquesta onda T, te l'imaginessis que acaba el mateix lloc on comença, doncs veies que també la base és molt ampla.
+Aquestes quatre coses que ens hem de fixar és quina alçada té, quina amplada té la seva base, com de simètrica i de pendents són els empits de pujada i baixada
+i aquest punt jota que si comença per sota de la línia isoelèctrica, doncs se'n diu onda T de De  Winter i és un tipus d'una T hiperaguda d'aquestes, d'acord?
+No us he portat gaire informació bona, perquè seguim sense ser massa objectius.
+I s'ha intentat, eh, realment s'ha intentat, de moltes maneres, s'ha intentat objectivar... és a dir, molt bé, jo ho veig i dic que ho és i el veí ho veu i diu que no ho és. Qui té raó? Doncs hem de trobar alguna forma objectiva de fer-ho, no?
+I això és on els últims dos, tres anys, aquests savis que jo segueixo, l'Smith, en Myers i l'Aslanger i tota aquesta colla, han invertit bastant temps en això. I han començat a fer càlculs i fórmules.
+Hi havia una fórmula antiga, bé, antiga, de fet no és tan antiga, eh? Per determinar si a les derivacions precordials,
+si aquelles T tan grosses que a vegades es veuen, si eren part de la repolarització precoç, que és un variant de la normalitat amb gent jove i sobretot amb homes negres,
+o era realment una elevació de les derivacions precordials que indicava una obstrucció de la descendent anterior.
+Recordeu, i això també ho aprofito per treure-ho ara, que totes les derivacions representen, cadascuna d'elles representa un lloc des del qual mirem el cor
+ i que el que puja en una banda ha de baixar en l'altra. Llavors, quan busquem una obstrucció, els signes d'una obstrucció en electro,
+sabem que la banda especular, és a dir, la banda mirall d'aquella, la banda que està al lloc contrari, doncs hem de veure imatges invertides respecte a aquesta.
+Què passa? A la cara anterior del cor, l'únic invertit de la cara anterior del cor és la cara posterior, que a més a més té tot el pulmó que li fa de coixí i per tant ens disminueix la quantitat d'electricitat que podem mesurar.
+Llavors, bé, es va fer inventar aquesta fórmula, que no una fórmula de quatre variables que et mesurava, bé, era infumable la fórmula, era infumable. Els 60 milisegons del punt J havies de mesurar, bé, una cosa horrorosa.
+Llavors aquests mateixos autors, ara el 23 van fer un altre intent, que us he posat la diapo aquí a la presentació també.
+I el que es veu és dos electros posats en paral·lel d'una onda T hiperaguda i d'una altra ona T gran, més gran que l'anterior, perquè no és hiperaguda.
+Llavors et comencen a fer uns càlculs que relacionen la mida del QRS amb l'alçada de la T, amb la superfície per sota de l'onda T.
+I comencen a fer uns càlculs i et diuen, "No, goita, a partir d'aquesta relació de l'àrea per sota de la T amb l'amplada del QRS, doncs a partir d'aquest número és indicatiu d'oclusió i per sota d'aquest número no".
+És una forma d'intentar objectivar això que és tan tan subjectiu, no?
+I l'últim, que és el que va forçar que fes aquesta entrada, és una cosa que han publicat fa ben poc, a l'abril vam publicar el pòster
+i em consta que l'article que ho defineix està a la impremta, eh?, està pendent que els referees li donin el vistiplau.
+Aquests han creat una fórmula.
+Llavors et diuen que necessites tenir amb dues derivacions contigües, això passa igual que amb la síndrome coronària aguda amb l'elevació de l'ST, que compleixin dues regles.
+Una és que l'àrea per sota de la T relativa a l'alçada del QRS ha de ser una mida. És a dir, si divideixes l'àrea per sota de l'alçada del QRS, ha de ser per sobre de 60 o per sobre de 80 si ens anem a V2-V3.
+Aquesta fórmula, això que us explico, no aplica a vR-V1, perquè, bé, això un dia ho podem parlar perquè vR-V1 són derivacions una miqueta estranyes.
+Primera cosa que ha de complir, això que us deia, que l'àrea de la T relativa al QRS ha de superar una mida.
+I l'altra cosa que també s'ha de complir és que la T ha de ser simètrica, és a dir, la distància que hi ha d'haver-hi des del punt J fins al zenit, fins a l'àpex de la T, respecte a la distància al punt J fins al final de la T, ha de ser inferior a 0,67.
+A la imatge es veu molt clar, no?, doncs que la T se'ns ha tornat més simètrica, perquè l'àpex, perquè el punt més alt s'acosta més al QRS.
+I si compleix aquestes dues coses, pots dir que tens una onda T hiperaguda i si ho compleix amb dues derivacions, doncs que tens l'infart corresponent.
+No sé si amb això he aportat prou. No sé si tu ara amb els amb les fotos que t'he posat, eh, Xavi, veuries clar què és una onda T hiperaguda.
+El que sí que podem fer és com que hi ha altres coses que ens que ens fan test diferents, test més grans o això, el que podem fer també és entrenar una miqueta a la vista
+en que les altres coses que ens canvien les Ts, què tenen de diferent respecte a les zones de hiperagudes, no?
+Hi ha unes quantes coses, jo a l'entrada em vaig posar unes quantes, no hi són totes, però jo crec que hi són les que les més importants.
+Si et sembla, Xavi, les repassem en un momentet les diferents i veiem les diferències, no?, que hi ha.
+Sí, si
+Mira, què ens pot fer que les ones T canviin? Quan que el QT s'allarqui.
+Doncs, pel que sigui, per...
+Per fàrmacs o per...
+Per algun medicament, exactament.
+A llavors, a la gràfica, doncs, hi ha un electro, està partit a les derivacions de les extremitats i les derivacions precordials i hi ha,
+diguem-ne, al costat el normal, diguéssim, i el de l'allargament del QT. I he marcat un parell de ondes T per veure-ho, no?
+A l'esquerra, doncs, veiem que D.II, per exemple, que és on he posat la marca, la onda T que hi ha, mesura, sembla que això són dos quadres grans, doncs mesura uns 400.
+Això és el QT?
+Sí, exacte.
+En canvi, aquí a D.II, no? Quan s'ha allargat el QT, l'onda T la veus i dius, "Hòstia, és que això és més gran". Però és que mires l'allargament del QT i collons. Hem passat de 400 a més de 500.
+És un QT que a més a més ja comença a tenir mala hòstia aquest QT, eh? Vull dir, aquí, amb aquests QTs, compte aquí.
+És a dir, realment tenim una onda T hiperaguda? Bé, s'ha allargat molt el QT. Jo aquesta no diria que és hiperaguda.
+Que és una de les coses que ens pot enganyar, és quan s'allarga el QT, tens la sensació que la T s'ha fet més gran. Bé, de fet s'ha fet una mica més gran, però segueix sense ser una T hiperaguda i, per tant, no ens indica infart.
+L'altra, aquest és el clàssic, la hiperpotatèmia.
+Això ho recordo d'un dels meus profes del màster que deia, per fer-ls'hi recordar als seus residents, els hi parlava de la hiperpotatèmia. Perquè potassi elevat és igual a ondes T grans.
+Està descrit que les ones T creixen, és dels primers signes electrocardiogràfics que hi pot haver una hiperpotassèmia, tot i que la hiperpotassèmia pot ser qualsevol cosa.
+Com són les ondes T de la hiperpotassèmia? Doncs ja n'hem vist una abans al principi. Bàsicament són altes i estretes. A diferència de les hiperagudes que són altes, però grosses, aquestes són altes i estretes.
+Aquí en aquesta imatge, els que estigueu veient el vídeo, doncs veureu unes T estretotes i relativament asimètriques, tot i que això,
+tornem a estar en el mateix, eh? Si l'electro no està gairebé fet com aquest i relativament asimètriques, hòstia, no sempre és tan fàcil de veure.
+Jo t'anava a dir-ho perquè jo les jo les veig bastant simètriques aquí aquestes.
+Sí, el que passa és que, per exemple, si agafem el complex 1, 2, 3, al final del quart complex, ja no es veu tan simètrica. I de fet, quan agafes on comença i on acaba, l'àpex no està centrat, està bastant cap al final.
+Sí.
+Però realment, quan estem parlant d'ondes T tan altes, doncs veure la simetria, doncs és difícil de veure.
+Torna'ns a repetir, per definir la simetria de l'onda T, has dit que la distància entre el vèrtex o el punt més alt de l'onda T fins a no sé on, és igual al d'aquest punt fins a...
+0,67. És a dir, des del punt J fins a l'àpex, fins al zenit, fins al punt màxim de la T,
+Sí.
+dividit per la distància del punt J al final de la T, ha de ser menor a 0,67.
+És a dir, si tu agafes des del punt J fins al final de la T, l'àpex ha de quedar, com a molt lluny, a dos terços de la distància total.
+Sí, o sigui, i això és simètric, això vol dir que és simètric. Si està dins d'aquest marge...
+És més simètric que no pas el que seria habitualment. En aquest dibuix que us he tornat a posar ara la fórmula doncs es veu molt clar. Clar, l'han anat a triar.
+Un altre motiu de tenir ondes T grans és la hipertròfia de ventricle esquerre. Si tens un ventricle esquerre de mida descomunal, dic de ventricle esquerre perquè és el que és més fàcil de veur, el de ventricle dret seria més complicat. Bé, és igual.
+Si tu tens un QRS que t'hi cagues de gran, doncs tindràs una T gran.
+ Aquest és ben senzill, no? Vull dir, aquí a l'electro que us he posat tenim una V2 tenim una S que fot 25 mm cap avall, a V5 tenim una R que en deu fer també 20 o 25 cap amunt.
+Si fas el Sokoloff-Lyon, que és un d'aquests índexs electrocardiogràfics merdosos perquè no són gents específics per determinar una hipertròfia de ventricle esquerre, veuries que tens una hipertròfia que t'hi cagues
+I l'ona T a V2 d'alçada deu fer 15 mm i el punt J està elevat cinc. Vull dir que clar, aquest és un electro de l'elevació de l'ST, V2, V3, puja més de 2 mm i mig, a V4 també. Vull dir que, bé, ja ho he dit alguna altra vegada, eh, que no tota elevació de l'ST és un infart.
+Doncs si tens una hipertròfia de ventricle esquerre, doncs evidentment tindràs T grans. Si tu veus això, amb el que us he posat aquí, és evident que no és hiperagut.
+Perquè fos una T hiperaguda, hauries de tenir una T d'una mida tres o quatre vegades més gran perquè el QRS és enorme.
+Un altre, aquest que us he posat ara és la repolarització precoç. A això li donen molta importància aquests que segueixo, suposo que és pel tema aquest de la gent de raça negra, que és més habitual en homes de raça negra.
+Jo n'he vist algun, però no és una cosa molt habitual tampoc. Bàsicament el que hi ha aquí és que al repolaritzar precoçment, vol dir que la ona T comença molt, molt a prop del QRS, perquè comença a repolaritzar-se molt de pressa.
+I això acaba donant una morfologia, que com que la T comença molt aviat, també es veu més grossa.
+Però aquí la gràcia és aquesta forma de sella de muntar.
+A les imatges, doncs, a cara inferior, D.II, D.III i vF, doncs es veu ben bé la imatge de la sella de muntar.
+Si us ve al cap una sella de muntar a cavall, doncs sabeu que té aquesta forma de U amb aquestes punxes davant i darrere, doncs aquí tenim aquesta morfologia.
+Si aquí anéssim a fer la fórmula aquella de la simetria, veuríem que no compleix perquè l'empit de baixada és pràcticament vertical i el de superfície, doncs, veuríem que tampoc compleix perquè és que la T és molt estreta.
+Sí, aquest electro que ens estàs ensenyant és de repolarització precoç, eh?
+Aquest és de repolarització precoç. Ara no recordo els detalls, però em sembla que era... No recordo ara exactament.
+I això dius que és relativament poc freqüent la repolarització precoç?
+No tinc números per al nostre país. Del que he anat llegint, tinc en ment i si no ho estic dient bé i algú em pot corregir, estaré encantat, que és més habitual en homes joves de raça negra.
+Com que en el nostre país, doncs, no n'hi han tants com n'hi pot haver a Estats Units, per exemple, no ho veiem tant.
+Si haig de recordar la vegada que n'he vist alguna, l'he vist en un esportista jove. No tinc números, si algú els té i ens els vol compartir, doncs estarem encantats, eh?
+Val, val.
+Hi han altres coses que ho poden fer-ho, el Brugada, per exemple, que té aquella morfologia tan estranya de la T, doncs també ens pot confondre perquè realment, hòstia, on comença la T quan tens un Brugada, no? Fa de mal dir.
+Si tens una pericarditis, que això, hòstia, això un dia potser n'hauríem de parlar de la pericarditis i l'electro, perquè clar, en la pericarditis podem tenir elevacions de l'ST.
+Jo em quedo amb una frase que diu un d'aquests savis que tu diagnostiques la pericarditis al teu risc, bé, al risc del teu malalt. A vegades no és tan senzill diferenciar una pericarditis d'un infart, eh? Per tant, tingueu-m'ho present.
+I també, evidentment, si tens un bloqueig de branca, doncs els bloquejos de branca, com que ens donen aquests QRS tan estranys, doncs també tenim a llavors unes T també prou estranyes, no?
+Jo us he fotut la xapa, us he ensenyat imatges. Podeu intentar entrenar l'ull. Però la veritat és que això ho farà molt millor una intel·ligència artificial que nosaltres.
+Ja ho està fent. De fet, en parlaré a les recomanacions. Ja hi ha alguna cosa que ho fa millor que els humans.
+Aviam si ens quedarem sense la teva secció d'electrocardiografia a partir d'ara. Aquí sí que es complirà que la intel·ligència artificial et supleix algunes professions, eh?
+Mira, després quan anem a les recomanacions ja t'explicaré alguna cosa d'això, va.
+Val, val.
+Doncs ja està, jo això és el que us havia d'explicar. Si algú té dubtes, si voleu saber més o el que sigui, a la meva entrada al blog hi ha alguna cosa més i si no, doncs ens trobem al grup de Telegram.
+Molt bé, Albert. Passem a una altra secció?
+Vinga, menys és més, toca ara.
+[So de bip]
+Doncs, jo tenia un menys és més.
+És un article del JAMA Internal Medicine, que no és molt recent, de fet, és un article publicat el 2014, però m'ha semblat interessant.
+És dintre de la col·lecció que té el JAMA d'aquestes iniciatives de identificar les accions que fem els sanitaris que tenen poc valor, que ells li diuen Less is More.
+I això ho van fer-ho el 2014, aprofitant que l'American Board of Internal Medicine Foundation va començar a fer la seva campanya de de Choosing Wisely, escollint sàviament.
+Doncs, a partir d'aquesta campanya, totes les societats científiques van començar a fer una llista de tractaments, de diagnòstics, sobretot, o de procediments, d'algoritmes, arbres de decisió i tot això,
+ identificar els que no porten valor i intentar recomanar-los de que no es facin servir, com a mínim de forma sistemàtica.
+I amb això proposaven aquests de Choosing Wisely que aquestes societats científiques fessin llistes, amb almenys cinc procediments o proves o tractaments que aporten poc valor.
+I per això, els del JAMA es van proposar identificar cinc proves o tractaments o arbres de decisió que fossin molt comuns, a nivell de les urgències mèdiques, que tinguin un cost significatiu i que tinguin poc o cap benefici pels pacients.
+Aleshores, amb això, primer van fer un panell d'experts, van fer una tècnica de Delphi per intentar identificar una llista llarga d'aquests procediments, diagnòstics, tractaments, que en opinió d'aquests experts fos de baix valor.
+I en van identificar 64. Després, aquests 64 van fer una consulta, això es va fer a la zona de Boston.
+Van agafar 283 metges d'aquella àrea i els hi van dir, "Escolta, d'aquests 64 ítems que hem identificat, intenteu qualificar-los amb una sèrie de valors, no? De poca utilitat, del cost que tenen, de la freqüència que els demanes, per donar-li a cada ítem una puntuació.
+I a partir d'aquí, una altra vegada els experts inicials, a través de les tècniques aquestes de prendre decisions de forma conjunta, que és el Delphi, van acabar seleccionant cinc estratègies d'aquestes de millor no fer-les servir de forma sistemàtica.
+I us les llegeixo perquè us sonaran molt.
+I un dels motius d'explicar-ho ara era perquè veiem que aquestes llistes que ja es van publicar el 2014, 11 anys més tard, intenteu pensar si a casa vostra es compleixen o no es compleixen.
+Quan has començat pensava que malament si et fotien a la llista aquesta, però que si onze anys després encara hi surts, és que al final ja no t'importa, és igual.
+Sí. Sí, sí, sí.
+A vejam, la primera, que era la que va rebre més puntuació entre els experts aquests, és el tema de la tomografia computada de la columna cervical en pacients que han patit un traumatisme.
+Recomanen no demanar de forma sistemàtica una tomografia computada en els traumatismes cervicals que són de baix risc.
+ I són de baix risc, et recomanaven el 2014 que féssim servir el NEXUS i la Canadian C-Spine Rule, que si recordeu, això ja en vam parlar a l'episodi 41, que el vam fer el novembre de l'any passat, del 24.
+Tu, Albert, ja quan ens vas explicar el tema de la immobilització amb el collar cervical, ja en vam parlar del NEXUS i de la regla canadenca de la columna cervical.Sí.
+Sí.
+Intenteu pensar si en els vostres llocs de treball, la gent coneix i fa servir tant el NEXUS com l'escala canadenca.
+Els serveis d'urgències ara mateix fem servir la AB-CT.
+ABCT?
+AB-CT. CT de Computer Tomography.
+Sí. Clar, sí.
+Què més? La segona recomanació que deien de no fer, una altra vegada parlant amb la tomografia computada, és de no demanar-la per diagnosticar una embòlia pulmonar sense abans haver fet algun esforç per estratificar aquestes probabilitats
+I ens parlen de alguna eina que tinguem i el dímer-D. I aquí també recordo que a l'episodi 18 del novembre del 22, també vam parlar del diagnòstic de l'embolisme pulmonar
+i ja vam parlar que al principi podíem fer servir la puntuació de Ginebra revisada i els criteris de Wells per l'embolisme pulmonar. També vam parlar de la regla de PERC i el dímer-D i després l'angioTC si veiem que les probabilitats són altes.
+Per tant, recomanacions que el 2014 ja ens deien, 10 anys després continuem fent pòdcasts i recomanacions per intentar que es facin servir aquestes eines més sovint,
+perquè crec que no es deuen fer servir de formes sistemàtiques. El Wells potser sí que es fa servir, però penso que no sempre.
+La tercera recomanació que ens deien és no fer servir una ressonància magnètica de columna lumbar en el dolor lumbar sense factors d'alt risc.
+Potser si que els grans serveis d'urgències de Barcelona sí que poden demanar una ressonància d'urgències, però jo penso que la majoria de serveis d'urgències no ho podem fer. Per tant, aquesta ens ajudaria poc.
+Després, una quarta, també parla de la tomografia computada en pacients amb traumatisme cranioencefàlic que no compleixen criteris de New Orleans o de la regla canadenca del traumatisme cranioencefàlic.
+Això també en vam parlar a l'episodi 26, que vam parlar de les guies NICE del traumatisme cranioencefàlic.
+Crec que de la New Orleans no en parlaven les guies NICE, però sí que parlava de la regla canadenca. Que ens expliquen quan hem de demanar una tomografia amb pacient amb un TCE.
+La meva impressió és que això no ho complim gens ni mica. Som bastant més proteccionistes, no? A la mínima intentem, bé, curar-nos en salut, que ja s'entén, no?
+Però hauríem d'intentar-ho no fer de forma sistemàtica a tothom que ve per un mínim o sospita de traumatisme cranioencefàlic, perquè té, no sé,
+70 anys, de forma sistemàtica ja demanar-li una tomografia computada, que ja a més a més de vegades també, com que és un TC i li hem demanat una tomografia, doncs ja que es quedi 12 o 24 hores en observació.
+Moltes vegades penso que els estem fent un poc favor en els pacients.
+I la última recomanació és no demanar estudis de coagulació en pacients que no penses en cap moment que que tingui un problema hemorràgic agut o penses que no té una coagulopatia.
+Doncs, en aquests pacients, que et ve per qualsevol altra cosa, que t'estalviïs el tema de demanar-li un quick, temps de protrombina, etcètera. Tot un estudi de coagulació.
+Aquests eren els cinc principals. I llavors van identificar després 17,
+Hòstia.
+llegeixo els altres.
+Un era no demanar hemocultius amb pacients amb infeccions cutànies, tipus cel·lulitis, abscessos, a no ser que tinguessin una sèpsia o que tinguessin una immunodepressió important.
+No ingressar pacients amb dolor toràcic de baix risc que tinguin unes troponines negatives i un electro normal. Aquesta penso que la complim bastant.
+Una que m'ha semblat curiosa, que també estava dintre d'aquestes 17, és de no prescriure antibiòtics de marca, o sigui, nom comercial,
+amb pacients amb pneumònies adquirides a la comunitat, infeccions del tracte urinari, cel·lulitis, sinó que faci servir el nom genèric. Aquesta m'ha semblat curiosa.
+Que no donéssim antibiòtics intravenosos amb pacients que no estiguin crítics i que tolerin la via oral.
+Ui, aquest.
+Això també m'ha semblat molt interessant i penso que en parlarem en un futur d'aquesta recomanació.
+També no demanar hemocultius en pacients amb infeccions del tracte urinari, a no ser que estiguin amb una sèpsia o que tinguin una immunodepressió.
+No ingressis pacients amb síncope de baix risc.
+Que no demanis laboratori, hemograma, bioquímica i tal, en pacients que tenen una gastroenteritis no complicada o una síndrome viral.
+Que no donis líquids intravenosos amb pacients amb una deshidratació lleu, sense abans provar la via oral.
+Que no demanis plaques de tòrax de forma rutinària perquè ingreses el pacient i com que l'ingresso ha d'ingressar amb una placa de tòrax. Això no ens ho recomanen.
+Que no demanis urocultius en pacients que de base estan sans, però que tenen una infecció urinària no complicada.
+I l'última, no demanis proves de laboratori repetides vegades a un pacient que et ve de fora, d'un altre hospital, d'un altre centre, no cal repetir-li l'analítica.
+Demanar-li quan et sembli tu, al cap de, no sé,  sis hores d'haver-lo hidratat o el que sigui, però no cal repetir l'analítica si li acaben de fer en un altre hospital.
+I això és tot. M'ha semblat interessant repassar aquestes recomanacions de fa 11 anys, que em sembla que en algunes d'elles encara tenim marge de millora.
+N'hi ha algunes que quan les has dit pensava, "Mare de Déu, mare de Déu, mare de Déu". Han passat 11 anys i seguim pitjor. No igual, si no pitjor.
+Si, ells ho fan molt per tema, almenys a Estats Units, per tema econòmic. I de fet és la iniciativa inicial diu, "Hòstia, hem de reduir costos perquè això s'està disparant moltíssim".
+Però bé, totes aquestes, finalment, també per seguretat del pacient, són importants.
+Quan demanes proves que no són necessàries, doncs et retrobes coses que després no les pots obviar, no? I a partir d'aquí has de demanar més proves, donar un tractament, ingressar-lo... 
+Incidentalomes que no proporcionen cap milloria després al pacient, només maldecaps
+Al contrari, més maldecaps, més ingressos, més no sé què, més fàrmacs, més proves
+I tot això és una roda que va afegint problemes. I ho feies amb bona intenció, però de vegades el pacient en surt una miqueta perjudicat. I el sistema sanitari també.
+El dels escàners ja et dic jo que aquest està perdut, però...És igual. Ara entraríem en una disquisició de què ha passat amb la medicina clínica, la semiologia i el sentit comú quan apareixen les màquines. És igual.Va.
+També la pressió assistencial tampoc ens ajuda gaire a poder, amb tranquil·litat, a poder pensar i parlar més estona amb el pacient i comentar el pacient amb els teus companys i tot això ens ajuda a...
+Sí, però si llavors et genera la contrapart que és que com que vas apretat, demanes més coses que no t'estalvien feina, et donen més.
+Sí.
+Infermeria, bé, no sé, parlo ara per mi, però tenim una quantitat de feina sobrevinguda que no es correspon amb el que toca. 
+És a dir, si has de començar a acumular els teus pacients perquè els hi demanes de tot, sis hores, doncs ja tens una quantitat de feines, diguem-ne, d'hostaleria que t'han aparegut que no tenies si l'haguessis tingut tres hores només.
+I bé, i això amb tot, no? Cada cosa que es fa és un esforç extra que, en fi, és és una guerra que jo crec que no diré que està perduda, però hòstia...
+Tot i que ja hi ha iniciatives i coses que van encaminades totalment a disminuir això, no?
+Per exemple, la transfusió de sang, ja hi ha molts protocols i moltes línies amb dir, "Hòstia, no transfonem tres concentrats si el pacient necessita un". 
+Fes-ne un i si necessita, ja en posaràs dos, però no em posem més dels normals, o els circuits del dolor toràcic, 
+tots van encaminats a si li pots repetir la troponina al cap d'una hora, no la repeteixis al cap de tres hores, perquè si el pacient pot marxar de seguida, no el tinguis allà incubant algun virus.
+Ja hi ha iniciatives que ens ajuden amb això, però les coses que ens van perjudicant deuen anar a molta més velocitat que no pas les que fem per millorar-ho.
+Sí, sí. Vinga, va, deixem aquest menys és més, que no sé com gravarem el curt de dos minuts, perquè aquest és complicat. Amb moltes coses. I anem a la següent secció. Anem a l'UrgemMot?
+[Música]
+Tu m'havies dit, Albert, ja que hem fet el tema principal d'electrocardiografia, ja ens quedéssim amb aquest tema i repasséssim quatre UrgemMots.
+Jo en tinc algun més, però bé, que molts d'aquests ja els hem dit algun dia, eh? Però els repassem que sempre va bé, perquè si només els sents una vegada els oblidem i repassar-los de forma ràpida no costa res.
+Per fer un electrocardiograma necessitem posar-li unes enganxines en el tòrax del pacient que són els elèctrodes toràcics. Normalment podríem dir-ne electrode, però són elèctrodes.
+Molts d'aquests pacients són pacients que prenen antiagregants. Podem dir també antiagregant plaquetari, però el Termcat et recomana el terme principal que és antiagregant i ja està. Antiagregant, no cal dir plaquetari.
+Què més? Al fer l'electro veiem un complex QRS. A vegades podem dir un complexe, però no, complexes són altres coses i el que veiem en l'electro és un complex.
+Diagnòstics, en lloc de fluttter parlem d'aleteig auricular.
+Oi aquest, aquest m'encanta.
+Aleteig auricular. I en lloc de fibril·lo-flutter, aleteig-fibril·lació, amb un guió entre mig, aleteig guió fibril·lació.
+Aquest és aquell diagnòstic que depèn del dia de la setmana existeix i depèn del dia de la setmana no, no?
+Exacte. Depèn de quan vingui el pacient.
+Què més? Hi ha el tema dels blocadors i els blocatges. Els blocadors beta-adrenèrgics, el labetalol, bisoprolol. Els blocadors del canal del calci, verapamil, nifedipina, nimodipina, són femenins.
+Són blocadors, no són bloquejants, ni blockers, beta-blockers, ni beta-bloquejants, no, són blocadors. Blocador beta-adrenèrgic o blocador del canal del calci.
+Igual que en l'electro podem veure blocatges i hemiblocatges.
+No veiem un bloqueig de tercer grau, ni un bloqueig de branca esquerra, en lloc del bloqueig parlem de blocatge. Blocatge i hemiblocatges.
+En lloc de dir gasto cardíac, parlem de cabal cardíac.
+Després, la forma correcta d'escriure amb sigles les derivacions que fem servir amb un electrocardiograma, les precordials, crec que sempre ho fem bé, que és una V baixa, un Víctor, amb un u, un dos, un tres, un quatre, un cinc, un sis.
+I la resta de derivacions, ens recomanen el Termcat de posar un punt, D.I, que és la primera derivació, D punt, amb majúscula, eh?, D.II, dos amb numeració romana, eh? D.III, després hi ha la VR, la VL i la VF, sense la A al davant.
+Després hi ha l'extrasístole i l'extrasistòlia. Saps la diferència, Albert?
+L'extrasístole deu ser el batec únic, diguéssim, i l'extrasistòlia deu ser el fet de tenir-ne, de tenir extrasístoles.
+Sí, exacte.
+Visca!
+Exacte, molt bé, molt bé. L'extrasístole és el batec, allò, "ostres, té una extrasístole". El trastorn d'aquest ritme cardíac se'n diu extrasistòlia.
+I també havíem parlat alguna vegada de la fibril·lació auricular paroxismal, en lloc de paroxística, hem de parlar de paroxismal.
+En lloc de marcapas, hem de parlar de marcapassos.
+I en lloc de, per exemple, infart de miocardi o necrosi miocàrdica, és miocardíaca. És un infart miocardíac o una necrosi miocardíaca, en lloc de miocàrdic.
+Aquesta a mi personalment, no sé per què, però em costa. Bé, suposo que és el costum, però em costa dir un infart miocardíac, em costa molt.
+A mi també.
+I aquesta també ens costa, que és les ondes.
+Sí.
+Sí.La P, la Q, la R, són ondes, no són ones. Les ones, tu, Albert, a Cerdanya no ho veus, però els que estem vivint a l'Alt Empordà i a la Costa Brava, que és molt bonica, Aquí sí que veiem ones.
+De fet, ho he anat a buscar el diccionari perquè és que a mi em trencava, no? I llavors, una de les definicions que hi ha és moviment oscil·latori de les aigües del mar o d'un llac en sentit ascendent i descendent, 
+o el fenomen periòdic en l'espai i en el temps, caracteritzat per longitud, freqüència i amplitud. Llavors, a partir d'aquí tens totes les ones que vulguis, l'acústica, la... bé, totes les que tu vulguis, no?
+Sí. Les electromagnètiques i no sé què, sí.
+Exactament. És a dir, que tenim aquest moviment oscil·latori, una ona sinusoidal, bàsicament, no? Amunt i avall, amunt i avall. 
+I la onda la defineix com en una línia corba, en un cos filiforme, ptrc que afecta la forma de perfil de la secció plana d'una ona en el sentit de la seva propagació. El cabell li fa ondes, posa d'exemple.
+En una figura que té una vora curvilínia sinuosa, segment sortint limitat per una onda o un arc circular.
+És a dir, que realment, aquí del que estem parlant nosaltres, que és un traç, un traçat, una ratlla en un paper que va seguint diferents formes, sens dubte aplica molt millor onda que ona.
+Podem tenir una onda sinusoidal, per exemple, quan tenim una hiperpotassèmia d'aquestes extremes que el QRS ja s'ha convertit en una onda sinusoidal, que és una d'aquestes coses que et cagues a sobre quan ho veus,
+seria l'únic cas que tindríem una onda QRS que podria ser una ona, perquè puja i baixa de forma regular, no?
+La torçada de puntes, aquestes coses, podria ser una...
+La torçada de puntes, de la torçada de puntes n'hem de parlar un dia perquè... Amb una...
+Al grup de Telegram hem tingut també, hòstia, veus una cosa rara amb un electro que no saps què és i dius "torçada de puntes". Ala, ja està. I tampoc és això, eh? Veiem moltes més torçades de puntes de les que realment hi ha.
+Sí, sí, sí.
+Va, deixem els UrgemMots?
+Un parell, un parell més i ja estic. 
+Va, un parell més, vinga, va.
+El ritme d'escapament, en lloc de ritme d'escape, és el ritme d'escapament.
+I l'stent. L'stent es diu així en català, en castellà, en francès i en anglès, es diu stent. No ens hem inventat cap paraula per dir l'stent en català.
+N'haguéssim pogut dir molla, eh? L'hem perdut aquí, aquí hem perdut l'oportunitat, eh?
+La molla. Sí.
+Però bé, aquesta la diem bé, no? Tothom diu stent? Doncs fantàstic.
+Aquesta és fàcil. Molt bé, molt bé.
+Ja estic, molt bé. Albert.
+Molt bé. Doncs va, anem a les recomanacions.
+En tenies alguna, Albert?
+Sí, jo en tinc, però abans de les meves, deixa'm posar-nos al corrent de coses que han anat passant.
+Sí.
+Mira, vas recomanar, no recordo quin episodi era, un lloc web que es deia OpenEvidence.
+Sí.
+Que era un lloc web que feies consultes que et responia amb intel·ligència artificial de forma raonada i més o menys ben escrita i tal.
+Bé, ens diuen els usuaris a Telegram que deu estar molt bé però que no hi ha manera de donar-se d'alta. Han dit que degut al gran excés de no sé què, no et pots registrar.
+Oh! Doncs jo vaig fer-ho així súper ràpid i súper fàcil i tu també. Tu et vas intentar registrar però sense registrar també podies fer coses.
+Sí, però t'has de registrar al final. I jo em sembla que també em vaig poder registrar, però em diuen alguns usuaris que no, que no hi ha manera.
+I també, mira, una altra recomanació que ens fa un usuari de Telegram, també, una usuària, és una aplicació per mòbil que ha fet algú de les Espanyes, que es diu... MedQuickUrg. Ja posaré l'enllaç a les notes de l'episodi.
+És una aplicació de mòbil que obres i tens allà tota una pila de diferents seccions i de cada secció de les recomanacions que corresponen al que et interessa, no? 
+Des de guies clíniques de tractament d'alguna cosa, suposo que hi deu haver-hi... Bé
+Jo m'he quedat amb una que és, tu te'n recordes una aplicació que havíem parlat que et permet anotar les coses rellevants de l'RCP i et fa de metrònom i t'avisa dels temps?
+Sí.
+Doncs aquests en tenen un i m'ha agradat bastant. I de fet, crec que substitueix tant el que ens havies dit tu, com un que havia trobat jo en català també, que després estava mort.
+I jo crec que el substitueix aquest. M'ha agradat bastant aquesta part.
+Com es diu aquest, dius?
+MedQuickUrg.
+És una d'aquestes aplicacions Freemium, hi ha una part free i una part que has de pagar, que no és gaire cara. A mi m'estressa perquè la part free, quan et connectes, tens allà una sèrie de punts, no?
+I els vas gastant a mesura que vas obrint. M'estressa perquè cada vegada que obres alguna cosa, t'ha baixat uns quants d'aquests punts gratis i dic, hòstia, ara que haig d'anar a buscar.
+Però aquest de l'RCP no en gasta de punts i m'ha agradat bastant el de l'RCP. Aquest queda apuntat, eh? Aquest me l'apunto.
+Han de ser molt senzills, molt súper intuïtius, perquè si no...
+Aquest potser no és el més súper intuïtiu de tots, però jo l'he fet anar... Evidentment no l'he fet anar de debó, eh? Perquè tot això ens ho hem dit fa un parell de setmanes. I hòstia, tu engegues i vas seguint.
+Als dos minuts... No, no pita, eh? Una de les coses que li trobo és que quan arriba als dos minuts no fa, has d'estar mirant tu el crono, no t'avisa.
+Llavors, l'altre, que lliga amb el que et comentava abans de la intel·ligència artificial amb el diagnòstic de coses electrocardiogràfiques,
+els nostres oients ja sabran que hem recomanat, desrecomanat, tornat a recomanar el PMCardio, que és una aplicació d'intel·ligència artificial, que li passaves l'electro, et permetia digitalitzar-lo i et donava un diagnòstic. Això et sona?
+Sí.
+El vam recomanar en el seu moment, després el vam desrecomanar perquè va passar a ser de pagament, després el vam tornar a recomanar perquè tenia un canal de Telegram que et permetia fer-ho.
+Sí.
+Bé, ara aquests han tret la versió, una aplicació per mòbil que és per individus o per organitzacions i aquest per organitzacions en parlem després.
+I et permet fer cinc informes gratuïts per mes, és a dir, tu te l'instal·les i pots fer una foto de l'electro, te'l digitalitza amb una marca d'aigua, que es veu ràpid que l'has digitalitzat amb la seva aplicació i et dona el diagnòstic.
+Si vas pagant, que el preu és pagable ara ja, ara són 16 o 17 euros al mes, que home, no és barat, però no és un número escandalós.
+ A més a més et fa unes coses molt interessants, una de les quals lliga molt amb el que comentàvem de les fórmules i la morfologia i tal, que és que et raona la resposta.
+Per exemple, amb la determinació de si és un infart o no, et senyala el perquè creu que és un infart i et senyala, doncs, "goita, jo crec que és un infart amb alta confiança",
+et pot fins i tot estimar el número, perquè en aquesta derivació que ja te la senyala, doncs veig això que em crida l'atenció. Té el seu interès.
+Emprenya perquè és una recomanació desrecomanada, tornada a recomanar, ara... Bé, és igual, queda dit. PM Cardio. De nou posarem l'enllaç a les notes de l'episodi.
+Jo aquesta part de per organitzacions, ara mateix, havent vist les últimes publicacions d'aquesta gent, crec que com a sistema sanitari ens hauríem de plantejar implantar-lo.
+Ens supera de llarg a la immensa majoria dels que llegim electros. I jo que em considero una persona que la toca i que en miro molts, em supera. En sap més que jo.
+L'ha entrenat gent que en sap molt i en sap molt més que nosaltres. Evidentment es pot equivocar, però crec que s'equivocaria molt menys que els professionals.
+Jo com a sistema sanitari em plantejaria aquest aplicar-lo ja. Ara faltaria convèncer els gestors i que surtin els números i el nivell de tolerància al risc, però si ens sent algun gestor, 
+mireu-vos-ho això perquè, home, perdrem entrenament els professionals, però no veig justificació a no fer-ho.
+Sí, sí.
+Totes aquestes són les recomanacions que ens han fet d'altres o que hem fet en un altre moment. 
+Però jo en tinc una, que aprofitant avui que parlem d'electrocardiogrames, doncs recordareu que ja havia parlat del llibre d'electrocardiografia dels doctors Ramon Brugada i Manjot Singh, 
+que es diu Electrocardiografia al teu abast, que és un manual d'electrocardiografia en català. Doncs us el recomano.
+En tinc dos a casa. Me'l vaig ventilar amb una tarda. No tinc massa clar en quina categoria posar-lo.
+És de ciència-ficció?
+[riu]
+No, no, va d'electros. Però no és ben bé un llibre de text.
+Tampoc és ben bé un manual a l'ús, hi ha moltíssima imatge. Això sí, electros n'hi ha a punta pala. És molt visual.
+El que passa és que he anat a buscar, per els enllaços de l'episodi, he anat a buscar el llibre i hi ha les versions en castellà i en anglès. En català s'ha acabat ja.
+Amb lo qual, doncs, haurem de escriure a la gent de l'editorial i dir-los-hi, "Escolta, jo ho vull en català". Que home, una de les gràcies justament és que està en català.
+Bé, i ja en faran alguna edició nova, no?, o què?
+De fet, els que tinc jo ja són la segona edició, per tant, suposo que una tercera hi haurà. Els hi podem suggerir que en comptes de parlar de ones, parlin d'ondes. Mira, m'ho apunto per escriure'ls també.
+Estaria bé. Molt bé Albert.
+Aquesta és la meva recomanació, aquest manual d'Electrocardiografia al teu abast, dels doctors Brugada i Singh. 
+Jo crec que ara mateix, qualsevol estudiant que hagi d'estudiar electrocardiografia, oblideu-vos del Dubin, que no l'hauríem de comprar per altres motius que no venen al cas, i agafeu aquest.
+Entenedor, ràpid, per 20 no sé quants euros en paper i 7 euros en digital. Una cosa així. No és barat, però bé, cap llibre d'aquests és barat.
+Molt bé. Vols que faci jo alguna recomanació o què et sembla?
+Home, les teves sempre són molt interessants, o sigui que si us plau, endavant...
+En tenia dues, però només en faré una, perquè també anava relacionada amb temes d'intel·ligència artificial. I com que ja hem parlat avui d'intel·ligència artificial, al final semblarà que només parlem d'això.
+I m'agradaria parlar d'una cosa que és de la intel·ligència humana. No té res a veure amb medicina ni amb urgències, però sí que té a veure amb la salut de les persones i també salut laboral.
+I és un pòdcast. És un pòdcast que es diu "L'ofici de viure", d'en Gaspar Hernàndez, suposo que molts el coneixeu.
+Ui, això és un històric de la ràdio.
+Sí, sí, sí. Fa mil anys que fa aquest pòdcast i a la ràdio i tot això, fa l'ofici de viure. Es diu així, el seu pòdcast i el programa de ràdio i això, l'ofici de viure.
+I la veritat és que parla de temes molt interessants i com a exemple, té un episodi que el va publicar el 6 d'abril, que el titulen "enfadar-se o no enfadar-se".
+I quan l'anava escoltant, clar, anava pensant amb la meva feina, que hi treballem molta gent i les possibilitats de trobar-te amb gent que s'enfaden són moltes. I parlo de professionals i de pacients, eh?
+I parla de més que el fet d'enfadar-se puntualment en alguna situació concreta, sinó la gent que viu amb aquesta forma de ser, d'estar enfadat i sempre buscant la cosa negativa a totes les coses.
+I ens expliquen doncs el perquè i què es pot fer i d'on te ve tot això i a partir d'aquí també ens expliquen... 
+Aquí normalment, en l'ofici de viure, en Gaspar Hernàndez dirigeix la conversa, que normalment són dos psicòlegs i una altra persona que és no sé què, 
+però sempre hi han psicòlegs. I amb l'excusa de parlar del tema d'enfadar-se i aquestes coses, també t'expliquen temes de comunicació interpersonal, comunicació no verbal i aquestes coses.
+I em va semblar súper útil amb gent que treballem en equip, i amb equips molt grans i sempre amb gent molt diferent i molt complexe,
+ i amb una feina que exigeix comunicar-se molt bé i exigeix estar molt coordinats i que ens entenguem i que tot hauria de ser així, però que la veritat costa molt, doncs escoltar l'ofici de viure de vegades,
+ penso que ens pot ajudar amb això. I aquest episodi en concret parla molt de comunicació entre persones i comunicació quan hi han problemes entre mig, 
+que un s'enfada amb un altre, no sé què, doncs el perquè i què podem fer i aquestes coses.
+No té res a veure amb medicina ni urgències directament, però penso que seguretat del pacient pot millorar molt si controlem una miqueta l'enfadament crònic que moltes vegades veiem a qualsevol empresa on hi treballin més de tres persones.
+Molt bé. Aquest també m'hauré d'apuntar, eh, perquè, va, més feina.
+L'has escoltat alguna vegada, l'ofici de viure, l'has escoltat alguna vegada o no?
+Sí, sí, sí l'he escoltat alguna vegada. El que passa és que hi ha un moment, la frontera entre tot això del benestar i els abraça-arbres és molt curta.
+Saps? I llavors hi ha un moment que, uf! Saps? la frontera és molt estreta, llavors a vegades dius, "Ui aquí em sembla que ens estem anant ja massa cap a..."
+Sí, clar. Aquí fan molts episodis i xarren molt, vull dir que pots anar seleccionant tu el tema que et sembla que et pot interessar, te l'escoltes i el que no, no. I porta gent molt interessant.
+Evidentment, de vegades pot ser així una miqueta abraça-arbres i no sé què, però moltes vegades són temes explicats des del punt de vista científic, científic.
+Molt bé. Doncs posarem l'enllaç d'aquest episodi, el pòdcast de l'ofici de viure, el posarem a les notes de l'episodi també.
+Fantàstic. I em sembla que ja estem, no? 
+Ja estem.
+totes les seccions, el tema principal... i ja ens podem acomiadar fins al propera temporada, no?
+Sí, que per qüestions meves, aquest estiu està una miqueta complicat de gravar per altres mogudes en què estic ficat
+i hem dit amb el Xavi de començar la temporada, en comptes de començar-la al juny, que ja anem tard, perquè l'acabarem al juny en comptes de començar-la al juny.
+Començar-la al setembre. Per tant, doncs, ens tornem a retrobar al setembre. Encara que de fet, si esteu al grup de Telegram, doncs estem allà, 
+que vaig penjant fotos i coses, així en plan repte, a la gent del grup de Telegram i després faig un vídeo explicant-ho. 
+Si us agrada, escolta, digueu-ho allà al grup de Telegram, que sempre va bé quan la gent et reconeix la feina que fas i tal, això està bé.
+Fantàstic. Ens veiem al, a finals del setembre.
+Al setembre. Vinga, va, que vagi molt bé
+Bon estiu a tothom.
+Gràcies, fins ara. Adéu.
+Us compartiré abans de la presentació, hòstia Albert, de debó.

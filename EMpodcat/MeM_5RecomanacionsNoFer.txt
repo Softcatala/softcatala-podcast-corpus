@@ -1,0 +1,16 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+El menys és més d'aquest episodi forma part de la col·lecció Less is More de la revista JAMA, és un article publicat al JAMA el 2014,
+el qual tenia l'objectiu d'identificar o de fer una llista de cinc proves, tractaments o decisions que es prenen a urgències amb molta freqüència, que tenen un cost significatiu i que tenen poc o cap benefici per als pacients.
+Això ho van fer a través d'un procés de consens d'un grup d'experts i després amb una enquesta que es va fer a 283 professionals de sis serveis d'urgències d'Estats Units.
+Les cinc recomanacions que van donar són:
+Una, no demanar tomografies computades de columna cervical en pacients que han tingut un traumatisme i que no compleixen els criteris de NEXUS ni de la regla canadenca de la columna per demanar una tomografia computada.
+Després, no sol·licitar una tomografia computada per diagnosticar un embolisme pulmonar sense abans haver estratificat el risc d'aquest embolisme, sigui la puntuació de Ginebra revisada o els criteris de Wells o amb l'ajuda del dímer-D.
+Després, no sol·licitar una ressonància magnètica de columna lumbar en pacients amb dolor lumbar sense característiques d'alt risc.
+Això ja ho fem perquè és molt difícil demanar una ressonància urgent a urgències, i menys per aquest motiu.
+Després, no sol·licitar una tomografia computada cranial en pacients amb un traumatisme cranial lleu que no compleixin els criteris de New Orleans o de la regla canadenca de tomografia computada. Això ja ho fem.
+I no sol·licitar estudis de coagulació en pacients sense una hemorràgia o sense una sospita d'una coagulopatia... que la sospitem.
+Altres recomanacions era no demanar hemocultius en infeccions cutànies o en infeccions del tracte urinari o de pielonefritis sense una sèpsia.
+També, no receptar antibiòtics de marca en diferents pneumònies, en infeccions de tracte urinari o en cel·lulitis, sinó que féssim servir genèrics.
+Després, no administrar antibiòtics endovenosos en pacients que no estan crítics i que toleren la via oral.
+I finalment, no fer radiografies de tòrax de cribratge a pacients que ingressen a planta.
+I això és tot pel menys és més d'aquest episodi.

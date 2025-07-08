@@ -1,0 +1,402 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Benvingudes a l'EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Aquest és un projecte de divulgació científica en llengua catalana, que el presentem en Xavier Basurto,
+@UrgemCat a Facebook i a Twitter, que tenim a l'altra banda de la línia a l'Empordà, Hola, bon dia, Xavier.
+Hola, bon dia, Albert.
+Doncs sí, estem aquí, com cada mes des de l'Empordà.
+I sí, jo soc en Xavi Basurto, que soc metge d'urgències de l'Hospital de Figueres
+I també fem cosetes... Intentem fer una miqueta de difusió,
+tot i que la feina i aquestes coses ens treuen molt de temps I ens costa trobar el temps per posar coses en el blog,
+però si hi ha un blog que es diu Urgem.cat, que allà i al Twitter, I això intentem explicar coses,
+que després a través de l'EMPodcCat també us expliquem per la veu, no?
+I a Cerdanya tenim l'Albert. Què tal, Albert?
+Hola, hola, hola. Doncs mira, fresquets, fresquets. Això d'estar a l'hivern ja es nota. Ha arribat l'hivern i aquí ja s'han acabat els bolets I ja arriba la neu.
+Jo soc l'Albert Homs, soc infermer d'urgències i emergències. Actualment treballo a l'Hospital Transfronterer de Cerdanya, un centre binacional,
+I també a la unitat de suport avançat del territori.
+I també tinc un blog, emermedpirineus.cat i em podeu trobar a Twitter per emermedpirineus
+I a Can Mastodon també, @emermedpirineus@mastodont.cat.
+I en aquest episodi d'avui, que és el 19, és la segona part de l'episodi anterior,
+L'episodi 18, que parlàvem del tromboembolisme pulmonar, que en Xavi va fer una entrada al seu blog
+i que ens va explicar aquí en àudio.
+Si no heu escoltat aquesta primera part, us recomanaria que paréssiu aquí i hi anéssiu.
+En aquesta primera part parlàvem de la sospita, la diagnosi i l'estratificació del risc.
+I en aquesta segona part parlarem del tractament.
+O sigui, Xavi, quan vulguis ja pots començar.
+Si, avui farem la segona part del tema del TEP.
+Aleshores, només recordar, fer un petit incís al que vam parlar en l'episodi anterior sobre el TEP.
+Que vam parlar sobre la sospita i el diagnòstic i l'estratificació de la gravetat.
+Recordeu que vam parlar de la sospita, que bàsicament ha de vindre de mà de l'anamnesi i de l'exploració física.
+Després vam parlar del diagnòstic, que es tractava d'establir una probabilitat que aquella persona tingués un TEP o que no el tingués,
+és a dir, de confirmar-lo o descartar-lo. I per això ens ajudàvem de diverses tècniques.
+Bàsicament, vam parlar de dues eines, que era la puntuació de ginebra revisada
+I els criteris de Wells pel TEP.
+I amb això ens donaven més o menys com tres categories de baixa probabilitat, intermèdia i alta probabilitat.
+I la cosa era que quan amb alguna d'aquestes escales ens donés alta probabilitat,
+directament, ja havíem de demanar, anar a parlar amb els radiòlegs perquè ens fessin un angioTAC sense necessitat de fer un dímer-D ni res més
+Si la probabilitat amb aquestes escales ens sortia una probabilitat intermèdia, havíem d'ajudar-nos del dímer-D, si tens més de 50 anys, ajustar-ho a l'edat.
+I després si sortia de baixa probabilitat, també teníem algunes eines com era la regla de PERC,
+que amb això ens ajudava a acabar de definir que era un baix risc, baixa probabilitat,
+i que, per tant, el pacient el podíem donar d'alta tranquil·lament o buscar-li un diagnòstic alternatiu, perquè potser havies sospitat un TEP i resulta que és una pneumònia.
+En funció d'això, un cop fet l'angioTAC, ja tenim un diagnòstic de TEP.
+Aleshores, amb aquest diagnòstic de TEP, hem de fer alguna cosa. Bàsicament, fer l'estratificació del risc,
+que vam dir que fèiem baix risc, alt risc I l'intermedi.
+L'alt risc, recordo que està molt clar perquè és tot aquell pacient que o bé està xocat, o bé estava xocat i ara el tens amb noradrenalina,
+o és un pacient que TEP una aturada cardiorespiratòria, sospitada o que ja tenies un TAC i de cop i volta ha fet una aturada cardiorespiratòria.
+Això són el TEP d'alt risc, d'alta mortalitat, que abans en deien també un TEP massiu.
+Recordo que el fet que sigui d'alt risc o d'alta mortalitat
+no té a veure exclusivament de la mida del TEP que et digui el radiòleg,
+si no que té a veure amb l'afectació hemodinàmica.
+Per tant, l'alt risc és aquell, i només és aquest, el que té hipotensió o necessita nora o una aturada cardiorespiratòria
+o un pacient amb una bradicàrdia important, de menys de 40 de forma persistent, o sigui, aquest pacient hemodinàmicament molt inestable.
+El que no sigui així, no serà d'alt risc.
+Per fer-ho fàcil, parlem del baix risc, que eren aquells que no tenien cap indicador de gravetat.
+És a dir, un pacient estable hemodinàmicament, un pacient que tenia una altra escala, una altra puntuació que era el PESI,
+que té un PESI de 0 i que no té disfunció del ventricle dret per eco o per angioTAC, I un pacient que té unes troponines negatives.
+Si tot això és negatiu, doncs és un TEP de baix risc,
+que fins i tot en alguns llocs, en alguns protocols hospitalaris, en alguns països
+i si a més a més s'acompanya d'un bon suport familiar o seguiment mèdic del metge capçalera, etc. Diverses coses.
+Fins i tot en algun lloc es pot plantejar de donar el pacient d'alta a casa.
+Aquí, de moment, a casa nostra, normalment això no es fa.
+I després, a l'intermedi, n'hi havia dos, l'intermedi baix i l'intermedi alt, que anaven en funció de sí tenia dues coses,
+la disfunció del ventricle dret i les troponines positives en dèiem intermedi alt. I si tenia alguna de les dues coses només, doncs és un intermedi baix
+Sempre amb tensions i tal normals, perquè si no és normal ja és d'alt risc, d'acord?
+Bé, no m'enrotllo més amb això perquè ja ho vam dir l'altre dia.
+I ara, doncs això, ja tenim un TEP, ja tenim si és de baixa mortalitat,
+o intermèdia o baixa i hem de començar a fer alguna cosa
+Bàsicament amb el TEP tenim dues estratègies de tractament, l'anticoagulació i la trombòlisi, d'acord?
+De l'anticoagulació, com sabeu la podem fer per diferents vies d'administració
+La podem fer l'anticoagulació oral amb diferents tipus de fàrmacs
+Subcutània o intravenosa a través d'una bomba d'infusió contínua, per exemple en aquest cas es faria servir l'heparina no fraccionada, l'heparina sòdica.
+I l'altra opció que tenim en aquests tipus de pacients és la trombòlisi, que normalment farem servir la trombòlisi sistèmica, que és amb l'alteplasa o la tenecteplasa.
+Parlem un moment de l'anticoagulació.
+Hauríem de començar l'anticoagulació, després parlarem com, en funció de si és de baix risc o intermedi o alt, el tractament serà diferent.
+L'anticoagulació, tots els malalts portaran anticoagulació, l'hauríem de començar tan aviat com sigui possible.
+És a dir, quan tinguis ja el TAC que te l'informen com a TAC amb un TEP,
+O l'altra opció seria que tinguis un alta... que encara no l'hagis pogut fer el TAC, però que ja tinguis un alta sospita que allò serà un TEP,
+el pacient tingui baix risc de sagnat i tinguis el TAC que sàpigues que no te'l podran fer fins a l'endemà, pel que sigui.
+Perquè el tens espatllat o perquè no tens accés al TAC pel que sigui I has d'esperar moltes hores.
+En aquest cas, quan és molt alta sospita, el pacient és de baix risc de sagnat i el TAC et tardarà moltes hores, en aquests casos pots començar a anticoagular el pacient.
+Déu-n'hi-do, això és començar bastant d'urgències, és començar amb no tota la informació i amb bastanta gestió del risc.
+Sí, sí, això pot passar molt fàcilment.
+ Nosaltres, almenys a l'Hospital de Figueres, sí que podem fer el TAC quan sospites un TEP, el podem fer les 24 hores,
+però el TAC, almenys el nostre, cada dos per tres està en revisió o està espatllat o el que sigui,
+i potser et diuen que l'haig de derivar a l'Hospital de Referència i amb això poden passar unes hores.
+Per tant, si són bastantes hores, l'alta sospita l'és i no és un pacient amb molt risc de sagnat, doncs hem de començar l'anticoagulació.
+Quins pacients considerem que el risc de sagnat pot ser important si l'anticoagulo?
+Les llistes aquestes són bastant... Poden canviar una miqueta depenent d'on te la llegeixis, però bàsicament
+a pacients a partir d'una certa edat, per exemple per més de 75 anys ja t'ho has de començar a plantejar.
+No són contraindicacions absolutes, però t'ho has de començar a pensar.
+75 anys, que hagi tingut una hemorràgia important recent. Important vol dir que hagi necessitat transfusió de sang.
+O una hemorràgia retroperitoneal, de la medul·la espinal o intracerebral, doncs aquests pacients, pensa-t'ho dues vegades.
+Que hagi tingut un ictus fa menys d'un mes, una hemorràgia digestiva o una cirurgia major fa menys de dues setmanes.
+O amb algun antecedent de neoplàsia o que tingui un filtratge glomerular de menys de 30.
+Que estigui anèmic, que tingui una tensió mal controlada, amb sistòliques de més de 180 per exemple.
+O que estigui plaquetopènic, amb menys de 75,000 plaquetes.
+Doncs si no tens un diagnòstic segur de TEP, doncs potser és millor esperar unes hores que li facin el TAC,
+i així en el risc benefici ja poses un tractament que té el seu risc,pPerò per una malaltia que també encara té més risc de mortalitat.
+Aleshores, en els pacients de baix risc, que hem dit abans, el que no té cap indicador de gravetat o el risc intermedi o intermedi baix,
+aquests els anticoagularem i no caldrà fer cap anticoagulació intravenosa.
+Normalment, nosaltres en la nostra àrea, aquests pacients els comencem a tractar amb anticoagulants orals
+I fem servir el Sintrom i amb l'heparina de baix pes molecular. Nosaltres fem servir normalment l'enoxaparina.
+D'enoxaparina fem servir un mil·ligram-quilo cada 12 hores o un mil·ligram i mig per quilo una vegada al dia.
+I juntament amb aquesta enoxaparina, amb aquesta heparina de baix pes molecular, Iniciaríem també el Sintrom, les dues coses a la vegada.
+El Sintrom normalment l'hauries de fer durant uns 5 dies o fins que l'INR sigui superior a 2 en dues determinacions seguides.
+Quan ja tens això, ja pots aturar l'enoxaparina i deixes el pacient amb Sintrom. Però comences a fer l'anticoagulació amb les dues coses, amb l'enoxaparina i el Sintrom, d'acord?
+Aquí no ha arribat encara lo dels nous anticoagulants orals? Encara no hi ha evidència aquí?
+Si, si mires les guies, la majoria posen com a primer lloc els anticoagulants directes. Per exemple, el rivaroxaban i l'apixaban.
+Però si parles després amb les guies més de l'ICS, els farmacèutics de l'ICS i altres que no tenen...
+Que no siguin les guies de pràctica clínica, que de vegades poden estar força influenciades per la indústria farmacèutica i aquestes coses,
+doncs no ho tenen tan clar que siguin molt més beneficiosos el rivaroxaban que l'apixaban.
+Vull dir, que siguin millors els nous anticoagulants orals directes aquests que el clàssic Sintrom. La qüestió és anticoagular-lo, d'acord?
+Bé, quan refem aquest episodi d'aquí a uns anys, llavors ja veurem si... Ja tindrem evidència
+Espero, no ho sé, perquè ja fa uns quants anys, eh, d'això, no sé si havia canviat molt.
+Per exemple, un avantatge sí que, per exemple, si fa servir els nous anticoagulants, els anticoagulants directes.
+No caldrà posar-li l'heparina subcutània durant uns quants dies, d'acord?
+Perquè aquests tenen efecte més ràpid. Un avantatge pot ser aquest, d'acord?
+Però que estigui molt clar i al 100%, jo no hi posaria la mà al foc.
+La qüestió és anticoagular-lo, d'acord? Fes servir la via que vulguis, però el baix risc i el risc intermedi el pots anticoagular d'aquesta manera.
+Què més? Si ja tenim un pacient d'alt risc o intermedi alt, aquests ja necessiten una anticoagulació una miqueta més ràpida i més... i... més potent.
+I ens hauríem de començar a plantejar l'heparina sòdica intravenosa, una infusió contínua amb l'heparina  no fraccionada,
+Que començaríem amb un bol de 80 mil·ligrams-quilo i després poses la perfusió a 18 unitats-quilo-hora.
+I després això s'ha d'anar ajustant, s'ha de monitorar amb el TTPA, que te'l donarà l'analítica,
+i ajustar-ho perquè tingui un TTPA de dues vegades els valors normals.
+Per què ho fem amb això? És a dir, per què no anticoagulem amb una heparina de baix pes molecular?
+Doncs perquè un cop tu anticoagules amb una heparina de baix pes molecular, el pacient està anticoagulat 12 o 24 hores.
+I aquests malalts, que hem dit que eren els d'alt risc o intermedi al, són pacients que tenen molt risc d'empitjorar.
+Que hagis de fer una trombòlisi. Aleshores, si necessitessis fer una trombòlisi, ja tens el pacient anticoagulant i això li suma risc de sagnat.
+En canvi, si l'has anticoagulat amb heparina sòdica, heparina no fraccionada intravenosa,
+Tu quan pares la perfusió, pares l'anticoagulació.
+No sé, no conec exactament els minuts, però és una perfusió que quan la pares deixa de fer l'efecte de l'anticoagulació.
+Per tant, si tu has de fer una fibrinòlis o sagna pel que sigui,
+El pacient té una complicació i sagna, tu pares l'anticoagulació intravenosa i el deixes d'anticoagular.
+I si li has de fer una fibrinòlisipPerquè el pacient empitjora o perquè es posa hipotens, doncs tu pots parar l'anticoagulació
+i fas la fibrinòlisi i un cop feta la fibrinòlisi tornes a engegar una altra vegada l'anticoagulació intravenosa.
+Cosa que no pots fer amb una heparina sòdica... Amb una heparina de baix pes molecular que has posat per via subcutània.
+Què més? Parlem de la trombòlisi sistèmica. Aquesta la faríem servir, bàsicament, en tres possibles ocasions.
+En el TEP d'alt risc, que hem dit que és el TEP que està xocat, sistòliques de menys de 90, o que has necessitat posar-li ja la noradrenalina.
+O el TEP que pateix una aturada cardiorespiratòria, o que no sabies... no tenies un TAC que digués un TEP,
+però que et porten un pacient amb una aturada cardiorespiratòria, i pels seus antecedents recents i les circumstàncies,
+tens molt alta sospita que allò fos un TEP. Per tant, en aquest tipus de pacients, trombòlisi sistèmica.
+Els altres seria el TEP de risc intermedi alt, que, de cop i volta, empitjora clínicament.
+Ja no el tens estable, i aleshores, bé, l'havies etiquetat inicialment d'intermedi alt, però li passen coses que veus que estan pitjorant en l'àmbit hemodinàmic, en l'àmbit gasomètric,
+Doncs aquest també podria ser un candidat a la trombòlisi sistèmica.
+I després un altre que és el que en el TAC et diguin que té un trombe a l'aurícula dreta o al ventricle dret.
+o un trombe en trànsit, que seria aquell trombe que està a través del foràmen oval
+o foràmen botal, el forat de botal, que està passant al ventricle esquerre.
+En aquests t'has de plantejar la trombòlisi sistèmica també. Ara després parlarem una altra vegada d'aquests.
+Cal recordar que tot això té contraindicacions absolutes i relatives. I depèn d'on te les miris poden ser unes o altres.
+En general, per exemple, la Societat Europea de Cardiologia el 2019, a la guia del 2019,
+parla de contraindicacions absolutes de la fibrinòlisi o de la trombòlisi sistèmica.
+Antecedents d'hemorràgia cerebral o un ictus que no s'hagués sabut la causa, o un ictus isquèmic en els sis mesos previs,
+o una neoplàstia del sistema nerviós central, o que durant les tres setmanes prèvies hagués tingut un traumatisme major, una cirurgia major, o una lesió cerebral,
+o que tinguis una diàtesi hemorràgica, o que tinguis un altre sagnat actiu, per exemple una hemorràgia digestiva activa, serien contraindicacions absolutes de fer la trombòlisi.
+Parlem un moment del TEP d'alt risc, anem pel més greu. El TEP d'alt risc, una opció seria el TEP amb una aturada cardiorespiratòria.
+Aquesta indicació, tot i que a la Guia Europea de Cardiologia en parlen,
+que està indicat a la trombòlisi i a les guies de l'ERC també parlen de fer trombòlisi.
+En el pacient que et porten que té un TEP i s'ha aturat, doncs una indicació és de fer servir els fàrmacs trombolítics en aquest cas.
+Primera opció, fer servir l'alteplasa, l'RTPA, l'alteplasa, que és l'Actilyse, nom comercial, I que és el trombolític que fem servir en el codi ICTUS.
+Les dosis ja varia bastant d'on te la llegeixes i quina font utilitzes.
+La Societat Europea de Cardiologia parla de 0,6 mg per quilo a passar en 15 minuts, Dosi màxima de 50 mg.
+Això vol dir que per una persona de 70 kg li tocarien 40 i escaig mil·ligrams a passar en 15 minuts.
+Els 15 minuts, potser, jo penso que hi ha altres opcions, que per exemple recomanen els 50 mg a passar en 2 minuts.
+I que si el pacient que està aturat no recupera circulació espontània, doncs al cap de 15 minuts repetir els 50 mil·ligrams d'alteplasa.
+Ho dic perquè aquesta opció primera que us he dit...
+Això canvia una miqueta respecte a com ho fem en el codi ictus, que fem un bol del 10% de la dosi i després la resta en perfusió contínua.
+Sí
+Aquí serien un bol o dos, en funció de si hi ha hagut resposta al primer o no.
+Sí, exacte
+L'europea diu de passar-ho en 15 minuts, els 50 mil·ligrams... Màxim 50 mil·ligrams a passar en 15 minuts
+Però no sé, jo penso que si tens un pacient que li estàs fent reanimació cardiopulmonar potser 15 minuts són bastants minuts
+No ho sé, si hi ha una recomanació també de fer-ho 50 mil·ligrams en dos minuts i si no recupera circulació tornar a repetir els 50 mil·ligrams,
+Em sembla més lògica, tot i que també no hi ha assajos clínics que demostrin que sigui...
+Que aquesta indicació sigui molt beneficiosa ni menys a quina dosi, ni altres coses.
+Vull dir que tot això pot anar canviant contínuament.
+Però, vaja, sí que sembla que a aquest pacient fer-li algun tipus de trombosi sistèmica estaria indicat.
+Dependrà si li vols passar amb 15 minuts o amb 2 minuts, o el que et creguis convenient.
+L'altra opció seria si no disposes de l'alteplasa, perquè nosaltres, almenys al nostre territori, com a trombolítics no portem els dos a la USVA,
+Però, per exemple, no portem els dos trombolítics, portem el del codi IAM, que normalment fer servir la tenecteplasa.
+Aleshores, també podries, com a segona opció, fer servir, en lloc de l'alteplasa, pots fer servir la tenecteplasa, que és el Metalyse, que és el que fem servir en el codi VAM.
+I aquest sí que el posem en un bol en 5 segons.
+Vull dir, si pesa 70 quilos, li tocarien com uns 35 mil·ligrams de tenecteplasa a passar en bol en 5 segons.
+I aquí no t'has d'esperar ni dos minuts, ni 15.
+Que això és la meitat de la dosi que per l'IAM.
+Pot ser, no me'n recordo, si és la meitat de dosis?
+Sí, em sembla que... si no em falla la memòria és un mil·ligram per quilo,
+és un mil·ligram-quilo?
+I amb el TEP veig que és la meitat, que ja em quadra.
+Si. Saps que la diferència és que, per exemple, quan tu poses el trombolític que posis, si és un IAM o és un ictus.
+Clar, no tot el fàrmac que tu li poses en una vena se'n va a l'aurícula dreta, ventricle dret i d'aquí se'n va als pulmons.
+Només una petita part d'aquest trombolític que tu li posis entrarà, quan surti del ventricle esquerre, entrarà a les coronàries.
+La resta se'n va a tota la circulació, després torna al cor i després una petita part tornarà a entrar a les coronàries.
+I a poc a poc anirà entrant fàrmac trombolític a les coronàries i al final el trombe es dissoldrà.
+EL mateix amb el cervell, quan tens un codi ictus,
+Però amb el TEP, el 100% del fàrmac que tu li posis, tal com surti d'aurícula dreta, ventricle dret,
+Tot el 100% se n'anirà directament en el trombe que està a les artèries pulmonars.
+Perquè normalment, si tens una aturada cardíaca, és que tens les dues artèries pulmonars trombosades, la dreta i l'esquerra.
+Per tant, el 100% del medicament, en el segon dos, tindràs el medicament fent efecte.
+No has d'esperar que una miqueta vagi passant a la coronària i a poc a poc vagi acumulant mèdicament i vagi fent el seu efecte.
+Per tant, amb la meitat de la dosi pot ser suficient, i a més a més l'efecte ha de ser més immediat.
+I tampoc has d'esperar que el trombe es dissolgui al 100%,
+Vull dir que a mesura que es dissolgui una miqueta i la sang pugui començar a circular ni que sigui un 20%,
+és possible que ja comencis a tindre opcions que el pacient torni a recuperar circulació espontània.
+Per tant, a menys dosis, sembla que sigui beneficiós.
+Aleshores, passem a parlar del TEP confirmat, i que és un TEP d'alt risc,
+És a dir, un pacient que el tens xocat, o el tens amb nora, o el tens amb una bradicàrdia extrema, i dius, això pinta molt malament.
+Doncs aquest sí que té una indicació, i és, de fet, el pacient xocat és l'única indicació àmpliament acceptada per la trombòlisi sistèmica.
+En aquest sí que hi ha estudis, i en aquest no ens hauria de passar per alt.
+I la FDA i la Societat Europea de Cardiologia ens recomanen, d'entrada, fer servir l'Alteplasa, Que és l'Actilyse, que és el mateix que fem servir en el codi ictus.
+I la dosi que recomanen és 100 mg en perfusió contínua durant dues hores.
+És un pacient que el tens xocat, però no li has de passar amb un bol així amb dos minuts. Tens temps, i per tant l'hi pots passar en dues hores.
+Si té alguna contraindicació relativa a la trombòlisis aleshores la dosi es redueix a la meitat, 50 mg d'alteplasa a passar en dues hores.
+En aquests pacients, a part de fer la trombòlisi, convé anticoagular-los.
+I és el que hem dit abans d'anticoagular-los amb heparina sòdica intravenosa, l'heparina no fraccionada,
+Que depèn de quina guia et llegeixis, et diuen que durant la trombòlisi aturis la perfusió d'heparina,
+facis la trombòlisi, i quan un cop s'ha acabat la trombòlisi, si el pacient no sagna i no hi ha hagut cap complicació, tornes a activar una altra vegada la perfusió contínua d'heparina sòdica.
+Alguna altre guia et diu que no cal que suspenguis transitòriament la bomba d'heparina sòdica.
+Suposo que pot dependre de les característiques que té el malalt, si té una edat de més de 65 anys o s'hi aproxima...
+i té una creatinina més justeta i té antecedents més o menys recents d'un traumatisme o alguna cosa, jo segur que pararia la bomba d'infusió de heparina sòdica.
+ Això ho deixen bastant en l'aire. Però el TEP confirmat d'alt risc seria una indicació de trombòlisi.
+Una pregunta. Com que vaig veient... en el seu dia els infarts primer els lisàvem i després els vam fer angioplàstia,
+i que els ictus els lisàvem i ara s'estan fent trombectomies, per aquí no hi ha opcions mecàniques per resoldre aquest problema de l'embòlia pulmonar?
+Si, de fet, per exemple, si tens un trombe, si el TAC o l'ECO et diu que tens un trombe a l'aurícula dreta o al ventricle dret.
+O tens un trombe en trànsit, és a dir, un trombe que t'està passant pel forat de Botal o el forat oval, aquesta seria indicació, si no tens més remei, de fer la trombòlisi sistèmica,
+Però si tens opcions segons on estiguis, hi ha dues opcions: o una embolectomia per catèter, que suposo que deu ser similar al que es fa amb el codi IAM,
+a través de catèters i tal, aspirar el trombe, o l'altra és una embolectomia quirúrgica.
+Són aquestes dues opcions, o a través d'un catèter o una embolectomia quirúrgica.
+Però clar, ja són... no ho sé, no sé on està disponible, ni si fora de Barcelona es pot fer en algun lloc això, no ho sé.
+Però aquestes penso que serien les dues indicacions, que hi hagi un trombe a punt de sortir disparat del cor.
+O anar a la circulació ventricle esquerre, en aquests casos, més que fer una trombòlisi, que potser el que faràs és partir aquest trombe gran, partir-lo... Que es trenqui amb dos i també t'emboliquis
+Doncs seria indicació de fer embolectomia, sigui per catèter o per via quirúrgica.
+Potser si  que d'aquí uns anys a qualsevol hospital que no sigui un comarcal ja es podrà fer més fàcilment i et diran que el derivis en aquests llocs. És possible
+Tampoc deu ser excessivament freqüent trobar-te aquests trombes així en trànsit. No ho sé
+No sé, eh? Si fos gaire freqüent encara ens acolloniríem més.
+Sí, sí, clar. A mi si em diuen que té un trombe allà a punt de sortir disparat i bloquejar les dues artèries pulmonars no sé què faria.
+Aleshores, què més? Hem parlat de la de l'anticoagulació, sigui oral, també subcutània i també endovenosa, i de la trombòlisi. Bàsicament seria el tractament del TEP.
+Altres coses que hem de tenir en compte és, per exemple, optimitzar la precàrrega. Són pacients que a lo millor els trobem en xoc, però no necessàriament necessiten molta seroteràpia endovenosa.
+Sinó que hem de mirar com estan de la precàrrega, i per tant hem de tenir una miqueta de vista i anar i mirar com està... Fer servir l'eco i mirar com està la cava inferior,
+Si trobem una cava inferior, doncs de menys de 2 cm i que es col·lapsa més del 50%, doncs potser sí que necessita una miqueta de seroteràpia,
+però si no és el cas, si el pacient no té evidència d'hipovolèmia, no cal que li posem líquids, encara que el tinguis just de tensió. Poder necessita una altra cosa i no líquids.
+Què més? Augmentar la contractilitat del ventricle dret. Pots tenir vàries opcions. L'ideal seria amb dobutamina.
+Però potser al començar la dobutamina hauríem d'afegir-li abans prèviament la noradrenalina, perquè si no al posar-li la dobutamina sí que pot ser que baixi una miqueta la tensió arterial i pot ser, es pot complicar una miqueta més.
+Per tant, si necessites posar-li dobutamina, potser està indicat començar d'entrada amb la noradrenalina, i un cop començada, afegir-li la dobuta.
+També important intentar que no augmentin les resistències vasculars perifèriques.
+Coses que podem fer per això. Doncs controlar i monitorar i tractar l'acidosi, pel que sigui, si està intubat, doncs manegar el respirador perquè es corregeixi l'acidosi o amb bicarbonat.
+I controlar la hipoxèmia, mantenir unes saturacions per sobre del 90%. Si tens el pacient hipoxèmic, augmenten les resistències vasculars perifèriques, per tant, intentem millorar-li la hipoxèmia com puguem.
+La hipotensió tampoc ens ajuda, sobretot, per exemple, abans d'intubar, si creus que és un pacient que s'ha d'intubar, sobretot tenir-lo abans amb bones tensions. Com a mínim amb unes sistòliques de 130-140, ideal.
+I què més? No se m'acut res més en aquests pacients. Anticoagular-los, el pacient que necessiti la trombòlisi, no posar-li seroteràpia a tots els pacients,
+millorar la contractilitat amb la dobuta o amb adrenalina, i l'acidosi, la hipoxèmia, la hipotensió i al menys d'entrada seria l'indispensable per el tractament d'aquests pacients amb TEP.
+No sé, Albert, si...
+Em ve al cap ara, que he recordat, és a dir, amb els que estan en aturada cardiorespiratòria i els hi fem la fibrinòlisi, ens obliguen, si no em falla, si no ha canviat en les últimes guies, que no ho recordo,
+ens obligava a mantenir l'RCP durant un període perllongadíssim de temps.
+Sí.
+Que a vegades és una agonia terrorífica aquesta també.
+Sí, al menys que jo sàpiga, la de les últimes guies és entre 60 i 90 minuts, un cop fet la la trombòlisi. 60, 60 minuts.
+Nosaltres... Jo he fet algun, al menys recentment em recordo un cas, eh?
+I sort que va ser a l'hospital i mira, cada cada 3 minuts, cada 2-3 minuts, pues canviant la persona que fa les compressions toràciques i així vam estar 60 minuts.
+I una cosa, Xavi, has comentat, lo de la corregir la hipoxèmia per evitar les resistències vasculars, entenc que pulmonar, eh? Que és la...
+Sí, sí, sí.
+La hipòxia fa vasoconstricció pulmonar. D'acord, és com que m'ha semblat que deies perifèrica i dic, "Ui, això igual...".
+Bé, sí, a nivell pulmonar, clar, t'interessa no augmentar les resistències, per tant el que és l'acidosi, la hipoxèmia, tot això et perjudica.
+Per tant, doncs ser una mica més curós i i monitorar millor, per exemple, com està de pH i aquestes coses, doncs monitorar-les i poder-hi estar una miqueta més a sobre. No treure-li importància que el pacient estigui, per exemple, una mica acidòtic.
+Molt bé.
+Doncs potser ens quedaria per comentar, amb els que parlàvem de posar-los-hi, amb els pacients de baix risc.
+De fet ja ho has comentat, no? Que alguns d'aquests són susceptibles de ser donats d'alta a domicili amb tractament i seguiment, imagino, però la resta és... Tot això és tractament hospitalari.
+Sí, sí, sí, tot això és tractament... Clar, hospitalari perquè recordeu que hem dit que els pacients de baix risc,
+sí que tenien poca probabilitat o risc de mortalitat, no sé si recordo que era com un   1% o un 0,5% en els següents tres mesos, crec que eren.
+Per això, en aquests casos, si la família o l'entorn social i el seguiment mèdic, i la patologia prèvia i tot això està bé,
+en alguns llocs i que ho tinguin ben protocol·litzat, es pot fer de fer el tractament anticoagulant a casa, però la majoria ingressaran, sobretot els de risc intermedi,
+tots ingressen i tot el tractament, encara que només sigui per posar-li l'heparina subcutània cada 12 hores, tots ingressen. Vull dir que el tractament sempre és hospitalari, de moment.
+Molt bé.
+No sé, potser d'aquí uns anys, si torna a haver-hi o l'actual pandèmia de la COVID empitjora, potser si els hospitals estan col·lapsats, potser es començarà a pensar també en alguns casos de fer el tractament a domicili.
+Però bé, és una miqueta perillós perquè almenys durant les primeres 72 hores aquests pacients és quan tenen més risc de complicar-se de forma seriosa o d'aturar-se. Per tant, almenys 72 hores sí que és necessari.
+Molt bé. Doncs amb la part del tractament acabem aquesta segona part de l'embòlia pulmonar, que hem hagut de partir en dos episodis per no fer-ho massa llarg.
+I continuem ara, si us sembla, amb la secció nova que va sorgir espontàniament en l'episodi passat també.
+Una secció que hem anomenat Menys és Més. Una secció que el que pretén és fer-nos fer menys coses per fer-ho millor.
+I el Xavi, suposo que revisant la recomanació seva de l'episodi anterior, l'Essencial del Departament de Salut de Generalitat de Catalunya,
+que no és l'única, però és una d'aquestes eines que ens dóna idees de com fer millor la nostra feina, segur que n'has trobat alguna que ens vols explicar.
+Exacte, sí. La idea és que cada episodi, intentar parlar d'alguna font d'aquestes recomanacions diferents.
+Que no totes siguin Essencial, sinó que si hi ha angleses, americanes, canadenques, totes... Hi ha organismes que fan aquest tipus de recomanacions.
+En aquest episodi comencem per la que tenim aquí a casa, que és l'Essèncial,
+i totes van amb el mateix sentit a intentar identificar totes aquelles pràctiques que fem habitualment
+i de forma molt sistemàtica i molt àmplia, que fa molta gent, però que per contra no aporten molt valor, molt benefici, fins i tot al contrari, per la salut del pacient.
+Per tant, es tracta d'identificar-les i donar-nos un toc d'atenció de dir, ei, això no és que estiguin contraindicades ni prohibides ni res, però sí que com a mínim que no les fem de forma sistemàtica.
+Això penso que és el missatge que ens volen transmetre.
+La primera que volia recordar, o que volia fer incidir avui en dos minuts, era la recomanació del metamizole.
+Ens recomanen que el metamizole, en el tractament de la febre i del dolor agut, no és un tractament de primera elecció. No està justificat com a primera elecció.
+I això ho recomanen perquè el nombre de prescripcions ha augmentat de forma important.
+Per tant, el 2012 a Catalunya es prescrivien un milió d'envasos i el 2017 ja són dos milions d'envasos que es prescriuen. Per tant, aquí van veure que passava alguna cosa.
+Per contra, en molts països, com és el Regne Unit, Dinamarca, Noruega, Suècia, Estats Units, Canadà, Austràlia i molts altres països,
+és un medicament que no està comercialitzat, perquè veuen que la relació risc-benefici no és beneficiosa i a més a més que hi ha altres alternatives més segures, més econòmiques i que fan el mateix i més beneficioses.
+No hi ha guies de pràctica clínica ni estudis, assajos clínics, que realment comparin el metamizole amb algun altre antitèrmic o analgèsic i que et diguin que és millor el metamizole.
+No té una evidència perquè ens doni tranquil·litat de fer-lo servir com a primera elecció. Per això ens recomanen que no ho fem servir com a primera indicació.
+I a més a més perquè té risc importants, principalment el risc d'anafilaxi, que és important, i segon les discràsies sanguínies, sigui la agranulocitosis o l'anèmia aplàstica o la pancitopènia, són complicacions que poden donar el metamizole.
+Crec que res més. Per tant, l'Essèncial ens diu això, que el metamizole no és de primera elecció en el pacient amb dolor o amb febre,
+que tenim altres opcions, el paracetamol, l'ibuprofèn, el naproxè, són opcions perfectament igual o més beneficioses i amb més recolzament científic i amb menys complicacions.
+Per tant, no fem servir de forma sistemàtica aquest metamizole. I ja està, Albert.
+O sigui que No-lotil. Molt bé.
+Doncs fins aquí la secció del Menys és Més", la primera secció del Menys és Més de nolotil caca. En tindrem unes quantes d'aquestes que tot serà caca, eh? Ja ho estic veient.
+Exacte, espero, crec que sí, vaja.
+Molt bé. Doncs va, passem a la secció tradicional i que segurament, al menys a mi és la que més m'agrada, eh? El que ens agrada els lletraferits que fem aquesta mena de programa de... ràdio?
+Aquest programa de veus.
+Aquesta cosa que fem aquí, que és l'UrgemMot.
+Tenies algun UrgemMot que volies comentar, Albert, o com ho tens aquesta setmana?
+Jo tinc una cosa que no t'agradarà. Tinc una cosa que no t'agradarà perquè justament va del tema d'avui. 
+Ajá.
+Aquí estem parlant tota l'estona de tromboembolisme pulmonar. 
+Sí.
+I quan estava escrivint per publicar l'episodi anterior, hòstia, això de tromboembolisme pulmonar com que no surt gaire.
+I vaig mirar, he anat a mirar el Termcat i resulta que prefereixen tromboembòlia pulmonar en femení, tot i que el tromboembolisme pulmonar surt com a sinònim complementari.
+Ah, doncs això no ho sabia jo, eh? 
+Llavors, no sé, no sé com ho haurem de dir-n'hi. N'hi diem tromboembòlia pulmonar? No hi diem tromboembolisme pulmonar? Com ho hem de fer això? Desobeïm el Termcat o ho fem bé?
+No, home, intentem fer-ho bé, no? Jo penso que si ens acostumem, si ens acostumem, d'aquí a quatre dies ho direm bé. Hem de dir la... com ho dius que hem de dir? En femení? L'embòlia pulmonar?
+La tromboembòlia pulmonar o l'embòlia pulmonar. Mira, aquí tenim la sort que amb anglès com que és això del "pulmonary embolism", doncs mira, si fem embòlia pulmonar quedem...
+Val.
+Quedem així com a com anglòfons, anglòfils, eh?
+Doncs m'agrada, m'agrada molt. Ho posarem en el diccionari immediatament, avui mateix, eh? Molt bé, molt bé. M'agrada.
+I ... I què tens tu?, va 
+Doncs... Sí, jo tenia, havia fet una recopilació de de 10 termes que fan referència a medicaments, que crec que en algun, en algun moment ja n'hem parlat,
+però bé, he fet una recopilació de 10 fàrmacs que si et sembla bé, ara comento cinc i en el pròxim episodi fem els altres cinc per no allargar-nos excessivament.
+Molt bé. 
+Volia parlar del... parlar no, senzillament esmenar, fer una esmena dels blocadors beta-adrenèrgics, val? No diem els betabloquejants o bloquejants o el que sigui, sinó que són els blocadors.
+Els blocadors beta-adrenèrgics o els blocadors del canal del calci. Sigui labetalol, el bisoprolol, o del calci serien el verapamil, la nifedipina, que és femenina, la nifedipina, la nimodipina i tots aquests.
+Després, parlar de les quinolones. Les quinolones també són femenines: la ciprofloxacina, la norfloxacina, val? Totes aquestes quinolones acaben en -ina.
+La colquicina. Que jo sempre n'havia dit la colxicina, que és per la gota i aquestes coses, doncs n'hauríem de dir la colquicina. D'acord?
+Mare de Déu, senyor, això no surt, eh? Colquicina.
+Colquicina. Una mica de colquicina i se te'n va...
+Uff! Això pot ser complicat, eh? 
+El dolor.
+Colquicina. 
+Colquicina. Colquicina. Home, de fet, si si penses amb el terme que fèiem servir, el colxicina, tampoc és que sigui molt normal aquest terme. Doncs, per tant, canvies i dius colquicina.
+Colquicina.
+Després els contraceptius orals o postcoitals, millor dir-ne, també em pots dir així, eh? Però millor que anticonceptiu, doncs en diem contraceptiu.
+Contraceptiu. Molt bé.
+I després el mannitol, és l'últim que vull dir. El mannitol, que l'hauríem de dir igual que en anglès, amb dues enes, mannitol.
+Manitol.
+Que segurament sempre l'has vist escrit amb una ena. Doncs, amb una ena és en castellà, en català i en anglès és mannitol amb dues enes.
+Mannitol.
+I ja està.
+El pròxim episodi parlarem de cinc fàrmacs més, que també podem millorar la forma de dir-los, i és senzillament acostumar-se a fer-ho així i ja està.
+Molt bé. Doncs després de la colquicina, ho he dit bé? Colquicina? No. Colquicina, doncs va...
+Colquicina, colquicina.
+Colquicina, colquicina. Doncs després de la colquicina i a base d'anar-ho repetint igual ho acabarem dient bé. Passem a les recomanacions. Va, vinga.
+Ep, que ara mentre editava l'àudio, m'he adonat de que no hem parlat de la juguesca de l'UrgemMot.
+Si recordeu de l'episodi passat, us vam explicar que al grup de Telegram cada setmana posem una juguesca en que els seguidors del grup de Telegram han de triar quina és la paraula més adequada a una definició que posem.
+Tot això està basat en el diccionari de l'UrgemMot que té Urgemcat al seu al seu lloc web.
+A l'episodi passat, la definició que vam posar era "la inflamació supurativa del teixit connectiu, concretament del teixit cel·lular subcutani o subaponeuròtic, que té una gran tendència a la formació de necrosi".
+Donàvem quatre opcions: flemò, amb accent obert a la O, flemó, amb E, l'anterior també era amb E, i accent tancat a la O, flegmó, E G M O amb accent tancat, i flamó, amb A M O amb accent tancat.
+Us vam dir que si volíeu saber la resposta, doncs havíeu d'anar al grup de Telegram a respondre, però és que ser mala persona no donar-vos la resposta aquí si vam fer la juguesca aquí mateix, oi?
+Bé, la resposta a aquesta juguesca de l'episodi passat és flegmó, amb E G. Segur que molts no l'esperàveu aquesta.
+I ara si us sembla, en fem un altre per a aquest episodi.
+Mireu, la d'aquest episodi és la següent definició: dificultat o cessació del pas d'impulsos a través del sistema específic de conducció del cor.
+I també us donem quatre opcions. La primera, bloqueig, acabat en G. La segona, bloc. La tercera, bloqueix, acabat en X. I la quarta, blocatge.
+Si voleu saber de seguida quin és el resultat, doncs us haureu d'apuntar al grup de Telegram. Si no, us el donarem per l'episodi que ve.
+Vinga, i ara tornem a les recomanacions.
+Quina recomanació tens tu per avui, Xavi?
+Jo només volia recomanar-vos un individu que jo segueixo a través del Twitter, que és l'Óscar Arias, guió Carrión, 
+que en el Twitter és @oacerebro, perquè, bueno, és l'Óscar Arias, eh? O a cerebro.
+És mexicà, no tinc ara clar si és neuròleg o ben bé  professionalment o acadèmicament què és, però sí que es dedica molt a temes de neurologia, de trastorns, eh, no? del Parkinson, trastorns del son.
+Però bé, jo no el segueixo per això, sinó que el segueixo perquè és una persona que investiga molt. Eh, si aneu en el en la pàgina web de l'ORCID, en allà podeu veure el seu compte d'ORCID i hi han totes les publicacions que té.
+I a través del Twitter fa molta divulgació de recomanacions, ajudes, eines, llibres, articles, que ens orienten a com podem millorar el nostre aspectes de recerca, 
+com publicar millor un article, com dissenyar un pòster per anar a un congrés, quines eines podem fer servir per, jo que sé, eh?, per de gestors bibliogràfics,
+bé, totes de petites coses, petites eines que si tens intenció de fer alguna cosa de recerca, doncs, el segueixes a través del Twitter i a petites dosis, a petites recomanacions, doncs crec que ens diu coses interessants.
+I ja està.
+Molt bé. OA cerebro.
+OA cerebro. Óscar Arias Carrión.
+Doncs mira, jo tinc també un... en aquest cas és un metge a seguir al Twitter i també a Medmastodon.com.
+Això de Mastodon és una xarxa alternativa, tope guai, tope friki, alternativa al monopoli de l'Elon Musk, que ja vam comentar em sembla una miqueta l'episodi passat.
+Aquest metge és en...
+No estaràs tu en aquesta xarxa, no, Albert? 
+Home, evidentment! Bé, a Medmastodon no, eh? Jo estic amb una federada que és mastodont.cat.  Però aquests de Medmastodon, ei, molen, eh? No hi ha ningú tocant... No hi han trols de moment.
+Si heu d'anar-hi a fer el trol, tampoc cal que vingueu, eh? O sigui, aquí només acceptem gent que es porti bé. Els trols més que es quedin a casa.
+Molt bé.
+Bé, jo parlava d'aquest, de Cliff Reid. El Cliff Reid és moltes coses, entre les quals és el director mèdic del Sydney HEMS, de l'helicòpter de... anava a dir de Sydney, però suposo que més que de Sydney és de tota la regió.
+I és un tio que és un molt bon divulgador, 
+amb moltes coses fetes per... per exemple, és l'autor del Zero Point Survey, que és una cosa que segurament parlarem algun dia, no? De diferents eines per millorar els fluxes de treball i coses així.
+Bé, la qüestió és que mira, just avui ha publicat un fil a Twitter, i suposo que a Medmastodon, això ho revisaré després,
+en què explica com no cagar-la posant una mascareta laríngia i-gel, que tots els que n'hem tingut alguna a la mà veiem que és súper senzill i tal, però com totes les coses senzilles, de tant en tant la pots cagar.
+Doncs jo us recomano que el seguiu, eh, és bastant actiu, publica moltes coses, a Twitter és @CliffReid i a Mastodon @CliffReid@med-mastodon.com.
+I aquí, bé, n'aprendrem coses, eh? Jo he après bastant d'aquest bon home.
+Val, doncs intentarem seguir-lo i publica bastant, no? Suposo.
+Sí, aquest, una vintena de tuits diaris acaba caient, eh? Bé, no tots els dies, però entre el que publica ell i el que retuiteja dels demès, doncs unes quantes coses.
+Val, sí, si treballés a l'hospital de Figueres o els nostres hospitals, a lo millor no tindria tant de temps per per publicar tant, eh?
+És d'un altre país, és d'un altre lloc, és una altra cultura.
+Vale, vale.
+De fet, és molt interessant, algun dia podríem dedicar estona, no amb aquest tio en concret, sinó amb l'helicòpter de Sydney, perquè fan coses molt molt interessants aquesta gent, eh?
+ De molta enveja pels que vivim en un país que no és, eh, exemplar, diguem-ho així.
+Home, si penses que és així, Albert, jo penso que a lo millor seria convidar-lo i fer-li una petita entrevista.
+Hòstia!
+No?
+Uff! Va, m'ho apunto a la llista. Vinga, una altra cosa a la llista, coses que podem fer.
+Tu envia-li, fes-li un en el Twitter, fes-li un un retuit o fes-li un missatge directe. I a lo millor li mola això de la Cerdanya o la Costa Brava, li dius que el tindrem aquí a la Costa Brava uns dies i ja està, i a lo millor li agrada.
+Bé, veurem.
+No ho sé.
+Molt bé. Doncs escolta, fins aquí aquest episodi 19.
+Recordar-vos que volem sentir gent que parli un català que no sigui central, que no sigui masculí, que... Vaja, altra gent, a part de nosaltres, estem molt avorrits de sentir-nos cada dia. 
+Sí.
+Recordar-vos que si en els vostres reproductors de pòdcast teniu el botonet aquell que diu "m'agrada", el podeu prémer, si ens escolteu per l'Spotify també premeu per allà. A l'Apple Podcast també no sé què.
+I, que no he pensat dir-ho al principi, també estem al YouTube, allà també podeu fer allò del pols en l'aire, els m'agrada de Can YouTube,
+que no hi ha res més que els àudios, potser de tant en tant amb alguna imatge per reforçar el missatge de veu, però no espereu veure vídeos de nosaltres. Però això cal YouTube, eh? Això és nou, eh? Nou de trinca de fa una setmana.
+Dos episodis, no? Sí.
+Bé, aquest és el segon, sí, sí.
+Doncs apa, tot dit. Ens veiem en la propera.
+Val, molt bé. Vinga, fins a la propera.
