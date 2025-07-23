@@ -1,0 +1,405 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvinguts a un nou episodi de l'EMPodCat. Aquest és el que fa 18. Com sempre, avui serem els dos còmplices habituals. Tenim a l'Empordà en Xavi Basurto. Hola, bon dia, Xavi.
+Hola, bon dia, Albert.
+En Xavi és metge d'urgències a l'Hospital de Figueres i a l'ambulància del SEM del territori. I, si no em falla la memòria, té Facebook, però no el fa servir.
+Sí, sí, de moment no el faig servir.
+I sobretot, sobretot, sobretot, té un projecte de divulgació de la medicina d'urgència en català, que és l'urgem.cat.
+Sí, exacte, en l'urgem.cat, quan tenim una miqueta de temps, i ara, no sé, des de l'estiu així que que anem una miqueta apretats,
+doncs no no hem publicat gran cosa, però sí, hi ha urgem, l'urgem.cat, que està això, al bloc i el Twitter i aquestes coses, pues sí, anem publicant coses que ens semblen interessants, a part de les que anem posant aquí a l'EMPodCat.
+I a l'altre costat tenim l'Albert, que està a la Cerdanya o a Cerdanya, no? Que és l'infermer de de l'Hospital Transfronterer de Puigcerdà.
+I, què més? I amb la seva pàgina, amb el seu bloc de EmermedPirineus.eu i punt no sé que més, no me'n recordo mai quin és l'altre.
+Punt cat. Punt cat!
+No sé perquè ara m'he quedat amb el punt eu. I a Twitter,  @emermedpirineus, no? Em deixo alguna cosa o ho faig bé això o no?
+Sí, però et deixes una cosa tonta, que ara que l'Elon Musk ha comprat Twitter és important. Com que l'Elon Musk que és el maligne de les pelis de James Bond.
+Sí.
+Doncs si ha comprat Twitter, hem de marxar de Twitter. Doncs hi han unes xarxes socials que en diuen xarxes socials federades, que és una història molt complicada i tal pels frikis.
+Jo estic a una que es diu mastodont.cat, @emermedpirineus@mastodont.cat. Molt friki, si sou allà és molt friki. Molt friki.
+Segur que no s'hi apunta ningú, però mira, és com quan Twitter no el coneixia ningú, és això.
+I és a nivell internacional això? Hi ha gent de tot el món allà o és una mica més... què?
+Com que és distribuït, el mastodont.cat és, en principi, és amb gent de parla catalana, però saps aquell... El onepagerICU, aquella recomanació que vaig llançar fa uns episodis, del Dr. Nick Mark.
+Doncs aquest ha creat una instància de Mastodon, que es diu Med-Mastodon, sense acabar en T, punt com, perquè la gent que ens dediquem a la cosa aquesta el puguem seguir.
+La gràcia d'això de les xarxes distribuïdes és que tu des de la teva instància pots seguir la dels altres. I jo com a EmermedPirineus@mastodont.cat doncs segueixo al onepagerICU aquest.
+En fi, molt friki, molt friki. Al grup de Telegram que tenim, una altra cosa que us hem de dir, tenim un grup de Telegram, en podem parlar si voleu.
+D'acord.
+També tenim Instagram, que com ja no paro d'insistir, no fem postureig, a més a més del Twitter on anem publicant les coses.
+I tenim una novetat per aquest episodi.
+Més novetats, més novetats per aquesta temporada?
+ Tenim una novetat, tenim una novetat. Ja vaig dir que aquest any tindríem novetats.
+Tenim una novetat, i és que estem al YouTube.
+Home. Home. I hem de sortir nosaltres fent rucades o com va?
+No, no, no, no, no. De fet, mira, fins l'episodi 15 només hi hn els àudios, amb un logo posat a sota, eh?
+Perquè us en recordeu antigament quan estàvem per casa amb la tele de fons, sí, escoltant la tele mentre fèiem coses, doncs mira, ara jo veig que els meus fills foten el mateix amb el YouTube.
+Sí.
+Estan fent els deures amb el YouTube allà emprenyant, que pots comptar quina merda de deures els hi surten, o estan fent qualsevol cosa amb la mirant la pantalleta del YouTube. Bé, mirant, ja m'entens mirant, eh?
+Doncs fem el mateix, tu, fotem els vídeos, que l'únic que serveixen és per posar el seu àudio. Però mira, els dos últims episodis, el 16 i el 17, he aprofitat
+Sí.
+i hi he posat doncs la informació visual. El 16, com que hi havia d'haver-hi electros i, algú em va dir, és que els electros, com ja vam dir, no?, descriure electros...
+És complicat
+verbalment és complexe, doncs mira. Doncs si ho tens allà al costat mentre estàs fent altres coses, mires la pantalleta, el requadre del YouTube mentre ens escoltes i veus allà l'electro.
+Val
+O sigui que a partir d'ara, a partir del 16 en endavant, hi anirem afegint una poca informació visual. Però no serem nosaltres dos, que els que no ens conegueu...
+millor, millor.
+No us perdeu res tampoc, eh?
+Val, val, millor. Molt bé, molt bé. Ja n'hi ha prou amb la veu.
+Sí, si, que ja fem adormir les serps, doncs imagina't.
+Vinga, va. Avui tenim un tema que ens ha d'explicar el Xavi, que quan vulguis, Xavi, pots començar.
+Mira sí, jo tenia un tema que ja portava temps al darrere per anar-lo actualitzant
+i és el tema de del TEP, no?, del tromboembolisme pulmonar. I, com que és una miqueta llarg, doncs hem decidit dividir-lo en dos episodis, i avui explicarem el primer,
+i el següent episodi, pues, a no ser que surti un tema urgent o molt més interessant, doncs farem la segona part.
+En aquesta primera part, volia parlar, com seguint l'ordre cronològic amb la qual ens enfrontem amb algun pacient que tingui un TEP.
+Doncs, lògicament, la primera cosa seria sospitar-ho. La segona cosa seria estimar quina probabilitat té aquest pacient de que realment tingui un TEP i després confirmar-lo o descartar-lo.
+I, un cop fet això, una cosa que potser ja no fem tan habitualment, és estratificar la gravetat d'aquest TEP.
+Que, lògicament ja tenim eines i ja fem servir alguna cosa, però no ho fem gaire estructuradament o de forma sistemàtica.
+I estaria bé que quan tinguis un diagnòstic de TEP, posis quin diagnòstic té i al costat posar-li el cognom de dir quina gravetat té aquella situació que té aquell malalt.
+I després, això és el que parlarem avui, i després en el següent episodi parlarem del exclusivament de temes d'anticoagulació i trombòlisis dels pacients que tenen un TEP.
+Bé, com com hem dit abans de començar a fer res amb el TEP, s'ha de lògicament sospitar que el pacient pugui tindre un TEP.
+I això és bàsicament, i com sempre, i amb totes les patologies i que m'agradaria insistir-hi perquè abans... penso que a lo millor s'està perdent darrerament i poder a conseqüència del Covid, no sé si és això o no,
+però s'està perdent una miqueta el tema de pensar què té el malalt abans de començar-li a demanar proves complementàries i a fer coses extres. Val?
+Per tant, el primer és anar a parlar amb el malalt, que t'expliqui, que tu li preguntis i fer una exploració física.
+Estàs anant en contra els temps Xavi? Estàs anant en contra dels temps. Mare de Déu! O sigui, tornar a, sobre diràs que s'ha d'explorar el malalt i tot.
+Una miqueta sí, una miqueta sí. Home, doncs mira, es pot explorar una miqueta, mirant el present, que seria, per exemple, fer servir l'ecografia.
+No? Ara ja anem molt sovint amb l'ecògraf o anem a buscar l'ecògraf, doncs, suposo que d'aquí a pocs anys ja anirem amb l'ecògraf sempre a la butxaca,
+i quan vagis a escoltar un malalt, doncs li posis el fonendo i li posis el transductor de l'ecògraf.
+Per tant, això ho interpreto com a exploració física. I realment, potser s'està perdent, eh?
+Aleshores, sí, et dic perquè moltes coses que recomanen a les guies i hi ha gent que es dedica a això, és que abans de començar a demanar proves complementàries que si el Dímer-D, que si passar les escales de no sé què,
+el més important és que ho apliquis, això ho demanis a gent que ja creguis que té números de tenir un TEP. No qualsevol persona que ve a urgències per una dispnea.
+Per tant, això, anamnesi i exploració física.
+Un cop amb això, pot ser que només que vegis el malalt i li facis quatre preguntes i te'l miris, pel que t'explica, doncs ja sospitis que té un TEP i gairebé descartis qualsevol altra causa, no?
+de la dispnea, del dolor toràcic, o de l'hemoptisi que té, o del síncope que ha fet. Doncs ja diguis, "Ostres, aquesta persona té molts números de tindre un TEP",
+perquè no sé, si l'han operat recentment, ha estat enllitat, o es va trencar el turmell i ha estat enguixat, no s'ha posat l'heparina, i és una mica obès i fuma, doncs a lo millor si no té clínica de infecció respiratòria,
+les alarmes del TEP se t'han de posar al davant. Potser no cal fer gaires coses. Però si no, si no és tan clar el cas, és quan hem d'utilitzar algunes eines.
+Doncs en aquell que no veus que sigui una pneumònia, que no veus que sigui un broncoespasme en un pacient asmàtic, que no veus que sigui un pneumotòrax, que no sembla que et sigui un problema coronari o qualsevol altre problema,
+doncs és llavors quan has de pensar, "Ostres, no tindrà un TEP?" Doncs és en aquest moment en el qual comencem a aprofundir en la segona part, no?,
+després de la sospita, anem a fer el diagnòstic. I per al diagnòstic, per confirmar-lo o descartar-lo, pues es tracta, com a moltes vegades fem o hauríem de fer de forma més conscient en medicina i sobretot a urgències,
+doncs és estimar la probabilitat que aquella sospita sigui real o no ho sigui i la descartem i el pacient o se'n pot anar a casa o li has de buscar alguna altra patologia.
+Aleshores, un cop tenim això, hi ha una guia de la Societat Europea de Cardiologia del 2019, que ens recomana dues escales que podríem fer servir per ajudar-nos
+a saber la probabilitat que aquest pacient amb aquests símptomes que t'explica i amb aquesta exploració física i la teva preestimació de la probabilitat, doncs t'ajudin o no.
+I són l'escala de Wells, hi ha l'escala de Wells pel diagnòstic de la trombosi venosa profunda i després hi ha l'escala de Wells pel TEP.
+Tan te diuen les guies que pots utilitzar aquestes dos escales, o la o la de Wells pel TEP o l'escala de Ginebra revisada.
+Per tant, a tots els pacients en els quals sospitis que allò que tenen no et quadra amb qualsevol altra patologia i per tant se t'encén la llumeta del del TEP,
+defineix-te, mires aquestes dues escales, si la del Wells o la de Ginebra revisada, quina t'agrada més i o quina et sents més còmoda fent servir i utilitza-la.
+Hi ha algunes petites diferències. Per exemple, l'escala revisada de Ginebra, tots els paràmetres són clínics, no hi han proves complementàries.
+ I la diferència que té amb amb l'escala de Wells és que no hi ha una valoració subjectiva del professional.
+És a dir, en l'escala de Wells, un dels ítems et pregunta si creus que el TEP és la primera opció diagnòstica que tens per a aquell pacient.
+D'acord? Això ja inclou... No és un paràmetre objectiu, no és una temperatura, no és una freqüència respiratòria, no és un antecedent que tens que aquell pacient tenia antecedents de TVP previs o el que sigui.
+No és una cosa objectiva. T'està demanant, creus que és la primera... el teu primer diagnòstic diferencial? Clar, això depèn de del professional, és interpretable, és subjectiu.
+Aleshores, potser, tant l'escala... la Societat Europea de Cardiologia no aposta ni per una escala ni per l'altra. Per tant, utilitza la que et sembli més adequada.
+La de Ginebra, mira l'edat, més de 65 anys, antecedents de TVP o TEP cirurgia amb anestèsia general o fractura d'extremitats inferiors durant el darrer mes,
+que tinguis una neoplàsia activa o curada de fa menys d'un any, que tinguis dolor a extremitats inferiors, hemoptisi, freqüència cardíaca de més de 75, i ja està.
+I amb tot això fa tres nivells de probabilitat de ser un TEP, d'acord? De 0 a 3 punts, et diu que és de baix risc, amb el que, de 0 a 3 t'està dient que aquell aquella persona que tu ja sospitaves que podia ser un TEP,
+doncs si té 3 punts arribes a entre 7 i 9% de possibilitats de que allò sigui un TEP. És un baix risc.
+Si té 10 punts, entre 4 i 10 punts, estem a un risc intermedi, i això vol dir que el pacient ja pot tindre entre un 20 i un 30% de possibilitats que allò sigui un TEP.
+I si té més de 10 punts, és més d'un 30% i per tant, aquí ja ho tens bastant assumit que aquell pacient fàcilment pot tindre un TEP.
+Aleshores, a partir d'aquí, amb aquestes probabilitats hem de fer coses. Està clar que si té més de 10 punts, per tant té un més d'un 30% de que allò sigui un TEP, què hem de fer?
+No cal fer res més que anar a parlar amb el radiòleg i demanar-li un angio-TAC per descartar o confirmar aquell TEP, no? Necessita un TAC.
+Si estem en la zona intermèdia, entre entre 4 i 10 punts de l'escala de Ginebra revisada, estem a un risc intermedi, doncs en aquest risc intermedi et recomanen que facis un dímer-D.
+I en funció d'això, decidiràs. Que el dímer-D que et surt alt, doncs necessites un angio-TAC. Que si el dímer-D et surt baix, doncs després veurem què fem.
+Si el risc d'entrada és baix amb l'escala de Ginebra revisada, que són de 0 a 3 punts, utilitzes una altra eina que és la regla de PERC.
+No sé si et sonava, Albert, a tu et sona la regla PERC?
+Sí, sí. La PERC rule. Pulmonary embolism risk, no sé què.
+Sí, aquesta, la fem servir per descartar, o sigui, en aquests pacients que ja tenen un baix risc d'entrada, que és el que en diem una probabilitat pretest baixa d'un TEP,
+perquè li hem fet l'escala de Ginebra revisada i ens surt de baix risc, doncs en aquests que que tenen un baix risc, menys d'un 15 o menys d'un 20%, utilitzem la regla de PERC.
+La regla de PERC mira l'edat, la freqüència cardíaca, la saturació, si tens edemes a les cames, si tens hemoptisis, intervencions quirúrgiques, traumes,
+que hagis necessitat anestèsia en les últimes quatre setmanes, o antecedents de TVP o de TEP, o hormonoteràpia. Si no tens res de tot això i tot és correcte, tens 0 punts, doncs amb això descartes un TEP. I no cal fer res més.
+Llavors, si ho he entès bé, tenim com unes regles, que és el Wells i aquesta de Ginebra, que serveixen per incloure el risc de tenir-ne, i la regla de PERC que et dona la garantia que no en tens.
+Bé, garantia, evidentment no és cap garantia, vull dir, la possibilitat que no el tinguis.
+Exacte, és com passar un altre prova diagnòstica, vejam si també hi dona negativa, no?
+Si tu tens un dolor toràcic i vols descartar un síndrome coronari agut, doncs si tens un electro negatiu, o sigui, normal, i si tens unes troponines que també són negatives,
+doncs ja tens dues proves diagnòstiques que una multiplica els efectes de l'altra, per tant, ja tens més garanties que el pacient no tingui un síndrome coronari agut.
+Doncs amb el TEP també, primer fas una anamnesi i exploració física, i la sospites, i després dius, "Bé, anem a passar-li alguna regla d'aquestes, per exemple, la de Ginebra o la de Wells".
+Que et dona molt baix el risc, doncs després li passes un altre per si d'aquest 15% que encara podia tindre el pacient, doncs si a més a més li passes un altre prova diagnòstica que pot ser el PERC,
+si tampoc compleix cap criteri, era com un 1% o entre un 0 i un 1% o 2% que aquella persona pugui tindre un TEP o ja tingui alguna complicació al cap de 30 dies.
+Doncs això tenim, d'acord? Tenim l'score, la puntuació de Ginebra revisada, que sense cap criteri de valoració subjectiva per part del professional,
+ens diu si és de baix risc o de baixa probabilitat, de probabilitat intermitja o d'alta probabilitat, en la qual ja hem de fer un TAC en aquell pacient.
+Després podríem fer servir, o aquesta o la de Wells, que et mira si el pacient té signes a les extremitats de trombosi venosa profunda, si el diagnòstic de TEP és la teva primera opció diagnòstica,
+si està taquicàrdic a més de 100, si ha estat immobilitzat més de tres dies, o una intervenció quirúrgica en les quatre setmanes prèvies,
+si té antecedents de TVP o de TEP, si té hemoptisi, si té una neoplàsia en tractament en els darrers sis mesos o ja està en fase paliativa. Tot això ens donarà unes puntuacions.
+Totes aquestes escales, no me n'he recordat de dir-vos, les trobarem amb una eina que alguna vegada hem recomanat, que és el MD Calc, mdcalc.com.
+Doncs allà, en aquest, en el MD Calc, hi ha l'escala de Wells, i a sota hi ha com una petita entrevista amb dos paràgrafs del mateix Dr. Wells,
+que ens recomanava, amb les seves pròpies paraules, diu que aquesta escala l'hem de fer servir sempre després d'haver fet una anamnesi i una exploració física en el pacient,
+perquè si no, el resultat que pot donar pot ser erroni, pot ser enganyós.
+I també et recomana això, no demanar d'entrada ja a un pacient que no li has calculat la probabilitat que tingui un TEP, doncs de començar a demanar pues el dímer-D o altres proves complementàries per tal d'evitar els falsos positius.
+L'escala de Wells, un cop passes tots els criteris aquests, hi han dues formes de d'obtenir els resultats. Una que és amb un model que té dos categories, que te diu:
+"alt risc que allò sigui un TEP", o que sigui improbable. És un model categòric, o blanc o negre.
+Però també et donarà els resultats amb tres categories: de baixa probabilitat, moderada o alta probabilitat. Potser sembla que està més recomanat el de dues categories, d'acord?
+El de dues categories, doncs això, si l'escala de Wells et dona entre 0 i 4 punts, vol dir que el TEP és improbable, tot i que sigui improbable, pot arribar fins a un 12% de probabilitat de que allò que t'està explicant el malalt sigui un TEP, un 12%.
+Aleshores, què et recomanen després d'això? Doncs, similar a l'anterior, és fer un dímer-D.
+Si aquest dímer-D et surt negatiu, la probabilitat o la incidència que finalment aquell pacient tingui un TEP durant els següents tres mesos és d'un 0,5%.
+Per tant, hem passat d'un pacient que tu pensaves que allò podia ser un TEP, li passes la l'escala de Wells pel TEP, et surten tres punts, saps que allò com a màxim és un 12%, és poc.
+Però si li passes després, li fas un dímer-D i és negatiu, d'aquest 12% te'n vas al 0,5%. Per tant, aquest pacient pot marxar cap a casa o li has de buscar un altre patologia.
+I l'altra opció és que si et dona l'escala de Wells més de quatre punts, la probabilitat del TEP és d'un 37... podria arribar a un 37%.
+Aleshores, com que ja estem a més d'un 20 o un 30%, el fet de fer un dímer-D i que el dímer-D et surtis negatiu, en un pacient que ja d'entrada té una probabilitat tan alta,
+el fet de que el dímer-D et surtis negatiu no seria garantia de res. Aleshores ja has de fer alguna tècnica diagnòstica més específica, que seria el TAC, d'acord?, un angio-TAC.
+Podria ser el mateix amb el model de tres categories, et diu baixa probabilitat, moderada i alta, amb la qual a la baixa probabilitat et diu que després li passis el PERC,
+que hem parlat abans, per estar segur que aquesta baixa probabilitat encara és més baixa i per tant el malalt pot marxar cap a casa.
+Si fos moderada, li has de demanar un dímer-D i si és alta, li demanes un TAC.
+A veure, o sigui, ve un pacient queixant-se d'alguna cosa, que mai et dirà que ve amb una embòlia pulmonar, oi?
+Sí.
+Tu tens uns símptomes de sospita que en les regles que ens has parlat, tant la regla de Wells com la de Ginebra, ja més o menys et fas una idea de quins són aquests signes i símptomes que has de sospitar.
+Amb això li dones una puntuació, en funció de la categoria en la qual ha puntuat, li demanaràs les proves complementàries que siguin necessàries. Que potser que sigui cap.
+ Eh, exacte, sí, sí.
+Si la persona té un risc per aquesta, la de Wells que parlaves, de baix risc, i llavors, com que és de baix risc, li mires el el PERC, i et surt risc de misèria, doncs no té un TEP,
+i per tant, no li hauràs de demanar proves del TEP, el descartes i et dediques a buscar una altra cosa.
+Sí.
+Ho he entès bé, oi?
+Sí, sí. Pensa que les escales i les puntuacions i tot això, les hem d'interpretar igualment com si fossin proves, són proves diagnòstiques, igual que el dímer-D o igual que el TAC i tot això.
+Tenen la seva sensibilitat, la seva especificitat. Vull dir, no és que no li facis res més, és que si  jo faig servir l'escala de Ginebra revisada i em surt de baixa baixa probabilitat,
+i li faig una següent prova que és la regla de PERC. Tot això és negatiu, tot això és normal, doncs o se'n va cap a casa o li busques una altra causa.
+Lo important és escoltar el malalt i fer una exploració física, i a partir d'aquí, si alguna cosa et fa pensar que allò podria ser un TEP, i sobretot perquè no li trobes una altra causa, doncs després comencem amb els criteris de Wells o de Ginebra.
+I a partir d'aquí, o li demanaràs un TAC, o li demanaràs un dímer-D, o li passaràs una altra prova diagnòstica com pot ser el PERC per acabar de descartar-ho i que el pacient se'n pugui lliurar d'aquesta patologia amb tranquil·litat.
+I una cosa que el meu petit cor d'electrocardiografia se sent trist.
+ Ah, ostres!
+Perquè no has dit res. Aquestes regles no contemplen en res d'electrocardiografia?
+ Res, res. Em sap greu, però no.
+ I allò, allò tan antic, l'S1 Q3 T3, ja no no serveix?
+Uhm, no.
+Ara no es veu, però si em veieu, jo estic a punt de plorar. Però bé, ja ho sabíem que l'S1 Q3 T3 no serveix perquè és poc específic.
+ Sí.
+I sembla que l'única cosa que hi ha electrocardiogràficament que et pot orientar cap aquí és la taquicàrdia. I per una taquicàrdia no necessites pas un electro, ja mesurant el pols ja ho tens, oi?
+Sí.
+Però és molt trist, és molt trist, una cosa que teníem, que ens havien fet creure en el seu dia que era altament sensible i resulta que no, que no ho és gens.
+Amb tot i això, si vols, en el següent apartat que hem de fer l'estratificació de la gravetat del TEP, l'S1 Q3 T3 et faré un espòiler i i té utilitat.
+Ara em sento millor, ara em sento millor.
+Va, doncs ja tenim que el pacient... Ens llegim l'informe del radiòleg ens ha dit que allò que estàvem pensant s'ha complert, perquè ja partíem d'un 30% més o menys de probabilitats.
+Aleshores, anem a veure si el TEP és un TEP de molt baix risc, que fins i tot en alguns indrets del món el podríem donar d'alta i que se'n vagi cap a casa tranquil·lament amb el seu TEP i el seu tractament, lògicament.
+Aleshores, va, establim la gravetat d'aquest TEP, és a dir, la mortalitat que té aquell TEP durant l'ingrés o durant els propers 30 dies.
+Això és el que estem intentant avaluar, perquè en funció d'això, la nostra actitud serà una o serà una altra.
+Què necessitem per establir aquesta gravetat? Aquesta mortalitat? Doncs necessitem totes les constants biològiques, les constants vitals, d'acord? Que puguem tindre la tensió, la freqüència cardíaca, la saturació, etcètera.
+Molt, molt, molt important, la bàsica és la tensió arterial, d'acord? També ens pot ajudar l'índex de xoc, l'índex de PESI, que després, després en parlarem, electros
+l'ecocardio transtoràcic o l'ecocardio que nosaltres podem fer a peu de llit, si hi tens una miqueta d'experiència, també et pot ajudar.
+Et pot ajudar la informació del TAC per establir la gravetat, no només el diagnòstic, sinó també la gravetat. Les troponines.
+Què més? Una gasometria, de vegades el lactat també et pot ajudar. I de vegades el proBNP també et pot ajudar. I ja està, no necessites res més. Una analítica, un electro i poca cosa més.
+Aleshores, mortalitat elevada. Són un 10% dels TEPs que veiem. I d'aquests tenen una mortalitat de 50% als 90 dies. D'acord? Per tant, són lògicament els greus. Són els menys freqüents, però clar, tenen una mortalitat del 50%.
+Déu n'hi do, déu n'hi do.
+Sí, sí. Tenim els... Clar, són els TEPs que d'entrada ja veus que és un TEP hi ha quatre característiques que et faran una miqueta de por.
+Els de mortalitat intermèdia, són un 40% de tots els TEPs que veuràs. I d'aquests la seva mortalitat és del 40% als 90 dies. O sigui, déu n'hi do, déu n'hi do. Es moren també molts.
+Sí, també.
+I els de baixa mortalitat, aquests potser sí que són els els més habituals, els més freqüents. És un 50% de tots els TEPs que veuràs i només tenen una mortalitat d'un 1%, entre un 0 i un 2% als 30 dies.
+Amb el que si tu veiessis durant els pròxims 10 anys, veiessis 100 TEPs, hauries d'esperar tindre cinc morts dels que són d'entrada d'elevada mortalitat, només cinc perquè són són pocs.
+Hi ha una mortalitat molt alta, però són en realitat en el conjunt de 100 TEPs, són poca quantitat. Per tant, només se t'haurien de morir cinc.
+En canvi, dels de mortalitat intermèdia, que ja són molts, en aquests, de 100 TEPs hauries d'esperar que se te morissin 16.
+O sigui, se't moriran molts més pacients de mortalitat intermèdia que no pas de mortalitat elevada.
+Per tant, molt bé que ens fixem en el TEP que ja et ve xocat i tal, però els altres tampoc no els hem d'infraestimar.
+Vull dir, que tenen un TEP i aquí alerta i i ser curosos quan fem el maneig farmacològic i li posem tot el tractament que necessita.
+Aleshores, ja hem dit que necessitem unes constants, necessitem alguna escala, que és el PESI, que després la veurem, un electro, un eco que li podem fer nosaltres o que ens faci el radiòleg, el TAC pulmonar també ens ajudarà i una analítica.
+De l'analítica, només necessitem, bàsicament, les troponines. Lo altre és una miqueta... de més a més, d'acord? El proBNP no queda clar en les guies, si realment té una utilitat o no, és molt millor les troponines.
+El lactat, de vegades et pot ajudar o et pot donar alguna pista de la gravetat que té el pacient i la gasometria també, però d'analítica, quedem-nos amb que amb les troponines en tenim prou.
+I a partir d'aquí, què farem?
+Alta mortalitat precoç. Són els TEPs que també en diem hemodinàmicament inestable. O que també podríem veure com el TEP massiu.
+Quan sentim a parlar del TEP massiu, és un TEP hemodinàmicament inestable. I és un TEP que es caracteritza... Pot tindre tres coses, pot ser tres tipus de de pacients, no?
+El pacient en aturada cardíaca, és el pacient que ve en aturada cardíaca i pel que t'explica la família o els acompanyants  dius, "Ostres, no serà un TEP això?"
+O és un pacient que per contra ja tenies diagnosticat, ja li havies fet l'angio-TAC i de cop i volta t'avisen perquè hi ha una aturada i veus que és el teu pacient del TEP.
+Lògicament, aquest és un TEP d'alta mortalitat.
+Però clar, si no tenim això la principal cosa que definein un TEP d'alta mortalitat és el és un xoc, d'acord?, és un xoc obstructiu.
+Que el veurem definit, depèn de quina guia miris una miqueta diferent, però bàsicament és un pacient que el tens amb unes sistòliques de menys de 90,
+o que el tenies xocat a menys de 90 i necessita suport inotròpic, no? Necessites...Li estàs passant una bomba de noradrenalina i amb això el tens amb sistòliques de 100 o el que sigui.
+Però bé, necessita drogues o el tens directament amb sistòliques de menys de 90.
+I a més a més amb clínica de disfunció dels òrgans diana, no?, per la hipotensió. Està amb una alteració de l'estat mental, amb pell freda, amb livideses, oligoanúric.
+Amb una elevació del lactat, que hem dit abans, no?, que podia ajudar-nos a a diagnosticar aquest xoc obstructiu.
+O el tens amb una amb una hipotensió mantinguda, o amb una tensió que li ha baixat més de 40 mm de mercuri durant més de 15 minuts.
+I lògicament, en qualsevol d'aquests casos, aquesta hipotensió, aquest xoc no ho pots atribuir directament a qualsevol altra causa.
+Per tant, el TEP d'alta mortalitat, el TEP hemodinàmicament inestable, el TEP massiu, és o una persona que el tens xocat,
+amb sistòliques de menys de 90 o amb suport inotròpic, o és un TEP que s'ha parat i el tens amb aturada cardíaca.
+Altres factors que també podries dir, "Ostres poder no compleix els criteris estrictes, però és un pacient que a mi em fa molta por".
+Doncs seria el pacient que que té un TEP i que té una bradicàrdia important, una bradicàrdia profunda i de forma persistent.
+És el pacient que el tens amb freqüències cardíaques de menys de 40, i amb signes de mala perfusió.
+I l'altre que t'indica que és un pacient amb poca reserva hemodinàmica, és el que té un índex de xoc superior a 1. És a dir, que les que les seves freqüències cardíaques superen la seva sistòlica.
+Per tant, el TEP d'alta mortalitat, el veurem, jo penso que fàcilment.
+Després, tenim el TEP de mortalitat intermèdia. En aquest ja has de tindre en compte alguna cosa més.
+Recordo que són dels mésfreqüents, no? És un 40% de tots els TEPs i té una mortalitat del 40%, als 90 dies, tot i que sabem que la major mortalitat la veurem durant els primers tres dies, les primeres 72 hores.
+Mhm.
+Aquest és, lògicament, és un pacient que no està hipotens, d'acord? Té unes sistòliques de més de 90,. I que no requereix, d'entrada, noradrenalina, perquè si tingués hipotensió
+o necessités noradrenalina, doncs ja seria de l'alta mortalitat. Per tant, és un pacient que està amb tensions normals. I que té un índex de PESI superior a 0.
+El PESI el recomana també la Guia Europea de Cardiologia del 2019. Recomana  que l'utilitzem en els pacients que estan estables, com hem dit, amb tensions normals, i és una eina que combina la severitat del TEP amb les diferents comorbiditats del pacient.
+I és una bona eina per identificar aquells pacients amb un TEP de baix risc. Baix risc vol dir que si té 0 punts en l'escala aquesta, indica que té una mortalitat als 30 dies d'un 1%.
+Per tant, per identificar aquest risc mortalitat intermèdia, hem de tenir un PESI que no sigui 0, perquè el 0 hem dit que està tot bé.
+Ha de tindre un PESI que a apunti alguna cosa, saturació de menys de 90, o freqüència cardíaca de més de 110, o sistòliques entre 90 i 100, o més de 80 anys, o antecedent d'una neoplàsia o antecedents cardiopulmonars.
+Ha de tindre això.
+Després, pot ser que també tingui problemes o que veiem disfunció del ventricle dret. I aquesta disfunció la veurem o perquè el radiòleg amb el seu TAC et informa de que ja té una una dilatació del ventricle dret,
+o que tu li facis una eco i vegis algunes alteracions, que si vols després en parlem, en l'eco que podem fer nosaltres a peu de llit, si tens una mica d'experiència i tens un transductor que t'ho permeti veure,
+doncs bé, hi han diferents imatges que podem veure que ens diuen que el ventricle dret no funciona o que està dilatat.
+I després tenim també marcadors biològics que a través de l'analítica  ens poden ajudar a identificar aquests pacients de risc intermedi,
+com són les troponines, que ens identifiquen una necrosi miocàrdica, o ja no queda tan clar si l'NT-proBNP superior a 500 picograms per mil·lilitre, també ens pot ajudar o no.
+Per tant, aquests de risc intermedi són els que no estan xocats, però o que tenen un PESI d'un punt com a mínim, o que tenen alguna disfunció del ventricle dret, sigui per l'eco o pel TAC,
+o que tenen alguna alteració en els marcadors biològics, sigui, sobretot la troponina, o, entre cometes, entre parèntesis, el proBNP.
+Aleshores, com que és aquest de mortalitat intermèdia una miqueta més difícil de definir, l'han classificat amb mortalitat intermèdia alta o mortalitat intermèdia baixa.
+Que ara en comptes de tres estrats en tenim quatre.
+Sí, sí, l'intermedi el divideixen en dos.
+Aleshores, l'intermedi alt és aquell pacient que tingui o no tingui el PESI de zero o de lo que sigui,
+normalment tindrà un PESI com a mínim d'un punt, perquè segurament desatura una miqueta, o va una miqueta taquicàrdic, o té més de 80 anys, o té antecedents de no sé què.
+És  difícil que fos de zero, però encara que fos de zero, és un pacient que té les les dues següents coses que hem dit, una disfunció del ventricle dret, més una elevació dels biomarcadors, troponines o proBNP.
+D'acord? Té aquestes dues coses.
+L'intermedi baix, és igual quin PESI tingui, és un pacient que només té o disfunció del ventricle dret per eco o per TAC, o elevació dels biomarcadors.
+Per tant, pot ser un pacient que no tingui res, però només tingui unes troponines elevades.  L'eco no et digui res, el TAC no et digui res del ventricle dret, només té unes troponines elevades o un proBNP elevat.
+Dius, "D'acord, aquest és un intermedi baix".
+Què ens pot ajudar per saber lo de la disfunció o dilatació del ventricle dret?  Sobretot hem dit del TAC, no? Si el radiòleg et diu o tu ho veus que té un ventricle dret de diàmetre superior al de l'esquerra,
+està dilatat, perquè normalment, sempre, el ventricle dret en condicions de salut és com un 60% de l'esquerra. Una mica inferior del tamany de l'esquerra.
+ Per tant, si veiem un ventricle dret per sobre, més gran, més dilatat, que l'esquerra, és un criteri de gravetat. De fet, hem de pensar que augmenta la mortalitat d'aquell pacient amb TEP en dues vegades i mitja.
+I després l'ecocardio també ens ajuda a veure diverses coses, no? Podem veure en la posició apical de quatre, de quatre cambres, podem veure el ventricle dret i l'esquerre,
+i veiem si és més gran el dret que l'esquerre. Si ho és, tenim la certesa de que aquell pacient té una dilatació del ventricle dret.
+Després, en la imatge paraesternal en l'eix curt, podem veure el signe de la D, que és quan el ventricle dret fa pressió contra l'esquerra i l'esquerra li queda una forma,
+ho veus amb l'eco, potser això ho podrem posar en les imatges, no? Quan ho posem eal YouTube, podem posar les imatges del signe de la D. Necessites una miqueta d'experiència
+Sí, sí.
+I haver-ne vist vàries o bastantes ecos amb el signe de la D, però bé, es pot arribar a veure.
+Sí, sí, bàsicament el septe se'n va... Perd la circularitat i se'n va cap a l'esquerra, diguéssim, no?
+Cap a l'esquerre. Pressiona cap al ventricle dret i el septe fa com la zona vertical de la lletra D majúscula.
+Pressiona i, bé, si mires l'eco , si ho saps i ho busques, te imagines que allà pot... hi ha una imatge que sembla una D. Que en condicions normals no hi hauria de ser.
+Jo penso que són les dues coses que nosaltres podriem arribar, així de forma fàcil, saber mirant l'ecografia.
+A l'eix llarg del parastenal també podríem veure el ventricle dret i veiem també l'aorta i veiem l'aurícula esquerra.
+I en aquest aquí també podem veure que el ventricle dret és més gran que l'aorta o que l'aurícula esquerra.  És una altra imatge que és un dels signes més més sensibles.
+Algun altre criteri, abans com hem dit que el d'alt risc, els que tenien una bradicàrdia profunda i persistent, els podíem classificar, entre cometes, d'alt risc.
+En aquí, en els de mortalitat intermèdia, que són els submassius, per dir-ho d'una altra forma, algun altre criteri, que no està molt ben establert o que, bé,
+que lògicament encara fa falta més estudis o que quedi més clar, però que ens hauríem de posar un asterisc i una alarma per veure, seguir més de prop aquest pacient.
+Per exemple, un pacient que que estigui bé de tensions i, no?, i que t'hagi sortit, per exemple, amb una troponina positiva i amb un eco que digui que té el ventricle dret dilatat,
+Seria un intermedi alt, però clar, si el pacient es descompensa, de cop i volta comença amb símptomes de més dispnea, mal perfós, li baixa la tensió, o li repeteixes l'eco i veus que ara és diferent,
+doncs a aquest pacient el promocionaries de risc intermedi cap a alt risc. O inclús un pacient que el tens amb diaforesis, mal perfós, o un pacient que et diu que es morirà, diu "és que em moro",
+doncs aquest pacient encara que el tinguis tu classificat com a intermedi, promocion'la una miqueta cap al risc.
+Un lactat superior a 2 també és un indicatiu de que el pacient anem malament.
+I l'altra és que en l'eco o en el TAC el radiòleg et digui que té un... Que es vegi un coàgul, un trombe en el ventricle dret, en trànsit.
+De vegades hem vist, no?,  alguna imatge a xarxes socials no?, a Twitter o algun lloc, doncs que veiem imatges d'aquestes, no?, d'un d'un trombe que està entre l'aurícula i el ventricle dret i que va amunt i avall,
+doncs aquest, clar, és un és un pacient que el tens estable, hemodinàmicament estable, però en qualsevol moment pot empitjorar.
+Per tant, serien quatre coses a tindre en compte en els intermedis, en el risc intermedi per dir, "Vigila que aquest aquest pacient en qualsevol moment se'm descompensa".
+I després, per últim, tenim els de baix risc, són el 50% de tots els TEPs, amb una baixa mortalitat.
+Lògicament, és un TEP sense alteració hemodinàmica, per tant, tensions normals, freqüències normals, saturen bé,
+tenen un un PESI que hem dit abans, de 0, no tenen disfunció del ventricle dret, ni per eco, ni per TAC, ni per proBNP, i tenen unes troponines negatives.
+Però tenen un TEP.
+Aleshores, què més podem fer amb aquest pacient? La mateixa Societat Europea de Cardiologia del 2019 et recomanava que en aquests pacients, si tot afavoreix,
+és a dir, el pacient té bon suport familiar, el pacient, sobretot, hi està d'acord, i tot va a favor, doncs és un pacient que a lo millor no cal que ingressi.
+Tot i que, també et diuen que falten més estudis, més assajos clínics per veure si això realment es compleix a la pràctica real o no.
+Què més? Hi hauria el un altre criteri alternatiu al PESI, que és el Hestia.
+L'Hestia és un dels criteris alternatius al PESI, que també és recomanat per la Societat Europea de Cardiologia del 2019,
+que combina els aspectes de gravetat del TEP, la comorbiditat i la possibilitat que el pacient pugui tenir un bon seguiment a a casa.
+Si tots els criteris de l'Hestia són negatius, igual que hem fet amb el PESI, si tot va a favor, doncs és un pacient que si és de baix risc de mortalitat i a més a més compleix els criteris d'Hestia o de PESI,
+doncs podria ser, entre cometes, un pacient que podria marxar cap a casa amb el seu tractament i no hauria d'ingressar a l'hospital.
+Què més? Crec que no em deixo res Albert.
+Home, hem parlat de la sospita clínica, hem parlat dels scores de diagnòstic, diguem-ho així, i de l'estratificació de risc, que és el que ens havíem plantejat parlar avui en aquesta primera part del TEP.
+Ens quedarà parlar de tractament en la segona.
+Sí. Ah, abans t'havia dit que lo de l'S1 Q3 T3, més que t'ajudi a diagnosticar, sí que a lo millor, clar, si veus un pacient que que ve per una dispnea i veus un electro així,
+lògicament, li aniria a preguntar més coses i me'l miraria, li miraria les cames, a veure com les té, i se m'encendria la llumeta del TEP.
+Però sí que a lo millor aquests TEPs de baix risc, si, per exemple, un pacient de baix risc, però que, per exemple, l'electro és diferent del seu que tenia habitualment,
+i ara m'apareix un bloqueig de branca dreta, o alguna alteració amb ascens o descens de l'ST, o una T invertida, o un S1 Q3 T3, no compliria els criteris de baix risc.
+I l'hauríem de posar risc intermedi i l'electro hauria servit d'alguna cosa.
+Exacte.
+És un pacient que dius, "Mira, sembla que només té el TEP", d'acord? El PESI el té tot negatiu, no té troponines, no té eco ni TAC que em digui que el ventricle dret està patint, per tant, és un baix risc.
+Sí, però aquesta persona tenia un electro normal fa un mes i ara té un bloqueig de branca dreta, o ara té un S1 Q3 T3, o ara té una inversió de l'onda T a cara anteroseptal, o té una elevació de l'ST a vR,
+doncs tot això et fa pensar que el ventricle dret, no ho has vist amb l'eco o amb el TAC o amb el proBNP, però alguna cosa ha canviat en aquesta persona i no tindria tan clar que és un baix risc.
+L'altra és que, per exemple, el radiòleg, en el TAC et digui que hi ha un reflux del contrast que li han posat, que el contrast reflueix una altra vegada cap a la vena cava inferior.
+Això també és un indicatiu que és un baix risc, però que posa-li una miqueta d'atenció.
+I els pacients que s'han manifestat la clínica amb una síncope, aquests també mira-te'ls amb carinyo perquè, tot i que sigui de baix risc, a lo millor si tot és normal,
+t'està dient que si ha fet una síncope perquè ha tingut aquest problema, és un pacient que té una baixa reserva hemodinàmica.
+I que per tant, és un pacient, si ja t'ha vingut per una síncope, sapigues que és un pacient que per mica que empitjori, és un pacient que no té reserva hemodinàmica i que fàcilment te'l pots trobar que que que empitjori i empitjori de veritat.
+Molt bé.
+I jo ja ho deixaria aquí. El proper dia si vols parlem de l'anticoagulació i la fibrinòlisi. I, no sé, i alguna cosa més que podem parlar d'aquests pacients.
+Perfecte.
+Perfecte. Doncs va, quedem emplaçats pel proper episodi acabar de parlar del tromboembolisme pulmonar, que segur que ens ha donat un ensurt, més d'un ensurt a uns quants.
+Va, vinga, passem a l'UrgemMot.
+Vinga, avui de l'UrgemMot, jo tinc el meu i el Xavi ens explicarà els seus, que també està seguint una seqüència de coses, però hem començat a fer una cosa, una juguesca al grup de Telegram,
+en què cada setmana aprofitem els UrgemMots que el Xavi posa al seu lloc web, eh?, perquè no ho hem dit, a l'urgem.cat, no només hi té coses clíniques, també té el diccionari d'urgències.
+Sí.
+On ens escriu com anomenar correctament paraules que fem servir malament habitualment. Mhm.
+Doncs el que fem és aprofitar una d'aquestes paraules i fem una juguesca, a veure qui l'encerta.
+Si voleu jugar, haureu d'anar al grup de Telegram, però jo us llenço una de les juguesques que hem anat fent fins ara.
+ Jo us poso una definició, us dono quatre opcions i vosaltres a veure si encerteu quina és la paraula correcta que segueix la definició aquesta.
+Vinga, va.
+Molt bé.
+La definició d'avui: inflamació supurativa del teixit connectiu, concretament del teixit cel·lular subcutani o subaponeuròtic que té una gran tendència a la formació de necrosi.
+I us dono quatre opcions, vinga. La primera és feamò amb accent obert a la O, la segona és flemó amb accent tancat a la O,
+la tercera és flegmó amb accent tancat a la O, i la última és flamó amb accent tancat a la O. I aquest flamó amb A.
+Molt bé.
+Només us diré que dos de cada tres dels que han participat a la juguesca aquesta, la van encertar. Si voleu saber el resultat, ja ho sabeu, us heu d'apuntar al grup de Telegram.
+Bé, només dos de cada tres no és només, és déu-n'hi-do, eh? Són dues terceres parts, un 66%.
+Bé, de fet un 63, no ho he dit bé, no arriba a dos de cada tres. Està molt bé, està molt bé.
+Està molt bé
+Si, Si. Jo trobo que tenim uns seguidors que la toquen.
+Molt bé, molt bé.
+Una altra de la juguesques que vam fer no va anar tan bé, però bé, d'això n'hi ha cada setmana, o sigui que algunes aniran més bé i d'altres no tant.
+Va, va, doncs va, hi pensarem i ja ho recordarem a través de, no?, de les xarxes, no?, del Twitter o així de que de participar en aquesta juguesca
+del Telegram i hi ha premi per qui els l'hagin... El primer que l'encerti o com ho veus això?
+Doncs, de moment fins ara ho hem anat fent en anònim, o sigui, que no sabem ben bé qui ha dit què, o sigui que no ho sé. Potser ens podríem plantejar fer una lliga, jo què sé.
+Val, val, val.
+Va i un cop dit això de la juguesca, el meu UrgemMot d'aquesta setmana, que mentre estava revisant altres coses vaig anar a espetegar al diccionari de l'urgem, que ho faig sovint,
+i he descobert que el vessament pericàrdic de tota la vida, que per exemple fas amb una pericarditis, doncs que no és pericàrdic és pericardíac.
+Coses del TermCat, però escolta'm, vessament pericàrdic millor n'hi diem vessament pericardíac eh? ben estrany aquest també.
+I si en lloc de vessament li diem embassament?
+Llavors ja seria l'escàndol, embassament pericardíac, terrible!
+Jo ara t'ho dic així sense consultar-ho, eh? però per exemple el pleural, tot i que és correcte,  la forma preferida és embassament pleural.
+Embassament pleural.
+Per tant el pericàrdic, hauríem de mirar-ho i pel pròxim episodi ho confirmarem, però potser embassament pericàrdic és una forma preferida que el vessament pericàrdic
+Bé, en tot cas pericardíac, eh? perquè...
+Perdó, pericardíac, sí, sí
+Quines coses té la llengua, escolta'm!
+Ostres!
+Bé, ens agrada molt jugar amb la llengua aquí ja ho sabeu
+ Molt bé
+Va, què tens tu, Xavi?
+Sí, en l'últim episodi vam parlar dels signes. I vam parlar del fremiment, que si el frèmit i aquestes coses, és el fremiment, l'hipema, el nistagme, els reflexos, d'acord? I el ventre de fusta.
+Sí.
+I avui volíem repassar, no els signes, sinó els símptomes que la persona, quan vas a fer allò o allò que es feia abans,
+que era d'anar a parlar amb el pacient i preguntar-li coses i que ell t'expliqui i tu li preguntes i després l'explores, doncs parlar dels símptomes que ell, que el pacient t'explica.
+Els símptomes, d'acord? Les manifestacions subjectives del pacient que et pot indicar que que hi hagi una determinada patologia. 
+Són manifestacions subjectives. Els signes són anomalies objectivables i els símptomes el que el pacient t'expliqui.
+I, per exemple, podríem parlar del cap-rodo o rodament de cap. És aquesta sensació  de rotació o de desplaçament del que et rodeja.
+Que el terme preferit pel Termcat és el vertigen, el vertigen el defineix com això, eh?, la sensació aquesta il·lusòria de rotació o de desplaçament de l'ambient o del propi cos.
+És el terme preferit, el vertigen, però uns sinònims complementaris, que també són correctes, seria el cap-rodo amb un guionet, eh?, cap-rodo, o rodament de cap.
+Oh, cap-rodo, aquest me l'haig d'apuntar, eh?
+Aquesta és maca, sí.
+Aquesta promet, eh?
+ És maca.
+Després tenim un problema d'accents com el que has anomenat tu, Albert, abans, el pericardíac, doncs, la diplopia.
+Jo sempre n'havia dit que el pacient té diplòpia. La diplopia no porta accent obert a la O, i per tant, igual que en castellà, n'hem de dir diplopia.
+Després hi han determinats pacients que tenen algun tipus de neoplàsia o tenen algun abscés que fa dolor, doncs aquests pacients normalment es manifesten amb un dolor lancinant, que ve de llança, 
+Lancinant. Jo crec que normalment en deia lacinant, doncs hem de posar-hi una ena aquí al mig, un dolor lancinant.
+I els pacients que tenen migranyes o que tenen, pel que sigui, tenen mal de cap, en podríem dir cefalea, però si et fa gràcia i vols dir-ho amb el terme preferit del Termcat,
+doncs n'hauríem de dir cefalàlgia, cefalàlgia, amb accent obert a la A.
+I, què més? I quan, i després de fer una guàrdia molt llarga o has hagut d'anar a fer, no?, una gran caminada per la muntanya o has anat a córrer més del que estàs acostumat,
+doncs fàcilment l'endemà et fan molt mal les cames, que no t'aguanten dretes perquè tens uns formigueigs i unes punxades a tota la musculatura,
+el que sempre n'havíem dit agujetes o agulletes o tiretes o altres coses, doncs n'hauríem de dir cruiximent. Cruiximent.
+I, què més? Ah, sí. Aquell dolor que t'apareix aquí baix, en el flanc dret o a vegades a l'esquerre, no sé, per haver menjat ràpid o per el que sigui, quan s'acumula aire dins els budells, fa un dolor així punxant.
+ Allò és el flat. En lloc de flatos o tinc flato, no sé què, és un flat.
+Un flat.
+Un flat i ja està.
+Això és una paraula del paraulògic d'aquestes que et surt provant combinacions aleatòriament, eh? 
+Exacte. Doncs el flat, amb el flat acabem avui els UrgemMots.
+Molt bé.
+Va, i anem a les recomanacions.
+Jo en tinc una, que mira, avui com que hem fet referència vàries vegades a això de l'exploració física com un art de la medicina que s'està perdent, doncs en tinc una que us reconciliarà amb això.
+Va. Avui estem fent... Avui estem fent molt per la ciència mèdica, eh?
+Estem fent apologia de l'exploració física. És un lloc web que es diu physicaldiagnosispdx.com. Physical P-H-Y
+És un lloc web d'exploració física, com diu el seu nom, "physical diagnosis", que és espectacular. El tenen ordenat per diferents, no sé si dir-ne especialitats o per òrgans. 
+I n'hi ha alguns d'espectaculars. Per exemple, el de cardiologia, jo hi he dedicat pràcticament un mes a seguir-lo i al final ja era incapaç de seguir-lo tot.
+És tot un... Enorme, un llistat gegantí de tota l'exploració física de cardiologia.
+És només de cardiologia? És que és que és tot cardiologia dius o no?
+No, no, no, no, en té vàries, té cardiologia, nefro, neuro, gastroenterologia i tal, no? I surt, en el cas de cardiologia, que és el que em vaig fixar, bé, totes les troballes auscultatòries les tens totes allà.
+Totes. Els bufs, tots. Tots estan allà. Que evidentment jo els escolto i dic, "jo sento un igual que l'altre".
+Però és que t'arriba a explicar fins i tot d'on ve la ona A del pols venós. I t'expliquen d'on surt això de la ona A, que era una part de l'exploració física en el seu moment.
+Acollonant. Tot, tot. Veus els típics vídeos del pulsus parvus, del signe de la granota, bé... 
+Bé, molt bé, no?
+No em faig responsable de les hores que perdreu mirant aquesta pàgina, però és espectacular.
+Va, doncs molt bé, molt bé. Ho explorarem.
+Molt bé. 
+Molt bé. Alguna altra, Albert?
+No, no, una per episodi, tu, que l'hem d'estirar això.
+Jo què tenia? Jo tenia, ah, sí. Jo volia parlar de l'Essential, de l'Essential, que penso que ja... O interpreto que tothom sap de què estem parlant, però volia recordar-lo.
+L'Essential és una, és un projecte de col·laboració entre moltes societats científiques, entre professionals sanitaris, entre pacients i l'Agència, l'AQuAS, que és l'Agència de Qualitat i Avaluació Sanitàries de Catalunya,
+en la qual el projecte Essential intenten donar una sèrie de recomanacions en els professionals sanitaris i també als pacients de bona pràctica clínica.
+És a dir, intenten identificar tot allò que fem, sobretot els professionals sanitaris, que no té cap valor i que no serveix de res, i que per desgràcia fem, hem fet i continuem fent.
+D'acord? I el que fan és intentar-les identificar, treballant conjuntament amb les societats científiques, pacients i els professionals, doncs, identificar-les,
+busquen si hi ha coneixement científic darrere d'aquelles pràctiques que fem.
+I si veuen que realment es confirma que allò no serveix de res, que no té cap recolzament científic i fins i tot que fins i tot podrien ser més perjudicials que beneficioses,
+fan un petit informe amb una recomanació, que poden ser dos frases i després ho pots anar ampliant i veure les explicacions i les justificacions,no? amb base a quins estudis ho diuen etcètera.
+Però et van donant aquestes recomanacions, per tant, l'objectiu final és promoure una pràctica clínica que eviti realitzar pràctiques que no aporten valor a la població, a la ciutadania.
+I per tant, millorar la qualitat de l'atenció sanitària, evitant fer coses... Tècniques i diagnòstics i proves que fins i tot podrien ser perjudicials
+i que tenen un cost econòmic que es podria estalviar i invertir-ho en altres coses que fossin realment beneficioses.
+A traves de la pàgina web, en el gencat, tenen una pàgina web que és essentialsalut.gencat.cat. Aquí tenim totes les recomanacions, hi ha un buscador i a més a més les tens ordenades per especialitats, 
+i també tenim l'especialitat d'urgències, en la qual si entreu, veureu que n'hi han vàries, no?, n'hi ha moltes de pediatria en urgències, però també n'hi ha, no?, 
+de si treure el catèter que no fas servir quan abans millor, que si les necessitats de de transfusió dels pacients. Bé, entreu-hi i mireu-les perquè n'hi han moltes.
+I, doncs a partir d'aquestes recomanacions poder proposaríem que en els següents episodis de l'EMPodCat,
+doncs parlar en cada episodi d'una de les recomanacions que ens dona l'AQuAS, referides, lògicament, a l'especialitat d'urgències,
+doncs per fer una una miqueta de promoció, no?, posar el nostre granet de sorra i promoure aquestes pràctiques. I, no sé, et semblaria bé, Albert, que féssim aquesta nova secció a l'EMPodCat?
+Doncs ja tinc el nom, eh? Ja tinc el nom. Menys és més.
+Menys és més.
+Jo penso que menys és més i cada vegada ho veurem més això.
+Doncs vinga, va, quedem per la propera en fem una d'aquestes, va, a veure què tal.
+Va, molt bé. Em sembla bé
+Doncs vinga, sembla que ja ho tenim tot per avui. Ens veiem en el proper episodi, que serà d'aquí un mes aproximadament. Vinga, que vagi molt bé.
+Vinga, ens veiem i si mentrestant, ja sabeu al Telegram, Twitter, Facebook, Instagram i totes aquestes coses, hi anem posant alguna coseta interessant. Fins a la propera. Adeu.
