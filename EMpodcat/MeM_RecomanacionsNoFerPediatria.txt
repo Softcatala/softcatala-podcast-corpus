@@ -1,0 +1,10 @@
+# Exported by Aegisub 3.2.2
+Menys és més, la secció de bones pràctiques de l'EMPodCat.
+En aquesta secció del Menys és Més de l'EMPodCat, repassarem les recomanacions de no fer en pediatria, elaborades per l'Associació Espanyola de Pediatria.
+Són propostes senzilles, però fonamentals per millorar la seguretat i la qualitat assistencial. És a dir, parlarem de pràctiques que no aporten valor o que poden ser fins i tot perjudicials.
+Per exemple, no iniciar un tractament antibiòtic sense recollir abans una mostra estèril per a urocultiu ni prescriure antibiòtics davant d'infeccions respiratòries víriques no complicades.
+Tampoc retardar l'inici d'antibiòtics empírics en el cas d'un pacient amb una sospita d'una sèpsia. I tampoc no prolongar la duració dels tractaments antibiòtics més temps del recomanat.
+També parlarem que cal comunicar sempre qualsevol sospita de maltractament o abús infantil i evitar l'ús de fluids hipotònics com a manteniment per a prevenir les hiponatrèmies hospitalàries.
+També no retardar la col·locació d'un accés intraossi en l'aturada cardiorespiratòria si no s'ha aconseguit una via venosa de forma immediata.
+I tampoc retardar mai l'administració d'adrenalina intramuscular en l'anafilaxi.
+Tot això, en definitiva, és per aconseguir fer menys intervencions innecessàries i amb més evidència per a una atenció més segura i eficient.

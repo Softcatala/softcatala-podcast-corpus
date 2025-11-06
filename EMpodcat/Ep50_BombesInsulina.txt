@@ -1,0 +1,607 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català.
+Hola, benvingudes a l'EMPodCat, el pòdcast d'urgències i emergències en català. Aquest és l'episodi 50, que si ens escolteu sovint vam dir que, ostres, havíem de fer alguna cosa per l'episodi 50.
+Bé, ara en parlarem. D'una banda, els que perpetrem aquest pòdcast som jo mateix, l'Albert Homs, i a l'altre costat, a l'Empordà, tenim en Xavi Basurto. Hola, bon dia, Xavi.
+Hola, bon dia a tothom. Vols que em presenti o no cal?
+Vols dir que cal? ja ens coneixem prou.
+Deixa'm parlar de l'episodi, aquest episodi 50.
+N'hem estat parlant i hem decidit que per no trencar una miqueta aquesta dinàmica de fer els nostres pòdcasts de temes clínics,
+doncs el que hem decidit és que el 50 farem un pòdcast normal i corrent, que ara us explicarem de què va, però farem un episodi especial, que el farem presencial.
+El Xavi i jo el gravarem per primera vegada junts, en el mateix lloc, encara que no us ho creieu.
+Són 50 episodis que hem gravat cadascú a casa seva, o on fos.
+Ens hem vist alguna vegada, però no gaires, eh? Així en directe.
+Ben poques, ben poques, ben poques.
+I hem decidit que farem un episodi presencial i que una miqueta serà un metapòdcast. Parlarem del nostre pòdcast, què fem, com ho fem, per què i tot això.
+Els que seguiu el grup de Telegram, ja ho introdueixo, tenim un grup de Telegram, que l'enllaç el trobareu a la nostra pàgina web, empod.cat,
+on els nostres oients, que ara ens sembla que ja hem passat de 140, ens expliquem les penes, doncs allà explicarem els detalls, on ho gravarem, i quan, i tot això.
+En principi, si algú vol venir de públic, doncs no ho tenim previst, però vaja, si fa falta, doncs ja veurem.
+Igual fins i tot ens tirem a la piscina i fotem un streaming per YouTube.
+Clar que sí.
+Jo què sé.
+I per quan està previst això, Albert?
+Doncs mira, bona pregunta.
+Aquest que estem gravant ara, pretenc publicar-lo el 27 d'octubre, però em temo que serà després, perquè la vida no dona per tant.
+Cap a mitjans de novembre o principis...
+A veure si podem fer-ho per principis de novembre, va.
+Molt bé.
+Això també ho publicaré al grup de Telegram abans que estigui publicat l'episodi, per tant els nostres oients del grup de Telegram també ja podeu dir-hi la vostra.
+D'acord, fantàstic.
+Bé, i un cop fet aquesta introducció de l'episodi especial per celebrar l'efemèride dels 50 episodis, anem al que anem a fer habitualment, parlar de temes clínics.
+El tema d'avui, mira, em fot gràcia perquè a vegades ens pensem que no ens escolta ni Déu, i doncs es veu que sí.
+Sí.
+Jo vaig deixar anar, ja no recordo ni quin episodi, però ja en fa, una bajanada.
+A mi m'agraden molt les maquinetes i vaig sentir un pòdcast que parlàvem d'una maquineta collonuda pels diabètics, que és una bomba d'insulina que...
+Bé, un pàncrees artificial, tu.
+Que l'usuari no ha de fotre res i la màquina ho fa tot. I ho vaig deixar anar, així com el que no vol la cosa.
+Doncs bé, un dels nostres oients ens va posar en contacte amb la nostra convidada d'avui, perquè avui tenim convidada.
+Ostres, no som tu i jo sols avui.
+Sí, Xavi, tenim convidada avui, sí. Que és la doctora Mònica Navalpotro.
+No som dos senyoros de mitjana edat, avui no. Avui, per sort, som més gent. Hi ha pluralitat, avui.
+Molt bé.
+Doncs bé, la doctora Mònica Navalpotro, que ara es presentarà ella, ja la coneixia, de fet, he tingut el goig, i és un goig d'haver treballat amb ella uns quants anys.
+La recordo com una professional excel·lent i sé que encara ho és. O sigui que, Mònica, si us plau, si em pots presentar a tu, abans no et foti més la pilota.
+Bon dia, Albert. Bon dia, Xavi.
+Bon dia.
+Doncs m'estàs fent ficar vermella i tot, eh? Al final.
+Doncs sí, com diu l'Albert, jo soc metgessa.
+Tota la meva carrera l'he fet a urgències i a la prehospitalària, tot i que en el seu moment em vaig formar com a metge de família.
+I tot i que vingui com a metge, la veritat és que avui vinc més com a pacient.
+Jo soc diabètica des dels 10 anys i tots aquests anys, penseu que això va ser un debut l'any 85, l'evolució que ha tingut el tema de la diabetis és espectacular.
+Sí que la base és la mateixa, en certa manera, és jo menjo i m'he de punxar insulina, però el sistema no té res a veure.
+Hem passat des de les ampolletes d'aquella insulina de porc que havies de guardar a la nevera, anar sempre amb bossetes de gel, xeringuetes,
+i que et miressin malament, punxant-te en algun lloc públic, a el que diu l'Albert, no?
+La maquineta, que ara us explicaré una mica com funciona. I tot i que l'has de seguir vigilant i has de continuar fent coses, la llibertat que dona i el control que t'arriba a donar és espectacular.
+Com que el nostre oient és molt divers, potser hauríem de començar explicant una miqueta les quatre bases d'això que ens has comentat, que la diabetis,
+el tractament no ha canviat, només ha canviat la forma de fer-lo, però el tractament bàsic i tot això, potser ens podries començat explicant una miqueta de què va això de la diabetis,
+perquè, a més a més, tenim diabetis 1 i diabetis 2, que és el mateix però no ben bé, oi?
+No, no és exactament igual.
+Sí, us ho explico com m'ho van explicar a mi quan jo era petita, no?
+Era com una mica un conte.
+Tu menges, el menjar se'n va fins a l'estómac, allà es trenca en diverses substàncies, hi ha greixos, hi ha proteïnes, i una d'elles són els sucres.
+Els sucres passen a la sang i perquè puguin entrar a les cèl·lules i aprofitar-se aquests sucres i donar-nos energia, necessiten una clau, que és la insulina.
+Clar, en una persona que no té diabetis, doncs aquesta insulina la va secretant el pàncrees sense cap problema,
+i a mesura que va entrant sucre a la sang, el pàncrees va alliberant insulina, va alliberant clauetes, i diguem que és com equilibrat.
+Tant sucre entra a la sang, tantes clauetes allibero, tanta energia entro cap a dintre les cèl·lules.
+Però en el cas dels diabètics, no.
+Els diabètics tipus 1, el problema que tenim és que el nostre pàncrees, per un motiu o un altre, deixa de fabricar insulina.
+Llavors aquesta insulina necessites que te la donin des de fora, és a dir, has d'injectar-te-la.
+No hem trobat encara un sistema amb el qual tu puguis menjar aquesta insulina, per exemple, que es pugui fer en format pastilles.
+Aquest seria el diabètic tipus 1, el que no té gens d'insulina.
+El diabètic tipus 2 sí que té insulina, perquè encara el seu pàncrees pot continuar funcionant, però, per exemple, és com que aquelles claus no funcionen prou bé.
+Llavors necessito una pastilla perquè millori la secreció d'insulina.
+O el pany de la porta de les cèl·lules tampoc funciona prou bé.
+Amb la qual cosa necessito un altre tipus de pastilla que ens millori aquests receptors perquè entri la insulina i pugui obrir la cèl·lula i pugui entrar el sucre dins de la cèl·lula.
+O sigui, poden ser més variats. Inclús tenim tipus 2 que acaben punxant-se una mica d'insulina perquè aquell pàncrees ens secreta una mica, però no tota la que necessita.
+Amb la qual cosa, per això també tenim tipus 2 que poden anar amb pastilles i insulina més a més. És tota aquesta combinació.
+Però els tipus 1 realment necessiten insulina. Sí o sí, no funciona el pàncrees, l'hem de donar des de fora.
+I la insulina intranasal existeix ja o no?
+Hi estan treballant. El que passa que, diguem que, no és tan fina com podria ser el sistema que tenim amb la bomba.
+És a dir, el sistema fisiològic, el que fa el que us deia, a mesura que jo vaig menjant, el sucre que va entrant a la sang, el pàncrees pot anar alliberant la quantitat d'insulina que jo necessito.
+I el tipus de bombes, aquestes, com la que jo porto ara, que és la que considerem el pàncrees artificial, va alliberant quantitats d'insulina en funció de la glicèmia que tenim.
+En canvi, totes les insulines, sobretot les lentes, aquelles que punxàvem abans que tenien una vida mitja molt més llarga,
+o les intranasals, no van tan afinades, no van tant a la quantitat concreta que pogués necessitar en aquell moment.
+O sigui, em puc trobar jo pacients que me diguin que s'han posat no sé quanta insulina intranasal ja, o és que no ho he vist mai, eh? Existeix a la vida real pel carrer o no?
+Jo crec que no, encara.
+No t'ho puc assegurar, perquè és un tema que no el tinc controlat, i no m'hi he trobat encara, tampoc.
+És per si m'afegeixo a un altre problema o no m'afegeixo a més problemes.
+No, però en definitiva, estaríem en el mateix. Sigui quin sigui el sistema d'administració, el que ens interessa, que seria la urgència del moment, continuarà sent la hipoglicèmia.
+Amb la qual cosa, una vegada absorbida per mucosa, o igual que està punxada, no?
+Ja no podem tenir un antídot que ens la freni, i haurem d'anar a jugar amb l'administració de glucosa que li puguem posar.
+Perquè ara, Mònica, has parlat de les insulines lentes.
+Bé, jo haig de confessar que tinc un garbuix mental considerable.
+Jo, quan vaig estudiar fa una bona colla d'anys, les úniques insulines que hi havia eren en funció del temps en què trigaven a fer efecte i quanta estona durava, no?
+Hi havia la ràpida, hi havia la NPH, intermedia, i la lenta, no?
+Que era... La ràpida, si no me'n recordo malament, començava l'efecte a l'hora i durava 6, i la NPH, no sé si de 3 a 12, i l'altra, jo què sé, de 6 a 24, no recordo.
+Però ara ja portem una temporada que això és un merder. Jo ja m'he perdut.
+N'hi ha moltíssimes. És com un ventall molt més ampli.
+Tenim insulines des d'accions ultraràpides que comencen a fer efectes des dels 10-15 minuts que tu has començat a administrar-les,
+fan un pic màxim a les 2-3 hores, i en 4-5 hores, 6, molt, estan eliminades del cos.
+I tenim insulines d'accions ultralentes que poden durar fins a 2-3 dies les seves accions, de manera que allargues moltíssim més el temps d'injecció d'aquestes insulines.
+Llavors, clar, quanta més vida mitja tinguin, quanta acció més llarga tinguin, tu fiques menys punxades d'insulina, menys freqüència.
+Però clar, això fa que tinguin un efecte com més continu i que hagis de portar, en certa manera, una vida com més organitzada.
+És a dir, en els moments que pugui fer màxim efecte ha de coincidir amb els moments de les menjades.
+Per això hi ha aquell sistema antic que et punxaves cada 12 hores, per exemple,
+però havia de coincidir que amb el pic màxim d'acció d'aquesta insulina havies de fer la ingesta, si no és quan podies tenir una hipoglicèmia.
+Després és quan van començar a afegir les insulines ràpides en els moments de les ingestes.
+És a dir, jo tinc una base d'insulina, però, a més a més, en el moment que jo menjo,
+em poso una quantitat d'insulina per compensar aquells hidrats de carboni que jo estic menjant, que seria el mateix que faria el pàncrees.
+Amb les bombes d'insulina, el que estem aconseguint és posar una insulina ràpida, però que s'administri de forma contínua.
+Igual que les bombes que tenim de medicació, que nosaltres podem posar un midazolam en un bol concret,
+o el podem diluir i anar-lo posant de forma contínua, i que, a més a més, en un moment puntual,
+el pacient el tenim menys sedat i vull afegir-li un bol, doncs la bomba d'insulina funciona amb aquestes vistes.
+La insulina que sigui d'acció ràpida, que jo la pugui posar en microdosis de forma contínua i que, en un moment donat, necessito un bol més, li afegeixo més quantitat.
+I, a més a més, no ha de ser sempre la mateixa dosi.
+Llavors, suplim aquelles insulines que teníem abans d'accions més planes, afegint bols ràpids, amb una acció, més contínua i més dirigida a com està el valor de sucre d'aquell moment.
+Perquè la insulina aquesta que hi ha a les bombes és la insulina ràpida?
+Sí.
+I aquesta és la que seria la més fisiològica, la més similar a  la del pàncrees?
+Perquè suposo que les d'acció intermèdia o perllongades i això deuen ser modificades o diferents, que la natural del pàncrees o no?
+Sí, totes ho són perquè són artificials, en definitiva.
+Però el pàncrees el que fa és això, donar un tipus d'insulina més contínua en el moment que tu el necessitis.
+I aquesta és el que dius tu, que al ser més d'acció plana llavors fan un efecte com més continu.
+Però que ara imagineu-vos que tu et poses una quantitat d'insulina X d'acció com més lenta, més plana
+i el dia següent, que encara està sota l'efecte d'aquella insulina, fas una activitat diferent.
+Llavors ja no pots modificar-ho, almenys en quant a quantitats d'insulina. Hauries de jugar més amb menjar més.
+En canvi, amb la bomba tu pots anar més al moment.
+I així no hi ha bombes amb dos tipus d'insulina i que l'usuari pugui decidir ara em poso una cosa i ara després una altra.
+No, les bombes en principi totes funcionen amb insulines ràpides. Sí que pot variar el tipus d'insulina ràpida que puguis utilitzar.
+És a dir, una ràpida d'aquestes ultra ràpides d'efecte immediat als 15 minuts o una més tipus regular que l'efecte pugui començar a la mitja hora o així.
+Però es tira més a les que siguin d'accions com més ràpides. Perquè d'aquesta manera la tens més controlada.
+De fet, la bomba té una part amb la qual tu li pots dir quan creus que té de vida mitja aquella bomba.
+És a dir, la mateixa insulina, tot i que a mi el prospecte em digui que comença a fer acció als 15 minuts i que té un pic màxim a les 2 hores i té una vida mitja fins a 4 hores,
+jo puc reprogramar la bomba dient-li no, no, aquesta insulina que t'estàs posant tindrà una vida final de 3 hores.
+Perquè d'aquesta manera la bomba sap que a les 3 hores d'haver ficat aquella dosi ja no tindrà efecte aquella insulina.
+Llavors sap que t'ha de posar més preveient aquella pujada o baixada de sucre que tu puguis tenir.
+I això l'hi dius tu en funció de què?
+De les proves que vagis fent.
+Ah, de l'experiència que vagis tenint, vols dir?
+Aquí està, sí, totalment.
+O sigui, la bomba, encara que sembli que sigui intel·ligent, que ho és en una certa part, per arribar a funcionar, primer li has de posar un entrenament.
+I durant uns primers dies vas fent proves perquè pugui arribar a donar les dosis que tu necessitis.
+O sigui, que tu respons diferent a la insulina que una altra persona diabètica tipus 1. Responeu diferent... A la mateixa dosi respons diferent.
+Totalment. Cada persona respon diferent, però, a més a més, la mateixa persona respon diferent a la mateixa insulina en funció de molts paràmetres externs.
+És a dir, no tot és menjo tant m'he de ficar tanta insulina. Depèn del cansat que estiguis. Depèn de la temperatura ambient que puguis tenir.
+Depèn de l'exercici que et portis acumulat dels dies previs.
+Depèn de que el que tu mengis pugui absorbir-se millor o pitjor a l'estómac aquell dia.
+Depèn de la punxada, perquè el canvi de catèter de la insulina es fa cada dos dies, dos o tres dies com a molt.
+Que t'hagis punxat i que aquella zona on tu has punxat, pel que sigui, absorbeixi diferent aquella insulina.
+Llavors, per això, és guai que les bombes puguin anar amb aquestes dosis tan contínues perquè poden anar ajustant en funció de pujades i baixades del moment.
+Ara ens parlaves de l'automatisme, en certa manera, d'aquestes bombes.
+Però això ara em genera a mi el dubte que és quan els nostres pacients diabètics tipus 1 es deterioren per qualsevol cosa i llavors els hi has d'ajustar la insulina,
+passem a posar-los insulina ràpida en funció de glicèmia.
+Tu ara ens comentes que la dosi és molt variable. Quan els metges prescriviu aquella dosi de tant a tant, de 150 a 200 n'hi posarem tant.
+Com es compta això? Com sé jo quanta insulina li haig de posar a algú?
+Això és el que seria el factor de sensibilitat a la insulina. És a dir,  jo em poso una unitat d'insulina i em fa baixar tant mil·ligrams decilitre al cap de x temps, que és quan comença a fer acció la insulina.
+Tot això és assaig i error.
+És a dir, quan ho fem, ho fem per unes taules, el que deies. Una pauta de base.
+Una unitat d'insulina per quilo-pes de persona, que la posarem 24 hores,
+i a més a més la meitat la poso en format d'insulina lenta l'altra meitat la poso en format d'insulina ràpida i la divideixo pel nombre de menjades i vaig partint.
+Això eren les pautes, almenys quan jo feia urgències que ficàvem a la gent que estava ingressada per exemple, que havies de començar a insulinitzar.
+I a partir d'aquí anaves jugant.
+El mateix, assaig i error. És a dir, jo li he posat 3 unitats d'insulina ràpida abans de les menjades i resulta que amb la postprandrial em continua alt.
+Doncs li faig pujar a 4 unitats o li faig pujar a 5.
+Amb la bomba continuem fent el mateix.
+De fet, una cosa que no us he explicat és que dintre de les bombes tenim les que es consideren pàncrees artificials, aquestes més intel·ligents, que van vinculades a un sensor.
+És a dir, nosaltres el sistema tradicional era jo em faig un BM-test, el que entenem de punxadeta al dit, miro la glucosa, com estic i en funció d'això em punxo la insulina.
+Amb els sistemes moderns això ho substituïm per aquest tipus de sensors que mesuren la glucosa a nivell subcutani
+i llavors la bomba d'insulina em dóna la quantitat d'insulina que necessito en aquell moment.
+Comencem a programar la bomba amb unes insulines de base. També ens basem una mica en les pautes equestes, eh.
+Doncs necessito una unitat per quilo de pes i jo programo la bomba perquè em doni una unitat per hora durant 24 hores i em vaig fent controls.
+I a mesura que vaig veient que al matí vaig amb massa insulina o vaig amb massa poca,
+doncs jo retoco la bomba una altra vegada i li dic que en lloc de donar-me una unitat per hora, dóna-me'n una i mitja o dóna-me'n 0,8
+i puc anar retocant hora per hora la dosi d'insulina que jo vull que em doni.
+Llavors, a partir d'aquí, com va vinculada amb un sensor, va com aprenent i durant un... no recordo exacte, si eren els deu primers dies, una cosa així,
+és com que la bomba va aprenent del que anem veient durant els primers dies i després ja pot començar a funcionar de forma autònoma.
+Posant-li aquesta base de paràmetres, és a dir, jo he començat a funcionar amb una dosi basal, li he ficat el meu factor de sensibilitat que és aprenentatge,
+és a dir, jo vaig a provar, m'hi fico una unitat d'insulina quan estic a 150 i al cap d'una estona miro a veure quan m'ha baixat.
+Què m'ha baixat fins a 100? Doncs sé que una unitat d'insulina em fa baixar 50.
+O què m'ha baixat fins a 120? Sé que una unitat d'insulina em fa baixar 30.
+Llavors, a partir d'això, jo li programo la bomba i li dic mira, de les 9 del matí a les 2 de la tarda, quan tu em poses una unitat d'insulina, jo baixaré 50 mil·ligrams decilitre.
+O a la tarda, perquè tornem al mateix, no sempre és igual això.
+Del matí a la nit o la tarda, el ritme circadiari pot fer que la mateixa unitat d'insulina em faci baixar més o menys.
+I jo tot això li dic a la bomba. Mira, de tal hora a tal hora tinc aquest factor de sensibilitat. De tal hora a tal hora tinc aquest altre. I llavors ella va jugant amb tot això.
+Jo pensava que totes les persones que portaven una bomba d'aquestes d'insulina, tots portaven un sensor sempre.
+No tothom.
+Tenim gent que va amb sensor per saber a quan està i no haver-se de punxar el dit contínuament i llavors es punxa amb bolígraf les unitats d'insulina que necessita,
+tenim gent que va amb bomba però continua punxant-se els BM-test, no és tan habitual, tenim bombes que no van vinculades directament al sensor,
+és a dir, jo amb el sensor puc saber a quan estic, però tot i que la bomba li ha marcat una base, després jo puc modificar aquesta base.
+I tenim el sistema de pàncrees artificial, que aquest és el que va la bomba vinculada al sensor.
+Llavors la bomba pren decisions autònomes en funció del que li diu el sensor. I aquí sí que puja i baixa dosis de forma autònoma.
+I aquest en principi té més avantatges que tota la resta? O per què una gent no porta aquest sistema de pàncrees  intel·ligent?
+Per temes econòmics o per temes de... jo què sé, no en tinc ni idea.
+Comencem pels temes econòmics. A dia d'avui cada vegada anem modernitzant i cada vegada es va implantant més aquest sistema.
+Però siguem realistes. Jo quan vaig començar recordo que no hi havia màquines de BM-test.
+Jo la vaig poder aconseguir gràcies a un conegut metge que la va poder comprar a través del col·legi de metges i tot. I era caríssima.
+A dia d'avui te la regalen.
+Doncs jo crec que arribarà un punt que aquestes bombes pàncrees artificials acabaran sent sistemàtiques per a tothom.
+Però a dia d'avui suposo que encara hi ha un pool de gent que no es pot arribar que se les posi a tothom.
+Pel que sé els criteris una mica eren, doncs, començar, per exemple, amb la gent amb més mals controls.
+Amb la gent que fa hipoglicèmies, sobretot nocturnes, que passen desapercebudes.
+La connexió que hi ha entre el sensor i la bomba, el que té és que quan tu comences a pujar de glicèmia, ella augmenta la quantitat de dosi que va donant així de base.
+Quan tu comences a fer una hipoglicèmia, talla l'administració, prena perquè no arribis a fer la hipoglicèmia.
+I jo em puc trobar un pacient amb un sensor sense bomba, també, no?
+Sí, sí. I de fet jo crec que és més habitual trobar-se pacients amb sensor sense bomba perquè el sensor et substitueix la punxada del BM-test.
+A més a més, penseu que els BM-test tu saps com estàs de glicèmia ara. En aquest moment.
+El sensor et dona una pauta, és a dir, no només et marca com estàs ara, sinó que com fa medicions contínues et marca una fletxeta amb la qual t'està dient la tendència que tens.
+Estàs a tant, però amb tendència a pujar o amb tendència a baixar. I això et permet prendre decisions.
+Em fico més insulina per no seguir pujant, menjo alguna cosa per no seguir baixant.
+Aquests sensors són aquests discos que es porten aquí darrere el tríceps, no?
+Sí, depèn del model que portis, de la marca. Els que es veuen més habituals, és aquest, és el freestyle,
+és probablement el més econòmic, el que té més durada, si no recordo malament, perquè crec que es poden portar entre 10 o inclús 15 dies, pot estar.
+D'altres, per exemple, jo porto de la marca Medtronic, perquè és el que va vinculat a la bomba. Llavors la forma és una mica diferent, és com dos peces que van encaixades,
+però sí, independentment de la marca que portes o del sistema que portis, no deixa de ser el que diu l'Albert. El pegat aquest que veus normalment enganxat al braç.
+Sí que és veritat que es pot posar en altres zones del cos, però en adults és on més es recomana. Amb nens moltes vegades ho veureu enganxat al cul, també.
+I això entenc que porta un fibló subcutani o intradèrmic o no sé on te va, no? Aquesta...
+Sí, és subcutani i és com un fiblonet metàl·lic, però extremadament fi, que igual que les vies s'insereix amb un...
+Bé, és un aparell perquè no t'hagis de fer tu la força de punxar. No sé com explicar-ho. És com si t'haguessis de tirar un dard, no?
+Llavors va un aplicador, que tu fiques el sensor allà, l'apretes, es dispara i retires la mica de fiador o catèter que seria el que te l'injectaria.
+I aquest sistema de fet és tant pel sensor com per la minivia que injectes el catèter de la bomba d'insulina.
+I aquest sensor com es comunica amb la bomba? ara ja a qüestió...
+Bluetooth.
+Bluetooth.
+Sí. Tu agafes la bomba i quan et canvies el senso el vas vinculant cada vegada.
+No es perd la senyal de Bluetooth.
+Sí que es perd. Sí que es perd.
+Sí, moltes vegades.
+És curiós, però en certes situacions o... No sé ben bé per què, però sí que es perd.
+Perquè a més a més, la connexió és del sensor a la bomba i també cap al telèfon.
+Perquè puguis anar veient amb una aplicació tant les gràfiques de glicèmia com de la insulina que t'administra i tot.
+I no te poden hackejar la bomba d'insulina i... No us heu trobat encara, eh?
+No ho tinc gaire clar, però als aeroports pita de tant en quant.
+Si fos una persona d'interès del Mossad, no faria servir bomba d'insulina. Aquí ho deixo.
+Sobretot, no feu com vaig fer jo una vegada, que això li diem bomba d'insulina, però no deixa de ser un infusor.
+Encara més important, sí, sí.
+Doncs si no parles molt bé un altre idioma, amb un aeroport no diguis porto una bomba.
+Sí, perquè se't poden tirar sobre uns quants, no?
+Sí, sí, sí.
+No, però passen aquestes coses.
+Molt bé. Escolta'm, llavors...
+Espera't Albert, un moment Albert. Ara que estem parlant dels aeroports, per passar pels arcs de detecció de metalls i aquestes històries,
+t'has de treure la bomba o t'has de treure el sensor o alguna cosa o no?
+No, teòricament no passa res, però sí que és veritat que alguna vegada ha pitat.
+No tinc molt clar si és ben bé per la bomba, pel sensor o per alguna altra de les coses, típic del cinturó o així que portis.
+L'únic que s'ha de tenir en compte són les ressonàncies, perquè són magnètiques,
+llavors amb una ressonància sí que t'has de treure el sensor i el handicap és que t'hagis de fer una ressonància...
+El sensor es canvia cada X dies, ja us dic, segons la marca, el model té una durada.
+Llavors, algun cop ha passat que programen una ressonància en algun dels moments que no et toca fer canvi de sensor.
+Llavors, aquest sensor per desgràcia s'ha perdut.
+I la bomba, si te l'has de treure, no passa res? La desconnectes tu mateixa fàcilment, te la treus i després te la tornes a posar sense problemes, no?
+Exactament com si portessis un sèrum.
+El tipus de catèter el desconnectes, porta com un tap, igual que ficaries un tap a la clau de 3 vies, i llavors te'n vas a la dutxa o vas a la platja, fas el que hagis de fer.
+Teòricament, aquest model de bomba representa que és estanca, s'ha de poder mullar.
+Però vaig tenir una mala experiència amb la prèvia que portava, de posar-la a la piscina, i la veritat és que va deixar de funcionar.
+Llavors, jo personalment no ho provo.
+Si faig alguna activitat aquàtica, intento fer algun apanyo posant-la dintre una bossa estanca,
+deixant un foradet perquè sortia el cable que va fins al punt de punció, per poder mantenir l'administració d'insulina.
+Si no, doncs, segons quines activitats, amb el submarinisme, la bomba va fora i saps que durant 45 minuts o una hora estaràs sense insulina.
+El que deia, assaig-error. Començar amb uns nivells de glicèmia un pèl alts, perquè saps que, per exercici,
+estaràs amb temperatura que t'ajudarà a baixar la glicèmia, però després pujarà pel fet que no has estat amb insulina, compensar-ho a posteriori.
+Però això ja són jocs que acabes aprenent com a pacient.
+I el catèter és subcutani normal... Com t'injectes tu la insulina?
+Sí.
+O és algo més gruixut?
+No, el catèter de la bomba, pràcticament, jo diria que és l'equivalent a un 24, un d'aquells groguets pediàtrics tan petitons  i molt més curtet.
+Jo no crec que arribi al centímetre, o justet un centímetre.
+Tu te l'injectes amb un injector, retires el fiador, queda subcutani i connectes l'allargadora de la bomba.
+O sigui, la bomba, en definitiva, tècnicament, és el mateix que les bombes de medicació que portem a l'ambulància o que tenim a l'hospital.
+És a dir, va com una espècie de xeringa que són uns reservoris dels quals tu xucles la insulina d'un dels bolígrafs que comprem a la farmàcia
+igual que ompliríem la xeringa de 50, que l'omplim de la medicació i del sèrum.
+Allò ho traspasses a l'interior de la bomba, fiques 'l llargadera, la purgues, punxes el catèter subcutani, que seria l'equivalent a la via, i connectes. I va donant la medicació. 
+A quina zona del cos es connecta l'injector aquest?
+Normalment són cames, panxa i cul. Es va canviant cada dos, màxim tres dies i anar rotant les zones d'injecció.
+Però, clar, penseu que amb això estem parlant d'una punxada cada dos o tres dies.
+Abans estàvem parlant d'entre una i dues punxades d'insulina lenta més les punxades d'insulina ràpida que et poguessis posar tres cops al dia abans de les tres menjades principals
+i inclús si havies d'acabar ficant alguna punxada d'insulina ràpida per millorar aquelles pujades que poguessis tenir en un moment donat.
+O si feies un àpat entre mig de les àpats principals.
+I hem de sospitar... si un pacient que porta això amb febre i sèptic pot ser una font d'infecció cutània, cel·lulitis i això o és molt... no cal ni pensar-hi.
+És molt subcutani però no es podria descartar tampoc.
+Penseu que si pel motiu que sigui: se t'hagi passat el temps aquest de canviar el catèter, de que l'hagis manipulat en un moment donat sense haver-te netejat de les mans, podria ser un motiu.
+El que passa és que també, al ser tan superficial no és com una flebitis endovenosa, que tu no arribis a visualitzar el punt d'infecció,
+d'infecció, sinó que aquí realment és tan subcutani que, en principi, s'hauria de veure.
+I el que també hi ha a vegades problemes és que aquest catèter, tant el catèter com el sensor, va inclosa, diguem, l'adhesiu que te'l fixa la pell.
+Pot donar problemes de irritació de pell o d'al·lèrgies. 
+Llavors podem tenir un pacient que us vingui perquè el punt tant d'injecció de la bomba com del sensor estigui tot irritat per un tema de les coles, irritatiu...
+Ara que ja hem entrat en les complicacions de la bomba, aquesta, la que comentava el Xavi, mira, no hi havia pensat però també és ben certa, 
+veig com dos possibles complicacions que són bàsicament el mal funcionament de la bomba. Si la bomba es torna boja
+i comença a injectar-te amb insulina al compte faràs una hipoglucèmia. I l'altra és si la bomba deixa de funcionar faràs una hiperglicèmia.
+O sigui, que es torni boja i comenci a injectar per sobre del que tocaria, jo crec que és molt complicat. No hauria de passar això. 
+Ja et dic, la que no va vinculada al sensor i que sigui de forma autònoma ets tu qui decideix la quantitat d'insulina que li programes perquè et vagi injectant. 
+I després en un moment donat li dones el seu bols d'insulina associat a la quantitat de menjar que faràs en aquell moment. 
+Que doni menys insulina de la que toqui? Sí. Això podria passar, però, una, perquè t'hagis quedat curt de dosi, una altra perquè hi hagi una obstrucció, per exemple.
+Algun cop ha passat. Nosaltres quan fiquem una via, també visualitzem. Allò típic que dius, osti, se m'ha petat la vena
+i quan jo injecto veiem com s'està inflant allò i dius, osti, està fora de lloc o el que sigui. 
+Aquí no és tan fàcil. Com que és subcutani et dóna la sensació que la insulina va entrant. I a vegades sí que fa mal.
+Com qualsevol injecció, no? Que si tu, tal com està entrant el líquid, queda acumulat per allà o el que sigui, pot fer mal.
+Però hi ha vegades que no. Jo m'he trobat amb què m'he posat el catèter, allò en principi no et marca alarma d'obstrucció, i va entrant, entrant i dius, osti, és que m'estic ficant superalta. I per què?
+I jo estic, continuo hores, me'n fico un bol extra, continuo alta, continuo alta... 
+Llavors el que et recomanen és que si al cap de aproximadament 12 hores tu veus que continues amb glicèmies molt altes o continues fent cetones,
+t'injectis una dosi amb bolígraf normal per compensar i canviïs el sistema.
+I moltes vegades llavors treus el catèter i te'l veus que està colzat, per exemple.
+Al moment de punxar-lo, pel motiu que sigui, potser ha tocat un nòdul subcutani de greix o ha fet alguna cosa i veus que està en forma de L totalment, de 90 graus.
+I aquella insulina que està entrant allà, realment no està entrant, s'està quedant bloquejada. I pel motiu que sigui, no acaba de donar-li alerta d'obstrucció a la bomba.
+Potser al ser el catèter de plàstic fa una minidilatació i no ho té ben assumit, no us ho sé dir.
+Una altra cosa que em vaig trobar alguna vegada és que tot i que els avions teòricament estan ben pressuritzats i tot, a la terra d'un vol d'avió també estar molt alta.
+Perquè aquests minicanvis de pressions que fa l'allargador del catèter han fet que la insulina pugui xuclar-se enrere,
+retornar cap a la xeringa, d'alguna manera, i no s'hagi pogut administrar més.
+Normalment el problema és que no administri prou bé, més que doni més quantitat.
+Però sí que una recomanació és que durant els vols estiguis atent als controls de glicèmia perquè pugui haver-hi canvis.
+Mira, casualitats de la vida, just aquest cap de setmana que vaig treballar, va aparèixer una criatura que venien, perquè estava a 400 i escaig de glicèmia,
+i ja feia hores que estava així i van venir... És que em va encantar perquè vaig pensar, mare de Déu, quin pollastre podem muntar aquí, com haguem de manipular la bomba aquesta.
+I venia el pare i la criatura, i ja directament van dir venim que si ens pots fer la recepta de la insulina que gastem però en ploma i ja ens ho apanyem nosaltres.
+I va venir, vam fer la recepta, i va dir ara traurem la bomba i li fotrem amb la ploma.
+Jo que patia tant per veure quines complicacions, vaig dir, aquests tios en saben.
+Evidentment, els pacients crònics aquests, que de tants anys i tal, són molt més apanyats que tu, en saben molt més que tu.
+I vaig pensar, bé, tant patir, tant patir i, guaita, la solució te la donaven ells.
+No havies de posar-te xulo ni res, i guaita, fas el que et diuen i resolt. I guaita, una urgència que hagués pogut ser un cacau de trucar a Déu i a sa mare per entendre alguna cosa, 
+es va convertir en tres minuts de fer una recepta i enviar-los cap a la farmàcia. Que després altres que a la farmàcia tinguin la insulina. 
+I què van suposar que li passava? 
+El pare va dir que segurament la bomba no estava funcionant que... 
+Això que ens passa, eren passavolants, eren turistes, que clar, just el recanvi de la insulina, amb el recanvi de... 
+Això, els que treballem en lloc turístic ja sabem que no ha passat mai, eh? Malalts crònics que surten de casa i descuiden el més important que necessiten portar sempre a sobre.
+Això mateix. 
+Collons, aquell dia s'ho han descuidat. Però això ens passa setmana sí, setmana també. 
+I clar, per estalviar-los tres hores de viatge per tornar enrere, van venir i els vam fer la recepta de la ploma i ho van gestionar amb la ploma. 
+Si haguessin estat a casa seva, ja ho va dir el pare, doncs si hagués estat a casa, hagués canviat el reservori, hagués canviat el catèter, ho hagués canviat tot i vinga, ja està.
+Imagino que no era la primera vegada que els hi passava o estaven molt ben estudiats, aquests, això també...
+No, pot ser tot, eh? Pot ser el que és una errada mecànica, per dir-ho d'alguna manera. 
+Pot ser que la insulina, sabeu que s'ha de mantenir en unes temperatures, 
+que a dia d'avui, per sort, no són tan estrictes com aquelles ampolletes que havien d'anar tot el dia amb una bossa de gel i tot, 
+sinó que ara les plomes poden estar un mes a temperatures més ambients, que no siguin extremes.
+Però tot i això, que la pots haver deixat la ploma que portis de reserva al cotxe, amb el cotxe que el deixem aparcat a qualsevol lloc, s'ha ficat a 45 graus al cotxe,
+i aquella ploma després no sigui utilitzable o aquella insulina s'hagi desvitalitzat, llavors això ho acabes canviant tot i ja està.
+Hi ha alguna altra cosa que hem de tenir present amb els pacients que porten això? 
+Crec que independentment que el pacient sigui amb el sistema de bomba d'insulina o sigui amb els sistemes tradicionals, 
+l'emergència, a part del que pugui tenir la hiperglicèmia, cetosi, canvi de nivell de consciència i tot, que ja és una altra cosa, l'emergència és la hipoglicèmia. 
+I aquí, a part de tractar-la a nivell endovenós, i és una cosa tan senzilla com el fet que si portem un sistema de bomba que no sigui pàncrees artificial, és a dir,
+la que va vinculada al sensor, en el moment que detecta que hi ha una baixada de sucre, pararà d'infondre insulina, o com a mínim baixarà la quantitat de dosis que t'està donant.
+Si és una bomba que encara no sigui autònoma, és a dir, que tu li tens preprogramada una dosi concreta, continuarà donant un mínim d'insulina.
+Llavors, el que dèiem, talla el cable, és a dir, si jo tinc una hipoglicèmia, el que no m'interessa és que continuï tenint insulina aquesta persona, o almenys que continuï donant-li una quantitat alta d'insulina.
+Llavors, davant del dubte, desconnectar el que és el catèter, però que si per algun motiu no veieu clar com es desconnecta o el que sigui el cable que hi hagi que va des de la bomba fins al pacient, es pot tallar tranquil·lament.
+Això és un fungible, que llavors es pot tornar a canviar. O sigui que, davant del dubte de pacient amb hipoglicèmia que no millora, 
+que li estic ficant glucosa i que no vull que continuï donant-li més insulina, tallo el cable, i després ja ho solucionarem una altra vegada quan torni a pujar.
+Mònica, un dubte que tinc. Amb un pacient crític, que d'entrada no em sembla que tingui cap problema amb el sucre ni tot això,
+però jo què sé, és un TCE i que s'ha d'intubar i que no sé què, i porta una bomba d'insulina,
+això ho desconnecto d'entrada i ho controlem des de fora, o li deixo la bomba si crec que funciona o és igual? 
+Si porta un sistema de pàncrees artificial amb el qual tu pots veure la glicèmia que té a través de la pantalleta de la bomba o sigui, no cal anar a la seva aplicació del mòbil.
+Tu agafes la bomba, a la que toquis a qualsevol botonet se t'engegarà la pantalla i veuràs els nivells de glicèmia que té.
+Jo li deixaria, perquè d'aquesta manera saps que tens un monitoratge supercontinuu i que els valors són extremadament fiables.
+Dels sistemes que hi ha, hi havia alguns sensors que els havies d'anar calibrant.
+El primer sensor que jo vaig portar, per exemple, recordo que era, com mesurava la glicèmia intersticial, tu havies d'agafar cada 12 hores i fer-te un BM-test
+i dir-li, el que tu estàs llegint ara en líquid subcutani són 120 en sang. Llavors, la màquina sabia dir això que llegeixo ara són 120.
+En funcions de pujades i baixades sabia interpretar i traduir-ho una altra vegada a un numèric. Però cada 12 hores li havies d'anar fent aquesta calibració.
+I sí que és veritat que a vegades tenia valors que deies és que hi ha 40 mil·ligrams de cilitre de diferència. I 40 són molts, perquè estar a 80 o estar a 40 no és el mateix.
+Els sistemes actuals la veritat és que alguna vegada allò que vas fent té algun control per comprovar que funcioni i són superfins.
+O sigui, pots estar a 136 i que et marqui que estàs a 132. Està molt bé.
+Per això dic que si portes el sistema que va connectat a la bomba amb el sensor o tens capacitat de llegir el sensor que porta, t'anirà donant un control molt fiable.
+I d'aquesta manera mantens que pugui continuar amb les seves dosis d'insulina i que et puguis despreocupar una mica d'aquest tema.
+Si no ho veiem clar desconnectem la bomba i fem com qualsevol altre pacient diabètic que no porti cap d'aquests sistemes que aniríem fent controls de BM-test,
+el connectaríem amb insulina endovenosa en cas que fes hiperglicemis o el que sigui i seguiríem els mètodes més tradicionals.
+I si no el pacient que ve per un altre tema jo entenc que en saben més que jo.
+ De la seva bomba, del seu sensor i dels seus controls habituals mentre que el pacient estigui capacitat en aquell moment per explicar-m'ho.
+Aquí està la cosa. Jo crec que també les bombes com més complicades o més modernes, 
+però d'una manera també el tipus de pacient a qui se li posen és gent amb qui hi ha capacitat que puguin manejar-se amb aquests sistemes.
+I a més a més les formacions que et dona l'hospital quan et posen un sistema d'aquests són molt bones. No és que aquí tens la bomba i espavila't. 
+No, no. Quan tu entres en un programa de posar-te aquest sistema de bomba et citen, vas en unes formacions tant a nivell de l'hospital amb els endocrins 
+com amb el personal del laboratori que t'ensenya la tècnica de com programar la bomba, de com ha de funcionar. 
+Tens una línia d'atenció 24 hores telefònica si tens qualsevol tipus de problema.
+ I solen ser pacients... És el que dic sempre. Jo no sé el que sé de diabetis pel fet de ser metge. Ho sé perquè porto molts anys sent diabètica. 
+Llavors és el que tu vas aprenent a gestionar-te, com deia, l'assaig-error. 
+I hi ha moltes coses que a dia d'avui encara són difícils de portar-les perquè no tot és menjo tant em poso tanta insulina.
+Hi ha moltíssims factors que et fan pujar, et fan baixar.
+Molt bé. Doncs no sé, hi ha algun dubte més, Xavi? 
+L'únic seria, Albert, que si a la Mònica se li acut algun altre dubte que puguem tindre de complicacions que ens puguin donar o coses que haguem de saber 
+sí o sí si ens trobem un pacient que vingui per algun problema del sucre o no del sucre, però que porti una bomba i un sensor o alguna cosa d'aquestes. No sé. 
+No, jo crec que sobretot és l'entendre això, no? Que no deixa de ser sistemes que s'han modernitzat.
+Hem substituït el punxar-se el dit, que ens diu com estem de glucosa en aquell moment, 
+ho hem substituït per un sensor que ens està dient de forma molt més contínua com són aquelles glucoses i quines tendències hi ha. 
+I això és el que us deia abans, és important, perquè no és el mateix estar a 80, 
+però amb una fletxeta de pujada que m'està dient que aquells 80 d'aquí mitja hora es convertiran en uns 140 
+i d'aquesta manera jo ja em puc posar una dosi extra per evitar aquesta pujada, que estic a 80 amb dos fletxetes cap avall,
+que vol dir que aquestes dues fletxetes, depenent de quin tipus de sensor, cada marca té la seva explicació de les fletxetes.
+Però igual vol dir que m'està baixant 20 mil·ligrams decilitre cada 3 minuts. 
+Això vol dir que si ara estic a 80, amb dos fletxetes cap avall, en 6 minuts estaré a 60 o estaré a 50.
+O sigui, m'està començant a agafar una hipo, cosa que jo abans em punxava, mirava el dit i mirava, oh mira, estic a 80, estic fantàstic. 
+No, no estàs fantàstic, estàs de plena baixada. Començo a menjar alguna cosa per evitar aquesta hipo.
+O sigui que lo bo dels sensors és que ens ajuden a preveure complicacions tant de pujada com de baixada. 
+Veus les tendències, no? 
+Aquí està. A més a més, abans anàvem, us recordeu les llibretetes aquelles, no?, que t'anaves apuntant abans de dinar, tant, dues hores després, abans de sopar, dues hores després.
+Ara no, ara tenim unes gràfiques superxules que llavors et permet fer comparatives de gràfiques per aplicacions,
+de manera que jo sàpiga , que si tinc tendència que després de dinar sempre acabo pujant massa, 
+doncs potser el que he de fer és posar-me més insulina a l'hora d'abans de dinar, pel factor de correcció que jo pugui necessitar.
+Després, abans fèiem això, ficàvem com dosis com més globals, és a dir, tu pots menjar això i punxar-te quatre unitats d'insulina abans de menjar.
+Amb els sistemes moderns, com estem jugant amb quantitat d'insulina molt més petites, ja no estem anant a una unitat, estem anant a 0,01 unitat, o sigui, quantitats ínfimes.
+Això em permet que jo pugui menjar certs aliments que mentre sàpiga quants hidrats de carboni té aquest aliment
+i quina sensibilitat tinc jo amb aquesta quantitat d'hidrats, puc ajustar molt millor les dosis.
+És a dir, jo menjaré 20 grams de pa, que és una ració d'hidrats de carboni, i jo sé que per cada ració d'hidrats de carboni m'he de punxar 1,2 unitats d'insulina. 
+És a dir, quan jo començo a funcionar amb una bomba, jo el que faig és programar-la i li dic, tinc objectiu de glucosa,
+de tant, de cent, tinc aquesta sensibilitat a la insulina, és a dir, cada unitat d'insulina, em fa baixar tants mil·ligrams decilitre. 
+I a més a més, aquesta sensibilitat jo la puc programar per hores, de tal hora a tal hora, una unitat d'insulina em fa baixar 30, de tal hora a tal hora em fa baixar 50, de tal hora a tal hora em fa baixar 20.
+Després, a més a més, jo li programo una ràtio d'hidrats de carboni, és a dir, quanta insulina necessito per cada ració d'hidrats de carboni.
+Cada ració són 10 grams de glucosa. Doncs tot això jo també ho programo.
+De tal hora a tal hora, cada vegada que jo em menjo una ració d'hidrats, tu m'has de punxar tanta insulina. De tal hora a tal hora, aquesta mateixa ració d'hidrats necessito més o menys insulina.
+Perquè tot això va molt vinculat a tot el ritme circadiari del dia. 
+Quan jo tinc tot això programat, la bomba que va vinculada al sensor sap que si jo estic a 130 i l'objectiu de glucosa és estar a 100,
+i resulta que la meva sensibilitat en aquella hora és de 20, per poder de 130 baixar-me a 100, m'ha de punxar 1,2 unitats d'insulina.
+Perquè jo pugui estar a 100 i no estar a 130. Això és la intel·ligència d'aquest pàncrees artificial.
+L'únic que li he de dir són els bols extra que m'ha de posar quan jo menjo. Ara vaig a dinar.
+Què menjaràs? Doncs jo li dic a la bomba menjaré 5 racions d'hidrats de carboni. I ella automàticament, amb la preprogramació que li has fet, fa el seu càlcul.
+Ara estàs a 140. Jo vull que estiguis a 100. I em dius que menjaràs 5 racions d'hidrats de carboni.
+Tot això que abans ho calculàvem al moment, jo em feia el BM-test, feia tots els càlculs de la que menjaria i em punxava tanta insulina, ara només li he de dir menjaré això. I ella ja t'ho calcula automàtic.
+Perquè mengis aquesta quantitat d'hidrats a aquesta hora que estem, vull que estiguis a 100 i la teva ràtio d'hidrats és aquesta, et toca 7 unitats d'insulina per poder-te menjar aquestes 5 racions.
+De fet, és com sabeu la programació aquella? que a mi m'agrada molt, de les bombes, que no cal que jo li digui a la bomba quants mil·lilitres d'hora vull que vagis.
+Hi ha una funció especial que tu li dius he ficat 15 mil·ligrams de midazolam a la xeringa, l'he diluït amb 50 mil·lilitres de líquid.
+El pacient pesa tants quilos i jo vull que li posis a 0,2 mil·ligrams quilo hora. I ella et diu a tants mil·lilitres hora
+Doncs vindria a ser exactament el mateix.
+Com ja té aquesta preprogramació, tu li dius els paràmetres del moment i ella et diu quanta quantitat de mil·lilitres hora li posarà de midazolam. 
+Doncs la bomba d'insulina fa el mateix.
+I ja no cal que aprenguem factors de conversió. 
+Escolta'm, una pregunta, Mònica, que se m'ha acudit quan explicaves això. 
+El pacient que jo prevec que li hagi de pujar la glicèmia, per exemple, que li hagi de posar cortis,
+li haig de dir que faci alguna cosa amb la seva bomba per dir-li que al cap d'unes hores li pujarà el sucre per tema que li estem posant cortis? 
+Això val la pena que ho sàpiga el pacient o la màquina ja s'espavilarà? 
+Normalment, la màquina quan va fent pujades, va donant micro bols continus perquè veu que ha donat la dosi que li toca,
+però quan veu que puja una mica, et dona un bol extra perquè veu que està pujant.
+Que continua pujant, continua donant un altre bols extra. I ella mateixa va afegint bols, 
+però sí que és veritat que tu quan fas la programació també li dones un topall per evitar, per exemple, accidents. Jo faig una programació i li dic tu em pots donar màxim de unitats per hora.
+Clar, si anar donant micro bols, micro, micro, micro, arribés amb aquest tope que tu li tens programat, deixaria de donar-te'n més. 
+Un altre dubte. Jo si vull entendre una miqueta com ha estat el pacient perquè em ve amb algun problema de descompensació o el que sigui, 
+el pacient em pot ensenyar l'aplicació i ensenyar-me les gràfiques i que jo les pugui entendre, més o menys? 
+Ensenyar-te-les segur que sí, que les entenguem del que ell et pugui explicar, sí.
+En principi, sí. Cada sistema té les seves pròpies gràfiques.
+En el cas del pàncrees artificial de Medtronic sí que hi ha unes aplicacions, amb la qual cosa a més a més tu pots decidir què vols veure. 
+Si les corbes d'insulina que t'ha donat, si les corbes de glicèmia que estàs tenint, si totes conjuntes, si vols veure la de l'última setmana, dels últims quinze dies, de l'últim mes...
+Et fa comparatives de com està l'últim mes respecte a l'últim mes previ, amb la qual cosa tens una visió dels últims dos mesos. 
+Et fica el temps que has estat. El que dèiem abans, pots perdre connectivitat.
+Si perds connectivitat, la bomba deixa de funcionar en certs moments d'aquesta forma autònoma 
+i passa a funcionar d'una forma que tu li tens preprogramada manual, és a dir, amb unes dosis que tu li has pautat de base. 
+Doncs et diu, durant tant temps has estat desconnectat del sistema autònom i inclús et dona un paràmetre que no és exactament igual però és similar a la glicada.
+Amb la qual cosa et dona una aproximació de la glicada que pots haver tingut en aquells últims dies.
+Molt bé, doncs escolta, jo crec que tot molt ben explicat. Jo insisteixo, he après coses i m'agrada aprendre coses.
+Bé, doncs ara toca canviar, anar-nos-en a les nostres seccions habituals. No sé si et vols quedar, Mònica, si vols aguantar dos senyors de mitjana edat explicant ximpleries. 
+Sí que em quedo, sí que tinc curiositat. 
+Si et quedes i vols participar, tu mateixa, eh? 
+Igual posem cullerada. 
+Interromp tant com vulguis que nosaltres estem fins al monyo de sentir-nos.
+ Molt bé.
+Va, Xavi, ara tocaria el Menys és Més, que em sembla que t'has preparat alguna cosa, oi?
+Sí, Albert, jo del Menys és Més no porto un tema concret, sinó que jo ara estic fent,
+no sé si l'heu fet, un curs de pediatria que es diu Emergency Pediatric Care,
+que és com el del PHTLS i tots aquests, que hi ha una part que fem un mes en línia.
+D'aquí pocs dies tenim el seminari web i després tenim els dos dies o dia i mig de presencial.
+Total, que al final, en la plataforma online on estudiem, a la part final hi ha una sèrie de recomanacions
+i una d'aquestes recomanacions és de l'Associació Espanyola de Pediatria.
+I em va agradar perquè un dels llocs on et recomanen llegir-te i mirar com a material suplementari i tal, 
+doncs és un PDF on la Societat Espanyola de Pediatria va proposar a diferents societats espanyoles de pediatria, d'urgències de pediatria i diverses societats,
+això crec que era el 2023, que elabores cada societat relacionada amb pediatria, doncs proposessin una sèrie de recomanacions de no fer en l'àmbit de l'atenció pediàtrica.
+No les explicaré totes, són petites recomanacions, la majoria són molt lògiques, de l'àmbit d'urgències jo n'he recollit 9 o 10
+i està bé llegir-se-les així a poc a poc perquè ja són molt evidents, però que està molt bé perquè una societat reuneix a diversos grups de treball i que ens facin una seqüència de recomanacions, per exemple,
+no començar el tractament antibiòtic en un pacient amb una sospita d'infecció urinària sense recollir prèviament una mostra d'urocultiu estèril, parlem sempre de nens.
+Mira, això ho fem bé, això ho fem bé. Jo pensava que de 10 diria 10 que no ho fem bé, almenys ja són 9, aquesta la fem bé.
+Altre tema és la forma de recollir la mostra d'orina estèril, que això ho deixarem per un altre dia.
+La majoria jo penso que són molt lògiques. No administrar antibiòtic en infeccions respiratòries víriques no complicades.
+No retardar l'inici d'antibiòtics empírics perquè estàs pendent de recollir un cultiu, no sé què, en pacients que saps que tenen una infecció greu ,que estan sèptics.
+No esperar-te a treure-li el cultiu, posar-li ja l'antibiòtic.
+No deixar de comunicar qualsevol sospita d'un maltractament o d'abús infantil.
+En casos d'ingesta de productes domèstics o industrials, no administrar aigua, llet o carbó activat quan no està perfectament indicat.
+No perllongar del tractament antibiòtic més temps del recomanat. No demorar la col·locació d'un accés intraossi en una aturada cardiorespiratòria si no s'ha aconseguit una via venosa.
+Per tant, el segon intent que no puguis, no retardar-ho. I no retardar, per exemple, l'administració d'adrenalina intramuscular en cas d'anafilaxi.
+D'això n'hem parlat, eh? I com més quadres d'aquests veig, més me n'adono de la por ridícula que tenim a fer-ho. 
+Les adrenes intramusculars no haurien de tenir tanta por. No diria que de qualsevol manera, però vaja, és que davant del dubte em sembla molt més segur fotre-li que no fotre-li.
+De fet, jo no sé si teniu la mateixa sensació que jo, però ara jo veig més pacients que els hi posem adrenalina intramuscular que fa uns anys. 
+No ho sé, és una sensació meva, potser és sensibilitat personal, però tinc aquesta sensació. No ho sé, m'agradaria estudiar-ho i no sé si us dóna aquesta sensació o no.
+A mi sí, estic d'acord amb tu.
+Home, realment els grans al·lèrgics tenen la seva ploma també d'injecció d'adrenalina, que se la posen ells mateixos.
+Amb la qual cosa, si te la pots autoadministrar tu mateix, hauríem de perdre molt la por a posar-li nosaltres als pacients.
+Entenc que puguis tindre una miqueta de por si el pacient que té una reacció al·lèrgica important amb afectació respiratòria, cardíaca, no sé què, 
+si el pacient té una cardiopatia isquèmica o va a tindre un ictus fa X temps, home, a mi també em fa por, no?
+Però la resta de la gent que no té alguna patologia així que pugui suposar un problema que augmenti una miqueta la freqüència cardíaca, que augmenti una miqueta la tensió, 
+si no hi ha un problema així especial, no hauríem de tindre cap problema especial.
+Sempre que li posis intramuscular i no li posis endavenosa, que és l'error que em sembla que fem més habitualment. 
+I perillós, molt perillós aquest.
+Doncs escolta'm, m'he quedat bastant sorprès que moltes les fem bé. A mi aquesta de no donar antibiòtic en les infeccions virals, aquesta és la que caiem més, eh?
+Que la lligo  amb una que ens vas fer tu en el seu moment, que era la prescripció diferida, no? 
+Llavors els hi passes la pilota, t'exigeixen el tractament, els dius ara no cal, però com que no sé d'aquí tres dies com anirà, aquí tens la recepta, ara tu mateix, ara ets tu el responsable. I hòstia, a vegades calmen les feres, això. 
+Sí, jo penso que això està bé, sí, parlant de nens, no? Si són uns pares que els veus que ho entenen i que ho veuen bé i ho accepten per dir, així potser el nen s'estalvia de prendre un antibiòtic, 
+si realment no li cal perquè, potser ara porta dues hores amb aquesta clínica i encara no és possible saber si això anirà a més o menys. 
+Jo penso que pot ser un sistema per estalviar-se moltes dosis d'antibiòtics i menys resistències i menys efectes secundaris dels antibiòtics.
+I és també que els pares o el pacient també prengui una miqueta de responsabilitat de dir que faci el que em diguin i jo no prenc cap mena de responsabilitat ni de decisions ni res. 
+És com involucrar el pacient amb la seva salut. Potser després si l'involucres més serà més responsable i tindrà més interès per seguir-se, no sé.
+Va Albert, què més?
+Doncs va, menys és més les recomanacions aquestes de no fer en pediatria.
+Ara ens toca l'UrgemMot, aquesta secció que m'agrada tant perquè no ens n'hem d'anar a dormir sense haver millorat el nostre llemosí.
+O sigui que Xavi, va, què tenim per aquest UrgemMot? Suposo que parlant de diabetis, hem de tenir paraules relacionades amb aquesta malaltia, no?
+Sí, jo he fet un recull d'algunes que potser ja hem dit en algun altre episodi i algunes d'altres que no, no ho sé, relacionat amb temes de sucres i de diabetis i tot això.
+Per exemple, entre glucèmia i glicèmia. Són correctes les dues. El TermCat, el terme preferit és glucèmia.
+Glicèmia és correcte, però millor, si te'n recordes, posa glucèmia. Per tant, la hipoglucèmia, la hiperglucèmia en lloc de hipoglicèmia o hiperglicèmia. Què més?
+La diabetis, que a vegades ens perdem i ho diem en castellà, no? Una diabetes. Doncs no, és una diabetis.
+L'aparell que fem servir per mirar les glicèmies capil·lars és el glucòmetre. Tot això segons el TermCat, eh?
+Els bols d'insulina, que parlem normalment un bolus de no sé què.
+En lloc de dir bolus, és millor parlar d'un bol. Un bol d'insulina, un bol d'adrenalina o del que vulguis. 
+Què més? Tipus d'insulina... Tenim els anàlegs d'insulina. Si ho he sentit alguna vegada és anàlegs de la insulina, que és en castellà, però en català en diuen anàleg d'insulina. 
+No és de la insulina, sinó anàleg d'insulina.
+També podem dir les insulines d'acció bifàsica. És la forma més correcta, preferida, de parlar de la insulina mixta, per exemple.
+És correcta, la mixta, però la preferida del TermCat és d'acció bifàsica.
+Què més? Tenim la d'acció intermèdia, no intermitja o una altra forma. És d'acció intermèdia.
+Després tenim l'acció prolongada, que també ho podríem dir, són sinònims, el d'acció lenta, de llarga durada, d'insulina lenta, això. La forma més correcta és d'acció prolongada.
+Després tenim la d'acció ràpida, que altres formes de dir-ho, igualment de correctes, però no és la preferida del TermCat. 
+Altres formes seria la cristal·lina, la neutra, la normal, la regular, la soluble... Totes són formes correctes de parlar d'insulina d'acció ràpida.
+Després el bolígraf és la ploma injectora, segons el TermCat, que podem dir també ploma, o ploma d'injecció, en castellà seria el bolígraf d'insulina, doncs en català és la ploma.
+En català no fem servir bolígrafs, sinó que fem servir plomes.
+I després el tema del postprandial, que recordem de posar aquesta R després de la P, que és postprandial.
+No sé per què em costa tant dir-ho, però és prandial, preprandial, en lloc de pandrial.
+És per fer l'embarbussament, això, Xavi, és per fer el nou setze jutges això.
+Sí, aquesta ja l'havíem dit algun dia.
+I després del tema dels sucres, ja acabo, eh? El tema dels sucres, dels hidrats de carboni,
+carbohidrats o glícid, la forma més correcta, segons el TermCat, és parlar de glúcids.
+També correctament en pots dir carbohidrats, o hidrats de carboni, o glícid. Però la forma més correcta és un glúcid.
+Molt bé.
+I una altra que la podem utilitzar a urgències, menys freqüentment, és l'hemoglobina glicada.
+Aquesta m'interessava saber-ho.
+Aquesta t'interessava? 
+Sí. Sí, perquè dubtava, dic, segur que ho dic malament.
+Sí, segur, perquè és la glicohemoglobina. La forma més correcta és parlar de glicohemoglobina. 
+Ui!
+Si parlem entre companys, parlem d'hemoglobina glicada, és perfectament correcte i cap problema.
+O bé, si estàs fent un manual de no sé què, i vols publicar-ho com a protocol hospitalari de no sé què, posa glicohemoglobina. 
+I entre parèntesis posa l'hemoglobina glicada de sempre.
+Molt bé, molt bé. Aquesta me l'apunto, aquesta me l'apunto, perquè últimament estic molt pervers,
+i com que lo de la sofraja ja ho tenim superat, doncs ara ja començo a afegir-ne de noves, a veure si faig ballar el paraigua a la resta de la plantilla de la casa. En fi.
+Tu les que havies preparat anaven també relacionades amb el sucre, eh?
+Evidentment, evidentment. Ja me les has pres tu i... dE fet, són del teu diccionari, de la teva pàgina web, urgem.cat/Diccionari, que és on anem recollint... 
+Sí, aquestes encara no hi són, encara no hi són incorporades, però bé.
+Hi seran, hi seran. Sempre n'afegim de noves, sempre n'afegim de noves. 
+Molt bé. Va, anem acabant, tu, que això, com sempre, ha de durar una hora i ja portem aquí, valga'm Déu.
+Ja passaràs tu les tisores després i trauràs tota la palla i les ximpleries que hem dit.
+Sí, segur, segur. Va, anem a l'última, que és la secció de recomanacions.
+Jo per aquesta en tinc una que no sé fins a quin punt és per tothom.
+La recomanació és l'Institut de Formació Mèdica i Lideratge. La pàgina web és ifmil.com, que això és l'entitat de formació dels col·legis de metges de Catalunya.
+I vaig arribar-hi perquè fan un curs gratuït de l'activació de codis d'urgències a Catalunya. És gratuït pels metges i val 40 euros per la resta, és un curs online. 
+M'he estat mirant l'oferta formativa que tenen i vaig pensar, home, això és interessant per nosaltres. Tenen molt d'eco.
+De fet, es veu que al meu hospital fem una jornada d'ecografia d'urgències al novembre. Jo no ho sabia. Aquest sí que pasta gansa, aquest.
+Estàs apuntat o no estàs apuntat? 
+És que no sé ni si treballo encara, llavors em costa saber si estic apuntat o no encara perquè no sé si treballo aquests dies.
+A part que és per metges, llavors no sé jo què hi pintaré aquí. Suposo que tocar els collons, com faig habitualment, tocar els collons a la plantilla mèdica ja sabeu que ho faig molt bé, això.
+Estàveu fent amics, eh? 
+Sempre, sempre. I amb el sector mèdic no t'ho pots imaginar.
+Escolta, doncs això. Jo us el recomano, sobretot si sou metges, perquè crec que l'oferta formativa que tenen és molt interessant. 
+Els que no sou metges, doncs, bé, hi ha algunes coses que segurament són interessants, també.
+Aquest curs que us he comentat, el curs aquest de formació de l'activació dels codis d'urgències a Catalunya, crec que és molt, molt interessant. Mireu-vos-ho. ifmil.com
+Vinga, Xavi, què tens tu?
+Mira, jo tinc una eina que ara me l'estava tornant a mirar i penso que té una mica de relació amb el tema de les bombes d'insulina que ens ha parlat la Mònica,
+que poden preveure... Si menjaràs te posa més insulina i aquestes coses. Bé, té una relació, i és casualitat, eh?
+No sé per què, vaig llegir el titular d'un article publicat al Lancet a principis de setembre d'aquest any.
+També tens unes lectures estranyes tu, també, eh?
+Penso que m'hauria d'arribar alguna notificació al mòbil o alguna història estranya, no me'n recordo.
+Però sé que em va cridar l'atenció perquè en aquest article és una revisió sistemàtica d'assajos clínics randomitzats dels quals em van poder fer una meta-anàlisi
+i és sobre l'eficàcia dels antihipertensius en baixar la tensió arterial.
+I inclouen en aquesta revisió sistemàtica 484 assajos clínics aleatoritzats, la qual cosa implica 104.000 pacients.
+Déu-n'hi-do.
+I analitzen quina és l'eficàcia de cada un dels antihipertensius i de les corresponents combinacions d'uns amb els altres en baixar 5, 10, 15, 20 mil·límetres de mercuri en cada una de les combinacions.
+Van publicar l'estudi ara a principis de setembre en el Lancet i en van fer, que és el que em va cridar més l'atenció a mi,
+en van fer una calculadora en línias que es diu BP, de Blood Pressure, bpmodel.org
+I en aquest aplicatiu web senzillament, és molt fàcil, tu li dius quins medicaments li prescriuràs al pacient,
+potser si has d'enviar a casa algú perquè ha vingut que tenia la tensió una mica alterada i li vols afegir algun medicament o l'has d'ingressar i li vols començar algun tractament,
+doncs tu li poses un fàrmac o dos fàrmacs o tres fàrmacs antihipertensius, li dius quin fàrmac és, quina dosi és,
+li dius també si saps les tensions sistòliques i diastòliques habituals del pacient i el risc cardiovascular que té el pacient,
+això si ho vols, i ell a partir d'aquesta informació que tu li has donat, de dir jo li posaré un atenolol i un diürètic,
+doncs te fa un càlcul amb la informació que van treure d'aquests 104.000 pacients
+i et dirà si li poses un atenolol i un diürètic, has d'esperar que la tensió li baixarà, la sistòlica
+li baixarà 10 mmHg i la diastòlica 5 mmHg i et fa una previsió amb un interval de confiança
+amb el qual ja no ho fas tant a cegues i no ho fas tant amb la teva experiència,
+Potser si et dediques tot el dia a prescriure fàrmacs antihipertensius, segurament seràs millor que la màquina, però si no és una cosa que fas cada dia, 
+i tenim una eina que en base a milers de pacients previs, han pogut fer una eina precisa, 
+doncs és una forma de poder posar un fàrmac, en aquest cas antihipertensius,
+i poder calcular i no passar-te de dosi de fàrmacs i posar-lo en hipotensió que tindrà problemes, 
+doncs no sé, m'ha semblat que és una eina fàcil i segura per fer-la servir. I ja està, es diu bpmodel.org
+I això serveix tant per l'agut com per la medicació crònica?
+Jo què sé, per un hipertens de novo, per un metge de capçalera, per tenir una idea de com ha de començar, podria servir això o no?
+Això hauríem de mirar, hauríem de mirar la revisió sistemàtica i els estudis que van incloure, perquè ens hauríem de veure quin tipus de pacients realment formaven part d'això.
+Jo penso que devien ser pacients més... estables, que ja prenen aquest medicament o que... no ho sé. 
+S'hauria de mirar el tipus de pacients que van incloure en els estudis que van incloure la revisió sistemàtica.
+Hosti, ho trobo molt interessant, eh? Perquè sempre la sensació que tenia a l'hora del tractament de la hipertensió és que això era can cuinetes. 
+Saps, cada cuiner la seva recepta i ara toco d'aquí, toco d'allà, almenys aquí, pots tenir una mica d'idea de per on aniran els trets abans de començar a disparar. 
+Igual podem estalviar unes quantes setmanes de prova i error a la clientela, que això sempre està bé. 
+És provar-ho, no ho sé.
+Molt bé, molt bé, molt interessant. bpmodel.org
+Jo suposo que les cuinetes s'hauran d'acabar fent, el mateix que dèiem abans, no? La situació de la persona d'aquell dia, però hosti, per començar el que diu l'Albert, no? Per tenir una base, superxulo.
+M'ha semblat que tenia un paral·lelisme una miqueta amb això, amb les bombes, no? De dir, va, i ell ja fa una previsió...
+Sí, ho trobo exactament igual. Sí, sí, és exactament el mateix.
+Jugo amb això, jugo amb allò, molt bé, interessant, interessant.
+M'ha agradat. bpmodel.org Fantàstic. 
+Molt bé, doncs, escolta'm, després d'aquest episodi que se'ns allargarà, com sempre, doncs anem tancant la paradeta. 
+Recordeu que tindrem aquest episodi especial, aquest metaepisodi o episodi de metapòdcast,
+en el qual us fotrem la turra de per què fem el que fem i com ho fem i tot això, que serà presencial en algun lloc, en algun moment. 
+Les entrades estan a la venda ja, Albert?
+Segur. Sí, sí. Entrades.
+Direm que tenim les entrades exaurides i que ja no...
+Que no s'hi pot anar. 
+Sí, sí. Jo només de pensar el merder tècnic de tot plegat, ja tremolava.
+Dic, hosti, la taula de mescles, dos micros... Bé, i llavors, tinc un merder mental a casa que ja només he de veure els trastos que hauré de bellugar. 
+Sort en tinc que a casa tinc músics que tenen trastos perquè és que si no em sortiria cara la broma. 
+En fi, doncs va, tanquem paradeta. Ja ho sabeu, empod.cat. 
+Us esperem en el proper episodi, esperem que us hagi agradat aquest. 
+Donar les gràcies a la doctora NavalPotro que ens ha explicat el tema aquest de les bombes d'insulina que crec que és interessant i que jo he après coses, insisteixo, m'agrada prendre coses. 
+Gràcies, Mònica, i fins a la propera.
+Gràcies. 
+Moltíssimes gràcies a vosaltres. I ens anem sentint. 
+Doncs moltes gràcies a tothom.
+Vinga, a reveure.
