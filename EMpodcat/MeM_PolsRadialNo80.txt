@@ -1,0 +1,25 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+Per aquest Menys és Més us volem portar un mite, un mite en la medicina d'urgències.
+Aquest l'hem trobat en un llibre que es diu Myths in Emergency Medicine,
+en el primer volum, ja veieu que n'hi ha més d'un.
+Aquest mite en concret ve de molt antic, surt en els manuals de l'ATLS, del suport vital avançat en trauma,
+i és el mite que diu que la presència de pols palpable en determinats llocs equival a tenir una pressió arterial sistòlica determinada.
+El típic que tots recordareu és que si tens una presència de pols radial vol dir que la teva pressió arterial sistòlica és de més de 80 mil·límetres de mercúri.
+En el cas d'una presència d'un pols femoral, doncs estaria entre 70 i 80.
+I en cas que només poguéssim palpar la presència de pols carotidi, doncs estaríem entre 60 i 70 mil·límetres de mercúri.
+Doncs bé, és un mite, això no és pas cert.
+De fet, no està gens clar d'on surten aquests números, tampoc.
+Però bé, en l'entrada d'aquest llibre ja ens parla que l'any 88 en un estudi amb 20 pacients traumàtics que se'ls havia mesurat la pressió arterial de forma no invasiva.
+Tots aquests pacients traumàtics tenien una sistòlica per sota de 90.
+Doncs bé, aquesta relació que ens sugereix l'ATLS només es complia en un 25% dels casos.
+En la majoria el que ens passava és que la pressió era més baixa del que predia aquesta relació de presència de pols i pressió que us he comentat abans.
+Un altre estudi de l'any 2000, aquest fet amb pacients amb xoc hipovolèmic,
+però la pressió arterial mesurada de forma invasiva, també passava exactament el mateix.
+És a dir, que la presència d'un pols perifèric es podia donar amb pressions per sota de les que suggeria l'ATLS.
+El que sí que es va veure aquí és que primer es perden els polsos perifèrics i després els més centrals.
+Això que us acabo d'explicar no vol dir que el palpar els polsos no sigui útil.
+El que sí que no podem fer, i no hem de fer, és correlacionar la presència d'aquests polsos amb una pressió arterial concreta.
+I per tant no podem basar les nostres decisions en creure'ns que la presència d'aquell pols suposa una pressió arterial.
+La podem fer servir per saber si les nostres intervencions milloren o no el pacient o per fer-nos una idea del grau de gravetat.
+Però el que no podem fer és assumir que una presència de pols radial per sobre de 80 implica que hem de deixar de fer coses o que hem de fer-ne unes altres.
+Per tant, ja ho sabeu, la presència de pols radial no és una pressió arterial sistòlica per sobre de 80.

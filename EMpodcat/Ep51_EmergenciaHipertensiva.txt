@@ -1,0 +1,518 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català
+Hola, benvingudes a un nou episodi de l'EMPodCat, el 51
+Avui el sentireu una miqueta diferent perquè el gravem en el mateix lloc on hem gravat l'especial, el gravem en persona...
+que és el segon que gravem en persona, perquè l'anterior que és l'especial, l'hem gravat també junts.
+En aquesta banda del micro, jo mateix, l'Albert Homs, infermer d'urgències i emergències. Avui convidat a l'Hospital de Figueres, però jo treballo a l'Hospital de Cerdanya i a l'ambulància del territori també.
+I el que veieu a l'altra banda, bé, el veieu si esteu mirant el Youtube, si no, doncs està a l'altra banda davant meu...
+cosa ben estranya també, en presència, que és en Xavi Basurto. Hola bon dia Xavi, explica'ns, va.
+Hola Albert, què tal? Doncs sí, hola, bon dia a tothom i jo sóc en Xavi Basurto. Sóc metge a l'Hospital de Figueres i a la unitat de suport vital avançat 606 de Figueres.
+De fet, el que avui parlarem, el tema principal de l'episodi d'avui, encara no està penjat a urgem.cat, però suposo que durant la setmana ho penjaré.
+Així quan surti l'àudio d'aquest episodi, a part de l'àudio, també tindreu l'escrit, si us interessa i ho voleu llegir per escrit, doncs estarà a urgem.cat.
+I no sé què més, Albert.
+Bé, que tenim un grup de Telegram on ens expliquem les nostres penes. Per tant, si no us agrada alguna de les coses que hem dit o tal, ens ho dieu allà. I si us agrada, també. Va, anem al gra. 
+Tu, Xavi, tens el tema que ens has d'explicar, va. Comença. Ja pots començar quan vulguis.
+Anem per feina avui, eh?
+Sí, però un moment, un moment, un moment, que és que ara... anem per feina, però ja he badat jo, perquè aquesta, com que estem aquí... les entradetes les tiro jo manualment, directament apretant un botó. Guaita, guaita. 
+Ja està, ja he llençat l'entradeta. 
+Va, fantàstic.
+Doncs sí, avui havíem pensat que seria bo fer un recordatori... penso que són coses que ja sabem tots, però veig que fallem bastant tots...
+i és amb la identificació i el maneig dels pacients que venen amb una tensió arterial molt elevada.
+El que en diem una emergència hipertensiva.
+Per què és important aquest tema? És important perquè si realment el pacient té una emergència hipertensiva,
+sabem que el 10% d'aquests pacients que realment tenen una emergència hipertensiva, la mortalitat intrahospitalària és d'un 10%.
+Per tant, és un pacient que si l'identifiquem correctament és un pacient greu, perquè una patologia que atenem i que es mori el 10% dels pacients mentre estan ingressats, doncs és per tenir-ho en compte.
+I també sabem que durant l'any següent d'haver vingut, hi ha una morbiditat important, entre un 20 i un 30% d'aquests pacients que venen amb una emergència hipertensiva, cardiovascular o es moren, entre un 20 i un 30%.
+tindran algun esdeveniment cardiovascular o es moren entre un 20 i trenta per cent.
+Per tant, són gent que si aconseguim aturar aquest episodi i solucionar-lo, sabem que són gent que necessiten després anar a controls i fer un seguiment i fer coses
+Perquè són gent que porten una bandera vermella penjada a l'esquena i se'ls ha de seguir.
+Per tant, és un tema que ens convé molt dominar-lo una miqueta.
+I a part d'això, també ens convé molt perquè depèn de lo que fem nosaltres, perjudiquem més que no pas beneficiem el pacient.
+I és molt fàcil en aquesta patologia perjudicar-los, perquè no els tractem com els hem de tractar i quan els tractem, no els tractem adequadament.
+I tot això té conseqüències. Amb totes les patologies, però en aquí és bastant evident.
+Quan parles ara d'emergència hipertensiva... de gent que ve amb la pressió alta a urgències en tenim molts. Entenc que "emergència" no és tothom qui ve i et diu que té la pressió a 18-10.
+No. Ara si vols fem la diferència entre el que és una urgència hipertensiva i una emergència.
+Abans explicar-vos que per preparar aquest tema hem consultat diferents fonts d'informació, que ja coneixeu tots suposo... Les bàsiques, no?
+PubMed, hem buscat estudis que parlin a PubMed, hem buscat articles a la Cochrane Library, que ja segurament que ja coneixeu.
+Poder alguns no coneixeu una altra font d'informació que no estic segur si n'hem parlat alguna vegada aquí al pòdcast, que és Trip Database.
+Sí, sí, sí. Ho vas recomanar. No em facis dir ara quin episodi, però el tenim a les recomanacions.
+Molt interessant el Trip Database. Open Evidence... També crec que en vaig parlar algun dia.
+També l'has recomanat. I et puc dir que hi ha molta gent que l'està fent servir.
+Hi ha molta gent que l'està fent servir? Per què ho dius això?
+Doncs perquè hi ha...
+Ho dius per experiència teva o...?
+No, per experiència meva evidentment, però diguéssim que abans es consultaven més les coses a l'UpToDate, i jo diria que ara van directes a l'Open Evidence.
+I que hi ha molt diagnòstic que s'acaba fent tirant d'Open Evidence.
+Sí, és una font d'informació... és bastant fiable perquè tota la informació que treu d'allà ve d'almenys de revistes que estan indexades...
+i que bé, de fonts fiables. Una altra cosa és que després tu en facis la interpretació correcta...
+però no és una font que al·lucini especialment. I igual que consultes a UpToDate, consultes a Open Evidence.
+I per respostes ràpides i dubtes que tens ràpids, o si vols buscar alguna informació concreta detallada d'algun tema, doncs també. I penso que cada vegada funcionen millor.
+Una altra font és Guía Salud, que no sé si n'hem parlat alguna vegada o no. Que és una plataforma del Ministerio de Sanidad on totes les guies de pràctica clínica escrites en castellà...
+que compleixen una sèrie de requisits, s'allotgen allà. I és un repositori de guies de pràctica clínica que està molt bé.
+I després el Google Scholar, no? El Google acadèmic, també és una mica així massa bèstia i massa perquè allà hi ha tot i no està res filtrat...
+però si fas una cerca una miqueta acurada, pots trobar coses interessants que no hagis trobat d'una altra forma.
+Amb tot això hem fet una recopilació com de 20 i escaig articles, perquè hi han recomanacions i guies de pràctica clínica recents
+de l'American Heart Association i de la Societat Europea de Cardiologia, que parlen sobre el maneig de la hipertensió.
+I que són articles d'ara, del 25 i del 24. I molts altres articles.
+A partir de tot això hem intentat fer un resum que ens pugui ser d'utilitat.
+I responent a la pregunta de l'Albert, sempre havíem parlat que quan una persona ve a urgències o ve a qualsevol lloc explicant-te que s'ha mirat la tensió arterial a casa i et diu que estava a 200...
+poder a això en dèiem una crisi hipertensiva, i després diferenciàvem les crisis hipertensives entre urgències i emergències.
+Almenys això és com jo ho recordo, eh? I en funció de qui, doncs fèiem unes coses o unes altres coses.
+I el que ens recomanen aquestes últimes guies, és ja no parlar ni de crisi hipertensiva ni d'urgència hipertensiva.
+Són dos conceptes que ja no existeixen, per tant no els hauríem de fer servir perquè porten a equívocs i porten a fer actuacions mèdiques, tractaments, que resultaven ser més perjudicials pel pacient que no pas beneficiosos.
+Aleshores el que ens recomanen ara és que parlem de la persona que té la tensió alta i quan diem alta, ens referim a partir de 180-120. 180 sistòlica o 120 de diastòlica.
+A partir d'aquestes xifres, el pacient que et ve dient que pel motiu que sigui s'ha mirat la tensió a casa o li han mirat en el centre d'atenció primària o en algun lloc i l'han vist que estava a 200
+i ve a urgències, o l'envien des de l'atenció primària. Si no li passa res especialment al pacient, això en direm una hipertensió severa asimptomàtica.
+I el que realment té una patologia, que ara en parlarem, és a dir, que està clínicament malalt, doncs aquest és una emergència hipertensiva.
+O sigui, que la gent que ve amb la pressió alta, ja no és urgent. Ja no surt la paraula urgent enlloc.
+Urgent no. O tens una hipertensió severa asimptomàtica o tens una emergència hipertensiva. I entremig ja no hi ha res.
+O sigui, intentem no escriure "crisi hipertensiva", "urgència hipertensiva", perquè ja no existeix.
+És com el "quasi ofegat" i altres termes que hem deixat de fer servir. Doncs té l'explicació, aquesta, eh? perquè induïa a fer tractaments que són perjudicials.
+Aleshores, abans de començar a tractar el pacient ens recomanen primer  mesurar correctament la tensió arterial.
+Això ja, Albert, ho recordaràs millor tu que jo, perquè tens més bona memòria que ja vam fer un episodi que vas explicar tu tot el tema de la tensió arterial, 
+del braçal neumàtic i com s'havia de fer correctament la mesura de la tensió arterial.
+Recordem que els aparells aquests que fem servir, no mesuren la tensió arterial sistòlica i diastòlica sinó el que fan, l'aparell, directament mesura la pressió arterial mitjana. 
+I a partir d'aquí, amb un algoritme, el que sigui... que a lo millor no el sabem... 
+No el sabem.
+A partir d'aquí, ell te diu "doncs la sistòlica és aquesta i la diastòlica és aquesta".
+Però el que mira l'aparell aquest és la pressió arterial mitjana.
+Per tant, el que et digui aquest aparell de la pressió arterial mitjana, això és el que ens aniria millor.
+El problema que tenim és que les guies i tots els estudis que es fan, no et donen les recomanacions en funció de la pressió arterial mitjana sinó el que fan és dir-te:
+"si la sistòlica està aixins i la diastòlica està aixans, doncs hem de fer això".
+Per lo que he llegit, jo penso que cada vegada intentaran més donar-nos les recomanacions en funció de la pressió arterial mitjana.
+Però bé, una de les recomanacions és, quan el pacient entra a urgències i se'n va al box de triatge o on t'hagi d'anar, doncs que fem una correcta mesura de la pressió arterial.
+Si te'l trobes a 200, què hem de fer? Què fem si te'l trobes a 200?
+Passa paraula, no serveix?
+No. 
+Estem parlant sense símptomes, eh? Està a 200 perquè... 
+Sí, sí, però el que hem de fer és?
+Asseure's, tranquil·let i repetirem d'aquí a 15 minuts.
+Això és el que ens recomanen. 20-30 minuts de repòs, tranquil, perquè sabem que fins a un terç d'aquests pacients que venen amb aquesta hipertensió severa asimptomàtica,
+doncs en una tercera part d'aquests, la tensió baixa. Per tant, és el que hem de fer.
+Després, hi han algunes circumstàncies que fan que el pacient tingui la tensió alta.
+Per tant, si el pacient té molt de dolor per no sé què, doncs el dolor i l'angoixa són dues circumstàncies que ajuden a que el pacient tingui la tensió alta. Per tant, aquests 20 o 30 minuts intentem administrar algun analgèsic.
+I ja podem començar a investigar alguna cosa sobre antecedents de hipertensió, saber, és molt important en aquest tipus de pacients quina és la tensió habitual que tenen ells. 
+A lo millor és un pacient que sempre està a 160, per exemple, de sistòlica. Pues saber a quins nivells de tensió normalment està el pacient és interessant.
+Quina adherència tenen al tractament? Saber què pren i si realment ho pren bé, si aquests últims dies ho ha pres bé o no... O si ha fet aquests últims dies algun tractament especial.
+Sabem que els AINEs, per exemple, poden augmentar la tensió, poden donar problemes als ronyons,
+alguns descongestionants nasals porten algun fàrmac que són simpaticomimètics i que poden augmentar la tensió, la freqüència cardíaca.
+Per tant, preguntar-ho. O tòxics, no? Evidentment, si ha estat consumint cocaïna o lo que sigui evidentment tindrà la tensió, la freqüència cardíaca, tot això elevat. 
+Fins aquí és el que hauríem de fer amb una persona que et ve caminant dient-te que té la tensió molt alta.
+A partir d'aquí, el que ens diuen és que el pacient que el diagnosticarem d'una hipertensió severa asimptomàtica
+és un pacient que té la tensió sistòlica per sobre de 180 i la diastòlica per sobre de 120, però que clínicament està bé.
+És a dir, és un pacient que tu el veuràs i diràs: aquest pacient està bé. No t'ha de cridar l'atenció la seva gravetat.
+En canvi, el pacient que té una emergència hipertensiva, aquest evidentment és un pacient que t'ha de cridar l'atenció no per la seva tensió, sinó per la seva clínica. 
+Si no te crida l'atenció, no és una emergència hipertensiva.
+És a dir, el que et ve dient-te que té la tensió alta i que té mal de cap o es troba una miqueta marejat, que és la majoria dels pacients que veiem amb aquestes xifres de tensió i que venen per aquest motiu,
+evidentment tu una persona que t'entra caminant al triatge i et diu: "sí, és que tinc mal de cap aquí, cap allà, se me'n va cap aquí..." i t'ho explica com jo us ho estic explicant ara, més o menys, doncs no és un pacient que tingui un mal de cap que et preocupi.
+O que et vingui marejat i entra caminant i t'ho explica d'aquesta manera, això d'entrada no és una emergència hipertensiva. Per més que et digui que té mal de cap o que està marejat.
+Per què? Perquè ens diuen que el que realment té una emergència hipertensiva, sí o sí, ha de tindre alguna manifestació perquè té una lesió d'un dels òrgans diana de la hipertensió.
+I aquests òrgans són òrgans que quan tenen alguna lesió donen símptomes.
+I el pacient no et vindrà explicant-te el seu mal de cap que li va cap aquí i cap allà i no sé què sinó que el tindràs tombat amb una llitera i et dirà que és el dolor més intens que ha tingut en la seva vida, 
+que és un mal de cap sobtat, intens, persistent, inusual, que no l'ha tingut mai, que mai li ha passat alguna cosa així i el tindràs tombat amb una llitera que no podrà obrir els ulls i no es mourà i dius: "hòstia, a aquest tio li passa alguna cosa".
+Tingui la tensió alta o no la tingui, és una cefalea que tu diràs: "aquest li passa alguna cosa", no? Com el que ve amb una hemorràgia subaracnoidal.
+És una cefalea importantíssima. I si li preguntes et dirà això, que ell no havia tingut mai una cosa similar.
+Per tant, aquesta persona et preocuparà. I tingui la tensió com la tingui, diràs: "a aquest li passa alguna cosa".
+O sigui, has de fer servir l'exploració física i l'entrevista clínica. 
+Sí.
+A més a més dels números.
+Sí, però l'exploració física ja gairebé no hi hem entrat, però només parlant amb el pacient... De fet et diuen, eh, el que té una emergència hipertensiva l'has de veure greument malalt.
+Greument malalt, perquè no té una ximpleria. Si ara explicarem quines patologies té, però és una persona que té una lesió cerebral, cardíaca, renal, evident.
+Per tant, tu clínicament, des del triatge, l'has de veure clínicament greu.
+El pacient que té una hipertensió severa asimptomàtica, o està totalment asimptomàtic o com a molt té una cefalea o té un mareig. 
+Però t'entra caminant i t'explica més o menys bé les coses sense que tu t'espantis de dir "hòstia, aquest tio té alguna cosa seriosa".
+Després visitarem amb tranquil·litat el pacient, d'acord? O sigui, el pacient no se n'anirà cap a casa...
+no li direm "vostè té una hipertensió severa asimptomàtica i ja pot marxar cap a casa i aquest mal de cap prengui's un paracetamol".
+El visitarem amb tranquil·litat. Però d'entrada no és un pacient que hem de prioritzar.
+Per tant, si tenim un circuit ràpid i un circuit de baixa complexitat i un d'alta, doncs el pacient que entra caminant i això pot esperar.
+De fet és un pacient que ens diuen les guies que si va al CAP, és perjudicial enviar-lo a l'hospital perquè li han donat algun tractament antihipertensiu i al cap de mitja hora no li ha baixat la tensió.
+Directament te recomanen que aquest pacient no ha de ser derivat a un hospital perquè en sortirà més perjudicat.
+Ja només pel temps que hagi d'estar-hi, perquè està en un hospital, es posarà més nerviós i farà que nosaltres, o els que estiguem a l'hospital, 
+doncs com que s'haurà posat més nerviós, l'haurà pujat més la tensió i al final acabes forçant i li acabes donant una medicació que a lo millor no li calia.
+I això té els seus efectes negatius.
+Aleshores, de l'anamnesi. Els òrgans diana de la hipertensió són el cervell, la retina, el cor i els ronyons.
+Del cervell, si anem una miqueta per ordre, el pacient o té un ictus isquèmic o té un ictus hemorràgic, o té una encefalopatia hipertensiva. 
+Per tant, quines clíniques pot tindre? Doncs pot tindre mal de cap. Però és un mal de cap com hem dit abans. Un mal de cap molt intens, el pitjor mal de cap que ha tingut mai, persistent, inusual. 
+T'ha de cridar molt l'atenció.
+O té una hemorràgia subaracnoidal o té una hemorràgia intracerebral. És una cefalea que li passa alguna cosa.
+L'estat mental. És un pacient que el trobaràs amb disminució de nivell de consciència, te'l trobaràs confós, te'l trobaràs desorientat, te'l trobaràs agitat, te'l trobaràs que convulsiona.
+No és un pacient que et diu que té una mica de mal de cap.
+I després pot ser que tingui focalitat neurològica. Que li costi parlar, que li costi moure un braç, que li costi caminar, que tingui alteracions de l'equilibri.
+i això ja ho veus quan entra en el box de triatge, ja ho veus que és un pacient que s'aguanta a les parets o que va acompanyat d'algú.
+I li preguntes, "però vostè necessita per caminar algun suport?". I et dirà "no, no, des de fa sis hores que no m'aguanto dret".
+De fet, en certa manera, al triatge ja segurament els entraràs més per focalitat neurològica que per pressió. Veuràs la pressió alta quan els hi miris, però tu ja de... 
+Sí, sí. O a lo millor és un pacient que deriven des d'algun lloc i te'l deriven fins i tot amb ambulància, no? Perquè estava a 220 i no li ha baixat la tensió i te l'han enviat. I t'entra caminant normal i corrent.
+El que et vingui que va de tort, diràs, hòstia, aquest li passa alguna cosa neurològica. I després miraràs la tensió i diràs, està a 200.
+El que té patologia cardíaca, què pot tindre? Doncs també tres coses principals.
+Que són, o s'està infartant, té una emergència hipertensiva amb un àngor, o té una insuficiència cardíaca, o té un problema valvular, per exemple, aòrtic.
+Té una dissecció aòrtica. I això ens ha de cridar molt l'atenció. No és un pacient que tingui una molèstia a no sé on.
+Si tens una angina de pit o tens un infart, tindràs dolor, tindràs dispnea, tindràs vegetatisme, estaràs vomitant, estaràs suat. Veuràs que el pacient no està bé.
+Si tens una insuficiència cardíaca, el mateix. Tindràs dispnea, t'explicarà que no es pot estirar perquè s'ofega...
+o que s'haurà despertat per la nit perquè té dispnea paroxística nocturna. Tindrà alguna simptomatologia d'aquestes.
+I si té una dissecció aòrtica, tindrà un dolor impressionant centretoràcic irradiat a l'esquena, com si alguna cosa li passés per dins... i tindrà un dolor impressionant.
+Per tant, amb l'anamnesi que li puguis fer amb les quatre preguntes amb això, ho hauries de tindre bastant clar.
+I després a nivell renal pot ser una miqueta més difícil, perquè a lo millor has de preguntar "però vostè orina menys els últimes hores que habitualment?". Pot ser una miqueta més complicat o és menys evident.
+O que faci hematúria. Pot ser una miqueta més complicat. 
+I d'exploració física, és el que ens ha d'ajudar a decidir una cosa o l'altra, no?
+O sigui, hem fet una anamnesi i hem vist que al pacient neurològic, lògicament hem de fer una exploració neurològica, veure com està a nivell d'orientació d'espai, temps, persona i situació. 
+Si està confós, si està letàrgic. Focalitat neurològica. En aquest pacient estaria molt bé fer un fons d'ull amb l'oftalmoscopi,
+perquè pots veure signes de la retinopatia hipertensiva, no? Pots veure exsudats, hemorràgies retinianes...
+Ara no sé si es diu retiniana o retin... no sé com es diu ara.
+I pots veure també un papil·ledema.
+Fons d'ull. 
+Un fons d'ull, sí.
+Per favor, això hauran de trobar una màquina que ho faci perquè els humans jo crec que... què queda algú que sàpiga fer això que no sigui oftalmòleg?
+Bé, quan vas a l'òptica ja t'ho fan, eh? Amb una màquina i et posen allà i te fan una foto i queda súper xulo.
+Però clar, a urgències és complicat, eh? Perquè primer no tenim la pràctica i després perquè per fer-ho ben fet necessitaries dilatar la pupil·la del pacient. I no ho fem habitualment. 
+A nivell cardíac, l'exploració, si és una insuficiència cardíaca, si l'auscultes sentiràs crepitants,
+si li mires tindràs ingurgitació jugular, reflux hepatujugular, tindràs edemes a les cames, si es manifesta amb una forma d'un edema agut de pulmó.
+Si l'escoltes una miqueta atentament, pots sentir un tercer soroll cardíac, que si el sents, és un signe molt específic. Té una especificitat d'un 90-97%.
+Per tant, si la clínica acompanya i li sents un tercer soroll cardíac, gairebé pots posar la mà al foc que aquell pacient clínicament té un edema agut de pulmó.
+Pots mirar els polsos perifèrics. Si sospites un síndrome aòrtic agut, doncs mira si hi ha diferències de tensions entre un braç i un altre i mira com estan els polsos.
+A nivell de l'exploració, aquí també ens pot ajudar l'ecografia a peu de llit. Per exemple, pel tema del papil·ledema pots veure un augment del diàmetre de la beina del nervi òptic, que et pot ajudar.
+Uhh... Eco ocular. Déu n'hi do.
+Sí, això ho fem, no, habitualment?
+I tant, i tant. 
+Ah, ara m'espantaves, Albert.
+Bé, però normalment es fa servir per mesurar indirectament la pressió intracraneal... Això, això apuntem-ho, això. Busquem algú que ens expliqui coses d'eco, ocular també està bé.
+Això... sí, la veritat és que ho llegim i tal, i jo personalment ho he intentat un parell de vegades i no és una cosa que faci habitualment i no us puc explicar.
+Sí que em preocupa perquè sí que et diuen que els estudis que té una sensibilitat del 82% i una especificitat del 76... lo qual està molt bé
+però... no sé si tots, però almenys els primers estudis que es van fer això els que feien l'ecografia aquesta eren neuro-oftalmòlegs. 
+Clar, no és el mateix dir-li a un neuro-oftalmòleg que anem a fer un estudi, no sé què, a veure si amb una ecografia ocular podem veure amb precisió el diàmetre de la beina del nervi òptic
+ a no sé quants mil·límetres de la retina i no sé què a que ho faci jo, que no sóc neuro ni oftalmòleg. Per tant, la pràctica és important.
+Per tant, aquí si que els estudis diuen això, però clar, poder som poc, quan fèiem la lectura crítica d'un estudi sí que pot ser que l'estudi tingui una validesa interna molt interessant, no? 
+i que sigui molt fiable, però la validesa externa a l'hora de poder aplicar això a la pràctica clínica, hòstia, si no sóc neuro-oftalmòleg, servirà igual?
+No sé si n'hi han o no,  d'estudis que ho hagin fet amb professionals d'urgències fent aquestes mateixes tècniques, aviam quins resultats obtenim.
+I l'altre ús de l'ecografia, Albert, en aquests pacients...
+Edema agut de pulmó has dit? Línies B.
+Les línies B, molt bé. 
+Hòstia, que fort. 
+Molt bé. Doncs aquí sí que tenim pràctica i ho fem crec que de forma rutinària, m'agradaria imaginar, a la majoria de serveis d'urgències. 
+Si sospites un edema agut de pulmó i tens l'ecògraf, doncs fem-li una ecografia. Perquè la sensibilitat és més alta que una radiografia.
+Aquí la sensibilitat de l'ecografia per diagnosticar una insuficiència cardíaca, és a dir, que vegis línies B, és del 90 i escaig per cent i l'especificitat també.
+Per tant, poques proves en general a medicina les tenim amb una sensibilitat i una especificitat del 90% aproximadament, més menys.
+I fàcil, eh. Ho veig jo i tot, eh.
+Sí, fàcil, ràpid, econòmica si ja tens l'aparell de l'ecografia comprat i amortitzat...
+Tothom en té. Ja et dic ara que tothom en té. Perquè amb el COVID, els CAPs, tots els CAPs han acabat amb un eco.
+Bé, clar, em diràs que estàs a la consulta de Tírvia o de Tuixent. D'acord, potser allà no el tindràs. De fet l'hauries d'haver carregat al cotxe, però és una altra història.
+Sí, sí. És una eina que tenim bastant a l'abast. I afegeixo que tampoc no té cap efecte advers en el malalt.
+En canvi  si vas acumulant radiografies, al final sí que els radiòlegs te passaran un dallonses que dirà, anem malament de radiacions.
+Per tant, l'ecografia en aquest pacient te pot ajudar.
+Què més... Ens diuen que l'absència total de símptomes i signes d'emergència té una sensibilitat del 94% per descartar-la. I una especificitat baixa del 60%.
+ És a dir, el pacient que li facis totes aquestes preguntes de com està a nivell cerebral, a nivell de visió, a nivell cardíac i a nivell renal,
+si li fas les quatre preguntes que hem parlat ara i li fas una exploració física orientada a aquestes quatre coses, té una sensibilitat del 94%.
+Dubte. Perquè hem parlat dels òrgans diana, l'ull, el cervell, el cor, però pel ronyó amb l'anamnesi què és l'única cosa que pots demanar? Si pixa menys?
+I si fa hematúria. 
+També. 
+Si els dius, el color del pipí és com sempre? No et puc dir la sensibilitat i l'especificitat d'aquest signe, però bé, després te queda el recurs de mirar-ho, no?
+De fer una tira d'orina i mirar si hi ha hematúria, si hi ha proteïnúria. I després, si és necessari, encara no n'hem parlat, però també podem fer analítiques.
+Però sí que ens diuen això, que només amb les preguntes i l'exploració física, té una sensibilitat del 94%.
+És a dir, que pots estar molt segur que si el pacient té una tensió de 190, però no té cap d'aquests símptomes, no té cap d'aquests signes, 
+pots descartar que sigui una emergència hipertensiva amb una seguretat... 
+Bastant elevada.
+Bastant elevada i que entra dintre del marge d'incertesa amb la qual treballem a urgències.
+Evidentment no és del 99,99%, però són xifres que habitualment treballem i ens sentim còmodes, amb un 95% de seguretat.
+Si no, podem continuar fent més coses. Tenim una analítica.
+Amb una analítica de sang, podem veure com està la funció renal, com està la creatinina, ens dirà el filtrat glomerular, una urea.
+ Podem demanar com està a nivell d'hematies, perquè hi ha un terme que és la microangiopatia hipertensiva, 
+que són pacients que per culpa de la hipertensió, d'aquestes hipertensions severes, sí que hi ha lesió microvascular i fan una anèmia.
+Una anèmia hemolítica microangiopàtica. I això ho veuràs perquè a l'analítica veuràs una anèmia i veuràs esquistòcits, és a dir, els eritròcits fragmentats. 
+I això, esquistocits o esquistòcits, no sé com es diu... i això t'ho dirà l'hemograma. 
+Poder no t'ho diràs les 24 hores del dia, perquè això si no m'equivoco ho ha de veure el facultatiu d'anàlisis clíniques.
+A part de ser estrany, també necessita temps per passar això. I entenc que és agut, però no tant agut.
+Exacte. No perquè porti dues hores hipertens començaràs a veure una anèmia hemolítica.
+Què més... en l'anàlisi d'orina, hematúria, proteïnúria, te pot ajudar.
+Què més... un electro. Parlem d'altres proves complementàries, eh?
+L'electro, si no et queda clar si els símptomes que té el pacient, el dolor que se'n li va cap aquí i cap allà, no t'acaba de quedar clar que sigui un dolor coronari o no coronari,
+evidentment, demana-li un electro de dotze derivacions i estaràs més tranquil que no veuràs cap imatge de les que l'Albert persistentment ens insisteix en aquest pòdcast.
+Aquesta temporada toca també, eh.
+Ni elevacions, ni morfologies equivalents dels... Com en diem? els OMI o...
+Sí, si. Els STEMI equivalents, que ja ho hem de deixar de dir, sí, sí. Aquest any toca algun. 
+A veure si acabo de fer alguna entrada al blog que tinc un parell a mitges també i després ja n'explicaré algun parell de més.
+Va, Albert, que la gent ja ens ho està demanant.
+Segur. 
+Què més... si no estàs convençut amb la teva ecografia, demanes una radiografia de tòrax, cap problema.
+I si no et queda clar la clínica neurològica que té el pacient, perquè sí que t'explica una cefalàlgia que podria ser, no podria ser, doncs li pots demanar un TAC cranial i això ens acabarà d'ajudar.
+I crec que ja estem de proves complementàries. Jo crec que ja no li demanaria...
+Ara ja tenim diagnosticat aquest pacient que a més a més d'una pressió alta, té alguna cosa més.
+Que aquesta és la part important. No només ve amb la pressió alta, sinó que té alguna cosa més que fa por.
+Sí. El que ens diuen les guies d'ara és això, que el que té una emergència hipertensiva, entrant per la porta ja l'has d'identificar.
+Gairebé sense fer-li cap pregunta, perquè per tindre una emergència hipertensiva i per tant hem de córrer, clínicament ho has de veure.
+I si no, li fas les quatre preguntes de cada sistema que sabem que està afectat i li fem les quatre exploracions i amb això encara ho hauria de tindre més clar. Amb un 95% de seguretat.
+Que no? Doncs demana-li quatre proves complementàries. Una analítica, demanen-li un sediment i mira l'hematúria, la no sé què, un electro, i si... doncs demanen-li una tomografia cerebral.
+I aquí ja hauries de separar que és una emergència hipertensiva. Doncs correm.
+Perquè a part de tindre la tensió elevada, el pacient o té un edema agut de pulmó que s'està morint perquè té la tensió pels núvols o té un infart o té una dissecció aòrtica i ens hem de posar les piles. 
+L'altre, el que té una hipertensió severa asimptomàtica, aquests sabem que poden marxar cap a casa tranquil·lament i que no els hi passarà res.
+No s'han de tractar de forma intensiva, no se'ls hi ha de donar res, sobretot per via endovenosa, ni per via sublingual.
+Normalment això li passa a gent que ja és hipertensa i per tant, el que hem de mirar és veure el que pren de tractament i ajustar. Ajustar la dosis, assegurar-nos de la seva adherència al tractament.
+A lo millor et diu: "és que fa tres dies que no prenc la pastilla". Està a 190, no passa res. 
+A partir de demà prenguis vostè bé la medicació, faci dieta sense sal, apuntis la tensió que té vostè a casa 
+i li porten al seu metge de capçalera i li dirà quina dosis s'ha de prendre de medicació, si hem d'augmentar la medicació o afegir algun medicament.
+O si tu ja et veus en cor de recomanar-li, ja li dius: "mira, a partir de demà en lloc d'un comprimit al dia, doncs se'n prengui un i mig".
+L'últim episodi vam recomanar una eina...
+BPmodel.org. 
+Veus, tens més molta més memòria que jo, eh.
+Vam recomanar una eina que tu li deies el tractament que prenia el pacient i quatre característiques del pacient: l'edat, sexe, no sé quina alguna cosa més,
+i tu li deies, si li afegeixo un enalapril al matí de 10 mil·ligrams, no sé què, com li canviarà la tensió?
+I amb això pots fer una previsió de dir, doncs aquest pacient pren això, si li afegeixo 10 mil·ligrams de tal cosa, estarà més controlat.
+És una eina que ens pot ajudar. I ja està, però el pacient pot marxar cap a casa tranquil·lament. En canvi l'altre, ens hem de posar les piles.
+I no entrarem amb temes concrets de cada una de les patologies de les que hem parlat, de com tractar i no entrarem en fàrmacs concrets, la dosis, no sé què, perquè seria per fer un altre episodi.
+Però sí que la recomanació és sobretot no tractar les xifres, sinó que tractem al pacient.
+Perquè ens obsessionem de dir, hòstia, està a 190 encara, o està a 220, hem de tractar la patologia que té el pacient.
+I en general, la recomanació per la tensió, si tens una emergència hipertensiva, és que durant la primera hora li hem de baixar com a màxim, com a màxim un 25%, la tensió d'aquest pacient. 
+Com a màxim. Sembla poc un 25%, però ja és força. Un pacient que tingui unes sistòliques de 200, un 20% seria treure-li 40 mil·límetres de mercuri, i ja el tindries a 160. 
+A 160, hi ha gent que viu constantment a 160. Per tant, no passar-se del 20-25% a la primera hora.
+I després durant les 2-6 hores següents, l'objectiu és que estigui menys de 160 de sistòlica o menys de 100 de diastòlica.
+I després ja tens un dia, 48 hores perquè el pacient estigui a 130-140 que és lo que hauria d'estar.
+Però sobretot que la primera hora, que és on la podríem cagar més habitualment, com a màxim li hem de baixar un 20-25%.
+Perquè el que ens passava abans, com que no diferenciàvem entre crisi hipertensiva, emergència hipertensiva, urgència...
+tractàvem molts pacients amb una urgència, que no tenien cap problema greu i els tractàvem amb fàrmacs que feien baixar massa la tensió
+i els pacients hipertensos són pacients que tenen un problema de regulació de la tensió arterial.
+El seu cervell i el seu ronyó i la seva retina i tot estan acostumats a perfondre bé a 160 de sistòlica.
+Si tu li baixes, tindrà problemes d'isquèmia. Tindrà òrgans mal perfosos per la medicació que li hem donat.
+Per tant tindràs un pacient que no tenia un problema neurològic i ara el tindrà, o tindrà un problema cardíac coronari que no tenia.
+I com que això s'ha vist que és així i passa, per això les recomanacions d'ara és dir, no, no, o clínicament estàs malalt,
+amb evidència ja només de veure l'entrada per la porta i per tant tens una emergència hipertensiva, o tens una hipertensió severa asimptomàtica. 
+En aquests, mira-te'l tant com vulguis, fes-li totes les exploracions que tu vulguis... però no intentem baixar-li la tensió en aquest pacient. 
+En canvi, el de l'emergència hipertensiva sí, però màxim un 20-25% en els primers 60 minuts.
+Excepte casos concrets, que serien, per exemple, una síndrome aòrtica aguda, no? Una dissecció aòrtica. En aquest sí que hem d'anar una miqueta més a sac.
+És que aquest és tota una altra història. 
+Sí, sí.
+Justament aquest està trencat. Aquest si no evites que es trenqui més es morirà. Ja no t'importa... 
+que tingui mala perfusió renal o...
+És que l'única manera que sobrevisqui si ha arribat a trencar-se és que l'arreglin. I per tant, baixa tot el que hagis de baixar dins el... Que no el matis abans, però... 
+Sí, sí.
+D'aquest n'hem de parlar també, perquè aquest és tot un festival aquest, eh. 
+Bé, a cadascun d'aquests li podríem dedicar un episodi, eh.
+Sí, sí. 
+Però sí que hi han casos que hem d'anar una miqueta més de cara a la idea, no?
+I la síndrome aòrtica aguda, la dissecció aòrtica, aquest sí que hem d'aconseguir que en 20 minuts estigui amb sistòliques per sota de 120. I freqüències per sota de 60.
+Què fem servir en aquests normalment? Labetalol. Però sempre intentar primer controlar-los la freqüència cardíaca i després baixar-los la tensió.
+Perquè a vegades fem servir vasodilatadors per baixar-los la tensió, i sí que els hi baixarà la tensió, però si primer fem servir un vasodilatador, 
+imagina que li dones nitroglicerina, li baixarà la tensió però li pujarà la freqüència cardíaca.
+I tu tens allà la canonada que la tens estripada i si en lloc d'anar a 60 vas a 120, és una putada.
+Per tant, frenar-los i baixar-los la tensió. I si pots fer les dues coses a la vegada, millor.
+Un altre exemple, l'edema agut de pulmó que et ve amb una hipertensió de 200. En aquest també. Fins que no li baixis la tensió o li baixes en pocs minuts o se't morirà allà mateix.
+D'això en vam parlar en un episodi, no sé si era el 12 o el 13, que parlaves de l'edema agut de pulmó llampec.
+Sí, em sembla que vam dir llampec, sí, sí. Aquest és per posar-li crec que en aquell episodi dèiem de posar-li la nitroglicerina en embolades no començar amb la bomba normalment que la comencem allò 10, 15 mil·lilitres hora, no, no.
+Aquests són embolades de no sé si dèiem d'un gram de nitroglicerina endovenós a passar en dos minuts, però eren dosis heavys de nitroglicerina conjuntament amb la ventilació no invasiva, les dues coses a la vegada.
+Els efectes secundaris, que és que li baixaré massa la tensió i hauran òrgans que patiran, però és que o li baixem o aquest pacient se'ns pararà a la llitera en menys de 10 minuts.
+Per tant, sí que té els seus efectes secundaris baixar de massa ràpid la tensió, però és que estem obligats.
+I ja només em quedaria, potser una altra excepció seria la preeclàmpsia.
+La gestant a partir de la setmana 20 i escaig, ara no me'n recordo, i fins al postpart també les primeres setmanes, poden fer eclàmpsies i preeclàmpsies.
+Per tant, si et ve una persona amb unes tensions a partir de 160, doncs les hem de baixar. Perquè si no ens convulsionarà i el fetus i la mare sortiran perjudicats.
+Aquest sí que li hem de baixar la tensió per sota de 140.
+Aquest també és un altre tema molt interessant en ell mateix també.
+I penso que ja està, eh. Potser en el blog parlem d'alguna cosa que ens recomanen ara i que potser tampoc no tenim a tots els serveis.
+Ens recomanen la nicardipina i la clivedipina, que potser en hospitals de tercer nivell i això ja ho feu servir habitualment, però a molts llocs no.
+I el labetalol, l'esmolol i els que fem servir habitualment, la nitroglicerina, l'urapidil,
+que en aquí com que eren publicacions bastant anglòfones, a Estats Units pel que tinc entès, la FDA no el té aprovat, crec que no el té aprovat l'urapidil. En canvi aquí a Europa sí, i es fa servir bastant.
+Per tant, tancant, buscar en el pacient que vingui amb la tensió arterial pels núvols, si té lesions d'òrgans diana o no.
+I això ho veurem només per l'aspecte d'entrar pel triatge o fent-li quatre preguntes i quatre exploracions.
+Després si l'hem de tractar, tractem al pacient i no tractem les xifres de tensió arterial. I si l'hem de baixar, no més d'un 20 o un 25%.
+I en els pacients amb una hipertensió severa asimptomàtica, no fem cap tractament agressiu.
+Correcció, mesures, que vagi al metge de capçalera quan abans pugui, potser li canviem una miqueta la dosi...
+i si vols li donar alguna cosa li pots donar, però no hem de fer sobretot res endovenós.
+De fet, ja en una recomanació de la guia aquesta de la AHA del 2025 ens diuen que en pacients hospitalitzats per alguna causa no cardíaca,
+i que t'avisen perquè té una tensió de 190 i no té una emergència hipertensiva doncs no fer el tractament aquest a demanda.
+Dir, doncs donem-li un captopril i demà ja veurem què passa.
+En aquests pacients està molt clar que no se'ls hi ha de fer cap tractament aixins a demanda amb una tensió de 190.
+I ja està. Són les tres o les quatre recomanacions finals. No sé, Albert, si ha quedat...
+Això que deies que havíem fet de tractar quan no tocava tractar les hipertensions severes asimptomàtiques... no ho diguis en passat, eh.
+A casa meva ho dic en present i costarà un horror de canviar això.
+I a part, mira, això aviam si algun dia trobo algú que ens ho pugui explicar, nosaltres vivim en alçada, 
+el meu hospital està a 1.200 metres d'alçada i els hipertensos que venen de visita, doncs els hi acostuma a pujar la pressió, és una cosa que hem observat.
+Ho he mirat i està escrit només per altes alçades, per alçades així segurament et diran que no té cap importància, però sí que ens trobem que molts guiris que ens venen a veure, venen perquè tenen la pressió alta.
+També hi ha locals que la tenen alta de tant en tant, però molts ens venen.
+I tots acaben estirats amb el seu captopril 25 sublingual i vinga, i un, dos i a vegades algun ha acabat amb labetalol i tot simplement per tocar-los el número.
+O sigui, lo de tracta el pacient, no el número, igual faré un mem o un cartell i el penjaré, també.
+Aquí podríem fer una col·laboració i fer una recerca multicèntrica i comparar els pacients que venen amb unes tensions elevades a Cerdanya, que esteu a 1.000 metres, 
+estrangers que venen a consultes d'urgències per tensions elevades i els que venen a Figueres, que estem a 50 metres d'alçada del nivell del mar i veure si hi ha diferències. 
+Perquè si dius que és per culpa de l'alçada, hauriem de  veure diferències, perquè aquí també en veiem d'estrangers que venen per la tensió.
+Jo quan dic guiris no em refereixo a...
+Bé, d'acord. Sí, doncs fora de territori.
+A la meva comarca tot el que està per sota del túnel és de Barcelona.
+Sí, sí, sí. Bé, doncs fora de territori. Sí, s, evidentment. 
+Però jo la motivació que vaig tindre de voler repassar aquest tema era precisament perquè me n'adono moltes vegades que em toca visitar pacients que dius:
+"hòstia, és que aquest senyor no té cap emergència hipertensiva, senzillament té la tensió a 200, però està perfecte". I què passa aquí? 
+I la recomanació és molt clara, si estàs al CAP no l'enviïs aquest pacient.
+Modifica el seu tractament habitual, dóna-li una sèrie de recomanacions del que ha de fer, de lo que no ha de fer i ja està.
+No tindrà més mal pronòstic que enviar-lo a urgències a que nosaltres li fem no sé quines proves i que li posem no sé quin tractament endovenós. En sortirà perjudicat.
+Perquè a urgències també al final em veuré forçat... clar, el pacient dirà "és que m'han enviat des de no sé on i no sé què, porto tres hores esperant i al final acabaré claudicant i diré "va, doncs li donarem un captopril".
+Sí, arreglarem el número i...
+I vostè marxarà més tranquil, però és que l'estic perjudicant.
+I el seu ronyó tindrà menys perfusió renal i igual no li agradarà tant. Però bé, vostè ho ha volgut, sí, sí. Aquesta és una guerra complexa.
+Què et sembla? Canviem de secció, anem al Menys és Més?
+Sí, home
+Espera, espera, que el llenço. 
+Mira, jo com que parlàvem d'aquest tema, dic, deixa'm buscar a veure què trobo. I en vaig trobar un de l'Essèncial de l'any 21.
+Ara em diràs que diran coses totalment diferents del que estem dient. 
+No, diu exactament el mateix que has dit tu.
+De quin any dius? Del 21? 
+Del 21. Diu exactament el mateix que has dit tu, sobretot que no se'ls hi ha de donar per via endovenosa.
+Això,de quin tipus de pacient estem parlant?
+Estem parlant dels que, malauradament, el terme urgència...
+Aquí encara parlaven d'urgència?
+Aquí encara parlaven d'urgència, que de fet ja ho diu, eh, que s'ha de deixar de parlar de crisi hipertensiva, per...
+I aquí ja començaven a parlar-ne, eh?
+Sí, aquí el tema era aquest. Després vaig estar buscant i sí que l'American College of Emergency Physicians,  l'ACEP... van fer una recomanació aquest 2025 que això sí que és un canvi que hi havia fins llavors.
+Crec que aquí diu que has d'enviar el pacient al metge de capçalera perquè li arregli el tractament i allà ja estan dient que comencis tu, metge d'urgències, el tractament de la hipertensió.
+Suposo que aquí té molt a veure... Aquesta guia de l'Essèncial, diu que has d'arribar a veure el metge de capçalera en una setmana.
+Res, això res. Total, com que sabia que segurament ho diries tot tu i ja ho has dit, doncs m'he buscat un altre de Menys és Més.
+Ah, d'acord. 
+Sí, ho has dit tu, perquè haig de venir jo a dir lo mateix? 
+I aquest no diries mai d'on l'he tret. No és del Diana Salut, no és... És un mite de la medicina d'urgències i no l'he tret d'aquells suïssos... És d'un llibre. 
+D'un llibre que es titula "Myths in Emergency Medicine". O sigui, ja han fet un llibre. De fet han fet un i una segona edició... Bé, una segona edició no.
+Una actualització? o una...
+Un altre llibre amb més mites. Llibre de la medicina d'urgències. Aquí en sortiran uns quants. Aquest llibre, evidentment, com tots els llibres del gremi, valen una pasta gansa a menys que tiris d'altres mètodes. 
+I n'he trobat un que cada vegada que ho sento em fot molta ràbia. A tots us sona dels cursos de la SVAT o de l'ATLS americà, lo de la determinació de la pressió arterial en base a on pots palpar el pols, no?
+Sí.
+Et diuen que si palpes el pols radial estàs a més de 80, i si palpes el pols carotidi estàs a més de 60.
+Si vols el femoral diuen que tens 70 o 80... Doncs sabeu què? És mentida.
+Aquí en el llibre aquest del Mite te diuen d'on ve, i ve bàsicament que això ho van començar a posar en els cursos de l'ATLS ja fa decennis i s'ha anat mantenint.
+I ningú es va preocupar d'estudiar-ho científicament.
+Doncs quan ho han començat a estudiar, doncs hi ha un estudi de l'any 88, 20 pacients de trauma amb pressió arterial no invasiva.
+En aquest cas només un 25% dels casos eren acurats, és a dir, que allò si tu mesuraves un radial estava a més de 80, només un 25%. Bueno, aquí pot ser radial, el que correspongui, eh.
+Què passa? Doncs amb això el que fem és sobreestimar normalment. 
+Sobreestimar la hipotensió?
+Sobreestimar la tensió del pacient. Tu palpes un pols radial i dius "està a més de 80". I potser no.
+I de fet en un altre estudi també de l'any 2000, també aquest eren 20 pacients amb xoc hipovolèmic.
+El que sí que és cert és que primer perds el radial, després el femoral, després el carotidi. Això és cert.
+El que no és cert, mira, aquí diu que per exemple que la pressió aquesta arterial mínima, és a dir, si la radial és 80... doncs només es va complir en 4 de 20. Tots els altres en tenien menys.
+Per tant, el mite aquest és perillós, perquè si et bases a prendre decisions amb l'assumpció del número, doncs vas malament.
+Pensaràs que el pacient està prou bé i quan en realitat el tens més hipotens del que et penses i el tindràs mal perfós i el tindràs xocat.
+Aquí la gràcia no és no fer servir la palpació, però sí assimilar-la a un número.
+Tens pols radial? És millor que no tenir-ne. Però tenir pols radial no et garanteix que hagis arribat a una pressió que sigui adequada per aquest pacient.
+Per tant, el mite és "pols radial no necessàriament estàs a sobre de 80".
+Ens ho havien ensenyat moltes vegades, eh, en els cursos aquests del suport vital avançat en trauma...
+Ens ho havien ensenyat i encara s'ensenya.
+Bé, sí. 
+Aquí el tema és: el número no és veritat. Que primer perds el radial, després el femoral i després el carotidi? Sí.
+Però sempre, bé, sempre no, has de pensar que estàs sobreestimant la pressió real del pacient.
+Que de fet podria anar també el mateix que ens passa amb el... em sembla que n'havia parlat en aquell episodi que parlàvem de la pressió arterial,
+que quan l'aparell de la pressió arterial és incapaç de donar-te números, doncs aquell pacient, quan ja portes 25 vegades que no et dóna número, ep, té la pressió baixa.
+Tan baixa que no es pot mesurar. Fes alguna cosa.
+Aquí és el mateix. No, ja  té radial, ja parem. No, cony, no paris. Potser has de parar, potser no. Pren-li una pressió, collons.
+Doncs això, doncs aquest és el Menys és Més. El Menys és Més definitiu, perquè clar, l'altre ja l'has dit tot tu.
+Fantàstic, molt bé.
+Doncs ara ens toca... oh, oh, ara ens toca l'Urgemmot.
+Ara tenim Urgemmot? Encara fem... encara fem Urgemmot?
+Encara tenim Urgemmot. Ah, i a mi m'agrada molt, o sigui que el seguirem fent.
+Va, Urgemmots. Algun dia s'acabarà aquest diccionari, eh? Perquè...
+No s'acabarà. S'acabarà el diccionari, però el català... 
+L'anirem repassant de tant en tant?
+També, el català és molt divers i molt ric, o sigui que sortiran paraules, moltes paraules sortiran.
+De fet, mira, espera't. L'altre dia va venir una pacient, ja saps que en el meu territori, doncs bé, es parlen molts idiomes, i el català també.
+I hi ha una variant de català, el català de la Catalunya Nord, és molt... no sé, antic no... més genuí, no ho sé.
+Doncs va venir una pacient que s'havia fet mal a la ulna. A la ulna, que això surt en el teu diccionari. I que ningú ha sentit mai de tots els catalans de Catalunya Principat, ni Déu ha sentit la paraula ulna.
+I hòstia, estava content com una mala cosa. Perquè jo sí que ho vaig entendre. Us ho deixo, a mirar on és la ulna, a veure què... a veure què. Va... Perdona, Xavi, digues.
+Doncs mira, jo avui mentre venia cap aquí estava escoltant un pòdcast que escolto de vegades, que es diu "Llegir que són dos que fan conya i entrevisten a gent, ho fan amb públic i tal. Ells sí que tenen públic sempre  allà.
+I parlen de literatura, però ho parlen molt amb conya i de vegades tu acabes d'escoltar el pòdcast i no saps ben bé ni de qui han parlat ni... Perquè tota l'estona és per passar una estona rient i passar-t'ho bé, eh.
+I precisament sempre comencen amb una historieta, no sé què, i ha començat explicant la història no sé de quin animal era, no sé de què parlaven, eh, ara no me'n recordo de quin tius d'animal.
+I han parlat de la sofraja dels porcs o dels no sé què. I així, tan natural, aquesta gent parlaven de la sofraja.
+Ara que has dit això, en el programa aquest últim d'en Peyu, que estan fent ara, la Renaixença, que escoltem a casa, li van preguntar amb una què volia dir "empenya". Acabat amb a, sense r.
+Jo ho sabia. A casa meva, jo ho sabia. I em van dir "això ho saps tu segur". Jo ho sabia, sí, sí. 
+Molt bé, molt bé.
+Si no sabeu què és l'empenya, urgem.cat/diccionari. Allà ho teniu.
+Doncs com que hem estat parlant de temes de hipertensió, he mirat el diccionari aquest i he dit, deixa'm fer-li un cop d'ull ràpid, vejam què trobo relacionat amb això.
+El primer que he vist que n'hem parlat un moment, era l'aparell aquell per veure el papil·ledema. I era l'oftalmoscopi.
+En podríem dir oftalmoscop, però no és correcte. Si ho vols escriure-ho, és oftalmoscopi, no oftalmoscop.
+Hem parlat de tractaments de la hipertensió i recordar, tot això ja ho hem dit en altres episodis, dels blocadors beta-adrenèrgic i dels blocadors dels canals del calci i dels blocadors del que vulguis.
+No són "bloquejadors" ni altres històries, sinó que són blocadors.
+Un que a mi m'agrada molt és el braçal neumàtic, quan vols mirar la tensió arterial agafes aquella, no sé com descriure-la, aquella tira aixins allargada, no? I li emboliques al voltant del braç. Això és el braçal neumàtic.
+Parlem de constants biològiques. Constant biològica és el terme preferit del Termcat i l'altre seria la constant vital.
+Però no signes vitals, sinó constants, constants biològiques és el terme adequat. O si no, constant vital.
+El tractament de molts d'aquests fàrmacs hipotensors via endovenosa seriem en "embolada". Millor que en un "bol". Però no en un bolus.
+L'hemiplegia. Si el pacient no belluga l'hemicòs esquerre, té una hemiplegia. No és una hemiplègia, no va accentuat aquest terme.
+L'hemorràgia subaracnoidal, que moltes vegades en podem dir subaracnoidea, però correctament és subaracnoidal.
+Papiledema, en lloc d'edema de papil·la o papil·ledema sense ela geminada, doncs correctament n'hauríem de dir papil·ledema amb ela geminada.
+I pacients que venen hipertensos, a 200 de sistòlica i que venen amb una clínica neurològica, te'ls pots trobar que t'expliquin que fan vòmits així sobtats. 
+Això el terme més correcte és un vòmit central. I si no, em pots dir vòmit en escopeta o en projectil. I ja està.
+Molt bé. 
+Ara no sé quants n'he dit.
+Uns quants, uns quants. Tots relacionats amb el tema d'avui. Molt bé.
+Jo per l'Urgemmot, després d'haver explicat aquestes anècdotes, tinc feina. Tinc feina per tots els oients.
+Els hi vols donar feina? 
+Sí, sí. És una feina important, per la llengua. El Termcat junt amb el Departament de Salut, ha publicat uns pòsters amb vocabulari en català de sanitat.
+Un pòster que hi ha tot d'aparell sanitaris, un altre pòster que hi ha una consulta i un altre pòster que hi ha una persona, dona, ensenyant els pits, per fi, amb el vocabulari adequat. 
+Us recomano que mireu el pòster de l'anatomia perquè veureu alguna cosa que us cridarà l'atenció.
+Doncs la feina que us dono a tots els oients és aconseguir que aquests pòsters que el Termcat ha d'enviar als centres sanitaris, doncs que es pengin.
+Vetlleu-ho perquè han de ser-hi. I si en podem imprimir més i posar-ne més, posem-ne més.
+Digueu-los-hi als vostres caps: "escolta'm, aquells pòsters del Termcat on, on els penjarem?".
+Perquè es belluguin, perquè si no ja passarà lo de sempre, que és que és un tema que no ens interessa, etcètera, etcètera, i passaran.
+A les notes de l'episodi posaré l'enllaç cap a aquests pòsters. Jo per la meva banda hauré d'editar-los segurament i també fer-ne una versió francòfona del tema, que també té collons això.
+En fi, doncs què et sembla? Anem acabant, anem a les recomanacions?
+Anem a les recomanacions, sí.
+Què? Llences tu la teva o llenço jo la meva, Xavi? 
+La teva.
+Va, començo jo.
+Doncs mira, jo no he trobat res que m'interessés del tema de la hipertensió, però com que fa dies que no dic res dels electros, doncs havia de parlar d'alguna cosa.
+Recordareu que us vaig recomanar una web que es deia e-cardiogram, que era el blog, el lloc web d'un fanàtic d'un expert de l'electrocardiografia francès, en Pierre Taboulet. Le professeur Pierre Taboulet.
+Doncs bé, aquest senyor ara té un canal de Youtube. Us posaré els enllaços també. Pierre Taboulet guió ECG. On dels cursos que va fent ell per aquests mons de Déu, doncs hi va penjant els seus vídeos.
+Hi té unes quantes lliçons d'electrocardiografia, anava a dir bàsica, però bé, tenim tots els nivells. Ara els últims que té són un curs d'electrocardiografia des de bàsic fins a mitjà.
+I és interessant. És en francès, però bé, subtítols i traducció de subtítols i s'entén raonablement bé, la veritat.
+Jo us el recomanaria. Youtube.com/@PierreTaboulet-ECG per els que us interessi l'electrocardiografia.
+I si no us interessa, no sé què foteu escoltant l'Empodcat, perquè només parlem d'això. Ai, perdó.
+Què tens tu, Xavi? Va.
+Jo només us volia recordar el procés que estem a la posada en marxa de l'especialitat de Medicina d'Urgències i Emergències.
+Perquè com recordeu, això tira endavant. De moment tira endavant.
+El 2 de juliol de l'any passat, del 24, es va publicar el Real Decret amb el qual s'aprovava l'especialitat d'Urgències i Emergències.
+I a partir d'aquí van començar a treballar la Comissió Nacional de l'Especialitat per fer una cosa molt important que és el programa oficial de l'especialitat.
+Que és un tema principal i és un tema vital a qualsevol especialitat mèdica.
+Que els metges que estan en formació sanitària especialitzada en aquesta especialitat i qualsevol altra especialitat, s'han de regir el que han de saber o el que han d'aprendre, 
+és el que marqui el programa oficial de l'especialitat. I això ho fa la Comissió Nacional d'aquella especialitat.
+Doncs des de que es va publicar el juliol de l'any passat el Reial Decret, es va constituir la Comissió i van començar a treballar per fer el programa oficial.
+Que crec que devia ser com a principis d'octubre ja tenien fet l'esborrany o tenien feta la primera proposta que s'havia d'exposar públicament perquè tothom pogués fer els seus comentaris i les seves aportacions.
+I ara s'està pendent que en els pròxims mesos ja surti publicat el programa oficial de l'especialitat. Sortir publicat en el BOE, que encara no ha sortit.
+Però ara a principis o no me'n recordo exactament el dia d'octubre, la revista Emergencias va publicar un article explicant el programa oficial.
+Perquè ja el van treure, no? L'esborrany sí que poden canviar algunes coses, però a grans termes serà el mateix.
+Coses diferents que poden aparèixer en aquesta especialitat, bé, que apareixeran...
+i és que els hospitals que s'acreditin, en aquest programa oficia,l expliquen els criteris d'acreditació de l'hospital que vulgui tindre residents de l'especialitat.
+No pot ser un sol hospital on es faci tota la formació sinó que la formació obligatòriament té els tres pilars.
+És a dir, ha de tenir un hospital de referència docent, que és un hospital de nivell important i té una sèrie de característiques, però a més a més ha de tindre un hospital comarcal, 
+que en diuen l'hospital docent. És a dir, hi ha l'hospital de referència docent i l'hospital docent, que és on els residents aniran a aprendre o aniran a treballar a fer urgències en un hospital comarcal on no tens de tot.
+I també l'altre pilar és el SEM. SEM o el que hi hagi a cada regió, en aquí serà el SEM.
+Per tant, a diferència de moltes altres especialitats, en aquesta obligatòriament l'hospital que tingui l'acreditació haurà de treballar conjuntament i hi hauran col·laboradors docents i hi hauran tutors d'aquests residents tant en l'hospital de referència, l'hospital docent i en el SEM.
+També els programes oficials de l'especialitat molts tenen 25 anys, i quan explicaven què havien d'aprendre els residents ho plantejaven com és quins coneixements ha de tindre.
+I ara estan molt més orientat, i així  han de demostrar-ho, les competències. És a dir, no quins coneixements tens, sinó què saps fer realment a la pràctica clínica. 
+I això vol dir que, per exemple, després d'aprendre a fer algunes coses a lo millor s'introduirà per exemple més el tema de simulació perquè és una forma més acurada de saber la progressió del resident de realment no el que sap sinó el que sap fer.
+I també m'ha cridat l'atenció que pràcticament totes les guàrdies, encara que el resident estigui rotant per cardio, pneumo i totes les especialitats,
+totes les guàrdies que facin no les faran a planta de pneumo, de cardio i etcètera, etcètera... sinó que totes les guàrdies les han de fer a urgències.
+Sigui de l'hospital seu de referència, l'hospital comarcal o en el SEM. Excepte les de UCI pediàtrica i les de UCI d'adults, que aquestes sí que les faran les guàrdies en aquell lloc. Però seran les úniques guàrdies que faran fora dels serveis d'urgències.
+En l'article d'Emergencias per si us interessa, et descriuen exactament quines característiques ha de tindre l'hospital de referència.
+Que han de tindre més de, per exemple més de 5 metges especialistes en urgències ja acreditats, que de moment tindre el títol d'especialista no sé si a part dels de la Comissió Nacional no sé si ha arribat a algú ja.
+No ho sé, jo vaig fer la sol·licitud ja deu fer un any, i de moment encara no ens han dit res. No sé.
+Però l'hospital de referència ha de tindre més de 5 especialistes en aquesta especialitat i sempre n'hi ha d'haver-hi un les 24 hores del dia, almenys un de guàrdia.
+I després també parlen del número de pacients que han de vindre en aquest servei perquè es puguin acreditar, han de fer recerca, 
+han de tindre una sèrie de publicacions anuals, de comunicacions a congressos i seran bastant estrictes amb aquest tema. 
+Igualment amb l'hospital comarcal on vagin aquests residents a fer les guàrdies a comarcal.
+I ja està. Només us volia dir això, eh, que en pocs mesos hauria de sortir ja la publicació en el BOE.
+Ui, això s'haurà de mirar, eh. Això és molt important pels que...
+Sí.
+Escolta'm, hi ha eco? Ho tens aquí? Diuen que s'ha de fer servir l'eco per tot o què?
+No ho he mirat específicament. Segur que sí perquè...Bé, jo crec que sí. No t'ho puc dir-ho,
+És que ara mateix... bé, el personatge del metge d'urgències és aquell que va amb casco i uan ampolla de Coca-cola... i aviat aniran com d'un fonendo amb un ecògraf penjat.
+Sí.
+Que ja està bé, ja m'agrada.
+Diuen que és un programa oficial bastant actualitzat i bastant en sintonia amb la resta d'Europa de com organitzen allà les especialitats.
+I suposo que quan hagin de fer extrahospitalària també els hi tocarà anar a la central de coordinació, que això també és bastant important.
+Sí.
+Ostres, ara, ara... d'acord, no serà el proper any que entraran els primers residents, però... ostres, ara m'he posat content, eh.
+Home, estarà bé, eh. D'aquí...
+Espero que surtin els primers ja, eh. Jo fins que no surtin els primers no m'ho creuré. De moment encara sóc escèptic, eh.
+Jo penso que des de l'EMPodCat els hi podríem fer un seguiment, no? 
+Ja ho vas dir, ja ho vas dir.
+Al primer que entri, va...
+Vine cap aquí!
+Vine i en parlem, i d'aquí dos anys parlem i quan surtis, que seran quatre anys, parlem i fem un seguiment. 
+A veure, a veure
+Que ens expliquin no? les seves impressions, les seves...
+A veure, haurem de contactar amb algú de la SOCMUE o no sé, algú que ens expliqui de primera mà.
+Ja el trobarem, ja el trobarem. Ja trobarem algun endoll a la SOCMUE perquè ens enviïn algú.
+Molt bé. Doncs escolta'm, tanquem la paradeta o què?
+Sí, home, sí, perquè ja...
+Doncs escolteu oients, ens veiem en el pròxim... Ens veiem si ens veieu en el Youtube, ens escolteu si ens escolteu per qualsevol plataforma. 
+Si podeu anar directes a un lector RSS millor, més que l'Spotify, però si és l'Spotify el que seguiu doncs escolta, què hi farem, a l'Spotify, què hi farem. 
+Què hi farem, què hi farem.
+Donarem diners a gent xunga. No és pas l'únic lloc. Doncs res, per la meva banda res més, ens veiem aviat. Que vagi molt bé.
+Molt bé. Adéu siau a tothom!
+Una hora vint, una hora vint. Va... encara, mira. Això serà fàcil de retallar. Una hora vint, només haig de retallar vint minuts. Escolta'm, un èxit.
