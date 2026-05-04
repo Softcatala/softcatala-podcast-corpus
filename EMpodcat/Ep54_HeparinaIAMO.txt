@@ -1,0 +1,520 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en català
+Hola, bon dia a tothom estem en un nou episodi, l'episodi número 54 de l'EMPodCat i som els habituals en aquesta sèrie. A Cerdanya hi tenim l'Albert Homs. Hola Albert, què tal, com estàs?
+Hola, bon dia? Bona tarda? Bon el que sigui. Com que m'he llevat fa poc, que he treballat de nit, no sé quin món visc avui.
+Bé, i te'n recordes que tens un blog i que escrius coses al blog interessants i que després ens les expliques aquí en l'EMPodCat?
+Avui vagament, perquè allò que parlàvem un dia del treball a torn i tal, avui estic cognitivament una mica afectat, però sí que tinc un blog que és emermedpirineus.cat i sí, allà posem les nostres coses, sí, sí.
+Doncs avui et necessitem una miqueta despert perquè el tema principal de l'episodi d'avui l'expliques tu, ho sabies, no?
+Sí, sí, sí. Faré el que bonament pugui.
+Jo intentaré ajudar-te però clar, el tema el domines més tu, o sigui que...
+No sé si el domino gaire, ja t'ho explicaràs. Bé, i tu Xavi? Va, presenta't tu ara.
+Sí, perquè els que no ens hagueu sentit fins al dia d'avui, sapigueu que us heu perdut 53 episodis molt interessants, però que estan tots gravats a molts llocs i a qualsevol plataforma els podeu escoltar.
+I jo tinc un blog que es diu Urgem, Urgem.cat, i que ara últimament no hi escric gaire perquè el que puc explicar ja directament ho explico aquí en l'EMPodCat.
+Però bé, hi ha coses interessants i i si tinc temps ho aniré escrivint allà i ja està. I si voleu venir algun dia estem al servei d'urgències de l'Hospital de Figueres, alguns dies estic a dins del servei d'urgències i alguns dies, extrahospitalàriament, a l'avançada 606.
+I res, Albert, què et sembla? Estàs preparat per començar a explicar-nos coses interessants dintre del món de la... què? De la cardiologia?
+Doncs mira, sí, de la síndrome coronària aguda. Quina sorpresa, oi?
+Mira, la cosa és que llegint, això que faig cada dia de llegir porqueries a internet vaig trobar el fil d'un senyor que parlava del moment de l'administració de l'heparina en la síndrome coronària aguda que va a cateterisme.
+I això, que sembla molt senzill, doncs no sé tu com ho tens a casa teva, però acostuma a ser bastant un mal de cap. Quan envies algú a cateterisme s'ha de posar heparina, sí, això ja ho sabem, després explicaré alguna cosa més, però quan la poses?
+Perquè passen coses, no sé, en el teu cas no et posen mai pegues de quan la poses?
+No.
+No?
+No.
+Quina sort!
+No, nosaltres tenim com mitja horeta fins a arribar al nostre centre de destí, si sortim des de l'Hospital de Figueres.
+I més o menys la posem 20 minuts, mitja hora, abans que calculem nosaltres que arribarem a la taula de hemodinàmica, i de fet mai m'han dit res ni si abans, si després si està bé, si està malament, no ho sé.
+Doncs mira,  jo t'explicaré coses perquè va d'això justament, eh?
+Potser el primer que hauríem d'explicar és per què és necessari això de l'heparina en aquest tipus de patologia, no?
+Si us sembla us ho explico primer una miqueta, què és el que passa en aquest tipus d'infart i per què tant l'agregació com l'anticoagulació són necessaris.
+Nosaltres aquí parlem de l'infart de miocardi tipus 1, d'infarts de miocardi hi ha fins a 5 categories, la que ens interessa a nosaltres és la tipus 1, que és la que es forma un trombe a l'interior de la llum d'una artèria coronària.
+Quan es forma aquest trombe, tot el que hi ha per darrere comença isquèmic i acaba morint si no es destapa.
+En el cas de l'infart de miocardi la majoria de vegades aquest trombe es forma in situ, el que tenim és que la capa íntima de les artèries va acumulant ateroma, va acumulant greix,
+es deforma l'interior, si ens imaginéssim l'interior de l'artèria com una superfície llisa, doncs aquí es forma una protuberància, una forma que no és llisa i això, si heu vist mai un canal d'aigua,
+sabeu que si el canal és ben llis l'aigua flueix de forma laminar, però en el moment en què hi ha qualsevol petita deformació de la superfície es genera una turbulència. Si tens un bony, comença a passar per sobre i darrere del bony es pot formar una turbulència.
+Això amb la sang passa exactament el mateix, la sang que hauria de passar dins un flux laminar, és a dir que gairebé no hauries de veure que en passa, quan troba aquesta deformitat dins la llum de l'artèria,
+comença a fer una turbulència que va lesionant aquesta capa íntima de l'artèria.
+Això és el funcionament de la placa d'ateroma, arriba un moment en què, pel motiu que sigui, pot ser relacionat amb l'exercici, perquè hi ha més flux de sang, perquè la freqüència cardíaca augmenta o pel motiu que sigui,
+doncs aquesta placa, aquesta capa íntima que està al voltant d'aquesta muntanyeta d'ateroma. Muntanyeta, ja m'enteneu, per fer-ho visual, doncs acaba lesionant-se.
+En el moment en què això es lesiona, per qüestions bioquímiques que soc incapaç d'entendre, s'activa l'agregació plaquetària i es comença a formar un trombe.
+En el moment que aquest trombe creix prou com per obstruir gran part o tota la llum, doncs tenim el problema aquest de l'oclusió coronària i tot el merder que ja hem parlat algunes altres vegades.
+Si sabem que passa això, el que hem de fer és destapar-ho. Si hem entès la fisiologia del que passa, tenim agregació plaquetària i tenim un trombe,
+llavors, a part de destapar-ho amb el que tinguem, amb medicaments o sobretot ara mateix amb cateterisme, és a dir, passar un mal dit fil ferro per endur-se el trombe
+i després posar alguna cosa per evitar que es torni a tapar, doncs tenim l'opció de posar fàrmacs que o bé disminueixin la capacitat de les plaquetes d'agregar-se,
+que són els antiagregants plaquetaris, l'aspirina o els altres, els inhibidors de la PG12Y no sé què, ja no me'n recordo del nom.
+El clopidogrel, el prasugrel, el ticagrelor i tot això, i també si posem un anticoagulant que el que fa és trencar la cascada de coagulació en algun lloc i per tant disminuir la capacitat de coagulació,
+doncs també ens trobem que impedim el creixement o podríem arribar a trencar el trombe que està obstruint això. Més impedir el creixement que no pas trencar necessites fer la fibrinòlisi,
+i amb l'heparina, doncs bé, alguna cosa fas però no és la seva funció principal.
+Així com amb l'aspirina hi ha una gran evidència que s'ha de donar de seguida i que com que és un bon antiagregant funciona molt bé
+i en ser un bon antiagregant pot aconseguir que aquesta agregació de plaquetes es trenqui, per tant el trombe es faci més petit i es pugui obrir la llum del...
+Passa poc, tot això que estic dient passa molt poc, perquè normalment el trombe quan es fa, es fa fort, que és la gràcia de la trombosi, que aguanta allà per què no sagni.
+Doncs bé, aquesta és la base del per què necessitem l'heparina. L'heparina perquè de tots els anticoagulants que s'han anat estudiant és el que sembla que funciona millor.
+Nosaltres fem servir l'heparina sòdica quan aquestes persones van a cateterisme
+perquè l'heparina sòdica, a pesar de ser un medicament molt antic i que dona molts problemes, té l'avantatge, un, que pots ajustar la dosi al que necessites
+i dos, que té un antídot, de manera que si veus que no vas bé, pares l'heparina, afegeixes l'antídot que és la protamina i tornes a la situació inicial.
+Doncs bé, ara ja sabem que necessitem posar l'heparina, la qüestió és quan i aquí és on la cosa es complica.
+A les guies del SEM, quan llegeixes la guia sembla que llegint allò l'heparina s'ha de posar tan bon punt decideixes que vas a cateterisme. La dosi de l'heparina són 70 unitats per quilo això vol dir que un senyor de 100 quilos li toquen 7000.
+Hi ha discussió... Almenys jo ho he sentit algunes vegades de si el topall màxim d'heparina ha de ser 5.000 o no, i també he llegit que potser la dosi d'heparina han de ser 100 i no 70. Això us ho deixo pels més savis perquè això m'escapa.
+Quan dius guies del SEM a què et refereixes?
+Les guies clíniques, guiescliniques.sem.gencat.cat. Que si agafes el tríptic del SEM allà està resumit.
+El tríptic aquell famós que tots els que fem SEM tenim guardat al mòbil, en paper, a les tauletes que portem a les ambulàncies. El que tots els serveis d'urgències tenim enganxats a la paret.
+Però guies vols dir com recomanacions, perquè no són guies de pràctica clínica no? Això són...
+Hòstia Xavi, no sé què contestar-te aquí.
+No sé quin és el nivell d'obligat compliment d'aquestes coses. Jo sé que és el que seguim perquè és el que tenim al tríptic, és el que tenim enganxat a la paret.
+Sí, una cosa és un tríptic i l'altra és una guia de pràctica clínica com la que puguis mirar de la guia europea de cardiologia que t'expliquen el maneig de la síndrome coronària aguda.
+No, això no és això.
+Ara que dius això de les guies mira, aprofito la falc,a perquè dins les guies aquestes, que és el que acaba determinant el que després farem nosaltres, ja sigui en forma de tríptic del codi AM, ja sigui en forma de les guies clíniques, tot això,
+doncs aquí no està gens clar això que dèiem de quan s'ha de posar perquè per exemple si agafem la guia de la societat europea de cardiologia de l'any 23
+que deu ser l'última, no? De l'europea.
+Fins on jo sé, de l'europea és l'última, sí.
+Llegeixo textualment el punt 6.2.1 diu:
+L'heparina no fraccionada s'ha convertit en l'estàndard de tractament en els pacients amb l'SCAEST, la síndrome coronària aguda amb elevació de l'ST, ja sabeu això que no ens agrada gens aquí, que se sotmetran a angioplàstia percutània a causa del seu perfil risc-benefici favorable.
+En aquests pacients l'anticoagulació s'ha d'administrar durant el procediment invasiu.
+Manca evidència de qualitat respecte al benefici d'administrar l'anticoagulació de forma més precoç en els pacients en què s'hagi elegit l'angioplàstia... O sigui, aquests ens estan dient que quan comences el procediment li fots l'heparina.
+Sí, però això t'ho estan dient en base a poca cosa, no?
+Exactament, i de fet, anem a l'altra gran societat de cardiologia del planeta, que és la societat americana, la American Heart Association, l'AHA, en les guies del 2025 diu:
+Punt 4.4, torno a llegir, les estratègies d'anticoagulació s'han d'iniciar de seguida, al moment del diagnòstic i abans de l'angiografia coronària, i per ajudar a l'angioplàstia o altres teràpies de reperfusió.
+En pacients amb síndrome coronària aguda que se sotmetin a angioplàstia es pot produir la generació de trombina i agregació plaquetària durant el procediment, per la qual cosa es recomana l'anticoagulació parenteral per reduir el risc de complicacions trombòtiques.
+O sigui, l'europea ens diu que quan comencem el procediment invasiu, i l'americana ens diu que en el moment que decidim que es farà el procediment invasiu.
+Dues societats diferents, cada una amb la seva importància, que diuen cada una una cosa diferent.
+I tu has dit que l'administres 20 minuts abans d'arribar al laboratori d'hemodinàmica.
+Tenim tres opcions ja.
+Tenim tres opcions.
+Ho fa l'hemodinamista quan canalitza l'artèria, ho fem als serveis d'emergència o al servei d'urgències en el moment que decidim que va a cateterisme, o quan queden 20 minuts per arribar a la taula.
+Quan estàs de camí i...
+Que serà mitja hora abans no comencin el procediment. Més o menys, no?
+M'estàs dient que nosaltres fem servir l'opció que no recomana ningú, no? Allò a mig camí ni una cosa ni l'altra.
+Sí, però en canvi crec que és la que és més comuna.
+Pot ser, pot ser.
+Doncs bé, llavors la cosa és que aquest fil de Twitter, que forma molt vehement, diu que això ja està resolt.
+I els motius pels quals creu que això està resolt són dues metanàlisis relativament recents.
+Després podem discutir si vols quin valor tenen les metanàlisis i després un assaig aleatori a dues branques, que segurament té més pes que els altres.
+Si et sembla en parlem una miqueta. Anem per la primera metanàlisi, que és la Heparin Pretreatment for STEMI Primary Angioplasty, a metanalisis.
+Aquest surt a la revista espanyola Cardiologia Interventional Cardiology. Aquest l'han fet una gent, la majoria de la gent són de Múrcia, de l'Hospital de l'Arrixaca, i han fet una metanàlisi.
+Han començat a buscar articles, aquí en troben 275 i al final acaben afegint-ne 7. D'aquests 7 articles en total, hi ha 36.000 pacients inclosos, però 22.000 dels quals només venen d'un sol estudi.
+Per tant, un sol estudi marcarà molt.
+El que fan amb aquesta metanàlisi és comparar el flux coronari en el moment de fer l'angiografia, és a dir, quanta sang passa per l'artèria lesionada al moment de passar el contrast,
+comparar com de bo és entre els que se'ls ha posat l'heparina en el que n'hi direm primer contacte mèdic, que seria el moment que es decideix que va a cateterisme,
+i els que se'ls ha posat l'heparina en el moment que es canalitza l'artèria per fer l'angiografia i després l'angioplàstia, el que toqui.
+S'entén el que pretenen?
+Sí.
+El resultat primari d'aquesta gent és que un 31% dels pacients que se'ls posa l'heparina precoçment tenien un bon flux adequat.
+Això es mesura amb una cosa que n'hi diuen TIMI, que ja no recordo què volia dir, que bàsicament és quanta sang passa per l'artèria.
+Tenim el TIMI 0, que és que està tapat del tot, i el TIMI 3 és que no hi ha cap restricció al flux.
+TIMI 2 es considera un bon flux, però ja hi ha una certa restricció i el TIMI 1 es considera que no està resolt.
+Llavors, un 31%, en el moment que es fa l'angiografia, d'aquests que s'ha tractat precoçment amb l'heparina, tenien TIMI 2, TIMI 3.
+Amb el grup en què no s'havia fet l'heparina precoçment, sinó que es fa en el moment de fer el cateterisme, era un 23%.
+Una diferència d'un 8%, en números totals, de gent que té el flux coronari restablert, en el moment de fer l'angiografia.
+Fixa't que vol dir que més o menys una quarta part de tots els que van a cateterisme perquè es considera que estan tapats, en el moment de fer l'angiografia estan destapats.
+Un 23% amb els que no s'ha tractat i un 31% amb els que s'hi ha tractat. Després fan el seu jiu-jitsu estadístic i això és estadísticament significatiu.
+O sigui, se suposa que, si ho he entès bé, quan tu portes a fer un cateterisme un malalt d'aquests, se suposa que el 100% estaran tapats d'entrada, no?
+Tu els hi portes perquè creus que estan tapats. Alguns d'aquests seran falsos positius. Tu creus que estan tapats però realment no ho estan, en el moment que tu ho creus.
+I alguns, doncs simplement perquè la coagulació és un procés estable entre l'anticoagulació i la procoagulació, doncs alguns es destaparan, no? Alguns faran una fibrinòlisi espontània.
+Però em crida l'atenció que són molt pocs, no? Els que estan tapats en el moment de...
+Aquests són els que estan destapats, eh? Els números que t'he dit jo, aquest 31%, és que estan destapats.
+Estan destapats, d'acord, sí, ara ho he entès.
+És a dir, vol dir, si féssim en números estrictes, doncs voldria dir que a la gent que els hi posem l'heparina precoçment, segons aquesta metanàlisi, doncs un número considerable es destapen més que no pas els que no se'ls hi posa.
+Aquesta és el resultat primari, però això no és un resultat orientat al pacient.
+És un resultat orientat al flux de sang coronari, però si resulta que després se'ns mor més gent, doncs no serveix de res, oi?
+Llavors, això, en els seus resultats secundaris, miraven això.
+En el grup, va, diguem-ne a partir d'ara, heparina precoç, és a dir, els que se'ls hi posen tan aviat com es pot, hi havia una mortalitat del 3, 9%.
+És a dir, del 100% de pacients que anaven aquí, els que se'ls hi havia posat l'heparina precoçment morien 3,9. Al cap de 30 dies és això, eh?
+I en canvi, amb el grup que se'ls hi posava l'heparina més tard, quan es fa el cateterisme, eren un 5,1.
+És a dir, hi ha una petita diferència, això no és estadísticament significatiu, però ja veus que hi ha una petita diferència.
+I les complicacions hemorràgiques, que és l'altra cosa que s'ha de mirar, doncs, si fas més hemorràgia que requereix transfusió, fas una hemorràgia cerebral, doncs aquí no hi havia diferència entre uns i els altres.
+I en el resultat principal, que era una diferència d'un 8%, aquesta diferència era estadísticament significativa?
+Sí.
+Aquí sí, eh?
+Aquí sí era estadísticament significativa.
+De fet, a l'entrada del bloc hi ha el que n'hi diuen un diagrama, em sembla que és un... Això n'hi diuen forest plot en anglès, en la traducció al català és un diagrama de bosc.
+Bàsicament el que tens és una... per a cada estudi de la teva metanàlisi et posen un punt central, que és la neutralitat, és a dir, no hi ha cap diferència, i tu vas posant els resultats de cada estudi cap on toquen, no?
+Llavors tu vas veient cada un dels estudis, a veure si van cap a la banda favorable o cap a la banda no favorable.
+I aquí, doncs, quan mires aquest estudi, veus que sí que se'ns en va cap a la banda favorable.
+De fet, el risc relatiu, que això ens ho hauràs d'explicar algun dia, Xavi, perquè és que em costa un colló, el risc relatiu de tota la metanàlisi és de 1,35 amb un interval de confiança de  1,25 a 1,45.
+Això vol dir que si poses l'heparina de forma precoç, doncs tens, jo diria que un 33% més de possibilitats d'estar destapat quan et fan l'angiografia, bé, 35% més.
+Però això ens ho hauràs d'explicar algun dia bé perquè la meva capacitat bioestadística és lamentable.
+Sí, però no parlo de coses estadístiques, però per exemple d'aquest estudi, el resultat que tu t'agradaria veure més clínicament significatiu, segurament seria el tema de mortalitat.
+I aquest és millor, però no és estadísticament significatiu.
+Sí, però a mi, el que em crida l'atenció pel que ens estàs explicant, en aquesta revisió sistemàtica que hem fet un ametanàlisi, la variable de resultat principal, ells diuen que és l'estudi aquesta del flux amb el TIMI i tot això.
+Però si li preguntessis al pacient, el pacient et diria la mortalitat.
+Resultats orientats a pacient.
+Exacte.
+Això és un resultat orientat a prova.
+Exacte. En canvi ells això ho han posat com a secundari.
+I el fet que sigui primari o secundari és significatiu perquè tot l'estudi està dissenyat per donar resposta a la variable de resultat principal.
+Les secundàries estan bé i està molt bé saber-ne el resultat, però, surti el que surti, estadísticament significatiu, o no, no ho pots considerar com un resultat ja definitiu.
+Senzillament pots pensar-ho que això serà una hipòtesi per fer un nou estudi. Saps?
+Perquè l'estudi no està dissenyat per donar resposta a aquest objectiu secundari.
+Doncs anem avançant perquè aquí hi arribarem. Això que tu vols saber, bé, no t'agradarà però hi arribarem.
+Jo ho explicava això per fer una falca metodològica, eh!
+Ja veus que ens has d'explicar coses, Xavi.
+Va, següent metanàlisi, aquesta és del 26, revista Cardiovascular Revascularization Medicine.
+Heparin pretreatment in patients with ST segment elevation myocardial infarction.
+Una altra metanàlisi, aquí tornen a fer la seva recerca, aquí en comptes de 7 estudis n'afegeixen 15, però hi ha tots els de la metanàlisi anterior.
+I aquell que aportava tants pacients a la metanàlisi anterior, que és el registre suec de cardiopatia no sé què, aquí segueix sent el que no aporta més.
+Potser aquí no és tan escandalós, però segueix aportant, no sé si és més del 50%, però sí que és la majoria de pacients, els aporta aquest estudi.
+Aquest és l'Emilson del 22?
+Aquest és l'Emilson del 22, sí.
+Quan vas a mirar això, sorprenentment, el resultat d'aquesta metanàlisi no és massa diferent de l'anterior, però aquí sí que el que deies tu de la reducció de la mortalitat.
+Aquí han mesurat la reducció de la mortalitat i si mires el diagrama de bosc, doncs també el mateix.
+El fet de posar l'heparina precoçment, en el primer contacte mèdic, diguem-ho així, doncs fa que hi hagi menys risc de morir.
+Aquí hi ha una oportunitat relativa de 0,68, que vol dir que si et posen l'heparina precoçment, tens un 30% menys de possibilitats de morir que no pas si te la posen en el moment del cateterisme.
+Passa més o menys el mateix amb els TIMIs i, doncs seguint la mateixa dinàmica de la metanàlisi interior, doncs amb les complicacions no...
+Les complicacions en tots aquests estudis és el que n'hi diuen MACE, Major Adverse Cardiac and Cerebral no sé què.
+I un esdeveniment cardiovascular important.
+Exactament, sí, sí.
+Que això també s'ha de mirar, això, perquè posar el mateix sac, que et moris o que t'hagin de fer una transfusió, home, ja és dolent t'hagin de fer una transfusió, eh?,
+però si li preguntes a la gent què prefereixen, si morir o que els trasfonguin...
+Aquí tenim aquesta altra metanàlisi. Clar, les metanàlisis tenen allò que n'hi diuen al GIGO, no?, Garbage In, Garbage Out.
+És a dir, les metanàlisis seran tan bones com els estudis que hi posis.
+Aquí tenim dues metanàlisis que fan servir, si fa no fa, els mateixos estudis, jo no veuria cap d'aquests estudis com una cosa categòrica, però tenim aquesta senyal.
+És bastant rellevant.
+Quan preparava l'entrada, a més a més, d'aquestes dues metanàlisis, que va citar aquesta persona que em va obligar a fer l'entrada al blog, obligar entre cometes, eh?,
+També hi havia una altra metanàlisi que encara està en prepublicació, per tant, no n'hauríem de parlar perquè no hi ha hagut revisió per parells, que també concloïa més o menys el mateix.
+Però tot això són metanàlisis i la majoria, que això no ho he dit, la immensa majoria dels estudis que han entrat aquí són observacionals.
+És veritat, és una metanàlisi, no és cada un dels estudis individualment, és la suma de tots, però segueixen sent estudis d'una evidència relativament pobra, perquè estem parlant d'observacionals.
+I ara, puc fer una altra falca metodològica?
+Endavant!
+En aquest gràfic de bosc que ens expliques d'aquesta segona metanàlisi, fixa't que al final de tot parla de la heterogeneïtat i l'últim paràmetre que ens diu és la I quadrat, que és de 64%.
+Això ens diu la heterogeneïtat dels estudis, és a dir, lo diferents que són els estudis entre ells.
+I per sobre de 50% t'està dient que treure conclusions, o sigui, fer una metanàlisi traient una conclusió, aquesta que ens deies del 0,68, barrejant tots aquests estudis, són massa diferents com perquè aquest 0,68 sigui creïble.
+Per sobre de 50, amb compte, perquè estàs barrejant uns estudis que potser són diferents i no es poden barrejar entre ells perquè potser, no ho sé, uns fan servir un tipus d'heparina, els altres un altre,
+uns amb un tipus de pacients amb Killip 3 i els altres eren Killip 1, o la distància d'un lloc a l'hemodinàmica era molt diferent d'uns als altres, i potser no es podien barrejar tots junts.
+Aleshores, aquí el que s'ha de fer normalment és una anàlisi de sensibilitat i treure, doncs dir, hòstia, no, traurem tots els Killips 3 i els xocs cardiogènics, els treus i mira què passa, i després a veure si aquests els podries barrejar tots o no.
+I justament has tret els que tenen més números de comptar lleig, no? Si treus els Killips 3 i xocs cardiogènics, que són els que moren abans, doncs...
+Sí, però vull dir, si hi ha tanta heterogeneïtat vol dir que hi ha coses diferents, siguin tipus de pacients, tipus de fàrmacs, tipus del que sigui, jo que sé, qualsevol cosa que afecti el resultat.
+Doncs llavors, per evitar això, el que hem de fer és fer estudis aleatoritzats.
+Assajos clínics?
+Per exemple, i aquest és el tercer que el senyor aquest cita com a tercer estudi a mirar, i aquest me l'he anat a mirar, tots me'ls he llegit amb la millor disposició possible, però aquest més.
+Aquest és el HELP-PCI Trial, Heparin Administration at First Medical Contact versus Immediately Before Primary Percutaneous Coronary Intervention.
+Heparina de seguida, tant aviat com es pot, o heparina en el moment en què es comença el cateterisme.
+Aquí ja tenim dos grups ben clars.
+Això ho han fet a la Xina, 36 hospitals a la Xina, són 1.000 pacients, és a mitjans del 2025.
+Aquí l'inici dels símptomes és de menys de 12 hores.
+La intervenció és l'administració de heparina precoç o en el moment del cateterisme, doncs el fet que es presentin abans o després té la seva importància però no hauria d'afectar el que nosaltres volem veure.
+A l'entrada veureu que hi ha la gràfica resum d'això, i aquí la part bona és que és un assaig clínic aleatoritzat,
+per tant, aquí anem exactament a diferenciar un grup versus un altre, si canvia una cosa o una altra, però aquí el que mesuren, doncs és allò que no t'ha agradat
+i que no és un resultat orientat al pacient, és el resultat aquest en quin percentatge d'artèries el flux és correcte o no en el moment de fer la angiografia.
+Nosaltres el que ens interessa és si es moren o no es moren, en aquest cas si tenen més major adverse events i tal. Aquí no, aquí ens donen això.
+Aquí torna a ser estadísticament significatiu, la P aquesta és 0,02, 3,6% dels que els posa l'heparina precoçment estaven reperfosos en el moment de fer l'angiografia, i els que els hi posa més tard, en el moment de fer l'angiografia, és 17,6.
+La diferència total d'un 6%. Això és estadísticament significatiu.
+De nou, torna a ser, si posem l'heparina precoçment, n'hi ha més que estan destapats quan anem a fer el procediment.
+Evidentment, també tenen les altres mesures secundàries, no? Aquest no tenen més risc de sagnat, i això el que és bastant sorprenent, és a l'any no hi ha cap diferència entre un grup i l'altre en això del major adverse events.
+Estadísticament significativa no hi és, sí que és cert que quan mires els números globals, doncs del grup que se'ls hi posa més tard, un 6,7% han tingut aquests esdeveniments adversos, que insisteixo, aquí va des de morir fins que t'hagin de transfondre.
+Això, els que se'ls hi posa l'heparina més tard, un 6,7 han tingut problemes a l'any, i en canvi els que se'ls hi ha posat precoçment és un 5,5.
+Per un procediment que el temps de vida de l'heparina és curt. Per això ha de venir al principi els problemes amb l'heparina, no?
+Perquè si et posen l'heparina ara, hòstia, que tinguis problemes al cap de tres mesos de l'heparina que et van posar fa tres mesos, hòstia, és bastant estranya. La heparina et donaria pel sac al principi, que és quan tens el risc de sagnat i aquestes coses, no?
+Llavors, bé, és una d'aquestes coses que passa amb la ciència, doncs que tens això. Això no és estadísticament significatiu, però sí que hi ha aquesta diferència.
+O sigui, el 6,7 és dels que els hi posen a...
+Al moment de l'angiografia, i el 5,5 precoçment.
+Hi ha una gràfica de Kaplan-Meyer, que se'n diu, que és aquella que a l'eix de les X hi ha el temps, i a l'eix de les Y hi ha el percentatge del que sigui, en aquest cas dels esdeveniments adversos, i això és acumulatiu.
+Va pujant a mesura que va passant el temps, vas veient els que hi havia, al cap d'un mes hi afegeixen els que puguin haver passat, i és com una mena d'escala.
+I aquí vas veient, doncs, que els 120 dies la diferència és molt gran entre els dos grups, i a mesura que passen aquests quatre mesos vas veient com es va escurçant.
+S'hauria de mirar què ha passat aquí.
+Jo entendria que els que els hi posen la heparina just al començar cateterisme, es moren molt aviat, no? O sigui, de seguida aquests es moren, i després, al llarg d'un any, es mantenen més o menys estables.
+En canvi, els que els hi posem de seguida que els diagnostiquem, aquests es moren poc a l'entrada, però durant l'any sí que van empitjorant, no? I al final, al cap d'un any, són més o menys igual els dos.
+Aquí parlem de morir...
+Morir o qualsevol esdeveniment advers d'aquest, eh? Sí, sí.
+Exacte. Que és això del MACE, que és una miqueta... És un rotllo, no?
+D'aquest assaig clínic, jo em quedo amb algunes altres coses que també crec que són rellevants. Una, per exemple, és que aquí són bastant ràpids els punyeteros, eh?
+Primer contacte mèdic fins a obertura d'artèria, 82 minuts.
+Això no ens diu res, però si ho vaig a comparar amb els... Tenim un episodi, en què en feu dir el número en que parlàvem de les xerrades dels 15 anys del Codi IAM a Catalunya.
+Doncs vaig anar a mirar aquí amb unes dades de Catalunya de fa... Ara no recordo l'any, 20-i-poc. Estàvem als 104 minuts de mitjana.
+Primer contacte mèdic vol dir la persona es presenta i se li destapa l'artèria. Doncs 82 minuts aquí en aquest estudi a la Xina i a Catalunya 22 minuts més.
+No és comparable, són poblacions diferents, evidentment.
+En el nostre cas, en el cas de Catalunya, destruïm aquests números els que estem a la perifèria. És veritat que portem pocs pacients, però els nostres pacients rebenten els números.
+Si tens una persona que està a 4 hores, doncs és una burrada de temps.
+Hauries de veure si tots aquests de la Xina es van fer només suposo en àrees molt... grans ciutats i...
+Això no ho sé. Llegint l'estudi no quedava clar.
+És cert que a Catalunya els nostres pacients, des que s'inicia els símptomes fins a l'obertura, triguem menys que a la Xina.
+És a dir, els nostres pacients es presenten abans i per tant, tot i que triguem una miqueta més, els destapem abans.
+Però bé, això per al que ens interessava d'aquest estudi, doncs no venia massa d'aquí.
+El que hem parlat d'aquesta diferència del 23,6 versus el 17,6 ja hem dit que és estadísticament significatiu, la millora relativa és un 34%.
+És a dir, tens un terç més de possibilitats d'estar destapat quan et posen l'heparina precoçment que quan te la posen més tard.
+Però en aquest estudi, aquesta és la part que... Ara et farà gràcia, quina diferència diries que hi ha de temps de heparina entre el grup que se'ls posa precoçment i el grup que va a cateterisme? Va, estima un número.
+La diferència de temps?
+Si, perquè el que ens interessa aquí justament és...
+Sí, sí. Clar, jo si em diguessis casa meva, doncs 30 minuts.
+Doncs mira, 25. I tu dius que vosaltres poseu l'heparina 20 minuts abans d'arribar, no?
+Sí.
+Doncs és la diferència de temps d'aquest estudi, saps?
+No seria el meu cas que des que posem l'heparina fins que arribem, potser són 90 minuts, o 80, o 70.
+Que gairebé quan arribes l'efecte d'aquest bol de heparina potser ja ha passat i potser li han de tornar a fer.
+L'altra cosa, això tornaria a ser una altra cosa metodològica a valorar.
+És a dir, com que l'estudi no anava a mesurar la mortalitat o la insuficiència cardíaca, collons, fins i tot el MACE no era el seu objectiu principal, ens trobem després que no és estadísticament significatiu.
+Però si bé moren, si fan o fan els mateixos, que això potser és el que és més rellevant, hi ha menys ingressos per insuficiència cardíaca.
+Però no és estadísticament significatiu perquè no és el que es anava a buscar.
+Molt bé. Tota aquesta xapa per ara què fem?
+Jo llegint això no soc tan vehement com el senyor aquest que diu que ja està, ja està decidit i que per tant a tothom se'ls ha de posar l'heparina d'entrada.
+Jo opino com ell però no soc tan vehement.
+No trauré la pancarta i em plantaré allà al laboratori d'hemodinàmica dient, hem de posar l'heparina de seguida però jo veient això, si a mi m'haguessin de fer un cateterisme,
+bé si passa al meu territori, sis plau, liseu-me, no sigueu cabrons perquè abans no m'hauran destapat, hauran passat dues hores i mitja i home, m'agradaria mantenir el major nombre de miòcits possible, oi?
+Bé, ho dic ara perquè tinc una edat i no tinc factors de risc. Si tingués una altra edat i més factors de risc potser diria una altra cosa.
+Però jo seria partidari de, en el moment que es decideix, posar-lo, després d'haver llegit això.
+Ara, i com que la guia del SEM, el tríptic del SEM, de la manera que ho entenc és que s'ha de posar, no ho he pensat a dir, eh?
+Hi ha una nota que diu: no l'administreu davant de dubtes diagnòstics hemorràgia activa o criteris de risc hemorràgic.
+Per tant també et diuen que no siguis un cowboy, eh? Que no te passis.
+Perquè el que deia el senyor aquest que dius del fil de Twitter o no sé on era, ell ho veia molt clar en base a aquestes dues metanàlisis que ens has explicat i a l'assaig clínic?
+Sí, sí.
+Jo gairebé li dono més importància a l'assaig clínic que a les metanàlisis, perquè les metanàlisis Garbage In, Garbage Out.
+És a dir, són d'estudis observacionals. És veritat que són molt grans. Vull dir, no estem parlant de tres estudis a 50 pacients cada un. Estem parlant de molta gent.
+Però aquest assaig clínic em sembla raonablement ben fet. Podríem discutir si els objectius són correctes o tot això. A mi em sembla raonable. Per mi crec que és suficient.
+Però bé, de la mateixa manera que jo vaig anar a mirar les dades personalment perquè no me'n refiava del que pogués dir algú, doncs tampoc us refieu del que jo digui jo, eh?
+Valoreu vosaltres mateixos i considereu si estic dient una bestiesa o no.
+No, no, segurament fem moltes altres coses, prenem moltes altres decisions i posem molts medicaments i el que sigui en base a coses encara més discutibles.
+Almenys aquí tens un assaig clínic aleatoritzat i tens diverses metanàlisis d'estudis observacionals. Vull dir que hi ha informació sobre el tema. Altres coses que fem o potser no hi ha ni la meitat d'això, eh?
+Doncs això. Jo per la meva banda em quedo amb aquesta idea. Personalment en el territori on estic directament no m'hauria ni de plantejar.
+Hauríem d'anar directe a fibrinòlisi però, noi, aquesta mania que tenma tots de buscar un altre que sigui el responsable de la decisió que acabes prenent tu,
+doncs anar trucant, anar trucant, anar trucant, acaben dient-te que facis el que ells estan confortables a fer i no els lisem tant com hauríem de lisar.
+És una mena de guerra personal que ja tinc... No sé si la dono per perduda o jo què sé.
+Perquè vosaltres el que feu és poseu l'heparina de seguida o us espereu arribar més o menys a la vostra zona de...
+Com que es truca, s'externalitza la decisió, es truca i el que digui el cardiòleg.
+Si el cardiòleg diu posa-li ja, li posem ja. Si el cardiòleg diu posa-li quan estiguis a 20 minuts, quan passem, jo què sé, pel peatge de l'autopista de Terrassa a Manresa, doncs el posem allà. Depèn.
+O com que venen els de l'helicòpter a vegades, alguna vegada ha passat i fins i tot quan ve l'helicòpter seguim fora de temps, de cateterisme, perquè estem al territori al que estem, oi?
+De fet, això no ho he explicat alguna vegada, això?
+A Andorra, els companys d'Andorra, em consta que hi ha gent que en sent, si no ho estic dient bé, corregiu-me, si us plau, eh?
+Els companys d'Andorra, la primera trucada que fa el metge d'urgències quan es troba un infart que s'ha de reperfondre, a qui diries que truca?
+Els d'Andorra? Els de l'hospital de...  L'helicòpter, el SEM, el... No sé.
+EL primer que fa és trucar al pilot del seu helicòpter a veure si pot volar o no, perquè si pot volar se l'emporten a Sant Pau i arriba... Com que l'helicòpter el tenen físicament allà, doncs en potser una miqueta més d'una hora el tenen a lloc,
+que ja entraria dins uns temps raonables, no són els perfectes, però són uns temps raonables.
+I si no pot volar, doncs li faran la fibrinòlisi, perquè si no, ja estem parlant, ells ja estem parlant de dues hores i mitja llargues abans no arriben a destapar.
+O sigui, la decisió la pren el pilot.
+Doncs tal qual, la decisió la pren el pilot.
+Potser els resultats són millors i tot, eh? Està bé, està bé.
+El pilot no ho sap, que la pren aquesta decisió, oi? Però sí, sí, és com bastant... Jo quan ho vaig llegir en els seus paperots, vaig pensar, hòstia, que bona aquesta.
+Està bé, està bé.
+Doncs jo ja estic, Xavi, no ho sé, crec que podem canviar de secció i anar a la següent.
+La següent secció és el Menys és més, no? Si no m'equivoco.
+Sí, senyor.
+Doncs mira, del Menys és més, jo a través del portal que ja hem dit moltes vegades, que és el DianaSalut.com,
+és com un repositori que veu de moltes fonts que publiquen evidències científiques sobre recomanacions, que siguin terapèutiques, diagnòstiques o del que sigui,
+sobre coses que fem que no tenen recolzament científic i que, a més a més, si ho fas, no aporten res de bo,
+l'únic que fan és possibles efectes adversos i, a més a més, consumeixen un temps i uns diners i uns maldecaps que no aporten res de nou, o sigui, no tenen cap valor afegit en el maneig del pacient.
+Normalment són coses que fem de forma habitual.
+I aleshores donen recomanacions que normalment les hem d'entendre com no coses que estiguin... algunes sí, eh?,
+però normalment tot aquest tipus de recomanacions, que són aquestes del Less is more, do not do, els de l'Essencial nostre, totes aquestes recomanacions, són recomanacions de no fer de forma sistemàtica.
+I això de sistemàtica és important dir-ho i recordar-ho, perquè individualitzant el malalt, potser si que alguna cosa de les que hem dit nosaltres aquí a través de l'EMPodCat anem reproduint
+al malalt individual que tu tens a davant, no sé què, doncs potser en aquest sí que li faràs allò que precisament nosaltres des d'aquí hem dit de no fer.
+Però la recomanació és de no fer-ho de forma sistemàtica, és a dir, sense pensar, dir sí, sí, a tots els malalts els hem de fer això.
+No, tots no, de forma individualitzada. D'acord?
+Per tant, una de les que he trobat al DianaSalut és, una vegada més, està publicada en el Journal of Hospital Medicine.
+Vaja, no n'havíem parlat mai d'aquest, eh?
+Aquest no l'havíem parlat, eh?
+Està publicada el 16 de març del 25, just de fa un any, 16 de març del 25. I va sobre la diferència entre gasometries arterials i venoses.
+Això tu, Albert, segurament hi tindràs alguna cosa a dir, perquè...
+Ui! Moltes!
+Clar, tu segurament, quan t'arriba un... No sé com t'arriba a tu la indicació de fer una gasometria, el fet que sigui arterial i venosa, pel pacient, evidentment, és molt rellevant i de rebot a tu també, no?
+Aleshores, aquí ens diuen...  dóna una indicació, uns valors o uns casos concrets en els quals te podries estalviar com un 30% de les gasometries arterials que fem habitualment.
+I per tant, m'ha semblat interessant parlar-ne.
+Això, Xavi, tu ens parlaràs de quan s'ha de fer gasometries o no, perquè nosaltres vam parlar un menys de fa un temps justament d'unes recomanacions de no hacer,
+que era que no tots els pacients amb dispnea necessitaven gasometria arterial i t'explicava coses. O sigui que tu ens ampliaràs una miqueta més el tema de les gasometries aquestes.
+Sí, crec que vaig buscar-ho en el buscador del EMPodCat, si havíem parlat sobre això, i jo crec que no. O sigui, potser m'estic repetint, eh? No sé.
+Home, una part segur que es cavalcarà, perquè...
+Però és interessant, mira, penso que un dia hauríem de parlar d'això de les gasometries, perquè és una d'aquelles coses bàsiques,
+una cosa bàsica que alguns dels estudiants que tenim que ens escolten de TES, d'infermeria i tot això, doncs potser agrairan
+que parlem de coses més bàsiques, perquè home, la veritat és que les gasometries arterials les fem servir molt amb la gent amb dispnea, però no només.
+Les gasometries tenen moltes altres indicacions, que suposo que ara també en sortirà alguna mentre ens expliques.
+O sigui que potser ens podríem plantejar un dia fer un episodi en què parlessin justament de per què serveix una gasometria i tot això.
+Ah, sí.
+Home, vinga, fot-li, fot-li.
+Doncs aleshores, ens centrem en el pacient amb sospita d'insuficiència respiratòria hipercàpnica.
+En quins casos et pots estalviar a fer una gasometria arterial per saber el CO2 real que té el pacient.
+Quan tu fas una gasometria, el que et mira l'aparell és el pH, et mira la pressió parcial d'oxigen i la de CO2, de diòxid de carboni.
+Després la màquina, el software, el que sigui, et calcula el bicarbonat i l'excés de base.
+I la saturació d'oxigen i alguns gasòmetres... Mira, el que portarem ara a les ambulàncies del SEM a partir d'aquí un parell de mesos també et mesura... Aquest no mesura lactat, justament.
+El de l'hospital sí, però aquest no mesura lactat. Mesura ions i hemoglobina i no sé què. Vull dir que són maquinetes que donen bastant joc.
+Però a nosaltres ens interessa la part de gasometria, gasometria que són gasos: pH, pressió parcial d'oxigen, pressió parcial de diòxid de carboni.
+Exacte, sí.
+Aleshores, el que t'estan dient és que quan tinguis un pacient en el qual la teva orientació diagnòstica és que sigui una insuficiència respiratòria hipercàpnica,
+és a dir, un pacient que té una bona saturació d'oxigen mirat amb el pulsioxímetre, però tens el pacient que el tens, pel que sigui, somnolent,
+perquè és un MPOC reaguditzat o li han fet alguna intervenció o l'hem sedat o li han fet alguna cosa i no s'acaba de despertar del tot o és un pacient que sospites la hipercàpnia
+perquè és un pacient molt obès o té alguna malaltia neuromuscular degenerativa i pensis que la musculatura respiratòria està fallant, però que encara té una bona saturació d'oxigen tu vols veure com està de CO2.
+Aleshores, el que han vist és que en aquests pacients fes-li d'entrada una gasometria venosa perquè si la gasometria venosa ens diu que el CO2 és menys de 45, això descarta la hipercàpnia.
+No cal fer-li un arterial per saber a quant està, perquè no estarà més de 45.
+Torna-hi, torna-hi. Això m'ha semblat interessant.
+O sigui, la cosa és quan tu tinguis un malalt que està amb hipoxèmia, que saturi a 89 necessites una gasometria arterial perquè el pulsioxímetre sí que et diu més o menys com estarà d'oxigen real,
+però la relació de la saturació amb la gasometria, en el cas de l'oxigen, hi ha uns nivells a partir dels quals no te'n pots refiar.
+Per tant, si satura malament, li has de fer una gasometria arterial.
+Però, si la teva orientació diagnòstica és una insuficiència respiratòria hipercàpnica no cal que d'entrada li facis un arterial, fes-li una venosa.
+Si la venosa et diu que el CO2 està a menys de 45, això té una sensibilitat del 100% per descartar la insuficiència respiratòria hipercàpnica.
+Si tu li fessis una gasometria arterial, no te sortiria una CO2 de més de 45. Mai.
+Per tant, en aquell pacient, si satura bé, satura bé, però a més a més ja saps que el CO2 no estarà de 60.
+O sigui, una pCO2 venosa de menys de 45 no està hipercàpnic, segur. No cal que li facis la gasometria arterial.
+Segur. 100% segur. Sí, sí.
+Els estudis que hi ha, et diuen que la sensibilitat d'això és del 100%.
+I per tant, ho pots fer servir com a diagnòstic o cribratge, digues-li com vulguis, d'aquests pacients que tu sospites la hipercàpnia i la vols descartar.
+I amb això calculen com gairebé una tercera part, em sembla que deia un 29% de les gasometries arterials que fem, ens les podríem estalviar.
+El tema del pH també és bastant similar l'arterial del venós. La diferència entre l'arterial i el venós és de 0,03.
+Clar, moltes vegades la diferència entre una acidosi i el que no és acidosi, clar, també són 0,0 poc, però bé, és molt similar l'un amb l'altre.
+El pH arterial i venós també poden ser dos fonts d'informació bastant equivalents, l'arterial i la venosa. L'oxigen no.
+I la CO2, hi ha una diferència entre l'arterial i el venós, però si surt una CO2 baixeta de menys de 45 en el venós, tranquil, que l'arterial no sortirà més alt.
+Molt bé. Aquesta faré un cartell, també.
+I en els controls, quan fem no invasiva, si el que vols veure és que no estigui hipercàpnic, si tu li fas una venosa i et surt de 43, no està hipercàpnic.
+No li facis la gasometria arterial perquè fa, evidentment, el doble de dolor.
+Una gasometria venosa, el dolor pot ser de 4 sobre 10, i l'arterial et diuen aquí que és de mitjana, eh? De 8 sobre 10, és el doble de dolor una arterial.
+A més a més, moltes més complicacions, no? D'hemorràgies, de trombosis, d'aneurismes de la radial, i no sé, ara potser me deixo alguna complicació més,
+però clar, que les venoses, també pot ser una hemorràgia i tal, però la trombosi i l'aneurisma i tot això, no tenen les mateixes conseqüències que si és en una artèria.
+Que a més a més, les venoses traiem l'analítica i deixem la via posada, i si la via és funcional aleshores...
+Mira, ara fa dues nits vam tenir una persona que justament va estar tota la nit amb la VNI, per això no sé pas quantes gasometries arterials li van caure.
+Bé, i si mires totes les gasometries... No sé, estaria bé mirar totes les gasometries arterials que fem en un servei d'urgències durant un any.
+D'aquests centenars que hem de fer, treu-ne un 30%, i mira la gran quantitat de gasometries arterials que t'estalviaries.
+Que és cert, que aquí en aquest cas l'única cosa que estalviaríem és el cos de temps de la infermera que ho ha de fer, que no és menor,
+perquè la reste, el fungible, la xeringa és la mateixa, i el cartutx del gasòmetre és el mateix, això no canviaria. Però la feina, sí.
+Sí, sí, però jo ho deia pel fet que com que les arterials tenen efectes adversos importants, que evidentment la incidència deu ser molt baixeta,
+però bé, encara que sigui molt baixeta, si és un 0, 1%, al cap de l'any, si has fet 3. 000 gasometries, hòstia, encara que la incidència de trombosis i d'embolitzacions i de aneurismes sigui del 0, 1%,
+hòstia, al cap d'un any...
+Te'n toquen 3. Sí, sí, si n'has fet 3.000 te'n toquen 3, sí, sí.
+És per tindre en compte, saps?
+Molt bé, molt bé. Aquest sí que és un menys és més, eh?
+Què més?
+Doncs, escolta'm, anem a l'UrgemMot.
+Anem a l'UrgemMot
+Primer digues tu, perquè potser coincidim molt.
+No, no, no, no, perquè la meva capacitat cognitiva no donava per gaire. Dues nits seguides, vull dir, hòstia, és que estic rebentat.
+Ah, però tu ets jove, Albert, hòstia, això que em diguessis que fos un veterano
+Jove per la part dels pebrots, jove, en fi.
+Va, va.
+Doncs mira, justament, n'havia escrit algunes fa uns dies i tal, pensant parlaràs d'aquest i d'altre, però és que just aquesta matinada estava escrivint el triatge i he dit, ostres,
+i és un mot, no el tens al diccionari, potser l'hi podràs afegir, es refereix a la presència de sang a la femta, que no a la melena, que la melena és sang, directament, que evacua sang,
+sinó quan tens femta amb sang, això se'n diu hematoquèzia, i com l'escriuries tu, hematoquèzia?
+Hòstia.
+Tu l'escriuràs bé, segur, però jo pensant, és H,E M, A, T, O, Q, U, E, i ara ja et fots a pensar i dius C, I, A.  Doncs això és en castellà.
+En català, és hematoquèzia, és Q, U, E amb accent obert, Z, I, A. Si ho volem escriure bé, és amb accent obert, Z, I, A.
+És amb Z.
+Exacte, en comptes d'amb C.
+Jo crec que ho hagués escrit amb C, eh?
+A mi també em sonava així, però no, per això m'ha cridat l'atenció quan feia el triatge i dic, ostres.
+És amb Z, eh?
+Sí, sí.
+Punt per al model andorrà del triatge, que està ben escrit.
+Va, i què tens tu? Vinga, que segur que tens coses divertides, va.
+Divertides no ho sé, però com que he vist que el teu tema anava de les heparines, he buscat a l'UrgemMot, vejam què veia, què tenia apuntat que tingués relació, i n'he apuntat unes quantes.
+Per exemple, una que has dit molt bé moltes vegades és el trombe. Trombus també es podria dir, però no un trombo, un... altres formes de dir-ho, però no, es diu trombe.
+La forma més correcta és el trombe.
+El coàgul, en lloc d'un quall, que de vegades també podem dir un quall, però no, el terme correcte seria un coàgul.
+Després hem parlat de les dosis, parlàvem del tema de l'embolada, que també en podríem dir un bol d'heparina, però el terme més correcte, segons el TermCAT, és parlar d'embolades.
+Que no bolus, eh?
+Exacte, el tema bolus és més francès i anglès. N'hauríem de dir o bol o millor, embolada.
+I després, en aquest cas amb l'heparina no, però la primera dosi que posem d'un fàrmac és la dosi d'atac. És més correcte que parlar de dosi inicial.
+I després hem d'anar ajustant aquesta medicació. I aleshores, no titulem ni fem altres... nN sé, el tema del titration, que és en anglès, no és una titulació.
+És senzillament i més bàsic, és un ajust de dosi. Per tant, tu poses una dosi d'atac d'un fàrmac i després ajustaràs la dosi. No la titularàs.
+Què més? La fibrinòlisi, que ja ho has dit, en lloc de fibrinolisi o no sé què més, la fibrinòlisi, això ja penso que ho diem bastant habitualment correcte.
+I després parlar de quan et fan el cateterisme, si està molt tapat i aconsegueixen millorar una miqueta, et posaran un stent. I l'stent és correcte.
+No hi ha una traducció, no es diu molla vascular, ni no sé què més...
+Això ho vam dir que era una oportunitat perduda.
+Doncs en diem un stent, acabat amb T, stent. S-T-E-N-T.
+I ja està.
+Mira, ara quan has començat a parlar d'això, m'he recordat d'una de les que tenia. Els antiagregants, què són? Antiagregants de què?
+O plaquetars o plaquetaris, vols dir?
+Exacte.
+Mira, no contestem, no contestem. Ho deixem pels nostres oients i que s'ho busquin. A veure, com n'hi hauríem de dir? Els antiagregants plaquetars o plaquetaris?
+Això s'assembla a la juguesca aquella que havíem fet fa uns anys, que no ens recordàvem mai de donar el resultat a l'episodi següent.
+Sí, és veritat.
+Au, queda per vosaltres. Ja decidireu si és plaquetar o plaquetari.
+Que ens ho contestin al Telegram.
+Al grup de Telegram, aquest que no hem dit al principi que tenim, sí, sí.
+I al pròxim episodi ens en recordarem i en parlarem, va.
+Segur, segur, vaja. Com totes les vegades anteriors que ho havíem fet, això de la juguesca, sí, sí.
+Sí, home, sí.
+No sé, ja estem, no?
+No, falten les recomanacions.
+Ah, és veritat, falten les recomanacions. Ostres.
+Encara no hem decidit si les deixem de fer o no, o sigui que continuem.
+Estem deixant molta feina per fer, eh? Trobo que estem molt poc disciplinats, eh?
+Mira...
+Bé, tu què tens? Tens alguna... Dóna'ns alguna recomanació.
+Sí, tinc una recomanació, i això que dic que no fem els deures, doncs aquesta encara és pitjor, aquesta em sap un greu, perquè fa... 
+Ja fa bastant temps, un dels nostres oients, l'Octavi Rodríguez, ens va passar un enllaç d'una cosa que ha fet. Aquest és un altre d'aquestes persones que... Dorm, aquesta persona?
+D'aquests hiperactius que dius, hòstia, però d'on treus temps per fer tot el que fas, company?
+Perquè jo no ho entenc, ja sé que jo sóc molt manta, però... Hòstia, hi ha gent que... No sé d'on treuen el temps.
+Ens va passar una cosa que va fer, pel que veig aquest nano... No sé si és més jove que jo, però... Direm nano.
+La toca bastant amb el tema informàtic, i va crear una aplicació que es diu Emergencing, emergencing.app
+Això ens ho va dir fa bastant temps, i jo ho tenia allà per mirar, perquè dic, ep, això tu has de mirar bé, aquí has de dedicar-hi estona, i ho he anat posposant per mirar-m'ho bé, ho he anat posposant, ho he anat posposant, fins que ja no me'n vaig recordar.
+I ara fa poc vaig tornar a veure el que fa, i vaig dir, és molt interessant això.
+És una aplicació per mòbil, i el que et dona són resums, o sigui, la feina d'arribar a la informació que a tu t'interessa, te la fa aquesta aplicació.
+Això suposo que ho fa tot amb intel·ligència artificial. Octavi, si ens ho vols venir a explicar un dia, endavant, eh?
+Fa tot per intel·ligència artificial, suposo quedheu de tenir agents, o el que sigui, que li revisen la literatura que es va publicant, va extraient d'aquestes coses que troba, i et va plantant un resum allà.
+De manera que, per entendre'ns, eh? Tu no has d'anar a esperar que surti l'Emergencias de cada mes i anar a mirar la taula de continguts, 
+sinó que tu mirant aquí vas veient mira, doncs ara aquesta setmana ha sortit el Resuscitation, doncs a veure que hi ha al Resuscitation d'aquesta setmana.
+I fa aquesta feina, doncs, de presentar-t'ho, i a més a més, per els que són en anglès, t'ho tradueix al castellà, també diu que pots fer alertes personalitzades, això no ho he provat.
+Per exemple, si tu t'interessa un tema concret, dius, escolti, cada vegada que publiquin alguna cosa de quan s'ha de posar heparina en la Síndrome Coronària Aguda, cada cosa que publiquin, doncs m'avises.
+I deia això, que ho he tornat a retrobar, perquè no és pas d'ara que ho fa, sinó que és ara que me n'he adonat.
+A més a més, de presentar-te això, doncs aquests resums també, en veu sintètica, també els pots escoltar, 
+i ara ell també, ara no, ja ho feia també, doncs fa en persona, és a dir, no és en veu sintètica, bé l'altre és que ara et digui que és una veu seva clonada, que ja seria l'hòstia, 
+del que la seva aplicació, doncs va trobant el que li sembla interessant, doncs fa pòdcasts petitets, 
+de deu minutets o així, doncs, que ens explica un tema que hi hagi hagut alguna publicació, doncs es diu la seva opinió.
+Ara, per exemple, l'últim que he escoltat d'ell és el que ens parla del marcapassos transcutani, que si recordeu, ja en vam parlar nosaltres també fa uns mesos, 
+doncs ha sortit fa poc aquell estudi que primer vam comentar nosaltres, aquell que a moltíssima gent els posaven el marcapassos transcutani i que la majoria no anaven bé, no?
+Sí.
+Doncs això, em sap molt greu no haver-ho fet abans, va quedar allà en el munt de coses a provar, 
+ho he tornat a mirar ara per ara, dic, això ho has de recomanar, però és interessant. Jo de tant en tant, doncs un cop a la setmana, o així, doncs miro a veure què és el que ha sortit i a veure si m'interessa més o menys.
+És una miqueta més centrat que no pas anar buscant coses allà aleatòriament, de fet, probablement sigui més senzill mirar-ho aquí que no pas anar seguint un fil de Twitter.
+I ell es dedica a les urgències, eh? A l'emergència...
+Sí, fins on sé, sí, és del nostre gremi, és de l'extrahospitalària catalana, sí.
+I aporta informació de tot, no és només de, per exemple, temes d'estudis de farmacologia?
+No, no, no, no, no, de fet tu pots posar, diguéssim, una miqueta per categories, per reanimació, per neuro, llavors vas veient allà el que... 
+Mira, l'últim que m'ha cridat l'atenció justament són aquests petits pòdcast que fa.
+Haig de dir que jo tinc una relació amor-odi amb tot el que es fa amb sintètic, perquè aquests resums amb veu sintètica de coses que estan escrites, doncs, 
+no m'acaba d'agradar, però clar, de l'altra manera, és que escoltar et permet aprofitar temps que dediques a altres coses que seria temps inútil, no?, quan t'estàs desplaçant o quan estàs fent coses a casa.
+Hi ha gent que llegeix audiollibres.
+Escolta audiollibres
+Ells diuen que ho llegeixen perquè els genera el mateix efecte... El que diuen alguns d'aquests que ho fan molt, especialment si l'audiollibre està ben fet, el fet d'escoltar l'audiollibre els genera el mateix efecte que llegir-lo,
+que quan tiren de record és impossible saber si allò ho van llegir en paper o ho van escoltar. Per tant, a efectes pràctics és el mateix impacte.
+Clar, hi ha efectes que potser no ets capaç de tu objectivar, saps?
+No ho sé, jo no ho faig. Ja dic que tinc aquesta relació d'amor-odi, també hi ha aquests pòdcasts ara que fa el Notebook LLM que tu li llences un article i et fa un resum de dues persones parlant.
+Clar, l'article no me'l llegiria.
+Llavors, que vagin dos que no lliguen, que no acaba de quadrar i tal, doncs, bé... 
+Nosaltres ara aquí hem estat mitja hora discutint de tres articles que la gent no es llegirà i es quedarà amb la nostra opinió, que dius anem servits, també.
+En fi, va, escolta, no divaguem més. Mireu-vos-la, és interessant, jo crec que val la pena. emergencing.app.
+Torna'm a dir el nom de la persona...
+És l'Octavi Rodríguez, que em sap molt greu perquè realment fa bastant temps que ens va contactar per dir-nos, he fet això i tal, 
+i ara he decidit que, oita, però no ho enredarim més, ja l'explico pel que he vist i per la part que a mi m'interessa. Publica els pòdcasts de Spotify, això, bé, això...
+No t'agrada, no t'agrada.
+Spotify s'ha de cremar a la foguera. I el Twitter i l'Instagram, tot això s'ha de cremar, però justament hi som tots perquè, no ho sé, som masoquistes, no ho sé.
+Va, molt bé.
+Vinga, va, quina recomanació tens tu?
+Doncs, pensant que també una de les pròximes, si no és ja, pandèmies que s'acosten, és el tema de les resistències als antibiòtics.
+Pensava que anaves a dir la grip aviar ara.
+No, no.
+El tema de les resistències als antibiòtics, ara no ho recordo exactament, però les estimacions d'aquests grans epidemiòlegs que fan estimacions a no sé quants anys, 
+sí que ens diuen que, no sé si cap al 2050 o així, això serà un problema de primer nivell a nivell mundial.
+Per això s'estan posant les piles tots els sistemes de salut a fer temes relacionats amb el PROA, perquè no fem mal ús dels antibiòtics.
+I hi ha unes guies, que són les guies PRAN, Guia Terapèutica Antimicrobiana del Sistema Nacional de Salut Espanyol.
+Això ho fan a dins del marc aquest del Plan Nacional Frente a la Resistencia a los Antibióticos, que és el PRAN,
+i l'objectiu és això, optimitzar i homogeneitzar una miqueta la prescripció d'antibiòtics pel tema d'intentar disminuir l'aparició de microorganismes resistents.
+I aquestes guies estan destinades a professionals de prevenció primària, de pediatria, d'urgències, tant hospitalàries com de primària, odontologia i a centres sociosanitaris.
+No està orientada a les IRAS, infeccions relacionades amb assistència sanitària, o a les pneumònies greus que necessiten hospitalització, UCI i no sé què més. No.
+Parlen de malalts ambulatoris que vinguin al Servei d'Urgències Hospitalàries perquè tu li puguis donar d'alta i hagis de decidir quin antibiòtic li dones.
+Doncs, és una pàgina web, s'hi poses això, Guia Terapèutica Antimicrobiana dels SNS, o poses a Guias PRAN, 
+et sortirà una pàgina web, t'has de registrar, has de posar el teu número de col·legiat, ara no recordo si et demanen on treballes, si ets d'urgències, si ets de no sé què, 
+et fan una sèrie de preguntes i després ja pots entrar amb el teu nom d'usuari i contrasenya a la Guia Terapèutica Antimicrobiana.
+I està molt ben ordenat, que si adults, que si pediatria, situacions especials, vol dir pacients amb insuficiència renal, pacients obesos i alguna cosa més.
+És molt fàcil de buscar i la recomanacions que et donen sobre els antibiòtics estan molt bé, estan molt clares, ho veus molt clar, 
+de primera elecció, de segona elecció, i si té al·lèrgia als betalactàmics, doncs dóna-li això.
+Abans ens hauríem de centrar en el que els teus equips PROA del teu hospital o de la teva zona te recomanen, 
+però bé, si tens alguna infecció que potser no ho tens en els teus protocols d'on t'estàs treballant, no t'especifiquen clarament si amb aquest tipus d'infecció, amb aquest tipus de pacient és millor un antibiòtic o un altre, 
+i tens dubtes, doncs en lloc de mirar-ho a la babalà i a qualsevol lloc, tingues el registre, que et pots baixar a l'app també, 
+mira aviam si en les guies aquestes t'expliquen exactament quin antibiòtic donar-li en un pacient que ha tingut una mossegada d'un humà o una mossegada d'un gos, 
+o amb quines li hem de donar antibiòtic i a qui no cal donar-li antibiòtic.
+Per exemple, si aquesta indicació no la tens registrada en els teus protocols de la teva zona on te treballes o no estan actualitzats.
+A mi em va semblar un bon recurs quan vulguis alguna informació així actualitzada i de bona font. Les guies PRAN.
+resistenciantibioticos.es, tu.
+Aquesta, sí.
+resistenciantibioticos.es/es/guiashumana no sé què.
+/es, igual ho tenen en català això? sí segur, ho tenen en català al Ministeri, seguríssim.
+Pàgina no encontrada, quina sorpresa.
+Bé, doncs escolta'm, mira just ara coincideix que vaig acabar la transcripció de l'episodi 6 que ens vas recomanar la proa app de la gent de l'Arnau de Vilanova, 
+una apli per mòbil justament per això mateix, per determinar... Com els metges de l'Arnau determinen l'antibiòtic d'elecció.
+I això, ja ho deia en aquell episodi que això serà un problema.
+I nosaltres aquí el sistema sanitari, tant pensar com ho farem, però els antibiòtics pel bestiar alguna cosa em diu que encara els seguim posant a base de bé, saps?
+Bé, aquí segurament no perquè aquí com siguis ramader i posis una gota del que no toca on no toca, et follen, però no gaire lluny d'aquí probablement els diuen inflar amb embut. Bé, en fi.
+Sí, de fet si entres aquí, en els guies PRAN, el que us he comentat ara és la PRAN humana.
+En el mateix costat hi ha la de veterinària perquè sabem que molta font de les resistències de microorganismes resistents ve de l'ús d'antibiòtics de forma sistemàtica en temes de ramaderia i aquestes coses.
+Però al costat de la humana hi ha el veterinari.
+Molt bé.
+Ara sí, no?
+Sí, jo crec que ara ja podem anar tancant.
+Recordar els nostres telegrams i els twitters i els instagrams perquè ens vagin seguint, no?
+El grup de Telegram és on seguim, però bé, si estem al Twitter, estem al Blusky, estem a l'Instagram, estem a Mastodont... 
+De totes aquestes que he dit és l'única que no està portada per cap empresa que hi vol guanyar quartos amb la vostra atenció i tal.
+El Mastodon, eh?
+Sí, però bé, sobretot tenim el lloc web que també està autoallotjat, per tant aquí tampoc ens interessa gaire la vostra atenció. Foteu el que us doni la gana.
+No us enviarem cookies que us espiïn de cap manera, però podeu seguir-nos a l'Spotify on us espiaran fins i tot la talla dels calçotets, no hi ha problema.
+Molt bé, Albert. Doncs va, que tingueu un bon dia tothom. Fins la pròxima.

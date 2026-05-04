@@ -1,0 +1,22 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat
+El Menys és Més d'aquest episodi és extret del portal dianasalut.com,
+i concretament és d'un article de la revista Journal of Hospital Medicine del març del 2025, dins de la iniciativa Things We Do For No Reason.
+Ens parla, en aquest cas, sobre l'ús de la gasometria venosa en pacients que acudeixen a urgències per una dispnea.
+Ens explica que la sol·licitud sistemàtica d'una gasometria arterial en pacients que consulten per dispnea aguda a urgències no està recolzada per evidència científica actual.
+Ens expliquen que l'avaluació d'aquest tipus de pacients es pot iniciar de manera segura i eficient amb una gasometria venosa i una pulsioximetria,
+en la qual la majoria dels casos ens permet prendre decisions de forma adequada.
+L'article revisa diversos estudis que demostren una correlació excel·lent entre els nivells de diòxid de carboni entre sang venosa i arterial.
+Concretament, una pressió venosa de CO2 menor de 45 prediu una CO2 arterial menor de 50, amb una sensibilitat del 100% i un valor predictiu negatiu del 100%.
+Cosa que indica que una gasometria venosa és suficient per a descartar una hipercàpnia clínicament significativa.
+A més a més ens expliquen que hi ha una correlació excel·lent amb els valors de pH arterial i venós,
+per tant, ens pot servir també la gasometria venosa per a descartar l'acidosi severa.
+Ens recorda que la gasometria arterial comporta riscos importants, a part de ser el doble de dolorosa que la venosa,
+a més a més, consumeix més temps pel professional sanitari i a més a més té més complicacions,
+més risc d'hematomes, de sagnats, de trombosi arterial i isquèmia.
+I per tant amb pacients que venen a urgències per dispnea i que tenen una pulsioximetria correcta,
+i en el qual sospitem una insuficiència respiratòria hipercàpnic,a la gasometria venosa és la tècnica de cribratge inicial adequada.
+Perquè si aquesta CO2 és inferior a 45, això ja ens descarta una insuficiència respiratòria hipercàpnica.
+I seguint aquesta recomanació ens estalviaríem el 29% de les gasometries arterials que fem actualment.
+Per tant, la conclusió és que no sol·licitem de forma sistemàtica, de forma ordinària,
+una gasometria arterial per avaluar la hipercàpnia en tots els pacients que venen a urgències amb una dispnea aguda.
+En sospita d'insuficiència respiratòria hipercàpnica, primer fem una gasometria venosa.
