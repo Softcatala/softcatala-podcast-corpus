@@ -1,0 +1,23 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat
+En aquest Menys és Més us porto una altra recomanació del Things We Do For No Reason, coses que fem sense cap motiu.
+Aquesta és el voltant de mantenir de forma rutinària un accés intravenós amb pacients hospitalitzats.
+Tot i que aquesta recomanació no és estrictament d'urgències, sí que és cert que les vies intravenoses es posen majoritàriament a urgències.
+De fet, en posem moltíssimes, de vies perifèriques intravenoses. I no totes calen.
+Aquesta recomanació, per exemple, fa referència que un terç de les vies intravenoses que es posen als serveis d'urgències no s'acaben de fer servir mai.
+I, de fet, podríem afegir que algunes es fan servir simplement pel fet que ja que l'has posada, aprofites per posar la medicació per allà.
+També ens diu que una quarta part de les vies en pacients hospitalitzats a Amèrica del Nord es mantenen, però no es fan servir de forma activa.
+Aquestes són aquelles vies, per si de cas.
+Però és que tenir aquestes vies no és necessari. De fet, pot arribar a ser contraproduent.
+Per exemple, un terç de totes les bacterièmies relacionades amb el catèter per estafilococs aureus provenen d'aquestes vies perifèriques.
+És cert que la taxa d'infecció és molt baixa. Per a aquestes bacterièmies, per exemple, és de l'ordre de 4 episodis per cada 100.000 dies de catèter.
+En les infeccions locals és un ordre en magnitud més, de 65 episodis per cada 100.000 dies de catèter.
+Però és clar, és que en posem moltíssims de catèters. Per tant, fa que el nombre total d'infeccions derivades del catèter intravenós siguin bastant elevades.
+I deixar aquesta via, per si de cas passa alguna cosa, també ens dona una falsa sensació de seguretat, perquè no sempre aquestes vies que hem deixat posades funcionen.
+Es fa referència, també, que un terç de totes les vies perifèriques fallen abans d'acabar de completar el tractament o que, en una anàlisi, un 10% de les vies que es van mirar no funcionaven en aquell moment.
+És cert que tenir una via pot ser una eina salvadora quan tenim pacients que ho puguin requerir, però en pacients que ja no estan en risc de patir alguna complicació,
+O bé, ja tenim clar que no necessitaran proves diagnòstiques amb administració de contrast o qualsevol mena de procediment, no té sentit que mantinguem aquesta via.
+Les recomanacions que ens fan aquesta gent del Things We Are For No Reason és que posem només aquestes vies perifèriques en els pacients que necessitin teràpia intravenosa de curta durada 
+o que sospitem que es poden descompensar o necessitar teràpies intravenoses de forma urgent.
+Que en tots aquells pacients hospitalitzats amb una via perifèrica monitorar regularment la necessitat de portar-la
+i considerar la retirada d'aquests catèters en aquells pacients que estan estables, aquells amb què la medicació es pot administrar oralment
+i aquells en que no anticipem una necessitat de la via intravenosa en un futur immediat.
