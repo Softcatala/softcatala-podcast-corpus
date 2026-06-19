@@ -1,0 +1,580 @@
+EMPodCat, el pòdcast d'Urgències i Emergències Mèdiques en català.
+Bon dia a tothom, estem en un nou episodi de l'EMPodCat, concretament estem a l'episodi 56, és a dir que estem a la cinquena temporada. Ja més enllà de l'equador de la cinquena temporada,
+i un episodi més, estem els habituals implicats. Per un costat i a les terres del nord tenim l'Albert Homs, hola Albert, què tal, com estàs?
+De vacances, estic de vacances.
+Ah, ostres, molt bé
+O sigui que m'he perdut l'inici de la meva unitat.
+Oh, ja heu començat, sí?
+Això diuen, però jo encara no. Jo només he vist fotos, encara no hi he pujat al cotxe nou. A veure, a veure què tal va. Ja us explicaré les desventures del Mercedes amb xòfer, a veure què tal.
+I portaràs també una emissora, ara
+Sí, i un detector de monòxid de carboni Sí, sí, bé, nosaltres teníem una porra engegada a veure qui és el primer que perd la ràdio
+Si a la nostra unitat l'ha de perdre algú, soc jo.
+En fi, escolta, és igual, ara aquí no anem discutint aquí de coses del SEM i tal, perquè fem més coses a part d'aquesta.
+Estic al nord, estic al nord vol dir que estic al Pirineu, eh? No tant al nord, eh?
+Sí, podries estar més al nord, sí. Molt bé, què més? Vols dir alguna cosa més pels que ens escolten per primera vegada?
+Hauríem de dir que tinc un blog que és l'emermedpirineus.cat o .eu i que, què més haig de dir?
+Sí, que treballo a l'hospital aquest de Cerdanya, aquí al Pirineu Català, i la unitat ara és la 2202, l'alfa 602. Ai, l'alfa 202, veus? Uf, això serà difícil.
+Bé, ara presenta't tu, Xavi perquè jo estic al nord, però tu també
+Sí, jo estic al nord-est del Principat, a Figueres, a Urgències i també unes quantes guàrdies al mes, les fem a la 206 del SEM.
+Ah, i alguna cosa, que tot i que cada vegada menys, però bé, alguna cosa interessant anem posant en el blog d'urgem.cat,
+on entre altres coses tenim també el diccionari d'Urgem, que després sempre parlem d'aquells termes en català i ja està.
+Tenim un grup de Telegram. Som 150, ara ja gairebé, que ens expliquem penes. Després de les recomanacions haig de comentar una cosa que va sorgir en el grup de Telegram també, però ja ho explicarem després.
+Una bona notícia o una notícia així?
+Saps que fem recomanacions que després desrecomanem per tornar a recomanar... Per una recomanació que era, ara ja no és i tot això, doncs una cosa d'aquestes. Una actualització d'una recomanació va.
+Ah, bé, això és l'habitual. Fantàstic, molt bé.
+Doncs avui, Albert tenies moltes ganes d'explicar-nos un tema relacionat amb l'oxigenoteràpia. És així?
+Sí, sí, és així però és el maig. Normalment al maig sempre n'explicava un d'IAM, d'infart i tal,
+però com que anem tard, ens hem saltat capítols i... Ara hauríem d'anar pels 60 pràcticament i anem pels 56, vol dir que hi ha un cert decalatge,
+i avui, una de les coses que m'agrada fer de tant en tant és parlar de coses bàsiques, bàsiques en el sentit que no som de gran complexitat però sí que abasten a moltíssims professionals,
+i del que vull parlar avui és dels dispositius d'administració d'oxigen, dels diferents que tenim i quan serveix cadascú i quan no s'han de fer servir i totes aquestes coses.
+No és que s'hagin acabat els temes d'electrocardiografia, eh?
+No, no se m'han acabat, no se m'han acabat. Tinc 3 o 4 patrons més que els tinc allà...
+Els estàs coent?
+Sí, sí, sí. De fet en tenim un de pendent de parlar amb tu, que és el bloqueig de branca dreta de novo, oi?
+Que va sortir en l'episodi passat, però aquest ja veurem a veure com ho fem, perquè si en aquest ens hem de barallar, igual podem agafar, jo que sé, unes espases i tal.
+Bé, doncs avui ens centrem en el tema respiratori. Aviam què ens expliques, aviam què aprenem de nou.
+Més o menys el que haig d'explicar ho tinc clar, però vaig aprofitar del OnePageICU, això ja és una recomanació que vam fer en el seu dia, que és un metge, el doctor Nick Mark,
+que té aquest lloc web en què fa infografies molt xules i he aprofitat per traduir-ne un parell que té justament d'aquests dispositius.
+Suposo que quan sortirà aquest episodi estaran publicades al meu blog les infografies aquestes amb la informació rellevant.
+Parlem d'oxigen i l'oxigen és una droga, és una droga més i com totes les drogues que tenim en el nostre arsenal terapèutic, doncs té indicacions contraindicacions, dosis i...
+Creen dependència, i creeen dependència, no?
+Algunes sí, d'altres no, i de fet hi ha gent que sí, que està enganxada a l'oxigen però no per dependència sinó per necessitat, oi?
+Algun dia parlarem de tot el que té a veure amb la farmacoteràpia vinculada a l'oxigen. Quines són les indicacions i contraindicacions, doncs en parlarem un altre dia.
+Jo em quedo amb el que de tant en tant a algú se li ha d'administrar oxigen, i com ho fem?
+De totes les drogues que tenim, mira, aquesta m'agrada molt perquè aquesta és una en què pots mesurar l'efecte.
+Hi ha moltes altres drogues en què la forma de mesurar l'efecte és molt subjectiva, oi?
+Però aquí no, aquí tenim una forma molt objectiva de mesurar-ho, que és mesurar la quantitat d'oxigen que tenim en sang, que això ho fem amb la pulsioximetria de forma no invasiva
+i abans que existís la pulsioximetria, o ara si volem determinades coses, doncs ho farem amb una gasometria sanguínia, ja sigui venosa o arterial.
+De la pulsioximetria n'hem parlat en l'episodi 21, si no l'heu escoltat us recomanaria que l'anéssiu a escoltar perquè hi ha unes quantes coses que són rellevants.
+i ja em vaig quedar amb les ganes de, quan vaig parlar de la pulsioximetria, d'algun dia fer algun episodi parlant de la fisiologia de l'oxigen,
+la corba de dissociació de l'hemoglobina i aquestes mandangues, però crec que després d'això no ens quedarà cap oient.
+En fi, deia que això, que podíem mesurar l'efecte de l'oxigen que administrem amb la pulsioximetria i, anant a lo fàcil i lo simple, tenim uns números de pulsioximetria que són als que hem d'arribar.
+Hi ha un objectiu general que he llegit a uns quants llocs que és, si arribes al 94% ja vas bé, no necessites més.
+Això quan ets un pacient que tens una MPOC, una malaltia pulmonar obstructiva crònica, ets un retenidor de CO2, que això és un concepte que també potser en parlarem algun dia perquè crec que no és tot tal com ens l'imaginem.
+potser podríem de tirar uns números més baixos, les recomanacions són del 88 al 92%, però jo després de la Covid veig un 90 i estic bé, estic tranquil, el pacient està a 90? Està fantàstic.
+Us en recordeu per la Covid que teníem gent a 60 i estaven pantxos i et parlaven i tal? Jo ara veig un 90 al monitor i ni m'aixeco.
+Quedem-nos que necessitem uns números de pulsioximetria raonables i que amb l'administració d'oxigen exògena, afegida al de l'aire ambient,
+doncs podem arribar-hi i tenim aquest dispositiu, el pulsioxímetre que ens permet mesurar l'efecte del que estem fent.
+Té mancances, té tota una sèrie de coses que us recomano que aneu a escoltar l'episodi.
+Jo per explicar-vos tots aquests dispositius, que ja de seguida tots us en venen al cap, mànegues que surten d'una bombona o d'una presa d'oxigen de paret,
+necessito explicar tres conceptes, perquè si no després ens perdrem una mica.
+El primer concepte és bastant senzill, és el concepte de concentració. Nosaltres respirem aire ambient habitualment, però respirem una barreja de gasos.
+L'aire ambient al planeta Terra és un 78% de nitrogen molecular, N2, gairebé un 21% d'oxigen molecular, O2, i l'altre 1% que queda és bàsicament argó que és un gas noble,
+i altres coses: CO2, una miqueta i altres coses que per aquesta misèria ja ni les contemplem.
+La concentració és això mateix que acabo de dir ara, és a dir, d'un total del gas, com que hi ha diferents components, doncs cada component ocupa un percentatge, una part d'aquest total.
+Sí? És fàcil. Un 21% d'oxigen.
+Això per aire ambient, però després tenim tota mena d'altres combinacions estranyes de gasos, els que fan submarinisme els coneixen, que si l'heliox, el nitrox, barreges estranyes...
+Vols dir que per exemple amb un metre cúbic d'aire el 20% és nitrogen? És això, eh?
+Un metre cúbic d'aire, que són 1.000 litres, doncs d'aquests 1.000 litres, 780 no sé quants són nitrogen, 208 o 210 són oxigen, i el que queda, argó 10 litres, el que s'escaigui.
+Això és el concepte de concentració. D'un total, hi ha una part que li correspon a cadascú.
+Quan parlem d'oxigen, o de fet quan parlem de qualsevol gas, quan inhalem un gas, doncs a això n'hi diem la fracció inspirada del gas en qüestió.
+És a dir, la fracció inspirada d'oxigen és quan d'aquest gas que nosaltres inhalem és oxigen.
+Aquest concepte de la fracció inspirada d'oxigen és rellevant, no per avui, però és rellevant per moltes coses que després fem servir.
+És a dir, el concepte de la PaFi que vam parlar en el seu moment també, o potser n'hem de parlar,
+I en molts processos patològics, doncs saber quina FiO2 té el pacient, quan fem números a veure si allò està bé o malament, doncs és rellevant.
+La FiO2 és la fracció inspirada d'oxigen, és a dir, quina part d'aquest total d'aire que inspirem correspon a l'oxigen.
+N'hi diem concentració.
+Si jo agafo un dispositiu per administrar més oxigen, doncs el que hi haurà és més concentració d'oxigen.
+Si jo agafo un dispositiu que la meitat del gas que entra és oxigen, doncs tindré una FiO2 del 0,5, o del 50% si ho preferiu dir en percentatges, que és com més o menys ens orientem tots.
+Si jo tinc una atmosfera del 100% d'oxigen, tinc una FiO2 de 1, si estic respirant només oxigen.
+Els astronautes de l'Apol·lo 1, per exemple, els que es van morir cremats a dins, tenien una atmosfera tunejada i era 100% oxigen.
+Per això es va encendre tot, perquè l'oxigen és un comburent, amb la qual cosa en presència d'oxigen tot s'encén.
+El concepte de concentració, per què és rellevant?
+Perquè tenim dispositius d'administració d'oxigen que són de baixa concentració i dispositius que són d'alta concentració.
+Sí, sí.
+Ara bé, concentració no vol dir quantitat, perquè jo puc tenir la mateixa concentració de moltes coses, però que el total de coses sigui molt petit.
+I això no és rellevant per on ens movem nosaltres, però en el planeta Terra, a nivell del mar, la pressió atmosfèrica és la que sigui, una atmosfera,
+però a mesura que anem pujant d'alçada, aquesta pressió total va disminuint.
+No em preocupa perquè on habitem habitualment, fins a aquests 2.000 metres, la diferència és molt poca.
+En altres circumstàncies, si un dia parlem del mal d'alçada o parlem de patologia vinculada a l'alçada, doncs haurem de parlar d'això, que a mesura que anem guanyant d'alçada, la concentració d'oxigen és la mateixa,
+segueix sent un 21% d'oxigen, però la quantitat de gas que hi ha, cada vegada que nosaltres fem un esforç inspiratori, doncs no entra la mateixa quantitat de gas quan estàs a nivell del mar que quan estàs en alçada.
+Has de fer molt més esforç per aconseguir la mateixa quantitat de gas.
+Això es mesura amb les pressions parcials, que tenen la seva rellevància, però que només el cito per on ens movem nosaltres, no ens ve d'aquí.
+Si féssim medicina aeronàutica, o estiguéssim, jo què sé, em sembla que és a Bolívia, que hi ha un hospital que està a 4.000 metres, segurament això seria molt rellevant.
+Però en el nostre entorn, que no hi ha pràcticament ningú que visqui de forma habitual a més de 2.000 metres, no ens és rellevant.
+Tindria relació amb la medicina hiperbàrica, això, o no?
+Seria medicina hipobàrica, però té relació en el moment que hi juguen les pressions, clar.
+Hiperbàrica vol dir que hi afegim més pressió, si hi afegim més pressió vol dir que estem afegint carretades d'oxigen.
+Quan entres algú a la cambra i els fots, jo què sé, a 3-4 atmosferes, li estàs posant una burrada més d'oxigen en quantitat, però la concentració, si respiren aire ambient, és exactament la mateixa, 21%.
+Només que la quantitat de gas, la quantitat de molècules, si vols dir-ho així, és diferent.
+De fet, ara no em voldria equivocar, vull dir, això agafeu-ho amb pinces, nosaltres necessitem de l'ordre d'un quart de litre d'oxigen pur a una atmosfera per minut.
+No necessitem més per mantenir-nos vius. La quantitat d'oxigen que nosaltres consumim en repòs és un quart de litre d'oxigen a una atmosfera per minut.
+Això són... Ho vaig estar mirant l'altre dia, són 10 a la 22 mols d'oxigen, que són no sé quants grams.
+No recordo ara exactament els números, però la idea és que amb molt poc oxigen, parlant en pes, en tenim prou.
+La majoria d'aire que respirem és nitrogen que entra i surt i que no fot res. És inert per nosaltres.
+Aquests són fàcils.
+El concepte de concentració, aquest és ben senzill, tothom l'entén ràpid, el de les pressions, com que no ens importa, passant, però el que és rellevant és el tema del flux.
+Què vull dir amb això del flux? Nosaltres, quan respirem, agafem aire i el deixem anar.
+L'inspiració sempre és la que gasta energia.
+Si és espontània és perquè nosaltres fem força amb la nostra musculatura, si és mecànica és perquè la màquina empeny, però l'exhalació sempre és passiva.
+La nostra caixa toràcic s'ha expandit i en el moment que deixem de fer la força, ja sigui pròpia del pacient, si és en espontània o de la màquina, doncs torna a la seva posició inicial.
+L'expiració és passiva.
+Normalment això vol dir que, per temps, triguem una vegada a inspirar per dues a expirar.
+Nosaltres entrem tot el gas que arribarà als nostres alvèols en un espai i l'exhalem en dos.
+Per tant, vol dir que tot el gas que movem entra en un terç del temps respiratori.
+Sí? S'entén això?
+Sí.
+Si jo faig una inspiració molt profunda entrarà molt més aire.
+Jo puc fer respiracions del que és habitual, que és mig litre per una persona de 70 quilos, aquests 6 mil·lilitres quilo, per una persona de 70 quilos seran 420, o per 80 seran 480.
+Aquests 6-8 mil·lilitres quilo de pes ideal, recordeu, doncs això ho faig a cada inspiració.
+Si això ho entro en un segon tindré un flux concret.
+Ara intentaré explicar una miqueta això dels fluxes com va.
+Quedem-nos amb la idea que nosaltres triguem un temps a inspirar, que és quan ha d'entrar tot l'aire, i dos temps a expirar, que surt sol.
+Fem els números, que potser és més senzill d'entendre.
+Jo respiro 15 vegades per minut, per tant respiro un cop cada 4 segons, i cada vegada que respiro entro mig litre.
+Sí.
+Això vol dir que jo moc 15 respiracions per mig litre, moc 7 litres i mig per minut.
+El meu flux, el cabal, que després en parlarem d'això, el cabal d'aire que jo moc són 7 litres i mig per minut, però no entra en un minut.
+Si hem dit que trigàvem un temps a inspirar i dos a expirar, tot aquest gas ha d'entrar en un terç d'un minut. En 20 segons han d'entrar 7 litres i mig.
+Per tant, el meu cabal, quan jo inspiro, no és de 7 litres i mig, que és el que trigo en un minut. És de 7 i mig per 3, que seran pràcticament 22 litres.
+És a dir, la quantitat de gas que jo entro, la velocitat a la qual ha d'entrar el gas, perdó, són 22 litres minut.
+Si jo tinc un sistema que m'aporta menys cabal de gas del que jo bellugo, si tinc un sistema que m'aporta 15 litres minut, i jo inspiro amb un cabal de 22 litres minut,
+es barrejarà el cabal que em ve pel sistema més el que hi ha al voltant.
+Si tinc alguna cosa que em restringeix el flux, l'exemple que poso sempre és respirar a través d'una palleta.
+Si jo et faig inspirar amb una palleta de la boca, tu pots entrar el gas, però et costa molt més perquè el flux està restringit. Oi?
+Si jo tinc alguna cosa que, objectivament o subjectivament, em limiti l'entrada d'aire, la persona, quan l'intenta agafar, doncs veurà que no entra prou.
+Això, quan estem bé i fem el joc de la palleta, ho passes una miqueta malament perquè dius hòstia, m'està costant, però imagina't que t'ofegues.
+Imagina't que tens una insuficiència respiratòria, tens ganes d'aire, necessites aire. Caram, quan vas corrent, necessites tot l'aire que t'entri.
+Si et poses alguna cosa a la cara que et limita l'entrada d'aire, tens la feina d'intentar agafar-lo i, a més a més, de superar aquella resistència.
+Per tant, hi ha com una sistemàtica humana que, en el moment en què tens alguna cosa que tens la sensació que et limita l'entrada de gas, t'ho treus.
+Si us hi fixeu, com més fotut està algú que s'ofega, més es treuen les mascaretes de la cara, perquè més ànsia d'aire té, més flux necessita entrar.
+Hem parlat que movíem un flux inspiratori de 22 litres quan respiràvem una inspiració de mig litre 15 vegades.
+Ara imagina't que faig un litre 30 vegades.
+Això és multiplicar per 4 aquests 22 i mig. El meu flux inspiratori és 80 litres.
+80 litres per minut és el que jo moc quan inspiro. Evidentment no estic inspirant un minut sencer, estic inspirant l'estona que toqui.
+Quan parles de cabal i flux, és equivalent? No sé si hi ha diferències o és...
+En parlem després a l'UrgemMot perquè necessitaré ajuda amb això.
+Necessitaré ajuda perquè jo, ara mateix ,els estic fent servir igual, tant un com l'altre, però crec que amb això necessitaré ajuda. No ho tinc massa clar, tampoc.
+Llavors, per què insisteixo tant en el flux?
+Perquè de dispositius d'administració d'oxigen en tenim que aporten tant flux com el malalt respiri,
+i aquests són els dispositius que es diuen d'alt flux, tant fa que el pacient respiri amb un cabal de 20 litres per minut que amb un cabal de 60.
+El dispositiu hi arriba i dona el que el pacient tira en aquell moment.
+Però tenim altres sistemes que són de baix flux, que són tots els altres sistemes que no arriben a donar el cabal inspiratori que el pacient demana.
+Tenim clar els tres conceptes, el de la quantitat de gas, que és la pressió parcial i tal, que aquest no ens importa perquè vivim en alçades que això no ens afecta,
+el de concentració, és a dir, quina part del gas que respirem és oxigen, i aquest del flux, o de cabal, que és a quina velocitat entra el gas quan jo l'inspiro.
+Aquests tres conceptes són importants.
+Entrem ja en els dispositius, vinga.
+El primer dispositiu que està descrit, i jo només he vist una vegada, quan estudiava i no l'he vist posat, és un que és una cànula nasal que va dins d'un sol... Nariu? es deia nariu això?
+Hòstia Xavi, ara no me'n recordo, eh? Hòstia, l'UrgemMot ara ens ataca. Bé, després per l'UrgemMot el trobem aquest.
+Sí.
+Que això està descrit bàsicament per a neonats, bàsicament posaves una petita mànega d'un parell de centímetres que entrava dins el nas i el fixaves allà,
+per un adult igual eren tres o quatre centímetres. Com quan fiques una sonda nasogàstrica que li poses un tub de mig metre, doncs aquí en comptes de mig metre l'hi fiques tres o quatre centímetres.
+Això tenia les seves indicacions, que entenc que és com que entra cap a darrere les coanes, doncs no es veu afectat per la... digues, digues Xavi.
+No, anava a dir que jo no l'he vist mai, aquest dispositiu no l'he vist mai.
+Jo només l'he vist un cop quan estudiava, per tant no es fa servir.
+No es fa servir perquè tenim alguna altra cosa que va millor que aquesta cànula nasal, que són les cànules nasals o ulleres nasals.
+Això ho vam posar al grup de Telegram perquè es pot dir de les dues maneres, la que prefereix el TermCat, em sembla que és ulleres nasals, i decidim si li diem ulleres o cànules, doncs ulleres nasals.
+Les ulleres nasals a tothom li sonen, és una tubuladura que en un extrem de la tubuladura té dues petites prolongacions que surten de la tubuladura que són les que ficaríem a dins el dos narius.
+N'hi diem ulleres perquè el tub aquest es divideix en dos que es tornen a ajuntar en aquestes prolongacions, i aquesta divisió dels dos la fiquem envoltada a les orelles com si fossin unes ulleres.
+Per això se'n diuen ulleres nasals, perquè te les poses i te les treus com qui es posa unes ulleres.
+Aquest què té de bo?
+Doncs que és molt confortable.
+Bé, molt... Relativament confortable.
+El portes posat i gairebé no et molesta, et permet menjar, no tens la sensació que tinguis res a la cara que et dificulti la respiració, però tens això dins la nàpia, que hi ha gent que li molesta.
+Especialment els malalts vells amb demències vàries, doncs, hòstia, estan contínuament treien-s'ho.
+De fet, s'ho treuen tot. Per tant, les ulleres nasals també se les trauran.
+No molesta fins que no passa algú per darrere i agafa el cabalímetre i te'l posa a 6 litres, no? Les ulleres nasals.
+Això que acabes de dir ara és rellevant, perquè aquestes ulleres nasals et donen una concentració més elevada d'oxigen.
+És a dir, tu respires aire ambient barrejat amb l'oxigen que surt de la cànula nasal, de les ulleres nasals.
+El que surt per la cànula és només oxigen, que es barrejarà amb l'aire ambient quan tu inspiris.
+Com més oxigen li posis al cabalímetre, més concentració d'oxigen tindràs.
+A un litre per minut que surti de les ulleres nasals, en comptes de tenir una FiO2 del 0,21, és a dir, que respires un 21% d'oxigen de l'aire ambient, doncs es calcula que és un 24%.
+I a mesura que vas pujant, va augmentant aquesta FiO2.
+Fins a quant?
+Doncs parlen que a 6 litres estàs entrant al voltant de 0,35 de FiO2, un 35%.
+És molt poc precis per molts motius.
+Un és perquè depèn de com de fort respiris, doncs entraràs més o menys aire ambient. Si tu respires poquet i no entres massa aire, doncs allò que dèiem del flux, oi?
+Com que tens menys flux, doncs hi haurà més oxigen que entrarà.
+Si respires molt de pressa, allà segueixen sortint sempre 6 litres per minut, o els que siguin, oi? Però tu fas un flux molt més alt.
+Aquest és un sistema de baix flux, perquè no arriba a donar el que el pacient pot arribar a inspirar.
+Si el pacient inspira 20 litres per minut de flux inspiratori i n'estic donant 6, doncs no és que no arribarà.
+També té un altre problema, que és que si això ho posem nasal i el pacient respira per la boca, home, alguna cosa farà, però poquet.
+Per tant, és un sistema que l'únic que té de bo és que és confortable.
+I tu has dit una de les coses que fa que deixi de ser confortable, que és posar-lo a tota castanya.
+Perquè t'entra una castanya grossa de gas, sec i fred.
+Per una estoneta, doncs mira, l'aguantarem tots, però quan portes 4 hores que t'estan entrant allà pel nas, és terrible.
+Quin altre sistema tenim que millori alguna de les pegues de les ulleres nasals?
+Doncs en tenim un, que aquest haig de dir que no l'havia vist mai, fins que vaig venir a treballar on treballo ara, que és la mascareta simple.
+Mascareta simple què vol dir? Doncs és un tub que va del cabalímetre de paret fins a una mascareta.
+Una mascareta de plàstic que té uns orificis laterals perquè tu puguis exhalar, perquè no es quedi tot el gas exhalat a dins, i ho lligues amb una veta per darrere el cap.
+I té un pont que s'aguanta al nas com s'aguanten les ulleres.
+Això en diu mascareta simple per què?
+Perquè només és una mascareta, és una mascareta amb un tub, no hi ha res més.
+I això ho teniu, sí?
+Nosaltres no, però resulta que és un estri que fan servir molt els ambulanciers i els bombers francesos.
+Aquesta mascareta simple funciona exactament igual que les ulleres nasals.
+Com més cabal li poso al cabalímetre, més concentració d'oxigen inhalarà la persona que el porti.
+Depenent del fabricant et dirà, doncs a 4 litres la FiO2 és de, m'ho invento, 30%.
+A 8 litres la FiO2 és 40%.
+Té la mateixa pega que les ulleres nasals, que és que en funció del flux inspiratori del pacient, es barrejarà més o menys amb aire ambient, però t'elimina el fet que si respira per la boca, tant de fot perquè porta una mascareta.
+I la mascareta tan et va al nas o a la boca.
+Té un altre avantatge que és que per personal no entrenat o per personal que no conegui massa bé els dispositius, és molt senzill.
+L'endolles i mous la roda. No has de fer res més.
+Ara podríem discutir del que fan i deixen de fer els pompiers francesos, però una de les coses que tenen clares és que ells fan assistència sanitària a les víctimes i intenten ser segurs.
+Sobretot la seguretat.
+Llavors el que fan és posen la mascareta i el que toqui. Que satura 90, el que tinguin apuntat. Si satura 80, li poses 8 litres amb la mascareta simple.
+Si satura el que sigui, el que tinguin apuntat, perquè això, òbviament, ho tenen apuntat i ells compleixen.
+Aquest segueix sent un sistema de baix flux, perquè dona el que doni el cabalímetre, 15 litres.
+Si hem dit que la persona de normal ja el flux inspiratori són 20 litres, és que no arriba. Aquest és un sistema de baix flux.
+Anem a un altre.
+Aquest és el que segurament tothom coneix, que és la mascareta Venturi.
+És una mascareta com l'altra, va lligada amb una veta darrere, té el seu pont amb la peça metàl·lica per ajustar-lo bé, que quedi ben centradet.
+Té els seus orificis espiratoris, perquè quan tu l'exhalis, surti cap a fora.
+Però aquest el que té és un sistema entre la mànega i la mascareta, que pot ser un sistema que es desmunta i són peces de colors,
+o un sistema que tu rodes, és un dispositiu que tu manipules, i amb això ajustes la concentració.
+Si ens fixem en aquest de colors, no és el que tinc jo, però hi ha llocs on els agrada molt, perquè visualment saps quina concentració està entrant des de fora.
+Tu el que fas és que canvies aquest connector que hi ha entre la mascareta i el tub, i en funció del color, doncs saps quina concentració està entrant.
+Com funciona això? Això funciona per l'efecte Venturi, que és el mateix efecte que permet que els avions volin, tota una sèrie de coses que són molt contraintuïtives.
+De fet, hi ha un experiment d'aquest per canalla als instituts, que és divertit de veure. Jo l'intento explicar ara i després a veure si la gent l'entén.
+Tu agafes una pistola d'aire comprimit, agafes la pistola i poses un paper de diari a sobre, i prems perquè surti l'aire. Què farà el paper de diari?
+Prems perquè surti l'aire de la pistola...
+Tu tens el paper de diari que està plegat damunt la pistola d'aire comprimit. És a dir, tu tens el llom del diari, diguéssim, just a sobre la pistola.
+I jo disparo aire endavant, que sortirà per la cantonada del diari. Llavors, què farà el diari, sortirà propulsat o què farà quan prems aquí?
+Sortirà... caurà cap avall.
+Doncs el que fa és, quan tu prems, l'aire comprimit es desplaça endavant, i per efecte venturi xucla tot l'aire que hi ha al voltant i el paper es queda enganxat a la pistola.
+Això és molt contraintuïtiu, quan aquest és un experiment que els fan a la canalla als instituts i es queden tots flipant perquè... Què ha passat?
+Doncs ha passat això, que quan tenim un flux endavant, aquest flux endavant arrossega el fluid, aquest aire, que té al voltant per uns orificis, i se l'emporta endavant.
+Llavors, jugant amb la mida de l'orifici, tu garanteixes una concentració concreta del gas que surt al final.
+És a dir, barrejant el que ve per la mànega amb el que xucla al costat, doncs tu arribes a una concentració, la que tu li demanis.
+Si és amb aquest de colors, doncs tu vas canviant. El taronja em sembla que és un 60%. Els colors no me'ls sé, perquè no en tinc.
+Jo el que tinc és un dispositiu en què tu vas manipulant el dispositiu, cada fabricant és diferent, que vas fent més gran o més petit l'orifici, i amb això el que faig és ajusto la concentració.
+Quin avantatge té això? Que la concentració sempre és la correcta.
+Jo sé que si poso aquella obertura amb aquell cabal d'oxigen, jo sé que està entrant allà sempre un 30%, un 35%, un 40%, un 50%.
+I és un sistema d'alt flux. Per què?
+Perquè li donarà tot el que el pacient vulgui. No hi ha cap limitació, no hi ha cap restricció.
+Jo puc respirar 60 litres per minut i la meva mascareta Venturi li donarà 60 litres per minut amb la FiO2 que jo li demano.
+Si jo li poso una Venturi al 50%, és igual la quantitat de gas que aquesta persona mogui durant un minut. Entrarà un 50% d'oxigen.
+Un sistema molt precís de saber quant d'oxigen estàs posant.
+Quin problema té? Que és una mascareta.
+Per tant, la tens enganxada a la cara i et molesta. I la gent, quan s'ofega molt, tendeixen a treure-se-la.
+Tot i que té els orificis, t'entrega tot l'aire que tu necessites, però la sensació que el tens davant la cara i et molesta, la tens. I no te'n pots escapar.
+I per tant, és una de les primeres coses que farem, és intentar-nos-la treure perquè necessitem que entri tant gas com puguem.
+Quan resulta que potser t'interessa més tenir-la ben posada perquè t'entri l'oxigen, que és el gas que necessites. Però el teu cervell té altra feina quan estàs fotut.
+Aquesta és la mascareta Venturi, és la més habitual. Tots la coneixem, tots l'hem fet servir. La tenim clara aquesta?
+Sí, sí, sí.
+Perfecte.
+Anem a l'altra. La mascareta amb reservori, Monaghan...
+Aquesta mascareta, com la coneixes tu també? De reservori, Monaghan i té algun altre nom? La mascareta d'alta què?
+Alta concentració?
+No n'has sentit a dir mai mascareta d'alt flux?
+No, jo he sentit sempre alta concentració.
+Doncs has sentit bé.
+Perquè és una mascareta que el que fa és acumular oxigen a la bossa durant tota l'estona.
+Aquests 15 litres, que és el màxim que dona un cabalímetre normal, si jo estic exhalant part d'aquests 15 litres se'n va, aquí el que fa és que tot el gas va dins la bossa.
+Quan jo inhalo s'obre una vàlvula i jo m'emporto tot el gas que hi ha dins la bossa.
+És a dir, si en aquella bossa hi ha mig litre i jo inhalo mig litre, tot el gas que inhalo ve de la bossa.
+Hi ha un sistema de vàlvules, hi ha una vàlvula inspiratòria de la bossa cap a la mascareta, hi ha unes vàlvules espiratòries en els orificis de la mascareta que quan jo exhalo surt del gas per allà.
+Hi ha gent que diu que aquesta alta concentració arriba fins al 100%.
+Mentida, una mascareta d'alta concentració no és estanca, per tant es barrejarà segur.
+Val més pensar que és un 80% la concentració d'oxigen que inhales i ja en parlarem també, perquè a vegades tinc dubtes fins i tot d'això.
+Però és un sistema de baix flux, perquè no dona tot el flux inspiratori que el malalt demana. Per això la concentració no és del 100%.
+Hi ha mascaretes que, per evitar la sensació aquesta que la mascareta no dona prou perquè tu estàs xocolant i la mascareta no deixa entrar l'aire, hi ha mascaretes de reservori,
+que n'hi diuen amb re-inhalació, que no tenen vàlvules, tenen els forats allà.
+Tu quan exhales, part del gas queda dins la mascareta, però quan inhales entra més bé l'aire. Això no en tenim, jo no n'he vist aquí al país.
+Totes les que he vist són d'alta concentració amb vàlvules espiratòries i deixen sortir el gas, però quan tu inhales no entra pels forats, entra per la bossa.
+Això té el problema que el malalt que s'ofega de veritat, quan intenta respirar aquests 60 litres per minut...
+Buida la bossa cada vegada.
+I de seguida.
+Perquè estem parlant d'inspiracions de litre i mig, i a la bossa que hi deu haver-hi, mig litret, com a molt? té la sensació que no dona prou.
+Per tant, això explica un dels motius pel qual la gent es treu la mascareta, perquè, hòstia, allò els hi fot molta nosa.
+I és un problema. Llavors estàs en una guerra contínua de Posi's la mascareta>>, se la treu, posa-la, treu-la. És un merder, això.
+És una mascareta d'alta concentració, però de baix flux. Ho he sentit molts anys, una mascareta de alto flujo. No, no, no és d'alt flux, és de baix flux. I això s'ha de tenir present.
+És un dels motius pels quals, des vegades, la gent que no la podem controlar, perquè en la seva situació està superat perquè s'ofega, doncs se la treuen.
+Jo crec que ho hem viscut tots, i si no ho viureu, és gent que s'ofegava a l'hospital i es paren a la planta i quan arribes veus que la mascareta no la té posada.
+I la infermera et diu no, si és que li he posat la mascareta quan t'he vingut a avisar. Correcte.
+El tio s'ha agobiat, s'ha tret la mascareta, i que sigui que l'ha portat a ofegar-se, o tenir la sensació que s'ofega, que no és el mateix, doncs s'embolica.
+Sí? Aquesta és la mascareta amb reservori.
+Això que deia dels bombers, una de les coses que quan vaig veure-ho la primera vegada aquí, vaig pensar això, no ho estic entenent.
+Ell només tenen aquesta mascareta. És una forma també de, doncs, no has d'estar barallant-te amb dos dispositius i tal.
+I el que fan és, si la persona s'atura no sé quan, doncs deixen la bossa amb reservori queda tancada, no s'obre, treuen les vàlvules espiratòries i tens una mascareta simple.
+Li fots, doncs, 4 litres, 6 litres.
+Que satura, jo què sé, és que els números no me'ls sé, me'ls va passar una companya, que justament es dedica a això, però no els tinc ara presents.
+Que resulta que li has de posar una alta concentració, doncs guaita, poses les vàlvules, obres la bossa i ja li has posat l'alta concentració.
+Amb un sol dispositiu ho fas tot.
+Com que aquí nosaltres parlem per professionals sanitaris, crec que això no té gaire sentit, però bé, si no ets professional sanitari, doncs, potser t'estem demanant moltes coses que costen, no?
+I manipular la mascareta, si no saps què estàs manipulant, doncs pot ser una merda.
+I de fet, crec que m'atreviria a dir que tots hem vist venturis que no fem bé, perquè la venturi va amb manipulació de la mascareta i cabal del cabalímetre.
+I gent que té enroscat allà perquè doni el 50, però en comptes dels 15 litres del cabalímetre, en surten 8.
+Doncs no li estàs donant 50. Què li estàs donant? No ho sé, però un 50 no. Perquè van les dues coses juntes. Va el cabalímetre i l'obertura.
+O al revés, que va a 15 litres, ja, va 15 litres, però tens l'obertura del 24%, que és la més petita que et dona un venturi.
+Per tant, quants li estàs donant? No ho sé. No és un 50, que és el màxim que et donaria la venturi, i no és un 24. No ho sé.
+I ens queda un últim dispositiu, i jo ja acabo, que aquest és bastant modern, i crec que el fem servir menys del que tocaria, perquè també costa uns quants calerons, també, aquest.
+Són les ulleres nasals d'alt flux.
+Això, tots els que treballem en hospitals crec que ja les hem vist, els que feu només extrahospitalària, pot ser que sí, pot ser que no.
+Aquestes ulleres nasals d'alt flux són com les ulleres nasals, oi?
+De fet, en l'únic que s'assembla són les prolongacions que van dins del nas, les prolongacions nasals, i que passem la tubuladura per darrere l'orella per fixar-la.
+La resta canvia bastant.
+Per què diem que són d'alt flux?
+Doncs perquè això va en un dispositiu, ja sigui un respirador específic o un cabalímetre mesclador adequat, que li pots posar el flux que et doni la gana.
+Seixanta litres, vuitanta litres, els que vulguis. No te l'acabes.
+Flux de què? Doncs d'una barreja de gasos.
+Li pots posar una barreja de gasos d'aire ambient, 21%, o només oxigen, que llavors serà seixanta litres d'oxigen a tota castanya.
+Perquè una persona pugui tolerar que li entrin pel nas seixanta litres de gas, o li escalfes i li poses una miqueta d'humitat, o no t'ho aguanta.
+Perquè ja, quan hem fet el ximple i ens hem fotut els quinze litres amb les ulleres nasals, un estona encara vas fent, eh? Però quan portes una estona quedes ben sec, eh?
+De fet, ja no és només amb les ulleres nasals.
+Si l'has de tenir gaires dies, amb una venturi del 50%, segurament hauries de posar-hi un sistema d'humidificació perquè no sigui aire sec.
+Perquè és que si no, hauries d'estar bevent aigua contínuament només per reposar tota l'aigua que perds per evaporació quan t'entra el gas sec, oi?
+Aquestes ulleres nasals, doncs això. Tenim un sistema que l'escalfa.
+Aquest sistema bàsicament és una cassoleta, una forma de campana petita, que té un escalfador sota, que ho omples d'aigua destil·lada estèril, que baixa per gravetat, aquí s'omple, es vaporitza,
+i per unes tubuladures escalfades, perquè si no condensaria la tubuladura i seria un merder, doncs et tira aire que et surt directament a 37 graus pel nas.
+Aquest sistema té moltes coses bones, és molt confortable, a la gent li poses això i està encantada la vida, pots menjar amb això.
+Té la pega que si no muntes bé els cables, potser pots complicar-ho molt i que en comptes de 37 et surti 42, i llavors potser el pacient et diu que s'està cremant, i tu li diràs, són collonades, compte amb això.
+És complex de muntar, perquè té un sistema de control, hi ha un mesurador de temperatura a l'entrada de la cassoleta, un mesurador de temperatura a la sortida de les ulleres nasals,
+i un cable per donar corrent a la resistència elèctrica que està dins tota la tubuladura perquè ho escalfi. Té una complexitat tècnica, però és molt confortable pels pacients.
+Val bastants calés.
+També, això és discutible, però d'això en parlarem quan parlem de ventilació mecànica, també aporta una altra cosa, que és com que hi ha tant flux d'aire que entra, doncs fa una cosa que li diem PEEP, bé, CPAP, més que PEEP, perdó,
+que és que hi ha més pressió dins totes les vies aèries i el fet de tenir més pressió dins les vies aèries ens permet una sèrie de coses que això, prefereixo parlar-ne quan parlem de ventilació mecànica.
+Té una gran pega, i per això no és en extrahospitalària, que és que es menja l'oxigen que flipes.
+I si una bala d'oxigen de 1.000 litres, aquestes de 5 litres a 200 bars, que són 1.000 litres, a 15 litres, dona per... em sembla que és una hora, menys d'una hora.
+Doncs a 60 litres et dura una bombona petita, et dura un quart.
+A part que no t'ho dona. Potser has de tenir una altra mena de cabalímetre o anar amb el respirador i tal.
+Els respiradors nous del SEM, el Monnal T60 aquest que tenim ara, aquest permet fer oxigenoteràpia d'alt flux.
+Però com que no tenim les cassoletes per fer-ho en extrahospitalària, millor que no les tinguem perquè ens menjaríem l'oxigen del cotxe en una hora. Pràcticament.
+Una hora i mitja, amb la burrada de litres que portem, em sembla que portem uns 6.000 litres, doncs ens els mengem en res. És una de les pegues que té.
+Clar, si estàs en un lloc on tens dipòsits d'oxigen líquid, pots tirar el que vulguis. Però en circumstàncies de transport i tal, és una miqueta un problema.
+Ulleres nasals d'alt flux és l'últim que volia explicar-vos.
+A les notes de l'episodi hi haurà els enllaços a les infografies on hi ha imatges d'això, tot i que crec que ara mateix tots els professionals sanitaris que ens esteu escoltant crec que totes us sonen.
+I ja està. Jo ja he acabat d'explicar els dispositius d'administració d'oxigen.
+O sigui, de dispositius d'alt flux, tenim la mascareta Venturi i les cànules nasals d'alt flux. D'alt flux només tenim això.
+Només tenim això. Sí, sí, sí.
+Ara la pregunta és si algú s'ofega molt, què és millor?
+Una mascareta d'alta concentració que dona el 80% però que la persona se la treu, o una Venturi que dona el 50% però que l'aguanta?
+Home, si se la treu no li servirà de res, evidentment. Per més alta concentració que hi hagi allà no ho sé.
+El seu és tenir la infermera allà barallant-se amb ell i anar-li fotent la mascareta tota l'estona, però això a vegades acaba malament, també, aquesta història.
+Llavors se t'encabronen encara més i... Aquestes són coses a tenir present.
+Quan parlem de ventilació mecànica hi ha un moment que haurem de decidir si és millor una ventilació mecànica no invasiva, la que toqui, o unes ulleres nasals del flux.
+Hi ha un moment que competeixen els dos, que això ho deixarem per quan parlem d'això, que aquí potser podríem fer una baralla de galls, agafar un que digui que l'ONAF mola molt i que l'altre...
+Que de fet no ho he dit, això de les ulleres nasals del flux, la abreviatura que he fet servir és ONAF, oxigen nasal del flux.
+En anglès és High Flow Nasal Cannula, HFNC.
+Però quan parlem d'això potser hauríem de buscar algú que digués... Una baralla. Jo ONAF i jo VNI, no invasiva. A veure qui guanya. En fi, ja està, vinga.
+Doncs fem-ho, fem-ho, fem-ho.
+Molt bé, Albert, molt interessant.
+Res, continuem. Amb què voleu que continuem? Amb les recomanacions?
+Home, toca el Menys és Més, Xavi.
+Ara el Menys és Més, eh? Ara vols que parli jo una estona?
+Oh, clar. Va, què tens de Menys és Més? Vinga, segur que tens alguna cosa.
+Aquesta vegada no parlarem d'un article del Journal of Hospital Medicine i ens anem directament a unes guies que són molt recomanables, perquè normalment, metodològicament, estan molt bé, que són les guies NICE.
+Són del Regne Unit. Hi ha la número 250, que parla sobre el diagnòstic i el maneig de la pneumònia. Aquesta està publicada al setembre de l'any 25.
+I concretament d'això, volia parlar de les indicacions de demanar estudis microbiològics a les pneumònies.
+Perquè, no sé vosaltres, però molt sovint ens trobem malalts que ens venen a visitar i tenen una pneumònia, doncs de vegades els demanem estudis, per exemple, de PCRs, i d'antígens en orina, i no sempre ho fem de forma correcta.
+Concretament, aquesta guia, aquestes guies són bastant llargues. Aquesta de la pneumònia són 60 pàgines.
+I dius que és la guia 250?
+Sí, és la NG 250.
+Ostres, espero que les antigues, o sigui, vagi sumant a l'antiga, perquè si no, 250 guies... Hòstia santa.
+La veritat és que no sé si en tenen 250 o les noves actualitzacions deuen sumar el número, no ho sé.
+La qüestió és que a urgències és que moltes vegades demanem, de vegades, moltes més coses de les que realment necessitem, o realment el resultat d'aquestes ens faran canviar el nostre diagnòstic,
+o el nostre tractament, o el pronòstic. És a dir, que ens farà canviar alguna cosa. Moltes vegades demanem coses perquè ho fem sistemàticament.
+I les iniciatives aquestes de Less is More i que facis les coses per algun motiu, per exemple, la iniciativa essencial de l'AQUAS, es tracta de recomanar deixar de fer coses, normalment, perquè no aporten valor, deixar-les de fer de forma sistemàtica.
+No ens confonguem, que nosaltres aquí diem ara, doncs no està recomanat això. No, no, el tema és que no està recomanat fer-ho de forma sistemàtica.
+Que en un pacient concret, individual, amb noms i cognoms, i amb els seus antecedents i el seu estat clínic actual, potser sí que a aquell malalt cal demanar-li uns antígens en orina per veure si és un pneumococ o és una legionel·la.
+Però, de forma sistemàtica, en les pneumònies de baixa gravetat, que pots definir-ho, per exemple, amb el CURB-65, els que tinguin una puntuació de 0 punts o 1 punt,
+són pneumònies de baixa gravetat, de bon pronòstic, de poca mortalitat, i que, en principi, si no hi ha cap altre motiu especial, sobretot, no sé, en temes socials o que no hi hagi recolzament, etc.,
+doncs són pneumònies que podrien fer el tractament ambulatori. Doncs en aquestes, no caldria, de forma sistemàtica, fer-los uns antígens en orina.
+Tampoc hauríem de fer-los un esput i fer un estudi microbiològic a l'esput, ni uns hemocultius
+si penses que és un CURB de 0 o d'1 punt, i que si no hi ha altra cosa, l'enviaràs a casa perquè faci el tractament antibiòtic a casa.
+En aquests, no ho hem de fer-ho.
+Sí que en els que són de gravetat moderada o alta, és a dir, en els que són d'un CURB-65 de 2 punts,
+que serien els que serien de tractament o d'observació unes hores, i després decidir si li dones l'alta o ingressa, o els que són ja d'un CURB de 3,
+que tenen una mortalitat considerable, que aquests són d'ingrés hospitalari, en aquests sí.
+En aquests sí que hauríem de fer uns antígens en orina, per veure si és un pneumococ, i després podem desescalar i fer servir un antibiòtic de menys ampli espectre,
+o si és una legionela, la recomanació d'aquesta guia és que els antígens de legionela els demanem només en les persones que tinguin risc de tindre una infecció per una legionela,
+que serien bàsicament els que estan exposats a aigües estancades, per lo que sigui, on visquin, o professionals que treballen amb sistemes d'aire condicionat i 8 hores al dia estan remenant no sé què d'aire condicionat,
+i aquests sí que són de risc de tindre una pneumònia per legionela, que són molt poc freqüents, però si és una pneumònia moderada o alta gravetat i treballa en això, per tant té risc d'infecció per legionela, en aquests sí que l'hauríem de demanar.
+Aquesta guia és molt més àmplia i t'explicarà moltes més coses, per exemple, de demanar els hemocultius en la pneumònia, a no ser que hi hagi algun altre motiu, doncs només quan pensis que aquell pacient amb una pneumònia té una sèpsia,
+si no, no t'ajudarà en res, o demanar un cultiu d'esput, si no és una pneumònia amb una gravetat moderada o greu, tampoc té molt de sentit, a no ser que hi hagi un altre motiu específic.
+En resum, el que volia ressaltar és això, que només en pneumònies de gravetat moderada o alta són en els que hem de demanar antígens urinaris de pneumococ i de legionela.
+Evidentment cadascú en el seu hospital o en el seu centre on treballi tindrà les seves guies de recomanació per la pneumònia, però bé, no està de més llegir-se o consultar aquestes guies NICE, perquè normalment, metodològicament, estan molt ben fetes.
+I això és el que volia comentar, Albert.
+Aquesta secció em fa mal sempre, perquè ara mateix la meitat dels protocols aquests de triatge avançat que fem a infermeria, perquè patates, cauen.
+Ja no dic protocol, eh, vull dir, però... Febre, al circuit llarg, entre algú a 38, cauen uns hemos. No sé si els tramitaré o no, però els hemos cauen.
+Clar, té molt a veure que les infermeres rebem ràpid els pacients i abans el metge no els ha vist passa molta estona. I tu els hi has fet moltes coses abans de forma autònoma.
+Sí, i vas fent feina per ja tindre-la feta i després poder anar més ràpid.
+Sí, i crec que és un problema, perquè llavors fas molta més feina i d'una banda sempre puc justificar i dir Bé, és que els metges m'ho demanen sempre, però és que no saps fins a quin punt a vegades t'ho demanen perquè ets tu que ho has fet.
+Sí, o perquè quan va el metge a visitar-lo, ja veu allà el pipí, ja veu els hemos i no sé què, i diu si tant a mà m'ho poses, jo ja sé que sistemàticament no vaig a demanar-ho, però és que sembla que gairebé sigui el destí que em faci demanar-lo, saps.
+I de vegades és difícil.
+Si a sobre li dius al resident Fes cas del que et digui la infermera sempre, tens un problema. Clar, si la infermera ha tret uns hemos, com no li demanaràs uns hemos?
+Sí, és com quan veus molt clar que a un pacient no li has de demanar un TAC, que en general per un TC o pel que sigui, clar, si després el company de feina o l'infermer o el pacient et diu I no li faríem un TAC?,
+tu ja saps que no li has de fer, però després has de lluitar contra... I dius Bé, va, no es morirà perquè li faci un TAC. Demanem no sé quants cada dia, això sí que és així, també, no?
+Una part és que com que si ho tenim tant a la mà i gairebé ja només falta fer un clic a l'ordinador per demanar uns antígens, dius Li demano.
+Si això ho apliquéssim amb totes les recomanacions aquestes de menys és més, podria ser que estalviaríem feines i al final del dia ens sobraria temps. No ho sé, però...
+Jo crec que temps ja trobarem una manera que ens omplim, però, hòstia, això... Passa sovint, eh?, quan fem aquesta secció i tu expliques coses...
+És un Uf... Llavors penso que hauria de barallar-me a casa meva per fer alguns canvis i se'm passa.
+Un dia hauríem de fer un cas clínic i dir Mira, a aquest no li farem una gasometria arterial perquè amb la venosa en tenim prou, a aquest no li posarem el paracetamol endovenós perquè oral li farà el mateix efecte i no li demanarem un pipí perquè els antígens ens és igual.
+I fem-ho tot així i aviam si som capaços de calcular l'estalvi de temps invertit per tothom.
+Ja no dic la despesa econòmica dels dispositius i mil històries de proves i no sé què, que potser també ens estalviaríem.
+Això que acabes de dir, ara que ja estem ensenyant a les noves generacions amb molta simulació,
+i no sé si us passa a vosaltres, però quan em toca anar a simulacions sempre penso, o sigui, a veure per on em sortiran, perquè sempre van a fotre't per la banda més complicada possible.
+Potser hauríem de fer-ho al revés, és a dir, aviam, aquesta radiografia què era? Una pneumonia vulgar. Doncs per què collons...
+Hauríem de fer simulacions al revés, de fer menys. Jo crec que ens explota el cervell.
+Home, si vas amb... No, anava a dir, si vas amb una...
+Sempre vas a la simulació pensant que se't pararà. El que no saps és quan, no? Si resulta que no es para i que resulta que és una urgència vulgar...
+Home, si és una bona simulació, està ben estructurada i pensada, no hauries de tindre la sensació tu de que t'estan intentant putejar o buscar les pessigolles o buscar-li tres pèls al gat.
+Perquè ja normalment, si no fas res, ja dona per molt per discutir-ho després i fer el debrífing i treure'm molt de suc sense buscar-hi complicacions, eh?
+Vull dir que de vegades la gent, si els vas a putejar, potser a la pròxima simulació diuen jo no vinc, saps?,
+perquè m'esteu posant aquí trampes que sembla això un escape room per putejar-me i tampoc és això.
+Apunta't una simulació d'això, de la pneumònia aquesta, persona que diu que s'ofega i a veure què tal. A veure, ja m'ho explicaràs, a veure com et van.
+Aviam quin dispositiu també d'oxigen li posem, no?
+Exacte, sí, sí. Segur que d'entrada li fotran una alta concentració.
+A veure què tal, Monaghan? Per què? Perquè sempre posem Monaghan.
+Perquè sempre estan fotuts. I de vegades no cal, tot el contrari. Molt bé.
+Perdó, un moment, un moment, deixa'm fer un parèntesi. De la Boussignac no ens has dit res, o no era el moment?
+No, perquè he cregut més oportú, com que té molt a veure amb pressió, he cregut més oportú parlar-ne quan parlem de ventilació mecànica, de ventilació mecànica no invasiva.
+Evidentment, la CPAP de Boussignac, que ara hi ha algun dispositiu nou que fa exactament el mateix, i bé, va una mica millor i tal.
+Clar, no és mecànic, però fa CPAP. I la CPAP és una cosa que s'entén molt millor quan parles de ventilació mecànica.
+Me'l guardo per parlar-vos d'aquesta CPAP de Boussignac, que també haig de dir que, ara no l'he vist aquí, al meu país, l'he vist al país del costat.
+Bé, també és el... Hosti, ara què acabo de dir? Ara em fotran a caldo els col·legues catalans que viuen a l'altra banda de la frontera ara em fotran un calbot.
+No passa res, no passa res.
+Va, canviem, anem a l'Urgemot, Xavi.
+UrgemMot? Sí, home, tu què tenies, Albert? Va, jo és que també en tinc...
+Jo tinc un dubte, tinc un dubte, i de fet és el dubte que he expressat al principi, perquè m'heu sentit parlar de flux i de cabal.
+Llavors, aviam. Jo he fet una traducció de l'anglès, i allà on en anglès deia flow, li he dit flux, i on deia flow rate, li he dit cabal.
+Quan vaig a les definicions del diccionari, la definició de flux, per l'excepció que crec que toca, és flux moviment incessant d'allò que es mou en una direcció concreta, posa exemples el flux de glaç, el flux d'aigua, del vent,
+i l'altra, que crec que és la que tocaria, potser, que és el moviment d'energia de partícules expressat habitualment per unitat d'àrea i de temps.
+Àrea i temps, temps sí que ho expresso, però àrea, no ho sé.
+A cabal, em diu, una de les accepcions que hi ha, és quantitat d'aigua que passa per la secció d'un riu o d'un canal per una unitat de temps.
+Llavors, aquí, necessitaria algun filòleg o algú que hi entengui que em digui, no, mira, aquí has de fer servir flux i aquí has de fer servir cabal.
+Perquè clar, segons això, si vaig estricte, no hi ha sistemes dalt flux, hi ha sistemes d'alt cabal, o de cabal elevat, si vols que quedi més maco.
+Però cabal, segons has llegit tu, només és de fluids, no?
+Bé, el gas és un fluid, vull dir que...
+El gas és un gas, no?
+No, no, no, és un fluid. Els fluids són gasos i líquids. Però estic aquí que no sé, algú d'aquests que ens escolta que la toqui, a veure què.
+Jo m'ho he resolt així, guaita. Allà on diu flow, n'he dit flux, i on diu flow rate, n'he dit cabal.
+Però se'm fa un garbuix al cervell de dir, bé, ara, què haig de dir? Clar, el que va a la paret té un nom que parla de cabal.
+Llavors, no ho sé, no ho sé, no ho sé. Oients, jo què sé, ajudeu-nos, dieu-nos alguna cosa d'això, a veure què us sembla.
+Ho haurem d'investigar, això, eh?
+La meva aportació de l'UrgemMot és un dubte. Veus que bé?
+En comptes de portar alguna informació, porto problemes. Quina novetat.
+Sempre donant feina.
+I què tens tu per l'UrgemMot?
+Jo t'he sentit diverses vegades que parlaves de fluxe.
+Ah!
+Espera. Que em pico la mà perquè...
+I per què parles de fluxe?
+Perquè m'he equivocat, bàsicament.
+Això ja ens en vas parlar tu, no recordo en quin episodi, però ens en vas parlar tu, i vas fer servir també una paraulota que ja no la fa servir ningú.
+De fluix.
+O sigui, fluxe, no.
+El que tu parlaves de les cànules d'alt flux és flux. F-L-U-X. Que es pronuncia flux.
+I el fluix és el fluix vaginal. Que no es diu fluxe ni no sé què, es diu fluix. Amb U-I-X.
+Però quan parlem de les cànules, o del flux inspiratori, expiratori, el flux forçat i tot això, és acabat amb U-X, que es pronuncia amb C-S.
+Flux. Res. Una parida, eh?
+I després, relacionat amb aquest tema... Ah, sí! També t'he sentit a dir, ho has dit de diverses maneres, però és la bomba d'oxigen.
+Les ampolles aquestes, els bidons d'oxigen que van amunt i avall i tal, són bombes. No són ni botelles, ni bales, ni tancs, ni bombones, ni biberons.
+Són les bombes d'oxigen.
+Això no ho podem dir quan vas amb avió, perquè potser t'empaperen.
+Exacte, sí, sí. Què més?
+La màscara Venturi... Jo diria que màscara amb reservori, que el Monaghan, bé, clar, Termcat, el concepte Monaghan, no el fa servir, sinó que et recomana que faci servir el nom de màscara amb reservori.
+Aquí no n'hem parlat, però ho hem dit diverses vegades, és el tema del respirador manual, que el que fem servir aquí és el de la marca comercial Ambu, que és un respirador manual.
+Hi ha un que no me'n recordo mai, és quan escoltes el pacient i sents sibilacions. En lloc de dir sibilàncies, n'hauríem de dir sibilacions, una sibilació.
+El dia que parlem de la ventilació mecànica, hi ha diferents termes que normalment els fem servir malament, i el que sí que has parlat del pulsioxímetre, en lloc del saturador o saturòmetre i tot això, que no són correctes,
+sinó que el terme més correcte segons el TermCat, a l'hora de parlar entre nosaltres, diem-ho com vulguem, però si ho estàs escrivint en algun lloc o t'interessa que quedi correcte, en lloc de saturador o saturòmetre, parlem de pulsioxímetre, i així ens quedarem més guai.
+I ja està, Albert, relacionat amb això...
+Molt bé. Va, anem a les recomanacions, Xavi.
+Llenço jo o llences tu?
+Llença tu.
+Llenço jo? Va.
+Ja sé que els blocs són d'una altra època, és de plistocè internetil, però jo tinc un bloc...
+Mira, fa unes setmanes vam parlar d'una cosa que ens havia fet un oient, que ens havia fet l'Octavi, allò de l'EmergencingAPP doncs aquest és un bloc d'una oient nostre, també.
+El bloc es diu UrgenteyCronico.com, és un bloc en castellà d'una metgessa jove, i, com tots els blocs, explica les seves coses...
+Hi ha coses de clínica que són rellevants, jo he pres coses allà, però hi ha una part que m'agrada molt, que és aquesta part holística que tant trobo a faltar últimament.
+Últimament no, sempre, però últimament potser m'adono més.
+De veure els pacients com aquestes coses tan d'infermera, de visió holística, de pacient, la relació de ajuda i tal, que la veritat és que cada vegada trobo més important.
+Té una entrada molt divertida, ara no fa massa, de la terapèutica tradicional d'una zona rural, que és interessant de llegir, perquè t'adones de com les persones ens comportem i ens relacionem amb la salut.
+I penso que això és rellevant, perquè ara moltes vegades tenim la sensació que nosaltres, com a professionals som els únics que tenim el coneixement, 
+i després t'adones que la gent es comporta com vol, no com tu creus que haurien de fer-ho.
+I tenir aquesta visió... Total, que us el llegiu perquè, si us agraden les coses superficials i els tiktoks de 30 segons, no cal.
+No cal que hi aneu perquè no us agradarà. Però si us agrada donar unes quantes voltes a la closca és interessant.
+Una de les entrades que vaig llegir em va fer pensar en una recomanació que vaig fer als principis, ja fa 4 anys, d'un llibre que es deia Being Mortal, de l'Attul Gawande, que parlava del procés de mort i de tal.
+Hòstia, i alguna de les entrades que té, que parla d'això, també vaig pensar uff, aquesta és interessant també.
+M'ha agradat molt. Em sembla que parlarem amb aquesta mossa perquè crec que té coses interessants a explicar-nos.
+Molt bé, fantàstic, vinga.
+I tu, Xavi, què tens?
+Mira, jo pel tema de feina, ara estic fent algunes coses amb intel·ligència artificial, aplicat a urgències.
+N'hi ha una que ja l'explicaré quan haguem començat, ja ho explicaré.
+Però bé, ara, suposo que sabeu que fins fa poc teníem una eina que utilitzava intel·ligència artificial, que era l'OpenEvidence, 
+que per temes de lleis de la Unió Europea d'intel·ligència artificial relacionada amb dispositius mèdics, doncs com que era un producte, si no m'equivoco, l'OpenEvidence americà, 
+doncs aquí a Europa som molt més restrictius i qualsevol cosa relacionada amb intel·ligència artificial i sanitat ha de complir dos milions de regulacions i de permisos i d'etiquetatges i d'històries, 
+doncs jo diria que a principis de mes de maig, quan obres la pàgina web d'OpenEvidence et diu que no hi tens accés si estàs entrant des de la Unió Europea, doncs no hi tens accés per la llei no sé quants.
+Xavi, al principi he dit que volia comentar una cosa de les recomanacions, és aquesta, justament, que l'OpenEvidence ha deixat de funcionar.
+Ah, d'acord.
+Aquí podríem discutir tota la qüestió ètica i legal que hi ha darrere d'això, perquè és interessant, però si no podeu viure sense l'OpenEvidence, hi ha una cosa que es diu VPN.
+Que es diu, perdona?
+VPN.
+Ah, sí, sí.
+També serveix per quan els del futbol donen pel cul, la Liga Profesional de Futbol no sé com ho aconsegueix, però aconsegueix que la meitat de l'internet d'Espanya, quan hi ha partits de futbol, se'n vagi a la merda.
+Doncs serveix per estalviar-te això.
+De VPN n'hi ha moltes, però hi ha una opció a nivell friqui elevat, que és fer servir la xarxa Tor.
+Si aneu amb mòbil hi ha una aplicació que es diu Orbot, i podeu fer servir un navegador que es diu Firefox Focus.
+La xarxa Tor és allò que no hi diu en la web fosca, doncs és això. No em pregunteu com és que ho sé, ja està.
+Ho pots fer servir. Vas via Orbot i Firefox Focus amb el mòbil, que segur per internet ho pots fer, però com que encara no m'he barallat gaire amb el meu Linux per fer-ho això...
+Però podries arribar a fer servir l'OpenEvidence als United States, eh? Que parla en català, això sí, però està als States.
+Ja està. Ens va avisar un oient d'això, que l'OpenEvidence no va, tens maneres de fer-ho.
+Amb una fots al Tebas, el de la Liga Profesional de Futbol, que això també sempre és un plus. Continua Xavi, explica'ns què tens tu que hagi d'anar millor que aquest trasto.
+No sabria dir-te si millor o no, però tenim vàries opcions.
+Jo avui només comentaria, un altre dia si voleu, fem un repàs de les vàries eines que tenim.
+Però és una eina que es diu Heidy Health, que és d'una empresa australiana, si no m'equivoco, i aquesta eina de fet no està pensada per donar informació per prendre decisions i tal en temes de medicina, eh?
+En temes de salut, sinó que està pensada inicialment pel tema d'escriba.
+Ara ja hi ha alguns llocs que ho fan, però d'aquí a quatre dies no escriurem els informes.
+No sé com, però els pacients ja donaran per donat el seu consentiment quan entren a un centre sanitari perquè una intel·ligència artificial capturi tot allò que ell diu i que el professional parlen,
+i tot allò, una intel·ligència artificial entrenada i que tu la podràs adaptar a les teves preferències i formes d'escriptura, 
+quan t'assentis a l'ordinador per escriure què li ha passat al malalt, des de quan, quina periodicitat, etc.
+Tot això que li has preguntat ja ho tindràs escrit.
+I a més a més, de forma correcta, ben estructurat, ben ordenat, i tu li podràs dir no, jo vull que ho escriguis en un format més, jo què sé, més acadèmic, i etc.
+I ho farà així sempre.
+L'únic que hauràs de fer és llegir, comprovar que allò sigui veraç i que sigui exactament el que has parlat amb el pacient, perquè és una intel·ligència i sempre pot al·lucinar, 
+i per tant mira-t'ho, repassa-t'ho, modifica el que calgui, però tindràs bastanta feina feta i al final aquestes màquines això ho fan millor que nosaltres.
+I a més a més, ho podran fer amb l'idioma que tu li diguis.
+Però bé, aquesta eina Heidi, a més d'aquesta funció de redactor, d'escriba, té una funció que ells en diuen evidència.
+És un buscador, igual que el que teníem en OpenEvidence, i tu allà li fas les teves preguntes com fas servir en un xat GPT, en un Gemini o en el que tu vulguis, 
+doncs li fas les preguntes com li faries a qualsevol persona, i ell et respon, la majoria de vegades et posa les referències bibliogràfiques, és a dir, no et respon i et diu creu-t'ho sí o sí, 
+sinó que et posa les referències bibliogràfiques que pots llegir i consultar, i que la majoria són referències bibliogràfiques europees o la majoria espanyoles.
+És a dir, preguntes sobre la pneumònia et dirà la Societat Espanyola de Pneumologia o la Guia Espanyola de no sé quants, i serà més centrat en el que aquí podem fer.
+Jo ho he provat, no intensament, però ho he provat força vegades i penso que és bastant comparable amb el que teníem en OpenEvidence.
+Ja has comprovat que les citacions aquestes que diu siguin de veritat o se les inventa?
+Sí, sí.
+Són de veritat, inventa poc aquest.
+Sí, sí, són de veritat, sí, sí.
+Evidentment, aquestes eines, sempre hi ha una versió gratuïta i una versió no sé què i una altra versió extra, plus no sé què.
+Aleshores, hi ha l'avantatge, almenys inicial, que per estudiants i per residents és gratuït la versió més bona. La pro no sé què, és gratuïta.
+Per tant, si la teva residència dura 4 anys o 5 anys, suposo que cada any els hauràs d'anar enviant un certificat conforme encara ets resident o encara ets estudiant i podràs fer servir la versió pro d'aquesta eina.
+Si no, hauràs de fer servir la versió menys pro, que no sé exactament ara les diferències que hi ha entre una i l'altra, però, bé, és una eina que pot substituir l'OpenEvidence 
+i sobretot pels residents, que anava molt bé i que ho fèiem servir força, penso que de forma bastant generalitzada.
+Jo els animo a tothom, eh?,
+i als estudiants en particular, que podran disposar de la versió pro, que es donin d'alta i que la facin servir i que ens diguin després quina impressió els ha donat, quins pros i quines limitacions,
+ que segurament en deu tenir, perquè una eina 100% perfecta amb això encara no la tenim, però, òbviament, si ens ajuden a poder fer una bona recomanació de coses molt bones i limitacions que té.
+I ja està, això, Albert, és el que volia comentar d'aquesta recomanació.
+La Heidi.
+Heidi Health.
+Bé, amb això de Heidi hi haurà uns quants jovenets que no sabran de qui estem parlant.
+És possible, és possible, sí.
+És d'una altra època, això.
+Hòstia, hòstia, Xavi, això em genera... Ja en vam parlar l'últim dia, n'haurem de parlar amb més intensitat, eh?,
+perquè... Quina por, quina por.
+D'aquestes eines, d'aquesta...
+Sí, sí, sí, sí.
+Bé, totes les tecnologies sempre han causat rebuig i por.
+Sí, sí, sí.
+L'escriptura, l'escriptura també és una tecnologia que va aparèixer... No feia falta, vull dir...
+Sí, sí, no sé quin filòsof grec deia que es perdria el coneixement perquè no es transmetria de veu.
+De totes maneres, ara que es diu això dels transcriptors, em sona que hi ha una empresa catalana que també té un programari de transcripció d'aquests.
+O sigui, això mateix, un transcriptor, mira, potser el podríem buscar i podríem demanar que ens ho expliquin. A veure si els torno a trobar.
+Però centrat en salut? En temes de... 
+Sí, sí. Quan has començat a explicar això de l'escriptura, dic, això és el mateix que feia aquesta empresa catalana.
+Com que aquí va tot tant de pressa, potser ja no hi són, potser els han comprat algú, no sé.
+Mira, a veure, ja els buscaré, a veure si els trobo i potser els podem contactar, que ens ho vinguin a explicar i que em convencin que els del Mossad no sabran quina pressió arterial tinc en repòs.
+O els antihipertensius que em prenc, o allò, que sé, coses d'aquestes.
+Et començaran a arribar notificacions. Mira quina pastilleta més interessant tenim ara.
+Sí, sí, exacte.
+Justament el que necessitava, justament el que necessitava. Com pot ser això?
+No ens tenen perfilats ni res aquests del... L'Instagram, l'Instagram que tenim del pòdcast, que ganes cap ni una, però has de ser-hi, perquè hi ha de ser, perquè si no la gent no s'assabenta del que dius i deixes de dir.
+Hòstia, els malparits...
+Ara últimament, com que un dia vaig posar el Gros India, l'equip bomberil del SEM, 
+que han afegit dos equips nous, que van amb infermera amb els bombers, doncs ara es té només fotre que sortir-me mandangues de bombers amunt i avall 
+per dos vídeos de bombers que he vist, de bombers fent coses d'això. Tinc una companya que ara ha començat allà, doncs em va fer gràcia i hòstia només fotre que sortir-me això, tu.
+Et tenen perfilat a més no poder.
+En fi, escolta'm, acabem aquí ja, perquè com sempre ens hem enrotllat com una persiana.
+Va, molt bé.
+Ens veiem el mes que ve, no?
+Ens seguim veient al Telegram i a les, aquestes xarxes socials, i si no, ens escoltem.
+Molt bé. Doncs apa, que vagi molt bé, a la propera.
+Apa, adeu siau.

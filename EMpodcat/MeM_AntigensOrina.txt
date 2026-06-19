@@ -1,0 +1,25 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat.
+Al Menys és Més d'aquest episodi número 56 de l'EMPodCat volem parlar de les indicacions d'estudis microbiològics en les pneumònies adquirides en la comunitat.
+I per això ens basarem en les guies NICE, concretament amb la guia NICE 250 publicada el setembre del 2025.
+Què ens diuen aquestes guies?
+Ens guien, des del punt de vista de l'estudi microbiològic, concretament volem centrar-nos en la sol·licitud d'antígens en orina.
+Ens diuen que en les pneumònies de baixa gravetat, que podrien ser per exemple els CURB-65 de 0 o 1 punt,
+en aquests no s'ha de fer cap tipus d'estudi microbiològic de forma sistemàtica, de forma rutinària, a diferència de les pneumònies de gravetat moderada o alta.
+Sempre estem parlant en adults.
+En moderada o alta, és a dir CURB 2, 3, 4 o 5, en aquests sí que hauríem de fer estudis microbiològics, en concret els antígens en orina.
+Hauríem de demanar l'antígen del pneumococ i el de la legionel·la.
+El del pneumococ, en cas que ens surti positiu, seria fiable perquè és una prova molt específica.
+Aleshores el que podríem fer és reduir l'espectre d'antibiòtics.
+Si havíem iniciat un tractament combinat amb un betalactàmic i un macròlid,
+podrem treure el macròlid i deixar només el betalactàmic, per exemple la ceftriaxona.
+En cas que els antígens siguin negatius, sabem que és una prova poc sensible.
+És a dir que un negatiu no ens descarta que el pacient realment tingui una pneumònia per un pneumococ.
+Per tant, hem de continuar amb el tractament combinat, d'ampli espectre.
+Els antígens en orina de la legionel·la, aquesta guia 250 de la NICE,
+ens recomana que només s'ha de sol·licitar en persones que tenen factors de risc d'infecció per la legionel·la, ja que és una infecció relativament infreqüent.
+I això són pacients que tenen exposició important a aigües estancades o exposició constant, que deu ser laboral, a sistemes d'aire condicionat.
+En aquests casos, demanar els antígens en orina.
+I, si ens surt positiu, el que hauríem de fer és treure o ja no posar d'entrada la combinació del betalactàmic amb el macròlid,
+sinó que hauríem de fer servir una quinolona, com per exemple la levofloxacina.
+El mateix és el que hauríem de fer amb la resta d'estudis microbiològics, per exemple els cultius de l'esput o els hemocultius.
+Bàsicament això és el que volem comentar en aquesta Menys és Més de l'episodi 56.
