@@ -1,0 +1,24 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat
+En aquest Menys és Més de l'episodi de 57 de l'EMPodCat parlarem d'un tema de seguretat del pacient realment sorprenent.
+Està inspirat amb la sèrie Things We Do For No Reason del Journal of Hospital Medicine publicat a l'octubre del 24.
+Parlem d'infeccions nosocomials de les IRAS, però d'aquelles infeccions en les quals el vector són els nostres propis registres mèdics,
+les notes d'evolució, els informes d'alta, el redactat i les notes que fem a triatge.
+Tots aquests documents contenen virus que s'encomanen, que es transmeten entre línies.
+A causa de la pressió assistencial i de les presses sovint busquem dreceres mentals, les heurístiques.
+En comptes d'escriure de forma objectiva la realitat d'una persona, ho reduïm a una etiqueta.
+Etiquetem molt fàcilment. Parlo de l'ús inconscient de les paraules estigmatitzants, paraules despectives o paraules esbiaixades.
+El gran perill és que tot queda escrit i es transmet al següent professional de la cadena i el biaix es manté actiu fins que el pacient se'n va cap a casa.
+Pensem, per exemple, quantes vegades escrivim al principi d'un document o a l'hora de fer una transferència d'un pacient,
+diem pacient diabètic o pacient esquizofrènic o pacient sense llar, com a primera presentació del pacient encara que no tingui res a veure amb el motiu de consulta.
+O, per exemple, diem que és un mal complidor o que té mala adherència sense descriure de forma objectiva les causes reals del seu poc seguiment de les indicacions mèdiques.
+O el clàssic que nega dolor o nega tòxics o nega al·lèrgies.
+El negar sembla un atestat policial més que no pas una entrevista clínica i això genera escepticisme inconscient en el qui ho llegeix.
+Tot això activa en el nostre cervell de forma inconscient un biaix, un biaix de confirmació i un efecte halo.
+Si la nota de triatge ja ens prejutja el pacient, només buscarem i recordarem aquella informació que ens confirmi aquesta etiqueta i això crea una profecia auto-complerta.
+Tot això té un impacte clínic real.
+Hi ha estudis que demostren que, davant d'un mateix cas, si l'informe és estigmatitzant,
+els professionals prenen pitjors decisions, com ara prescriure menys analgèsia per al dolor.
+A més, redueix l'empatia del professional que rep el pacient perquè recorden pitjor les seves dades clíniques rellevants.
+Llegiu entre línies els informes, les notes, els cursos clínics que teniu a la història clínica informatitzada
+i veureu la gran presència d'aquest llenguatge estigmatitzant que de forma inconscient ens condiciona.
+Ho desenvoluparem una miqueta més en l'episodi 57 de l'EMPodCat.

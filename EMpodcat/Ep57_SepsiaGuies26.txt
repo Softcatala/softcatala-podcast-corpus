@@ -1,0 +1,635 @@
+EMPodCat, el pòdcast d'Urgències i Emergències Mèdiques en català.
+Hola, bon dia, bona nit, segons correspongui, benvinguts a l'episodi 57 de l'EMPodCat, el pòdcast d'urgències i emergències mèdiques en català o en valencià, depèn de qui ens acompanyi.
+Avui, per variar, no serem els dos pesats habituals, sí que tenim en Xavi aquí a l'Empordà, m'has dit que se us fotrà foc aviat, no?
+Bé, avui, hola, bon dia a tothom, eh? Sí, fa dies que fa molta calor, com a tot arreu de per aquí, i avui fa especialment bastant de vent, i són dues característiques que acompanyen el foc.
+Si hi ha calor, hi ha vent i hi ha sequera, hi ha perill, però bé, esperem que no passi res, va
+La regla dels 30, més de 30 graus, més de 30 km per hora i menys de 30% d'humiditat.
+Exacte, perill, perill
+I jo, ja em coneixeu, soc l'Albert Homs, estic aquí a Cerdanya, que fa calor però si t'amagues del sol encara es pot viure.
+Ja ho sabeu, jo tinc un blog que es diu emermedpirineus.cat o .eu, en Xavi és l'autor del blog urgem.cat
+Però avui nosaltres venim aquí a escoltar i aprendre, perquè ens acompanya...
+Us en recordeu que a l'últim episodi vaig fer una recomanació d'un blog, que si no m'equivoco us deia delourgenteylocronico.com
+Doncs bé, vam parlar amb la seva autora i resulta que ens vol venir a explicar coses que a més a més són interessants i actualitat.
+Ella és l'Adriana Delgado. Hola Adriana, bon dia.
+Bon dia a tots, jo soc Adriana, soc metgessa d'urgències en l'Hospital Lluís Alcanyís de Xàtiva.
+O sea que mos baixem un poquet al sud, a València. I res, avui vinc d'invitada.
+Per fi, per fi sortim de Catalunya, que ja era hora. Jo estic molt content que se'ns escolti més enllà del Principat.
+I em consta que se'ns escolta de bastants llocs també, tot sigui dit. I ens agrada que hagis vingut.
+De què ens vols parlar avui Adriana?
+Jo havia pensat parlar sobre la sèpsia, ja que fa poquet, crec que el maig o el març, no me'n recorde,
+varen eixir les noves guies del Surviving Sepsis 2026
+I crec que és un tema d'actualitat, Perquè al final, qui no té en una guàrdia a un pacient amb una sèpsia xocat o amb una infecció greu?
+Jo crec que podem aprendre moltes cosetes de les noves guies.
+Creus que han canviat moltes coses de les anteriors?
+Doncs han canviat cosetes. Sobretot perquè ara tot és una medicina molt més personalitzada, on aquestes regles tan estanques han canviat un poquet.
+Perquè al final els nostres clients cada vegada són més majors i possiblement les mesures que estàvem fent tan estrictes podien no ser tan beneficioses per a ells.
+Sobretot en el tema de la fluïdoteràpia.
+Molt bé, molt bé, t'escoltem, t'escoltem
+Havia pensat parlar sobre la sèpsia perquè al final és una de les principals causes de mortalitat hospitalària a nivell mundial.
+Aproximadament 11 milions de morts a l'any, un 20% de les morts mundials.
+Estem parlant d'un nombre prou greu de morts per a aquesta causa.
+En el context en els serveis d'urgències, veiem que el 15 o el 20% de tots els pacients que estem atenent en els nostres serveis presenten malalties infeccioses.
+I a Espanya, en tot el territori, la sèpsia presenta una incidència elevada, sobretot en grups vulnerables com pacients ancians...
+Aquí ja tenim el debat de que considerem ancià, però ja se considera major de 65 anys
+En pacients institucionalitzats o amb multimorbiditat crònica o en immunodeprimits o en risc de patògens multiresistents.
+S'estima també que quan un pacient té sèpsia hi ha un risc de mortalitat major del 10% en aquests casos.
+I que s'incrementa quasi més d'un 40% en casos de xoc sèptic.
+Més enllà de la mortalitat aguda, la sèpsia també és responsable de seqüeles significatives a llarg termini.
+Tots aquests pacients que poden sobreviure a aquest procés desenvolupen problemes nous o empitjorament dels previs en les esferes físiques, cognitives i mentals
+Per la qual cosa és important ser conscient de la necessitat d'una detecció precoç per a minimitzar el dany orgànic inicial.
+La qüestió és: tots tenim clar el que és una sèpsia? Vosaltres teniu clar el que és la definició, el consens que hi ha actualment?
+L'actual no ho sé, ha canviat no sé quantes vegades, i al final, el que la gent entén quan li dius sèpsia és una infecció de la sang.
+Això seria una bacterièmia
+Perquè això ha anat canviant, ara com ho tenim? Perquè jo no me'n recordo això com anava.
+La primera definició moderna que es proposa en el 92, es descrivia com una resposta inflamatòria excessiva davant d'una infecció,
+identificada mitjançant la presència d'una síndrome de resposta inflamatòria sistèmica, el famós SIRS que a lo millor és lo que estudiàrem tots en aquell moment.
+Aquest síndrome es defineix per una presència d'almenys dos de les alteracions següents:
+una temperatura corporal major de 38 graus o menor de 36, freqüència cardíaca major de 90, freqüència respiratòria major de 20,
+una pressió parcial de CO2 menor de 32, una leucocitosi per damunt de 12.000 o menor de 4.000, que seria una leucopènia, o més del 10% de cèl·lules immadures.
+Això va canviar en el 2016 mitjançant un consens internacional per a la sèpsia i el xoc sèptic,
+que es va anomenar aquest consens Sepsis-3, on es va reconceptualitzar la definició de sèpsia sense incloure el SIRS.
+Això del SIRS era un rotllo perquè freqüència respiratòria... Bé, d'entrada que la freqüència respiratòria la meitat de les vegades és inventada.
+Però després és que freqüència per sobre de 20, si mires això tothom té SIRS positiu al final, de normal podem estar sobre...
+En fi, però el SIRS el vaig trobar que quan el van treure vaig pensar al·leluia, al·leluia.
+A més la freqüència respiratòria moltes vegades no s'ha agafat des de triatge.
+Moltes vegades no estem al minut sencer mesurar-la quan estem explorant els pacients.
+Però és que a més pot ser un signe que no només siga per una infecció. Per això el reconeixement precoç de la sèpsia és un desafiament.
+perquè les manifestacions clíniques són molt heterogènies i té una evolució dinàmica i pot presentar-se amb símptomes inicials molt subtils
+i que al final no són exclusius d'aquesta patologia i en pacients que porten molts medicaments poden estar emmascarats per beta-blocadors per exemple o els antipirètics.
+Al final la freqüència respiratòria jo crec que és un dels signes que explorem que té molta importància. Però no és única. I per lo que dius és això,
+que al final dins d'aquesta síndrome poden entrar molts pacients que no tenen una sèpsia.
+Finalment la sèpsia s'ha de considerar en qualsevol pacient amb una infecció greu o una disfunció orgànica aguda
+quan l'etiologia no està totalment clara, moltes vegades que comencen amb símptomes molt inespecífics
+i conforme va evolucionant a l'observació de la urgència podem posar-li aquest cognom.
+Els estudis mostren que els pacients tractats de manera adequada quan tenim una sospita de sèpsia disminuïa la mortalitat en un nombre important.
+Si es tractava adequadament durant la primera hora sobrevivien un 80% dels casos.
+Aleshores en les guies de 2026 se reafirmen una altra vegada les definicions del concepte de Sepsis-3
+que en aquest concepte es diu que és una disfunció orgànica potencialment mortal causada per una resposta desregulada de l'obste a una infecció
+i clínicament s'identifica per un increment de l'escala SOFA per dos punts respecte al valor basal del pacient.
+Al final aquesta resposta inflamatòria és anòmala de l'organisme i és un problema perquè els microorganismes
+que produeixen aquesta infecció poden alliberar endotoxines, mediadors de resposta immunològica que generem nosaltres com a propi hoste o altres substàncies que produeixen danys cel·lular.
+I això es tradueix en alteracions de vies no immunològiques i afectació a nivell cardiovascular, neuronal, hormonal, metabòlica o coagulació.
+Sé que això és com un poquet massa tècnic i vaig a explicar-lo un poquet el que és l'escala SOFA.
+Al final la sospita se confirmarà de forma analítica durant l'exploració.
+Però bàsicament tindrem un SOFA alterat quan neurològicament tenim un Glasgow disminuït, un pacient que està agitat, amb somnolència, amb confusió.
+Quan parlàvem també del tema respiratori tant en la freqüència respiratòria, com en la necessitat de pujar el flux d'oxigen perquè cau la PAFI o la SAFI.
+A nivell cardiovascular amb una hipotensió arterial amb necessitat de fluids.
+Quan fem una analítica veurem que n'hi ha començaments d'alteracions hematològiques, renals o hepàtiques,
+amb plaquetopènia, pujada de la creatinina o caiguda de la diüresi i elevació de la bilirubina.
+Això seria la sèpsia, quan s'alterem en més de dos punts en estes escales en tot el que he dit.
+Però parlarem de xoc sèptic quan s'identifica la sèpsia, però amb una necessitat de vasopressors per a mantenir una pressió arterial mitjana
+superior a uns 65 mmHg i un nivell de lactat sèric que és major de 2, malgrat una reanimació adequada.
+També una de les coses que m'ha paregut prou interessant és saber que el principal focus d'infecció, en la majoria dels casos de sèpsia en Espanya, és pulmonar
+Dins de tots els casos de sèpsia, un 40-60% dels casos va ser per a aquest focus.
+El abdominal suposa un 15-30%, les infeccions urinàries, que al final pareix que siguen la majoria dels casos, és realment baixa, un 15-30%.
+I ja en torrent sanguini o pell o teixits tous disminueix prou. Només en un 60-70% s'identifica el patogen moltes vegades no arribem a saber que microorganisme ha causat aquesta infecció.
+Una pregunta, Adriana. Del lactat que has dit, era més superior a dos?
+Dos. Nosaltres ho mesurem en mil·limols. Se pot mesurar també en mil·ligrams, que s'ha de fer la conversió.
+Crec que dos suposa més de divuit mil·ligrams, si no m'equivoque. Vosaltres com ho mesureu, en mil·limols o per...?
+Hòstia, no t'ho sabria dir, jo...
+A mi em sona que és mil·limols per litre, perquè... Un lactat per sobre de dos.
+Sí, per mi un lactat per sobre de dos és patològic, ara no sé... No me'n recordo ara de les unitats.
+Doncs serà això
+Doncs, quan tenim un lactat superior a dos i una pressió arterial mitjana menor de seixanta-cinc, malgrat aquesta reanimació hídrica, pues estem davant d'un xoc sèptic.
+Amb això que ens has comentat Adriana, això del SOFA i això del xoc sèptic, necessites tenir una analítica.
+Exacte.
+Per això és important fer el cribratge, que el cribratge en aquestes guies ja parla de fer-ho de forma prehospitalària, que és un dels canvis, a diferència de les guies de dos mil vint-i-u.
+Vosaltres, possiblement, igual que tots, utilitzàveu el qSOFA, que mirava la freqüència respiratòria major a vint-i-dos, l'alteració mental i la tensió arterial menor de cent.
+Això és una ferramenta de cribratge molt ràpida que no necessitava cap analítica.
+Això ens venia a substituir el SIRS, que el SIRS, tothom era SIRS positiu. I, clar, aquí el qSOFA et demana alteració mental, a més a més de la hipotensió.
+Això, desgraciadament per al que ja se s'ho savia, ha canviat. Ara el qSOFA s'ha desterrat.
+Aquest per l'altra banda, no? Perquè hi havia massa sèpsies amb el qSOFA negatiu.
+Exactament, perquè això no vol dir que si tens un qSOFA ho deixes aparcat, perquè és molt específic però poc sensible.
+Aleshores, aquesta baixa sensibilitat va fer que es perderen casos precoços, detectant pacients massa tard.
+És a dir, si un qSOFA és positiu, és un signe d'alarma.
+Però un qSOFA negatiu no significa que aquest pacient no tinga una sèpsia, sinó que hem d'utilitzar altres eines per assegurar-nos que el pacient no està sèptic.
+N'hi han eines estandarditzades d'avaluació de cribratge per fer un codi sèpsia.
+Encara està el SIRS, el qSOFA se deixa però amb el puntet eixe que no és massa sensible, i lo que se recomana és el NEWS 2.
+Que és el National Early Warning Score 2, que és actualment una de les eines més recomanades.
+Aquesta escala es diu així perquè té una part on inclou les saturacions específiques per als pacients amb MPOC o amb una insuficiència respiratòria hipercàpnica.
+Aleshores, si tens un pacient amb una malaltia d'aquestes característiques, hauràs d'anar-te'n a les escales, que només són paràmetres clínics d'exploració i de monitoratge molt bàsic.
+A l'apartat on està la saturació d'aquestes persones.
+Adriana, això estàs parlant tant de com extrahospitalària com a nivell de triatge hospitalari? En els dos llocs ho recomanen, el NEWS 2?
+Sí, se recomanen els dos nivells.
+De fet, ja parlen de fer com se fa ja en el codi IAM o en el codi ICTUS, fer el codi sèpsia i avisar a nivell prehospitalari que tens un pacient amb una sospita d'una sèpsia.
+I ara parlaré d'això perquè em va paréixer prou interessant aquesta proposta, perquè també mos canviaria moltíssim lo que fem en les avançades a nivell medicalitzat,
+perquè ja mos obris la porta a inclús posar des de fora de l'hospital la primera tanda d'antibiòtics.
+També una de les coses que és nova és que davant d'aquest cribratge se categoritzen les sospites d'una forma gradual.
+Al final, conforme crec que avança tota la medicina, cada vegada és més difícil dir que una malaltia és sí o no.
+Aleshores, en l'actualització de dos mil vint-i-sis s'abandona l'enfocament dicotòmic en aquesta avaluació inicial.
+En el seu lloc s'introdueix una estratificació de la probabilitat clínica que guia l'agressivitat del tractament inicial.
+Podem tindre en un extrem una sèpsia definitiva on ja se confirma mitjançant història, examen físic i proves diagnòstiques, inclús les de prehospitalària quan tenim gasòmetres ràpids, on també tenim un diagnòstic alternatiu molt improbable,
+a la sèpsia improbable, que seria l'altre extrem, on l'avaluació no és compatible amb una sèpsia i n'hi han diagnòstics alternatius més probables.
+Entremig, en l'escala dels grisos, tenim la sèpsia probable, on hi ha una alta sospita clínica i el diagnòstic alternatiu és menys probable
+i la sèpsia possible on la sospita és moderada, però que n'hi han altres diagnòstics igual de probables.
+I en base a això s'ajusta la intensitat de la ressuscitació i la rapidesa dels antibiòtics,
+perquè si tenim una sèpsia definitiva o un xoc sèptic, la finestra d'antibioteràpia seria d'una hora enfront a les tres hores en sèpsia probable o sèpsia possible.
+Així que al final la sèpsia és un diagnòstic clínic, que no s'ha de confirmar ni descartar basant-se únicament en un biomarcador, i encara així hem de demanar-los per a guiar-nos i recolzar-nos en ells.
+Això seria, per exemple, a nivell prehospitalari, quan tenim un pacient amb un xoc sèptic i pensem que el trasllat va ser superior a una hora,
+ja està recomanat en les guies començar amb l'antibiòtic, encara que no agafem hemocultius,
+perquè sabem que quan més ràpid establim l'antibiòtic i, òbviament, la ressuscitació amb fluids, menys risc té aquest pacient de tindre complicacions posteriors.
+I especifiquen aquest temps d'una hora o...? Ho especifiquen aquests seixanta minuts?
+Encara està el concepte de l'hora daurada, igual que se fa en l'hora del trauma.
+On sí que quan és un xoc sèptic i una sèpsia definitiva sí que se recomana fer l'ús de l'antibiòtic si anem a tardar més d'una hora en traslladar el pacient a un lloc on se li puga posar aquest antibiòtic.
+És veritat que on jo treballe on no hi ha tanta dispersió, possiblement no siga lo més indicat en este cas perquè tenim més possibilitat de agafar els hemocultius i que siguen més rentables
+o posar l'antibiòtic més específic per aquest pacient, perquè al final no podem tindre a l'ambulància o en els centres d'atenció continuada tots els antibiòtics disponibles que tenim a l'hospital.
+Sí, sí, jo pensant aquí, almenys a la zona que jo conec, home més d'una hora se'm fa difícil pensar, tot i que nosaltres tenim isòcrones molt llargues, una hora per arribar a l'hospital crec que no tardem mai.
+Una altra cosa és que quan el pacient arribi a l'hospital, entre triatge, entre que el poses al box corresponent, el metge tarda hem d'anar-lo a veure, no sé què, no sé quants,
+després es tardarà una hora o dos hores en començar l'antibiòtic. Això ja és una altra història.
+Ho has dit molt bé, Xavi. Moltes d'aquestes coses que fan les grans societats científiques, si obvien les societats mèdiques d'urgències, passarà això.
+És a dir, assumeixen que la gent entra per la porta i és atesa immediatament, i no tenen en compte que de tant en tant ens passa que la gent arriba i els veiem de seguida,
+Però el més habitual són cues. Hi ha molts llocs on hi ha cues d'ambulàncies amb hores per descarregar. Llavors sí que passen hores abans no se'ls hi fa el tractament.
+Aquí potser hauríem de canviar, en comptes de dir trasllat, dir si el temps d'arribar a l'atenció hospitalària...
+Podria ser com amb el codi IAM, no? Que a lo millor el temps d'assistència fins a l'agulla. O sigui, si es compten els temps reals fins que et posen l'antibiòtic, fantàstic.
+La part interessant d'això és aquesta estratificació que comentaves, Adriana, m'ha agradat, per què aquestes guies que hi havia fins ara com molt categòriques.
+Supercategòriques, una hora, en tots.
+Tens o no tens, i havies de complir i llavors hi arribarem quan parlem de la fluïdoteràpia, que hi havia gent que havia assumit això ja no només a nivell de mesura de qualitat, sinó a nivell d'incentiu econòmic.
+Si el teu centre no administra l'antibiòtic abans de la hora o no fas trenta o el que siguin mil litres de fluïdoteràpia, et cascaven.
+Amb el que anaven els antibiòtics sense pensar i el fluid a pinyó fixe per tothom.
+I ara el fet aquest que tinc temps, i aquest que no està xocat, però sé que necessito antibiòtic, puc pensar quin antibiòtic li poso i igual no la cago fent un antibiòtic que no tocava.
+Perquè si poses l'antibiòtic en menys d'una hora i és un antibiòtic que no serveix, pues no hem fotut res tampoc.
+Clar, a més, ara que tenim un problema molt important amb el tema de les resistències antimicrobianes.
+Si estem cascant antibiòtics a tota la gent, quan no la necessita o que no compleix el filtre necessari per aquestes característiques de pacient i has de repetir l'antibioteràpia canviant-ho per un altre, i la despesa de temps i també de diners.
+O sigui que quan ara visitem un pacient i pensem que té una infecció greu, hem de posar-hi el cognom de definitiu, probable o possible, eh?
+O sèpsia sense cognom, perquè com se codifiquen per el CIM10, jo crec que encara això no estarà.
+Però sí que és veritat que a nivell de comunicació entre professionals, jo crec que és important dir-ho, perquè a més, estos pacients sabeu que evolucionen molt ràpid i tenen canvis dinàmics en qüestió d'hores.
+I saber el que tu sospites i que ara no pareix i després sí, també és important l'evolució del malalt.
+Sí, sí.
+També és veritat que com és un diagnòstic clínic, que també fem ús de biomarcadors conforme van eixint les analítiques, podem guiar-nos, per exemple, lo que parlàvem del lactat.
+Al final, si ho mesurem dins de la primera hora com a marcador d'hipoperfusió i gravetat, sabem que un valor major de dos indica risc,
+que no és que el confirme, perquè n'hi ha molts pacients que estan hipoperfosos, per el motiu que siga, i poden tenir un lactat superior.
+En canvi, si ja tenim un pacient amb una alta sospita i, a més està per damunt de quatre, sabem ja que és un alt risc.
+I també aquestes guies mos indiquen que el lactat es vaja mesurant aproximadament cada dues hores, sobretot quan posem un tractament per a veure com avança aquest aclariment en les mesures de reanimació.
+Un altre dels biomarcadors prínceps que crec que demanem tots quan tenim una sospita d'una sèpsia és la procalcitonina.
+Se suggerix l'ús per a orientar la probabilitat de bacterièmia, però no mos marca l'ús d'antibioteràpia o no.
+És a dir, mos ajuda a la presa de decisions, però no és tampoc una ferramenta per a dir que este pacient, si té una procalcitonina negativa,
+no ha de prendre antibiòtic, perquè sabem, a més, que molts dels marcadors també són dinàmics i comencen a les vint-i-quatre o quaranta-vuit hores de l'inici de la malaltia.
+Però sí que mos guia, per exemple, quan podem desescalar aquest tractament antibiòtic, inclús passar-ho a oral.
+Dins de la sèpsia, si voleu, podem parlar del tractament antibiòtic, perquè n'hi ha cosetes noves que a mi m'han paregut molt interessants.
+Lo de la regla d'una hora versus la de tres hores en el xoc present o la sèpsia prou probable o definitiva és el que comentàvem, idealment en menys d'una hora i si el trasllat prehospitalari tardarà més de seixanta minuts.
+Se recomana la primera dosi de càrrega.
+Tornar a recordar que la primera dosi de càrrega de qualsevol antibiòtic no fa falta ajustar-la a filtrat renal.
+Se posa una dosi completa, inclús n'hi han alguns estudis que diuen que no fa falta ajustar-lo en les primeres vint-i-quatre o quaranta-vuit hores.
+En la sèpsia possible sense xoc sí que se permet una avaluació ràpida de fins a tres hores per a confirmar la infecció i valorar si necessita antibioteràpia i evitar el sobretractament.
+Una de les cosetes que m'ha sorprès és que parla d'una infusió prolongada.
+La majoria dels antibiòtics que nosaltres posem són en bolus. Vosaltres heu fet ús de la infusió prolongada?
+No, habitualment no. No, no, no.
+No, i em temo que les infermeres odiarem profundament això.
+Perquè, és clar, ara era penjar una bosseta, en el pitjor dels casos, que durés una hora, ara ja hauràs d'anar amb bomba amb tothom.
+Les bombes ens ajuden, però donen pel sac el que no està escrit, també.
+Sí, però farem com fem tots, que és apagar l'alarma quan no sabem per què pita.
+Sempre és la bombolla d'aire.
+Sempre, sempre.
+Doncs ací comenten que la infusió prolongada és una recomanació forta, sobretot de betalactàmics, després d'una dosi de càrrega,
+perquè al final, en estos pacients amb sèpsia, els paràmetres farmacocinètics canvien dràsticament per la hipoperfusió, l'augment de volum de distribució i l'aclariment renal augmentat.
+Aleshores, moltes vegades en aquestos antibiòtics que es posen en bolus apleguen a nivells subterapèutics i necessitem que justament aquestos pacients apleguen a una concentració mínima inhibitòria adequada
+i sobretot en aquells antibiòtics que tenen una vida mitjana curta com pot ser el pipertazo que utilitzem tots o els carbapenems.
+És una evidència alta, recomanació forta.
+Aquí si ho he entès bé, primer fas la dosi de càrrega, que segurament serà en un bosseta diluït o com toqui, i després començaràs amb la infusió.
+Si tinguéssim un sistema d'aquests meravellosos, tot alineat, ja no hauries de començar la infusió prolongada tu, sinó que ho faria el destí del pacient.
+Que sabem que de seguida anirà a planta i de seguida anirà a la UCI i tot això.
+Sí, quan se fan totes aquestes guies que els hospitals treballen súper ràpid. Tipus the PITT, no?
+Que apleguen i en menys d'una hora ja l'ha vist l'intensivista, ja l'han posat la derivació, doncs igual.
+I especifiquen cada antibiòtic quina velocitat o en quant de temps s'ha de fer l'administració perllongada o no ho especifiquen a la guia?
+No me ho he revisat totalment. Parlen dels betalactàmics en general i sobretot els de vida mitjana curta, però no me'ls he revisat un a un.
+Segurament en les guies MENSA d'aquest any, quan isquen les noves, ho posarà.
+Perquè imagine que cadascun tindrà la seva velocitat d'infusió específica i segurament jo crec que s'hauran d'ajustar segons la hipoperfusió del pacient.
+Estic veient els equips PROA de tots els llocs ara mateix, tots a mirar una altra vegada, a veure què toca canviar després d'aquestes guies.
+També parlen, per exemple, d'una cobertura personalitzada en aquests antibiòtics.
+Perquè no s'ha d'usar una cobertura rutinària per a microorganismes multiresistents o anaerobis si el risc és baix.
+I mos hem de guiar, com fem els urinocultius, en les colonitzacions prèvies i en la sospita del focus.
+Dins del que és la decisió dels antimicrobians, hi ha com tres filtres que hem de valorar.
+Per exemple, si tenim una sospita de bacteris multiresistents.
+Pacients que han sigut hospitalitzats recentment, on tenen cultius positius per a BLEE, SARM, pseudomones.
+En aquells pacients que tenen un entorn sanitari crònic, pacients institucionalitzats en residències o en hemodiàlisi, quan porten dispositius invasius o una immunosupressió severa.
+Això seria un filtre.
+Una altra seria la sospita de bacteris anaeròbics, que habitualment és quan hi ha un focus intraabdominal quan hi ha una perforació, quan tenim infeccions ginecològiques com una EPI,
+infecció de parts toves profundes, per exemple una gangrena de Fournier o una fascitis necrotitzant,
+quan tenim un focus a nivell d'orofaringe, o n'hi han signes clínics suggerents tipus, fa un olor pútrid, hi ha necrosi o hi aa gas en el lloc de la infecció.
+I la candidiasi invasiva, que seria lo més rar de fer aquesta cobertura, seria en els pacients també amb perforació gastrointestinal, quan porten nutrició parenteral total en este moment o prèviament fa unes setmanes,
+quan porten dispositius invasius com el PICC o altres tipus d'accessos venosos centrals.
+Immunosupressió severa o una neutropènia molt marcada o, per exemple, l'ús molt prolongat d'antibiòtics d'ampli espectre o quan han estat en intensius prèviament.
+És que no és tan fàcil col·locar una primera tanda d'antibiòtics correctament dins d'aquesta primera hora si hem d'entendre que s'han de fer aquests filtres i adequar-ho al pacient.
+Per això jo crec que al final si tenim una sospita i tenim tres hores per a poder revisar els cultius, per a poder preguntar bé a l'entorn d'aquest pacient, dels antecedents,
+jo crec que mos dona eixa capacitat de repensar millor el tractament.
+Necessitarem aquestes tres hores, eh? Perquè si... I necessitem que no entri cap pacient més mentre fem tot això, perquè ...
+Sí, sí, és que jo veig això i estic veient... Clar, si és el teu client que entra a reanimació i et quedaràs amb ell encadenat durant una hora, totes aquestes coses sonen bé,
+però com tinguis els tres-cents milions d'interrupcions que us fem als metges contínuament,
+aquí has de decidir quin antibiòtic poses basant-te en una pila d'opcions que al final acabarem tots en pipertazos per tothom i avall, que és el que n'hauríem de fer justament, no?
+Clar, aquestes guies al final són situacions ideals fetes per societats científiques.
+Moltes vegades jo crec que des de, no vaig a dir la comoditat, però segurament des de la tranquil·litat d'estar en una planta o des de microbiologia i no des de l'entorn on rebem aquests pacients,
+que són les urgències on hem d'estar en aquests pacients i en quaranta més i que no tens accés a la història clínica d'aquest pacient.
+N'hi ha moltes coses a tindre en compte que en una situació ideal podríem fer, però la realitat és una altra.
+Lo que passa és que tot lo que puguem fer més ajustat a aquesta guia clínica serà millor per al pacient.
+Això ja, doncs s'ha d'individualitzar prou.
+Que aquí, ara perquè estem parlant del tema de l'elecció de l'antibiòtic, però clar, previ a això hi ha una cosa molt infermeril, que és treure els hemocultius.
+Exacte.
+Que això també té les seves complexitats, és a dir, hemocultius sempre són dos, un anaeròbic i un aeròbic, i això es considera un hemocultiu.
+Dos hemocultius vol dir dos parells.
+I a sobre dos llocs diferents, és a dir, ja estem jugant a punxar dues vegades al pacient, que això encara és acceptable si el pacient té vies dignes, però cada vegada més tenim pacients amb pitjor accés venós.
+Sí, posem com més pedretes al camí per a fer bé el treball, sí.
+Lo dels hemocultius, a més, ho comenten sempre, que és idealment es treure abans de l'antibioteràpia, però sense que aquesta feina feta endarrereixi l'administració de l'antibiòtic.
+Encara que realment no n'hi ha una evidència de quin és el moment ideal per a fer-ho, no?
+Perquè sempre parlen lo de no, ha de ser sempre quan hi ha febre.
+I és una pregunta que em vaig fer i, per exemple, en el Previd que recomanàveu vosaltres, si tenim, per exemple, una sospita d'una bacterièmia contínua, com pot ser una endocarditis,
+tant fa el moment que tu extraguis els hemocultius, no fa falta tindre una febre en aquell moment. Si és una bacterièmia intermitent, s'aprofitarà el moment de calfred.
+Però no fa falta sempre que siga clarament en la febre, perquè recordem que molts dels nostres clients que són malalts, immunosupressos o són molt majors, moltes vegades no fan febre.
+O porten de forma crònica, paracetamol, per lo que és molt difícil encertar aquell moment.
+Aleshores sí que diu que és més eficient en el moment de la febre o el calfred, però que si no apareix aquest moment, dins de la primera hora o lo més ràpid possible s'han d'extraure.
+Suposo que l'ideal seria sempre abans de començar l'antibiòtic tingui o no tingui febre, si tu identifiques com una sèpsia probable o el que sigui,
+si li has de posar antibiòtic abans treure els hemocultius, tingui o no tingui febre.
+A més, en els estudis que es van fer a Espanya per el tema dels hemocultius, bé, això és una cosa també que se podria revisar més a nivell d'urgències,
+el tema de quants hemocultius realment són positius i la qualitat d'aquestos també.
+Per a reforçar el que deia Albert, fer bé la tècnica, buscar bé el moment i mos sorprendria veure la quantitat de bons cultius que agafem des d'urgències, no n'hi han tants negatius.
+Crec recordar, bé, al meu hospital es mira això i es deu mirar tots els hospitals, eh? I crec recordar que un dels llocs on hi havia menys contaminació era urgències.
+I a lo millor és on hi ha més pressió assistencial i se'n fan més, però crec recordar que és un dels llocs de l'hospital on ho fèiem millor perquè hi havia menys hemocultius contaminats.
+I no som especialment nets tampoc, eh?
+I no som... No, però a lo millor esteu més avesats i teniu més mà que no pas a planta que potser no en fan tants, jo que sé, eh?
+Jo crec que hi juga també el fet que la majoria són puncions netes. Perdó, netes... noves.
+Els nostres clients acostumen a venir sense catèters i, per tant, la temptació del segon hemocultiu, treure'l de la via existent, ja no la tens, perquè d'on el trauràs si no en té. El posaràs tu.
+Això és veritat.
+També és important, això no ho posa la guia, però he vist prou casos i em pareix interessant comentar-ho,
+perquè un hemocultiu positiu en quadres infecciosos, on és molt difícil categoritzar el microorganisme que l'està provocant,
+aquest hemocultiu te dona moltes pistes per a tractar complicacions com abscessos a distància en base a aquestes proves.
+Una altra de les coses que també parla la guia, que ja sabíem, era lo del control del focus.
+Si tenim un focus identificat, com pot ser lo dels abscessos, s'ha de drenar lo més prompte possible, igual que el desbridament de teixits necròtics o retirada de catèters.
+Si tenim un catèter infectat, no podem tindre el pacient vint-i-quatre hores sense extreure-lo.
+Se recomana lo més prompte possible, idealment dins de les primeres sis hores, perquè això al final si tenim un dispositiu que ha fet biofilm o alguna complicació local,
+per molt d'antibiòtic que fiquem, no resoldrem el quadre.
+Això sona molt fàcil, això del control del focus, però sobretot en el tema abdominal hi ha molta resistència.
+A vegades tinc la sensació que costa molt que obrin i treguin. Costa, eh?
+Ara vull un... saps? vas veient i dius ostres, ja sé que a les dues del matí no és hora d'entrar al quiròfan, ja ho sé,  però llavors això va contra el control del focus i ja la liem.
+Això suposo que a la torre d'ivori, on vint-i-quatre hores al dia es fa de tot, que no existeix enlloc, però ens ho creurem, no és tan molest, però en els llocs petitets, això no és un drama, eh?
+Jo no sé de què parles, Albert. Això deu passar només a les teves contrades, eh? Però a la resta de llocs...
+No passa, oi?
+No passa, eh? No ho sé, no sé.
+El pacient que se queda vint-i-quatre horetes en observació a veure si màgicament la colecistitis se cura amb antibiòtic.
+Aquest, aquest...
+Si es refreda, no? Vejam que es refredi. La crioteràpia de la colecistitis, sí.
+Que es refredi, exacte. Sí, sí, ho deixarem refredar.
+Va, vaig a parlar de la fluïdoteràpia, que també és una de les cosetes que ens ha canviat en esta guia.
+Vosaltres quants fluids li poseu a un pacient? A ojímetro?
+Els que necessiti.
+Una frase que tampoc s'havia sentit mai, aquesta, eh?
+Cinc-cents que passin ràpid, no?
+Sí, tu dius que hem de personalitzar i individualitzar cada pacient en funció de mil paràmetres. Per això dic que cada pacient el que necessiti.
+Que són els cinc-cents de pressa d'entrada i després els segons cinc-cents... Merda, i ara què faig?
+Els cinc-cents, clar, sempre sense pensar.
+Va, tornes a demanar cinc-cents més i anem fent així fins que la cosa va fatal.
+Per aquest motiu, encara que teníem la referència de trenta mil·lilitres quilo de pes ideal, és a dir, si tenim un pacient molt obès, no el calcularem en base al seu pes actual, sinó el que seria aproximadament l'ideal,
+ en tres hores i s'utilitzen, ara com a preferència, els cristal·loides balancejats. El Ringer, amb preferència sobre fisiològic.
+Però no és una regla totalment rígida, perquè en aquells pacients amb una malaltia renal crònica o una malaltia cardíaca, tenim risc de fer una sobrecàrrega hídrica.
+Podem utilitzar el monitoratge hemodinàmic no invasiu juntament amb l'ecografia. Vosaltres utilitzeu sistemes de monitoratge hemodinàmic com el Cheetah?
+El Cheetah Starling és el que jo he fet ús, que n'hi ha en el meu hospital, que és  tecnologia de bio-reactància.
+No, nosaltres no ho fem servir això, no sé, no sé què...
+Jo és la primera vegada que ho sento.
+No?
+Explica'ns això, explica'ns això que no sé què és.
+Aquest sistema al final lo que fa és mirar les resistències perifèriques per a mirar si aquestos pacients admeten més fluïdoteràpia o no.
+També quan fem ecografia que n'hi han protocols específics, lo típic de mirar la vena cava inferior, si admet més perquè la cava està pletòrica o buida,
+mos dóna molta informació sobre la quantitat de líquids que necessita el pacient, igual que, per exemple, utilitzar l'ecografia pulmonar per a mirar si hi ha començament d'edema intersticial i mirar si mos hem passat.
+I també mos ajuda a lo millor per a mirar si en el cas de... Sobretot pacients que tenen malalties de cor necessiten inotròpics.
+Aquí quan parlen de guiar-ho per ecografia, es parla d'allò que surt a tot arreu que no fa ningú aixecar les cames, el test d'aixecament de cames, el de mesurar...?
+Sí, s'utilitza això d'aixecar les cames i se posen els elèctrodes, aleshores se fa una diferència del pacient en decúbit i en elevar les cames,
+i això mos ajuda un poquet a mesurar si aquest pacient permet ficar més fluids o no. Això se fa amb el monitoratge hemodinàmic.
+M'ha vingut al cap, hi ha un... Estic fent una recomanació fora de les recomanacions, però vaja.
+Hi ha un paio, l'Scott Weingart, que té un pòdcast súper conegut, que és l'EMCrit, que té un episodi que justament parla de control hemodinàmic de la reposició de fluids,
+i ell parla de, ja no és si ho necessita, si el pacient ho tolera o no.
+I aquest, el test aquest d'aixecar les cames, com que és una càrrega de volum sense fer-l'hi, és útil per això, si aixeques les cames i no va bé, no n'hi has de posar més.
+Jo no ho he fet mai perquè només de veure logísticament el que suposa en un pacient que està justet.
+El dispositiu que nosaltres tenim és com una baldeta on poses les cames i amb els elèctrodes se pugen les cames i això t'ho calcula tot, és molt ràpid.
+Això la màquina aquesta de bioimpedància que et deies, eh?
+Sí, en cinc, deu minuts ho tens tot fet i això és cada vegada que li poses els fluids tornes a fer-ho.
+Una altra forma, que jo també ho he fet, per a mirar la congestió del pacient és el protocol VExUS, però això sí que és més rotllo.
+Has de mirar la perfusió renal, la perfusió hepàtica i de la vena cava inferior per a mirar si aquest pacient està en sobrecàrrega de fluids, fer les ones...
+Això és un poquet més complicat que a lo millor sí que ho fa més des d'intensius.
+Però si n'hi haguera temps i més formació, també és una de les coses que se pot fer per mirar, no només en pacients d'aquestes característiques, sinó, per exemple,
+en aquests pacients que tenen una semiologia congestiva, que clarament no té edemes en les cames i vols mirar si efectivament està congestiu, una de les coses que se fa és això, el protocol VExUS.
+A banda de lo dels fluids, quan ja hem fet tot això i veiem que possiblement ja no li podem posar més fluids, perquè mos estem passant,
+no va aclarint el lactat i continuem en pressions per sota dels seixanta, seixanta-cinc mil·límetres de pressió arterial mitja, ja se recomanen els vasopressors perifèrics començant des de via perifèrica.
+No hem d'esperar-nos a col·locar una via central.
+Seria l'ideal utilitzar-lo des d'una via central perquè tots sabem que els vasopressors, sobretot no l'adrenalina quan s'extravasa fa una necrosi horrible del teixit,
+però ja des de fa uns anys se comença en aquesta via perifèrica que pots estar fins a, aproximadament, unes sis horetes fins a passar una central i mentre això ja va fent camí.
+L'elecció continua sent com a vasopressor la noradrenalina, i se pot afegir la vasopressina si mos quedem curts.
+De vasopressina en teniu, vosaltres?
+Jo no l'he fet.
+De vasopressina?
+Jo mai. Sempre, quan no hem arribat amb la noradrenalina, normalment ja hem cridat a intensius.
+Jo no l'he fet ús, també és veritat que no porto molts anys treballant, però desconec si si n'hi ha al meu servei, la veritat.
+Nosaltres no en disposem.
+Deixa'm fer un comentari sobre la nora perifèrica. Ha sortit ja alguna cosa escrita, això potser algun dia en podríem parlar, perquè és un tema en ell mateix.
+Això que deies de la via perifèrica per la Nora, es parla que si la via és digna, i digna vol dir d'un calibre raonable proximal a l'avantbraç, que inclou la sofraja, podries arribar a estar fins a dos dies tirant per aquí.
+Però la via ha de ser digna i s'ha de revisar. Hi ha lletra petita, eh?
+Diuen que això no ho pots fer de qualsevol manera, que has de tenir un protocol... Per començar, ho podem fer servir, que és una de les coses que feia molta por.
+I crec que això ja està superadíssim.
+Recordo algun cas d'una via merdosa a les mans, no amb Nora, sinó amb isoprenalina i compte. Però clar, és perquè la via és una via merdosa.
+I si comences per una via merdosa, és objectiu vital aconseguir una via digna perquè les vies merdoses acaben donant problemes al final. Perdó, perdó, ja he fet el comentari infermeril.
+Nosaltres des que hem rebut moltes vegades bombes de dobutamina o noradrenalina des del SAMU. Utilitzen les vies en flexura habitualment sense cap problema
+i jo en estos cinc anys no he vist mai cap extravasació ni cap complicació.
+I és veritat que si tinguem més temps, una de les competències dels metges i infermeres d'urgències és canalitzar una via central, però com tenim tant de treball, és molt difícil poder fer-ho amb tranquil·litat,
+i al final crec que passa amb molts dels serveis que t'esperes que Intensius baixe per a fer aquest canvi.
+D'igual manera, comencen a parlar en aquestes guies de la hipotensió permissiva. Lo que deia Xavi de, lo que el pacient necessite.
+És a dir, en pacients majors de seixanta-cinc anys, que per a les guies ja són ancians, no fa falta que siguen els seixanta-cinc mil·límetres de mercuri com a PAM ideal.
+Inclús rebaixa a seixanta. Mentre tinga una bona perfusió distal i una bona diüresi, i més o menys aplega aquesta PAM, se considera correcta.
+I també és molt interessant que la monitorització d'aquesta reanimació hemodinàmica, a banda de tots els catxarros tecnològics com el Cheetah Starling o fer l'ús del lactat,
+m'ha fet molta gràcia que lo que ha quedat per damunt de tot ha sigut el temps de replenament capil·lar, que al final és la prova tan barata com prémer el ditet i veure quant de temps tarda en posar-se roig.
+Que lo ideal és que siga menor de tres segons.
+Jo sí que utilitzava prou el de la Mottling Score com a guia de reanimació, mirant sobretot en els genolls, que és lo típic,
+com amb la utilització de fluids o de vasopressors, aquestes livideses típiques van desapareguent, és molt visual.
+Jo l'he fet servir molt, de fet, els tècnics amb els que treballo se'n riuen sempre de mi perquè tal qual venen al triatge amb la llitera amb el pacient els hi arremango sempre el pantaló i els hi miro el genoll a veure què.
+És que és molt important o agafar els polsos o mirar la fredor de les extremitats.
+És veritat que nosaltres en adults no fem tant d'ús com el triangle d'avaluació pediàtrica que fan els pediatres que només amb la visualització del pacient, ja pots fer-te una idea de si el pacient està greu o no.
+I també esbrinar un poquet, pel costat del que està alterat, quina és probablement la disfunció que està empitjorant el pacient.
+Però és veritat que només en agafar quatre cosetes, lo que dèiem de si està taquipnèic o si té mala coloració en la pell, et dona informació que aquest pacient no saps què li passa, però probablement estiga greu.
+Està bé mirar-se els pacients i parlar amb ells. Dona molta informació.
+Dona molta informació, no? Preguntar.
+Que fort, eh? Bé, i tocar-los, tocar-los, valga'm Déu. Terrible, terrible.
+Sí, sí, és curiós, no? Jo també soc la boja d'agafar els polsos a tots els pacients. Te lleves prou sorpreses, eh?
+Quan toqueteges tant, sempre m'emporto alguna cosa.
+I per acabar un poquet dels pilars de la reanimació en la sèpsia, vaig a parlar del suport respiratori.
+L'ONAF, que és l'oxigen nasal del flux, està ja en primera línia com a teràpia d'elecció en la insuficiència respiratòria hipoxèmica quan hi ha una sèpsia,
+enfront de l'oxigenoteràpia convencional o inclús la ventilació mecànica no invasiva, quan necessitem, per exemple, una saturació entre noranta i noranta-cinc en els pacients que no siguen hipercàpnics.
+Una altra de les cosetes que també parla, que se suggereix com un assaig en pacients no intubats, on a lo millor per l'estat del pacient, o a lo millor perquè no és un pacient clarament intensivable,
+on no anem a intubar-los i se posa més malaltet, és fer la progressió a un prono despert, posar-los gitats cap a baix per a millorar un poquet la ventilació.
+Això amb ventilació mecànica o...?
+No intubats, normal.
+Normal, eh?
+Està allí com a recomanació, com a assaig. No n'hi ha una recomanació forta, però sí que s'anomena.
+Això amb la covid va passar, clar. Si no els podies intubar, l'únic que et quedava era pronar-los com poguessis. I mira, no devia anar tan malament si ara ho recomanen.
+Ara, que hòstia, a nivell de cures d'això, poden acabar... Home, els que dormin panxa a terra potser no tant, oi?
+Però als que els hi costa dormir panxa a terra... Hòstia com els hi diguis que s'han de girar, pot ser...
+És que clar, depèn del pacient que tingues. Si tens un pacient que està sèptic, agitat, no sé qui podrà tindre aquest pacient en un prono despert.
+Però bé, la recomanació està i jo vos la compte. Lo que cadascú vulga fer en el seu hospital o puga. Sí que seria interessant saber si algú li funciona.
+També una de les cosetes que comenten com a adjuvants, per exemple el control de les glucèmies, igual que en l'ictus,
+si tenim glucèmies per damunt de cent vuitanta en més de dues determinacions, s'ha de controlar en insulina ràpida perquè empitjoraren l'estat del malalt.
+I una de les cosetes que també s'ha de tindre en compte, no només en aquests pacients, sinó en molts dels pacients que ingressem,
+és la necessitat o no de fer una cobertura per a evitar la malaltia tromboembòlica venosa durant l'ingrés,
+perquè al final si són pacients que no se van a menejar i n'hi ha un alt risc de fer algun trombe a les cames o a nivell pulmonar, no està de més passar una escala tipus la Pàdua.
+Jo la passe a tots els pacients que ingressen habitualment per a mirar si té criteris de fer una profilaxi amb heparina de baix pes molecular.
+Adriana, no ens has dit res dels corticoides.
+Això és perquè només se suggerix ara en el xoc sèptic quan requereixen persistentment vasopressors. Segurament aquests pacients ja no els tinguem en urgències.
+Estos pacients que necessiten vasopressors de forma mantinguda durant més de vint-i-quatre o quaranta-vuit hores,
+pel risc de fer una fallada suprarenal, lo que se recomana és posar-hi hidrocortisona, dos-cents mil·ligrams dia.
+Això es va reduir de forma escalonada. Això ho veuran més els companys que estiguen en intensius.
+És que no sabia si la nova guia era de posar-ho ja més abans, com qualsevol pacient que estigui xocat o així, iniciar-ho molt abans els corticoides o no?
+De forma inicial no.
+També han posat com teràpies desaconsellades lo de l'ús de vitamina C, els probiòtics o inclús els antipirètics com a finalitat de millorar el pronòstic,
+és a dir, posar un paracetamol, un metamizole o qualsevol altre medicament.  Per a millorar el pronòstic no s'aconsella.
+Sí que s'ha de tindre en compte quan són pacients neurocrítics on saps que n'hi ha un risc de convulsió, en estos casos sí.
+Però com única mesura de pronòstic no, però sí que s'ha de tindre en compte que si tenim un pacient amb trenta-vuit graus de febre i està molt molest, doncs sí que posarem teràpia perquè estiga millor.
+Sí, sí, vam fer un Menys és Més.
+El vaig escoltar.
+Que de fet, això que dius tu, eh? Que si està dormint tranquil·lament que no cal despertar-lo per posar-li un antipirètic endovenós.
+Després, ja quan acaba tot el procés de sèpsia, que rarament ho veurem des d'urgències, però s'hauria de fer una des-ressuscitació activa on se retiren fluids i diürètics.
+Se fa una retirada i se posen els diürètics per evitar les complicacions per l'edematització d'aquests pacients.
+També és veritat que entra la figura dels metges generals en el cas de de la resta del món, els metges de família i atenció primària en el nostre entorn,
+on la síndrome de post-sèpsia al final no és només durant l'estada en l'hospital, sinó que al final les seqüeles físiques, cognitives, inclús emocionals, s'allargen molt en el temps
+i el paper del metge o metgessa de família en la conciliació d'aquesta medicació a l'alta, perquè aquests pacients moltes vegades s'emporten a casa una caterva de medicació que poquet a poquet s'ha d'anar retirant,
+ja siguen l'heparina, els IBP, medicació per al dolor, moltes coses que poquet a poquet s'han d'anar conciliant.
+o inclús si aquestos pacients desgraciadament per l'ús de vasopressors, han fet necrosis distals, pues a acompanyar-los en aquests processos, doncs la figura del metge capçalera ja entra dins de les guies.
+I jo crec que ja. Teniu alguna cosa per a comentar o algun dubte que vos puga resoldre?
+A mi m'agrada que hagin tret lo de la quantitat de líquids en el període de temps, que abans era... Bé, m'agrada, tot i que a nosaltres ens afectava, però en els països, en els països no, Estats Units,
+això ha sortit unes quantes vegades després d'aquestes guies, allà si no complies els vint mil·lilitres quilo hora en la primera hora, et penalitzaven.
+Llavors anava tot Déu a carretades de d'aigua. Clar, ara això s'ha...
+Personalitzat.
+Exacte, s'ha tornat menys rígid, amb el que espero que gran part de les problemàtiques que hi ha hagut per culpa d'això.
+Embassar als pacients.
+Exacte, no? Com ho deia allò? És a dir, si les recomanacions s'acaben convertint en requeriments, doncs clar, això malament, no? I aquí m'agrada que s'hagi com flexibilitzat això.
+I el reompliment capil·lar, això és fantàstic, home, fantàstic. Això sí que, hòstia, ens haurem de mirar la clientela, per favor.
+Tocar una altra vegada al pacient.
+Jo m'ha agradat el tema de la procalcitonina.
+Perquè és un marcador que crec que li hem donat massa importància i una utilitat que realment crec que no té i en fem un excessivament ús.
+I si tu ens dius que les guies tampoc és que ho posin com un paràmetre que ens ajudi molt a decidir si posem antibiòtic o no posem antibiòtic, inicialment, eh?
+Ni de si està infectat o no està infectat i tot això. Me sembla interessant, perquè si seguim les guies aquestes farem un millor ús d'aquest marcador, està bé.
+A més és que inclús en pacients pediàtrics, per exemple, els nivells de procalcitonina són totalment diferents als dels adults.
+Un xiquet pot tenir una procalcitonina de vuit, deu, i no ser clarament una malaltia bacteriana.
+Inclús les procalcitonines més altes que he vist han sigut en xiquets de cinquanta o al revés, en pacients que estan molt malaltets, veure al principi una analítica absolutament normal.
+I dir, aquest pacient està sèptic, però encara no ha donat la cara perquè porta poquetes hores. I el vaig a deixar unes horetes així en observació i vaig repetir el control.
+I és que a les vint-i-quatre quaranta-vuit hores dona ja l'esclafit, i eixe pacient sí que estava malaltet. I és això, en la clínica, no?
+Veus el pacient que està taquipnèic, amb mala coloració... Que te diu alguna cosa que eixe pacient no està bé i és veritat que els marcadors estan molt bé per a guiar-te quan vas molt perduda,
+però si tu tens una sospita i els marcadors no encara no han donat la cara, jo crec que i a més t'ho diuen les guies, estan molt bé per a guiar-te en la desescalada, però no per a començar o no un tractament.
+Jo ara mirant he pensat que una cosa que no els hi agradarà als gestors és això que la ONAF vagi tan bé.
+Perquè l'ONAF val una pasta gansa comparat amb qualsevol altre dispositiu d'oxigenació, que en vam parlar en l'episodi passat, si us en recordeu.
+Doncs molt bé, moltes gràcies Adriana. Si et vols quedar ara tenim altres seccions, que ja coneixes perquè ens escoltes.
+Sí.
+Ara toca el menys és més, que em sembla Xavi que t'havies preparat alguna cosa.
+El menys és més per aquest episodi és un tema de seguretat del pacient. Us sorprendria saber d'on surt això.
+És d'una revista que es diu Journal of Hospital Medicine.
+De la sèrie que fan ells Things we do for no reason, és a dir, les coses que fem sense que realment tingui una utilitat fer-les de forma sistemàtica.
+Aleshores, en aquest tema concret parla de les infeccions relacionades amb l'assistència sanitària.
+I ara us sorprendrà perquè us explico primer el vector d'aquesta infecció, d'aquestes IRAS, el vector és més ni menys que els registres mèdics.
+És a dir, tots els informes que firmem, totes les notes que escrivim i tots els cursos clínics que podem escriure en la història clínica informatitzada del pacient contenen virus
+i aquests microorganismes no són habituals, no els veiem, però estan allà entre línies i és l'ús que es fa del llenguatge que és estigmatitzant o despectiu o esbiaixat i que prejutgen els pacients.
+Aleshores això es transmet de forma molt fàcil, perquè tot lo que queda escrit ja des de que el pacient entra a triatge, des de que algú escriu alguna cosa en el curs clínic, algú fa un informe, etcètera.
+Tot això queda escrit, i si el llenguatge que s'ha fet servir per descriure les característiques del pacient té aquest aspecte així despectiu, estigmatitzant o esbiaixat, això té conseqüències.
+No sé si abans s'havia estudiat, però ara ja es comença a estudiar.
+I fa que es transmeti, és a dir, jo si escric alguna cosa, com que després del pacient faré una transferència amb un altre professional o algun altre llegirà el que jo he escrit,
+doncs si jo m'he esbiaixat o he escrit entre línies alguna cosa que no és del tot objectiva per aquell pacient, doncs aquest biaix es mantindrà i es transmet fins que el pacient se'n vagi cap a casa seva.
+I això està demostrat que altera les nostres conductes, les nostres decisions i afecta la qualitat assistencial.
+Hi ha estudis en què es comparen diferents tipus de informes i amb uns es pren unes decisions i si els informes estan escrits de forma més correcta, les decisions són diferents.
+Això per què passa?
+Pot passar perquè aquest llenguatge que fem servir algunes vegades és un recurs que fem servir perquè treballem en un ambient on hi ha molta pressió assistencial, hem d'anar ràpid
+i enlloc d'escriure les coses com són, que necessitaríem vàries paraules, ho resumim amb una sola paraula, és a dir, fem una drecera mental.
+Una heurística que en diem, ara us posaré uns exemples perquè sapiguem de què estem parlant, eh?
+I a més a més, això ho anem aprenent d'uns professionals a uns altres.
+Vull dir, tu quan fas la residència o quan estàs en formació, veus com els teus mestres fan els informes i volent o no volent, copies la forma de fer-ho.
+Aleshores, crec que és una cosa que s'ha anat adquirint des de sempre.
+Abans els informes mèdics potser no estaven escrits pensant en que el pacient s'ho llegiria.
+Però ara ja des de que fa temps, aquí a Catalunya, crec que és des del dos mil quinze que tenen accés a la Meva Salut, i a través de la Meva Salut poden llegir qualsevol informe mèdic, inclús analítiques.
+I per tant, moltes de les coses que s'escriuen, ara el pacient hi té més accés i no només per això, però sí que és important que escrivim bé els informes.
+Per exemple, coses que fem per anar més ràpid i que pot ser perjudicial.
+Etiquetar els pacients en funció de la seva malaltia, i només per aquest motiu, és a dir, quan tu dius un pacient diabètic, un pacient esquizofrènic, un pacient asmàtic, el pacient és moltes més coses que la seva malaltia.
+Això sembla que sigui una ximpleria, però no, perquè si això ho comences escrivint a l'informe pacient esquizofrènic i resulta que potser ve perquè té un dolor toràcic i té una síndrome coronària aguda,
+l'estàs etiquetant d'alguna forma que no és correcte i el pròxim professional que vingui a llegir aquell informe se centrarà en aquest primer diagnòstic,
+no, diagnòstic no, etiqueta que tu li has posat en el pacient, i no se centrarà en lo que realment és important.
+Per tant, intentem utilitzar un llenguatge que posi la persona, les característiques de la persona, per sobre de les condicions o de les malalties que pugui tindre el pacient.
+Per exemple, això és molt evident en pacients que utilitzen drogues o tenen addiccions, toxicomanies, etcètera.
+En lloc de definir-los com un pacient addicte, drogoaddicte... Doncs posar que és una persona que té un trastorn per consum de substàncies,
+és a dir, enlloc de reduir-ho tot amb una paraula i amb una etiqueta, ja sé que costa més i hem d'utilitzar alguna paraula més, però l'objectiu seria definir-ho de la forma més objectiva possible.
+El pacient que no té adherència al tractament, que no és complidor, que ve moltes vegades al servei d'urgències, en lloc de dir que no és complidor,
+dir que té dificultats per seguir el tractament per la causa que sigui, perquè no tolera a nivell digestiu, perquè no té recursos, perquè viu sol i no pot anar a comprar, etcètera.
+No etiquetar-lo dient mal compliment o mala adherència, perquè el que vingui després de nosaltres sigui una setmana, un mes o un any, i llegeixi això, els seus diagnòstics i els seus tractaments que faci estaran condicionats.
+I com així podríem dir moltes altres exemples, eh?
+Per exemple, hi ha un que és molt evident, és quan preguntem per al·lèrgies i tòxics o antecedents, moltes vegades posem que ho nega.
+Hàbits tòxics, nega o niega. Aquesta expressió l'entenem totes, però és una cosa molt judicial.
+Si tu poses niega, entreveus que dubtes del que t'està dient el pacient i hi poses un punt d'escepticisme.
+Implica una manca de credibilitat en el pacient. I això et recorda temes policials. En lloc de fer una entrevista clínica, sembla ben bé un atestat judicial o policial.
+Aleshores, en lloc de dir que el pacient nega tenir dolor, poses que el pacient no té dolor o refereix que no té dolor.
+O en temes d'alcohol, drogues, etcètera.  En lloc de dir que nega que consumeix alcohol, el pacient informa o refereix que no consumeix substàncies.
+Semblen petits canvis, però que inconscientment, si ho llegeixes això, pots emportar-te'n algun prejudici en el pacient.
+Tots aquests prejudicis, el teu cervell, quan els llegeix entre línies, es produeixen una sèrie de biaixos.
+Primer tenim un biaix de confirmació, és a dir, que si tu ja saps que el pacient és mal complidor, que no segueix les recomanacions que se li ha donat prèviament,
+el teu cervell fa aquest biaix de confirmació i només buscarà, interpretarà i recordarà aquella informació que confirmi la primera creença o el primer que jo he sabut del pacient.
+Després ja et poden ensenyar mil coses i dir-te que el pacient és així i aixà, però si tu, d'entrada, ja t'has fet la idea que el pacient no segueix les recomanacions, és difícil sortir d'aquí.
+I aquesta situació afecta un altre biaix, que és el de l'efecte halo, i és, diguéssim, com la primera impressió.
+Quan tu llegeixes un informe i en les primeres frases ja et fas una impressió general del pacient.
+Si d'entrada te diuen a l'informe que el pacient té poca higiene, després ja et poden explicar mil coses que el teu cervell ja s'ha creat un halo sobre aquella pacient 
+que difícilment podràs controlar a no ser que siguis conscient de que això existeix. 
+Aleshores, amb aquesta informació, amb aquesta intoxicació per utilitzar llenguatge i etiquetes en els pacients, les expectatives que ens fem els professionals canvien.
+I si canvien, canvien també la nostra actitud i les nostres decisions.
+Això el pacient també ho pot percebre, i el fet que ho percebi també pot fer que les seves respostes encara siguin diferents a les que serien de forma espontània.
+I això es crea finalment l'efecte Pigmalió, l'efecte de la profecia auto-complerta, que evidentment si el pacient ja d'entrada ja saps que no farà el tractament, que no sé què, que no sé quants, i altres coses que has prejutjat,
+finalment acabarà passant allò, perquè volent o no volent, ja es van creant les circumstàncies perquè allò passi. 
+I al final hi han resultats.
+Es va fer un estudi en què es presentaven, crec que era a residents, el mateix cas clínic, escrit un introduint etiquetes que prejutgen i estigmatitzen, i amb un altre grup de professionals, un llenguatge correcte.
+I les decisions que van prendre aquests dos grups de participants va ser diferent.
+Amb el tema del dolor, els que tenien el l'informe així amb llenguatge estigmatitzant, els hi posaven molt menys tractament analgèsic que no pas en els altres.
+A més a més, poden haver-hi fàcilment errors diagnòstics i de retard del tractament.
+El fet de posar amb dubte o de rebre un pacient al qual ja se li ha posat en dubte si té dolor o no té dolor, o si pren tòxics o no els pren, o té uns símptomes o no els té, això es retarda i pot canviar el diagnòstic del pacient.
+Això es transmet a l'hora de fer el pas del pacient, la transferència del pacient.
+Si ho fem així utilitzant llenguatge que culpabilitza el pacient o l'estigmatitza, això s'ha vist que redueix molt l'empatia del receptor d'aquell pacient, 
+i el fet de reduir aquesta empatia fa que no tinguis les mateixes capacitats de recordar dades clíniques importants per al pacient. 
+I aleshores, si no recordes l'important d'aquest pacient, les teves decisions, els teus diagnòstics i el teu maneig pot ser diferent.
+I a més a més, això agreuja les desigualtats en els pacients.
+Com totes aquestes coses, normalment no passa en tots els grups de pacients o usuaris, 
+minories ètniques o racials o persones amb problemes d'addiccions o persones sense llar, que normalment són les que en surten més perjudicades. 
+Resumint, encara que no en som conscients, hem d'anar amb compte a l'hora d'escriure els informes, perquè podem estar utilitzant un llenguatge estigmatitzant, 
+que etiqueta i que culpabilitza el pacient, i això afectarà les nostres decisions, i a més a més això quedarà per escrit i això es transmet als pròxims professionals que vinguin, 
+que ho llegeixin sense voler-ho, inconscientment quedaran afectats d'aquesta forma d'escriure, i finalment el pacient, objectivament, en surt perjudicat.  
+Déu n'hi do.
+Me n'ha sorprès el principi, la infecció no em pensava que fos aquesta.
+Ara aquí faig un mea culpa perquè jo també sóc culpable d'escriure això i me n'adono la importància de dir les coses.
+També em fa pensar que de la manera que escrius les coses també defineix a qui l'escriu i això et pot portar algun mal de cap.
+Ara no sé per què m'ha vingut al cap d'uns quants casos que hi ha hagut aquests dos últims anys de gent que ha denunciat que no ha pogut ser atès en català a la sanitat pública del Principat.
+I alguna de les coses que estava escrita en els informes que aporten, jo no sé si va passar alguna cosa o no, no en tinc ni idea, però l'informe està escrit.
+I quan llegeixes l'informe no tens cap dubte que no els van atendre en català, això no és cap novetat, però llegint allò no tinc clar que la persona que ha escrit aquell informe s'hagi defensat jurídicament, sinó probablement tot el contrari.
+Vull dir que a l'hora d'escriure les coses ja no és només el fet que puguis estigmatitzar el teu pacient, el teu usuari, sinó que també t'estàs definint a tu mateix.
+I això em fa pensar que hauré de... Mira, la sort és que nosaltres informes no gaires, però em fa pensar que hauré de vigilar molt bé com escric les coses a partir d'ara.
+Sí, però, per exemple, la infermeria també és important, eh? Perquè...
+No, no, és que ara mateix amb això que has parlat, jo només penso en tots els pas de guàrdia que faig.
+Tots comences és i poses el diagnòstic. Broncòpata, és no sé què. Sí, sí, serà broncòpata, però és una persona d'una certa edat que viu en un determinat lloc.
+Ara potser ho canviaré i ara diré d'on són.
+Des de que m'estic mirant aquest tema, no ho he mirat específicament, però crec que un lloc on deu passar molt és en el... Nosaltres, per exemple, el triatge, la infermera que està fent el triatge 
+té una petita finestreta on pot escriure, res, quatre paraules, que a nosaltres ens serveix per veure quan estem pendents d'anar a veure el pacient, llegim el que ha escrit la de triatge, 
+a part de fer el triatge i tal, ens posa, no?  Pacient amb quimioteràpia i que ve per febre, i t'ho escriu així amb les seves paraules.
+I jo penso que aquí, com que hi ha molta pressió i hem d'anar molt ràpid. I heu de posar dos paraules perquè defineixin aquell pacient.
+En allà segur que deu ser un nínxol d'afecció d'aquest tipus brutal.
+I nosaltres en els cursos clínics i en els informes, també. I això ho hem heretat, la forma de fer els informes de sempre.
+Potser abans no s'hi feia atenció, perquè tampoc el pacient es llegia els informes i tampoc es pensava que era especialment important. Però no costa tant fixar-s'hi una miqueta.
+I més si sabem que hi han estudis que demostren que comparant un tipus d'informe i un altre, les decisions que es prenen són diferents. Vull dir que això afecta segur a l'assistència.
+Jo és que sempre he viscut des de que he començat a treballar els informes que se donen al pacient.
+Per això una cosa que ara que també tinc residents al meu càrrec, els ho dic, reviseu els antecedents i comproveu-ho amb el pacient, perquè moltes vegades n'hi han errors de diagnòstics, 
+sobretot quan són psiquiàtrics o coses que encasellen molt els pacients, tipus posar un diagnòstic de fibromiàlgia, un trastorn psicòtic o coses així que després el pacient no és així i han acabat en un diagnòstic en una altra cosa. 
+Jo crec que és molt important i també el que comentaves del que es diu currículum ocult, que és la forma en la que tu transmiteixes la teua actitud davant d'altres persones, 
+perquè encara que moltes vegades no t'ho cregues, no tingues tan clar que eixe EVA siga d'un deu sobre deu perquè està mirant el mòbil, està un pacient tranquil,
+Reflexar-ho i fer un esforç per evitar eixa contratransferència negativa que moltes vegades tenim front els pacients.
+Lluitar és molt difícil contra això i fer una actuació a pesar d'això. És que hem tingut casos així de fa poquet.
+I ho hem comentat en sessió clínica com a error a evitar fa poquet i és que és molt important en les persones que ja estem treballant millorar-ho, però les persones que entren a treballar, jo crec que és més important encara, no?
+Perquè si tu t'acostumes a treballar d'una manera i a fer-ho així perquè tens una imatge dels teus adjunts o dels teus de referència on no hi ha comentaris negatius, on posen l'analgèsia adequada en base a lo que es queixa el pacient.
+Jo crec que l'esforç que has de fer després és diferent, perquè no has de desfer tot, sinó que simplement tu has après una manera de treballar correcta i adequada.
+Sí, sí, sí.
+Si els que comencen ja ho comencen a fer-ho bé, evidentment serà més fàcil que no pas corregir-ho més tard.
+Has de pensar que els joves et cuidaran a tu quan tu siguis vell.
+També.
+Exacte, exacte.
+De cop i volta, resulta que ensenyar a les generacions següents comença a ser important.
+Molt bé, doncs escolta'm, interessant aquest Menys és Més.
+Anem a l'UrgemMot?
+Començo jo. Té a veure amb el tema d'avui.
+Evidentment, suposo que ja comentarem lo de la sèpsia versus sèpsis, però hi ha el tema dels calfreds.
+Cal, fred.
+El diccionari m'agrada perquè ho defineix com sensació de fred i calor alhora amb tremolor o estremiment, propi d'algunes indisposicions i malalties.
+Hi ha molta gent que li diuen convulsions d'això, perquè ningú fa servir la paraula calfred.
+En el llenguatge ordinari, convulsió què vol dir que ha convulsionat? I t'expliquen un calfred, de veritat.
+Sí.
+De fet, també n'hi podríem dir esgarrifança. Que aquest encara m'agrada més, aquest encara es fa servir menys. Quan vas a la definició, encara és més guapa, no?
+Estremiment involuntari, convulsiu i rítmic dels músculs acompanyat per un petament de dents, que és una altra frase que m'ha encantat, el petar de dents, 
+quan tens un fred de pebrots que no pots ni parlar pràcticament, i una sensació intensa de fred que generalment es pot produir per una emoció, no només és de febre, però pel fred, no? 
+Si la gent fes servir esgarrifança i calfred, no dirien que tenen convulsions, segons qui quan té febre.
+I escolta'm, aquesta és boníssima perquè a vegades quan tens calfreds tens una cosa que li diuen horripilació.
+Horripilació?
+Horripilació, sí.
+Contracció brusca i sobtada dels músculs erectors dels pèls, generalment eriçons, porc-espins i altres animals. En l'home, l'horripilació és una relíquia.
+Es presenta en el calfred i en alguns estats emocionals i és anomenada pell anserina o pell de gallina.
+O sigui, la pell de gallina que ja trobo que no es fa servir, horripilació. Quan ho he trobat això, he pensat, boníssim, això.
+Horripilació.
+Fem servir calfred, fem servir esgarrifança, va, que escolta'm, ho explica molt bé. No hem d'anar dient aquí templeques i merdes.
+L'esgarrifança. Va, ja està, jo ja he dit la meva. Què tens, tu, Xavi? Vinga.
+Aviam, sobre aquest tema que hem parlat avui de les infeccions i tal, coses que ja hem dit, eh?
+Hem parlat que el bacteri és un microorganisme masculí. No és la bactèria.
+Ja és estrany que sent una cosa dolenta no tingui el gènere femení, perquè normalment això sempre funciona així. Lo bo és en masculí i lo dolent en femení, ja és estrany.
+Sí, això a última hora algú va canviar-ho, suposo.
+Està bé, ja està bé.
+Que a més el tema de la, n'hauríem de dir càrrega viral, en pacients VIH, en lloc de carga viral, és una càrrega viral.
+La malaltia inflamatòria pelviana en lloc de pèlvica.
+El diccionari del TERMCAT en les malalties de transmissió sexual, les MTS, ho prefereix que no pas les ITS.
+En lloc d'infecció de transmissió sexual, que és correcte, prefereix que en diguem MTS, malaltia de transmissió sexual.
+Què més?
+Ah, la tuberculosi, que la sigla hauria de ser TB en lloc de TBC.
+El flascó, que tu Albert n'has parlat abans, per fer els hemocultius són els flascons de cultius. És un flascó de cultiu.
+Ui, ui!
+Sí, no sé com ho has dit, has dit alguna altra, no sé quina paraula has dit.
+No, no, ara ja sé, el proper dia que m'ajudin a punxar uns hemocultius, ja sé què demanaré. Ara fa dies que no tenia cap sortida estranya.
+Porta'm dos flascons de cultiu.
+Ah, i els antibiòtics, les quinolones, són femenines. Ciprofloxacina, norfloxacina, totes aquestes acaben amb ina. Ciprofloxací, no, és ciprofloxacina.
+I... Què més?
+Ah, sí, l'Adriana ha parlat de la... No sé com ho has dit, del tema del lactat, que s'ha d'anar monitorant si va pujant o va baixant.
+Sí, l'aclariment.
+L'aclariment, ah, això. Doncs és la depuració. Hem de parlar de depuració, sí.
+Depuració?
+Després d'escoltar-vos, he dit vàries bestieses que són castellanismes totalment. Però ara ja no les diré.
+Està bé, està bé, està bé. I no sé què més.
+Però la que és evident és la sèpsia en comptes de sèpsis, no? Aquesta ja és tan evident que crec que ja ho diem bé tots, oi? Que ja ningú diu sèpsis, oi?
+Oi?
+Jo segurament ho dic moltes vegades, eh? Jo dic paraules molt incorrectes. No passa res, mentre ens entenguem tot anirà bé.
+Tot anirà bé, tot anirà bé...
+Ja està Albert i Adriana, jo no tinc res més de l'UrgemMot.
+Doncs va, anem a l'última secció, les recomanacions, que porto dient que això ho hem de reformar i no sé què i encara, en fi, és igual.
+Jo us en porto una, aquí hem recomanat de tot ja, hem recomanat llibres, hem recomanat moltes coses clíniques, però hem recomanat coses que no tenen res a veure amb la clínica, fins i tot alguna cosa que poc té a veure amb la medicina.
+Doncs jo us porto un pòdcast curtet, de fet li dic pòdcast perquè ara tot són pòdcasts, però de fet li hauríem de dir una ficció sonora, perquè tampoc és una radionovel·la.
+Es diu No pengis, nopengis.cat.
+Són onze gravacions curtetes de deu minuts o així, que són ficcions.
+Suposo que alguna cosa basada en fets reals té i són trucades al telèfon d'emergències i cada episodi és una trucada i com es desenvolupa una història.
+Hi ha algunes que tenen a veure amb salut, d'altres no. A mi m'ha agradat, m'ha agradat. És una ficció, eh? Evidentment, aquí poca cosa clínic aprendreu, però té té un punt, té un punt.
+La gent del CECOS del SEM, que sé que ens escolten uns quants, si no heu escoltat escolteu-ho, perquè hi ha coses que són inventadíssimes, però n'hi ha algunes que us sonaran.
+I potser alguna d'aquestes us hi veureu vosaltres allà contestant aquest telèfon. nopengis.cat.
+nopengis.cat. I això qui dius que ho fa? Qui són els autors d'això?
+Això ho han fet, es diuen Laura Estrada i Pablo Sánchez, que jo sàpiga no tenen cap relació amb el gremi nostre.
+El que veig és una cosa, aquesta és que amb el suport de, és a dir, que suposo que algú ja ha posat calés, l'institut de les empreses culturals de la Gene.
+Està molt ben feta, eh? Els que hi parlen són actors dels efectes sonors i tal. I que realment per això dic que això no és un pòdcast.
+Un pòdcast són uns quants galifardeus que parlen i s'ho graven ells i s'ho maneguen ells. I això és un programa, doncs que si ho fessin a la ràdio, seria una ficció radiofònica.
+De fet, mira, el subtítol que tenen és: "No pengis. Quan la vida està en perill, què estaries disposat a fer per salvar-la?" Així, tot èpic i tal.
+Si teniu ganes d'això... És poca estona, eh? Vull dir, onze episodis, deu minuts, un quart, això ho teniu llest amb una setmana.
+Vinga, nopengis.cat.
+Molt bé, No pengis.
+Jo tenia una petita cosa per recomanar, que és un curs que penja del canal Salut de GenCat, dels serveis lingüístics.
+Que forma part del programa formatiu de llengua catalana que es diu Prescriu-te el català 2026.
+Va destinat a professionals sanitaris que no parlen o dominen el català i que venen a treballar o que estan treballant al sistema català de salut.
+Per tal que puguin tindre els coneixements mínims, perquè quan visiten un pacient com a mínim el pacient pugui expressar-se en català tranquil·lament.
+Això és un curs que de l'u de juny al sis de setembre hi ha una edició que ja està en marxa, i a partir del vint-i-u de setembre fins al vint-i-nou de novembre,
+hi ha la següent convocatòria, és un curs que és gratuït, que és híbrid, hi ha una part que és en línia i que tu fas en el horari que et sembli, i després hi ha unes connexions que es fan a través de Teams, 
+en la qual es reuneixen set, vuit o deu persones, i amb un professor, i es fan la formació així més, més en directe. 
+I l'objectiu és aquest, que tothom tingui un nivell mínim per fer una atenció sanitària en català. I es diu així, Prescriu-te el català.
+Aquest l'haguéssim pogut gairebé dir a l'UrgemMot, el curs aquest.
+Sí.
+Aquest em sona que ja fa un parell d'anys que s'està fent, oi?
+Sí, sí, sí.
+Mira, a vegades ens queixem que queixar-se no serveix de res, doncs no ha sortit del no-res aquest curs.
+Sí, ara des de fa temps, quan ara comencen els nous residents, almenys en el meu hospital tenim molts residents que són extracomunitaris i aterren aquí que potser no sabien que on venien parlàvem el català.
+I la Generalitat ens matxaca bastant a nosaltres per dir informeu als residents que hi ha aquest curs, que s'inscriguin, i foten bastanta canya amb això.
+Després els hi va bé, eh? Els que l'han fet i s'hi posen una miqueta, al cap d'un temps els veus que estan contents de treballar en català i els hi agrada.
+Hi ha unes quantes iniciatives d'aquestes. Si aneu al grup de Telegram de Salut pel Català, en veureu unes quantes.
+El Clínic encara ho tenen més ben muntat, perquè en el programa d'acollida dels residents ja inclouen bastantes més coses que això.
+Ara faria una diatriba política, però potser no cal. Això no surt del no res, eh?
+Fa trenta anys que a Catalunya és obligatori el B2 per exercir la sanitat pública, i el C1 per tenir-hi plaça fixa.
+El govern de la Generalitat no fa això per gust. Tenia eines per fer-ho i no ho fa per gust.
+Ho dic perquè tinguem present... Bé, és que ara m'estic posant molt polític.
+No només és el curs, és el dia a dia, la feina, aquesta tota pedra fa paretç, la feina de formigueta, l'hem de fer tots. No canviar la llengua a la primera, vull dir, és una feina que hem de fer tots.
+El curs aquest és molt rellevant.
+El fet que la gent que no parla català el parli els hi obre moltes portes, però el que hem de fer és que sentin la necessitat de parlar-lo, que no parlin per compassió, que el parlin per necessitat.
+I callo ja perquè ara estic a punt aquí de fotre un míting, bé, ja l'estic fent. En fi, prou.
+Va, sinó que jo estic de vacances i tampoc estic molt receptiu.
+Doncs escolta'm, ja estem, no?
+Aquest és l'últim episodi d'aquesta temporada. Tornarem al setembre, m'imagino. Setembre vol dir que gravarem al setembre.
+Si seguim la dinàmica d'aquest any, no sé si publicarem al setembre, perquè se'ns està allargant molt tot.
+Farem canvis, no sé quins, però farem canvis. Estem oberts a les vostres idees i suggeriments i el que us vingui al cap.
+Tenim en agenda algunes coses. Hi ha algun TES que s'ha ofert, o sigui que l'any que ve tindrem TES que ens vindran a parlar.
+Molt bé.
+Després de cinc anys ja era hora. Doncs això, ens veiem al curs vinent, que serà ja la sisena temporada. Déu n'hi do, sis anyets ja.
+Res, tu. Ens veiem a la propera.
+No ens descuidem d'agrair a l'Adriana la seva presència, perquè no ens hem acomiadat abans. Potser que ens acomiadem ara.
+Gràcies a vosaltres. Ha sigut un plaer.
+Igualment, esperem repetir-ho aviat, això. A mi m'ha agradat, m'ha agradat molt. Hem après coses, com sempre. Moltes gràcies.
+Sí, home. Gràcies.
+Adeu. Vagi bé.
+Adeu-siau a tothom.
