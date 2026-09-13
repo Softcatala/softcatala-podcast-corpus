@@ -1,0 +1,691 @@
+EMPodCat, el pòdcast d'urgències i emergències mèdiques en valencià.
+Hola, benvingudes a un nou episodi de l'EMPodCat. Aquest és el primer de la sisena temporada, el número cinquanta-vuit en total.
+Recordareu els que ens escoltàveu la temporada passada, que vam fer una sèrie d'enquestes al Telegram per saber què volíeu fer i això.
+La majoria veu dir que volíeu que seguíssim amb una entradeta amb gralles. Bé, els que heu sentit l'entradeta, doncs heu sentit una entradeta diferent.
+Em sap greu dir-vos que no són gralles, són dolçainess, però foten el mateix soroll, o sigui que estem igual.
+I us preguntareu per què hem llançat aquesta entradeta tan estranya.
+Bé, doncs hem llançat aquesta entradeta tan estranya perquè tenim una novetat molt interessant per aquesta sisena temporada.
+I és que a part de ser els dos pesats habituals, hola Xavi.
+Ei, hola. Ah, jo sóc un dels pesats, sí?
+Sí, tu ets un dels pesats. Avui no estàs a l'Empordà, no?
+Avui no sóc a l'Empordà, no. Sóc a l'àrea metropolitana de Barcelona, a Santa Coloma de Gramenet.
+En Xavi, ja ho sabeu, té el lloc web aquest urgem.cat, treballa a l'Hospital de Figueres i tot aquest rotllo.
+Jo sóc l'altre pesat, sóc l'Albert Homs, tinc emermedpirineus.cat o .eu, i treballo a l'Hospital de Cerdanya i tot aquest rotllo.
+Però la gràcia és que a partir d'aquesta temporada ja no som dos, som tres.
+Recordeu també l'últim episodi que vam tenir una companya del País Valencià, l'Adriana Delgado.
+Doncs bé, l'Adriana Delgado és la tercera veu en discòrdia en aquest pòdcast a partir d'aquesta temporada.
+Hola Adriana, bon dia. Ara em sembla que t'ho hauràs de presentar tu.
+Bon dia, jo sóc Adriana Delgado, sóc metgessa d'urgències a l'Hospital Lluís Alcanyís de Xàtiva.
+I hui vos parle des del meu poble, Macastre, també en València i res, tinc moltes ganes de començar. Espere que vos agrade.
+Molt bé.
+També té un blog, urgenteycronico.com es diu, oi?
+Sí.
+Doncs aneu-lo a llegir que té coses molt interessants posades allà.
+Bé, i som tres perquè realment feia falta més diversitat i penso que l'Adriana ens aporta totes les diversitats possibles.
+I alhora també ens ha de permetre ser una miqueta més versàtils, perquè clar, fins ara, osti, ara sent tres podem jugar una miqueta més.
+I a més, tindrem més temes i en fi, coses. Ja ens explicareu a veure què us sembla, crec que estarà bé.
+La pega és que pot ser que ens allarguem una miqueta, llavors hem decidit seguir uns quants dels canvis que us vam proposar a les enquestes i ja anireu veient.
+Perquè a les enquestes ningú ha dit que deixéssim de gravar pòdcast, no?
+No, no hi havia opció.
+Calleu ja pesats, no.
+Va, però som uns pesats. Va, anem al gra. Tu, Xavi, el tema et tocava a tu i m'has dit que no digués de què vols parlar.
+Doncs va, explica'ns.
+Doncs sí, avui us volia parlar d'un tema que té una magnitud penso que bastant important i té una rellevància clínica i social molt important.
+Us explicaré una miqueta les dades, la prevalença i la mortalitat que té aquest problema.
+Aviam si mentre us ho vaig explicant vosaltres sou capaços d'identificar de què estic parlant.
+Estem parlant d'un problema que afecta molt la mortalitat.
+I afecta la mortalitat com si a Catalunya cada setmana hi hagués un accident sense supervivents d'un Airbus A320.
+Per tant, hi haguessin com cent vuitanta morts cada setmana durant tot l'any, excepte els mesos d'estiu, que en lloc d'un accident a la setmana serien dos accidents a la setmana.
+És moltíssima gent, Xavi, és moltíssima gent.
+Espera, espera, que encara tinc més símils que ens permetran veure la magnitud del problema.
+És com si desapareguessin tots els habitants de Roses, l'any que ve tots els habitants de Caldes de Malavella, el següent any la Bisbal d'Empordà, 
+el següent tota la població conjunta de Puigcerdà, Bellver i Alp, i la següent la meitat de Xàtiva.
+Què més? Comparant-ho amb els morts a les carreteres.
+Per exemple, el 2024 van haver-hi 255 morts a qualsevol via, interurbana, autopistes, etcètera, etcètera.
+Tant sigui de conductors, acompanyants, ciclistes, vianants, van haver-hi 255 morts.
+Estem parlant d'un problema de salut que provoca quaranta-vuit vegades més morts que aquests que us estic parlant a les carreteres.
+És a dir, tots els morts que hi ha a les carreteres durant un any nosaltres els tenim en una setmana als serveis d'urgències, en una setmana només.
+A part de mortalitat, com tot desastre, hi ha víctimes mortals i víctimes que queden en seqüeles permanents i importants.
+Per fer un símil, estem parlant de cada any que hi caben tots els espectadors que caben al Palau Sant Jordi de Barcelona, tots amb seqüeles permanents i greus, cada any, per culpa d'aquest problema de salut.
+Us deixo un moment per pensar, aviam què pot ser això, quina malaltia pot ser.
+Doncs no estem parlant de cap malaltia, no estem parlant de cap problema de salut particular.
+Sinó que estem parlant d'un procés que fem nosaltres, els professionals de la salut, que és diagnosticar les malalties.
+Estem parlant dels errors de diagnòstic, seguretat diagnòstica, en podríem parlar millor.
+Ara us explicaré la definició que tenim sobre el que és el diagnòstic, però estem parlant d'això, que el sis per cent de tots els pacients que veiem a urgències surten amb un diagnòstic equivocat, el sis per cent.
+Clar, això, el sis per cent, podries dir que el noranta-quatre per cent hem encertat el diagnòstic, això està molt bé.
+En qualsevol empresa, en qualsevol estadística, encertar el noranta-quatre per cent està molt bé.
+Però clar, aquest sis per cent són gent que, per sort, la majoria no tindrà cap problema especial, perquè t'equivoques de diagnòstic, però la malaltia no té una repercussió important i no passa res.
+Això és la majoria, per sort nostra, eh?
+Però clar, hi ha un tant per cent que és molt baixet, però com que, per exemple, a Catalunya, per exemple, el 2024, em sembla que era, 
+es van fer sis milions cent cinquanta mil visites d'urgències a tot Catalunya, incloent les urgències hospitalàries, els CUAPs, el SEM, els PACs i visites urgents d'atenció continuada, 
+es van fer això sis milions de visites, però és clar un problema com per exemple l'error diagnòstic que només sigui del 0,3%, això són divuit mil a l'any, per tant al final el volum absolut és molt important. 
+Hem dit que l'error diagnòstic passa amb un sis per cent dels pacients, això voldria dir que només a Catalunya en tindríem com nou-cents seixanta al dia.
+De pacients que se'n van a casa, a tot Catalunya, amb un error de diagnòstic.
+D'aquests, només un dos per cent tenen efectes adversos que es podrien haver previngut, i això vol dir cent vint-i-tres mil a l'any. Això són tres-cents trenta cada dia.
+Això, per posar en context aquests números, sis milions de visites a Catalunya, som vuit milions d'habitants, diuen. És gairebé una visita d'urgències per persona i any.
+No em sembla un número exagerat, però fixa't que fem un número d'errors diagnòstics considerable, però relativament baix percentualment.
+Però, en canvi, la quantitat de gent que té efectes adversos és molt baixa.
+Això ens pot fer pensar una miqueta realment quin nivell de gravetat real tenen els nostres pacients quan venen, perquè si tu tens una malaltia realment greu i t'equivoques amb el diagnòstic, la possibilitat que en surtis escaldat és alta.
+Si tens una malaltia banal i vens a urgències i la caguem en el diagnòstic, potser no passa res, no?
+Sí, però jo penso que, per exemple, la majoria de patologies ens dona la sensació que fem moltes coses perquè el pacient es curi. I en la majoria de patologies la curació és espontània.
+Nosaltres ajudem una miqueta, però si tu tens una bronquitis ja pots donar-li el que vulguis, això es curarà sol.
+Moltes pneumònies es curen soles, molta patologia es cura sola.
+Vull dir que no és extraordinari que tu donis un diagnòstic equivocat i bé, sí, a lo millor el pacient estava tres dies més amb dolor, però la majoria acabarà curant-se de forma espontània.
+Tu ho dius com si tants errors eh hauria de provocar més patologia, encara, no?
+I en eixos errors diagnòstics entren, per exemple, una malaltia que s'anomena de diferents maneres, una bronquitis o infecció de vies respiratòries altes o baixes, 
+pneumònies dins d'un grup mateix de diagnòstics pareguts? 
+O entra, per exemple, un símptoma que acaba de venir en una malaltia greu que per el curs diagnòstic encara no complix els criteris clínics?
+La dada aquesta que un sis per cent de les visites fem errors diagnòstics és d'una revisió sistemàtica que dels molts articles que hi havia n'hi havia tres que és d'on es va treure aquesta xifra.
+Un és un estudi canadenc, l'altre és suís i l'altre és espanyol, de Tenerife.
+Aquest de Tenerife era un estudi de casos i controls d'altes d'urgències i que tornaven al cap de setanta-dos hores d'urgències perquè no es trobaven bé 
+i després van comparar el diagnòstic inicial amb el diagnòstic al cap de setanta-dos hores i van interpretar que el diagnòstic inicial era erroni.
+No et sé dir exactament si era totalment erroni o era dir doncs a lo millor vam donar d'alta un diagnòstic de dolor toràcic atípic, per exemple, 
+perquè els hi havia semblat que no hi havia cap cosa especialment causant d'aquell dolor ni cap cosa que fos especialment greu, li van donar l'alta i potser torna al cap de setanta-dos hores amb una clínica d'un TEP, per exemple. 
+Però això és un error diagnòstic, ja tenia el TEP en el seu moment.
+El que passa que... Sigui per un motiu que sigui, perquè la simptomatologia era atípica, perquè no tenia tots els criteris, no es va poder arribar a un diagnòstic.
+Però jo penso, encara que ho estiguem sobreestimant al doble, o sigui, totes aquestes xifres que us he dit, dividiu-les entre dos, continua sent una immensitat brutal.
+Vull dir que si hi ha estudis que ens diuen que és el sis per cent, però la majoria d'estudis són retrospectius.
+Vull dir que hi ha biaixos i errors de registre d'informació que poden fer que no sigui del tot fiable.
+Per això crec que posem tots eixe puntet que els diagnòstics a urgències són provisionals i no definitius.
+Sí, sí, sí, sí, però és provisional però t'has d'assegurar fins on t'arriba coneixement i les nostres capacitats, que el pacient  no marxi d'alta amb una dissecció d'aorta, per exemple, o un TEP.
+Fins on és possible, saps? Però sí, clar, a urgències és tot provisional i tot és incert.
+També és important entendre que crec que urgències és el lloc ideal per a fer un diagnòstic d'una patologia aguda o d'un procés que realment té una gravetat important immediata, 
+però no és el lloc ideal per a fer un diagnòstic d'una malaltia greu, més crònica, que realment s'ha d'estudiar en un altre punt, 
+com pot ser l'atenció primària o les consultes d'altres especialistes hospitalaris, que també, potser, no sé si en este estudi ho diferencien de patologies greus agudes a les cròniques per el tema de diagnòstic definitiu.
+Sí, però pensem, per exemple, si fem la divisió o la categorització de tots els errors que fem.
+Ja us he dit que la majoria són no rellevants i que no tenen cap importància, no repercuteixen en la salut del pacient, n'hi ha uns quants que sí que fan lesions,
+n'hi ha uns que fan un error que et provoca la mort, sigui al cap d'una estona o sigui al cap d'un temps, segurament era possible diagnosticar-ho a urgències, val?
+Jo no dic que una malaltia reumàtica saber si és del tipus no sé què o no sé quantos, doncs a urgències no és el moment de saber exactament quina és.
+Però que les vint patologies, dic vint o cent, que et poden provocar la mort en qüestió d'hores o de tres dies, a urgències les hauríem de poder diagnosticar, no diria que totes, però sí, 
+Més o menys, eh! No haurien de ser aquests números tan estratosfèrics, penso.
+Deixeu-me que us digui tot això que us estic explicant, bàsicament, hi ha altres fonts, però és una revisió sistemàtica i metaanàlisi.
+El van fer al centre John Hopkins publicat el 2022-2023 per l'agència Healthcare Research and Quality (AHRQ), que és com si fos l'agència de qualitat dels Estats Units, és l'agència de qualitat i recerca en salut dels Estats Units.
+En aquest van fer un cribratge i finalment van incloure serveis d'urgències d'Estats Units i de països desenvolupats amb altres sistemes d'urgències que siguin més o menys comparables.
+Per exemple, el Canadà, Regne Unit, i per la dada aquesta del sis per cent, que és un 5,7, amb un interval de confiança que no era especialment ampli, vull dir que era bastant precís, 
+ho van fer-ho, hi havia tres estudis, un canadenc, un espanyol i un suís, que, fent una mica d'estadística, doncs van arribar a aquest 5.7%. 
+Aleshores, el concepte aquest d'error diagnòstic l'estan intentant canviar una miqueta, de no parlar d'error, sinó parlar, per exemple, de seguretat del pacient, de seguretat diagnòstica o d'excel·lència diagnòstica.
+És a dir, és un procés més complex que afecta a tots els moments assistencials del pacient, del diagnòstic, no només en el moment determinat que dius vaig escriure el diagnòstic.
+O sigui, error diagnòstic no és senzillament si he posat l'etiqueta bé o malament, 
+sinó que si li he diagnosticat tres hores tard i aquell infart, aquella sèpsia, aquell retard de cent vint minuts pot haver sigut important, això és un error diagnòstic també.
+Potser també per això els números són els que són, perquè el retard diagnòstic també és important.
+Dintre del diagnòstic, com us he dit, no és només en el moment en què el professional està assentat i escriu el diagnòstic en el informe o ho comunica, 
+sinó que el fet de comunicar-ho o no comunicar-ho de forma efectiva a l'equip assistencial i en el pacient, doncs també ho consideren un tema de seguretat diagnòstica.
+No només és posar l'etiqueta, sinó que també posar-la en el moment oportú i comunicar-ho a tot l'equip i a la família o al pacient, bé, bàsicament al pacient i a la família si procedeix, família o acompanyants, de forma efectiva.
+Si no ho fas d'aquesta manera, estàs facilitant que hi hagin conseqüències d'això. Per això parlem de seguretat diagnòstica i no tant ja d'error diagnòstic.
+Ens expliquen que aquest diagnòstic ha de seguir tot un procés o ha de tenir una sèrie de característiques.
+Per exemple, ara us ho explicaré en detall, ha d'estar centrat en el pacient, ha de ser equitatiu, ha d'evitar la variabilitat injustificada i ha de conduir a unes millors decisions terapèutiques.
+Quan dic que ha d'estar centrat en el pacient, em refereixo a que el diagnòstic no es considera com un acte unidireccional del professional sanitari que dictamina una etiqueta, 
+ sinó que ha de ser una coproducció entre tot l'equip i el pacient.
+O sigui, el pacient s'ha d'incorporar en aquest diagnòstic, perquè ha de tindre en compte les preferències, les necessitats i els valors del pacient a l'hora de prendre la decisió del que es fa i el que no es fa, amb un diagnòstic segur també és important.
+L'entrevista clínica, l'anamnesi, l'exploració física o les observacions o els comentaris que puguin donar els acompanyants familiars i tal també és evidentment important.
+Centrar-te en el pacient també implica que, quan surtis del box al primer moment, li expliquis tu les teves hipòtesis que tens i que li expliquis de forma comprensible.
+I que li expliquis també al pacient el grau d'incertesa que tens. És una cosa que tu la tens i que estem acostumats a que te la menges tu sol,
+però és important que el pacient sàpiga que el que tu estàs pensant o el que tu saps o fins on arribes, allò té un grau més o menys d'incertesa, 
+perquè potser els pacients es poden pensar moltes vegades que nosaltres tenim una bola de vidre o el donut de la veritat ens dirà exactament què té el pacient, i potser s'ho pensen, oi? 
+Però si no és així, tu li has d'explicar que et sembla que això va per aquí, però et falten unes proves complementàries, et falta no sé què, no sé què, i potser no arribarem a un diagnòstic cert.
+Això ho ha de saber el pacient.
+Això, Xavi, tu creus que seria beneficiós el fet d'explicar als pacients i a la família el teu diagnòstic diferencial?
+Perquè moltes vegades a lo millor podem crear més ansietat durant l'estada en urgències, que ja per si és prou agobiant per als pacients.
+Per exemple, en una dispnea que té un diagnòstic diferencial tan gran.
+Home, aviam, potser no has d'entrar en detalls de quin és tot el teu diagnòstic diferencial, però dir-li al pacient... O no fer-li entendre equivocadament que tu ja saps per on van les coses.
+És a dir, dir-li que hi ha una incertesa: "sembla que tens aquest dolor toràcic, sembla que probablement serà del cor perquè tens antecedents cardíacs i no sé què, 
+però hem de veure que aquest problema no vingui també del pulmó, de la pleura, de no sé on, i hem de descartar-ho, i per això fem aquestes proves complementàries per descartar les altres causes i..."
+Jo no entraria en detalls d'explicar-los el teu diagnòstic diferencial, perquè clar, si no li hauràs de començar a explicar que tens en el teu diagnòstic, 
+que sigui un TEP, una dissecció aòrtica, etcètera, etcètera, que potser el pacient normalment no entendrà la rellevància que poden tenir aquestes patologies. 
+Jo no ho explicaria en detall, però sí que els hi diria no tinc la bola de vidre i ara mateix la meva principal sospita és aquesta, però haig de fer més coses per tindre una miqueta més de seguretat.
+Això jo penso que sí, que hem de tindre a la consciència que de moment no ho sabem al cent per cent.
+Jo penso que sí, que potser marxaran a casa al cap de sis hores pensant-se que tot està al cent per cent lligat i no pot haver-hi equivocacions.
+Si pot marxar amb equivocacions ho han de saber els pacients.
+Sí, que tal vegada coneguen tot el procés de per què han estat x hores fent-los x proves, menejant-los d'un puesto a un altre, 
+posant tal medicació i que hem descartat lo greu o hem descartat certs diagnòstics i que si empitjoren o tenen estos símptomes d'alarma han de tornar al nostre servei. 
+Sí, jo crec que té prou de sentit i que tal vegada eixa certesa no és al cent per cent, 
+però que tenen com un pla d'acció si les coses no van com nosaltres esperàvem i tal vegada reduïm les visites que no són necessàries, 
+però també evitem que si hi ha una complicació s'endarrereixi en el temps perquè esta persona no vol tornar a urgències perquè creu que tot està bé.  
+Exacte.
+No és com abans, no? Abans potser sí que el metge deia, doncs mira, vostè té això i ja pot marxar. I no preguntaven res i tu tampoc explicaves res.
+Això des de fa molts anys ja està canviant i ha canviat molt, i el pacient té dret a conèixer tota la informació, i si la teva informació és parcial i no és segura al cent per cent, 
+el pacient té dret a saber que pot marxar cap a casa, però que hi ha una incertesa raonable amb el seu diagnòstic. 
+En aquest procés de diagnòstic segur, de seguretat diagnòstica, també és important l'equitat, és a dir, que la qualitat... 
+En aquest cas parlem del procés de diagnòstic, no s'ha d'alterar per causes que no siguin clíniques o per causes demogràfiques del pacient. 
+És a dir, tothom ha de tindre la mateixa oportunitat de rebre una explicació precisa, oportuna i basada en evidències, no basada en prejudicis que el metge o qui sigui tingui, 
+per exemple, per l'edat, per la raça, pel gènere, per temes socials, per temes demogràfics, etcètera. 
+Equitatiu vol dir que tothom té les mateixes oportunitats de rebre un diagnòstic encertat o oportú, independentment que jo sigui blanc, negre, groc, home, dona, ric, pobre, o francès, o alemany, o xinés.
+Tothom ha de tindre les mateixes oportunitats de rebre una assistència de qualitat i evitar les variabilitats injustificades.
+És a dir, això ens passa molt, per exemple en això dels errors diagnòstics, d'una mateixa patologia veiem que en un hospital, en aquella patologia només ens equivoquem un cinc per cent, 
+i l'hospital de cinquanta quilòmetres més avall és una de les patologies on més errors diagnòstics hi ha. 
+Aquesta variabilitat, sigui interhospitalària o sigui interprofessional, no hi hauria d'estar, perquè ens desviem dels protocols, les guies o els estàndards de la forma de treballar, 
+ens desviem de forma injustificada, i hauríem de garantir que la qualitat i la seguretat del diagnòstic no depengui de l'atzar, de la fatiga del professional sanitari o de preferències individuals del sanitari que està atenent aquell pacient en aquell moment. 
+Si ens basem més en aquestes coses, hi haurà molta variabilitat injustificada i hi haurà molts més errors diagnòstics.
+Aleshores, quines peculiaritats tenim o limitacions en els serveis d'urgències?
+El que dèiem abans, Adriana, la presa de decisions que podem fer a urgències la fem sota un paraigües d'una incertesa brutal.
+No tenim mai tota la informació completa, tenim el pacient que potser ens explica una part dels seus símptomes, després ve l'acompanyant i te n'explica una altra que potser no és exactament el mateix.
+Tenim l'analítica, però ens falta el lactat, ens falta la troponina, ens falta no sé què, i el pacient ha evolucionat.
+A més a més, no coneixem el pacient, la majoria de pacients que visitem a urgències no els hem vist mai.
+No sabem quina cara fan normals, si tenen sempre la tensió baixa, si sempre fan cara d'anèmics perquè estan pàl·lids, no els coneixem, val?
+I això senzillament crea incertesa.
+I veus un pacient que si no l'he vist mai potser jo m'espanto, però el seu metge de capçalera dirà no, no, si sempre és així, aquest senyor.
+Doncs això a mi em crea incertesa.
+Això passa moltíssim en pacients que són fràgils, crònics.
+Possiblement evolucionen molt ràpid d'unes hores a unes altres, desgraciadament de vegades apleguen ells abans en un transport sanitari i no la família, o no hi ha un paper de la residència,
+on te diuen que el motiu d'atenció és malestar general, el MEG, i és molt difícil intentar començar un procés diagnòstic on el pacient no pot comunicar-se, 
+no tenim part de la història perquè l'accés, els programes són diferents i la família encara no ha aplegat.  
+Aleshores, moltes vegades la teua sospita clínica al que acaba sent és totalment distinta i perds moltes hores i fas més proves de les que toca perquè no saps d'on tirar.
+Sí, sí, la informació és incompleta, no coneixes el pacient. I això que deies tu al principi ara, el pacient evoluciona.
+Hi ha pacients que els veus i al cap d'una hora ja estan diferents. I això és una cosa que tenim a urgències.
+Normalment a altres llocs, a planta, a consultes externes, a atenció primària, normalment això no passa.
+Nosaltres això és una font també d'incertesa.
+Un altre condicionant d'urgències que ens afecta la capacitat cognitiva és les interrupcions.
+Portes deu malalts a la vegada, i cada dos per tres la infermera em ve a pregunta si l'antibiòtic d'aquell ha de passar no sé quanta estona o menys, si l'altre té al·lèrgia, que si no sé què, que si la família, que si no sé quantos...
+És un continu d'interrupcions, i està més que estudiat que el cervell, quan l'interromps, tarda uns segons, tarda vint segons en recuperar el fil del que estava fent. 
+I si tens trenta interrupcions alhora, les possibilitats d'error són brutals.
+La guàrdia d'abans d'ahir me'n recordo que em van interrompre, vaig haver de mirar en la història clínica de l'ordinador una cosa d'una altra pacient, 
+i quan m'hi vaig tornar a posar no m'havia recordat que havia canviat de pacient i vaig estar escrivint deu minuts la història clínica del pacient a un pacient que no corresponia. 
+Ximpleries com aquestes, que no són tan evidents i que et poden passar desapercebudes, segur que en fem a carretades.
+I l'altra condició en què tenim a urgències és el temps, la gestió del temps en pacient que pot ser temps-depenent.
+I ens obliga a fer una estratificació del risc de forma immediata per descartar patologies greus, per després acabant fent un diagnòstic definitiu.
+I això és un condicionant que tenim a urgències bastant important.
+Un condicionant a favor que tenim és que sabem que aquests errors diagnòstics hi ha una sèrie de patologies, que són quinze, que acumulen el setanta i escaig per cent de tots els errors.
+Per tant, no hem d'estar preocupats, entre cometes, per tots els diagnòstics, per tots els pacients, sinó que tenim l'avantatge que ens podem concentrar en aquestes quinze patologies.
+De totes les patologies que pot tindre l'ésser humà, si ens centrem en aquestes quinze patologies i tenim procediments específics per aquestes quinze patologies, 
+home, no eliminarem el setanta-cinc per cent dels errors que fem en general, però els podrem controlar bastant. 
+Genèricament, tenim dos patrons.
+Aquelles patologies freqüents que venen amb una clínica subtil o patologia benigna i l'altra són patologies greus però que venen amb una clínica atípica o inespecífica o que és discordant amb el patró clàssic.
+Per exemple, la patologia més freqüent que ens equivoquem al diagnòstic són les fractures.
+El vint-i-sis per cent de tots els errors diagnòstics que fem són per fractures.
+Però què passa? Que en la majoria de les ocasions això no té una rellevància clínica important.
+Perquè la majoria de fractures són d'extremitats, i potser ens equivoquem i no ho veiem a la radiografia, però normalment, 
+si tens un colze que et fa mal, el tens inflat, o tens un dit que t'has donat un cop, el tens inflat, et fa mal i no el pots moure, la majoria de vegades el tractament serà el mateix. 
+Posarem una fèrula, posarem un guix, t'immobilitzarem, te direm que vagis a consultes amb el traumatòleg, etcètera.
+I el traumatòleg diagnosticarà de forma certa al cap d'una setmana, però portaràs el mateix tractament com si haguéssim vist el diagnòstic, per tant no té una repercussió clínica important.
+L'altre que també ens equivoquem molt és l'apendicitis, però si avui vens perquè et fa mal la panxa i no veiem res especial,
+perquè encara la clínica no és prou florida perquè nosaltres puguem fer un diagnòstic amb dades objectives, al cap de vint-i-quatre hores tornaràs a urgències, perquè ara sí que tens febre, ara sí que tens més dolor abdominal,
+i aleshores farem una analítica, tal i serà evident que tens una apendicitis.
+Això ha suposat unes seqüeles importants?
+No, t'operaran l'apèndix potser una miqueta més inflamada, però al cap d'una setmana tu estaràs igual com si te l'haguessin vist el primer dia.
+Per tant, hi ha molts errors diagnòstics que els fem, però que no tenen especial repercussió de forma generalitzada.
+Com deia, hi ha quinze patologies que engloben el setanta-dos per cent dels errors diagnòstics que són greus o mortals.
+Un és un grup vascular i l'altre són les infeccioses, bàsicament aquí hi han aquests dos grans grups.
+De les patologies vasculars, l'error més freqüent que té repercussions clíniques importants és en el ictus.
+En general, fallem el disset per cent dels diagnòstics d'ictus, però dependrà de la clínica que vingui el pacient.
+Quan el pacient ve amb una focalitat neurològica, amb un dèficit motor a una extremitat, només fallem el quatre per cent de les ocasions.
+En canvi, en els pacients que venen per un mareig o per un vertigen i que la causa d'aquest mareig és un ictus, en aquests fallem el quaranta per cent.
+O sigui, dels ictus que la simptomatologia és mareig o vertigen, en fallem quatre de cada deu.
+Aquí tenim molt marge de millora, i tenim opcions, que ja les hem explicat en el pòdcast alguna vegada, i que ara recordarem, que es poden fer per intentar mitigar-ho, això.
+La segona patologia vascular que he de tindre en compte és l'infart agut de miocardi.
+Tot i que només fallem un 1,5% de falsos negatius, és a dir, que diem no, no té cap infart, dolor toràcic atípic, ja pot marxar cap a casa, doncs fallarem amb 1,5.
+És poc, sí, però veiem molta cardiopatia isquèmica. Per tant, al cap de l'any, el volum absolut és important, i les seqüeles o les conseqüències poden ser nefastes.
+I aquí entrem en el tema que l'Albert li agradarà, que és el tema de la dualitat entre infart amb elevació de l'ST o sense elevació de l'ST.
+Si només ens quedem amb aquest tema, la cagarem, perquè el seixanta per cent dels infarts de miocardi oclusius, és a dir, oclusió d'artèria coronària, no compleixen els criteris d'elevació de l'ST.
+Per tant, quan tu veus una elevació de l'ST, diràs: estic veient el quaranta per cent de gent amb aquest problema d'una coronària tapada, però és que ja el seixanta per cent no l'estic veient.
+I això suposa retardar vint-i-vuit hores el diagnòstic. Bé, diagnòstic i tractament, eh?
+Del diagnòstic al cate, comparat amb els pacients que venen amb una elevació de l'ST, doncs ens endarrerim vint-i-vuit hores.
+Això és un error diagnòstic perquè no estem fent el diagnòstic en el moment oportú. I això suposa unes conseqüències molt rellevants clínicament pel pacient.
+La tercera patologia, hem dit el ictus, l'IAM, la dissecció d'aorta.
+D'això, flipa perquè fallem el trenta-sis per cent dels casos, sigui un de cada tres, que ve a urgències amb la clínica que sigui, evidentment, fallem quan la clínica no és típica.
+Si té tota la clínica clàssica d'una dissecció, el dolor és típic, és lancinant que baixa per l'esquena, amb una dissociació entre les tensions amb un costat i amb l'altre, amb antecedents de no sé què, això és molt fàcil de veure.
+Però, finalment, el trenta-sis per cent, un de cada tres pacients que venen a urgències i que els diagnostiquem finalment una dissecció aòrtica, no l'hem vist en el moment oportú.
+I no veure això suposa un noranta per cent de mortalitat.
+I els altres són els TEPs, l'últim cardiovascular és el TEP. En el TEP fallem el vint per cent dels casos.
+Per tant, tenim l'ictus, l'IAM, la dissecció aòrtica i el TEP, que són quatre patologies que hauríem de fer coses, que veurem després, perquè tinguem més seguretat diagnòstica.
+L'altre gran grup és les infeccions.
+En la sèpsia, en un pacient sèptic, fallem el deu per cent dels pacients. Per què?
+Per exemple, perquè no tenen febre, que és una causa important d'equivocar-nos, o són pacients ancians que potser venen amb una síndrome confusional.
+I a l'anamnesi hi ha molta més incertesa, aleshores endarrerim molt més el diagnòstic.
+Pel tema de meningitis i encefalitis, fallem el vint-i-dos per cent dels casos. Fallem també amb les pneumònies i amb els abscessos epidurals.
+Amb això, abscessos epidurals, no sabria dir la prevalença que tenim d'abscessos epidurals, penso que ha de ser poca, però bé, fallem el cinquanta-sis per cent dels casos.
+Per tant, en pacients que venen amb un mal d'esquena  que no t'acaba de quedar clar, amb una clínica neurològica que no saps si és compressió del ciàtic o què és això,
+i potser no fa febre i potser no sé què, però no t'has d'adonat que potser està immunodeprimit, etcètera. 
+La pacient que tingui un abscés espinal, la meitat dels casos no els veiem o els veurem tard quan ja té conseqüències importants.
+I l'altre, us he dit que eren tres grans grups, bàsicament és el vascular que ja hem dit, l'infecciós i després hi ha el càncer, que només se centra en el càncer de pulmó.
+El càncer de pulmó sí que també és un tipus de patologia que a lo millor el pacient ve per mil coses diferents, 
+però no ens adonem que en la placa de tòrax veiem alguna imatge que no sabem interpretar, perquè la clínica o el que sigui del pacient es fa pensar que és una pneumònia, que és una atelèctasi de no sé què, 
+i no li donem prou importància o no fem tot el possible per pensar en el diagnòstic diferencial que allò pot ser un càncer de pulmó.  
+I que, per tant, potser no el diagnosticarem en aquell moment, però farem les coses perquè el procés de diagnòstic definitiu s'engegui i no el comencem tres mesos més tard, quan el pacient ve per una hemoptisi.
+Caldria afegir que també ens equivoquem amb les perforacions gastrointestinals, perquè de vegades hi ha pacients que no tenen pneumoperitoneu, a la radiografia simple no el veiem, 
+o no el fan, o no el veiem, o perquè el dolor abdominal, la peritonitis, queda una mica emmascarat perquè el pacient pren corticoides o està immunodeprimit. 
+I no fan una peritonitis florida, perquè nosaltres diguem ostres aquest pacient té pinta d'estar perforat.
+I l'altra és l'oclusió intestinal mecànica, que també ens equivoquem entre un deu i un vint per cent de les vegades, 
+doncs perquè no hi ha un dolor abdominal que ens cridi l'atenció, un pacient té alguna altra simptomatologia que ens fa pensar que és una gastroenteritis o que és qualsevol altra cosa. 
+Aleshores, amb això hem de pensar que les fonts d'aquests errors diagnòstics, d'aquesta manca de seguretat,
+no només és del metge o del clínic que està allà intentant decidir si és una cosa o una altra, sinó que depèn de moltes coses.
+Dependrà de factors que depenen del pacient, factors que depenen del professional, factors que depenen de l'equip i factors que depenen de tot el sistema sanitari on estem treballant.
+A nivell del professional, entre altres coses, la capacitat de raonament clínic, la forma de recollida de de les dades, 
+l'exploració física, la síntesi que en fem d'això, la interpretació que fem de les proves complementàries... 
+I hi ha un altre factor, que són els biaixos cognitius. D'això en parlarem ara, d'aquí a un moment.
+Hi ha factors també ambientals: serveis congestionats, moltes interrupcions, fem transferències de pacients sense un mètode estandarditzat i de forma no sistemàtica, cadascú ho fa com li dona la gana.
+El tema dels canvis de torns, vull dir, de franges horàries, avui fas nit, demà faràs dia, després fas tardes, tot això provoca un problema de salut per alteració del ritme circadiari.
+I també el tema de la fragmentació assistencial.
+El pacient passa per mil mans diferents i les possibilitats que el procés assistencial es vagi fragmentant i amb aquestes fragmentacions es vagi perdent informació són infinites.
+Tu tens un accident a la carretera i primer et vindrà una tango i te veuran els dos tècnics, després el portaran a l'hospital, l'hospital el veurà un altre equip mèdic... 
+Després del canvi de torn el veurà un altre equip mèdic i d'infermeria, després el pacient passarà a l'unitat de semicrítics i el veurà un altre equip assistencial, després pujarà a la planta i serà un altre equip assistencial, 
+i etcètera, etcètera, i per una patologia allò han sigut quinze assistencials.  
+Per més mesures que facis, això no s'aguanta de cap manera, i les possibilitats que es perdi informació vital és molt important.
+Hi ha factors relacionats amb el pacient, comorbiditat.
+Els pacients amb trastorns mentals que fan un infart els diagnostiquem molt més tard, perquè pot haver-hi una dificultat en l'expressió, en la comunicació dels seus símptomes o dels seus problemes de salut, 
+o perquè nosaltres, com vam dir en un episodi anterior, posem etiquetes estigmatitzants, 
+i això fa que potser ens centrem més en un tema i no donem prou importància en aquella dispnea, en aquella molèstia toràcica, tal com una altra persona que no tingués problemes mentals li donaríem més importància.  
+O pacients ancians que tenen un deteriorament cognitiu i no es poden expressar de forma fàcil.
+O pacients que prenen diversos medicaments, que prenen uns blocadors beta adrenèrgics, no el veiem taquicàrdic, penses no crec que estigui hipovolèmic, no crec que estigui sèptic, no crec que estigui en xoc, perquè no va taquicàrdic.
+No has tingut temps o oportunitat perquè no tenies la informació de cap manera de veure que aquest pacient pren una sèrie de medicaments.
+Si ets home o dona, també és important. Per exemple, en cardiopatia isquèmica hi ha un vint, trenta per cent d'errors diagnòstics comparats amb els homes. 
+O, per exemple, l'ictus, els nens també tenen ictus, però el nostre patró clàssic no és un nen. 
+Per tant, els nens, també l'edat també juga un paper important amb això o la gent gran moltes vegades no fan uns símptomes clàssics de moltes patologies.
+Tampoc sabem explorar, per exemple, en el cas dels ictus als nens.
+Per exemple, l'escala de coma de Glasgow en xiquets lactants és molt més difícil, no estem tan acostumats.
+O el que comentaves tu dels ancians, per exemple, on el dolor, segons la patologia que tingues, si té Alzheimer, doncs segurament el seu llindar del dolor serà major i la seva expressió serà distinta.
+O en pacients inconscients, on la forma d'expressar el dolor és diferent.
+On tindrem que estar més alerta de la taquicàrdia, de les dessaturacions, la freqüència respiratòria...
+Sí, sí, hi ha factors del pacient, siguin perquè siguin del pacient exclusivament o perquè nosaltres no sabem valorar-les o solucionar-les, 
+perquè no tenim els coneixements, això que dius tu, d'interpretar una clínica neurològica en un nen perquè no tenim la suficient experiència en valorar nens amb aquesta patologia, és un problema nostre de coneixement i d'experiència. 
+Doncs sí, ens equivoquem moltes més vegades.
+Hi ha limitacions i factors assistencials o tecnològics.
+La història clínica electrònica es podria millorar molt. Tenim molts programes informàtics d'història clínica electrònica i cadascun funciona diferent.
+És difícil dominar-lo i treure tota la informació d'aquella història clínica. Això pot ser que et limiti.
+Proves d'imatge, proves de laboratori, que pel que sigui es retarden, arriben tard, hi ha errors de comunicació i resulta que tu has demanat un tac cranial i cervical i només li fan el cranial perquè no s'han llegit que també volies el cervical, etcètera.
+Aleshores, dels temes professionals sanitaris hem dit que hi havia el tema dels biaixos. Això ja n'hem parlat alguna vegada.
+Els biaixos cognitius estan en el noranta per cent dels errors diagnòstics que fem a urgències.
+És un factor que mai va sol, és a dir, sempre hi és, però hi han d'haver més coses perquè hi hagi un error, normalment, eh? Però sempre hi són.
+Per exemple, biaixos cognitius, el tancament prematur, que en diem. És a dir, és no fer un diagnòstic diferencial.
+Ja acceptes tu que inicialment la teva primera hipòtesi que has tingut dius això és això, i ja no fas res més de forma crítica per intentar fer un diagnòstic diferencial 
+i convèncer-te que no tens cap argument per dir que és el de les altres causes que has pensat, i, per tant, te quedes amb la primera.
+No has fet aquest esforç crític de fer un diagnòstic diferencial, això és fer un tancament prematur.
+El biaix de confirmació, que només busques... És a dir, tu tens una idea que allò pot ser aquella patologia i ja només busques informació que et doni la raó a la teva sospita.
+I qualsevol cosa que vegis de proves complementàries, i tal, ho ignoraràs.
+Si tens una prova complementària que diu el contrari del que tu estàs pensant, el teu cervell ho ignora totalment.
+Et dirà que allò és un error de la prova diagnòstica o no en faràs cas, etcètera.
+O sigui, vas centrat en què és aquell diagnòstic que tu t'has pensat i el teu cervell no et permet veure res més.
+Tenim el biaix d'ancoratge, una fixació que amb la primera dada que has tingut et quedes amb allò i és impossible sortir d'allà.
+Això ens passa és quan te diuen: "Xavi, he deixat una fractura de fèmur."
+El pacient sospitem que té una fractura de fèmur, però no ho sabem del cert.
+Però si a mi el primer input cognitiu que m'arriba és fractura de fèmur,
+després jo haig de fer un esforç per dir no, no, jo no sé res d'aquest pacient, vaja, que ja li ha passat? i per què ha caigut? i on t'ha donat els cops, aquí, aquí, aquí, XABCDE. 
+I després veuré que té una fractura de fèmur i ha tingut abans una amaurosi fugaç, no ha vist les escales, ha caigut, té un TCE i té una otorràgia, però el que li fa mal és el maluc. 
+Si només et fixés en el maluc, et menjaràs un ictus, et menjaràs un bloqueig, et menjaràs un TEP, et menjaràs mil coses, faràs molts errors diagnòstics.
+Perquè t'has quedat amb la primera impressió, el primer input que t'ha arribat al cervell.
+Això ens passa a tots i està super estudiat i és una tècnica de màrqueting comercial de tots els productes que es fa servir molt.
+Hi ha el biaix de disponibilitat. Tenim més tendència a fer diagnòstics de patologies que hem vist similars prèviament.
+Si tu prèviament has fet molts diagnòstics de COVID, és fàcil que et vingui una altra persona amb una pneumònia i com que últimament tot era COVID, te menjaràs aquella pneumònia.
+Què més? Hi ha el biaix d'enquadrament.
+El pacient etiquetat com hiperfreqüentador, per exemple, que és el que vam explicar en l'anterior episodi aquest que era del llenguatge estigmatitzant, 
+que si el primer que diem del pacient, pacient sense llar, pacient hiperfreqüentador, pacient no sé què, i després t'expliquen l'important, allò ja t'enquadra, et dona un marc de referència a aquell pacient. 
+Això et farà equivocar.
+Què més? L'excés de confiança, un biaix de sobreconfiança.
+Tens més... No sé si dir-li ego o el que sigui, però confies més en la teva impressions subjectives que no pas amb les dades objectives.
+Aleshores, què podem fer, ja estic acabant, per intentar disminuir o augmentar aquesta seguretat diagnòstica.
+Primer tenir clar que no és un tema, com ja he dit al principi, el diagnòstic no depèn d'una persona, sinó que és un procés que depèn del pacient, del metge, depèn de tot l'equip sanitari, 
+depèn de l'entorn, depèn de tot, i no és només puntual, aïllat en el temps, sinó que és un procés longitudinal. 
+L'esforç que hem de fer no és només individual, no només és hem d'estudiar més, hem de fer més formació sobre patologies.
+No, amb això no arribarem enlloc.
+Hem de redissenyar els processos assistencials, el sistema assistencial.
+Per exemple, intentar fer coses, estratègies, per a disminuir la càrrega assistencial, la congestió dels serveis.
+Això està molt bé dir-ho, però realment serviria.
+Una cosa que podem fer, doble lectures o dobles opinions de proves complementàries, que són fàcils dels errors, per exemple, radiografies i elèctros.
+En aquestes quinze patologies, que són les més freqüents que ens equivoquem, intentar establir algun mecanisme que sempre els elèctros d'aquestes quinze patologies ens els mirem dues persones.
+O la radiografia, les imatges radiològiques, ens les mirem dues persones.
+Ara, per exemple, en les radiografies i en els electros en la majoria dels hospitals de la Comunitat Valenciana el passen per la intel·ligència artificial.
+És veritat que no és un doble check d'una altra persona, però ja  tens una proposta diagnòstica i a lo millor si ja t'assenyala la intel·ligència artificial que n'hi ha un nòdul
+o alguna malaltia que tu has de corroborar que efectivament és, ja pel que comentaves dels càncers de pulmons, en nòduls o atelèctasis que a lo millor no li has donat importància, és una de les estratègies que s'han implementat ací.
+És veritat que el de l'electro no és molt fiable, no és el Queen of Hearts, i falla més que una escopeta de fira, però és veritat que te dona una seguretat de que si tu penses que n'hi ha un SCASEST 
+o a lo millor un patró d'un electro que siga suggerent d'una oclusió, doncs tens eixa doble afirmació que necessites moltes vegades per a activar hemodinàmica, 
+que a lo millor no sobrecarregar un altre company, però sí que gastar més diners en estos productes d'intel·ligència artificial, que siguen més fiables i tindre més corroboració d'aquestos sistemes.  
+Ja no només en radiografies de tòrax, sinó en radiografies d'extremitats, que sí que donen eixa possibilitat de fer-ho prèviament a tu veure-lo, o inclús en TCs de cervell a lo millor podríem començar també a fer-lo.
+Sí, sí, això ho estava pensant, eh? La doble lectura, l'ideal fora que fossin dos radiòlegs diferents de forma independent que valoressin la mateixa radiografia, però clar, això evidentment no és viable, 
+però si tenim una intel·ligència artificial que estan començant ara i que d'aquí cinc anys hauran millorat molt més la seva precisió, la seva exactitud, ara ja està bé, però d'aquí uns anys això estarà molt millor.
+Doncs t'ajudarà quan tu estiguis cansat a les quatre de la matinada, després de no sé quantes hores treballant, 
+doncs tens allà una màquina que t'està vigilant que no se't passi un pneumotòrax, que no se't passi un mediastí eixamplat, que no se't passi no sé què, com a mínim perquè t'avisi que et digui ei, aquí veig alguna cosa que a mi no em quadra. 
+Doncs li dius a un company o busques ajuda per dir ajudeu-me en aquest cas.
+Jo això ho trobo ideal. I espero que vagi progressant, això.
+Quines eines més podem dir?
+Establir i fer servir de forma sistemàtica eines o sistemes de suport a les decisions clíniques.
+Això ja ho tenim, ja les coneixem, aquestes eines.
+Però el que hauríem de fer és tindre uns protocols i uns circuits que, sí o sí, els haguessin de fer servir, aquestes eines de suport a la decisió clínica, però els haguessin de fer servir en aquestes quinze patologies, que són aquestes patologies de gran risc.
+Per exemple, la regla canadenca de la columna cervical.
+Per quan necessites fer una placa o un TC o una imatge per a descartar fractures, o per exemple quan sospites un TEP, passar l'escala de Wells del TEP o un dolor toràcic, doncs l'HEART Score, 
+doncs en aquestes quinze patologies el teu hospital o el teu centre de salut ja tingui establert com a obligatori, entre cometes, que quan el teu diagnòstic diferencial hi entri una d'aquestes quinze patologies, 
+has de fer servir eines de suport a les decisions clíniques, i no pots donar d'alta al pacient sense haver passat per aquestes ajudes cognitives. 
+Una altra cosa que podríem fer són llistes de control, el check-list en anglès.
+D'aquestes quinze patologies, fer un llistat de control i abans de donar-li l'altre a pacient passar, com els avions, no?
+Que abans d'enlairar-se passen un check-list de dir hem mirat això, hem mirat això, sí, correcte, correcte, correcte, i fins que la llista de control no arriba a baix de tot i tot és correcte, l'avió no comença a moure's.
+Doncs tu no donis d'alta a cap pacient amb una d'aquestes quinze patologies sense haver passat tota la llista de control.
+Exploracions estructurades que siguin molt fiables.
+Estic parlant de l'ictus.
+L'ictus ja hem dit que era la patologia cardiovascular que més ens equivoquem.
+Em sembla que he dit el quaranta i pico per cent dels ictus que venen amb simptomatologia de mareig o vertigen, ens equivoquem.
+I tenim eines que això ho eliminen gairebé al cent per cent, que és el protocol HINTS, que ja en l'episodi no sé què el vam explicar, el protocol HINTS.
+Jo entenc que no és fàcil, que necessites experiència, que necessites fer-lo cent vegades.
+I bé, si ens hem de centrar en algo que formar els professionals, dediquem-hi temps, hores i recursos en formar-nos amb aquesta eina, que és millor que una ressonància, això.
+I és gratis. I si tens experiència, tardes tres minuts en fer-ho. I no té efectes secundaris per al pacient.
+També hauríem de tindre formació específica en biaixos.
+Saber que aquests biaixos que he comentat i que n'hi ha més, que tothom tingui consciència de que existeixen, que no som infal·libles.
+Que encara que ens sembli que som multitasca i que tenim superpoders, el cervell és el cervell i el cervell té biaixos perquè utilitza dreceres mentals, perquè si no la vida seria insuportable.
+I fem aquestes dreceres mentals, però aquestes dreceres mentals tenen biaixos.
+I per tant, com a mínim tindre consciència, formar-nos, perquè tothom sigui conscient que això existeix.
+Per tant, si saps que existeix i saps que tu també fallaràs. Doncs bé, en algun moment que estiguis cansat, que estiguis estressat, que t'estiguin interrompent mil vegades, hòstia, pues deixa'm parar tres minuts, penso, tal, això.
+Què més? En temes de simulació, podríem fer simulació, per exemple, per reconeixement de patrons diagnòstics.
+Moltes patologies les diagnostiquem perquè tenim experiència i tu, sense preguntar-li res al pacient, només mirant-lo tres segons ja veus que allò és un còlic nefrític.
+Això és perquè moltes decisions que prenem les prenem perquè veiem un patró. Veiem una foto i diem això és això, perquè ho hem vist mil vegades.
+Doncs això està bé, però sapiguem que en això ens podem equivocar.
+Què més?
+Volia dir dos coses importants que podem fer.
+Una és la pausa diagnòstica, és a dir, almenys en aquestes quinze patologies importants d'alt risc d'error, fer una pausa abans de donar l'alta.
+Per preguntar-te tu mateix, hi ha alguna cosa en aquest pacient que no m'encaixi?
+Hi ha alguna dada de l'anamnesi, de l'exploració, de les proves complementàries, que no encaixi amb el meu diagnòstic diferencial?
+En aquest diagnòstic diferencial hi ha alguna patologia greu que no em puc permetre equivocar-me?
+Hi ha alguna dada discordant amb tot això?
+Jo penso que és no sé què, però per què li han sortit vint mil leucos en el hemograma? Això és estrany.
+Puc pensar per què tinc una dada discordant? Doncs abans de donar-lo d'alta, com a mínim, només pensar-hi.
+Després ja veuràs si has de prendre alguna decisió o fer alguna cosa més o el que sigui, però com a mínim pensar-ho.
+Això és una pausa diagnòstica.
+Després hi ha una altra cosa que en anglès en diuen el safety netting, que és com una xarxa d'aquestes dels funàmbuls, que si caus no caus a terra directament, sinó que caus a sobre d'una xarxa que impedeix que et matis.
+Doncs això és una cosa que s'ha de fer al moment de donar-li l'alta.
+Això és el que parlàvem al principi, Adriana, que en el pacient se li ha d'explicar el grau d'incertesa diagnòstica, si existeix aquesta incertesa diagnòstica, li has d'explicar quina és l'evolució que tu esperes que aquella malaltia tingui.
+És normal que encara tingui febre, però d'aquí dos, tres dies ja hauria d'estar sense febre, hauria d'estar cada vegada millor, hauria de tolerar millor la ingesta, etcètera, etcètera, etcètera.
+Quins són els signes d'alarma concrets, no dir-li si es troba pitjor, vingui. No, no.
+Donar-li pautes de dir si passa això això, ens ha de vindre a veure.
+I escriure-les en el informe.
+Exacte, escriure-les, perquè potser el pacient en aquell moment està atabalat, nerviós i tal, que és el més normal, però després a potser això s'ho pot llegir el seu fill, el seu pare, qui sigui i ja ho té escrit.
+Doncs amb aquestes pautes d'alarma, dir-li quan ha de tornar i a on ha d'anar, si té no sé què, pot anar al centre d'atenció primària i que li posin analgèsia, o que li mirin la ferida, que estigui bé.
+Però si té febre i calfreds, vingui directament a un centre hospitalari.
+O sigui, li has de dir quan i on ha d'anar en cas que hi hagi un signe d'alarma.
+I explicar-li el tema de resultats pendents, no?
+Moltes vegades deixem algun cultiu pendent, alguna analítica de sang que potser el teu laboratori tardaran dotze hores, vint-i-quatre hores en donar-te el resultat. Doncs això, deixar-ho lligat.
+Per tant, aquesta eina de comunicació, aquesta xarxa de seguretat que si alguna cosa falla, que el pacient sàpiga que allò era una opció.
+I ja sap que tu li has dit que si això passa dintre d'un marge de temps, ha d'anar aquí o allà i evitarem desastres majors.
+Altres coses que podríem fer, que estaria molt bé, és circuits de feedback.
+Imagina't tu que hi hagués un sistema informàtic que fes un monitoratge de les re-consultes dels teus pacients a les setanta-dues hores.
+I et diguessin Adriana, aquest mes has tingut tres pacients que els hi vas donar tu d'alta amb aquest diagnòstic i a les setanta-dues hores han tornat, van ingressar i no sé què.
+El diagnòstic és aquest. No per culpabilitzar, eh?,
+però almenys perquè tu tinguis un feedback de dir, hòstia, no era conscient que això passés amb aquesta freqüència, o no m'ho hagués imaginat, i després tu pots revisar el cas i dir, retrospectiu, eh?,
+que és molt fàcil, després de dir hòstia, si li hagués demanat això, si li hagués vist no sé què, això és molt fàcil, però aquesta informació podria ser important.
+Que hi hagués un monitoratge informàtic, automàtic.
+Per exemple, quan tu ingresses un pacient, amb el diagnòstic que li ingresses i amb el diagnòstic que li donen d'alta al cap d'una setmana, per exemple.
+Que quan hi hagi una divergència suficient, t'arribi un missatge que digui: hi ha aquests quatre pacients que ha passat això aquest semestre.
+A nosaltres, per exemple, ens ho fan amb les prescripcions d'AINEs i d'alguns antibiòtics en la infecció d'orina, ens ho envien cada semestre o així ens en diuen:
+Xavi, el noranta-sis per cent de les prescripcions d'AINEs has fet servir ibuprofèn i no sé què més, que són els recomanats.
+Doncs si me diguessin els errors diagnòstics que jo faig i pacients que tornen al cap de setanta-dues hores o pacients que els donen d'alta de l'hospital que jo els he ingressat i me diguessin allà on haig de millorar, potser...
+A nosaltres sí que mos entra en el circuit, per exemple, el percentatge de pacients que ingressem al mes i les re-consultes.
+Sí que tenim unes estadístiques individuals i per equip per a mirar-ho.
+Ah, o sigui individuals també?
+Sí, el nostre cap mos passa una vegada cada dos, tres mesos i mos ensenya les estadístiques del percentatge de pacients que hem ingressat, si està ben indicats o no.
+I hi ha un metge documentalista que passa tots els informes mensuals amb els diagnòstics,
+i, de fet, s'ha fet una proposta que començarà en octubre, que no sé si aplegarà a materialitzar-se, que és fer com una agenda comú per a tots estos pacients que a lo millor en tens dubte i vols recitar-te 
+com a metge a nivell personal, perquè n'hi ha una alteració d'una analítica que a lo millor no justifica un ingrés, però tampoc saps si des de primària podrà fer-se una continuació assistencial, perquè desgraciadament tenim molta demora. 
+Tu pots recitar-te'l, que això sí que ho fem nosaltres, però clar té que triar-se una altra vegada i consta com una re-consulta, sinó fer com una agenda, igual que quan fem una medicació intravenosa durant pocs dies i sí que se pot fer des d'urgències, fer-ho des d'allí.
+Això està molt bé, però jo no sabia que això es fes. Està molt bé.
+No sé si és només del meu servei o es fa a tots els hospitals de la Comunitat Valenciana, però jo crec que te dona... Te ajuda a veure on a lo millor tens que estudiar més, on falles més...
+i és un feedback perquè al final, si no tu vas treballant de forma autònoma i si ningú te corregís, tu penses que ho fas tot bé i a lo millor hi han cosetes que se pot millorar, que no vol dir que ho facis mal, sinó que pots millorar en eixa part.
+I tu creus que això... La gent de forma generalitzada aquesta informació la rep bé o la rep com si fos una cosa punitiva?
+Sí, intenta fer d'una forma bé, però jo crec que tots ens sentim un poquet jutjats, però crec que té més a veure amb una qüestió de de com mos prenem la informació que mos donen per a millorar.
+Crec que això té que veure més a nivell personal.
+Però no se fa de forma punitiva, i jo crec que això deuria enviar-se al correu corporatiu amb els informes a lo millor trimestres de les coses que podries millorar o... 
+Jo crec que no t'hauria de prendre's com una cosa roïna, sinó com un punt a millorar i com a seguretat del pacient, que és lo més important. 
+Sí, sí, sí, està bé, està bé, molt bé.
+M'alegra que tingueu aquesta eina, ja li diré als meus caps que parlin amb vosaltres.
+Val, una altra cosa que podríem fer, formació. Ja sempre en fem, però potser més dirigida a unes habilitats concretes.
+Per exemple, això que dèiem del HINTS, un tema d'anamnesi i d'exploració física que ens poden ajudar en aquestes quinze patologies.
+Tindre més clar el tema d'interpretar les proves diagnòstiques.
+I amb això em refereixo, per exemple, a conèixer els conceptes estadístics, més o menys, del que és una probabilitat pretest, 
+saber el que és les raons de versemblança... Quan tu tens una prova que és sensible o específica, saber exactament què significa, si t'ajudarà per descartar la malaltia, si t'ajudarà per confirmar-la. 
+Que potser quests conceptes estadístics, metodològics i tal, de vegades no els tenim frescos del tot.
+Aprendre d'aquestes patologies, a reconèixer presentacions atípiques.
+Saber reconèixer, doncs això, com ve un pacient amb una clínica subtil que no et quadra amb res, que dius hòstia, doncs això pot ser un ictus, pot ser un infart, pot ser una dissecció.
+Que hi pensis, en cada una de les patologies, quina és la simptomatologia atípica que més et pot ajudar o més pots arribar a reconèixer.
+Saber integrar dades discordants del pacient, la informació per tindre eines per poguer resoldre dubtes, consultar, saber en el teu àmbit de treball, el teu centre, doncs saber qui pots consultar, quan pots consultar.
+I ja està, en definitiva, la meva finalitat d'aquesta xerrada era recordar o que la gent sigui conscient que els errors de diagnòstics són d'una magnitud i d'una rellevància molt important, més de la que ens pensem.
+I que tenen efectes per la salut dels pacients importants, que no només en l'error de diagnòstic, que hauríem de pensar ja en seguretat diagnòstica, 
+no només és posar una etiqueta, sinó que és tot un procés longitudinal i que no només hi intervé el metge, sinó que està involucrat el pacient, el metge, l'equip, el sistema i tota l'organització del servei.  
+Que hi han unes quinze patologies que són amb les que ens hem de centrar i tots els esforços que fem, si els centrem en aquestes quinze patologies, anirem millor, 
+i que intentem començar a incloure alguna d'aquestes eines que hem dit, que algunes són més fàcils, algunes més difícils, però que tenim algun recurs perquè això millori una miqueta. 
+Molt bé.
+Doncs moltes gràcies.
+No sé si teníem alguna cosa...
+D'això, Xavi, jo tinc un cas de l'última guàrdia.
+Que encara no es pot considerar error, perquè encara no tenim el cateterisme, però va entrar per la porta amb un electro que dius ja està.
+Aquí jo em vaig posar nihilista perquè vaig dir amb aquest electro la cagarem.
+Probabilitat pretest de tenir un IAM, totes.
+El electro no complia criteris d'elevació de l'ST, però allò que deies que reconeixem patrons, doncs tenia un patró d'aquests de s'està infartant.
+Les primeres troponines normals, les segones troponines, aquesta és d'escàndol...
+Tenim la nova troponina I, que algú m'haurà d'explicar perquè jo no sé la cinètica que té.
+És positiu a partir de quaranta-cinc. Doncs la segona troponina quaranta-quatre amb noranta-cinc. Això és un acudit, no pot ser, home.
+I a la tercera ja li va sortir cent seixanta, llavors au, correm-hi tots, i com que l'electro, patates.
+No va canviar l'electro?
+No prou.
+Però vosaltres no feu lo del delta d'una hora? És a dir, si puja més de cinc...
+Ja quan la segona ja va sortir malament ja ens vam començar a bellugar. La tercera va ser de regal.
+Ah, val.
+Però, és clar, el que deia el Xavi de tots els errors tenen una qüestió de sistema. Jo encara aniria a més. En aquest cas concret, que també l'has parlat abans, no?
+Que l'IAM no sé què, hi ha fins i tot un error que ja es gesta abans que es produeixi, que és amb l'educació, que és que clar, si ensenyem una cosa malament, doncs el resultat serà dolent.
+I amb el cas dels infarts, quan ensenyem coses d'electrocardiografia, doncs ens descuidem, ometem o expliquem malament coses, i llavors el resultat, doncs és aquest.
+Segons com, no es pot considerar un error, en aquest cas meu, perquè es va fer el que s'havia de fer, però resulta que el resultat és dolent quan sabem que podria ser un altre.
+Home, però es va retardar el diagnòstic.
+Clar, depèn, depèn, perquè en aquest cas entraríem en l'espiral de és una síndrome coronaria aguda sense elevació de l'ST, ja, però està infartat.
+Llavors aquí l'error comença en el moment que existeix, hi ha un diagnòstic que ja com a diagnòstic ja és dolent, no?
+Però sí, aquí el que deies dels biaixos surten uns quants, quan explicaves les causes de l'error en surten unes quantes, no?
+I d'aquests en veiem, i és una de les quinz patologies importants que has dit.
+I nosaltres aquí posem el nostre granet de sorra per intentar reduir aquests errors.
+Penso, Albert, que no n'has parlat prou en aquest pòdcast dels patrons electrocardiogràfics. Ens hauries de fer uns...
+Joder. Estava per canviar-li el nom i tot. En fi.
+Vinga, que ens hem allargat una burrada, perquè això de ser tres pot ser molt interessant, però el tema d'allargar-nos em sembla que això no ho arreglarem.
+Ho tindrem que corregir.
+Sí, no sé jo, la tisora aquesta vegada haurà d'anar a lo bèstia.
+Va, anem a lo següent.
+Què tenim ara, què tenim?
+La següent secció és el Menys és Més, que la gent no en té prou, vol que seguim fent-lo.
+Sí que és veritat que en fa un parell de temporades vam ampliar una miqueta el contingut del Menys és Més, n'hi seguim dient Menys és Més, però a part de les recomanacions de no fer
+i hem afegit també els mites, mites de la medicina d'urgències i coses que fem que no tenen una base adequada, que no es basen en cap evidència, però que les seguim fent.
+I jo us en porto un, és actualitat, actualitat.
+També veu dir que volíem que parléssim de coses d'actualitat, doncs té actualitat, que això és una publicació que han fet a la revista Emergency Medicine Clinics of North America d'aquest agost, té un mes, no arriba.
+Hem hagut de moure cel i terra per aconseguir l'article. Que si algú vol que ens el demani perquè no està disponible en les formes habituals de no pagar.
+Això és un número especial sobre mites i malentesos en la medicina d'emergències.
+En aquest número especial, els editors són dos d'aquests que surten a tot arreu, d'això de FOAMed.
+Hi ha el Kenneth Milne, que és l'editor de The Skeptics' Guide to Emergency Medicine, aquest pòdcast que publica setmanalment, que està molt bé.
+Hi ha el Swani, que també està a trenta mil llocs diferents. Aquests són els editors.
+Jo us vull parlar d'un dels articles que publiquen en aquest número especial.
+Tots són interessants, però aquest en concret l'he triat per avui, que és el mite que diu que no podem donar cefalosporines en pacients al·lèrgics a la penicil·lina.
+No sé si això ho havíeu sentit mai.
+Sí.
+Si algú és al·lèrgic a la penicil·lina, no li pots posar una cefalosporina, que és una altra família d'antibiòtics, en teoria.
+Doncs aquest mite ve de fa molts anys. Es considerava que hi havia un risc de reacció encreuada d'aquestes substàncies. Estic parlant, doncs, de l'any setanta-sis.
+En principi s'especulava perquè les penicil·lines i les cefalosporines, en la seva fórmula química, comparteixen una estructura, que és l'anell beta-betalactàmic,
+que jo no tenia ni idea de què era això, i això des de, ja us dic, des dels anys setanta, però ja a mesura que anem venint més cap al moment contemporani, doncs ja es va veient que això no és tan així. 
+Ja el 2009 l'Acadèmia Americana d'Al·lèrgies Asma Immunologia deia que sí, que podia haver-hi un risc, però només amb aquells que hagin tingut reaccions a la penicil·lina severes.
+Si ja venim més cap aquí, tenim una metaanàlisi del 2019 que calcula, no tinc massa clar com ho han fet estadísticament, perquè tampoc hi entenc, 
+calcula que el risc d'aquesta reacció encreuada pot anar des del zero al catorze per cent si fem servir cefalosporines de primera generació, no sabia quines eren, hem anat a mirar.
+Per exemple, la cefazolina o la cefalexina, que ja no les fem servir gaire, i aquest risc de reacció encreuada va baixant, i si agafem la cefalosporina de quarta generació, que em sembla que hi ha la cefepima i no sé si n'hi ha algun altre, doncs el risc aquest ja és del 0,31%.
+O sigui ja és un risc absolutament ridícul de reacció encreuada.
+Si això anem a mirar-ho a pràctica real, aquests senyors de la metaanàlisi feien uns càlculs i deien que en persones que diuen que són al·lèrgiques a la penicil·lina el risc és d'un 0,6%.
+I en persones que l'al·lèrgia està confirmada és d'un tres per cent.
+I aquí vaig a un tema que és que, especialment la gent de més de quaranta, resulta que a la infància, moltíssima gent era al·lèrgica a la penicil·lina, 
+perquè en algun moment que ens havien punxat penicil·lines, per angines o pel que fos, ens havien fotut vermells com pebrots. 
+I es veu que això no és necessàriament una al·lèrgia, de fet la majoria no ho eren, sinó que tenia a veure amb com es preparava la penicil·lina a punxar i la reacció que feia.
+O sigui que moltes d'aquestes reaccions al·lèrgiques a la penicil·lina no són certes.
+Per què és rellevant això?
+Si n'hi han molts d'antibiòtics, doncs si no fem servir aquest, en fem servir un altre.
+Bé, doncs no és ben bé així.
+És a dir, primera, que no hi ha cap antibiòtic que no tingui els seus riscos i de fet, alguns antibiòtics que no són cefalosporines tenen més efectes adversos que les cefalosporines.
+La teicoplanina, per exemple, que és un antibiòtic bastant modern, doncs fa més anafilaxis que no pas les cefalosporines i, carai, que al final, si l'antibiòtic que necessites per la teva infecció és una cefalosporina, doncs aquest és el bo.
+Si agafes un alternatiu, doncs no és tan eficaç, no funcionarà tan bé.
+Llavors què hem de fer?
+Perquè, clar, d'una banda estem dient que hi ha un risc baix, però que alhora hauríem d'intentar posar l'antibiòtic que toca, no?
+Una primera intervenció que recomana aquest article, no és nostra, però és important, és desetiquetar les al·lèrgies a la penicil·lina.
+Una manera de fer-ho és vas a l'al·lergòleg que et faci les proves, però és que ja no cal ni això.
+Hi ha unes eines, això sembla que n'havies parlat tu, pot ser, Xavi?
+Hi ha una eina, PEN-FAST que tu fas tres o quatre preguntes i et dona uns càlculs de risc que diu, pues si aquest tio és al·lèrgic o no és al·lèrgic.
+Aquesta és una eina, penso que és potser més atenció primària que la nostra, però bé, sapiguem que existeix, no?
+Clar, si nosaltres tenim el pacient davant i hem de decidir si li fotem o no li fotem cefalosporina, una de les coses que proposen és, 
+si la persona no ha tingut una reacció al·lèrgica important a la penicil·lina, el que podem fer, i hi ha moltes experiències prèvies, és posar una dosi de cefalosporina davant nostre,
+que si la persona en qüestió fa l'al·lèrgia, doncs ja estàs allà per treballar-hi. Si aquesta persona doncs tolera bé aquesta primera dosi de cefalosporina, doncs endavant.
+Si la persona ha tingut una reacció al·lèrgica important prèviament a la penicil·lina, doncs potser aquest és el que si la cefalosporina que toca donar-li és de primera generació, 
+que em sembla que hi ha poques indicacions deu haver-hi, doncs potser en aquest sí que és en el que hauríem de canviar d'antibiòtic. 
+És a dir, ja hem passat d'aquest mite que diu no donem cefalosporines quan el pacient és al·lèrgic a la penicil·lina, cada vegada anem acotant més i ara ja veieu que queda en: 
+Si realment és al·lèrgic a la penicil·lina el pacient i la cefalosporina que volem donar és molt antiga, potser sí que en aquest ens ho pensem, amb els altres no cal. 
+Doncs ja està, aquest és el meu Menys és Més. No sé si hi ha algun comentari més, si no anem a la següent secció.
+A la següent secció també ens han dit que la volen seguir sentint.
+La farem una miqueta diferent, perquè si hem d'estar explicant... Posarem unes quantes parauletes perquè ens venen de gust posar-les i ja està.
+Adriana, va, que tu ens n'has triat alguna que m'ha fotut molta gràcia. Que a mi m'agrada molt aquesta secció sempre.
+Sí, jo vaig a dir algunes parauletes que pareixen més paraulotes. Algunes les he ficat perquè m'ha fet gràcia, no tenen molt a vore en este episodi.
+Començaré en la que més gràcia m'ha fet que no la coneixia, també està la versió en castellà, que és igual, que és la blennorràgia.
+Sabeu lo que és la blennorràgia?
+Blennorràgia, a més a més veig que dues enes, eh?
+Blennorràgia. Valga'm Déu. No ho sé, hauré de buscar-ho, perquè no sé què és això.
+El seu sinònim seria catarro veneri o uretral, que també m'ha fet prou gràcia.
+Catarro uretral?
+O veneri.
+Veneri ja... Em començo a fer una idea per on va.
+Doncs és la malaltia infecciosa provocada pel bacteri Neisseria gonorrhoeae.
+Generalment, pues se transmet per contacte sexual i és lo que diríem que és una gonorrea, una uretritis gonocòccica.
+Se diu també blennorràgia.
+Blennorràgia.
+Fa menys por. Bé, no ho sé.
+L'altre que també és curioseta és gotornons.
+Goto què?
+Gotornons.
+Ah, gotornons...
+Aquesta no sé si l'haureu fet servir.
+Jo no i me l'apunto com a paraula maca. Aquesta és una paraula d'aquestes, quan preguntin quina paraula t'agrada més en català, en comptes de dir xiuxiuejar, mira, aquesta me l'apunto.
+En sorprendrem a més d'un.
+El seu sinònim seria galteres o parotiditis, que al final és la inflamació de la paròtide i resta de glàndules salivals, encara que també pot afectar a pàncrees i testicles.
+Seria la paraula adequada en lloc de paperes, que és un castellanisme.
+Ah, gotornons, molt bé, a mi també m'agrada molt.
+Gotornons.
+Sí, sí, és molt xula.
+Després... Doncs seguint aquestes malalties infeccioses, pues vaig a parlar de la distenta.
+Distenta, distenta?
+Eixa també l'heu feta servir o no?
+No, no sé què és, no sé què és.
+Aquesta em sona d'haver-la llegit, igual surt el llibre aquell d'ensenya'm la llengua? Perquè em sona la paraula, però no, evidentment no la recordo.
+Tampoc en tenim molts casos a l'any, però seria la tos ferina.
+Ah, vale.
+Mira.
+La malaltia infecciosa causada per Bordetella pertussis, que provoca eixa tos tan característica que és espasmòdica, amb eixe gall inspiratori forçat.
+Sí, sí, molt bé.
+Per sort no en tenim molts al cap de l'any.
+Em sembla que hi va haver una temporada, no sé si va ser postcovid i tal, que vam tenir una patacada, que va haver-hi... 
+Sí.
+Va ser...
+Sí, es va fer un avís epidemiològic, és cert.
+Després, mira, vaig a donar una paraula que té una varietat valenciana també, que són els penellons en català més oriental i prunyons en la varietat valenciana.
+Sabeu de lo que parle?
+Sí. 
+Fa molt temps que no em veig, jo, això. Això es nota que anem més abrigats que abans, eh?
+O fa menys fred, no?
+Sí.
+També, també.
+També és veritat.
+La inflamació típica al voltant de les zones acres, que el castellanisme típic serien els sabanyons.
+Però que la forma correcta de dir-ho és lo que he dit, penellons o prunyons a la varietat valenciana.
+N'hi ha també una varietat mallorquina que no me'n recorde com es diu, però és curiós.
+Doncs això és feina dels nostres oients de les Illes que ens diguin aquests penellons... 
+Com ho diuen ells.
+Com ho diuen ells, que també és molt interessant.
+Jo fa molt temps que no en veig, eh? Això ara mateix ja no és només la paraula, ja és gairebé la cosa.
+És veritat, eh? Crec que no fa molt de fred en cap part del nostre territori com per a veure, ara veurem les complicacions de la calor.
+Exacte, sí.
+Sí, això ja n'estem veient unes quantes, sí, sí.
+I ara vaig a fer una pregunta, a veure com ho diríeu vosaltres.
+Com és el terme exacte de la compressió dels cossos vertebrals que es produeix típicament quan tenim una osteoporosi?
+Com digueu que es diu eixa patologia? Com l'escolteu habitualment?
+Jo que sé, un acunyament vertebral, ho sento dir sovint.
+Jo n'hagués dit aixafament vertebral, no sé.
+Sí, efectivament, la forma correcta és aixafament vertebral i no compressió, aixina que la la forma correcta tindria que ser aixafament vertebral.
+Aquesta la deia bé, aquesta la deia bé.  Aixafar, aquesta l'has de dir, home.
+Jo no la deia bé, aixina que una coseta més a aprendré.
+A més, faràs servir aquesta x perquè així molestes, aixafar.
+Sona bé, sona bé, sona bé, m'agrada.
+Molt bé, molt bé, està guai.
+A més, si apitxes com jo, que serà aixafament vertebral.
+Estes són les meves paraules.
+Molt bé, molt bé. Hòstia, blennorràgia.
+M'encanta.
+Hosti tu, catarro uretral, encara estic esmaperdut per això.
+Jo crec que no tindrà ni CIM-10 ni... Però vaig a utilitzar-lo quan puga.
+Molt bona. Bé, desgràcia haver-la de fer servir amb algú, oi? Però en fi.
+Molt bé. Escolta, hem anat prou de pressa.
+Això ens dóna temps a poder-ne fer una altra, una altra secció que el Xavi ens va proposar i que vam demanar en aquestes votacions del Telegram, 
+que era parlar de guies clíniques que, bé, volíeu que parlessim d'actualitat, però el Xavi volia parlar de guies clíniques d'aquestes que hi han, que són importants. 
+I com que això pot ser molt llarg, llavors vam dir, escolta, fem un resumet ràpid.
+I resulta que jo us en porto una, que va sortir, això ho estem gravant el trenta d'agost, això va sortir el vint-i-vuit d'agost.
+Més actualitat no pot ser, doncs han sortit... Aviam que ho digui bé, és la cinquena definició universal, aviam...
+Cinquena definició universal de l'infart de miocardi del 2026, ja us podeu imaginar que vaig estressat perquè porto dos dies i encara no l'he pogut llegir, però no me n'he pogut estar i l'he mirat en diagonal. 
+Jo puc dir només dues coses que són les que he vist en diagonal.
+La primera és que la definició en si no canvia, és a dir, l'infart de miocardi segueix sent aquesta patologia en què hi ha una necrosi d'una part del múscul cardíac, del miocardi, 
+que ve determinada per la simptomatologia i la presència de biomarcadors que pugen i baixen i tot el rotllo. 
+Els que sí que canvien són els tipus.
+Recordeu que en la quarta definició de l'infart de miocardi hi havia el tipus 1, que era el que a mi m'agrada especialment, 
+que és el que entenem tots, que és que hi ha una obstrucció, normalment la placa d'ateroma que es trenca, i per darrere d'aquella obstrucció d'una artèria doncs hi ha una mort miocardíaca. 
+El tipus dos, que és el que es produeix per aquest disbalanç entre la demanda d'oxigen i l'aport.
+Si ho volguéssim agafar en termes d'elèctros, un seria l'elevació de l'ST i l'altre seria l'infart sense elevació de l'ST, però ja sabem que això no funciona així, 
+que hi ha infarts sense elevació de l'ST que són tipus u i elevacions de l'ST que no són ni infart. 
+Llavors teníem el tipus tres, que era el que et mories abans de que se't pogués diagnosticar, i el tipus quatre i el tipus cinc, que no recordo quin és quin, que són els que estan relacionats, un amb cirurgia cardíaca i l'altre amb cateterismes.
+Doncs bé, això ha canviat.
+Ara només tenim tres tipus d'infarts, segons aquesta cinquena definició, l'infart miocardíac primari.
+Aquest és el que es presenta de forma espontània per una obstrucció, ja sigui per una placa d'ateroma, que és el més habitual, o altres patologies, com poden ser una dissecció d'artèria coronària, o un vasoespasme, o alguna cosa així.
+O sigui, aquí ja veiem que el que abans era l'infart tipus u, ara passa a ser aquest infart primari, amb algun afegit per aquí darrere d'aquestes altres causes diguem-ne, d'obstrucció.
+D'acord.
+Llavors tenim, si un és primari, doncs el següent serà l'infart miocardíac secundari.
+I aquest el defineixen com és el que està produït per una condició aguda, molt important lo d'agut, en què hi ha aquest disbalanç entre demanda i oferta d'oxigen, 
+ i que això, aquest disbalanç, mostra l'obstrucció coronària prèvia.
+És a dir, no tens perquè estar del tot tapat. Si tens una estenosi, jo què sé, una estenosi del vuitanta per cent de la coronària dreta.
+Doncs quan tu tens un moment en què el teu territori regat per la coronària dreta demana més oxigen del que li arriba, doncs tindràs aquest infart miocardíac secundari.
+Pel poc que he llegit així en diagonal, diagnosticar aquest secundari obliga a tenir una causa d'aquest disbalanç. Això també em sembla interessant.
+Quan ho hagi llegit amb més interès, potser ja en parlem. És a dir, no és només agafar i dir com que no és l'altre, serà aquest. No cony, has de tenir una causa que produeixi aquest disbalanç.
+I quan tens aquest disbalanç, doncs clar, pot ser territorial en el moment en què dius ep, és que hi ha un tros de territori que com que està més estenosat que un altre, sense estar tapat del tot, doncs aquest pateix més que un altre.
+Albert, sí que requereix que la coronària ja estigui prèviament no sana?
+No necessàriament, però això que m'estàs demanant, ho he llegit en diagonal, no us en refieu gaire.
+Escolta'm, si algú se l'ha llegit i ja se l'ha estudiat i l'ha presentat i tot plegat, escolta'm, estalvieu-nos la feina, veniu-nos-ho a explicar vosaltres, home.
+Bé, i l'últim tipus, que seria si hem fet primari i secundari, doncs aquest tocaria... Efectivament, és el relacionat amb procediments.
+Hem dit abans doncs que eren el quatre i el cinc, doncs aquí els han ajuntat en un de sol, que és la complicació immediata que es produeix després d'un bypass o d'una cateterització.
+Immediatament, o fins a trenta dies.
+Això és la part, aquesta primera, la que més m'ha cridat l'atenció.
+Després de seguida vaig anar a mirar el tema de com considera que es pot diagnosticar electrocardiogràficament un infart primari.
+I aquí ja no m'ha agradat tant, perquè encara surten elevacions de l'ST, surten moltes coses.
+Me l'hauré d'estudiar amb la ment més oberta, perquè em sembla que aquesta part no acaba de tirar.
+Això ho deixo per explicar-vos-ho quan s'escaigui, o per escoltar-ho quan ens ho vingui a explicar algú altre.
+Doncs aquí acabem. Jo ja estic i he anat molt de pressa. Estic content.
+Vale, doncs faltarà la recomanació de l'episodi, que vaig a estrenar-me jo també.
+Sí, perquè ja que hem acabat aquesta secció nova, molt bé, va.
+Recomanació de l'episodi, això ho hem canviat també una miqueta. Va, explica'ns, Adriana.
+Jo vaig a recomanar un altre pòdcast i té que veure amb la medicina i la infermeria, però realment no únicament de les urgències.
+Vaig a parlar sobre un pòdcast que es diu Historias de la medicina, que ja té uns anys. O sigui, vaig a recomanar una cosa que ja tindrà cinc o sis anys.
+Que no ha sigut molt conegut és un pòdcast sobre història de la medicina, avenços terapèutics, les grans plagues mundials
+i va eixir fa uns anys la recopilació d'aquest apartat al programa de ràdio la mecànica del cargol d'EITB que és la ràdio del País Basc i del museu basc d'història de la medicina i la ciència. 
+En aquest pòdcast, la periodista Eva Caballero i l'investigador i metge Adrián Hugo Aguinaldo parlen dels principals avanços de la història de la medicina 
+i van explicant diferents malalties que ja pràcticament formen part de la nostra història i que alguna ja està erradicada. 
+Expliquen també l'evolució de les diferents pràctiques mèdiques, des de l'inici de les trepanacions o les intervencions per tractar òrgans malalts, 
+l'ús de col·liris oftalmològics i totes les coses que envolten estos processos. 
+Al final, des de l'inici de la medicina, parlem d'una pràctica esotèrica, màgica i místico-religiosa, fins que es va convertir en una disciplina científica.
+Aleshores n'hi han històries increïbles, com la creació i mobilització de les vacunes mitjançant l'expedició espanyola dels xiquets orfes de la Corunya, 
+que van ser inoculats amb la verola vacuna de la pigota i com això va fer que s'acabara erradicant aquesta malaltia. 
+Són històries molt curioses, a mi m'ha agradat moltíssim.
+Si ho busquem, està a Ivox, Spotify, en la mateixa pàgina web de la ràdio, i és Historias de la medicina.
+Això de l'expedició aquesta és el de la Zendal, de la Isabel Zendal, de la vacuna de la verola, i la va portar cap a...
+Bè, ara no me'n recordo.
+No me'n recorde.
+Ho he d'escoltar-ho. No, no, no, no facis espòiler, ja ho escoltaré.
+Escolta'm, les recomanacions ara és quan tothom llançava les altres, que per tant hauríem de fer tres. Hem dit que no, que en farem només una.
+Jo sí que no me'n puc estar, per això, ho sento. És perquè has fet una recomanació d'història de medicina i tenim aquesta secció de l'UrgemMot que parlem de llengua.
+Al meu centre vam tenir, ara ja ha marxat, va anar a la Universitat Catalana d'Estiu a Prada. Ara em sembla que baixa a Barcelona, a la Corachan.
+Vam tenir una exposició que ha fet la Societat Catalana del Diccionari Enciclopèdic de Medicina, per celebrar els noranta anys del Diccionari de Medicina del Doctor Corachan.
+És una exposició, uns quants plafons, és interessant, a mi em va agradar força.
+De fet, em sembla que t'ho vaig comentar, Adriana, surt el teu hospital en aquesta exposició.
+Perquè el doctor Alcanyís, em sembla que era oriünd de Xàtiva, o com a mínim de la vora, també hi surt, perquè també va escriure cert manual sobre la pestilència l'any no sé quin, ja fa bastants segles, en català.
+Us ho dic perquè aquesta exposició la tenen de gira, ara.
+Sé que va a la Clínica Corachan, va a Andorra, després em sembla que va al Col·legi de Metges de Barcelona, i després se'n va fins a Alacant, i no sé on més la portaran.
+Vull dir que si teniu oportunitat us arriba a la vora i podeu anar a veure aquesta exposició dels noranta anys del Diccionari Medicina del Doctor Corachan, veureu que ja des de fa temps antics hi havia gent fent coses amb el català.
+I no me n'he pogut estar de recomanar-ho, perdoneu, només n'havia de fer una, però goita, n'ha caigut una altra, tu. Perdoneu-me.
+I quant de temps l'heu tingut a Puigcerdà? És una cosa que està una setmana o...?
+No, està un mes i escaig, sí, sí.
+De fet, escolta'm, si teniu tracte amb els departaments de comunicació dels vostres hospitals, els hi podeu anar a picar a la porta perquè per quatre duros us la porten i la teniu allà i fem bullir l'olla.
+Perquè es vegi que hi havia coses en català fa bastant temps.
+Molt bé, fantàstic.
+Doncs escolta'm, ja hem acabat aquest primer episodi, la sisena temporada.
+Hem tingut problemes tècnics per avorrir. Se'ns ha allargat una barbaritat, ho anirem millorant. No sé com acabarà quedant això, però ho anirem millorant.
+Tindràs molta feina, Albert, aquest episodi.
+Tindré feina, sí, sí, sí.
+Escolta, esperem les vostres opinions. Tenim el grup de Telegram, que no ho hem dit al principi, he anat bastant de pressa.
+Som cent cinquanta, faltes tu, que ens estàs escoltant ara per primera vegada, després de veure que som tres persones, diverses, no som uns senyoros dient barbaritats, estem molt contents.
+Va, expliqueu-nos què us ha semblat i...
+Sí, sí, molt bé, molt bé.
+I no ho sé. Ens veiem a la propera, va.
+Fins al pròxim.
+Doncs fins a la propera. Moltes gràcies.

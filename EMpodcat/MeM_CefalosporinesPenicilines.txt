@@ -1,0 +1,19 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat
+En aquest Menys és Més us porto un altre mite de la medicina d'Urgències.
+Aquest mite l'he trobat en un monogràfic que s'ha publicat justament sobre mites de la medicina d'Urgències, aquest agost del 2026, a la revista Emergency Medicine Clinics of North America.
+El mite del que us vull parlar és el que diu que no hem d'administrar cefalosporines en pacients al·lèrgics a la penicil·lina per un suposat risc de reacció al·lèrgica encreuada entre aquests dos medicaments.
+Aquest mite ve d'antic, en l'article ens diuen que l'any 2016 ja es parlava d'això.
+I es pensava que aquesta reacció encreuada podia ser deguda a la presència d'un anell betalactàmic en l'estructura d'ambdues molècules, tant de les cefalosporines com de les penicil·lines.
+Però bé, ja el 2009 l'Acadèmia Americana d'Al·lèrgies, Asma i Immunologia rebaixava aquest potencial risc només a aquells pacients amb reaccions històriques més severes.
+En una metaanàlisi del 2019 calculen el risc d'aquesta reacció encreuada.
+Ens trobem que per cefalosporines de primera generació, com poden ser la cefazolina o la cefalexina, calculen aquest risc entre un 0 i un 14%.
+En canvi, en el cas de la cefepima, una cefalosporina de quarta generació, aquest risc ens el calculen a només un 0,31%.
+Traduït això a la pràctica real, ens diuen que només un 0,6% de persones que refereixen al·lèrgia a la penicil·lina tenen aquest risc de reacció encreuada i un 3% en les persones en què l'al·lèrgia està confirmada.
+Aquí ja tenim un dels primers problemes, i és que molta gent ha estat etiquetada d'al·lèrgia a la penicil·lina quan realment no ho és. 
+Evitar l'ús de cefalosporines no està exempt de problemes. Antibiòtics alternatius que podríem fer servir poden no ser igual d'eficaços i tampoc estan exempts d'efectes adversos com podria ser l'anafilaxi.
+I què hauríem de fer? Bé, una primera intervenció, que potser és més d'atenció primària, però que és rellevant, és realment confirmar que totes les persones que diuen ser al·lèrgiques a la penicil·lina realment ho són. 
+Això es pot fer amb proves específiques, o bé fins i tot hi ha eines de decisió com podria ser la PEN-FAST, que ens permet descartar aquesta al·lèrgia sense necessitat de fer cap prova.
+Ara bé, si tenim el pacient davant nostre amb aquesta al·lèrgia confirmada, si les reaccions al·lèrgiques que ha tingut han estat de poca importància i basant-nos en l'experiència prèvia publicada,
+podríem administrar una primera dosi de cefalosporina davant nostre i veure si realment es produeix aquesta reacció encreuada o no.
+On potser sí que ens hauríem de plantejar un canvi d'antibiòtic és en aquelles persones en què la reacció al·lèrgica ha estat important i la cefalosporina d'elecció és una de primera generació.
+En aquest cas potser ens podríem plantejar un canvi d'antibiòtic.
