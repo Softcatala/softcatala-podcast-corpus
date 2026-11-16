@@ -1,0 +1,22 @@
+Menys és Més, la secció de bones pràctiques de l'EMPodCat
+Per aquest Menys és Més us portem una recomanació relacionada amb la toxicologia.
+La trobem en el document de quinze recomanacions de no fer a urgències de la SEMFYC, publicat l'any 2016.
+És la setena recomanació d'un total de quinze i ens diu que no hem de realitzar una rentada gàstrica de forma rutinària en les ingestes medicamentoses que no compleixin els criteris d'indicació.
+És molt freqüent que els serveis d'urgències tinguem pacients amb ingesta de productes tòxics, la majoria dels quals de forma voluntària en un context d'intent d'autòlisi.
+Sovint, una ingesta massiva de medicaments.
+La rentada gàstrica és una tècnica de descontaminació digestiva que el que pretén és buidar l'estómac del tòxic que s'hagi pogut ingerir per impedir-ne la seva absorció.
+Es fa inserint una sonda gàstrica de grans dimensions, tipus Faucher, d'un diàmetre de més d'un centímetre,
+per poder aspirar tot el contingut gàstric, incloent-hi restes de comprimits que encara no s'hagin dissolt,
+i posteriorment, anar alternant l'entrada d'un líquid per aspirar després tot el contingut que hi pugui quedar.
+Posteriorment a aquesta rentada gàstrica, s'acostuma a administrar carbó activat com una altra tècnica de descontaminació digestiva.
+En cas que no disposem d'aquesta sonda Faucher, s'utilitzen sondes nasogàstriques de la mida més gran possible,
+però restes de comprimits d'una mida més gran que el diàmetre de la llum de la sonda no les podrem extreure.
+S'havia fet servir molt antigament, però la veritat és que s'ha avaluat molt poc la seva eficàcia.
+De fet, ara mateix aquesta rentada gàstrica es reserva únicament per situacions excepcionals, que són: 
+la ingesta de tòxics d'alta letalitat, que aquests tòxics siguin substàncies no adsorbibles pel carbó activat, com poden ser el liti, el ferro o les sals ferroses o alguns alcohols,
+i que el pacient estigui en una situació de gravetat, ja sigui en coma, xoc o hi hagi un gran risc de convulsió.
+A més a més d'aquesta poca utilitat per a situacions excepcionals, també té moltes contraindicacions.
+Per exemple, una cirurgia digestiva recent, o lesions conegudes gastroesofàgiques com poden ser unes varius esofàgiques,
+que hi hagi un risc d'aspiració, ja sigui per un nivell de consciència disminuït o qualsevol altra causa.
+De fet, generalment, si haguéssim de fer una rentada gàstrica, probablement hauríem de tenir el pacient intubat, prèviament.
+És per tota aquesta gran quantitat de contraindicacions i complicacions que es recomana no fer aquesta rentada gàstrica de forma rutinària i deixar-la només per aquests casos excepcionals.
